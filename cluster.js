@@ -165,7 +165,7 @@ export async function renderClusterView(type) {
 
         // --- 表頭渲染 (置頂卡片與 Tooltip) ---
         html += `<div class="flex sticky-row-header bg-slate-950 border-b border-slate-700 shadow-xl">
-                    <div class="w-[120px] shrink-0 p-4 bg-slate-950 font-bold text-slate-500 uppercase text-[13px] flex items-end">特徵指標 (子層)</div>`;
+                    <div class="w-[120px] shrink-0 p-4 bg-slate-950 font-bold text-slate-500 uppercase text-[13px] flex items-end">Feature</div>`;
 
         clusterIds.forEach((id) => {
             const stats = jsonData[id];
@@ -204,7 +204,7 @@ export async function renderClusterView(type) {
                     : info.leafKey;
 
             html += `<div class="flex border-b border-slate-800/50 hover:bg-slate-800/20 transition">
-                        <div class="w-[120px] shrink-0 p-4 sticky-col-header break-words font-medium text-slate-400 text-sm border-r border-slate-800 bg-slate-900/90 shadow-sm">${displayName}</div>`;
+                        <div class="w-[120px] shrink-0 p-4 sticky-col-header break-words font-medium text-slate-300 text-sm border-r border-slate-800 bg-slate-900/90 shadow-sm">${displayName}</div>`;
 
             clusterIds.forEach((id) => {
                 const groupStats = jsonData[id].statistics;
