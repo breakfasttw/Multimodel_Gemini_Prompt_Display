@@ -3,8 +3,13 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>🥎 Cluster Compare</title>
+        <meta
+            name="description"
+            content="Multi-model cluster analysis result demo"
+        />
+        <title>Cluster Compare</title>
         <script src="https://cdn.tailwindcss.com"></script>
+        <link rel="icon" href="./icon/icon.png" type="image/x-icon" />
         <link rel="stylesheet" href="style.css" />
     </head>
     <body
@@ -15,16 +20,18 @@
         >
             <div class="flex items-center space-x-6">
                 <h1 class="text-xl font-bold text-blue-400">
-                    Cluster Analysis
+                    <a href="#">Cluster Analysis</a>
                 </h1>
                 <nav class="flex bg-slate-800 rounded-lg p-1">
                     <button
-                        class="px-4 py-1 rounded bg-blue-600 text-white shadow-lg"
+                        id="nav-cluster"
+                        class="px-4 py-1 rounded bg-blue-600 text-white shadow-lg transition"
                     >
                         1. Cluster
                     </button>
                     <button
-                        class="px-4 py-1 rounded text-slate-400 hover:text-white transition cursor-not-allowed"
+                        id="nav-features"
+                        class="px-4 py-1 rounded text-slate-400 hover:text-white transition"
                     >
                         2. Features
                     </button>
@@ -32,7 +39,7 @@
             </div>
 
             <div class="flex items-center gap-3">
-                <label class="text-xs text-slate-500 uppercase tracking-widest"
+                <label class="text-xs text-slate-300 uppercase tracking-widest"
                     >Type:</label
                 >
                 <select
