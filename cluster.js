@@ -99,6 +99,14 @@ function getLeafPaths(obj, currentPath = "", leafNodes = {}) {
 
         const newPath = currentPath ? `${currentPath}.${key}` : key;
 
+        // 檢查是否為隱藏欄位，如果是則跳過解析
+        if (
+            APP_CONFIG.HIDE_FIELDS &&
+            APP_CONFIG.HIDE_FIELDS.includes(newPath)
+        ) {
+            continue;
+        }
+
         // 偵測數值統計節點 (Numeric: 具有 avg, min, max 等)
         const isNumeric = typeof val === "object" && val.avg !== undefined;
 
@@ -226,7 +234,14 @@ export async function renderClusterView(type) {
                             </table>
                         </div>`;
                 } else if (info.type === "categorical") {
+                    // 【 過濾 "Unknown" 或 "None" 的 vlaue 不納入統計
                     const sortedItems = Object.entries(cellData)
+                        .filter(
+                            ([label]) =>
+                                label !== "Unknown" &&
+                                label !== "None" &&
+                                label !== "none",
+                        )
                         .sort((a, b) => b[1] - a[1])
                         .slice(0, 10);
 
