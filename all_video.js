@@ -96,17 +96,18 @@ function renderInfluencerList() {
                 <div class="accordion-header flex justify-between items-center p-4 cursor-pointer hover:bg-slate-800/80 transition" 
                      onclick="toggleInfluencer('${inf.ig_id}', this)">
                     <div class="flex items-center gap-3">
-                        <span class="text-blue-500 font-mono font-bold">#${inf.Aisa_Order}</span>
+                        <span class="text-blue-500 font-mono font-bold">${inf.Aisa_Order}</span>
                         <span class="font-bold text-slate-100 text-lg">${inf.person_name}</span>
-                        <a href="${inf.ig_url}" target="_blank" class="text-slate-500 hover:text-blue-400 text-sm transition" onclick="event.stopPropagation()">
-                            (@${inf.ig_id})
+                        <a href="${inf.ig_url}" target="_blank" class="text-slate-400 hover:text-blue-400 text-sm transition" onclick="event.stopPropagation()">
+                            ${inf.ig_id}
                         </a>
                         <span class="text-slate-700">|</span>
                         <span class="text-slate-400 text-sm bg-slate-800 px-2 py-0.5 rounded">${inf.category || "未分類"}</span>
                     </div>
-                    <div class="text-slate-500 text-sm flex items-center gap-4">
-                        <span>${inf.posts} 貼文</span>
-                        <span>${inf.Followers} 粉絲</span>
+                    <div class="text-slate-300 text-sm flex items-center gap-2">
+                        <span> ${Math.floor(inf.posts).toLocaleString("en-US", { maximumFractionDigits: 0 })} 貼文, </span>
+                        <span>${Math.floor(inf.Followers).toLocaleString("en-US", { maximumFractionDigits: 0 })} 粉絲, </span>
+                        <span>${Math.floor(inf.Following).toLocaleString("en-US", { maximumFractionDigits: 0 })}追蹤</span>
                         <svg class="w-5 h-5 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
                     </div>
                 </div>
@@ -178,8 +179,8 @@ window.toggleInfluencer = async (ig_id, el) => {
                     .map((v) => {
                         // 標題文字預覽處理 (前 20 字)
                         const previewText = v.text
-                            ? v.text.length > 20
-                                ? v.text.substring(0, 20) + "..."
+                            ? v.text.length > 40
+                                ? v.text.substring(0, 40) + "..."
                                 : v.text
                             : "(無文字內容)";
 
@@ -225,79 +226,109 @@ window.toggleVideoDetail = async (ig_id, media_id, modified_time_tw, el) => {
         detailDiv.classList.remove("hidden");
         icon.classList.add("rotate-180");
 
+        let csvInfo = {};
+        let jsonData = null;
+        let jsonError = null;
+
+        // 1. 優先嘗試取得 CSV 資料 (Metadata 來源)
         try {
-            // 讀取合併 JSON
+            csvInfo = await getCsvInfo(ig_id, media_id);
+        } catch (csvErr) {
+            console.error("CSV Metadata 載入失敗", csvErr);
+        }
+
+        // 2. 嘗試取得 JSON 資料 (Description 來源)
+        try {
             if (!cachedDetails[ig_id]) {
                 const res = await fetch(
                     `${APP_CONFIG.DATA_PATHS.video_details_dir}/${ig_id}.json`,
                 );
-                if (!res.ok) throw new Error("JSON not found");
+                if (!res.ok) throw new Error("找不到合併 JSON 檔案");
                 cachedDetails[ig_id] = await res.json();
             }
-
-            const data = cachedDetails[ig_id][media_id];
-            if (!data) throw new Error("Video data missing in JSON");
-
-            // 從目前的影片手風琴 el 向上查找 CSV 數據 (或從 cache 找)
-            // 這裡我們需要從 toggleInfluencer 時儲存的數據中提取，或直接重新解析該行。
-            // 為了簡化，我們從 DOM 結構中的標題抓取一些基本資訊，其餘從 JSON 補。
-            const csvInfo = await getCsvInfo(ig_id, media_id);
-
-            renderVideoDashboard(detailDiv, ig_id, media_id, csvInfo, data);
+            jsonData = cachedDetails[ig_id][media_id];
+            if (!jsonData) throw new Error("JSON 內缺少此影片數據");
         } catch (err) {
-            detailDiv.innerHTML = `<div class="p-6 text-slate-600 italic">無法載入詳細數據: ${err.message}</div>`;
+            jsonError = err.message;
         }
+
+        // 3. 呼叫渲染函式，將 jsonError 傳入
+        renderVideoDashboard(
+            detailDiv,
+            ig_id,
+            media_id,
+            csvInfo,
+            jsonData,
+            jsonError,
+        );
     } else {
         detailDiv.classList.add("hidden");
         icon.classList.remove("rotate-180");
     }
 };
-
 /**
  * 輔助函式：從 CSV 取得特定影片的原始欄位
  */
 async function getCsvInfo(ig_id, media_id) {
-    const res = await fetch(
-        `${APP_CONFIG.DATA_PATHS.video_info_dir}/${ig_id}-FullVideoInfo.csv`,
-    );
-    const text = await res.text();
-    const rows = text
-        .replace(/^\uFEFF/, "")
-        .split(/\r?\n(?=(?:(?:[^"]*"){2})*[^"]*$)/);
-    const headers = rows[0].split(",").map((h) => h.trim().replace(/"/g, ""));
-    const mediaIdx = headers.indexOf("media_id");
-    const targetRow = rows.find((r) => r.includes(media_id));
-    if (!targetRow) return {};
+    try {
+        const res = await fetch(
+            `${APP_CONFIG.DATA_PATHS.video_info_dir}/${ig_id}-FullVideoInfo.csv`,
+        );
+        if (!res.ok) throw new Error("CSV fetch failed");
+        const text = await res.text();
+        const rows = text
+            .replace(/^\uFEFF/, "")
+            .split(/\r?\n(?=(?:(?:[^"]*"){2})*[^"]*$)/);
+        const headers = rows[0]
+            .split(",")
+            .map((h) => h.trim().replace(/"/g, ""));
 
-    const cols = targetRow.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/);
-    let obj = {};
-    headers.forEach((h, i) => (obj[h] = (cols[i] || "").replace(/^"|"$/g, "")));
-    return obj;
+        // 尋找包含 media_id 的行
+        const targetRow = rows.find((r) => r.includes(media_id));
+        if (!targetRow) return {};
+
+        const cols = targetRow.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/);
+        let obj = {};
+        headers.forEach(
+            (h, i) => (obj[h] = (cols[i] || "").replace(/^"|"$/g, "")),
+        );
+        return obj;
+    } catch (e) {
+        console.warn("getCvInfo error:", e);
+        return {};
+    }
 }
-
 /**
  * 渲染影片儀表板 (Metadata + Description + Table)
  */
-function renderVideoDashboard(container, ig_id, media_id, csv, json) {
-    // 1. 處理標記網紅 Mapping (異動：精準取出 Value 排除 Key)
+function renderVideoDashboard(
+    container,
+    ig_id,
+    media_id,
+    csv,
+    json,
+    jsonError = null,
+) {
+    // 處理標記網紅 Mapping
     let tagNames = [];
     if (csv.tags) {
-        // 使用正則提取冒號後面的數字 (Value部分)，例如 {'0': 'ID'} 只拿 ID
-        // 比對模式：找冒號後面，被引號包圍的數字
         const valueMatches = csv.tags.match(/(?<=:\s*['"])\d+/g) || [];
         tagNames = valueMatches.map((id) => nameMapping[id] || id);
     }
 
-    // 2. 組合影片連結
+    // 組合影片連結
     const timeKey = (csv.modified_time_tw || "")
         .replace(/[- :+]/g, "")
         .substring(0, 14);
     const videoName = `${ig_id}-${timeKey}-${media_id}.mp4`;
     const videoUrl = `${APP_CONFIG.VIDEO_API_BASE}/${ig_id}/${videoName}?token=${APP_CONFIG.VIDEO_TOKEN}`;
 
-    const logs = json.low_inference_observations.perceptual_narrative_logs;
+    // 判斷 JSON 內容
+    const hasJson = json && !jsonError;
+    const logs = hasJson
+        ? json.low_inference_observations.perceptual_narrative_logs
+        : null;
 
-    // 異動：外層容器加上 max-h-[80vh] 與 overflow-y-auto 解決捲軸卡住問題
     container.innerHTML = `
         <div class="max-h-[80vh] flex flex-col overflow-y-auto custom-scrollbar text-slate-200 bg-[#0f172a]">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-px bg-slate-800 shrink-0">
@@ -310,15 +341,16 @@ function renderVideoDashboard(container, ig_id, media_id, csv, json) {
                         <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">內部連結：</span><a href="${videoUrl}" target="_blank" class="text-blue-400 hover:underline truncate">${videoUrl}</a></div>
                         <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">建立日期：</span><span class="font-mono text-slate-300">${csv.creation_time_tw}</span></div>
                         <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">最後更新：</span><span class="font-mono text-slate-300">${csv.modified_time_tw}</span></div>
-                        <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">留言數量：</span><span class="font-mono text-emerald-400">${csv["statistics.comment_count"] || 0}</span></div>
-                        <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">按讚數量：</span><span class="font-mono text-emerald-400">${csv["statistics.like_count"] || 0}</span></div>
-                        <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">觀看次數：</span><span class="font-mono text-emerald-400">${csv["statistics.views"] || 0}</span></div>
+                        <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">留言數量：</span><span class="font-mono text-emerald-400">${Math.floor(csv["statistics.comment_count"]).toLocaleString("en-US", { maximumFractionDigits: 0 }) || 0}</span></div>
+                        <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">按讚數量：</span><span class="font-mono text-emerald-400">${Math.floor(csv["statistics.like_count"]).toLocaleString("en-US", { maximumFractionDigits: 0 }) || 0}</span></div>
+                        <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">觀看次數：</span><span class="font-mono text-emerald-400">${Math.floor(csv["statistics.views"]).toLocaleString("en-US", { maximumFractionDigits: 0 }) || 0}</span></div>
                         <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">影片長度：</span><span class="font-mono">${csv.duration}s</span></div>
                         <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">標記數量：</span><span>${tagNames.length}</span></div>
                         <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">標記網紅：</span><div class="flex flex-wrap gap-1">${tagNames.map((t) => `<span class="bg-blue-900/30 text-blue-300 px-1.5 rounded text-xs border border-blue-800/50">${t}</span>`).join("")}</div></div>
                         <div class="pt-3">
+
                             <span class="text-slate-500 block text-xs mb-1">文字內容：</span>
-                            <p class="text-slate-400 leading-relaxed whitespace-pre-wrap text-xs bg-slate-950/50 p-3 rounded border border-slate-800">${csv.text}</p>
+                            <p class="text-slate-400 leading-relaxed whitespace-pre-wrap text-xs bg-slate-950/50 p-3 rounded border border-slate-800">${csv.text || "(無內文)"}</p>
                         </div>
                     </div>
                 </div>
@@ -327,24 +359,34 @@ function renderVideoDashboard(container, ig_id, media_id, csv, json) {
                     <h4 class="text-blue-500 font-bold mb-4 flex items-center gap-2">
                         <span class="w-1 h-4 bg-blue-500 rounded-full"></span> Description
                     </h4>
-                    <div class="space-y-5 text-sm">
-                        <div class="group">
-                            <span class="text-slate-500 block text-[10px] uppercase tracking-widest mb-1 group-hover:text-blue-400 transition">Visual Narrative</span>
-                            <p class="text-slate-200 leading-relaxed pl-3 border-l border-slate-800 group-hover:border-blue-500/50 transition">${logs.visual_narrative_log}</p>
+                    ${
+                        hasJson
+                            ? `
+                        <div class="space-y-5 text-sm">
+                            <div class="group">
+                                <span class="text-slate-500 block text-[10px] uppercase tracking-widest mb-1">Visual Narrative</span>
+                                <p class="text-slate-200 leading-relaxed pl-3 border-l border-slate-800">${logs.visual_narrative_log}</p>
+                            </div>
+                            <div class="group">
+                                <span class="text-slate-500 block text-[10px] uppercase tracking-widest mb-1">Audio Narrative</span>
+                                <p class="text-slate-200 leading-relaxed pl-3 border-l border-slate-800">${logs.audio_narrative_log}</p>
+                            </div>
+                            <div class="group">
+                                <span class="text-slate-500 block text-[10px] uppercase tracking-widest mb-1">Text Narrative</span>
+                                <p class="text-slate-200 leading-relaxed pl-3 border-l border-slate-800">${logs.text_narrative_log}</p>
+                            </div>
+                            <div class="group">
+                                <span class="text-slate-500 block text-[10px] uppercase tracking-widest mb-1">Main Purpose</span>
+                                <p class="text-blue-200/80 italic bg-blue-900/10 p-2 rounded border border-blue-900/20">${json.high_inference_interpretations.narrative_and_purpose.mainPurpose}</p>
+                            </div>
                         </div>
-                        <div class="group">
-                            <span class="text-slate-500 block text-[10px] uppercase tracking-widest mb-1 group-hover:text-blue-400 transition">Audio Narrative</span>
-                            <p class="text-slate-200 leading-relaxed pl-3 border-l border-slate-800 group-hover:border-blue-500/50 transition">${logs.audio_narrative_log}</p>
+                    `
+                            : `
+                        <div class="p-10 border border-dashed border-slate-800 rounded text-center text-slate-600 italic text-sm">
+                            JSON 解析錯誤: ${jsonError || "無資料"}
                         </div>
-                        <div class="group">
-                            <span class="text-slate-500 block text-[10px] uppercase tracking-widest mb-1 group-hover:text-blue-400 transition">Text Narrative</span>
-                            <p class="text-slate-200 leading-relaxed pl-3 border-l border-slate-800 group-hover:border-blue-500/50 transition">${logs.text_narrative_log}</p>
-                        </div>
-                        <div class="group">
-                            <span class="text-slate-500 block text-[10px] uppercase tracking-widest mb-1 group-hover:text-blue-400 transition">Main Purpose</span>
-                            <p class="text-blue-200/80 italic bg-blue-900/10 p-2 rounded border border-blue-900/20">${json.high_inference_interpretations.narrative_and_purpose.mainPurpose}</p>
-                        </div>
-                    </div>
+                    `
+                    }
                 </div>
             </div>
 
@@ -352,22 +394,32 @@ function renderVideoDashboard(container, ig_id, media_id, csv, json) {
                 <h4 class="text-blue-500 font-bold mb-4 flex items-center gap-2">
                     <span class="w-1 h-4 bg-blue-500 rounded-full"></span> Json Description
                 </h4>
-                <div class="border border-slate-800 rounded overflow-hidden">
-                    <table class="w-full border-collapse">
-                        <thead class="bg-slate-900 shadow-md">
-                            <tr class="text-left text-[10px] uppercase tracking-tighter text-slate-500 border-b border-slate-800">
-                                <th class="p-3 w-[10%] border-r border-slate-800/50">L1</th>
-                                <th class="p-3 w-[10%] border-r border-slate-800/50">L2</th>
-                                <th class="p-3 w-[10%] border-r border-slate-800/50">L3</th>
-                                <th class="p-3 w-[10%] border-r border-slate-800/50">L4</th>
-                                <th class="p-3 w-[60%]">Value</th>
-                            </tr>
-                        </thead>
-                        <tbody class="text-xs font-mono">
-                            ${renderJsonTableRows(json)}
-                        </tbody>
-                    </table>
-                </div>
+                ${
+                    hasJson
+                        ? `
+                    <div class="border border-slate-800 rounded overflow-hidden">
+                        <table class="w-full border-collapse">
+                            <thead class="bg-slate-900 shadow-md">
+                                <tr class="text-left text-[10px] uppercase tracking-tighter text-slate-500 border-b border-slate-800">
+                                    <th class="p-3 w-[10%] border-r border-slate-800/50">L1</th>
+                                    <th class="p-3 w-[10%] border-r border-slate-800/50">L2</th>
+                                    <th class="p-3 w-[10%] border-r border-slate-800/50">L3</th>
+                                    <th class="p-3 w-[10%] border-r border-slate-800/50">L4</th>
+                                    <th class="p-3 w-[60%]">Value</th>
+                                </tr>
+                            </thead>
+                            <tbody class="text-xs font-mono">
+                                ${renderJsonTableRows(json)}
+                            </tbody>
+                        </table>
+                    </div>
+                `
+                        : `
+                    <div class="p-10 border border-dashed border-slate-800 rounded text-center text-slate-600 italic text-sm">
+                        JSON 表格資料載入失敗
+                    </div>
+                `
+                }
             </div>
         </div>
     `;
