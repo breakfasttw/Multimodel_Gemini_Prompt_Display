@@ -2,11 +2,13 @@
 import { APP_CONFIG } from "./config.js";
 import { renderClusterView } from "./cluster.js";
 import { renderFeaturesView } from "./cluster_text.js";
+import { renderVideoView } from "./all_video.js"; // 新增載入
 
 document.addEventListener("DOMContentLoaded", () => {
     const selector = document.getElementById("type-selector");
     const navCluster = document.getElementById("nav-cluster");
     const navFeatures = document.getElementById("nav-features");
+    const navVideo = document.getElementById("nav-video");
 
     // 目前所在的視圖狀態: 'cluster' 或 'features'
     let currentView = "cluster";
@@ -15,24 +17,15 @@ document.addEventListener("DOMContentLoaded", () => {
      * 更新 UI 按鈕樣式
      */
     function updateNavUI() {
-        if (currentView === "cluster") {
-            navCluster.classList.add("bg-blue-600", "text-white", "shadow-lg");
-            navCluster.classList.remove("text-slate-400");
-            navFeatures.classList.remove(
-                "bg-blue-600",
-                "text-white",
-                "shadow-lg",
-            );
-            navFeatures.classList.add("text-slate-400");
-        } else {
-            navFeatures.classList.add("bg-blue-600", "text-white", "shadow-lg");
-            navFeatures.classList.remove("text-slate-400");
-            navCluster.classList.remove(
-                "bg-blue-600",
-                "text-white",
-                "shadow-lg",
-            );
-            navCluster.classList.add("text-slate-400");
+        [navCluster, navFeatures, navVideo].forEach((btn) => {
+            btn.classList.remove("bg-blue-600", "text-white", "shadow-lg");
+            btn.classList.add("text-slate-400");
+        });
+
+        const activeBtn = document.getElementById(`nav-${currentView}`);
+        if (activeBtn) {
+            activeBtn.classList.add("bg-blue-600", "text-white", "shadow-lg");
+            activeBtn.classList.remove("text-slate-400");
         }
     }
 
@@ -43,9 +36,18 @@ document.addEventListener("DOMContentLoaded", () => {
         const type = selector.value;
         if (currentView === "cluster") {
             renderClusterView(type);
-        } else {
+        } else if (currentView === "features") {
             renderFeaturesView(type);
+        } else if (currentView === "video") {
+            renderVideoView(); // 新增調用
         }
+
+        navVideo.addEventListener("click", () => {
+            if (currentView === "video") return;
+            currentView = "video";
+            updateNavUI();
+            refreshContent();
+        });
     }
 
     // 初始化下拉選單
