@@ -1,6 +1,38 @@
 // cluster_text.js
 import { APP_CONFIG } from "./config.js";
 
+window.openVideo = async (influencer, videoName) => {
+    // 檢查是否有設定 API 路徑 (判斷是否在本地/有效環境)
+    if (!APP_CONFIG.VIDEO_API_BASE) {
+        alert("此環境不支援影片播放 (缺少 env.js 設定)。");
+        return;
+    }
+
+    try {
+        const ticketUrl = APP_CONFIG.VIDEO_API_BASE.replace(
+            "/stream",
+            "/get_ticket",
+        );
+        const response = await fetch(ticketUrl, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ token: APP_CONFIG.VIDEO_TOKEN }),
+        });
+
+        const data = await response.json();
+        if (data.ticket) {
+            // 拿到臨時通行證後開啟影片
+            const finalUrl = `${APP_CONFIG.VIDEO_API_BASE}/${influencer}/${videoName}?ticket=${data.ticket}`;
+            window.open(finalUrl, "_blank");
+        } else {
+            alert("驗證失敗");
+        }
+    } catch (err) {
+        console.error("影片服務連線失敗:", err);
+        alert("無法連線至影片伺服器，請確保您在公司網域內。");
+    }
+};
+
 /**
  * 根據不同的 Type 映射對應的文字欄位名稱
  */
@@ -80,7 +112,6 @@ export async function renderFeaturesView(type) {
         const sortedLabels = Object.keys(groups).sort(
             (a, b) => Number(a) - Number(b),
         );
-
 
         sortedLabels.forEach((label) => {
             const members = groups[label];

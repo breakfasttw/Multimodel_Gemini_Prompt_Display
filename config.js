@@ -1,5 +1,7 @@
 // config.js
-import { ENV } from "./env.js"; // 這裡會導入本機的私密變數
+// 讀取全域變數，若 window.ENV 不存在 (GitHub Pages 環境)，則設為空字串
+const env = window.ENV || { VIDEO_API_BASE: "", VIDEO_TOKEN: "" };
+
 export const APP_CONFIG = {
     // 數據來源路徑
     DATA_PATHS: {
@@ -36,7 +38,7 @@ export const APP_CONFIG = {
         "low_inference_observations.audio_vocal_characterization.vocal_qualities.language",
     ],
 
-    // 影片 API 設定
-    VIDEO_API_BASE: ENV?.VIDEO_API_BASE || "",
-    VIDEO_TOKEN: ENV?.VIDEO_TOKEN || "",
+    // 影片 API 設定 (從 envConfig 讀取)
+    VIDEO_API_BASE: env.VIDEO_API_BASE,
+    VIDEO_TOKEN: env.VIDEO_TOKEN,
 };
