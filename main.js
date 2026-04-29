@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const navVideo = document.getElementById("nav-video");
 
     // 目前所在的視圖狀態: 'cluster' 或 'features'
-    let currentView = "cluster";
+    let currentView = "video";
 
     /**
      * 更新 UI 按鈕樣式

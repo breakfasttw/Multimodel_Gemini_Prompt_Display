@@ -7,7 +7,7 @@
             name="description"
             content="Multi-model cluster analysis result demo"
         />
-        <title>Cluster Compare</title>
+        <title>Multi-model Cluster</title>
         <script src="https://cdn.tailwindcss.com"></script>
         <link rel="icon" href="./icon/icon.png" type="image/x-icon" />
         <link rel="apple-touch-icon" href="./icon/icon.png" />
@@ -21,12 +21,18 @@
         >
             <div class="flex items-center space-x-6">
                 <h1 class="text-xl font-bold text-blue-400">
-                    <a href="#">Cluster Analysis</a>
+                    <a href="#">Multi-model</a>
                 </h1>
                 <nav class="flex bg-slate-800 rounded-lg p-1">
+                    <button 
+                        id="nav-video" 
+                         class="px-4 py-1 rounded bg-blue-600 text-white shadow-lg transition"
+                        >Videos
+                    </button>
+
                     <button
                         id="nav-cluster"
-                        class="px-4 py-1 rounded bg-blue-600 text-white shadow-lg transition"
+                        class="px-4 py-1 rounded text-slate-400 hover:text-white transition"
                     >
                         Cluster
                     </button>
@@ -36,8 +42,6 @@
                     >
                         Contents
                     </button>
-                    <button id="nav-video" class="px-4 py-1 rounded text-slate-400 hover:text-white transition">Video</button>
-
                 </nav>
             </div>
 
