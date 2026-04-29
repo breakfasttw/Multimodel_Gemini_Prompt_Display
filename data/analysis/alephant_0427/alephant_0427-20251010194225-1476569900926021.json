@@ -1,0 +1,175 @@
+{
+  "videoName": "alephant_0427-20251010194225-1476569900926021.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 36,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Dance",
+        "Comedy",
+        "Performance"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman wearing a lion-themed hood, yellow top, and white high-platform boots grips a vertical metallic pole in a studio. The lighting shifts between pink and green. (2) She performs a variety of acrobatic spins, climbs, and inversions on the pole. The video frequently cuts to a split-screen view showing two other women reacting with surprised and amused expressions. (3) The dancer concludes with several stationary poses on the pole, including a seated pose and an extended leg hold, while the studio lighting transitions through orange and purple hues.",
+      "audio_narrative_log": "(1) Fast-paced pop music with a female singer begins, featuring a rhythmic electronic beat. (2) The song continues with lyrics mentioning 'soda pop'. Near the end, an additional layer of female dialogue is heard saying, 'They're demons, I mean divas, obviously demons'. (3) The music maintains its high energy and tempo until the end, dominated by electronic synthesizers and percussion.",
+      "text_narrative_log": "(1) PANPOLE STUDIO: Functional Text, identifying the location of the performance, neutral tone. (2) GAP: Functional Text, brand label on a participant's hat, neutral tone. (3) Heart icons and sparkles: Decorative Text, appearing as overlays during the final poses to enhance the aesthetic appeal, playful and affectionate tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 1.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Skill Demo with Reaction shots -> Final Poses"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main dancer, 2 women in reaction split-screen",
+      "mainCharacterDescription": "A woman wearing a brown fuzzy lion hood with a tail, a yellow crop top, black textured leggings, and white lace-up platform boots."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Dance Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "An indoor dance studio featuring a vertical pole, wooden floors, and the 'PANPOLE STUDIO' logo on the wall. The environment is illuminated by color-changing stage lights.",
+      "lightingStyle": "Intense studio lights with shifting colors",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Medium Shot",
+        "Split Screen"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "PANPOLE STUDIO",
+        "GAP"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, humorous, and high-pitched",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Reaction -> Resolution",
+      "mainPurpose": "The video is designed to showcase high-level pole dancing athleticism and artistry while maintaining a lighthearted and humorous tone through the use of a lion costume. It utilizes a popular reaction-style format to increase social media engagement and promote the 'PANPOLE STUDIO' brand.",
+      "visualEmotion": "Energetic, Playful, Impressive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "The studio logo 'PANPOLE STUDIO' is clearly visible and centered in the background throughout the entire performance.",
+      "endorsementObject": [
+        "PANPOLE STUDIO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Lion costume pole dancing",
+      "freeDescribe": "The video effectively combines professional-grade athletic performance with comedic elements and social media editing trends."
+    }
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "videoName": "2uncle987-20251023040938-788537414265266.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 73,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Kids",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Tokyo"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins at the brick-walled entrance of an indoor facility with a large neon sign and signs in Japanese. A person enters a brightly lit, mall-like interior. (2) Close-up shots of ticket information boards and schedules are shown. Two young boys in matching yellow hoodies are seen observing their surroundings. (3) A rapid montage follows, showing the two boys changing into various professional uniforms including security guard gear, lab coats, and courier vests. (4) They are seen performing activities like assembling gachapon toys, using a fire hose on a building facade, preparing pizza, and working on a red car in a garage setup. (5) Scenes transition through a beauty salon, a shoe design station, and a bus tour. The boys are seen holding 'KidZo' currency. (6) Finally, they visit an SMBC bank counter, interact with a female teller, and deposit their earned currency before walking away.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic pop music starts immediately. A male narrator speaks in Mandarin with a friendly, high-pitched tone, discussing the popularity of the venue. (2) As the visuals move through different activities, the music remains constant. Brief ambient sounds of water splashing from a fire hose and muffled background chatter of a crowd are audible. (3) The narrator's speech is dense, continuously describing the various jobs and the pricing of the tickets. (4) The music and narration continue until the end, with the music fading out slightly during the final scene at the bank.",
+      "text_narrative_log": "(1) \"超熱門\" (Super Popular) - Hook text in bright red. (2) \"預約完畢\" (Fully Booked) - Status information. (3) \"KIDZANIA\" - Brand logo. (4) \"3時間\" and \"16:00 ~ 19:00\" - Functional ticket details. (5) Activity labels: \"扭蛋製作\" (Gachapon making), \"消防員\" (Firefighter), \"養樂多製作\" (Yakult making), \"警察\" (Police), \"修車員\" (Car mechanic), \"洗車加油站\" (Car wash & gas station), \"摩斯漢堡\" (Mos Burger), \"彩妝課\" (Makeup class), \"鞋店\" (Shoe shop), \"銀行\" (Bank). (6) \"全套裝備\" (Full equipment) and \"存錢的人\" (The person who saves money) - Descriptive variety-show style captions."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Logistics/Pricing -> Montage of job experiences -> Conclusion at the bank"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 12,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 5,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main children (boys), 1 female bank teller, 1 female staff at the lab, several other kids and staff in background.",
+      "mainCharacterDescription": "Two young boys, one with glasses, both wearing identical yellow hoodies with black and white patterns."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Theme Park",
+          "Studio",
+          "Simulation Center"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A miniature indoor city with detailed shopfronts for brands like Pizza-La, SMBC, and Autobacs, featuring realistic props like a fire truck and a gas station.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Japanese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "POV",
+        "Follow shot",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pizza",
+        "Burger",
+        "Yakult"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Bus",
+        "Fire truck"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Computer monitor",
+        "Microscope"
+      ],
+      "landmark": [
+        "KidZania Tokyo"
+      ],
+      "brandLogos": [
+        "KidZania",
+        "ANA",
+        "Pizza-La",
+        "Yakult",
+        "ALSOK",
+        "Mos Burger",
+        "SMBC",
+        "Hato Bus",
+        "Moonstar",
+        "Autobacs"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 2
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and humorous",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Sizzling",
+        "Water splashing"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Crowd chatter"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Logistics -> Experience List -> Conclusion",
+      "mainPurpose": "The video serves as a travel review and guide for parents, showcasing the 'KidZania Tokyo' experience. It combines factual information about pricing and scheduling with a fast-paced visual montage of children participating in various career simulations to highlight the educational and entertainment value of the park.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed explanation of ticket types and prices combined with a highlight reel of all activities provided at the venue.",
+      "endorsementObject": [
+        "KidZania Tokyo"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-show text overlays and fast-cut editing common in modern travel vlogs.",
+      "freeDescribe": "The video focuses heavily on the 'edutainment' aspect, highlighting the realism of the corporate partnerships (ANA, SMBC, etc.) within the theme park."
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "videoName": "yga0721-20250816165830-781014501072898.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 89,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Commercial",
+        "Gaming"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins in a brightly lit subway station corridor. A man wearing a beige utility shirt and a white cap stands in the foreground, holding a Lucario plush toy and showing his phone screen; a woman in a grey t-shirt stands behind him, gesturing excitedly. (2) They walk along a long wall decorated with thousands of Pokémon cards and large posters of Mega Gardevoir and Lucario. (3) The man approaches the wall and carefully peels off a Pokémon card sticker, revealing a Lucario card. (4) Detailed shots show the promotional posters for the 'Super Evolution' series and 'Super Courage/Super Symphony' expansion packs. (5) The man performs a celebratory dance holding his card, while the woman holds a Mega Gardevoir plush in the background. (6) The video concludes with the man walking towards the camera, encouraging viewers to visit the station and buy the cards.",
+      "audio_narrative_log": "(1) Upbeat and energetic electronic BGM starts immediately. A male voice speaks loudly and enthusiastically in Mandarin, explaining he is at the station at 6 AM on Father's Day. (2) Ambient subway station echoes are heard in the background but are secondary to the vocals and music. (3) Occasional female laughter and short exclamation phrases complement the main narration. (4) Sound effects such as 'shing' or 'pop' are used when text overlays appear or when the card is peeled. (5) The music maintains a constant high-tempo rhythm until the end of the video, fading out as the man finishes his closing statement.",
+      "text_narrative_log": "(1) Functional Text: Subtitles translate the spoken Mandarin dialogue. (2) Decorative Text: '08.08 6:00' appears in a stylized banner at the top. (3) Location Hook: '中山捷運站紅線檢票口' (Zhongshan Metro Station Red Line Ticket Gate) marks the scene. (4) Promotional Hook: '寶可夢卡牌最新系列' (Pokemon Card Latest Series) and '超級進化' (Mega Evolution) in bold, colorful fonts. (5) Release Info: '08.15 全台正式發售!!' (08.15 Official Launch Nationwide!!) emphasizes the date with an urgent tone. (6) Interaction Hook: '一人限領一張' (Limit one per person) providing functional instructions."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 3.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Location reveal -> Interactive demo (peeling card) -> Product promotion -> Call to action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 1 female companion, and at least 2 blurred passers-by in the background of the subway corridor.",
+      "mainCharacterDescription": "Male: beige short-sleeved utility shirt over a white tee, khaki shorts, white socks, white sneakers, and a white baseball cap. Female: grey t-shirt, khaki cargo pants, and sneakers."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Subway Station"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A long, modern subway station corridor with white tiled floors and bright overhead linear lights. One entire wall is covered in a massive Pokémon TCG advertisement featuring grids of individual cards and large-scale character artwork.",
+      "lightingStyle": "Uniform bright indoor fluorescent lighting",
+      "weather": "None",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and vibrant",
+      "cameraWork": [
+        "Follow shot",
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Zhongshan Metro Station"
+      ],
+      "brandLogos": [
+        "Pokémon",
+        "寶可夢",
+        "Taipei Metro"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, energetic, and persuasive",
+        "pitch": "Normal to high-pitched",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop",
+        "Shing",
+        "Meme sounds"
+      ],
+      "ambientNoise": [
+        "Subway station reverb"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Location Tour -> Interactive Demonstration -> Commercial Promotion -> Call to Action",
+      "mainPurpose": "To promote the launch of the new Pokémon TCG 'Super Evolution' series in Taiwan. The video specifically advertises an interactive marketing installation at Zhongshan Metro Station where fans can obtain free cards/stickers, aiming to drive foot traffic and product sales.",
+      "visualEmotion": "Energetic and Enthusiastic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The video focuses entirely on the Pokémon product, shows official release dates, and directs viewers to a specific physical location for an official event.",
+      "endorsementObject": [
+        "寶可夢卡牌",
+        "Pokémon TCG"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy personality, interactive 'peeling' gimmick, and use of the nickname 'Gaga' (嘎哥).",
+      "freeDescribe": "The video effectively uses FOMO (fear of missing out) by mentioning the 6 AM arrival and limited nature of the cards to engage the fan community."
+    }
+  }
+}

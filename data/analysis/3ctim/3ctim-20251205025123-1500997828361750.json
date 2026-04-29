@@ -1,0 +1,176 @@
+{
+  "videoName": "3ctim-20251205025123-1500997828361750.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 104,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with glasses, a green cap, and a light green 'Roots' t-shirt is centered in the frame, holding a foldable smartphone and speaking directly to the camera in an indoor room with shelves and a decorative astronaut in the background. (2) The scene cuts between the man demonstrating the phone's folding action and high-quality 3D product renders showcasing the phone's hinge, screen size, and ultra-thin profile (3.9mm). (3) A group photo of three men appears briefly during the discussion of Samsung's executives in Taiwan. (4) The man continues talking about price and release dates while holding the device, concluding with a wave.",
+      "audio_narrative_log": "(1) A single male voice speaks Mandarin with a clear, enthusiastic, and professional reviewer tone, accompanied by upbeat, mid-tempo electronic background music. (2) The background music remains constant throughout, providing a steady energetic rhythm while the host details technical specifications. (3) No significant ambient noise is present, suggesting a controlled indoor recording environment or high-quality audio processing.",
+      "text_narrative_log": "(1) '各位觀眾' (Hello viewers) - Functional opening greeting. (2) 'Galaxy Z TriFold' - Hook text introducing the subject. (3) '10吋大螢幕' (10-inch large screen) and '3.9mm' - Functional text highlighting technical specifications. (4) '12月12號韓國開賣' (Available in Korea on Dec 12) - Functional text providing market information."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 5.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Host Intro -> Product Feature Breakdown -> Comparison with older models -> Market info & Pricing -> CTA/Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Waist up",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator throughout; 3 additional males appear in a static group photo.",
+      "mainCharacterDescription": "Middle-aged Asian male with glasses, wearing a dark green cap and a light green 'Roots' brand t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Office",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "An indoor room with a cluttered but organized shelf containing a white astronaut figurine, glassware, and framed pictures. Some shots feature high-quality 3D digital product renders against black backgrounds.",
+      "lightingStyle": "Bright studio lighting with a soft ring light reflected in the host's glasses.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Vibrant",
+      "cameraWork": [
+        "Static",
+        "Macro shots (product renders)"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Smartwatch"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Samsung",
+        "Roots"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade for music; hard cuts for speech syncing with visuals",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Digital transition whooshes"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Detailed Spec Analysis -> Competitive Comparison -> Market Launch Details -> Closing Remarks",
+      "mainPurpose": "The video serves as a tech news update and preliminary review of the Samsung Galaxy Z TriFold. The host aims to inform his audience about the innovative three-fold design, significant screen real estate (10 inches), and thinness of the device, positioning it as a premium tech milestone. It targets tech enthusiasts interested in the latest mobile hardware trends.",
+      "visualEmotion": "Informative and Excited"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The host holds the product, showcases official marketing renders, and provides specific launch dates and pricing, typical of a professional tech influencer product showcase.",
+      "endorsementObject": [
+        "Samsung"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host's trademark intro style and consistent brand wardrobe (Roots).",
+      "freeDescribe": "The video uses high-production-value renders provided by the manufacturer or professional leaks, enhancing its credibility as an early-access or tech-insider review."
+    }
+  }
+}

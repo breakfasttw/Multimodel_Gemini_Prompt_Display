@@ -1,0 +1,179 @@
+{
+  "videoName": "cocowine0205-20250925210505-1591903741853767.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 73.1,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a black beret and a sheer grey off-the-shoulder top over a black camisole, stands in a Costco warehouse. She is holding a large gold and white box of 'Drip Chicken Essence Scallop Porridge' while pointing at the price tag of $999. She expresses shock and talks to an off-screen person whose hand enters the frame to point at her. (2) The scene shifts to an indoor kitchen or dining area. The same woman and another woman wearing a black and white patterned bucket hat are seated behind a table. They are holding a packet of the porridge and a bowl, showing the contents to the camera. (3) The woman in the bucket hat uses a spoon to lift the porridge, showing its consistency and small scallops. Both women react with varying expressions, from serious evaluation to laughter, as they discuss the taste and whether it's worth the price. (4) The video ends with them joking and pointing at the product box.",
+      "audio_narrative_log": "(1) The video begins with a female voice speaking in Mandarin with an excited and high-pitched tone, discussing the expensive price of the product at Costco. Background warehouse noise is faint. (2) An upbeat and fast-tempo BGM enters as a second female voice joins in. They engage in a humorous, rapid-fire dialogue with frequent laughter. (3) The audio environment transitions to a cleaner indoor acoustic space. The two women describe the taste of the porridge, mentioning 'chicken essence' (滴雞精) and 'scallops' (干貝). (4) The BGM continues throughout, punctuating their jokes and reactions. The speech density is high, with overlapping voices and enthusiastic tones.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo appears at the top. Subtitles translate the spoken Mandarin dialogue. (2) Functional Text: Price tag shows '$999'. (3) Decorative Text: '羊毛出在羊身上' (The wool comes from the sheep) appears with a humorous tone as they discuss costs. (4) Decorative Text: '非常淡雅' (Very elegant/light) and '錢包就不補' (The wallet is not nourished) appear as variety-show style captions to emphasize their points."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Store Discovery -> Product Banter -> Home Tasting/Review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators visible; one off-screen hand briefly appears in the store segment.",
+      "mainCharacterDescription": "One woman has long black hair, wearing a black beret and a sheer grey off-the-shoulder top. The second woman wears a black and white patterned bucket hat and a white top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The first scene is a typical Costco warehouse with high shelves of stacked goods. The second scene is a modern, well-lit home kitchen or dining room with a clean table.",
+      "lightingStyle": "Bright, even indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and vibrant",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Porridge",
+        "Chicken Essence",
+        "Scallops"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco",
+        "老協珍"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 3,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and high-pitched",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Discovery -> Pricing Reaction -> Home Review -> Taste Test Summary",
+      "mainPurpose": "The video is a lifestyle and food review vlog aiming to provide a humorous evaluation of a premium 'Drip Chicken Essence Scallop Porridge' found at Costco. The creators use comedic banter to weigh the high price against the product's quality and taste profile, ultimately giving viewers a recommendation on whether it is suitable for gift-giving or personal consumption.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct display of the product packaging, brand name mentions, and detailed taste evaluation.",
+      "endorsementObject": [
+        "老協珍",
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced comedic dialogue between two female hosts with vibrant text overlays.",
+      "freeDescribe": "The video relies heavily on traditional Chinese idioms and wordplay to create humor, making it highly targeted toward the Taiwanese or Mandarin-speaking market."
+    }
+  }
+}

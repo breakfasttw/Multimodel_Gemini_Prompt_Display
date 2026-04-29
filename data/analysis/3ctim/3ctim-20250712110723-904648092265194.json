@@ -1,0 +1,178 @@
+{
+  "videoName": "3ctim-20250712110723-904648092265194.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 31,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Tech Tips"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man wearing a yellow t-shirt and a grey flat cap stands indoors next to a white refrigerator, looking directly at the camera with an expressive, slightly surprised face while holding a smartphone. (2) The scene cuts to a close-up of the smartphone screen showing hands swiping to close applications and navigating the control center to toggle Airplane Mode and Low Power Mode. (3) The man demonstrates removing a translucent phone case and shows a small external cooling fan attachment. (4) The man stands back by the refrigerator, gesturing emphatically with his hands and a wooden bead bracelet while warning against placing the phone inside the fridge or using cold water.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music starts immediately. A high-pitched, energetic male voice speaks in Mandarin Chinese, expressing concern about overheating phones. (2) Accentuating sound effects like 'swish' and 'pop' occur alongside scene transitions. The male speaker provides rapid-fire instructions on cooling techniques. (3) The vocal intensity increases as he lists common mistakes, followed by a brief 'ding' sound effect at the end of the video.",
+      "text_narrative_log": "(1) Functional Text: '3c有意思tim哥' (3C Interesting Tim Brother) and social media handles in the top left corner. (2) Hook Text: '夏天手機超燙怎麼辦?' (What to do when the phone is super hot in summer?) in a yellow box with a fire emoji. (3) Functional Text: 'Apple警告! 超過35度 iPhone可能永久損壞!!' (Apple Warning! Above 35 degrees iPhone may be permanently damaged!!) appearing with an alarmist tone. (4) Decorative Text: List of steps like '關閉不必要的APP' (Close unnecessary apps), '停止充電' (Stop charging), and '拿掉手機殼' (Take off phone case). (5) Warning Text: '用冰水沖?? 錯' (Rinse with ice water?? Wrong) and '冷氣出風口 放在那邊? 也錯' (Put by the AC vent? Also wrong) with large red 'X' graphics."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 1.72,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Problem Identification -> Step-by-Step Tutorial -> Common Myths/Warnings -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Chest up"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main creator identified as Tim哥 appearing throughout the video.",
+      "mainCharacterDescription": "An adult male wearing a bright yellow t-shirt with a logo, a grey flat cap, glasses, and several bracelets (including wooden beads)."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Home",
+          "Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A minimalist indoor setting featuring a white refrigerator with energy labels, off-white walls, and beige curtains.",
+      "lightingStyle": "Bright, even indoor lighting",
+      "weather": "Indoor",
+      "season": "Summer (implied by content)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "External Fan",
+        "Charging Cable"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple",
+        "iPhone"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "High-pitched",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Swish",
+        "Ding",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Problem -> Solution List -> Debunking -> Outro",
+      "mainPurpose": "To educate smartphone users (specifically iPhone owners) on the correct technical procedures to cool down a device during high summer temperatures, while emphatically warning against common but harmful DIY methods like refrigeration or water exposure.",
+      "visualEmotion": "Energetic and helpful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video provides general technical advice without focusing on a specific third-party product brand for sale, though it focuses on Apple devices.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The character 'Tim哥' has a distinct visual style involving flat caps and bright t-shirts, combined with high-energy Mandarin delivery common in tech review channels.",
+      "freeDescribe": "The video utilizes 'variety-show' style editing with bold text overlays and cartoonish sound effects to maintain high viewer engagement for a short-form tutorial."
+    }
+  }
+}

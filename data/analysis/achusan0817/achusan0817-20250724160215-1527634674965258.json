@@ -1,0 +1,179 @@
+{
+  "videoName": "achusan0817-20250724160215-1527634674965258.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 62,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Animation",
+        "Gaming",
+        "Comedy"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a 2D animation featuring two stylized male characters in an outdoor field. One is bald in a black t-shirt, the other wears a green wizard hat and a blue shirt. (2) The hatted character removes his hat, revealing blonde hair, then transforms into a sparkly, highly-detailed anime style with a glowing background. (3) The scene shifts to the bald character looking at a screen, then entering a wood-paneled hair salon where various wigs are displayed on shelves. (4) A selection interface appears, and the character attempts to change his hair multiple times, cycling through grey spiky hair, long blue hair, and short dark hair. (5) The screen shows a currency balance hitting zero. The character appears distressed, sweating and covering his mouth. (6) The video ends with the character wearing a large, mushroom-like hairstyle, looking disappointed.",
+      "audio_narrative_log": "(1) Upbeat, synthesized video game-style music plays. Two male voices speak in Mandarin Chinese with casual, conversational tones. (2) A magical chime and rising synth melody play during the character transformation. One male voice adopts a deeper, more suave tone. (3) Sound effects of clicking and a drum-roll gacha sound occur during the hair selection process. (4) A dramatic, suspenseful chord plays as the currency balance is shown. (5) The audio ends with a melancholic, slightly muffled vocal and a final sound effect of a 'fail' chime.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles translate the dialogue throughout the video. (2) Decorative Text: 'this hair is 皇家髮型喔' appears as the character shows off his hair. (3) Decorative Text: 'GASH 餘額: 0' and '楓葉點數: 0' appear to show empty game account balances. (4) Functional Text: '幾分鐘後' indicates a time skip. (5) Decorative Text: '我看不到未來' appears at the end, conveying a hopeless humorous tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 16,
+      "averageSceneDuration": 3.875,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Dialogue -> Transformation -> Gacha Gambling -> Losing Currency"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face close-up",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "Two main animated male characters featured throughout the video.",
+      "mainCharacterDescription": "One bald male character in a black shirt; one blonde male character in a blue shirt who transforms into a shoujo-manga style."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Field",
+          "Indoor Salon"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Starts in a simple grassy field with a blue sky and white clouds; transitions to a wood-themed hair salon with shelves holding different wigs and a gaming interface.",
+      "lightingStyle": "Flat cartoon lighting with occasional sparkly overlays.",
+      "weather": "Clear",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and saturated",
+      "cameraWork": [
+        "Static",
+        "Center Shot",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Monitor/Interface"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "GASH"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and dramatic",
+        "pitch": "Varied",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese",
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Video Game OST",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Digital Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Gacha roll",
+        "Magic chime",
+        "Error buzz"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Transformation -> Gambling -> Regret",
+      "mainPurpose": "The video is a humorous animated commentary on the experience of 'gacha' or loot-box mechanics in online games, specifically referencing the 'Royal Hair' system in MapleStory. It uses a relatable scenario where a player spends all their currency trying to replicate a friend's stylish look, only to end up with a ridiculous hairstyle and no money left.",
+      "visualEmotion": "Humorous and satirical"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Switching between simple 2D and detailed shoujo-manga art styles for comedic effect.",
+      "freeDescribe": "The video targets the gaming community, particularly fans of MMORPGs who are familiar with the frustrations of randomized cosmetic systems."
+    }
+  }
+}

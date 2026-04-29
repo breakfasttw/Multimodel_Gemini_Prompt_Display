@@ -1,0 +1,186 @@
+{
+  "videoName": "3ctim-20250724150653-1596444091500144.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 77,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Promotion",
+        "Tech Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a middle-aged man (Tim) in a yellow t-shirt and grey patterned hat standing on a city street in front of a shop. He talks directly to the camera with expressive facial gestures. (2) Close-up shots of a Samsung foldable smartphone (white/silver color) are shown on a rotating platform. (3) Tim walks into a mobile phone store branded 'miko' with red and yellow signage. (4) Inside the store, Tim stands in front of various phone displays (Vivo, Samsung) and promotional posters, pointing at them and gesturing enthusiastically. (5) Full-screen graphics with text and product images appear, highlighting pricing and pre-order bonuses. (6) Tim interacts with the camera, counting on his fingers and pointing towards the store's interior. (7) The video ends with Tim striking a pose with his fist in the air.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music starts immediately and remains consistent throughout the video. (2) A male voice (Tim) speaks in a high-pitched, energetic, and promotional tone. He is speaking Mandarin with a Taiwanese accent. (3) Ambient city street noise is briefly heard in the beginning, transitioning to a cleaner store environment sound. (4) An off-camera male voice briefly asks a question about the 'Flip7' near the end, to which the main speaker responds. (5) There are occasional light sound effects (dings/pings) synced with the appearance of text overlays.",
+      "text_narrative_log": "(1) Top-left functional text: 'f 3c有意思tim哥', '3ctim'. (2) Promotional banner: 'miko 米可手機館'. (3) Large hook text: '這次三星折疊機 擠爆牙膏！' (This time Samsung foldable phone squeezed the toothpaste!). (4) Decorative text: '優惠超多 超便宜' (Huge discounts, very cheap). (5) Product pricing text: 'SAMSUNG Galaxy Z Fold7 16G/1T', '建議售價 $75900', '米可價 $67400'. (6) Benefit list: '預購享！容量升級', '價值4000元', 'Google AI Pro 6個月', '總共省 $15500!'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.75,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Transition to Store -> Detailed Price/Benefit Breakdown -> Final Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main creator (Tim) is the only person clearly visible.",
+      "mainCharacterDescription": "A middle-aged Asian male with glasses, wearing a yellow t-shirt with 'ADDICTED TO GOLF' text and a grey patterned flat cap."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Mobile Phone Store"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Starts on a busy city street with shutters and shop signs; moves inside a brightly lit mobile phone store with multiple displays of brands like Vivo, Samsung, and Acer.",
+      "lightingStyle": "Natural daylight outdoors and bright, even studio-style lighting indoors.",
+      "weather": "Clear",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Display Screen",
+        "Charger"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "miko",
+        "SAMSUNG",
+        "vivo",
+        "acer",
+        "realme",
+        "Google AI"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "Medium-High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Cash Register Sound"
+      ],
+      "ambientNoise": [
+        "Traffic",
+        "Store Quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Solution -> Details -> CTA",
+      "mainPurpose": "The video is a promotional advertisement for the 'miko' mobile phone store chain in Taiwan. It uses a popular tech influencer (Tim) to create excitement for the new Samsung foldable smartphones (referred to in text as Fold7/Flip7) while highlighting the significant price discounts and pre-order bonuses available specifically at Miko stores compared to standard retail prices.",
+      "visualEmotion": "Energetic and Persuasive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator is standing in front of the store, repeatedly mentions the brand name 'Miko', and displays their specific pricing and promotional offers.",
+      "endorsementObject": [
+        "miko 米可手機館",
+        "SAMSUNG"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Tim's signature hat and yellow shirt, energetic speaking style, and the use of 'toothpaste squeezing' (擠牙膏) as a tech metaphor.",
+      "freeDescribe": "The video uses high-energy editing and dense text overlays typical of Taiwanese 'variety show' style social media content to maintain viewer engagement during a price-heavy pitch."
+    }
+  }
+}

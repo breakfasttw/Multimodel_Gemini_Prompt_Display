@@ -1,0 +1,178 @@
+{
+  "videoName": "achusan0817-20251226220205-1981962749032820.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 57,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Animation",
+        "Comedy",
+        "Vlog"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Non-live-action cartoon featuring a bald male character with three hairs thinking about buying couple shirts. (2) Displays two t-shirts with hearts and 'LABU' labels. (3) Transitions to the character snooping inside a wooden closet filled with dark clothing. (4) Multiple fast-cut sequences reveal t-shirts with aggressive Japanese demon (Oni) designs, featuring lightning and fire effects. (5) The character reacts with extreme shock and beads of sweat. (6) A brief imaginary scene shows a male character with a demon mask and traditional attire in a dark room. (7) The character holds up a pair of pants with 'I Love You' and kanji embroidery. (8) A black-haired male character enters through a sliding door, surprising the bald protagonist.",
+      "audio_narrative_log": "(1) Light, mid-tempo acoustic-style background music accompanied by a male narrator speaking in a steady, conversational tone. (2) Sudden transition to aggressive heavy metal music with a deep, distorted male voice shouting 'ONI!' and 'JAPAN MONSTER!' during the design reveals. (3) Sharp, high-pitched SFX for lightning and impacts accompany the metal music. (4) The music cuts to silence with a slight echo effect as the narrator's voice becomes hushed and bewildered. (5) Final phase features a second male voice speaking in a casual, inquisitive tone as he enters the scene.",
+      "text_narrative_log": "(1) Functional Title: '阿啾小劇場' (A-Chu's Little Theater) remains at the top throughout. (2) Hook Text: '為了買情侶衣意外發現學長的魔的世界' (Accidentally discovered the senior's demonic world while trying to buy couple clothes) centered in a red banner. (3) Functional Text: Traditional Chinese subtitles reflecting the spoken dialogue. (4) Call to Action: '完整影片在 Youtube' (Full video on Youtube) at the bottom. (5) Decorative Text: Large stylized titles 'ONI' and 'JAPAN MONSTER' appearing with dramatic effects."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro/Thought -> Discovery Montage -> Shocked Reaction -> Confrontation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main bald character, 1 senior character entering at the end.",
+      "mainCharacterDescription": "An animated bald man with three distinct hairs, wearing a simple black t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Room",
+          "Closet"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A simple indoor bedroom and the interior of a clothing closet filled with dark shirts.",
+      "lightingStyle": "Standard bright cartoon lighting with dramatic flashes of red and white during montages.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Cinematic/Muted during discovery, bright during dialogue.",
+      "cameraWork": [
+        "Static",
+        "Digital Zoom",
+        "Fast Cuts"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous, shocked, and dramatic",
+        "pitch": "Medium-low",
+        "loudness": "Variable (normal to shouting)",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Heavy Metal",
+      "bgmBPM": 145,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Electric Guitar",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Thunder",
+        "Whoosh",
+        "Impact SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear -> Montage -> Circular: Hook -> Revelation -> Evaluation -> Reaction",
+      "mainPurpose": "The video is a comedic animated short intended to entertain viewers by highlighting a humorous personality contrast. It uses the visual 'reveal' of a friend's secret, overly aggressive, or 'Chunibyo' clothing style (Japanese demon designs) as the core joke, contrasting it with the character's mundane initial goal of buying simple couple shirts.",
+      "visualEmotion": "Humorous and Over-the-top"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Signature bald character design of creator A-Chu.",
+      "freeDescribe": "The video leverages internet culture tropes like 'Chunibyo' (middle school syndrome) and specific anime aesthetics (Oni masks) to drive engagement through relatable awkwardness."
+    }
+  }
+}

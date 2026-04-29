@@ -1,0 +1,178 @@
+{
+  "videoName": "602avenue-20250807001026-1176935484304428.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 10.0,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Celebrity Event",
+        "K-Pop"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a close-up of a young woman in a dimly lit indoor setting; she smiles broadly and covers her mouth with her hand in a gesture of excitement. (2) At 00:02, the scene cuts to a brightly lit press conference where two men, Jinwoo and Lee Min-ho, are seated behind a table with microphones; the man on the left wears a grey suit while the man on the right wears a black leather jacket. (3) The final segment shows various close-up angles of the two men as they look at each other, smile, and the man on the left speaks into a microphone against a large backdrop featuring a movie poster.",
+      "audio_narrative_log": "(1) High-energy upbeat pop music begins immediately with a female vocalist singing lyrics like \"We could be free\". (2) As the visuals transition to the press conference, the music remains at a consistent high volume, becoming the dominant audio layer. (3) Very faint ambient noise of a public gathering and camera shutters can be heard beneath the music, but no clear speech from the subjects is audible.",
+      "text_narrative_log": "(1) A red box at the top reads \"POV 人生居然讓我看到這兩人畫面\" expressing excitement about seeing two people together. (2) English text below it provides context: \"Jinwoo from K-pop Demon Hunters standing right next to Kim Tan from The Heirs...\". (3) Bottom text labels the individuals: \"《Kpop 獵魔女團》的振宇 x 《繼承者們》的金潭本人\", functioning as identification tags with an enthusiastic tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook (Fan reaction) -> Event Footage (Celebrity interaction)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Face",
+        "Upper body",
+        "Hands"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female fan in the intro, 2 male celebrities (Jinwoo and Lee Min-ho) at the press conference.",
+      "mainCharacterDescription": "The first is a young woman in casual dark clothing; the second is a man in a formal grey suit and tie; the third is a man in a black leather jacket over a black shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Theater",
+          "Studio",
+          "Press Conference"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Starts in a dark theater-like interior with blue accent lighting; shifts to a professional press conference stage with a large movie poster backdrop and multiple microphones on a table.",
+      "lightingStyle": "Mixed: Dim ambient light followed by bright, flat studio lighting.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Handheld",
+        "Static",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and melodic",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Continuous singing",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd chatter",
+        "Camera shutters"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Footage",
+      "mainPurpose": "To capture and share a rare 'crossover' moment between two popular Korean stars (Jinwoo and Lee Min-ho) from a fan's perspective, emphasizing the excitement of being physically present at the event.",
+      "visualEmotion": "Excited, Star-struck, Bright"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "POV text overlay with red background",
+      "freeDescribe": "The video leverages 'The Heirs' nostalgia by referencing Lee Min-ho's famous character name 'Kim Tan' in the captions to increase engagement."
+    }
+  }
+}

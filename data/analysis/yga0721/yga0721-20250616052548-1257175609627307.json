@@ -1,0 +1,185 @@
+{
+  "videoName": "yga0721-20250616052548-1257175609627307.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 79.5,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Family",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Busan"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a young boy in glasses sitting on a plane, followed by an aerial view of a city and a photo at a station. (2) A woman in a striped green dress is seen sitting on a glowing throne in an indoor theme park, followed by a close-up of the boy looking stoic. (3) The boy attempts to jump over light hurdles in a themed indoor playground, falling onto mats repeatedly while laughing. (4) The boy and another child are shown shouting into a microphone inside a designated 'scream booth' game. (5) The boy poses for photos in various SpongeBob SquarePants themed environments, including an ice-themed area and with characters like Mr. Krabs. (6) The boy and another child are swimming in an indoor pool at night; the main boy uses a blue inflatable ring. (7) Finally, the boy is in a restaurant wearing a green cap, eating dumplings with a spoon and talking to the camera.",
+      "audio_narrative_log": "(1) Upbeat, high-energy pop music plays with a male voice shouting 'Busan!'. (2) Sound of a mechanical camera shutter is heard during photo transitions. (3) Sounds of physical activity: muffled thumping on mats and children's laughter as the boy falls. (4) Sustained, high-decibel screaming from children as they participate in the 'scream booth' activity, accompanied by electronic game feedback sounds. (5) Splash sounds and children yelling excitedly in a reverberant indoor pool environment. (6) Ambient restaurant noise with the main boy speaking clearly about the food, followed by a male adult's laughing and advising him in a humorous tone.",
+      "text_narrative_log": "(1) '韓國釜山Vlog' (Korea Busan Vlog) - Title text. (2) '蔡波能5歲生日之旅' (Cai Bo-neng's 5th Birthday Trip) - Hook text. (3) '媽媽自己玩得很開心' (Mom is having fun herself) - Humorous commentary. (4) '(無奈小童)' (Helpless child) - Emotional sticker text. (5) '跳過去哦' (Jump over) - Functional instruction. (6) '拍照魔人' (Photo maniac) - Variety-style caption. (7) '精彩精彩' (Wonderful) - Positive hook. (8) '韓國的比日本的好吃' (Korean ones are better than Japanese ones) - Literal dialogue subtitle. (9) '日本的很難吃' (Japanese ones are very bad) - Literal dialogue subtitle. (10) '不要隨便說日本東西難吃哦' (Don't just say Japanese food is bad) - Subtitle of the vlogger's warning."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.89,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro/Travel -> Indoor Playground -> Photo Session -> Swimming -> Eating/Reviewing."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view",
+        "Close-up face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main boy (Cai Bo-neng), 1 brother, 1 mother on-camera, 1 father (vlogger) occasionally visible via hands/reflection.",
+      "mainCharacterDescription": "A young boy around 5 years old with black hair and glasses, wearing a green jacket or a green cap in different scenes."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Theme Park",
+          "Indoor Pool",
+          "Restaurant",
+          "Airplane Cabin"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Features various themed environments: a 'Running Man' style park with colorful graphics, a SpongeBob exhibition with statues, a modern indoor pool with large windows, and a casual Korean restaurant.",
+      "lightingStyle": "Bright indoor artificial lighting.",
+      "weather": "Indoor/Not Applicable",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English",
+          "Korean"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Follow shot",
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Dumplings",
+        "Rice"
+      ],
+      "trafficDetect": [
+        "Airplane"
+      ],
+      "techDetect": [
+        "Scream meter",
+        "Arcade machine"
+      ],
+      "landmark": [
+        "Busan Station"
+      ],
+      "brandLogos": [
+        "SpongeBob SquarePants",
+        "Running Man"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, playful, humorous",
+        "pitch": "Varied (Deep male and high-pitched child)",
+        "loudness": "High (due to screaming and shouting)",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Camera shutter",
+        "Screaming SFX",
+        "Cartoon sounds"
+      ],
+      "ambientNoise": [
+        "Pool splashing",
+        "Restaurant chatter"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Sequence of Activities -> Evaluation.",
+      "mainPurpose": "To document and share a family vacation celebrating a child's 5th birthday, focusing on child-friendly entertainment and food experiences in Busan, South Korea. The video serves as lifestyle content for fans of the family/influencer.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing style with frequent variety-show style text captions and the inclusion of the family's young children as main subjects.",
+      "freeDescribe": "The video uses a high density of captions to provide humorous meta-commentary on the children's behavior, typical of modern East Asian family vlogs."
+    }
+  }
+}

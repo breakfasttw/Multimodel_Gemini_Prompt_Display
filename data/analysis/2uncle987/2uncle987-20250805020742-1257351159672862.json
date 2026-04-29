@@ -1,0 +1,173 @@
+{
+  "videoName": "2uncle987-20250805020742-1257351159672862.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 5,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Fashion",
+        "Vlog",
+        "Outfit Transition"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a shot of a wooden slatted floor-to-ceiling cabinet. A woman's bare feet are visible at the bottom left. (2) A young woman in a red and white heart-patterned loungewear set walks into the frame, stands sideways to the camera, and snaps her fingers while looking ahead. (3) There is an instant transition where her outfit changes to a white cardigan over a silver metallic skirt with white sneakers. She turns to face the camera, smiles, waves, briefly lifts her leg to show her shoe, and then walks out of the frame to the right.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop music begins immediately. (2) A clear, sharp finger-snapping sound effect (SFX) is heard at the 2-second mark. (3) A magical 'shimmer' or 'sparkle' sound effect occurs simultaneously with the visual outfit change. (4) The music continues until the video ends; no vocals or speaking are detected.",
+      "text_narrative_log": "(1) None."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Snap Gesture -> Outfit Transformation -> Exit"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands",
+        "Feet"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main creator appearing in front of the cabinet.",
+      "mainCharacterDescription": "A young female with long dark hair. Initially wearing a red and white long-sleeve top and shorts. Later wearing a white sheer cardigan, a grey top, a silver metallic mini-skirt, white socks, and white sneakers."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor",
+          "Hallway"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A large, minimalist wooden slatted cabinet that covers the entire background wall. The floor is a light-colored tile or stone.",
+      "lightingStyle": "Bright, soft indoor lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and Warm",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drum"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Finger snap",
+        "Sparkle SFX"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Action -> Reward",
+      "mainPurpose": "To showcase a fashion transition through creative editing. The video uses a finger-snap 'trigger' to signal an instant transformation from casual wear to a styled silver and white outfit, aimed at entertaining and demonstrating style versatility.",
+      "visualEmotion": "Energetic and Cheerful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No specific brand names or product placement details are mentioned or clearly focused upon.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Outfit transition triggered by a finger snap.",
+      "freeDescribe": "The video follows a popular short-form video trend where a simple physical gesture leads to a sudden wardrobe change, emphasizing the contrast between 'home' and 'ready-to-go' styles."
+    }
+  }
+}

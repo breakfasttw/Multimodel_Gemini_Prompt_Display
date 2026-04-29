@@ -1,0 +1,174 @@
+{
+  "videoName": "3ctim-20250608194354-1123496349832176.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 86,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Vlog",
+        "Parody"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a man wearing a beige cap and a white t-shirt entering a room, carrying a large red bag with the 'Nintendo Switch 2' logo. He looks back with a guilty expression. (2) He stands in a living room, holding the bag and making a 'wait' gesture as if explaining himself to someone off-camera. (3) He displays three game consoles stacked to compare screen sizes, with labels appearing over them. (4) Close-ups show a large handheld console with magnetic Joy-Cons being attached. (5) The man is seen sitting on a floor sofa, playing a racing game (Mario Kart) on a large wall-mounted TV. (6) He switches to handheld mode, showing the large screen and then the back kickstand. (7) Finally, he interacts with a game UI on screen and points at a leaderboard where he is ranked first, looking proud.",
+      "audio_narrative_log": "(1) The sound of a door opening is heard, followed by a woman's voice asking a question in Mandarin. An upbeat, electronic background music begins. (2) A male voice (Tim) speaks in an enthusiastic and slightly defensive tone, explaining the features of a new device. (3) Game sound effects from Mario Kart (engine noises, item collection sounds) are clearly audible, mixed with the ongoing dialogue and background music. (4) The music remains consistent in tempo throughout the middle section during the demonstration. (5) In the final phase, the man's voice becomes more boastful, followed by a humorous banter between him and the woman.",
+      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese translating the spoken dialogue throughout the video. (2) Decorative Text: '3C有意思tim哥' and '3ctim' appear as channel watermarks in the top left corner. (3) Hook Text: '家裡好幾台Switch' (Several Switches at home), '老婆你聽我狡辯' (Wife, let me explain), and '實際遊戲畫面' (Actual game footage) appear with stylized fonts to emphasize the narrative. (4) Technical Labels: '6.2吋', '7吋', and '7.9吋' appear to compare screen sizes."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Console Comparison -> Gameplay Demo -> Feature Highlights -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main creator (Tim) visible on screen; hands of the creator shown in close-ups.",
+      "mainCharacterDescription": "A middle-aged male with glasses, wearing a beige flat cap and a white t-shirt with red lettering."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "An indoor apartment setting featuring a wooden doorway, a living room with a grey fabric sofa, a white TV cabinet, and a large flat-screen TV.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Gaming Console",
+        "Television",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Nintendo Switch 2",
+        "COVERNAT"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and enthusiastic",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Game Music",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Game SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Comparison -> Feature Demo -> Humorous Conclusion",
+      "mainPurpose": "The video serves as a comedic tech review or 'first look' at a rumored/parody version of the Nintendo Switch 2. The creator uses a 'sneaking home with a new toy' trope to engage viewers before diving into specific (potentially mock) features like screen size and magnetic controllers to spark discussion and entertainment.",
+      "visualEmotion": "Humorous and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "While Nintendo products are featured, the video appears to be independent content or a parody regarding unreleased hardware.",
+      "endorsementObject": [
+        "Nintendo"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3C Tim's signature conversational style and interaction with his wife as an off-screen 'judge'.",
+      "freeDescribe": "The video likely uses a mockup or prototype shell of a rumored console, as it features a 'Switch 2' logo which is not officially released in this form. This adds a layer of speculative tech-vlogging."
+    }
+  }
+}

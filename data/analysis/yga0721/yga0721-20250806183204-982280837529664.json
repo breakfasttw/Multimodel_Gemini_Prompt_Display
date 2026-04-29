@@ -1,0 +1,184 @@
+{
+  "videoName": "yga0721-20250806183204-982280837529664.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 81,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Prank"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Osaka",
+          "Kobe"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Live-action. A man wearing a black cap, sunglasses, and a black vest sneaks around a modern glass building under a clear blue sky. (2) He is joined by a woman in a white t-shirt and khaki pants; they crouch and point towards a distant target. (3) The scene transitions to a crowded airport or train station terminal where the duo follows a young couple from a distance. (4) The man in black drops a 10,000 yen bill on the floor near the couple, who pick it up with surprised expressions. (5) The duo then performs a 'relay' where they hand bottled drinks to the male of the target couple while running past him. (6) The video concludes in a souvenir shop where the target male holds a Mickey Mouse plushie box, and the woman from the tracking duo films the couple's emotional reaction.",
+      "audio_narrative_log": "(1) High-tempo, upbeat electronic background music plays. A male voice speaks in a loud, energetic, and slightly mischievous Mandarin tone. (2) Ambient wind noise is heard during the outdoor scenes, followed by the sound of footsteps on a hard floor. (3) As the location shifts indoors, the soundscape includes muffled crowd chatter and distant public announcements. (4) Cartoon-style sound effects (SFX) such as 'dings' and 'swishes' play when text overlays appear or when the money is dropped. (5) The vocals become hushed and excited as the duo hides and watches the couple. (6) The music transitions into a more rhythmic pop style with a steady beat during the drink-handing sequence, eventually becoming softer in the final shop scene.",
+      "text_narrative_log": "(1) '嘎老闆尾隨' (Boss Ga stalking) - Hook text explaining the video's premise. (2) '死對頭!!' (Arch-rival!!) - Decorative text adding comedic emphasis. (3) '尾隨目標抵達' (Stalking target arrived) - Functional text marking a narrative phase. (4) '怎麼掉了一萬塊!!' (How did 10,000 yen fall!!) - Dramatic hook text. (5) '接力' (Relay) - Functional text describing the action. (6) '接不接受!!' (Accept or not!!) - Hook text creating suspense for a proposal moment."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 32,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Stalking/Observation -> Prank/Intervention -> Climax (Proposal support)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 12,
+      "maleDetectAmount": 6,
+      "femaleDetectAmount": 6,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 4,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "2 main creators (male/female), 2 targets (male/female), and at least 8 passers-by in the station/airport background.",
+      "mainCharacterDescription": "The main male creator wears a black cap, black sunglasses, a black t-shirt, and a black tactical vest with multiple pockets. The main female creator wears a white t-shirt and loose khaki cargo pants."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Airport Terminal",
+          "Train Station",
+          "Gift Shop"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern urban environments in Japan including a glass-walled building exterior, a clean airport terminal with travelers and luggage, and a well-lit Disney-themed gift shop.",
+      "lightingStyle": "Natural bright sunlight and even, bright indoor facility lighting.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Mandarin",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Follow shot",
+        "Handheld",
+        "Static",
+        "Hidden camera style"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Bottled tea",
+        "Bottled water"
+      ],
+      "trafficDetect": [
+        "Bus"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Kobe Airport"
+      ],
+      "brandLogos": [
+        "KOBE",
+        "COSTA",
+        "Mickey Mouse"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 5,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "Medium-high",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Transition swoosh"
+      ],
+      "ambientNoise": [
+        "Airport noise",
+        "Wind"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Mission Briefing -> Pursuit -> Interaction -> Resolution",
+      "mainPurpose": "The video aims to entertain viewers by showing a lighthearted 'stalking' prank where a boss follows his employees on their vacation in Japan, eventually revealing himself to help facilitate a special romantic or generous moment for them.",
+      "visualEmotion": "Energetic and Heartwarming"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing with colorful variety-show style Mandarin captions and high-energy personality-driven narration.",
+      "freeDescribe": "The video utilizes a high-inference prank format to build engagement, transitioning from a comedic pursuit to a supportive, celebratory ending."
+    }
+  }
+}

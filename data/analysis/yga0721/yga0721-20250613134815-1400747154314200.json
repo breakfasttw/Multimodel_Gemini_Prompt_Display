@@ -1,0 +1,168 @@
+{
+  "videoName": "yga0721-20250613134815-1400747154314200.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 23,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Public Statement"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man with short brown hair wearing a cream-colored sweatshirt stands indoors in front of large windows, looking directly at the camera with a neutral expression. (2) He gestures slightly with his hands and moves to his right, revealing a woman with short hair and a black jacket sitting on a bench behind him; she maintains a somber, downcast expression. (3) Both the man and the woman stand together and perform a synchronized, deep bow towards the camera, holding the position for several seconds.",
+      "audio_narrative_log": "(1) A male voice speaks in a calm, steady, and serious tone in Mandarin. (2) No background music is present; only very faint ambient indoor air noise is audible. (3) The male voice says 'Thank you everyone' (謝謝大家) in a polite manner before the sound cuts out.",
+      "text_narrative_log": "(1) '為了節省大家的時間' (Serious/Functional). (2) '有關今天凌晨+O發表的聲明影片' (Serious/Functional). (3) '幫大家統整的' (Informative/Functional). (4) '+O聲明影片 重點懶人包如下' (Hook/Functional). (5) '謝謝大家' (Polite/Functional)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 7.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Address to camera -> Reveal second person -> Final bow"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male speaking to camera, 1 female sitting in the background.",
+      "mainCharacterDescription": "Male: Mid-30s, short brown hair, wearing a cream-colored sweatshirt with exposed seams. Female: Mid-30s, short dark hair with bangs, wearing a black jacket over a ruffled collar."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor observation deck"
+        ],
+        "topography": [
+          "Mountainous"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "Large floor-to-ceiling windows overlooking a town with mountains in the far distance; a long wooden table or bench is visible along the window.",
+      "lightingStyle": "Bright natural daylight",
+      "weather": "Sunny",
+      "season": "Winter",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Panning"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Lavalier Microphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Steady and solemn",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Introduction -> Body -> Conclusion",
+      "mainPurpose": "To provide a concise summary of a statement video released by another party and to conclude with a formal, somber expression of gratitude or apology to the audience.",
+      "visualEmotion": "Serious"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Creator's formal addressing style followed by a traditional deep bow.",
+      "freeDescribe": "The video carries a heavy, serious tone typical of public responses to controversies or significant news within the influencer community."
+    }
+  }
+}

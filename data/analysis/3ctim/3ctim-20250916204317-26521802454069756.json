@@ -1,0 +1,178 @@
+{
+  "videoName": "3ctim-20250916204317-26521802454069756.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 87,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tech Commentary",
+        "Advertisement"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan",
+          "USA"
+        ],
+        "city": [
+          "Cupertino"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a middle-aged man with glasses, a blue cap, and a white hoodie with an Apple logo standing in a brightly lit indoor room, greeting the camera with open hand gestures. (2) There is a brief cut to an outdoor scene showing a modern building under a blue sky with white clouds in Cupertino, California. (3) Returning to the indoor setting, the man continues to speak enthusiastically, with various graphics of the iPhone 17 in multiple colors (black, white, blue, yellow, green) appearing around him. (4) For the remainder of the video, the man remains the central figure, but the screen is frequently overlaid with large, colorful promotional graphics, price points ($990, $3060, $1000), and a detailed infographic listing pre-order benefits. (5) He uses frequent hand gestures to emphasize points, occasionally folding his arms or pointing towards the text overlays. (6) The video concludes with a large QR code and social media contact information displayed on screen.",
+      "audio_narrative_log": "(1) The audio begins with an upbeat, fast-paced electronic pop background track. A male voice (Tim) immediately starts speaking in a high-pitched, energetic, and professional tone, greeting the audience. (2) As the speaker discusses the iPhone 17 release, the music continues at a steady volume, acting as an energetic bed for the narration. (3) Periodic 'whoosh' and 'ding' sound effects are used to highlight the appearance of graphical overlays and price tags. (4) The speaker's delivery is rapid and continuous, with very few pauses, maintaining a persuasive and excited atmosphere throughout. (5) The background music remains consistent in tempo until the very end, where it slightly fades out as the speaker finishes his call to action.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles appear at the bottom of the screen throughout the video, translating the speaker's dialogue. (2) Decorative/Hook Text: Large variety-show style captions appear frequently, such as 'iPhone 17 已經正式發表!' (iPhone 17 has been officially released!), '超划算' (Very cost-effective), '最聰明的決定' (The smartest decision), and 'miko 米可' (brand name). (3) Information Text: Promotional details like '預約客戶享$990保留' ($990 for pre-order retention), '$3060大禮包' ($3060 gift pack), and '$1000' discounts are prominently displayed with energetic colors and fonts. (4) Contact Text: A LINE ID '@miko168' and a QR code appear towards the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> News Announcement -> Promotional Offer Breakdown -> Trade-in/Bonus Details -> CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator appearing throughout the video.",
+      "mainCharacterDescription": "A middle-aged East Asian man with glasses, wearing a light blue flat cap and a white hoodie featuring a colorful Apple logo on the chest."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The primary background is a modern, minimalist indoor room with a gray sofa, a thin floor lamp with a golden disk, and a large window with white curtains. A brief outdoor shot shows a corporate-style building with glass windows in a park-like setting.",
+      "lightingStyle": "Bright natural indoor light and studio-quality fill lighting.",
+      "weather": "Sunny",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple",
+        "miko 米可"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and persuasive",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Whoosh",
+        "Pop",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Problem/Solution -> Feature Breakdown -> Call to Action",
+      "mainPurpose": "The video serves as a promotional advertisement for a mobile phone retailer called 'miko' (米可). It leverages the hype surrounding the iPhone 17 release to attract customers by detailing exclusive pre-order benefits, including significant price discounts, a $3060 accessory gift pack, and trade-in bonuses, ultimately urging viewers to contact the store via LINE or visit in person.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator directly addresses the camera to recommend the 'miko' (米可) store, displays their logo, and provides a specific LINE ID for bookings.",
+      "endorsementObject": [
+        "miko 米可"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy tech influencer persona, frequent use of specific graphic templates for price comparisons.",
+      "freeDescribe": "The video uses typical 'KOL' (Key Opinion Leader) marketing tactics, combining a trusted tech personality with high-value promotional offers to drive sales conversion."
+    }
+  }
+}

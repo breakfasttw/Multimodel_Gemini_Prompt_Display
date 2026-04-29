@@ -1,0 +1,184 @@
+{
+  "videoName": "3ctim-20250915175131-767336012702107.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 56,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Commentary",
+        "Comparison",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a blue cap, wearing a white hoodie, speaks directly to the camera in a brightly lit indoor room. (2) Cut to a close-up of a smartphone screen showing camera zoom functionality, transitioning to various renders of iPhone 17 Pro and iPhone Air models in different colors (orange, white, blue, green). (3) Hand-held shots demonstrate a MagSafe battery pack being attached to a clear phone case. (4) Split-screen and overlaid graphics compare charging speeds and port types between different models. (5) The man returns to the screen, gesturing with both hands to emphasize points. (6) The final shot shows the man in a retail environment behind a glass display case containing various smartphone boxes.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo background music starts immediately. A male voice speaks in an enthusiastic, informative tone in Mandarin. (2) The male voice continues at a fast pace, providing technical details about chipsets and camera specs, accompanied by occasional digital 'ping' sound effects for emphasis. (3) The music maintains a consistent rhythm as the speaker compares charging wattages and battery features. (4) The audio concludes with a clear call-to-action recommending a specific retail store, with the music fading out at the end.",
+      "text_narrative_log": "(1) 'iPhone 17全系列 發表會沒說的事' - Hook text regarding things not mentioned in the keynote. (2) '(iPhone 17 pro)', 'iPhone air', 'A19 pro' - Functional labels for device models and processors. (3) '40瓦有線快充', 'USB 3.0', 'MagSafe' - Technical specifications and feature highlights. (4) '推薦大家 買手機到米可' - Promotional recommendation text for the store 'Miko'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Technical Feature Breakdown -> Product Comparisons -> Recommendation/Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Full body",
+        "Upper body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 1 male and 2 female blurred figures in the background of the shop scene.",
+      "mainCharacterDescription": "A middle-aged Asian man wearing a blue denim newsboy cap, glasses, and a white hoodie with an Apple-themed sticker on the chest."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Mobile Phone Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A domestic indoor setting with soft curtains and minimal decor, transitioning to a bright retail store with glass display counters and branded phone packaging.",
+      "lightingStyle": "Bright studio lighting and natural indoor light.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "MagSafe Battery",
+        "Phone Case"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple",
+        "Vivo",
+        "Oppo",
+        "Realme",
+        "Miko"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Ping",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Technical Specs -> Comparative Analysis -> Endorsement",
+      "mainPurpose": "To provide a tech-savvy audience with detailed, non-obvious technical comparisons between the upcoming iPhone 17 series models, ultimately driving traffic to a specific retail partner for purchase.",
+      "visualEmotion": "Energetic and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct verbal recommendation and visual logo placement for 'Miko' (米可) retail stores at the end of the video.",
+      "endorsementObject": [
+        "Miko",
+        "米可"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Creator '3C有意思Tim哥' opening style, frequent use of colorful technical overlays, and consistent Apple sticker branding on clothing.",
+      "freeDescribe": "The video uses a high-information-density approach typical of professional tech influencers to build authority before pivoting to a commercial sponsorship."
+    }
+  }
+}

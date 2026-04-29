@@ -1,0 +1,177 @@
+{
+  "videoName": "2uncle987-20250503210820-1580947696556909.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 20,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Beigang"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a montage of extremely dense crowds of people, many wearing orange caps, in a bustling street filled with red banners and traditional Chinese architecture. (2) Quick cuts show scenes of people sitting in a crowded indoor eatery, pedestrians navigating narrow gaps, and a busy intersection with numerous motorcycles and traffic lights. (3) A woman wearing a white t-shirt, pink pants, and a white mask is shown from behind and then frontally, walking through the throng; she eventually holds up a takeout container as text appears over her.",
+      "audio_narrative_log": "(1) A high-energy, upbeat electronic music track with a fast tempo starts immediately and persists throughout the entire video. (2) Repetitive, high-pitched female vocals singing a rhythmic phrase (Shikanoko Nokonoko Koshitantan) loop over the beat. (3) There are no ambient noises from the crowd or traffic, and no spoken dialogue is audible; the production relies entirely on the background music.",
+      "text_narrative_log": "(1) Functional Text: 'POV: 白沙屯媽祖來北港時' appears at the top, establishing the context as the Baishatun Mazu pilgrimage in Beigang. (2) Decorative Text: '買飯好難' (Buying food is so hard) appears in large characters at the end, providing a humorous and relatable punchline about the difficulty of basic tasks in such a large crowd."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 1.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro/Context -> Series of crowded atmosphere shots -> Specific personal struggle/punchline"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 100,
+      "maleDetectAmount": 45,
+      "femaleDetectAmount": 50,
+      "kidsDetectAmount": 5,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main female character at the end; hundreds of individuals in a dense pilgrimage crowd.",
+      "mainCharacterDescription": "A young woman wearing a white short-sleeved t-shirt, light pink wide-leg pants, a white face mask, and carrying a yellow bag."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Indoor Kitchen",
+          "Temple Area"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Traditional Taiwanese streets with red lanterns, commercial signage, food stalls, motorbikes, and a dense flow of people during a religious festival.",
+      "lightingStyle": "Natural daylight",
+      "weather": "Sunny",
+      "season": "Spring",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Takeout box",
+        "Table of dishes"
+      ],
+      "trafficDetect": [
+        "Motorcycle",
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Beigang Chaotian Temple area"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and energetic",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous singing",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Meme",
+      "bgmBPM": 140,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Observation -> Conclusion",
+      "mainPurpose": "To showcase the massive scale of the Baishatun Mazu pilgrimage through a fast-paced, humorous lens, highlighting how the sheer number of people makes even simple acts like buying food a challenge.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of trending 'Shikanoko' meme audio synchronized with fast cuts of crowd scenes.",
+      "freeDescribe": "The video effectively captures the cultural vibrancy and physical congestion of a major Taiwanese religious event, using modern internet trends to communicate the experience."
+    }
+  }
+}

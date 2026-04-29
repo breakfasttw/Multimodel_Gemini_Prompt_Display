@@ -1,0 +1,187 @@
+{
+  "videoName": "alephant_0427-20251207201053-1343680884331924.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 68,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with brown hair, wearing a black leather jacket and a grey dress, walks outdoors during the day near a modern building. She talks to the camera, looking confused and pointing towards a tall, colorful tower in the distance. (2) Night falls, and shots of the tower, decorated with colorful patterns and lights, are shown from below. (3) The woman is now inside an elevator with two female friends, all smiling and making peace signs at the camera. (4) Inside a high-altitude restaurant with large windows, the woman spins around in her grey dress, showcasing the night city view. She clinks glasses with her friends. (5) Close-ups of various gourmet dishes are presented: seared scallops, fish, and shrimp in sauce. The woman is seen eating a piece of food and reacting with delight. (6) A shot shows a knife cutting into a piece of crispy pork knuckle. (7) The woman is seen playfully singing and posing in the restaurant, followed by a final group shot with her friends.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo BGM starts with clear Mandarin female vocals speaking in a conversational, excited tone. Background wind noise is audible. (2) At 00:13, the BGM shifts to a more atmospheric, calm style. A deep, professional male voice takes over the narration, explaining details of the location. (3) Around 00:21, the female vocals return with high energy and laughter. Sound effects (SFX) like sparkles and 'dings' are added during scene transitions. (4) During the food segments, subtle chewing sounds and the clinking of glasses are heard. (5) In the final segment, the woman's voice is heard singing briefly with a playful, humorous tone, accompanied by rhythmic pop-style music.",
+      "text_narrative_log": "(1) Decorative text '這什麼味道啊' (What is this smell?) appears in purple with a confused tone. (2) '垃圾的味道' (The smell of trash) appears with a trash can icon. (3) '你們有吃過焚化爐嗎？' (Have you ever eaten an incinerator?) serves as a hook. (4) Functional text '星月旋轉景觀餐廳' (Star-Moon Rotating Scenic Restaurant) provides the name, followed by address and business hours. (5) '這電梯很快欸' (This elevator is so fast) captions the elevator scene. (6) '首座煙囪旋轉餐廳' (The first chimney rotating restaurant) highlights a key selling point. (7) Menu item names and prices like '香煎海鱸... $1280' appear in white text. (8) Call to action '推薦給我們吧' (Recommend to us) appears at the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 26,
+      "averageSceneDuration": 2.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro/Hook -> Location Introduction -> Journey (Elevator) -> Food Review -> Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main creator (female), 2 female friends appearing in the elevator and dining scenes.",
+      "mainCharacterDescription": "A young woman with long light brown hair tied back, wearing a black choker, a grey sleeveless mini dress, and a black leather jacket (outdoors)."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Restaurant",
+          "Outdoor Street",
+          "Elevator"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Outdoors near a modern glass building; a tall tower with a rainbow-colored checkerboard pattern; a dim, high-end rotating restaurant with panoramic windows overlooking city night lights.",
+      "lightingStyle": "Natural daylight outdoors; warm, dim ambient lighting inside the restaurant with glowing city lights visible through windows.",
+      "weather": "Cloudy",
+      "season": "Autumn/Winter (implied by clothing)",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and warm in the restaurant; slightly cool tones for the outdoor day shots.",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Scallops",
+        "Fish",
+        "Shrimp",
+        "Pork Knuckle",
+        "Salad",
+        "Bread"
+      ],
+      "trafficDetect": [
+        "Motorcycle"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Beitou Incinerator"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 3,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, excited, and energetic female voices; steady and informative male narrator.",
+        "pitch": "Medium-high for females; Deep for male narrator.",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop / Jazzy",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums",
+        "Piano"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Sparkle SFX",
+        "Transition Swoosh",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Wind",
+        "Restaurant chatter"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Location Introduction -> Experience Journey -> Product Showcase -> CTA",
+      "mainPurpose": "The video is a lifestyle and travel vlog aimed at recommending the 'Star-Moon Rotating Scenic Restaurant' in Taipei. It uses a playful hook about the smell of trash (since the restaurant is located on an incinerator chimney) to grab attention, then transitions into a high-quality showcase of the views, food, and atmosphere to attract diners.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed display of the restaurant's name, address, operating hours, specific menu prices, and positive reactions to the food and view.",
+      "endorsementObject": [
+        "星月旋轉景觀餐廳"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Playful and expressive reactions from the creator; 'variety show' style text overlays.",
+      "freeDescribe": "The video effectively uses the contrast between the functional nature of an incinerator and the luxury of the rotating restaurant to create a compelling travel hook."
+    }
+  }
+}

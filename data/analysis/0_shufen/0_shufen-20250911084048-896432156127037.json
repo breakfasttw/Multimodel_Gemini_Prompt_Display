@@ -1,0 +1,168 @@
+{
+  "videoName": "0_shufen-20250911084048-896432156127037.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 13,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Greeting"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a light blue low-cut top and a white pleated skirt, stands in an indoor setting with a wooden cabinet behind her. She smiles broadly at the camera. (2) She continues to speak directly to the camera with animated facial expressions and slight swaying movements. (3) She leans slightly forward and extends both hands towards the camera in a cupping gesture while maintaining a cheerful expression.",
+      "audio_narrative_log": "(1) A female voice begins speaking in Taiwanese Hokkien with a cheerful and warm tone. No background music is audible. (2) The vocal delivery remains energetic and rhythmic, suggesting a festive or personal message. (3) The recording concludes with the voice maintaining a high pitch and friendly cadence, accompanied only by very faint indoor ambient noise.",
+      "text_narrative_log": "(1) None. No on-screen text or subtitles appear during the video."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 6.5,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Consistent talking to camera -> Outro gesture"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Upper body",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main character in the foreground.",
+      "mainCharacterDescription": "A young woman with long, straight dark hair, wearing a light blue wrap-style top and a white pleated skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A wooden cabinet or door on the left and a white paneled or tiled wall on the right.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High (mainly talking head)"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful, warm, and slightly teasing",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Taiwanese Hokkien",
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Greeting -> Personal explanation -> Holiday wishes -> Call to action",
+      "mainPurpose": "The video is a personal Lunar New Year greeting directed towards elders and social media followers. The speaker uses Taiwanese Hokkien to create a sense of intimacy and tradition, wishing the audience prosperity and health while playfully requesting traditional red envelopes (Hongbao), positioning herself as a charming and respectful younger generation figure.",
+      "visualEmotion": "Energetic and friendly"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Direct address to elders in dialect, playful cupping-hand gesture.",
+      "freeDescribe": "The use of Taiwanese Hokkien suggests the content is targeted at a specific regional demographic (Taiwan) or older generations who value traditional dialects during the New Year."
+    }
+  }
+}

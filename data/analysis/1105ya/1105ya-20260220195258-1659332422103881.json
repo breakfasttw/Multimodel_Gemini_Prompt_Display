@@ -1,0 +1,184 @@
+{
+  "videoName": "1105ya-20260220195258-1659332422103881.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 79,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Promotion",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Kaohsiung"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a young woman in white top and black pants at a stadium, looking excited and cheering with fans in the background. (2) She transitions to a red carpet area in front of an 'AAA 2025' backdrop, posing for photos. (3) A sequence follows showing a smartphone interface where she uses an AI tool to select 'Best Face' on a photo of herself. (4) Footage transitions to various K-pop performers on a brightly lit concert stage, showcasing varying levels of zoom from the stadium seats. (5) She is then seen using the 'Circle to Search' feature on her phone to identify a song playing at the event. (6) The final section shows her speaking directly to the camera while holding a Samsung smartphone, demonstrating its features in both daylight and night stadium environments, ending with a Samsung brand logo screen.",
+      "audio_narrative_log": "(1) High-energy stadium environment with loud cheering and upbeat electronic background music. (2) A cheerful female voice speaks enthusiastically in Mandarin. (3) Transitions into live concert audio including various pop/dance songs and amplified male and female vocals from performers. (4) Occasional interaction sounds such as smartphone camera shutters and app interface notification pings. (5) A male voice briefly interacts with the female lead off-camera during the photo review section. (6) Music remains upbeat and rhythmic throughout the conclusion as the female voice provides a summary.",
+      "text_narrative_log": "(1) Functional Text: 'AAA 2025', 'Kaohsiung National Stadium', 'Galaxy S25 Ultra', 'ALLDAY PROJECT'. (2) Decorative/Hook Text: '超近的!!' (So close!!), '(尖叫)' (Screaming), '你就要把我拍成這樣?' (You're going to take a picture of me like this?), '超方便' (Super convenient), '演唱會神機' (The ultimate concert phone). (3) Call to Action: '留言你最喜歡 Galaxy S25 Ultra 的什麼功能?' (Comment what feature of Galaxy S25 Ultra you like most?)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 3.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro/Hype -> Feature Demonstration (Camera/AI) -> Concert Footage Showcase -> Review & Outro."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 25,
+      "maleDetectAmount": 10,
+      "femaleDetectAmount": 15,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 female main lead, 1 male off-camera photographer, approximately 8 stage performers, and a large background crowd of over 15 visible attendees.",
+      "mainCharacterDescription": "A young Asian woman with long brown hair, wearing a white long-sleeved turtleneck crop top and black cargo pants, later seen in a grey cardigan and blue tank top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Stadium",
+          "Outdoor Red Carpet",
+          "Night Venue"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A large modern stadium (Kaohsiung National Stadium) with blue seating, a large concert stage with complex lighting and LED screens, and an outdoor promotional backdrop area.",
+      "lightingStyle": "Mixed: Bright natural daylight outdoors and intense, colorful artificial stage lighting with pyrotechnics at night.",
+      "weather": "Sunny/Clear",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and High Saturation",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Follow shot",
+        "Digital Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Caddy/Cart"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Kaohsiung National Stadium"
+      ],
+      "brandLogos": [
+        "Samsung",
+        "AAA 2025"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut with sound effect transitions",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 10,
+        "vocal_demographics": {
+          "male_vocal_count": 5,
+          "female_vocal_count": 6,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched, excited, and persuasive",
+        "pitch": "Medium-High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "English",
+          "Korean"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "K-Pop/Dance-pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song",
+        "Live"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Camera Shutter",
+        "Notification chime"
+      ],
+      "ambientNoise": [
+        "Crowd cheering",
+        "Stadium echo"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Experience Demo -> Problem/Solution -> Direct Promotion -> CTA",
+      "mainPurpose": "The video is a promotional vlog for the Samsung Galaxy S25 Ultra. It uses the setting of the Asia Artist Awards to demonstrate high-value consumer features: the 20x-100x zoom capability for concerts, AI photo editing to fix bad expressions, and the Circle to Search music identification tool. The goal is to position the phone as the essential device for fans attending live music events.",
+      "visualEmotion": "Energetic and Impressed"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct verbal recommendation, product name in subtitles, demonstration of specific technical features, and concluding with a brand logo animation.",
+      "endorsementObject": [
+        "Samsung Galaxy S25 Ultra"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy variety show captions and quick-cut editing common in Taiwanese influencer vlogs.",
+      "freeDescribe": "The video effectively bridges the gap between lifestyle vlogging and tech review by applying high-tech features to a specific real-world fan use case (K-pop concerts)."
+    }
+  }
+}

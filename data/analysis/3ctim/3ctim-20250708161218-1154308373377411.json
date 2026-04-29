@@ -1,0 +1,183 @@
+{
+  "videoName": "3ctim-20250708161218-1154308373377411.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 39,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Commentary",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "USA"
+        ],
+        "city": [
+          "Austin"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Live-action video begins with a middle-aged male creator with glasses and a black cap, smiling and gesturing towards the camera against a blurred indoor background. (2) Transition to footage of a white Tesla Model Y performing a right-hand turn at a city intersection with pedestrians crossing; labels and arrows point to the car. (3) Scene cuts back to the creator speaking enthusiastically, followed by a series of technical clips showing a car's steering wheel rotating automatically and a dashboard screen displaying real-time 3D environment mapping. (4) Close-up of an external vehicle camera and a shot of a white car driving along a winding mountain road. (5) A wide shot of the Austin, Texas city skyline across a body of water. (6) The creator returns to the frame, pointing at the camera and nodding.",
+      "audio_narrative_log": "(1) High-pitched and energetic male Mandarin vocals begin immediately. Upbeat, moderate-tempo electronic background music starts. (2) Vocals continue with a friendly and informative tone while subtle digital 'ping' sound effects accompany the appearance of text graphics. (3) Background music remains consistent in volume and tempo. (4) Minimal ambient city noise is detectable during outdoor street footage but remains secondary to the vocal track. (5) Music and vocals continue until the end, concluding with a slight fade.",
+      "text_narrative_log": "(1) 'Tesla Robotaxi officially on the road!' - Hook text, excited tone. (2) 'Robotaxi' and 'Model Y autonomous turn' - Functional labels for video evidence. (3) 'Lidar' and 'High-precision map' - Functional text explaining competitive technologies. (4) 'Pure vision solution' - Functional text highlighting Tesla's specific technology. (5) 'Austin, Texas' - Descriptive text for the operating location. (6) 'Try it in Austin' - Call to action text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Technical Comparison -> Feature Demonstration -> Geographic Context -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 6,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, approximately 5 pedestrians visible in the street scene background",
+      "mainCharacterDescription": "Middle-aged male wearing a black newsboy cap, black-rimmed glasses, a black T-shirt with 'Apple' text/logo, a beaded bracelet, and a rainbow-colored watch strap."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Outdoor Street",
+          "Cityscape"
+        ],
+        "topography": [
+          "Plain",
+          "River"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "An indoor studio with soft lighting and curtains; an urban intersection with traffic lights and storefronts; a coastal city skyline with high-rise buildings and a river.",
+      "lightingStyle": "Mixed: Bright studio lighting for the creator and natural daylight for exterior shots.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV",
+        "Tracking"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Tesla Model Y",
+        "Truck"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Vehicle Sensor",
+        "Touchscreen Tablet"
+      ],
+      "landmark": [
+        "Austin Skyline"
+      ],
+      "brandLogos": [
+        "Tesla",
+        "Apple",
+        "Waymo"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Moderate-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Magic Sparkle",
+        "UI Click"
+      ],
+      "ambientNoise": [
+        "Traffic"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Comparison -> Tech Deep-dive -> Practical Application -> CTA",
+      "mainPurpose": "To inform the audience about the real-world deployment of Tesla's Robotaxi service in Austin, Texas, while specifically explaining how Tesla's 'pure vision' approach differs from competitors using Lidar and high-precision maps.",
+      "visualEmotion": "Energetic and Optimistic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video presents as a news commentary or tech review rather than a paid promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Consistent '3c' branding in the corner, variety-show style dynamic captions, and the creator's signature glasses/cap look.",
+      "freeDescribe": "The video uses fast-paced editing and bright visuals to maintain high viewer engagement for tech news delivery."
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "videoName": "0_shufen-20251208180938-882322227951342.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 5,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Social Media Interaction"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a close-up shot of a young woman with long dark hair, wearing purple-tinted glasses and a black low-cut top. She covers her mouth with her hand and looks slightly off-camera with an expression of surprise or realization. The background shows the interior of a subway car. (2) The camera then shifts to a medium shot of a passenger sitting on a green subway seat. The passenger is wearing a mask and a beige shirt, holding a smartphone in landscape orientation. (3) A close-up of the smartphone screen reveals that the person is scrolling through Instagram Reels, specifically viewing videos that feature the woman from the first scene.",
+      "audio_narrative_log": "(1) A light, melodic chime-like background track begins immediately, featuring a repetitive and curious tone. (2) Background ambient noise of a moving train, including low-frequency mechanical humming and slight rattling, is present beneath the music. (3) No human vocals, speech, or sound effects are detected throughout the clip.",
+      "text_narrative_log": "(1) \"當我在捷運上發現...\" (Traditional Chinese): Functional Hook text meaning \"When I discovered on the MRT...\". (2) \"有人在滑我的 Reels\" (Traditional Chinese): Functional Hook text meaning \"Someone is scrolling through my Reels\". The tone is one of surprised revelation."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 1.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "The woman looks at the camera with a realization -> The camera reveals what she saw (a stranger watching her videos) -> Zoom on the evidence."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 female main creator in the foreground; 1 passenger (male-presenting) sitting on the train seat.",
+      "mainCharacterDescription": "A young woman with long dark hair, wearing purple-tinted glasses and a black v-neck top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Public Transport",
+          "Subway Train"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The interior of a modern subway car with green plastic seats, yellow vertical handrails, and digital route displays.",
+      "lightingStyle": "Standard indoor public lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Subway Train"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Instagram"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Melodic",
+      "bgmBPM": 110,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Bells"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Subway hum",
+        "Mechanical noise"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Observation -> Proof",
+      "mainPurpose": "The video aims to share a serendipitous moment of 'social proof' where the creator finds a random stranger in a public setting watching her content. This serves to validate her influence and popularity to her followers.",
+      "visualEmotion": "Surprised, Humorous, Coy"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Caught in the wild trope",
+      "freeDescribe": "The video utilizes a common influencer narrative where they 'accidentally' find someone watching their videos to reinforce their social status."
+    }
+  }
+}

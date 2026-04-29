@@ -1,0 +1,181 @@
+{
+  "videoName": "cocowine0205-20250304144504-1284813203548458.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins in a Costco warehouse. A young woman with long dark hair, wearing a black pinafore dress over a white puff-sleeved blouse, stands in front of a massive stack of red noodle boxes. She points enthusiastically at the product. (2) She brings a single box close to the camera, pointing at the printed image of a bowl of noodles with a whole egg. (3) The scene shifts to her home environment where several individual packets of noodles are laid out on a table. She picks up a vacuum-sealed tea egg and a meat sauce packet, showing them to the camera. (4) Two women are then shown sitting at a dining table, each with a bowl of the prepared noodles. They use chopsticks to lift the noodles and take large bites. (5) They hold up rating cards and gesture 'thumbs up' to the camera, appearing very satisfied.",
+      "audio_narrative_log": "(1) Upbeat and energetic background music with a strong electronic beat begins immediately. A woman's voice is heard speaking in an excited, high-pitched tone, introducing the product. (2) The music continues at a steady volume while a male voice (narrator) provides details about the price and packaging contents. (3) Sound effects like a 'pop' and 'ding' are heard synchronized with text appearing on screen. (4) The audio transitions to ambient sounds of a kitchen/dining area, including the sound of slurping noodles and soft vocal exclamations of approval ('Mmm!'). (5) The video ends with a cheerful closing statement from the speakers over the fading music.",
+      "text_narrative_log": "(1) 'COSTCO WHOLESALE' logo appears at the top throughout the warehouse segment. (2) '圖片跟實體一樣！五木擔仔麵' (Picture is same as real thing! Wu-Mu Danzai Noodles) appears as a bright yellow and red hook. (3) '$329' and '一包是54塊' (One pack is 54 dollars) are functional texts showing the price. (4) '9.5分' and '10分' indicate their high ratings of the food. (5) '肚子餓必備' (Must-have when hungry) and '推薦你' (Recommend to you) serve as the closing hook/CTA."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Discovery at Warehouse -> Price and Content Detail -> Home Unboxing -> Tasting and Final Rating"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Half body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators onscreen, at least 2 shoppers visible in the warehouse background.",
+      "mainCharacterDescription": "Two young women with long dark hair; one wears a black dress over a white blouse, the other wears a teal turtleneck."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Indoor Home"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A typical Costco warehouse with high metal shelving and bulk goods; a home dining area with various plush toys and household decorations.",
+      "lightingStyle": "Bright, even indoor lighting.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Instant Noodles",
+        "Tea Egg",
+        "Meat Sauce"
+      ],
+      "trafficDetect": [
+        "Shopping Cart"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "五木",
+        "福記"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and persuasive",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Digital Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop-up SFX",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Location Discovery -> Product Specification -> Cooking/Testing -> Evaluation",
+      "mainPurpose": "To review and endorse a specific brand of Danzai noodles sold at Costco, highlighting the fact that it includes a real tea egg and comparing the actual product to its packaging image.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct recommendation, high numerical ratings, and detailed product unboxing.",
+      "endorsementObject": [
+        "五木",
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-cut editing style combined with colorful, variety-show style text graphics and high-pitched enthusiastic narration.",
+      "freeDescribe": "The video targets budget-conscious consumers and foodies looking for convenience without sacrificing quality, specifically leveraging the 'Costco' brand popularity."
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "videoName": "2uncle987-20250411223112-1200946185559551.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 77,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Humor"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Hsinchu"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a young woman in a grey jacket looking skeptical in a bright indoor room with white furniture. (2) The main creator, a girl with her hair in two buns, introduces a red and white package of Ippei-chan instant noodles. (3) She proceeds to prepare the noodles, showing the process of adding boiling water, letting it sit, and then draining the water through the container's built-in strainer. (4) She opens three packets: a red strawberry sauce, a white creamy powder, and a purple packet containing dried strawberry bits, adding them all to the noodles. (5) She mixes the noodles thoroughly and holds the result up to the camera, comparing the dry, pinkish appearance of the actual food to the vibrant, luscious photo on the packaging. (6) She tastes the noodles with a worried expression and then offers the container to a group of friends sitting on the floor. (7) One friend in a grey jacket takes a bite and gives a surprising 'not bad' reaction, followed by two other friends who also try the noodles with curious and amused expressions.",
+      "audio_narrative_log": "(1) The audio begins with upbeat, high-tempo pop music featuring electronic synths. A high-pitched, energetic female voice (the creator) starts speaking enthusiastically in Mandarin. (2) As the noodle preparation begins, the music continues in the background while various sound effects are heard, including the sound of flowing water and variety-show style 'ding' and 'pop' cues. (3) The creator's voice maintains a fast pace, narrating each step of the flavoring process. (4) The audio landscape shifts to include multiple female voices as the friends begin to comment on the food, with laughter and conversational chatter layered over the persistent background music. (5) The video ends with a final upbeat musical flourish and the sounds of the friends laughing.",
+      "text_narrative_log": "(1) Functional Text: '在新竹人的面前' (In front of Hsinchu people) - Setting the context. (2) Decorative/Effect Text: '好像餵什麼都 OK 啊' (Seems like they are okay with whatever you feed them) - Humorous commentary on the friends' reactions. (3) Functional Text: '大家知道一平炒麵嗎' (Does everyone know Ippei-chan yakisoba?) - Introductory hook. (4) Decorative Text: '草莓蛋糕口味' (Strawberry cake flavor) - Highlighting the unique product flavor. (5) Functional/Instructional Text: '(蓋過麵條約八分滿)' (Cover the noodles about 80% full) - Preparation advice. (6) Decorative/Effect Text: '圖文不符' (Image doesn't match reality) - Sarcastic remark about the product's appearance. (7) Functional Text: '試吃時間' (Tasting time) - Transition to the reaction phase."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 32,
+      "averageSceneDuration": 2.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Product Preparation -> Comparison -> Group Tasting/Reaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Headshot"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator and 3 female friends participating in the tasting.",
+      "mainCharacterDescription": "A young Asian woman with her hair styled in two small buns on top of her head, wearing a black zip-up hoodie over a blue and white striped shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A bright, clean indoor environment with white walls, white modern chairs, a large white refrigerator, and several cartoon-style posters/drawings hanging on the wall.",
+      "lightingStyle": "Bright studio lights",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Bright",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Instant Noodles",
+        "Dried Strawberry"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Refrigerator"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "明星",
+        "一平ちゃん"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cuts synchronized with visual transitions",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 4,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched, enthusiastic, and playful",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Variety show dings",
+        "Water pouring",
+        "Cartoon pops"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Process -> Conflict -> Resolution",
+      "mainPurpose": "The video is an entertainment-focused food review of a bizarre Japanese product (strawberry cake flavored yakisoba). It uses the contrast between the product's unappealing reality and the creator's high-energy presentation, along with the unexpected positive reactions from friends, to create a humorous and engaging piece of social content.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The tone is critical and humorous rather than promotional, focusing on the weirdness of the product.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Heavy use of variety-show style text overlays and high-energy narration typical of Taiwanese lifestyle influencers.",
+      "freeDescribe": "The video leverages local cultural tropes, specifically joking about the palates of people from Hsinchu, to foster community engagement."
+    }
+  }
+}

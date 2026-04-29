@@ -1,0 +1,176 @@
+{
+  "videoName": "3ctim-20250914023021-1621533138981341.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Product Review",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with a light blue cap and glasses is speaking enthusiastically to the camera in an indoor studio setting with a blue padded wall background. (2) The scene transitions to a close-up of a transparent smartphone case, where a hand demonstrates a specific orange button on the side. (3) Detailed shots follow, showing the camera lens protection area and the phone being dropped onto a light wood surface to test durability. (4) The video highlights the transparent back of the case and demonstrates its magnetic alignment with a silver charging disc and a power bank. (5) Two power banks, one black and one silver, are showcased with close-ups of their labels and regulatory certifications. (6) The man reappears at the end, holding a small object and continuing his explanation with expressive hand gestures.",
+      "audio_narrative_log": "(1) An upbeat, fast-paced background music with a steady rhythmic beat starts immediately. A male voice speaks in a loud, energetic, and professional tone in Mandarin. (2) The vocal remains continuous and dominant over the music as the speaker explains product features. (3) Subtle sound effects, such as a sharp click or a soft thud, are heard during the demonstration of the phone case and when it is placed on the desk. (4) The music maintains its volume and energy level throughout the video, ending abruptly as the speaker finishes his call to action.",
+      "text_narrative_log": "(1) 'iPhone 17系列大改' - Functional text announcing the topic. (2) '你買好保護殼了嗎？' - Hook text asking the audience a question. (3) '神腦 MEGA KING' - Functional text identifying the brand. (4) '專利快捷感應鍵' - Decorative text highlighting a key feature with an emotional emphasis on 'Patent'. (5) '1.5倍磁吸' - Functional text indicating technical specs. (6) '準固態防爆磁吸行動電源' - Functional text naming the product. (7) '台灣製造' - Decorative text emphasizing product origin. (8) '加入神腦會員' - Functional text for a call to action."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 3.14,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Product Feature Demonstration -> Technical Specification Breakdown -> Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male creator acting as the host and demonstrating products.",
+      "mainCharacterDescription": "A male wearing a white t-shirt, a light blue denim-style cap, and glasses, appearing as a tech reviewer."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A studio setup with a blue sound-absorbing padded wall, a wooden desk, and a decorative wave art piece in a frame.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Macro"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Phone Case",
+        "Power Bank",
+        "MagSafe Charger"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "MEGA KING",
+        "3ctim"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Steady and professional",
+        "pitch": "Normal",
+        "loudness": "Loud",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drum"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature Spotlight (iPhone Case) -> Technical Validation (Power Bank) -> CTA",
+      "mainPurpose": "To promote MEGA KING's new line of mobile accessories, specifically targeting iPhone 16 users by showcasing durable cases with innovative buttons and high-safety power banks made in Taiwan.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator specifically introduces the brand MEGA KING, demonstrates its products in detail, and provides a membership discount call to action.",
+      "endorsementObject": [
+        "MEGA KING"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host's signature hat and '3ctim' watermark.",
+      "freeDescribe": "The video utilizes high-density text overlays and fast-paced editing typical of social media tech reviews to maintain viewer engagement."
+    }
+  }
+}

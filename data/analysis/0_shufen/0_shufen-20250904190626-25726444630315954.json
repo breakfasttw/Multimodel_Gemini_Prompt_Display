@@ -1,0 +1,168 @@
+{
+  "videoName": "0_shufen-20250904190626-25726444630315954.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 11,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long, wavy dark hair and a brown spaghetti strap top is sitting in front of a plain, light-colored wall. She initially looks directly at the camera with a neutral to slightly sad expression. (2) As she speaks, her eyebrows lift and her facial expressions become more animated to match her storytelling. (3) At the conclusion of her story, she looks slightly to the side with a faint, ironic smile, maintaining her position throughout the video without significant body movement.",
+      "audio_narrative_log": "(1) A young female voice begins speaking in Mandarin with a clear, steady, and slightly narrative tone. The background is quiet with no immediate music. (2) Short, percussive sound effects (stings) occur between her sentences to emphasize the storytelling beats. (3) The audio finishes with a loud, recognizable canned laughter sound effect (laugh track) that overlaps with the end of her sentence.",
+      "text_narrative_log": "(1) Functional Text: \"最近過的不是很順\" (Things haven't been going well lately), tone is somber. (2) Functional Text: \"今天我去面試\" (I went for an interview today). (3) Functional Text: \"面試官問我 姓什麼\" (The interviewer asked what my surname is). (4) Functional Text: \"我跟他說..\" (I told him...). (5) Functional Text: \"我姓衝動\" (My surname is Impulse), used as a pun. (6) Functional Text: \"他就把我趕出來了\" (He kicked me out), delivery of the punchline."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 11.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Story Setup -> Punchline"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator visible throughout the video.",
+      "mainCharacterDescription": "A young woman with long dark wavy hair, wearing a brown sleeveless top and a small silver necklace."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A plain, cream-colored or off-white interior wall, providing a clean and non-distracting backdrop.",
+      "lightingStyle": "Soft studio lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Narrative and humorous",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Comedy/Meme",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Meme sounds",
+        "Laugh track"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Conflict -> Punchline",
+      "mainPurpose": "To entertain the audience with a short 'cold joke' or pun-based comedy routine, using the creator's personal delivery and expressions to create a humorous effect.",
+      "visualEmotion": "Calm and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Deadpan delivery of a joke followed by a laugh track.",
+      "freeDescribe": "The video follows a popular short-form content format where a creator tells a brief, often silly joke directly to the camera."
+    }
+  }
+}

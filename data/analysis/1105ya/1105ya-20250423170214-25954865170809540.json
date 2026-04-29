@@ -1,0 +1,169 @@
+{
+  "videoName": "1105ya-20250423170214-25954865170809540.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 7,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Dance",
+        "Cosplay"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a blurred, bokeh-style filter showing two figures in full-body Spider-Man costumes (one red, one black) dancing against a night city backdrop. (2) At the 3-second mark, the blur effect disappears, revealing two young women wearing the costumes without masks, performing a choreographed dance with swaying motions and hand pointing. (3) The women maintain cheerful facial expressions while looking directly at the camera until the clip ends.",
+      "audio_narrative_log": "(1) An upbeat, mid-tempo pop song begins immediately with male vocals. (2) The song continues consistently with a steady electronic beat throughout the duration. (3) No ambient environmental noise or sound effects are audible.",
+      "text_narrative_log": "None"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro with mask/blur effect -> Reveal of faces -> Continued dance performance"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female performers appearing throughout the clip.",
+      "mainCharacterDescription": "Two young Asian women; one is wearing a classic red and blue Spider-Man suit, the other is wearing a black and white Symbiote Spider-Man suit."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Rooftop"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A nighttime city skyline featuring brightly lit buildings and the identifiable Taipei 101 skyscraper.",
+      "lightingStyle": "Night with artificial frontal lighting on the subjects",
+      "weather": "Clear",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "Taipei 101"
+      ],
+      "brandLogos": [
+        "Spider-Man"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Smooth and melodic",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Pop",
+      "bgmBPM": 90,
+      "instrumentFamiliesAudible": [
+        "Keyboard",
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Mystery Hook -> Identity Reveal -> Aesthetic Climax",
+      "mainPurpose": "To showcase a choreographed dance performance and high-quality cosplay in a scenic urban setting. The video utilizes a popular 'reveal' trend to engage viewers by first hiding and then showing the performers' faces, synchronized with a trending pop song.",
+      "visualEmotion": "Playful and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Night city background with iconic landmarks used for atmospheric contrast with vibrant costumes.",
+      "freeDescribe": "The video follows a common short-form video trend where visual effects are used to transition from a 'cool' or 'mysterious' start to a personal reveal."
+    }
+  }
+}

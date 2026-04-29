@@ -1,0 +1,174 @@
+{
+  "videoName": "3ctim-20250603120631-1041859465668880.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 35,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Demo",
+        "Gaming"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a close-up of a large flat-screen TV mounted on a wall, displaying a split-screen puzzle game featuring Yoshi characters and colorful stacked blocks. (2) The camera pans down to a white table where a hand wearing multiple beaded bracelets holds a small black and orange gaming controller, pressing buttons to manipulate the game. (3) A shot from behind the player reveals a male character in a grey sweater and a patterned flat cap sitting at the table, focused on the TV screen. (4) The sequence alternates between close-up shots of the controller being operated and the corresponding movements of the blocks on the television screen.",
+      "audio_narrative_log": "(1) Cheerful, upbeat synthesized video game music begins, accompanied by high-pitched sound effects (SFX) representing block movements and character actions. (2) Two male voices are heard speaking in Mandarin, one describing the physical sensation of the controller while the other responds with affirmative comments. (3) Occasional clicks of buttons and the low hum of a public indoor space (ambient noise) are present throughout the recording.",
+      "text_narrative_log": "(1) Functional Text: On-screen game UI displays a countdown timer (starting around 40 and decreasing) and star icons representing the player's score. (2) Decorative Text: None."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 5.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro to gameplay -> Focus on hardware interface -> Demonstration of physical and digital synchronization."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main player seen from the back, 1 set of hands belonging to a second person visible briefly on the left side of the table.",
+      "mainCharacterDescription": "A male wearing a grey knit sweater, a checkered flat cap, and several layers of dark and light-colored beaded bracelets on his right wrist."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Electronics Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A minimalist indoor environment featuring a light-wood TV console, a plain beige wall, and a long white demo table.",
+      "lightingStyle": "Bright, even indoor lighting.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and warm.",
+      "cameraWork": [
+        "Static",
+        "Pan",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "TV",
+        "Gaming Controller",
+        "Game Console"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Nintendo"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and descriptive",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Video Game Music",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Game SFX",
+        "Button clicks"
+      ],
+      "ambientNoise": [
+        "Indoor room tone"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Interaction -> Demonstration",
+      "mainPurpose": "The video serves as a hands-on demonstration of a specific gaming peripheral. It aims to showcase the responsiveness and ergonomic design of the controller by showing it in direct use with a popular Nintendo-themed puzzle game, highlighting the physical control scheme alongside the digital feedback on the screen.",
+      "visualEmotion": "Focused and engaging."
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The camera emphasizes the product in the player's hand and its direct effect on the gameplay, which is typical for a product review or showcase.",
+      "endorsementObject": [
+        "Unknown Gaming Peripheral"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Emphasis on close-up tactile interactions with tech hardware.",
+      "freeDescribe": "The video effectively uses a split-focus strategy, keeping the viewer's attention on both the 'input' (the controller) and the 'output' (the TV screen) to demonstrate product utility."
+    }
+  }
+}

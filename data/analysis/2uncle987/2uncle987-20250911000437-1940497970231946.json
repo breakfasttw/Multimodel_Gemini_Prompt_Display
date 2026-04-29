@@ -1,0 +1,187 @@
+{
+  "videoName": "2uncle987-20250911000437-1940497970231946.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 43,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Beauty",
+        "Shopping Guide"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a blurred background of a Japanese drugstore with large hook text overlaid. (2) A female creator with her hair in a bun, wearing a black and white striped top, demonstrates CANMAKE blush on her cheek, followed by a close-up of three blush compacts on a shelf. (3) She holds a tube of by365 sunscreen, then a close-up shows the white cream being spread on a person's arm. (4) Close-up shots of ANESSA serum on a store shelf are followed by a demonstration of the white lotion being rubbed onto sun-reddened legs. (5) The creator applies Melano CC essence directly from the yellow tube onto her face, specifically around her mouth and cheeks. (6) She holds the Curel balm tube, smiling at the camera, then applies it to her face with both hands. (7) The final shot shows the brightly lit exterior of a 'Sugi Pharmacy' store at night.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic pop music begins immediately and plays throughout. A male voiceover with an enthusiastic and friendly tone introduces the theme of Japanese drugstore recommendations. (2) The male voice continues, detailing the features of each product: describing the blush's price and color persistence. (3) The voiceover explains the sunscreen's texture, comparing it to ice cream. (4) The narrative shifts to explaining the use of the ANESSA serum for sunburn repair. (5) The voiceover describes the benefits of the Melano CC essence for skin repair and acne. (6) The male narrator describes the protective film formed by the Curel balm. (7) The music and voiceover conclude with a final recommendation to buy these items.",
+      "text_narrative_log": "(1) '不用 60 秒推薦你 日本藥妝 5 大推薦' (Don't need 60 seconds to recommend: 5 major Japan drugstore recommendations) - Hook text. (2) 'CANMAKE 日幣 638円', '高 CP 值!!', '顯色又持久' - Product name, price, and functional benefits. (3) 'by365 日幣 978円', '淡淡亞麻香氣', '延展性超好' - Product name, price, and descriptive texture notes. (4) 'ANESSA 日幣 2480円', '曬後使用', '全身均可塗抹' - Product name, price, and usage instructions. (5) 'Melano CC 日幣 1480円', '改善斑點暗沉', '便宜又好用' - Product name, price, and efficacy claims. (6) 'CUREL 日幣 1900円', '妝前使用', '如絲一般的保護膜' - Product name, price, and effect description. (7) '日本藥妝必買商品 錯過絕對會後悔' (Must-buy Japan drugstore items, you will definitely regret missing them) - Decorative closing hook."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.3,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Hook -> Product Demo 1 -> Product Demo 2 -> Product Demo 3 -> Product Demo 4 -> Product Demo 5 -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands",
+        "Legs"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main creator appearing in various demos.",
+      "mainCharacterDescription": "A young female with her hair tied in a bun, wearing a black and white horizontal striped sleeveless top and light makeup."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Drugstore",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Interchanges between drugstore shelves packed with various beauty products and a neutral indoor domestic setting for product application.",
+      "lightingStyle": "Bright studio-like indoor lighting and neon street lighting at night.",
+      "weather": "Clear night (in the final shot)",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "Japanese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Vibrant and High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "CANMAKE",
+        "by365",
+        "ANESSA",
+        "Melano CC",
+        "Curel",
+        "Sugi Pharmacy"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and energetic",
+        "pitch": "Normal",
+        "loudness": "Clear and balanced",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic Pop",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Sequential Showcase -> CTA",
+      "mainPurpose": "To provide a quick, informative guide on five specific beauty and skincare products available in Japanese drugstores, emphasizing their value, texture, and efficacy to potential shoppers.",
+      "visualEmotion": "Energetic and positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct recommendations of five specific brands with price information and usage demonstrations.",
+      "endorsementObject": [
+        "CANMAKE",
+        "by365",
+        "ANESSA",
+        "Melano CC",
+        "Curel"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced product switching, highlighting price in JPY, and practical application shots.",
+      "freeDescribe": "The video follows the 'shopping list' format popular on short-form video platforms, using a high-density text overlay to convey information quickly."
+    }
+  }
+}

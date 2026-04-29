@@ -1,0 +1,173 @@
+{
+  "videoName": "602avenue-20251004225444-1771791213427715.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 6.13,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a POV shot of a hand holding a steaming white hot towel over a floral-patterned blanket in an airplane cabin. (2) The camera moves to reveal a young woman with long hair looking at the towel with a puzzled expression. (3) She then begins to wipe her face and forehead with the towel while maintaining a look of slight confusion and awkwardness, looking directly at the camera.",
+      "audio_narrative_log": "(1) A whimsical, fast-paced orchestral piece with strings and woodwinds begins immediately. (2) A low, continuous ambient hum of an airplane cabin is audible in the background. (3) No vocals are detected throughout the clip; the music remains the dominant audio element.",
+      "text_narrative_log": "(1) Functional/Hook text: \"POV 第一次坐商務艙 為什麼給我熱毛巾？ What's the hot towel in business class really for?\" (Curious and questioning tone). (2) Decorative text: \"（不懂）\" (Emotional state: confused)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 2.04,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro with object -> Reveal character reaction -> Character action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female character appearing on screen and holding the towel.",
+      "mainCharacterDescription": "A young woman with long, straight brown hair wearing a white floral-print dress or top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Airplane Cabin",
+          "Business Class"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern airplane business class pod with a purple-hued side panel, a monitor, and a literature pocket filled with magazines.",
+      "lightingStyle": "Soft indoor cabin lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Screen"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Classical / Whimsical",
+      "bgmBPM": 140,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Woodwind"
+      ],
+      "instrumentsAudible": [
+        "Violin",
+        "Flute"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Cabin Hum"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Character Reaction -> Action",
+      "mainPurpose": "To humorously capture the 'newbie' experience of flying business class for the first time, specifically poking fun at the user's uncertainty about how to properly use the provided hot towel.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "POV text overlay with dual-language subtitles.",
+      "freeDescribe": "The video relies heavily on the 'relatable' trope of being out of place in a luxury setting, using fast-paced BGM to enhance the comedic timing of the character's awkward movements."
+    }
+  }
+}

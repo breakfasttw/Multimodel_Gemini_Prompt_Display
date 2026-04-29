@@ -1,0 +1,175 @@
+{
+  "videoName": "yga0721-20250329090104-2138456880259989.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 15,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Endorsement",
+        "Comedy",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens in a modern kitchen where a man in a brown long-sleeved shirt (the main creator) stands behind another man in a beige t-shirt who is eating lunch at a wooden table. The main creator holds a small white packet. (2) The main creator puts on sunglasses, leans in closer to the camera with an excited expression, and presents the product packet directly to the lens while the other man continues eating. (3) The scene transitions into a stylized promotional sequence with high-contrast filters and dynamic text overlays; the main creator is seen dancing and gesturing with the product while the sitting man looks at the camera with a confused expression.",
+      "audio_narrative_log": "(1) A high-pitched and energetic male voice speaks in Mandarin, greeting the audience with a fast-paced delivery. (2) A loud, upbeat electronic pop track with a strong percussion beat starts abruptly. (3) The male vocal continues to speak enthusiastically over the music, transitioning from an explanation into a promotional pitch as the ambient kitchen silence is replaced by the high-tempo BGM.",
+      "text_narrative_log": "(1) '很多人都在問' (Many people are asking) - Hook text. (2) '嘎哥維持身材的小秘密' (Ga-ge's little secret to maintaining his figure) - Descriptive text. (3) '因為我餐前都有吃綠蓓緹' (Because I eat Luvvitte before meals) - Functional product introduction. (4) '他沒吃' (He didn't eat it) - Humorous side note pointing to the friend. (5) '綠蓓緹 嘎哥優惠團購中' (Luvvitte, Ga-ge's discount group buy in progress) - Call-to-action text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Product Reveal -> Stylized Promotion and Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main creator standing and gesturing, 1 friend sitting at the table eating.",
+      "mainCharacterDescription": "A male with brown hair wearing a brown textured long-sleeved shirt, later wearing dark sunglasses."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Dining Area"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A clean, modern indoor environment featuring light wood cabinetry, a white refrigerator, a black refrigerator, and a water dispenser.",
+      "lightingStyle": "Bright, even natural and indoor overhead lighting.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Cinematic and high contrast during the promotional segment.",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Lunch box",
+        "Vegetable salad"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "綠蓓緹"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut to BGM",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> CTA",
+      "mainPurpose": "The video serves as a promotional endorsement for a dietary supplement. It uses a comedic setup where the creator claims his fit physique is due to the product, contrasting himself with his friend who is 'just eating.' The ultimate goal is to drive viewers to participate in a limited-time group buy facilitated by the influencer.",
+      "visualEmotion": "Humorous and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of product packaging and text explicitly mentioning a group buy.",
+      "endorsementObject": [
+        "綠蓓緹"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of the nickname '嘎哥' (Ga-ge) and his characteristic high-energy comedic interaction with his staff/friends.",
+      "freeDescribe": "The video utilizes 'Variety Show' style editing, which is common in Taiwanese social media marketing to make advertisements feel more entertaining and less like traditional commercials."
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "videoName": "cocowine0205-20250722081551-770174549109211.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 31.42,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Food Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a close-up of several loaves of raisin toast on a metal shelving unit. A hand reaches into the frame and pulls a bag of toast forward. (2) The scene cuts to a woman wearing a black beret and a white textured top sitting in a living room. She holds a bag of the same toast and then takes out a single slice to show the camera. She gestures with her hands while talking, pointing at the raisins in the bread. (3) There is a brief cut to a price tag showing '$95' on an orange shelf. (4) The woman continues to hold the bread slice, rotating it to show both sides and the distribution of raisins while maintaining a friendly facial expression and active hand gestures.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop music starts immediately. An excited male vocal says 'Wow, Chrysmy's newest raisin toast!' followed by a whimsical sound effect. (2) The male vocal fades as a clear female vocal takes over. The music continues at a steady volume in the background. The woman speaks in a friendly, conversational tone with a moderate pace. (3) The acoustic environment is quiet, characteristic of an indoor residential setting with no significant ambient noise. (4) The music remains consistent until the end of the clip, maintaining the energetic atmosphere.",
+      "text_narrative_log": "(1) COSTCO WHOLESALE (Decorative, Brand Logo). (2) 哇 客萊斯麥最新的 (Functional, excited tone: 'Wow, Chrysmy's newest'). (3) 95元開箱試吃! 葡萄乾吐司 (Functional/Hook, informative tone: '95 yuan unboxing taste test! Raisin toast'). (4) 好不好吃 買來吃看看 (Functional, curious tone: 'Is it delicious? Buy it and try'). (5) 最新出的 葡萄乾吐司 (Functional, informative). (6) 我們可以看到 它的葡萄量就是 哎 這樣子 就是還可以 (Functional, subtitle of speech). (7) 但它的麵包體本身我覺得比較甜 (Functional, subtitle: 'But the bread itself I feel is sweeter'). (8) 比較膩口 (Decorative, emphasis: 'cloying/greasy'). (9) 還是更推薦 以前的穀物那一款 歐包 (Functional, recommendation: 'Still recommend the previous grain European bread more')."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 5,
+      "averageSceneDuration": 6.28,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at retail store -> Home-based product analysis and review."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Full face",
+        "Upper body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main character appears on screen; hands belonging to a person are seen in the opening shot.",
+      "mainCharacterDescription": "A young Asian woman with dark hair, wearing a black Kangol beret and a white long-sleeved top with lace or ruffled textures."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Retail Store",
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene shows commercial metal racks at Costco filled with bread. The second scene is a living room with a brown leather sofa, pillows, and a glimpse of a play area or pet area in the background.",
+      "lightingStyle": "Standard indoor lighting and bright retail fluorescent lighting.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Raisin Toast",
+        "Bread"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "CHRYSMY"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, expressive, and evaluative",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Whip SFX"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Intro -> Evaluation -> Recommendation",
+      "mainPurpose": "The video is an honest consumer review of a specific bakery product from Costco. It aims to inform viewers about the product's taste (specifically its sweetness), value, and raisin content, eventually providing a comparison to a previously available product to help viewers make a purchasing decision.",
+      "visualEmotion": "Energetic and helpful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The creator provides critical feedback, noting that the bread is 'too sweet' and 'cloying' if eaten alone, and recommends a different product instead.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density colorful captions and a mix of store footage with home review talking head segments.",
+      "freeDescribe": "The use of an off-screen male voice for the initial hook followed by the main female creator's review is a common collaborative or sound-bite technique in short-form content."
+    }
+  }
+}

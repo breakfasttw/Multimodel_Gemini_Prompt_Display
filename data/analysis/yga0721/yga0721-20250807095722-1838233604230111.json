@@ -1,0 +1,189 @@
+{
+  "videoName": "yga0721-20250807095722-1838233604230111.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 89,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Commercial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man in a white T-shirt and wide denim shorts leads two women down a stone path in a sunny park. (2) The scene shifts to the group set up on a grassy area with a picnic mat, chairs, and a laptop. (3) The man introduces a large gray Philips power station, pointing to its various outlets and display screen. (4) Close-up shots show a Dike portable air conditioner being turned on and placed next to a woman sitting in a chair. (5) The man then presents a Dike slushie machine on a small wooden table, pouring liquid into it and showing the final frozen drink. (6) The video ends with the man gesturing widely toward all three products as text overlays show pricing and group buy information.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music starts immediately. A high-pitched, energetic male voice speaks loudly in Mandarin, greeting the audience. (2) The sound of outdoor ambiance like bird chirping is heard faintly beneath the music. (3) As the man describes the power station and AC, sharp sound effects (SFX) like 'clicks' and 'dings' accompany the text overlays. (4) The female characters provide occasional short, excited verbal reactions. (5) The sound of liquid pouring and the mechanical hum of the machines are audible during close-ups. (6) The music remains continuous and maintains a high tempo until the end.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles reflecting the spoken dialogue. (2) Decorative/Hook Text: 'Outdoor Office' (戶外辦公), 'Change environment, change mood' (換個環境 換個心情). (3) Product Labels: 'PHILIPS 1000W 儲能行動電源', 'DIKE 移動式空調', 'DIKE 雪泥機'. (4) Promotional Hooks: 'Summer Three Treasures' (夏日三寶), 'Exclusive Group Buy Offer' (獨家團購優惠開跑), 'Link below' (下面連結點起來)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Problem Identification (Working outdoors in heat) -> Product Solution Demos (Power, AC, Slushie) -> Lifestyle Enjoyment -> Outro/CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 2 female assistants/colleagues.",
+      "mainCharacterDescription": "Adult male with short dyed brown hair, wearing a white oversized t-shirt and wide denim shorts with white sneakers. He has an extremely expressive and energetic personality."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Park"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A green public park with many trees, a walking path, grass, and some park benches/pavilions in the distance under bright sunlight.",
+      "lightingStyle": "Natural bright sunlight",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, High Saturation",
+      "cameraWork": [
+        "Follow shot",
+        "Static",
+        "Close-up",
+        "Low angle"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Coffee",
+        "Slushie",
+        "Snacks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Laptop",
+        "Portable Power Station",
+        "Portable AC",
+        "Slushie Machine"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "PHILIPS",
+        "DIKE",
+        "Apple"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with beat-sync",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched, enthusiastic, and humorous",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Transition woosh",
+        "Ding",
+        "Click",
+        "Pouring liquid"
+      ],
+      "ambientNoise": [
+        "Birds",
+        "Wind",
+        "Outdoor distance chatter"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Introduction of Item 1 -> Introduction of Item 2 -> Introduction of Item 3 -> Conclusion/CTA",
+      "mainPurpose": "This is a promotional influencer video designed to sell a specific set of summer-themed appliances (power station, AC, and slushie machine) through a limited-time group buy offer. It uses the concept of 'outdoor office' to demonstrate product utility in a lifestyle context.",
+      "visualEmotion": "Energetic, Fun, and Refreshing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product demonstration, brand name mention, and discount group buy link provided at the end.",
+      "endorsementObject": [
+        "PHILIPS",
+        "DIKE"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy presentation style characteristic of 'Cai Aga' (嘎哥), rapid speech, and heavy use of dynamic variety-show style text overlays.",
+      "freeDescribe": "The video successfully blends entertainment with commercial intent by using a humorous 'outdoor office' scenario to justify the need for portable energy and cooling."
+    }
+  }
+}

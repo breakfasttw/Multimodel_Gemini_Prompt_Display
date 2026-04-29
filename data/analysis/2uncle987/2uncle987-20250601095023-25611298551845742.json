@@ -1,0 +1,177 @@
+{
+  "videoName": "2uncle987-20250601095023-25611298551845742.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 104,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Skincare Review",
+        "Product Endorsement"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a split-screen comparison of 'Before' and 'After' skin around a woman's eye, highlighting spot reduction. (2) A woman appears in a hallway, shouting through a megaphone with a playful expression. (3) She transitions to an indoor setting, pointing to spots on her face while looking concerned. (4) Close-up shots of the La Roche-Posay MELA B3 Serum bottle and its packaging are shown, followed by technical graphics illustrating a 'Golden Triangle' of skin benefits. (5) The woman demonstrates applying the serum, first dropping a pinkish liquid onto her hand and then massaging it into her face. (6) Two other women appear individually to provide brief testimonials while holding the product. (7) The video concludes with the three women together, smiling and holding the product towards the camera in a group shot.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic background music begins immediately. A woman's voice is heard shouting excitedly through a megaphone. (2) The main female narrator speaks in a fast-paced, enthusiastic, and professional tone, explaining the product's benefits. (3) The music remains constant in the background, maintaining a rhythmic and positive mood. (4) Ambient noise is minimal, suggesting a studio or quiet indoor environment. (5) In the final segment, two additional female voices provide short, friendly testimonials with similar high-pitched and positive tones. (6) The video ends with a synchronized group cheer.",
+      "text_narrative_log": "(1) Functional Text: 'Before' and 'After' labels on skin comparisons, 'La Roche-Posay MELA B3 Serum' product name. (2) Decorative/Hook Text: 'I can't believe it!', 'Girls, please pay attention!', and 'Spot reduction -51.8%' in large, bold fonts. (3) Technical/Functional Text: Lists of ingredients like 'Melasyl', '10% Niacinamide B3', and 'Retinol' appearing as the narrator discusses them. (4) Instructional Text: 'Visible results in 7 days' and 'Highly recommended for post-procedure care'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 5.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Product Demonstration -> Scientific/Clinical Evidence -> Testimonials -> Final Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Face",
+        "Hands",
+        "Upper body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator and 2 female colleagues/friends appearing at the end.",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a white sleeveless ribbed top, appearing energetic and professional."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Home Interior"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A mix of a minimalist indoor setting with a wooden table, a hallway with white walls, and a clean studio background with warm curtains.",
+      "lightingStyle": "Bright, even studio lighting",
+      "weather": "Unknown",
+      "season": "Summer (as mentioned in dialogue/text)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, high saturation, warm",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "La Roche-Posay"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 3,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Persuasive, energetic, friendly",
+        "pitch": "Medium-High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Corporate Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Digital Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Megaphone distortion",
+        "Transition swooshes"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear -> Hook -> Problem/Solution -> Proof -> Social Proof",
+      "mainPurpose": "The video is a comprehensive commercial endorsement for La Roche-Posay MELA B3 Serum. It uses a 'problem-solution' framework, starting with the frustration of skin spots caused by summer sun exposure, demonstrating the product's texture and application, providing clinical evidence (51.8% reduction), and concluding with testimonials from multiple users to build trust and encourage purchase.",
+      "visualEmotion": "Energetic, Confident, Trustworthy"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product demonstration, verbal recommendation, brand logo display, and clinical data presentation.",
+      "endorsementObject": [
+        "理膚寶水 (La Roche-Posay)",
+        "MELA B3 淡斑淨亮精華 (MELA B3 Serum)"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Megaphone opening hook, 'Golden Triangle' graphic overlay.",
+      "freeDescribe": "The video targets young women interested in medical-grade skincare and those seeking solutions for hyperpigmentation after sun exposure or aesthetic procedures."
+    }
+  }
+}

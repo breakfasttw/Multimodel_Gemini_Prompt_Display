@@ -1,0 +1,184 @@
+{
+  "videoName": "3ctim-20250218131707-1663660458121912.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 58,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Review",
+        "Product Showcase",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing an off-the-shoulder beige ribbed sweater, holds a titanium-colored Samsung Galaxy S24 Ultra. She looks at the camera with wide eyes and a surprised expression. (2) The scene transitions to a concert venue; the woman is in the foreground while a female musician with reddish hair plays an acoustic guitar and sings on a stage with blue/purple lighting. The host demonstrates the phone's zoom and low-light capabilities. (3) Close-up screen-recordings show the user interface of the phone, specifically demonstrating AI audio editing and video compilation tools. (4) The host moves to an indoor living-room style studio, gesturing enthusiastically while explaining photo-editing features. (5) The final scene takes place in a brightly lit Samsung retail store, where the host concludes the presentation and walks past display tables.",
+      "audio_narrative_log": "(1) A fast-paced female voice speaks in Traditional Chinese with an energetic, high-pitched tone. An upbeat electronic background music track starts simultaneously. (2) The soundscape changes to include the faint sound of an acoustic guitar and live singing, representing a concert environment, while the host's voice remains the dominant foreground audio. (3) A demonstration of the 'Audio Eraser' feature occurs: the background music and noise are filtered out, leaving a brief, isolated snippet of the singer's voice. (4) The energetic BGM returns to full volume. (5) The host's voice remains consistent in speed and enthusiasm until the video ends with a quick upbeat musical sting.",
+      "text_narrative_log": "(1) Functional: '什麼？' (What?) - Surprised tone. (2) Hook: '這星神機 s25 ultra 變更強了嗎？' (Is this Samsung god-phone s25 ultra stronger?) - Energetic tone. (3) Functional: '5000萬像素' (50 million pixels) - Informative tone. (4) Decorative: '超清晰！' (Super clear!) - Excited tone. (5) Functional: '音訊橡皮擦' (Audio Eraser), '抽出人聲' (Extract vocals), '消除背景雜音' (Eliminate background noise) - Technical tone. (6) Hook: '站哥站姐！還不買嗎！' (Fan site masters! Aren't you buying yet?) - Persuasive tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Camera Demo -> AI Audio Demo -> AI Video Demo -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Upper body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female host, 1 female singer in background, 1 male face in a circular overlay icon",
+      "mainCharacterDescription": "Young Asian woman, long dark hair with bangs, wearing a beige off-the-shoulder sweater and blue jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Live House",
+          "Retail Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Moves between a tech-oriented studio with hexagonal wall lights, a dimly lit concert venue with blue stage lights, a living room set, and a modern electronics store.",
+      "lightingStyle": "Mixed: Studio floodlights and neon concert lighting.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Laptop",
+        "Microphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Samsung",
+        "3c tim哥"
+      ],
+      "instrumentsVisible": [
+        "Acoustic Guitar"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and friendly",
+        "pitch": "Medium-high",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Acoustic Guitar",
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Live",
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "Concert atmosphere",
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature Highlight 1 -> Feature Highlight 2 -> Feature Highlight 3 -> CTA",
+      "mainPurpose": "The video serves as a promotional review of the Samsung Galaxy S24 Ultra, specifically targeting fans of live music and concerts. It highlights the phone's advanced AI features—including high-resolution zoom, audio isolation for clear vocal recordings, and automated video editing—to solve common pain points for 'fan site' creators (station masters).",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct demonstration of brand-specific features (Galaxy AI) and filming within a Samsung retail environment.",
+      "endorsementObject": [
+        "Samsung Galaxy S24 Ultra"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3c tim哥 brand watermark and high-speed tech-influencer editing style.",
+      "freeDescribe": "The video uses localized slang (站哥站姐) to appeal directly to the idol-chasing subculture in East Asia."
+    }
+  }
+}

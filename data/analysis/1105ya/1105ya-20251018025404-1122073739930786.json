@@ -1,0 +1,170 @@
+{
+  "videoName": "1105ya-20251018025404-1122073739930786.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 16,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Dance",
+        "K-pop Cover"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a live-action dance performance. A young woman with long hair stands in a mirrored studio, wearing a red crop top and black denim shorts with high black boots. (2) She begins a rhythmic dance routine, performing sharp arm movements, hip sways, and jumps in sync with the beat. (3) She continues the routine with a confident facial expression, focusing on the camera while executing several body rolls and leg movements.",
+      "audio_narrative_log": "(1) High-energy EDM-style K-pop remix music starts immediately with a heavy rhythmic bass and synthesizer loops. (2) Processed female vocal snippets from the original track appear briefly as hooks. (3) The beat remains consistent and loud throughout the entire clip with no ambient noise detected.",
+      "text_narrative_log": "(1) 'BLACKPINK JUMP' (Decorative/Hook Text): Centered at the top in white block letters, identifying the song or challenge theme."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 16.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Continuous Dance Performance"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main character",
+      "mainCharacterDescription": "Long brown hair, red long-sleeved crop top, black denim shorts, black knee-high boots."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Dance Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A room with large mirrored walls that reflect the dancer and the warm yellow light panels embedded in the ceiling and walls. The floor is light-colored wood.",
+      "lightingStyle": "Warm studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Warm and Vibrant",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Processed and rhythmic",
+        "pitch": "Medium",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Occasional snippets",
+        "language": [
+          "English",
+          "Korean"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "K-pop EDM Remix",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Performance -> Outro",
+      "mainPurpose": "To showcase a choreographed dance performance to a K-pop track, likely for social media engagement and to demonstrate the dancer's skill and charisma.",
+      "visualEmotion": "Energetic and Confident"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-sync dance movements with mirrored room backdrop.",
+      "freeDescribe": "The video follows typical K-pop dance challenge formats common on short-form video platforms."
+    }
+  }
+}

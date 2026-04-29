@@ -1,0 +1,168 @@
+{
+  "videoName": "khshu_-20251029171342-2028647437982284.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 6,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Short Sketch"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman wearing a white lace top and black tank top sits at a table. A bottle of alcohol with a pair of scissors clipped to the neck sits in front of her. She plays rock-paper-scissors against the scissors on the bottle, loses by showing 'paper', and makes a disappointed face. (2) She picks up a glass of amber liquid and drinks it. (3) The camera cuts to a man in a black T-shirt and a baseball cap holding a pink can, looking at her with a confused and disgusted facial expression.",
+      "audio_narrative_log": "(1) A female voice clearly says '剪刀石頭布' (Rock-Paper-Scissors) followed by a disappointed groan 'Hoo~'. (2) A slight gulping sound is heard as the woman drinks. (3) The audio fades into quiet ambient room noise with no further vocals or music.",
+      "text_narrative_log": "(1) Functional Text: '禁止酒駕 🚫 未滿 18 歲禁止飲酒' (No drunk driving 🚫 No drinking under 18) remains at the bottom throughout the video. (2) Decorative Text: '嘴角微微上揚?' (Corners of the mouth slightly raised?) appears in the center with a playful, questioning tone. (3) Decorative Text: A yellow '?' appears near the man's head to signal his confusion."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "The woman drinks after losing a game to a bottle -> Reaction shot of a man watching her."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 female sitting at the table, 1 male standing in the background during the cut.",
+      "mainCharacterDescription": "The female wears a white lace sleeveless top over a black top; the male wears a black oversized t-shirt and a grey cap."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor",
+          "Dining Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A dark wooden cabinet with glass doors containing wine glasses, and a large fish tank with green aquatic plants and wood decor.",
+      "lightingStyle": "Natural indoor lighting with soft highlights from the fish tank.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Alcoholic Beverage"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Playful and slightly dramatic",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Occasional",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Action -> Reaction",
+      "mainPurpose": "The video is a comedic short intended to amuse viewers by showing a woman's humorous excuse to drink. She rigs a game of rock-paper-scissors against a bottle (by clipping scissors to it) and 'loses' to justify taking a drink, followed by a 'straight man' reaction from a male companion that highlights the absurdity of her actions.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Drinking game parody",
+      "freeDescribe": "The video uses a common social media trope where a character performs a illogical action to satisfy a desire (drinking), framed as a joke."
+    }
+  }
+}

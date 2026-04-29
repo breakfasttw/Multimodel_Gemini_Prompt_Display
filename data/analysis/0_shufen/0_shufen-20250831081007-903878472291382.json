@@ -1,0 +1,169 @@
+{
+  "videoName": "0_shufen-20250831081007-903878472291382.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 9.4,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair and a black spaghetti strap dress faces the camera with an annoyed expression, looking slightly downward then directly at the lens. (2) She begins speaking, her mouth moving emphatically while her eyebrows furrow to convey frustration. (3) As she delivers the final part of her speech, her expression softens slightly and she maintains a steady gaze at the camera until the video ends.",
+      "audio_narrative_log": "(1) A female voice exclaims a sharp, annoyed word followed immediately by a whimsical cartoon 'boing' sound effect. (2) The same female voice continues with a narrative explanation in a conversational, slightly high-pitched and ranting tone; no background music is present. (3) Upon finishing her sentence, a sound effect of a crowd laughing and cheering plays as the audio ends.",
+      "text_narrative_log": "(1) '幹' (Functional: Profanity exclamation, tone: Angry/Shocked). (2) '我氣死' (Functional: 'I'm so angry', tone: Frustrated). (3) '剛才曖昧對象 / 嫌棄我身上 / 有孩子氣' (Functional: Narrative setup about a crush complaining she is 'childish', tone: Informative/Annoyed). (4) '明明是他自己 / 的孩子 / 他居然還敢嫌棄' (Functional: Punchline revealing the 'childishness' is actually his child, tone: Humorous/Sarcastic)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 9.4,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Angry intro -> Narrative setup -> Humorous punchline"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Face",
+        "Shoulders",
+        "Chest"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator speaking directly to the camera.",
+      "mainCharacterDescription": "A young woman with long dark hair, wearing a black spaghetti strap top and a small cross-shaped pendant necklace."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A plain, light-colored interior wall, suggesting a home or bedroom environment.",
+      "lightingStyle": "Natural indoor lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Frustrated then humorous",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "No Music",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Crowd Laughter"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Narrative -> Punchline",
+      "mainPurpose": "To entertain the audience with a humorous short-form skit. The video uses a linguistic pun on the term 'childish' (孩子氣), which literally translates to 'child air/smell'. The creator sets up a scenario where she is offended by a crush's comment, only to subvert expectations by revealing she is pregnant with his child, turning a personality critique into a literal (and absurd) situation.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Variety-show style text captions and synchronized sound effects for emphasis.",
+      "freeDescribe": "The video relies heavily on the viewer's understanding of Mandarin puns and typical internet humor tropes."
+    }
+  }
+}

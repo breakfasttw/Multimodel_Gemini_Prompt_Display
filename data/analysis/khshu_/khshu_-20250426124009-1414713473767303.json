@@ -1,0 +1,181 @@
+{
+  "videoName": "khshu_-20250426124009-1414713473767303.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 57,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Advertisement",
+        "Skit",
+        "Beauty"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman in a purple princess dress sits in a rustic, dimly lit room looking sadly at a smartphone; a brief cut shows a person in a prince costume drinking cola in an elevator. (2) The woman receives an email for a 'Love Reality Show' and transitions to an audition room where she stands in line with other contestants. (3) The prince judge chooses the woman after she flips her long, shiny black hair, contrasting with the frizzy hair of other contestants. (4) The scene shifts to a bright studio setting where the woman demonstrates LUX shampoo products, showing the gel texture, foam, and the final results of her hair. (5) Final shot shows the full LUX product lineup with promotional text and the woman posing with the products.",
+      "audio_narrative_log": "(1) Slow, melancholic music plays while a young woman speaks in a sad, sighing tone in Mandarin about feeling useless; an elevator chime and gulping sound are heard. (2) A digital notification sound triggers a transition to upbeat, energetic pop music with a steady drum beat. (3) The female voice becomes enthusiastic and narrative-driven, accompanied by 'sparkle' sound effects and a dramatic 'Nani?!' (What?!) shout. (4) The music continues as a high-energy commercial theme while the female voiceover provides a detailed, clear product explanation with a professional marketing tone. (5) The audio concludes with a cheerful jingle and a final call-to-action regarding a discount.",
+      "text_narrative_log": "(1) 'Living in 2025: Long Hair Princess' (Hook). (2) 'Am I useless now?' (Functional/Dialogue). (3) 'Love Reality Show - Audition' (Functional). (4) 'Choose based on back view!' (Decorative/Instruction). (5) 'Her hair... is too bright!' (Variety-style shock). (6) '#Hair Raincoat Shampoo' and '72HR long-lasting' (Product benefits). (7) 'momo limited 63% off' (Promotional/CTA)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.37,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Skit introduction -> Conflict resolution (audition) -> Product demonstration and feature highlights -> Promotional CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 1 female cross-dressing as a prince, 3 other female contestants in the audition scene.",
+      "mainCharacterDescription": "A young woman with long, straight black hair wearing a purple, corset-style princess dress and a pearl necklace."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Den",
+          "Studio",
+          "Elevator"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The initial scene is a warm, rustic den with wooden shelves and a hammock. The audition room is a plain white studio. The product demo takes place in a bright, modern interior with a window view.",
+      "lightingStyle": "Mixed: Mood lighting in the first scene, bright studio lighting for the product demo.",
+      "weather": "Humid/Rainy (implied by text and graphics)",
+      "season": "Summer (implied by 35°C text)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and high saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Cola"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "LUX"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX cues",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, enthusiastic, and persuasive",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Sparkle SFX",
+        "Notification chime",
+        "Anime-style reaction sounds"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage -> Linear: Hook -> Problem -> Solution -> Demo -> CTA",
+      "mainPurpose": "To market the LUX 'Super Rich Crystal' shampoo line (Hair Raincoat) by framing it as a modern solution for fairy-tale hair problems, specifically targeting hair flatness and frizz caused by high humidity in Taiwan.",
+      "visualEmotion": "Energetic, Humorous, and Commercial"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of product, explanation of unique technology (protection film), and a specific promotional discount offer on a shopping platform.",
+      "endorsementObject": [
+        "LUX"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Rapunzel cosplay, variety-show style text graphics, humidity sensors graphics.",
+      "freeDescribe": "The video uses a high-production-value comedic skit to bridge the gap between fantasy (Rapunzel) and a relatable local problem (Taiwan's humidity), making the ad engaging for a Gen-Z/Millennial audience."
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "videoName": "1105ya-20251022121202-896375773094901.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 21,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Music Performance"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with pigtails wearing a gray oversized T-shirt stands in a stadium, smiling and waving a pink heart-shaped object. (2) The scene shifts to a concert stage where four women in coordinated maroon and black outfits perform a synchronized dance routine with high-energy arm movements. (3) The performers move across the stage under intense green laser beams that sweep through the air as graphics flash on a large background LED screen.",
+      "audio_narrative_log": "(1) High-energy electronic dance music starts with a driving beat and prominent synthesizer chords; loud crowd cheering and screaming are audible in the background. (2) Female vocals enter, singing in English with a powerful and rhythmic tone; the crowd's ambient noise remains high. (3) The music continues at a fast tempo with heavy percussion as the singers' voices rise in volume, accompanied by rhythmic chanting from the audience.",
+      "text_narrative_log": "(1) Decorative Text: '當你看到現場Jump!' (When you see the scene, Jump!) appears in white, conveying an excited and encouraging tone. (2) Functional Text: 'BORN PINK WORLD TOUR' and 'BLACKPINK' are visible on the stage's LED screens, identifying the performance. (3) Functional Text: '뛰어' (Jump) in Korean flashes on the background screen, matching the rhythmic climax of the song."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 10.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Fan reaction intro -> Live concert performance highlight"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 100,
+      "maleDetectAmount": 40,
+      "femaleDetectAmount": 60,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 5,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 female fan in the foreground of the first scene, 4 female performers on stage, and a large crowd of mixed gender in the background.",
+      "mainCharacterDescription": "A young woman in a casual gray oversized shirt and black boots; four performers in matching maroon and black stage costumes with high boots."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Stadium",
+          "Concert Stage"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A large stadium seating area packed with fans followed by a professional concert stage equipped with LED screens and sophisticated lighting rigs.",
+      "lightingStyle": "Stage lighting with green lasers and bright spotlights.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese",
+          "English",
+          "Korean"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "LED Screen"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "BLACKPINK"
+      ],
+      "instrumentsVisible": [
+        "Electric Guitar",
+        "Drums"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 50,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 4,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and rhythmic",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "K-pop / EDM",
+      "bgmBPM": 132,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd cheering",
+        "Screaming"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Highlight",
+      "mainPurpose": "The video serves to share the high-energy fan experience of attending a BLACKPINK concert. It bridges the personal excitement of a fan (the 'Hook') with the professional performance of the group (the 'Highlight'), using the 'Jump' motif to invite the audience into the live atmosphere.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "Authentic fan-filmed vlog style.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Pink heart-shaped lightstick, K-pop concert chanting.",
+      "freeDescribe": "The contrast between the stationary fan in the crowd and the dynamic stage action highlights the immersive nature of modern K-pop concert culture."
+    }
+  }
+}

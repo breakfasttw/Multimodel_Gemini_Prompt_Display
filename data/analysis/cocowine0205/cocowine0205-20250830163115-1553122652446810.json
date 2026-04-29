@@ -1,0 +1,181 @@
+{
+  "videoName": "cocowine0205-20250830163115-1553122652446810.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 56,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Food"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins in a retail warehouse setting. A young woman with long dark hair, wearing a fuzzy patterned bucket hat and a bright purple cardigan, is standing in front of a bakery shelf. She points excitedly at bags of bread and picks up a bag labeled 'CHRYSMY Honey Grains Bun'. Her facial expressions are animated and cheerful. (2) The scene transitions to an indoor residential setting. The same woman is now joined by another woman with long straight dark hair. They are seated at a table with the bag of bread in front of them. (3) They take turns tearing pieces of the bread, showing the interior texture to the camera, and eating it while talking and gesturing with their hands. Their expressions remain enthusiastic throughout.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop music begins immediately and continues throughout the video. A high-pitched female voice speaks rapidly in Mandarin with an excited and friendly tone. (2) Short 'ping' and 'shimmer' sound effects (SFX) are heard periodically, synchronized with the appearance of text overlays. (3) The audio shifts slightly to include two female voices interacting, laughing, and providing verbal reactions while tasting the food. Background store noise is faintly audible in the first half, followed by a quieter indoor environment in the second half.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo at the top; '客萊斯麥 出新的麵包' (Chrysmy released new bread). (2) Decorative/Hook Text: '竟然有蜜桃果乾' (Actually has dried peach) with a shocked emoji; '好吃嗎?' (Is it good?); '超好吃' (Super delicious) with a red background. (3) Detailed Description Text: '蜜麥穀物軟歐' (Honey Grains Bun); '口感更扎實' (Texture is more solid); '水蜜桃乾' (Dried peach); '我喜歡' (I like it)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Store introduction -> Product selection -> Home-based tasting and detailed review."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands",
+        "Face"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 female main creator in the store, joined by 1 female co-host in the indoor tasting segment.",
+      "mainCharacterDescription": "One woman wears a purple fuzzy cardigan and a grey/black patterned bucket hat. The second woman wears a black top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Indoor Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First half is a Costco warehouse with orange industrial shelving and stacked bakery products. Second half is a clean, neutral-toned indoor room with a table.",
+      "lightingStyle": "Bright artificial retail lighting and soft indoor studio lighting.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Handheld",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Bread",
+        "Dried fruit",
+        "Buns"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "CHRYSMY",
+        "客萊斯麥"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Sparkle",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Store background hum"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage -> List-based: Hook -> Discovery -> Feature Breakdown -> Tasting Review -> Final Recommendation.",
+      "mainPurpose": "The video serves as a commercial product review and recommendation for a specific bakery item found at Costco. It aims to inform viewers of a new product release (Honey Grains Bun) and persuade them to purchase it by highlighting its unique ingredients (dried peach) and superior texture compared to previous versions.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The video focuses entirely on one specific product, prominently displays brand logos (Costco and Chrysmy), and provides a positive subjective review.",
+      "endorsementObject": [
+        "Costco",
+        "客萊斯麥"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin narration, heavy use of colorful Traditional Chinese variety-show style text overlays, and the 'tasting reaction' trope.",
+      "freeDescribe": "The video follows a standard 'KOL shopping haul' format, utilizing fast cuts and beat-synced text to maintain high engagement."
+    }
+  }
+}

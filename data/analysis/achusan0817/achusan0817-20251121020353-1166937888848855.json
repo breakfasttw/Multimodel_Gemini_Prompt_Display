@@ -1,0 +1,180 @@
+{
+  "videoName": "achusan0817-20251121020353-1166937888848855.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 54,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Animation",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Non-live action animation featuring a bald man as the protagonist. He walks towards a breakfast shop labeled 'Kestauran' while imagining a hearty meal. (2) He stands at the counter with a determined face, ordering a healthy salad and sugar-free soy milk instead of his craving. He shows a conflicted, wide-eyed expression of regret but sticks to the healthy choice. (3) Transition to his bedroom; he holds a PS5 game box ('The Last of Hair') with an evil, excited grin. However, his body moves mechanically toward the bed against his will, and he collapses face-down onto the mattress. (4) He sits in a chair scrolling through a smartphone with a judgmental, squinting expression. He realizes he is complaining like an older person and then widens his eyes, trying to force himself to look 'young' and hip. (5) A black-haired friend appears in the frame, looking at him with a deadpan expression as the protagonist shouts in a final comedic panel.",
+      "audio_narrative_log": "(1) Bouncy, upbeat synthesized music plays with a medium-fast tempo. A male voice speaks excitedly, then transitions to a more serious, inner-monologue tone as he orders food. (2) Music continues as the male voice expresses intense desire followed by a resigned sigh. (3) A 'swish' sound effect occurs as the character moves toward the bed, followed by a loud, muffled thud when he lands on the mattress. (4) The vocal density increases as the protagonist speaks fast-paced, high-pitched sentences to himself about staying young. (5) A second male voice speaks in a calm, flat tone at the end, followed by a loud, comedic shout from the main character.",
+      "text_narrative_log": "(1) Functional Text: '阿啾小劇場' (Ah-Chuu's Little Theater) at the top of the frame. (2) Decorative Hook: '初老的症狀==' (Symptoms of early aging) in a white bubble. (3) Decorative Hook: '完整影片左Youtube' (Full video link on the left to Youtube). (4) Functional Text: Subtitles throughout translating the dialogue and inner thoughts, such as '今天要吃黑胡椒鐵板麵跟大冰奶' (Today I'm having black pepper noodles and a big iced milk tea) and '少糖、少油、多健康' (Less sugar, less oil, more health)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Vignette 1 (Food) -> Vignette 2 (Gaming/Sleep) -> Vignette 3 (Social Media) -> Punchline"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 animated main character (bald), 1 animated friend (black hair) appearing at the end.",
+      "mainCharacterDescription": "An animated bald man with a simple face, wearing a black t-shirt. He has expressive eyebrows and frequently switches between intense determination and exhaustion."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Bedroom",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Simple cartoon backgrounds including a breakfast shop counter, a bedroom with a bed and shelving containing dolls, and a plain room with a computer.",
+      "lightingStyle": "Even, bright cartoon lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Muted",
+      "cameraWork": [
+        "Static",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Salad",
+        "Soy Milk"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Laptop",
+        "Game Console Box"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "PS5",
+        "Youtube"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and high-pitched",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Thud",
+        "Swish"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Sequence of examples -> Conclusion",
+      "mainPurpose": "The video aims to entertain and build community through relatable humor concerning 'pre-aging' (early signs of getting old). By showing a character choosing health over taste, sleep over gaming, and criticizing modern trends, it targets millennials who feel a disconnect with younger generation habits.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The PS5 mentioned is a plot device for the joke, not a paid placement. The video primarily serves as content for the 'Ah-Chuu' channel.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Simple, flat 2D animation style with a signature bald protagonist and specific high-pitched comedic voice acting.",
+      "freeDescribe": "The video uses common Taiwanese social tropes about 'early aging' to drive engagement."
+    }
+  }
+}

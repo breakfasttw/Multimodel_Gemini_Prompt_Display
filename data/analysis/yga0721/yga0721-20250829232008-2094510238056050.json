@@ -1,0 +1,183 @@
+{
+  "videoName": "yga0721-20250829232008-2094510238056050.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 73,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Public Service Announcement",
+        "Comedy",
+        "Campaign"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man with short brown hair wearing an oversized white T-shirt holds a blue-and-white checkered hand flag, standing behind a wooden desk in an office-like room with Japanese woodblock prints on the wall. He gestures energetically towards another man whose back is to the camera. (2) The man in white performs a simulated ring-toss game with his hands, catching an invisible or CGI object from the other man and then showing a stern, wide-eyed expression. (3) The man in white addresses the camera directly with intense facial expressions, pointing his finger and moving closer to the lens in a series of fast-cut close-ups. (4) He continues to wave the flag vigorously and make exaggerated gestures while speaking. (5) The video transitions to several slides of full-screen text detailing legal regulations, followed by a final white screen displaying government logos and official text.",
+      "audio_narrative_log": "(1) High-energy male vocals start immediately, speaking in a loud, fast-paced, and enthusiastic tone reminiscent of a variety show host. Upbeat, rhythmic background music with a strong electronic beat begins. (2) Frequent cartoon-style sound effects (whistles, sharp 'dings', and 'whooshes') occur in synchronization with the actor's gestures. (3) The vocal tone shifts between a comical, high-pitched salesman persona and a very deep, serious, and stern warning tone. (4) The music remains consistent in tempo but fades slightly when the speaker delivers the more serious legal warnings. (5) The final sequence features a slightly more subdued musical tail during the text slides and logos.",
+      "text_narrative_log": "(1) Functional text: Continuous Traditional Chinese subtitles detailing the spoken dialogue about e-cigarette regulations. (2) Decorative/Effect Text: Large, colorful variety-show style captions appear such as '電子煙哦 :)' (E-cigarette oh), '罰五萬' (Fine 50,000), '通通都違法' (All are illegal), and '5千萬' (50 million) to emphasize key points. (3) Legal Information: Sequential slides (1) (2) (3) detailing specific articles of the Tobacco Hazards Prevention Act and corresponding fines. (4) Branding: Official titles '衛生福利部 國民健康署' (Ministry of Health and Welfare, Health Promotion Administration) and '新竹市衛生局' (Hsinchu City Health Bureau) are displayed at the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Comedy Skit -> Direct Warning -> Legal Detail List -> Institutional Logos"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Face close-up",
+        "Hands"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main creator (Cai Aga), 1 extra seen from the back/side.",
+      "mainCharacterDescription": "Male with short brown hair, wearing a plain oversized white t-shirt, extremely expressive face, holding a small flag."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Office",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern indoor room featuring a light wood desk with a small artificial plant, a grey chair, and a wall adorned with three framed Japanese art prints (Ukiyo-e style). A black shelving unit is visible on the right.",
+      "lightingStyle": "Bright studio lighting, even and clear.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, High Saturation",
+      "cameraWork": [
+        "Static",
+        "Digital Zoom",
+        "Dolly-in"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "衛生福利部",
+        "國民健康署",
+        "新竹市衛生局"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, stern, humorous",
+        "pitch": "Medium-high",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese",
+          "Hokkien"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Variety Show Style",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whistle",
+        "Ding",
+        "Whoosh",
+        "Impact sounds"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook Skit -> Comparative Warning -> Legal Penalty Itemization -> Institutional Call to Action",
+      "mainPurpose": "This is a public service announcement (PSA) designed to warn travelers and the general public in Taiwan against importing e-cigarettes or heated tobacco products. It uses the high energy and comedic persona of a popular influencer (Cai Aga) to make dry legal regulations engaging and memorable, ultimately emphasizing the severe financial penalties (up to 50 million TWD) to deter illegal imports.",
+      "visualEmotion": "Energetic and Assertive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct involvement of the influencer as a spokesperson for government health agencies and the display of official legal slides and agency logos.",
+      "endorsementObject": [
+        "衛生福利部 國民健康署",
+        "新竹市衛生局"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing with variety-show style 'reaction' text overlays and the influencer's signature exaggerated facial expressions.",
+      "freeDescribe": "The video effectively bridges the gap between official government communication and Gen-Z/Millennial social media culture through high-intensity editing and influencer-led messaging."
+    }
+  }
+}

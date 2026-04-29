@@ -1,0 +1,178 @@
+{
+  "videoName": "cocowine0205-20250723023011-1248937070717147.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 24,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts in a warehouse-style supermarket. A young woman with long dark hair, wearing a white shirt and a black vest, looks at a product off-camera. (2) She picks up a clear plastic container of small green fruits labeled 'Munch'n Kiwi berries'. She rotates the box to show the bottom and sides to the camera. (3) Scene cut: The woman is now wearing a teal sweater, a white puffer vest, and a dark blue Kangol beret. She is standing near a shopping cart in the produce section, holding the same box of fruit and pointing at them while smiling. She brings the box very close to the camera for a macro view of the berries.",
+      "audio_narrative_log": "(1) Upbeat, rhythmic pop music starts at a moderate volume. A young woman's voice begins speaking in an excited, high-pitched tone, introducing the 'New Zealand Mini Kiwis'. (2) As she continues talking, a male voice can be heard off-camera responding to her observations and laughing occasionally. The background music remains consistent. (3) The female voice explains the eating process (waiting for them to soften and peeling them). Ambient sounds of a busy store, including distant chatter and the rolling of shopping carts, are subtly present in the background.",
+      "text_narrative_log": "(1) Functional Text: '這個是' (This is) and '紐西蘭迷你奇異果' (New Zealand Mini Kiwis) in bold purple and blue fonts. (2) Decorative Text: '也太小了吧' (It's so small!) and '這是我看過最小的奇異果哦' (This is the smallest kiwi I've ever seen) appear with a shocked tone. (3) Functional Text: '429元' (429 dollars) displays the price. Instructional text appears: '吃法就是一定要等它軟了才行' (The way to eat it is you must wait until it's soft) followed by emotional tags like '辛苦的小水果' (Hard-working little fruit) and '非常可愛' (Very cute)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 8.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Product Demo -> Detailed Instruction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 1 child in background, 1 man in background, 1 female shopper in background",
+      "mainCharacterDescription": "A young woman with long dark hair, initially in a black vest and white shirt, later seen in a white puffer vest and a blue Kangol beret."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Supermarket",
+          "Warehouse"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The interior of a large Costco warehouse with tall industrial shelves, refrigerated sections for produce, and other shoppers with carts.",
+      "lightingStyle": "Intense studio lights / Industrial fluorescent",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Follow shot",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Kiwis",
+        "Fruit"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "Munch'n",
+        "Kangol"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Warehouse environment"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Product Review -> Educational Outro",
+      "mainPurpose": "To showcase a unique and novel fruit product (Mini Kiwi Berries) found at Costco, providing viewers with information on its appearance, price, and the specific method required to eat it properly.",
+      "visualEmotion": "Curious and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed showing of the product packaging, price information, and specific brand logo (Munch'n) visibility.",
+      "endorsementObject": [
+        "Munch'n",
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-show style captions and personal product review format.",
+      "freeDescribe": "The video uses a mix of vertical vlog aesthetics and shopping guide elements, likely targeting a local audience interested in retail finds."
+    }
+  }
+}

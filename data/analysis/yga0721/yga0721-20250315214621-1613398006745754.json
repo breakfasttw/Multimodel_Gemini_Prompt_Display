@@ -1,0 +1,177 @@
+{
+  "videoName": "yga0721-20250315214621-1613398006745754.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 12,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Commentary",
+        "Humor"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video uses a three-tier split-screen layout. The top and bottom tiers show static group photos and short clips of a large group of people in yellow and blue baseball uniforms on a field. The middle tier features a man with glasses and a grey polo shirt speaking directly to the camera in a studio or office setting. (2) As the man speaks, he uses frequent hand gestures, including pointing and clasping his hands together. The group photos in the background tiers shift slightly, showing different poses of the 'Ar-Ga-Bang' baseball team. (3) In the final phase, the man in the middle expresses strong encouragement by raising his fists and then opening his arms wide in a gesture of appreciation.",
+      "audio_narrative_log": "(1) An upbeat, sentimental pop-rock background music track begins immediately. A male voice speaks in Mandarin with a tone that is both earnest and slightly theatrical. (2) The vocal remains at a high volume relative to the music, maintaining a continuous flow of speech with a friendly and passionate delivery. (3) The music swells slightly toward the end as the speaker finishes his message, with a clean cut to silence at the 12-second mark.",
+      "text_narrative_log": "(1) Decorative text stickers on the left side of the middle tier read '七月半' and '呱吉'. (2) Functional subtitles appear at the bottom of the middle tier, translating the spoken Mandarin: 'Aga, honestly... your existence gives me confidence in life.' (3) Emotional hook text continues with 'I know 'Do Not Watch at Work' can exist for 10 more years... so you must persevere.'"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 12.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Constant talking head in middle frame with supporting visuals on top and bottom tiers."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 25,
+      "maleDetectAmount": 20,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Head and shoulders",
+        "Hands"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main speaker in the middle; approximately 24 individuals visible in the group baseball photos in the top/bottom tiers.",
+      "mainCharacterDescription": "A middle-aged man with short black hair, wearing rectangular glasses and a light grey polo shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Outdoor Baseball Field"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The middle tier background is an office or studio with shelves, a computer monitor, and a rainbow pride flag. The top and bottom tiers show a bright outdoor baseball stadium with green grass and blue skies.",
+      "lightingStyle": "Studio lighting in the middle; natural daylight in the field shots.",
+      "weather": "Partly cloudy",
+      "season": "Summer",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Monitor",
+        "Smartphone",
+        "Microphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "上班不要看",
+        "七月半"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Passionate and encouraging",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat pop-rock",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Percussion",
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Electric Guitar",
+        "Drums",
+        "Bass"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Praise -> CTA",
+      "mainPurpose": "The video serves as a sincere yet humorous tribute and message of encouragement from the creator Froggy (呱吉) to his fellow prominent YouTuber Aga (蔡阿嘎). By using a split-screen format to showcase shared team memories while delivering a monologue, the content aims to acknowledge Aga's long-term influence on the creator community and urge him to continue his work despite challenges.",
+      "visualEmotion": "Heartwarming and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Split-screen montage format, Froggy's signature earnest/deadpan delivery, variety-show style name stickers.",
+      "freeDescribe": "The video utilizes a specific internet-culture aesthetic where creators publicly support one another through 'tribute' clips. The inclusion of the 'Ar-Ga-Bang' baseball team footage anchors the emotional weight in real-world friendship."
+    }
+  }
+}

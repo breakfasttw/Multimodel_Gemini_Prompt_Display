@@ -1,0 +1,185 @@
+{
+  "videoName": "alephant_0427-20250614205731-879652644891166.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 45,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Vlog",
+        "Comparison"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with light brown hair in pigtails, wearing a white ruffled sweatshirt, smiles and gestures sweetly while holding a phone. (2) Scene cuts to the same woman from behind, wearing a pink tank top, aggressively tapping on a mechanical keyboard and looking at a computer screen showing a MOBA game (League of Legends). Fire effects are added to the frame. (3) Transition to the woman in the white sweatshirt sitting at a restaurant table with plates of food, smiling and holding a small plate. (4) Cut to her holding an empty bowl, showing her stomach which is slightly distended, and patting it with a satisfied expression. (5) She is seen walking up a flight of stairs, looking at the camera and talking with animated hand gestures. (6) Finally, she is shown lounging on a white sofa in a grey t-shirt and plaid skirt, eating chips and dropping wrappers on the floor while a male figure (boyfriend) picks them up for her.",
+      "audio_narrative_log": "(1) A soft, upbeat piano melody plays as a high-pitched, sweet female voice speaks in a gentle tone. (2) The audio shifts abruptly to loud, distorted heavy metal music accompanied by intense keyboard clicking and the female voice shouting aggressively. (3) The soft piano music returns with the sweet, high-pitched female voice speaking again. (4) Upbeat music continues with sounds of satisfaction and the woman laughing. (5) Walking sounds and the sweet female voice return over a light background track. (6) Sound of chip bag crinkling, chewing sounds, and a muffled male voice asking a question while the music continues in a comedic tone.",
+      "text_narrative_log": "(1) Functional Text: '當你女友以為自己脾氣很好' (When your girlfriend thinks she has a good temper) with a calm girl sticker. (2) Functional Text: '實際上的女友' (The actual girlfriend) with a devil sticker. (3) Functional Text: '當你女友以為自己食量很小' (When your girlfriend thinks she has a small appetite). (4) Decorative Text: '都吃完了！給你看~' (Finished it all! Look~). (5) Functional Text: '當你女友以為自己很勤勞' (When your girlfriend thinks she's very diligent). (6) Effect Text: '(欸！有垃圾！)' (Hey! There's trash!) and '(謝謝！)(至少我有禮貌。)' (Thanks! At least I'm polite.)"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.75,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro expectation -> Reality contrast -> Repeated for three different character traits."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view",
+        "Legs"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main female creator; 1 male assistant/boyfriend visible as legs and arms in the final scene.",
+      "mainCharacterDescription": "A young Asian woman with light brown hair, often styled in twin buns or pigtails, wearing casual home and outing wear."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Restaurant",
+          "Stairwell",
+          "Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A white studio background with a shelf, a restaurant with wooden tables and green plants, an indoor concrete stairwell, and a white sofa with posters on the wall behind it.",
+      "lightingStyle": "Bright studio lighting mixed with natural light in the restaurant.",
+      "weather": "Indoor",
+      "season": "Spring/Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Vibrant",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Rice",
+        "Green vegetables",
+        "Chips"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Monitor",
+        "Keyboard"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Hwant"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Varies between sweet/polite and aggressive/shouting",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Comedy/Rock",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Keyboard",
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Piano",
+        "Electric Guitar",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Game sounds",
+        "Explosion",
+        "Eating sounds"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Comparison A -> Comparison B -> Comparison C",
+      "mainPurpose": "To create a humorous 'Expectation vs. Reality' comparison of a girlfriend's behavior, emphasizing the difference between how she presents herself (or thinks of herself) and her actual habits when comfortable.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Visible consumption of a specific chip brand and filming in what appears to be a real restaurant.",
+      "endorsementObject": [
+        "Hwant"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of contrasting stickers/emojis to denote 'Expectation' vs 'Reality'.",
+      "freeDescribe": "The video relies heavily on relatable relationship tropes to drive engagement."
+    }
+  }
+}

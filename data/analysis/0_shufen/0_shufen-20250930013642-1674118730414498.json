@@ -1,0 +1,174 @@
+{
+  "videoName": "0_shufen-20250930013642-1674118730414498.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 9,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Humor",
+        "Trend"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Thailand"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a silhouette of a man kneeling to propose to a woman in front of the Eiffel Tower at sunset, followed by a close-up of a diamond ring being placed on a finger. (2) At 00:03, there is a sharp transition to a real-life outdoor setting where a young woman with long dark hair and sunglasses on her head smiles at the camera. (3) She mimics the finger gesture of the previous scene but reveals a Toyota car key instead of a ring, then steps back to lean against a white Toyota car, posing with a confident smile.",
+      "audio_narrative_log": "(1) A romantic, slow-tempo ballad starts, featuring a male vocal singing 'You look so beautiful in white' accompanied by soft piano and strings. (2) At 00:04, the music cuts abruptly to a high-energy pop song with an upbeat electronic rhythm and a female vocal singing '...we still breathe'. (3) The upbeat music continues until the end with no ambient noise or speaking voices detected.",
+      "text_narrative_log": "(1) '同齡人：' (Peers:) appears at the top center, setting up a comparison context. (2) '我：' (Me:) appears at the top center during the second phase, indicating the subject of the punchline."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 3,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Expectation (Peers' marriage) -> Contrast/Punchline (Self with a car)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male and 1 female in silhouette in the intro, 1 main female character in the second half.",
+      "mainCharacterDescription": "A young woman wearing a light-colored cardigan over a low-cut beige top and denim shorts, with sunglasses on her head."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Parking Lot",
+          "Landmark Backdrop"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First part shows the Eiffel Tower backdrop; second part shows a street with parked cars and a small open-air shop/stall.",
+      "lightingStyle": "Natural daylight",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and Muted in intro, Bright and Vivid in second half",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "Eiffel Tower"
+      ],
+      "brandLogos": [
+        "Toyota"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High (Lyrics-based)"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Romantic and soft (male), Energetic and bright (female)",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Slow (male), Fast (female)",
+        "speechDensity": "Continuous singing",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Ballad, Pop",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Keyboard",
+        "Strings",
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Piano",
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Contrast -> Reality",
+      "mainPurpose": "The video uses a popular social media trope to contrast societal expectations (peers getting married) with the creator's personal achievement and independence (buying a car). It conveys a message of self-sufficiency and humor about being single but successful.",
+      "visualEmotion": "Humorous and Confident"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The woman proudly displays her Toyota key and poses with the car, positioning the vehicle as a desirable object of status and independence.",
+      "endorsementObject": [
+        "Toyota"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Comparison 'Me vs Others' format",
+      "freeDescribe": "The use of the Thai license plate suggests the creator is located in Thailand or targeting a Thai/Southeast Asian audience, despite the Chinese text overlay."
+    }
+  }
+}

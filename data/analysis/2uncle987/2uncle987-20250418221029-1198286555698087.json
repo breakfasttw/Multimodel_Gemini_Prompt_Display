@@ -1,0 +1,189 @@
+{
+  "videoName": "2uncle987-20250418221029-1198286555698087.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Accommodation Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Busan"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a screen recording of a mobile search for 'almond villa Busan' on Google Maps and Trip.com. (2) A transition shows the interior of an elevator with a building notice for 'Almond Kids-Poolvilla' and a digital floor indicator rising. (3) A young boy with glasses greets the camera at the entrance of a modern, white-tiled villa. (4) The scene shifts to an indoor heated pool where the boy and another child play with tubes. (5) A handheld tour follows, showing a large wooden dining table, a kitchen with a vintage-style fridge and microwave, and a spacious living area with a large TV. (6) The camera enters a bathroom featuring a large bathtub and a washing machine, then moves to two separate bedrooms with large double beds. (7) A KTV karaoke machine is highlighted in a dedicated entertainment corner. (8) The video ends with the children standing by the pool the following morning.",
+      "audio_narrative_log": "(1) Upbeat pop music begins as a female narrator speaks in a friendly tone about the villa's location and booking process. (2) The chime of an elevator bell is heard over the background music. (3) The child's enthusiastic greeting 'Hi!' is clearly audible, followed by the narrator's excitement while exploring the rooms. (4) The music continues at a steady tempo with light electronic beats and percussion. (5) Water splashing sounds are heard during the pool segments. (6) The video concludes with the narrator's morning greeting to the children over the fading background music.",
+      "text_narrative_log": "(1) 'almond villa 釜山' - Search query for the location. (2) '韓國釜山豪華住宅 Almond Villa' - Hook text introducing the luxury residence. (3) '離地鐵站大概五分鐘' - Functional text noting the distance to the subway. (4) '溫水游泳池' - Decorative label for the heated pool. (5) '完善家電用品小廚房' - Label for the kitchen amenities. (6) '40坪大空間' - Highlighting the room size. (7) '寬敞衛浴空間' - Functional text for the bathroom. (8) '提供兩大雙人房' - Specifying the bedroom count. (9) 'KTV包廂' - Identifying the karaoke feature. (10) 'TO BE CONTINUED...' - Narrative hook at the transition point."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 32,
+      "averageSceneDuration": 2.75,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Search Intro -> Arrival -> Interior Tour -> Amenities Showcase -> Morning Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female creator/narrator visible in reflections and via hands, 2 young boys appearing throughout the tour.",
+      "mainCharacterDescription": "The narrator is an adult female wearing a striped shirt (visible in mirrors). The main child is a young boy wearing glasses, a black long-sleeve shirt with 'WAX ON WAX OFF' text, and green shorts."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Indoor Pool",
+          "Bedroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A high-end modern villa with marble flooring, minimalist white walls, wooden furniture, and a private indoor pool area with glass partitions. The kitchen is equipped with cream-colored retro appliances.",
+      "lightingStyle": "Bright indoor lighting with warm ambient accent lamps.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm and Vibrant",
+      "cameraWork": [
+        "Follow shot",
+        "Panning",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "TV",
+        "Microwave",
+        "Washing Machine",
+        "KTV Machine",
+        "Water Dispenser"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Google",
+        "Trip.com",
+        "HUF",
+        "Bomann",
+        "Winix",
+        "LG",
+        "Daewon"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and enthusiastic",
+        "pitch": "Medium-high",
+        "loudness": "Clear",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Elevator Bell",
+        "Digital Chime"
+      ],
+      "ambientNoise": [
+        "Water Splashing"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> CTA",
+      "mainPurpose": "To provide a detailed and positive review of the 'Almond Villa' in Busan, South Korea, specifically targeting families by showcasing its spacious layout, private heated pool, and child-friendly amenities.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "The video provides a comprehensive tour of a specific commercial property, mentioning search terms and booking platforms directly.",
+      "endorsementObject": [
+        "Almond Villa Busan"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy mother-son dynamic and clear instructional text overlays.",
+      "freeDescribe": "The video utilizes a fast-paced 'room tour' style common in travel influencer content to maximize engagement and highlight value propositions like space and amenities."
+    }
+  }
+}

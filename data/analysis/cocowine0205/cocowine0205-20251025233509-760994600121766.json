@@ -1,0 +1,181 @@
+{
+  "videoName": "cocowine0205-20251025233509-760994600121766.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 85,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a woman in a brown off-the-shoulder top standing in a Costco freezer aisle, holding a box of 'Thai Volcano Ribs' and speaking to the camera with an expressive face. (2) The scene transitions to a kitchen setting where the woman holds a large bowl filled with cooked pork ribs, showing the size and texture to the camera. (3) The scene shifts to the woman and another female friend sitting at a table; they pour a green chili-based sauce from a blue bowl over the ribs and begin eating them using their hands.",
+      "audio_narrative_log": "(1) Upbeat, rhythmic background music starts immediately. A high-pitched, excited female voice speaks in Mandarin, introducing the product. (2) A male voice (off-screen) joins the conversation, providing details about the price and quantity of the ribs. (3) Sound effects like 'dings' and 'pops' punctuate the video during text overlays. The soundscape remains a mix of the two onscreen female voices, the off-screen male voice, and the continuous upbeat BGM.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo at the top; '十月推薦 泰式火山排骨' (October Recommendation: Thai Volcano Ribs). (2) Hook Text: '超便宜好吃嗎?' (Is it super cheap and delicious?). (3) Functional Text: '469元 1700公克' (469 TWD 1700g). (4) Decorative/Effect Text: '美味至極' (Extremely delicious) with fire and thumb-up emojis."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 7.08,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at store -> Kitchen preparation -> Dining table tasting and review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Face",
+        "Hands",
+        "Full body",
+        "Torso"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main female creator, 1 female friend appearing in the eating scene.",
+      "mainCharacterDescription": "A young woman with long dark hair, wearing a brown off-the-shoulder top and a black skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Costco",
+          "Kitchen",
+          "Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The store background shows refrigerated glass doors filled with frozen food products and Costco shelving. The indoor background includes a kitchen counter, a dining table, and a living room area with a sofa.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pork Ribs",
+        "Green Sauce",
+        "Chili"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Ding",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Indoor quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Location Intro -> Product Showcase -> Tasting/Review",
+      "mainPurpose": "The video aims to provide a positive review and recommendation for the 'Thai Volcano Ribs' sold at Costco. It combines a shopping discovery with a home-tasting session to convince viewers of the product's value (price vs. quantity) and flavor quality.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Directly showing the product packaging, stating the price, and using positive adjectives to describe the taste.",
+      "endorsementObject": [
+        "Costco Wholesale",
+        "Thai Volcano Ribs"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density colorful subtitles and enthusiastic host delivery.",
+      "freeDescribe": "Typical lifestyle/food influencer content tailored for short-form social media platforms, emphasizing 'Costco finds'."
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "videoName": "alephant_0427-20251001174047-1190520649948288.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 76,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Street Interview",
+        "Vlog",
+        "Music Performance"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a blonde female host in a red cropped shirt and black skirt holding a violin, speaking energetically to the camera on a city street. (2) She approaches a young woman in a beige top; they converse, and the host then plays a melody on her violin while the woman listens and reacts with a smile. (3) The scene transitions to the host interviewing a man in a green knitted vest; she plays a different melody, and he identifies the anime song with a joyful expression. (4) The host then interviews a man with dreadlocks carrying a shopping bag; after playing a song, they both dance slightly to the music. (5) Finally, the host stands alone again, speaking to the camera and gesturing to wrap up the video.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat background music plays alongside a female voice speaking Mandarin with an excited and high-pitched tone. (2) The music volume drops during street interviews where dialogue between the female host and various interviewees (female and male) is heard clearly. (3) Several segments feature solo violin performances of recognizable anime themes like 'Akuma no Ko' and 'Idol'. (4) Ambient street noise, including distant traffic and people talking, is present throughout the field recording. (5) The video ends with a final spoken segment by the host followed by a quick music fade-out.",
+      "text_narrative_log": "(1) Functional Text: '《你推的動漫別人聽得懂嗎》' (Can others understand the anime you recommend?) - Title Hook. (2) Functional Text: '[ 中山篇 ]' (Zhongshan Chapter) - Location indicator. (3) Decorative Text: '(進擊的巨人)' (Attack on Titan) and '(惡魔之子)' (Child of Evil) appearing as song/anime labels. (4) Decorative Text: '(挑戰成功!)' (Challenge Success!) and '耶!' (Yeah!) for emotional emphasis. (5) Decorative Text: 'Idol Yoasobi' and '不再聯絡 379' appearing as song information cards."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Street Interviews & Violin Performances -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 6,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female host, 1 female interviewee, 2 male interviewees, and at least 2 passers-by visible in the background.",
+      "mainCharacterDescription": "A young woman with blonde/pink braided hair, wearing a red Adidas cropped t-shirt, a black cargo skirt with a pink plush toy attached, and sandals."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Park"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The video is filmed in the Zhongshan district of Taipei, showing a paved pedestrian area with green bushes, trees, and modern buildings/shops in the background.",
+      "lightingStyle": "Natural daylight",
+      "weather": "Overcast",
+      "season": "Spring or Summer",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and vibrant",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Microphone",
+        "Smartphone"
+      ],
+      "landmark": [
+        "Zhongshan Station area"
+      ],
+      "brandLogos": [
+        "Adidas"
+      ],
+      "instrumentsVisible": [
+        "Violin"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cuts between talk and performance segments",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, friendly, and informal",
+        "pitch": "Varied, with the host being higher pitched",
+        "loudness": "Normal to loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking and singing",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "J-Pop/Anime themes",
+      "bgmBPM": 140,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Violin",
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song",
+        "Live"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Traffic",
+        "Crowd chatter"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Sequence of Interviews -> Final Song Reveal",
+      "mainPurpose": "The video aims to entertain viewers by combining street interviews with live musical performance. The host tests the anime knowledge of random people by playing themes on her violin, creating a fun, interactive challenge that showcases both her talent and local youth culture.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy street interview style paired with immediate violin performance skills.",
+      "freeDescribe": "The video utilizes a popular TikTok/Shorts format where a creator interacts with the public to demonstrate a skill or test a specific niche interest (anime)."
+    }
+  }
+}

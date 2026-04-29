@@ -1,0 +1,181 @@
+{
+  "videoName": "2uncle987-20250430105442-2755643494807747.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 76,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Promotional",
+        "Retail"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taoyuan"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a young woman in a light blue patterned dress standing in front of a clothing rack in a brightly lit indoor store. (2) She proceeds to walk through the store, pointing out and picking up various merchandise including clogs, boxed gift sets, sanitary pads, thermos bottles, and walls of colorful socks. (3) She showcases stationery items like notebooks and desktop calendars, then moves to a section with plush toys and eco-friendly bags. (4) Detailed close-ups follow, showing red envelopes with snake illustrations, decorated motorcycle helmets, and patterned umbrellas. (5) The final sequence shows her behind a service counter with a large 'haha baby' logo, waving energetically to the camera.",
+      "audio_narrative_log": "(1) A high-pitched, energetic female voice speaks continuously in Mandarin, introducing the store and describing the products. Background music is upbeat, featuring a fast tempo with electronic and pop elements. (2) As she moves through the store, the sound of items being moved and the subtle ambient hum of a shopping mall are audible. (3) Occasional cartoon-like sound effects (pings and pops) accentuate the presentation of specific items. (4) The audio maintains a high energy level until the end when she says a final greeting.",
+      "text_narrative_log": "(1) Functional text: '我們來看看我們的快閃店' (Let's look at our pop-up shop) appears as a hook. (2) Decorative text: A large graphic shows 'haha baby x MAMU eggcake' with dates '01/04 - 01/22' and location '桃園台茂購物中心' (Taimall Shopping Center). (3) Functional text: Price tags like '109' and '99' appear near products. (4) Effect text: '送哦' (Free!) appears in large yellow and red characters to emphasize a promotion. (5) Content text: '蛇年大吉' (Happy Year of the Snake) is seen on the red envelopes."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.7,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Store Tour/Product Showcase -> Promotional Highlight -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female host presenting the products throughout the video.",
+      "mainCharacterDescription": "Young woman with long dark hair, wearing a light blue and white cloud-patterned dress with sheer white sleeves and a 'HAHABABY' logo."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Mall",
+          "Pop-up Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The interior of a brightly lit shopping mall pop-up store, filled with racks of clothing, shelves of colorful merchandise, display counters, and large brand posters.",
+      "lightingStyle": "Bright studio-style indoor lighting",
+      "weather": "Indoor",
+      "season": "Winter (January per text)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Cartoon characters",
+        "Snake illustrations"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Taimall Shopping Center"
+      ],
+      "brandLogos": [
+        "haha baby",
+        "WOKY",
+        "MAMU eggcake",
+        "World Gym",
+        "MLB"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and high-pitched",
+        "pitch": "High",
+        "loudness": "Clear",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Pings",
+        "Cartoon SFX"
+      ],
+      "ambientNoise": [
+        "Shopping Mall Hum"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence (Product Inventory) -> CTA/Outro",
+      "mainPurpose": "The video is a promotional vlog designed to drive foot traffic to a 'haha baby' pop-up store. It employs a high-energy, personal tour format where the creator showcases a wide variety of merchandise—ranging from lifestyle goods to seasonal red envelopes—to highlight the variety and availability of items exclusive to the physical location.",
+      "visualEmotion": "Energetic and Enthusiastic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The host is wearing the brand clothing and presenting a store dedicated entirely to the brand and its collaborations.",
+      "endorsementObject": [
+        "haha baby"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin narration, cloud-patterned branding, and variety-show style text graphics.",
+      "freeDescribe": "The video targets a young, family-oriented demographic in Taiwan, emphasizing the 'cute' (kawaii) aesthetic of the brand and the limited-time nature of the pop-up event."
+    }
+  }
+}

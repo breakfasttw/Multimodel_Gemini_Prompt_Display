@@ -1,0 +1,184 @@
+{
+  "videoName": "2uncle987-20250925030238-2419519848508552.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 91,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Promotion",
+        "Beauty"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) 0-6s: A female creator with long dark hair, wearing a white shirt and cream vest, speaks excitedly to the camera in an indoor setting with wooden furniture. Brief reaction shots of a male and another female friend appearing surprised. (2) 6-29s: The creator holds a La Roche-Posay B5+ cream box and tube, explaining its features with energetic hand gestures. (3) 29-58s: A series of close-ups showing the cream being applied to a hand, the creator's face, a shoulder with a red mark, and a child's neck and leg to demonstrate soothing properties. (4) 58-76s: The creator and a female friend sit together, holding products. Split-screen comparisons show skin 'BEFORE' and 'AFTER' application on an elbow and a heel. (5) 76-91s: The two women give thumbs up and wave at the camera while holding the product, with various promotional text graphics appearing around them.",
+      "audio_narrative_log": "(1) 0-6s: Upbeat, high-tempo pop music starts. A high-pitched, excited female voice announces an anniversary, followed by a group of voices (male and female) shouting '50!'. (2) 6-29s: The female creator speaks in a clear, friendly, and persuasive tone, describing the brand's history and the product. (3) 29-58s: Narrative continues over the same upbeat BGM; ambient sounds of skin rubbing are very faint. (4) 58-76s: The voice tone remains energetic as she describes new ingredients. Occasional 'ding' or 'pop' sound effects emphasize key points. (5) 76-91s: Closing enthusiastic remarks from the female creator as the music maintains its pace and then fades out at the very end.",
+      "text_narrative_log": "(1) Functional subtitles in Traditional Chinese throughout the video translating the spoken dialogue. (2) Hook text: '50周年!!!' (50th Anniversary!!!) in large blue and white font (0-5s). (3) Decorative product titles: 'B5+ 全面修復霜' (B5+ Universal Repair Cream) appearing in various scenes (12s, 58s). (4) Instructional text: '乳化薄擦' (Emulsify and apply thin), '局部加強' (Targeted enhancement), '厚敷急救' (Thick layer for first aid) appearing during the demo (35-42s). (5) Comparison labels: 'BEFORE' and 'AFTER' with descriptive results like '保濕光滑' (Moisturized and smooth) (55-57s, 69-74s). (6) Promotional slogan: '0到100歲都能用!' (Can be used from 0 to 100 years old!) (77s)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 32,
+      "averageSceneDuration": 2.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro/Hook -> Product Introduction -> Application Demonstration & Comparisons -> Final Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands",
+        "Shoulder",
+        "Legs",
+        "Elbow",
+        "Heel"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female main creator, 1 female friend, 1 male friend in intro, 1 toddler/child in demo.",
+      "mainCharacterDescription": "A young Asian female with long dark hair, wearing a white oversized collared shirt under a cream-colored knit vest."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Primarily a bright indoor space with white curtains, wooden cabinets, and a blue chair. Brief shots include a closet with clothes and a mirror.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Point of view"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "LA ROCHE-POSAY",
+        "理膚寶水"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, energetic, and persuasive",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Ding",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Results -> CTA",
+      "mainPurpose": "The video serves as a promotional endorsement for La Roche-Posay's B5+ repair cream, celebrating the brand's 50th anniversary. It highlights the product's versatility by showing its application on various skin issues (dryness, redness, acne marks) for all age groups, including children, aiming to build trust and encourage purchase.",
+      "visualEmotion": "Energetic and Trustworthy"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product demonstration, mention of brand name, specific benefits listed, and celebratory anniversary context.",
+      "endorsementObject": [
+        "理膚寶水",
+        "LA ROCHE-POSAY"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy opening with friends, rapid split-screen comparisons, and heavy use of vibrant text overlays.",
+      "freeDescribe": "The video uses a classic 'KOL recommendation' format, blending personal vlog elements with high-production-value product shots to appeal to a wide audience seeking skincare solutions."
+    }
+  }
+}

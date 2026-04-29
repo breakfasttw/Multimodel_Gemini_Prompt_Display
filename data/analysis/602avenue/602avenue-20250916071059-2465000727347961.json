@@ -1,0 +1,177 @@
+{
+  "videoName": "602avenue-20250916071059-2465000727347961.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 90,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Beauty",
+        "Endorsement"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a woman showing a red blemish on her chin; she applies liquid concealer with a wand, looking disappointed. A red 'X' graphic appears. (2) She transitions to showing a cream concealer palette and a small brush, with a green 'O' graphic signifying the correct method. (3) She holds up the KRYOLAN professional makeup palette to the camera. (4) Close-up shots follow as she demonstrates applying the cream foundation to the back of her hand and then precisely onto her face blemish using a small brush. (5) A side-by-side 'Before' (Sober state) and 'After' (Using KRYOLAN) comparison is shown, highlighting the blemish removal. (6) She introduces a loose powder jar and applies it with a large brush to set the makeup, finishing with a confident smile and pose.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic lo-fi music starts as a high-pitched, energetic female voice speaks in Mandarin. (2) SFX are heard, including a buzzer sound for the 'wrong' method and a pleasant chime for the 'right' method. (3) The music remains continuous as the woman provides detailed narration about the application steps, occasionally interrupted by a popping sound effect when new text appears. (4) The audio concludes with a smooth fade-out of the BGM and a final cheerful vocal sign-off.",
+      "text_narrative_log": "(1) '你們還在這樣畫遮瑕嗎？' (Are you still applying concealer like this?) - Hook, questioning tone. (2) '絕對不行!!' (Absolutely not!!) - Warning tone. (3) '韓國歐膩告訴正確的方式!' (Korean Unnie tells you the correct way!) - Persuasive tone. (4) 'KRYOLAN 歌劇魅影 光影塑形三效粉霜' - Brand and product name, informative. (5) '1. 用小筆塗基底色' (1. Use a small pen to apply the base color) - Instructional. (6) '20小時完美持妝' (20 hours of perfect makeup) - Decorative/Hook, emphasizing performance."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 4.09,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro (Problem) -> Demonstration (Method) -> Product Spotlight -> Results and Setting"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main creator acting as the makeup artist and model.",
+      "mainCharacterDescription": "A young woman with long dark hair, wearing a bright green knitted sweater and red lipstick."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A simple, neutral-toned indoor studio background with a white gaming/office chair visible behind the creator.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "KRYOLAN",
+        "歌劇魅影"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and excited",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Lo-fi",
+      "bgmBPM": 105,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Ding",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Problem Identification -> Solution Demonstration -> Product Comparison -> Outcome Verification",
+      "mainPurpose": "The video serves as a promotional tutorial for KRYOLAN makeup products. It leverages the 'Korean Beauty' authority to teach viewers a professional concealer technique, specifically contrasting the inefficiency of liquid concealers against the high coverage of the KRYOLAN Ultra Foundation Trio. The goal is to drive sales by proving the product's effectiveness in concealing skin imperfections like acne and redness.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator holds the products directly to the camera, identifies them by name in both speech and text, and demonstrates their specific benefits.",
+      "endorsementObject": [
+        "KRYOLAN",
+        "歌劇魅影"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Starts with a common makeup mistake ('Are you still doing this?') followed by a signature 'Korean Unnie' teaching persona.",
+      "freeDescribe": "The video uses high-contrast visual cues (Red X vs Green O) and clear before/after shots, which are highly effective for performance-based beauty clustering."
+    }
+  }
+}

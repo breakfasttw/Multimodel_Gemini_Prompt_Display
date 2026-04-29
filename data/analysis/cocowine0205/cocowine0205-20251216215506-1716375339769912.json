@@ -1,0 +1,193 @@
+{
+  "videoName": "cocowine0205-20251216215506-1716375339769912.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 80,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Travel Vlog",
+        "Hotel Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Sapporo"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with two young women standing in front of a hotel entrance with animated text overlays. (2) One woman walks down a busy city street at night, gesturing towards the Tanukikoji shopping district. (3) Transitions to the interior showing the hotel logo 'DANSETSU SAPPORO' and various facilities including a hot spring (onsen), wooden lounge chairs, a sauna, and a vanity area equipped with Dyson hair dryers. (4) The scene shifts to a buffet lounge where beer is being poured automatically and various snacks like croissants and donuts are displayed. (5) A tour of the hotel room follows, showing luggage storage, clothes racks, a private bathroom with a tub, a small seating area, and twin beds. (6) Close-ups of food being prepared, specifically night-time ramen and a breakfast buffet with salmon and salad. (7) The video concludes with one of the women smiling and waving while sitting on a bicycle in front of the hotel.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo background music starts immediately with an energetic female voice speaking Mandarin. (2) Ambient sounds of liquid being poured (beer) and the mechanical sound of the dispenser are heard. (3) A male voice joins the narration, alternating with the female voice to describe the room's features. (4) Sound effects such as chimes and 'pop' sounds coincide with the appearance of text overlays. (5) The music continues at a steady pace until a final melodic chime ends the video.",
+      "text_narrative_log": "(1) '札幌市中心的' (In Sapporo city center) - Functional. (2) '超級方便的' (Super convenient) - Hook. (3) '天然溫泉大浴場' (Natural hot spring public bath) - Functional. (4) '豪華休息室 讓你吃到飽' (Luxurious lounge, eat all you want) - Hook. (5) '免費的' (Free) - Hook. (6) '非常溫馨舒適的飯店唷' (A very warm and comfortable hotel) - Hook/Emotional."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.9,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Location Context -> Facilities Tour -> Food & Drink Showcase -> Room Detailed Tour -> Dining Experience -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, 2 blurred staff/guests in the background of the dining area",
+      "mainCharacterDescription": "Two young Asian women; one wears a grey cardigan and white tiered skirt, the other wears a tan vest over a white shirt with a black beret."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Hotel",
+          "Indoor",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern hotel interior with light wood accents, urban street at night with neon signs, clean minimalist hotel room, and a buffet dining area.",
+      "lightingStyle": "Bright indoor lighting with warm color temperatures; night-time outdoor lighting.",
+      "weather": "Clear",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm, High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Ramen",
+        "Croissants",
+        "Donuts",
+        "Salad",
+        "Grilled Salmon",
+        "Beer",
+        "Wine",
+        "Coffee"
+      ],
+      "trafficDetect": [
+        "Bicycle"
+      ],
+      "techDetect": [
+        "Dyson Hairdryer",
+        "Automatic Beer Dispenser",
+        "Coffee Machine",
+        "Air Purifier",
+        "TV"
+      ],
+      "landmark": [
+        "Tanukikoji Shopping Street"
+      ],
+      "brandLogos": [
+        "Dyson",
+        "SAPPORO CLASSIC",
+        "DANSETSU SAPPORO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and friendly",
+        "pitch": "High (Female), Medium (Male)",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Chime",
+        "Pop",
+        "Sparkle"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Proximity -> Amenities -> Food -> Room -> Perks -> Conclusion",
+      "mainPurpose": "This video serves as a promotional review of the 'Dansetsu Sapporo' hotel in Japan. It utilizes a high-energy vlog format to highlight specific selling points: its central location near shopping, high-end amenities like Dyson dryers and an onsen, and value-added freebies like a lounge with alcohol and free late-night ramen.",
+      "visualEmotion": "Exciting, Comfortable, Inviting"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed showcase of hotel features, specific naming of the brand, and positive verbal evaluation of all services.",
+      "endorsementObject": [
+        "暖雪 (Dansetsu Sapporo)"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Alternating dual-gender narration and dense variety-show style text overlays.",
+      "freeDescribe": "The content targets young travelers looking for a blend of luxury (Dyson, onsen) and value (free snacks/alcohol/ramen) in a central urban location."
+    }
+  }
+}

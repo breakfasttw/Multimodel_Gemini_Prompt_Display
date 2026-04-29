@@ -1,0 +1,180 @@
+{
+  "videoName": "yga0721-20250721201254-25950549954575805.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 71,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Sports",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens in an indoor gymnasium with a male host in a white Nike hoodie introducing the content excitedly; a group of people stands behind him. (2) The scene transitions to a female athlete in a black athletic shirt holding a yellow and blue ball, explaining rules while standing in the gym. (3) A series of quick cuts shows participants practicing, including playful wrestling between two girls and a girl dancing loosely like an inflatable tube man. (4) Professional match footage is briefly overlaid to illustrate the sport. (5) The group engages in a casual match; players in green vests run and shoot at a high yellow basket. (6) In the finale, the female athlete holds a trophy and interacts with the host to conclude the session.",
+      "audio_narrative_log": "(1) High-energy male vocals dominate the intro over upbeat, fast-tempo electronic background music. (2) A clear female voice takes over to explain the rules of Korfball in a professional yet friendly tone. (3) During the practice montage, various sound effects (SFX) like whistles, cartoonish 'whoosh' sounds, and bursts of laughter from the crowd are heard. (4) The audio transitions into intense match sounds, featuring the squeaking of sneakers on the court and rhythmic shouting. (5) A suspenseful musical sting plays during a missed shot, followed by a loud, collective 'Ohhh!' cheer and triumphant music when a goal is finally scored. (6) The video ends with clapping and congratulatory talk.",
+      "text_narrative_log": "(1) Functional text appears: '今天我們要上的是合球課' (Today we are taking a Korfball class). (2) Decorative hook: '合球前國手 陳俐心' (Former National Korfball Player, Chen Lixin) identifies the expert. (3) Rule explanations: '合球不能運球' (No dribbling in Korfball), '傳球' (Passing), '每顆球都是1分' (Each goal is 1 point). (4) Emotional captions: '突然的肉搏戰?' (Sudden physical battle?), '這條線超過!' (Crossed this line!), '進球!!' (Goal!!), '(失敗)' (Failure), '這集的MVP是...?' (This episode's MVP is...?)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Rule Explanation -> Playful Training -> Match Highlights -> MVP Awarding"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male host, 1 female coach, and approximately 6 participants visible during the game.",
+      "mainCharacterDescription": "The host is a young male in a white Nike hoodie; the coach is a young female with black hair and a black t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Gymnasium",
+          "Basketball Court"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A standard indoor sports hall with wooden floors, basketball hoops, and a tall Korfball basket (pole with a yellow cylinder). Bleachers are visible in some shots.",
+      "lightingStyle": "Bright indoor stadium lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Video Camera"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Nike",
+        "Mikasa"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade and Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 5,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "Medium-high",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Variety Show Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Whistle",
+        "Cheer"
+      ],
+      "ambientNoise": [
+        "Gymnasium echo",
+        "Sneaker squeaks"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Logic -> Evidence -> Outcome",
+      "mainPurpose": "To introduce the sport of Korfball to the audience through a humorous and energetic vlog format, combining a tutorial with entertainment-focused gameplay involving popular influencers.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The host prominently wears a Nike hoodie throughout the video, though no verbal promotion occurs.",
+      "endorsementObject": [
+        "Nike"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Variety-show style captions and rapid-fire editing typical of Taiwanese YouTubers.",
+      "freeDescribe": "The video successfully blends niche sports education with high-engagement variety content, likely aimed at a youthful demographic."
+    }
+  }
+}

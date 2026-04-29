@@ -1,0 +1,168 @@
+{
+  "videoName": "1105ya-20260115011453-1554238569115725.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 9.4,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taoyuan"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long brown hair, wearing a pink dress and a white shirt tied at the waist, walks towards the camera in a large airport terminal while pulling a black suitcase. She is wearing a pink face mask. (2) She stops walking, looks directly at the camera, and begins to peel off her mask with her right hand. (3) She reveals her full face, smiling warmly, and uses her hand to adjust her hair while posing in front of airport check-in counters.",
+      "audio_narrative_log": "(1) The video opens with an upbeat, rhythmic acoustic guitar melody. (2) A female vocal enters, singing in a playful, whimsical tone with rhythmic nonsense syllables (reminiscent of 'Bibbidi-Bobbidi-Boo'). (3) No ambient airport noise or spoken dialogue is detected; the music remains the sole focus of the audio track throughout.",
+      "text_narrative_log": "(1) Functional/Hook Text: '在機場見到女朋友' (Seeing girlfriend at the airport) appears at the top center of the screen in a pink font. The tone is romantic and lighthearted."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 9.4,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro walking -> Mask removal reveal -> Posing for camera"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, approximately 3 distant passers-by in the background near check-in counters.",
+      "mainCharacterDescription": "A young female with long brown hair, wearing a white button-down shirt tied at the waist over a pink midi-length slip dress, carrying a brown leather handbag and pulling a black hard-shell suitcase."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Airport"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "An airport check-in hall with purple kiosks (Taoyuan Airport branding), flight information displays, and high glass-and-steel architecture in the ceiling.",
+      "lightingStyle": "Bright, even indoor lighting supplemented by natural light from windows.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Taiwan Taoyuan International Airport"
+      ],
+      "brandLogos": [
+        "EVA Air"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Playful and rhythmic",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Acoustic Pop / Whimsical",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Acoustic Guitar"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Action -> Reward",
+      "mainPurpose": "The video serves as a 'girlfriend reveal' or 'reunion' vlog clip, designed to evoke a romantic or sweet sentiment. By having the subject remove her mask and smile at the camera, it creates an intimate connection with the viewer, fulfilling the 'POV: Seeing your girlfriend' social media trope.",
+      "visualEmotion": "Sweet, cheerful, and welcoming."
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No specific products are being promoted; the airport setting is incidental to the vlog theme.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Mask-to-smile reveal transition.",
+      "freeDescribe": "The video utilizes a high-saturation filter to make the pink dress and skin tones pop, typical of East Asian beauty-focused vlogs."
+    }
+  }
+}

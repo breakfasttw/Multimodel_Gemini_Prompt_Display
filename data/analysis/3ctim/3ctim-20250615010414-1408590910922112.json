@@ -1,0 +1,175 @@
+{
+  "videoName": "3ctim-20250615010414-1408590910922112.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 40,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Vlog",
+        "Tech Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a blue flat cap introduces himself to the camera in an indoor setting. (2) The scene shifts to a close-up of a female's arm wearing a gold Apple Watch, demonstrating hand gestures while an iPhone is held nearby to show the camera interface. (3) The camera focuses on the iPhone screen, displaying a count-down and then capturing a photo as the hand gesture is made. (4) The video concludes with the man returning to the frame, speaking enthusiastically to the viewers.",
+      "audio_narrative_log": "(1) A male voice speaks in a friendly and instructional tone in Mandarin Chinese. There is a noticeable background hum of a public indoor space. (2) A female voice briefly responds and interacts during the demonstration phase. (3) No background music is present; the audio consists entirely of dialogue and ambient store noise.",
+      "text_narrative_log": "(1) 大家好 Tim哥 (Hello everyone, Tim-ge) - Functional. (2) 我們來看一下Apple watch搭上iPhone (Let's look at Apple watch with iPhone) - Functional. (3) 如何快速可以啟用它的拍照 (How to quickly enable its photography) - Functional. (4) 而且是用手勢喔 (And it's using gestures) - Decorative/Hook. (5) 第一步呢 我們開啟相機 (Step one, we open the camera) - Functional."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 7,
+      "averageSceneDuration": 5.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Hands-on Demo -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head",
+        "Torso",
+        "Hands",
+        "Arms"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 1 female assistant's arm and voice, several background figures blurred.",
+      "mainCharacterDescription": "Middle-aged male with a short beard, wearing round-rimmed glasses, a dark blue denim-style flat cap, and a light green t-shirt with a yellow lanyard."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Retail Store",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "Modern retail environment, possibly an electronics showroom, with wooden tables, soft warm lighting, and minimalist wall displays.",
+      "lightingStyle": "Bright studio-like retail lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and warm",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Smartwatch"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, professional, and helpful",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Store chatter",
+        "Movement noise"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Outro",
+      "mainPurpose": "To provide a quick tutorial on how to use the hand gesture feature on an Apple Watch to remotely control an iPhone's camera shutter, highlighting the convenience of the Apple ecosystem.",
+      "visualEmotion": "Informative and engaging"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video focuses on showcasing the features of specific Apple products in a positive and educational light.",
+      "endorsementObject": [
+        "Apple"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Introduction with 'Tim哥' and distinct personal styling (cap and glasses).",
+      "freeDescribe": "Typical high-quality tech influencer content designed for short-form social media platforms."
+    }
+  }
+}

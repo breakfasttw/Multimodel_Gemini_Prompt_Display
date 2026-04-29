@@ -1,0 +1,172 @@
+{
+  "videoName": "1105ya-20250909075324-4234063073589833.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 28,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Performance",
+        "Concert"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Lisa, a female performer with blonde hair in a silver sequined outfit, is seen on a dark concert stage with four backup dancers performing a floor-based synchronized routine. (2) As the music intensity increases, they transition to a standing formation, executing sharp hip-hop choreography against a large LED screen displaying abstract liquid-metallic visuals in purple and silver. (3) Lisa moves to the center, rapping into a hand-held microphone while performing high-energy dance moves, surrounded by stage fog and intense strobe lighting.",
+      "audio_narrative_log": "(1) High-energy hip-hop music with a heavy bassline and electronic synthesizers starts immediately, accompanied by the loud, pervasive sound of a cheering crowd. (2) A female vocal (Lisa) enters, rapping with a rhythmic, confident, and medium-high pitch. (3) The track maintains a consistent fast tempo with the crowd noise occasionally peaking with high-pitched screams during transitions in the song.",
+      "text_narrative_log": "(1) None detected."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 28.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Floor routine -> Standing choreography -> Rap performance"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female performer and 4 female backup dancers",
+      "mainCharacterDescription": "Lisa is wearing a silver, reflective two-piece outfit consisting of a crop top and shorts, with long blonde hair."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Concert Stage"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A massive LED screen showing abstract moving patterns, stage floor with fog/smoke, and concert lighting rigs.",
+      "lightingStyle": "Intense concert lighting, strobe lights, and spotlights",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Cinematic and high contrast with purple/silver dominance",
+      "cameraWork": [
+        "POV",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Microphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and assertive",
+        "pitch": "Medium-high",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "English",
+          "Korean"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "K-pop Hip-hop",
+      "bgmBPM": 105,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd cheering",
+        "Screaming"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Performance Intro -> Rap Segment -> Dance Break",
+      "mainPurpose": "To showcase a live concert performance by Lisa (BLACKPINK), emphasizing her stage presence, rapping ability, and complex dance choreography for an audience.",
+      "visualEmotion": "Energetic and powerful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Lisa's signature rap flow and high-precision dance style",
+      "freeDescribe": "This is a typical fan-captured video (fancam) focusing on a specific idol during a group or solo performance at a large venue."
+    }
+  }
+}

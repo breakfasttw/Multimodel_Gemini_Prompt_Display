@@ -1,0 +1,183 @@
+{
+  "videoName": "0_shufen-20250727225336-1259903872723856.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 41.0,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "New Taipei City"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a shot of the exterior of 'LA VILLA' restaurant. (2) It transitions to scenic views of the Tamsui River and the Lover's Bridge. (3) A young woman is shown eating truffle pasta inside the restaurant, with shots of her smiling and taking a bite. (4) Various food items are showcased in close-up: mushroom soup, a bun being torn apart, fried chicken wings, more pasta, and finally a tiramisu cake. (5) The woman is seen again, nodding in satisfaction while eating. (6) The video ends with a panoramic view of the riverfront and the bridge under a bright blue sky.",
+      "audio_narrative_log": "(1) Upbeat, acoustic guitar-driven music begins immediately. A young female voice-over starts by saying she regrets something in a slightly dramatic tone. (2) As she narrates her experience of being hungry in Tamsui, the music continues at a steady, happy pace. (3) Subtle ambient sounds of the riverside (wind and water) are blended with the music. (4) When food is shown, the vocal tone becomes more excited and appreciative. (5) The music stays consistent until the end of the video as her narration concludes with a recommendation about the sunset view.",
+      "text_narrative_log": "(1) Functional Text: '我後悔了' (I regret it) - Emotional hook. (2) Functional Text: '那天在淡水走到快要餓死' (Walking in Tamsui that day, almost starving) - Context setting. (3) Functional Text: '居然意外好吃欸' (Surprisingly delicious) - Expressing satisfaction. (4) Decorative Text: '風景超美DER~' (The scenery is super beautiful~) - Emphasizing the view. (5) Decorative Text: '有料喔' (It's got good stuff/quality) - Enthusiastic praise. (6) Functional Text: '提拉米蘇... 舒服到爆' (Tiramisu... comfortable/good to the max) - Final dessert reaction. (7) Functional Text: '夕陽灑下來的那個畫面... 我應該傍晚才來的' (That picture of the sunset... I should have come in the evening) - Closing thought."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 1.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook (Regret) -> Background (Location/Hunger) -> Food Tasting -> Scenery Appreciation -> Outro (Sunset recommendation)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face",
+        "Upper body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main character appearing in front of the camera eating and narrating.",
+      "mainCharacterDescription": "Young Asian woman with long dark hair, wearing a white sleeveless top and black-rimmed glasses worn on top of her head."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Restaurant",
+          "Outdoor Riverside"
+        ],
+        "topography": [
+          "River",
+          "Coastline"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Outdoor shots feature the Tamsui River, Lover's Bridge, and a stone-textured restaurant wall. Indoor shots show a modern restaurant with wooden tables and large windows overlooking the river.",
+      "lightingStyle": "Bright natural sunlight",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation, Natural",
+      "cameraWork": [
+        "Static",
+        "POV",
+        "Pan"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pasta",
+        "Cream Soup",
+        "Bread",
+        "Chicken Wings",
+        "Tiramisu",
+        "Orange Juice"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "Tamsui Lover's Bridge"
+      ],
+      "brandLogos": [
+        "LA VILLA DAN SHUI"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, expressive, and conversational",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Acoustic Pop",
+      "bgmBPM": 110,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Acoustic Guitar",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Wind",
+        "Water waves"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Background -> Experience -> Reflection.",
+      "mainPurpose": "The video serves as a lifestyle and food recommendation vlog. It uses a reverse-psychology hook ('I regret it') to draw viewers in, only to reveal that the regret is simply not arriving at the right time to see the sunset, thereby emphasizing how much the creator enjoyed the food and scenery at LA VILLA DAN SHUI.",
+      "visualEmotion": "Relaxed and happy"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The restaurant name is shown repeatedly, the menu is featured, and the food is described as 'surprisingly delicious' with high-quality close-ups.",
+      "endorsementObject": [
+        "LA VILLA DAN SHUI"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Clickbait-style opening 'I regret it', bright aesthetic food photography.",
+      "freeDescribe": "The video follows a popular short-form content format in Taiwan, blending scenic tourism (Tamsui) with food reviews to appeal to weekend travelers."
+    }
+  }
+}

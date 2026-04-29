@@ -1,0 +1,181 @@
+{
+  "videoName": "khshu_-20250707142027-908604591705749.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 51,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Commercial",
+        "Comedy",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in purple checkered pajamas stands by an open wardrobe, smells a white sports jersey, and makes a face of disgust. A person wearing a cardboard washing machine on their head suddenly appears, holding a bottle of Lenor scent beads. (2) The scene cuts to a gym where the woman is finishing a workout in a beige crop top and black leggings. She wipes sweat with a towel and smells her clothes with a look of disappointment. The washing machine-headed mascot appears again, pointing at the product. (3) The woman is now on a crowded subway, holding a handrail. She smells her own clothes, realizes they are fragrant, and smiles confidently. (4) The woman is seen in various outfits (blue floral dress, purple top) promoting the product. She demonstrates pouring the white scent beads into a measuring cap and then into the drum of a washing machine. The mascot character reappears in the background.",
+      "audio_narrative_log": "(1) Upbeat, energetic electronic pop music starts. A female voice speaks in a tone of mild frustration, followed by a loud, high-pitched, comical male voice that shouts enthusiastically. (2) Ambient gym sounds like a treadmill running are heard. The female voice complains again, and the energetic male voice returns with a fast-paced explanation. (3) Subtle subway mechanical hum and 'ding' sound effects occur. The male narrator's voice becomes more persuasive and rhythmic, describing the product's longevity. (4) The background music remains constant and fast-paced. Sound effects like 'shimmering' noises accompany visual highlights. The audio concludes with a group of voices shouting the brand name and a final jingle.",
+      "text_narrative_log": "(1) '衣櫃裡拿出衣服' (Taking clothes out of the wardrobe) - Functional. (2) '怎麼衣服洗過還是有味道' (Why do clothes still smell after being washed?) - Emotional/Frustrated. (3) '因為你洗衣沒放芳香豆！' (Because you didn't put in scent beads!) - Hook/Energetic. (4) '好清新' (So fresh) - Effect. (5) '運動訓練結束時' (When the workout ends) - Functional. (6) '雨天後的捷運上' (On the MRT after a rainy day) - Functional. (7) '蘭諾衣物芳香豆' (Lenor Laundry Scent Beads) - Functional/Brand. (8) '遠離換季地獄' (Stay away from seasonal transition hell) - Hook."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Problem in different life scenarios -> Solution by mascot -> Result of freshness -> Product usage demonstration."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female actress, 1 person in a mascot costume, and 1 male actor in the subway background.",
+      "mainCharacterDescription": "A young Asian woman with dark hair tied back, seen in pajamas, workout gear, and casual summer dresses."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Bedroom",
+          "Gym",
+          "Subway"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern home bedroom with a wooden wardrobe, a professional gym with weight machines, and the interior of a clean public transit train.",
+      "lightingStyle": "Bright, high-key studio lighting with some soft natural light.",
+      "weather": "Indoor/Simulated clear weather",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, high saturation, pastel-influenced",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Medium shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Subway"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Washing Machine"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Lenor",
+        "Adidas"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and persuasive",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Ding",
+        "Cartoon SFX"
+      ],
+      "ambientNoise": [
+        "Gym noise",
+        "Subway hum"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Problem Scenarios -> Solution Presentation -> Result Benefits -> CTA",
+      "mainPurpose": "The video aims to advertise Lenor scent beads by identifying common daily pain points related to clothing odors (stale closet smells, workout sweat, and public transit close encounters) and presenting the product as an easy, long-lasting solution that provides confidence.",
+      "visualEmotion": "Energetic and Positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct demonstration of product, brand name mentioned in text and audio, and clear mascot representation of the brand.",
+      "endorsementObject": [
+        "Lenor"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The use of a 'washing machine head' mascot character is a recurring visual hook for this campaign.",
+      "freeDescribe": "The video utilizes 'variety show' style editing with large on-screen text and fast cuts to maintain high viewer engagement for a short commercial format."
+    }
+  }
+}

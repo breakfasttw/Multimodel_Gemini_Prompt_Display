@@ -1,0 +1,183 @@
+{
+  "videoName": "yga0721-20250619155016-5187689608122001.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 84,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Product Demonstration",
+        "Commercial",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man with brown hair wearing a white t-shirt and striped pants stands in a modern kitchen/living room, holding a purple mop handle and a white mop head, speaking enthusiastically. (2) Close-up shots show three different types of mop head refills (Supamop) in their respective red, black, and blue packaging on a wooden table. (3) The man demonstrates the 'Fine Fabric' mop head on a polished wooden floor, then a close-up shows the 'Oil-Resistant' head cleaning a tiled surface with a purple bucket nearby. (4) A scene shows the 'Super Absorbent' head soaking up a large puddle of water on a bathroom floor. (5) A woman in a grey hoodie joins the man; they both hold mop heads and talk directly to the camera. (6) The man concludes by dancing and waving a white mop head while promotional graphics and a colorful suitcase/helmet appear on screen.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music begins immediately. A male voice speaks in a high-pitched, energetic, and rapid-fire tone in Mandarin and Taiwanese. (2) Occasional 'ding' and 'pop' sound effects punctuate the transitions between product features. (3) The music remains consistent in tempo as a female voice joins, speaking in a friendly and informative tone during the middle segment. (4) Ambient noise is minimal, suggesting a controlled indoor environment or studio-quality recording. (5) The video ends with the male voice shouting enthusiastically over the peaking volume of the BGM.",
+      "text_narrative_log": "(1) Functional Text: '沒有錯 上班很累' (True, working is tiring) appears as a hook. (2) Decorative Text: '\\好神拖 x hahababy/' branding appears in a stylized font. (3) Functional Text: '極細緻布盤' (Extremely fine cloth disk), '抗油污布盤' (Oil-resistant cloth disk), and '超吸水布盤' (Super absorbent cloth disk) identify product types. (4) Decorative Text: '不容易刮傷' (Not easy to scratch) and '適合廚房加強清潔' (Suitable for kitchen deep cleaning) highlight benefits. (5) Promotional Text: 'momo獨家優惠', '買布盤抽行李箱/安全帽!!!' (Buy cloth disks to win a suitcase/helmet) serves as the final call to action."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Product Feature Comparison -> Maintenance Tips -> Promotional Offer"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male creator (蔡阿嘎) and 1 female collaborator (二伯) appearing throughout.",
+      "mainCharacterDescription": "The male character wears a white oversized t-shirt and vertical-striped beige pants. The female character wears a grey zip-up hoodie."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Indoor Living Room",
+          "Bathroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A clean, modern home interior featuring light wood cabinetry, white walls, and various floor types including light wood, tile, and stone.",
+      "lightingStyle": "Bright studio-style lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Bright",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "好神拖",
+        "hahababy",
+        "momo",
+        "Supamop"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched, excited, and persuasive",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese",
+          "Taiwanese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop/Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Pops",
+        "Woosh"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature 1 -> Feature 2 -> Feature 3 -> CTA",
+      "mainPurpose": "The video is a promotional endorsement for 'Supamop' replacement heads. It uses a high-energy vlog style to educate viewers on the specific uses of different mop head materials (fine fabric, oil-resistant, and absorbent) and emphasizes the importance of regular replacement to maintain cleanliness, ultimately driving traffic to a specific e-commerce platform (momo) for a limited-time offer.",
+      "visualEmotion": "Energetic and Positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct demonstration of the product, display of brand packaging, and clear mention of a shopping platform discount (momo).",
+      "endorsementObject": [
+        "好神拖",
+        "hahababy"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-speed narration style and 'hahababy' branding associated with the influencer 蔡阿嘎.",
+      "freeDescribe": "The fast editing and beat-synced SFX are designed for high engagement on short-form video platforms like Instagram Reels or TikTok."
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "videoName": "2uncle987-20251011234048-1591034482141885.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 30,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Norway"
+        ],
+        "city": [
+          "Bergen"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a hand pointing at a red 'Michelin 2025' sticker on a glass door. (2) A woman wearing a black bucket hat and black jacket points at a restaurant sign that says 'Moon'. (3) The camera shows a series of fast cuts featuring a cheese platter, a meat dish with beet garnish, and a dessert in a dark bowl. (4) A hand flips through a menu showing '3 Course', '4 Course', and '5 Course' options. (5) White wine is poured into glasses in a bucket of water/ice, followed by the woman and a man clinking glasses and sipping. (6) A waitress and a chef are shown plating and serving food with specialized tools. (7) The woman is shown eating several dishes, smiling and nodding with approval. (8) The final scene shows the woman walking down a cobblestone street at night, laughing and looking back at the camera.",
+      "audio_narrative_log": "(1) An upbeat, mid-tempo electronic pop track with a steady beat begins. A high-pitched, enthusiastic female voice provides continuous narration. (2) The sound of liquid pouring and glass clinking is heard clearly over the music. (3) Soft ambient restaurant chatter and the metallic clinking of cutlery on plates are audible. (4) The narrator's tone remains cheerful and energetic. (5) The music continues as the soundscape shifts to outdoor ambient noise with the woman's laughter as the video concludes.",
+      "text_narrative_log": "(1) 'Michelin 2025' and '2024' labels are functional text identifying the restaurant's status. (2) '逛街發現 卑爾根' is decorative text indicating the discovery in Bergen. (3) '5家米其林推薦指南' is informative text about the guide. (4) '連續四年米其林推薦' emphasizes the restaurant's reputation. (5) '3 4 5 或是 6 道菜的組合' provides functional menu information. (6) '酒的部分... 或是請侍酒師搭配' provides functional dining advice. (7) '廚師選用卑爾根當地的食材... 料理法式餐點' describes the food's origin and style. (8) '(好好吃)' and '(好滿意)' are emotional captions reflecting the taster's reaction. (9) '天都黑了' and '吃超久' are descriptive captions about the duration. (10) '(猜猜看吃了幾道菜?!)' is a hook text to engage the audience."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 1.25,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook (Michelin sign) -> Restaurant Intro -> Menu & Wine -> Food Montage -> Satisfaction & Exit."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 1 male dining partner, 1 female server, 1 male chef.",
+      "mainCharacterDescription": "An Asian woman with braided hair, wearing a black bucket hat, black jacket, and later a light-colored scarf while outside."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Restaurant",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern restaurant with wooden walls, plants, and glass display cases; a cobblestone European street at night with traditional buildings and street lamps.",
+      "lightingStyle": "Warm indoor restaurant lighting and dim night street lighting.",
+      "weather": "Clear",
+      "season": "Autumn",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm and Cinematic",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Cheese",
+        "Steak",
+        "Bread",
+        "Wine",
+        "Dessert"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Michelin"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Cafe",
+        "Wind"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Experience -> Review -> Conclusion",
+      "mainPurpose": "The video serves as a travel and culinary recommendation, showcasing a high-end dining experience at the 'Moon' restaurant in Bergen, Norway. It highlights the Michelin accreditation to establish quality and then walks the viewer through the menu, wine pairing, and the aesthetic presentation of the dishes to encourage a visit.",
+      "visualEmotion": "Joyful and Sophisticated"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed display of the restaurant name, Michelin awards, and positive review of the food quality.",
+      "endorsementObject": [
+        "Moon Restaurant"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of variety-show style text bubbles and a signature energetic narration style.",
+      "freeDescribe": "The video uses fast-paced editing synchronized with the beat of the music to maintain high viewer engagement during the food showcase."
+    }
+  }
+}

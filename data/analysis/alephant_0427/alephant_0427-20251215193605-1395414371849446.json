@@ -1,0 +1,179 @@
+{
+  "videoName": "alephant_0427-20251215193605-1395414371849446.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 31,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Lifestyle"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman walks out of the Ximen Station exit 3 at night, smiling brightly and showing off her long, sparkly manicured nails to the camera. (2) She strikes various poses, holding her face and a red drink cup, highlighting her nails with a delighted expression. (3) The scene shifts to her hands at a desk, where she struggles to type on a mechanical keyboard due to the length of her nails. (4) She is shown at her gaming setup, looking frustrated as she attempts to play a game while her long nails interfere with clicking the mouse and keyboard. (5) The video ends with a close-up of a nail technician clipping off the long nails, followed by a black screen with an 'R.I.P' text memorializing her short-lived manicure.",
+      "audio_narrative_log": "(1) Upbeat, jaunty piano music plays as the woman walks out of the station. Ambient city night sounds are faintly audible. (2) The upbeat music continues as she poses, with occasional sound effects of a camera shutter. (3) Sudden loud mechanical keyboard clicking and gaming sound effects (explosions, menu blips) enter, highlighting her struggle. (4) The music shifts to a somber, classical funeral-style piano melody as the sound of nail clippers snapping is heard. (5) The sad music fades to silence as the video ends.",
+      "text_narrative_log": "(1) Functional Text: '當你終於做了美甲' (When you finally get your nails done) - Enthusiastic tone. (2) Decorative Text: '手很卡' (Hands are stuck) and '很難按' (Very hard to press) appearing repeatedly as she struggles - Frustrated tone. (3) Decorative Text: 'R.I.P 精緻女孩 2025.12.01-2025.12.02' - Mock-serious memorial tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro (Showing off nails) -> Conflict (Practicality issues/Struggling to game) -> Outro (Removing the nails)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator, 1 female nail technician (hands visible)",
+      "mainCharacterDescription": "A young Asian woman with long brown hair, wearing an oversized white t-shirt with a cat graphic and a long light-colored skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Studio",
+          "Indoor Salon"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Ximen Station subway exit, a home office/gaming room with multiple monitors and a ring light, and a nail salon workstation.",
+      "lightingStyle": "Mixed: Neon street lights and bright indoor studio lighting.",
+      "weather": "Clear night",
+      "season": "Winter",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vivid",
+      "cameraWork": [
+        "Follow shot",
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Cat (graphic on shirt)"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Mechanical Keyboard",
+        "Gaming Mouse",
+        "Computer Monitor"
+      ],
+      "landmark": [
+        "Ximen Station"
+      ],
+      "brandLogos": [
+        "TEA BUS"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited then frustrated",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Occasional exclamations",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Comedy then Classical/Sad",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Piano"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Keyboard clicking",
+        "Game sound effects",
+        "Nail clipper snap"
+      ],
+      "ambientNoise": [
+        "Traffic",
+        "Street chatter"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Struggle -> Resolution",
+      "mainPurpose": "To humorously illustrate the classic dilemma of wanting beautiful, long manicured nails while being an active gamer or office worker, showing that the aesthetic pleasure lasts only a short time before reality sets in.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No specific product promotion or call to action.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-contrast editing between 'Expectation' and 'Reality'.",
+      "freeDescribe": "The video uses a relatable trend among young women to generate comedic engagement."
+    }
+  }
+}

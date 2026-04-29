@@ -1,0 +1,180 @@
+{
+  "videoName": "3ctim-20251224130007-2093072114783803.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 41,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech News",
+        "Vlog",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing glasses and a dark flat cap is positioned in the center of the frame, speaking directly to the camera against a plain indoor wall. He uses frequent hand gestures and facial expressions to emphasize his points. (2) The scene cuts to a high-angle shot of a retail display counter featuring several modern smartphones on stands. The man briefly appears behind the glass counter, pointing at the devices. (3) The video returns to the man in the studio setting. He continues speaking, making various hand movements as if interacting with invisible objects. (4) The final shot shows him smiling with a finger to his lips in a 'shushing' or 'secret' gesture.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music begins immediately. A clear, energetic male voice speaks Mandarin with an enthusiastic and friendly tone. (2) Frequent digital sound effects (pops, dings, and swooshes) are synchronized with the visual transitions and the appearance of graphical elements. (3) The background music remains consistent throughout the duration, maintaining a high energy level. The male voice continues speaking at a steady, fast pace until the end where the music fades out.",
+      "text_narrative_log": "(1) Functional Text: Subtitles appear throughout the bottom of the screen translating the spoken Mandarin. (2) Decorative/Hook Text: 'i人福音！' (Good news for introverts!) appears with an cartoon icon, conveying a sense of relief and excitement. (3) Functional Text: 'Google搜尋新功能' (Google search new feature) identifies the main topic. (4) Brand Text: 'miko 米可手機館' is visible at the top left and on store displays. (5) Decorative/Effect Text: '期待' (Anticipating) appears at the end with heart and sparkle stickers, expressing a hopeful and positive tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 6.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Store B-roll -> Technical Explanation -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male presenter (Tim哥) appearing throughout the video.",
+      "mainCharacterDescription": "Middle-aged man with glasses, wearing a dark blue flat cap and a light pink t-shirt with a green graphic."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Retail Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Primary background is a plain, light-colored studio wall with soft shadows. The secondary background is a mobile phone retail store showing glass display cases and numerous smartphone boxes.",
+      "lightingStyle": "Bright studio lighting, even and professional.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and bright",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Google Chrome Logo"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Google",
+        "miko",
+        "vivo",
+        "realme",
+        "Gemini"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Pop-up sounds"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Explanation -> Call to Action",
+      "mainPurpose": "To introduce Google's latest AI search integration (Duplex/Gemini) which can assist users in making phone calls for services like reservations or repairs. The video frames this as a significant benefit for introverts who dislike phone calls while promoting the 'Miko Mobile' retail store as a place to explore new technology.",
+      "visualEmotion": "Energetic, Informative, and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The brand 'miko' is prominently displayed in the logo and the presenter is filmed within a 'miko' store branch.",
+      "endorsementObject": [
+        "米可手機館 (Miko Mobile)"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Tim哥's signature flat cap and enthusiastic 'tech vlogger' presentation style.",
+      "freeDescribe": "The video heavily utilizes variety-show style text graphics and emojis to maintain viewer engagement in a vertical format typical of TikTok or Reels."
+    }
+  }
+}

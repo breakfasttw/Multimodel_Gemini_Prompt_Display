@@ -1,0 +1,178 @@
+{
+  "videoName": "3ctim-20251106010007-1491724672321300.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 48,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Commentary",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a grey flat cap stands in a studio with a plain background, gesturing actively. A large ChatGPT logo and text are overlaid on the screen. (2) The scene cuts to the same man inside a bright mobile phone retail store named 'miko', looking at phones through a glass display case. (3) Transition back to the studio where the man continues speaking. Various educational graphics appear: the MIT logo, a brain icon with a red arrow pointing down, a book icon, and labels 'Group A' and 'Group B' to explain a study. (4) The camera stays on the man as he emphasizes his points with hand motions, accompanied by text overlays like 'Cognitive Debt' and a chart showing a downward trend.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music plays throughout. A male voice begins speaking in a clear, energetic Mandarin Chinese tone. (2) The music maintains a constant volume as the speaker describes an MIT study. Subtle 'pop' and 'ding' sound effects occur in sync with the appearance of text graphics. (3) The vocal delivery is continuous and informative, with the speaker's tone becoming slightly more cautionary towards the end. (4) The background music continues until the video concludes, ending with a final word from the speaker.",
+      "text_narrative_log": "(1) '3C有意思tim哥' and '@3ctim' appear as channel identifiers. (2) 'ChatGPT 用多了會變笨!?' is a hook asking if using ChatGPT makes you stupid. (3) '推薦大家買手機到米可' is a decorative endorsement for miko mobile shop. (4) '麻省理工學院(MIT) 一項最新研究顯示' describes the source of the information. (5) '認知債務 Cognitive Debt' identifies the core psychological concept being discussed. (6) '不要過度依賴' provides the concluding advice."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 5,
+      "averageSceneDuration": 9.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Research Evidence -> Practical Advice/Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Upper body",
+        "Face",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main creator/host present throughout the video.",
+      "mainCharacterDescription": "Middle-aged Asian male wearing glasses, a grey flat cap, a white t-shirt with text, and a green beaded bracelet."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A plain light-colored studio wall; a mobile phone retail shop with glass display counters and branded phone boxes.",
+      "lightingStyle": "Studio lighting, bright and consistent.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation, Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "ChatGPT Logo"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "miko",
+        "ChatGPT",
+        "MIT",
+        "vivo",
+        "realme"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Steady, friendly, and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Pop",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> CTA",
+      "mainPurpose": "The video aims to educate the audience about the potential cognitive risks of over-relying on AI (specifically ChatGPT) based on an MIT study, while also acting as an advertisement for the 'miko' mobile phone store.",
+      "visualEmotion": "Energetic and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The host explicitly recommends the shop in text overlays and appears inside the store.",
+      "endorsementObject": [
+        "miko"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host's trademark flat cap, glasses, and the '3C有意思tim哥' branding.",
+      "freeDescribe": "The video effectively utilizes a popular tech topic (ChatGPT) to draw attention before delivering a commercial message for a retail partner."
+    }
+  }
+}

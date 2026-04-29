@@ -1,0 +1,176 @@
+{
+  "videoName": "yga0721-20251122175320-908145291665225.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 81,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Challenge",
+        "Variety Show"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a woman with two hair buns in a black t-shirt introducing a game, holding a purple foam tube. (2) A man in a black t-shirt stands behind a cardboard box with a hole in it, gesturing with surprise as he prepares for a challenge. (3) The man reaches into the box, which is decorated with 'h2h baby' text, and attempts to identify fabric items by touch alone. (4) Multiple cuts show the man and a woman in a red shirt interacting with the box, with various people in the background reacting with laughter and exaggerated expressions. (5) A man in a striped shirt takes his turn at the box, successfully pulling out a red envelope. (6) The man in the black shirt reveals the contents of a red envelope, showing a stack of NT$1000 bills, and the group celebrates excitedly.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music begins immediately with a high-pitched, excited female voice introducing the segment. (2) Frequent sound effects including 'whooshes,' 'pings,' and exaggerated cartoonish laughter accompany scene transitions and character reactions. (3) The main male speaker has a high-pitched, energetic, and humorous tone, often shouting or speaking very quickly. (4) Ambient noise is minimal, suggesting a controlled studio environment, though there is constant background chatter and cheering from other people present. (5) The audio ends with a loud, collective cheer and high-volume celebratory music as the prize is revealed.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles appear at the bottom of the screen, providing a verbatim transcription of the dialogue. (2) Decorative/Hook Text: Large, colorful variety-show style captions pop up frequently, such as '摸布料猜商品' (Touch fabric guess product), '甚麼都沒摸到??' (Didn't touch anything??), and '新台幣5000元' (NT$5000). (3) Effect Text: Emojis and fire icons appear around characters to emphasize their emotions or competitive spirit."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.89,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Game Explanation -> Successive Guessing Challenges -> Final Reveal and Celebration"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Torso"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female host, 1 main male participant, 1 male assistant, 2 female assistants/staff",
+      "mainCharacterDescription": "A woman with her hair in two small buns wearing a black 'h2h baby' t-shirt and a man with short brown hair also wearing a black t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A clean indoor studio with white curved shelving units containing plants, a blue plush toy, and minimalist decor. A wooden table holds the game box.",
+      "lightingStyle": "Bright, even studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "h2h baby"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 5,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 3,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 3,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Meme sounds",
+        "Laughter",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Challenge Execution -> Climactic Reveal",
+      "mainPurpose": "The video serves as an entertaining challenge vlog designed to promote the 'h2h baby' brand through a 'blind touch' game. Participants try to identify clothing items by touch to win cash, creating a high-energy, humorous atmosphere typical of Taiwanese variety content.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The brand logo 'h2h baby' is prominently displayed on the game box and the host's clothing; the entire challenge revolves around identifying the brand's textile products.",
+      "endorsementObject": [
+        "h2h baby"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-style text overlays and synchronized reaction sound effects.",
+      "freeDescribe": "The video relies heavily on group chemistry and fast-paced editing to maintain viewer engagement during a simple product-guessing game."
+    }
+  }
+}

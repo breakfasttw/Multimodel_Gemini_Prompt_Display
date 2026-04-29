@@ -1,0 +1,195 @@
+{
+  "videoName": "cocowine0205-20251201221332-1554284145682203.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 90,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Shopping Guide",
+        "Promotion"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with two young women standing in front of a Costco Wholesale entrance, smiling and gesturing with microphones as they introduce the content. (2) The video then transitions into a very rapid montage of over 50 different products inside the warehouse. Each product is shown in its packaging or on the shelf. (3) Core objects featured include A4 Wagyu beef, household cleaners, diapers, snacks like Doritos and chocolates, bottled water, alcoholic beverages, and personal care items. (4) The camera work alternates between static shots of products and slight pans across shelves, with each shot lasting less than two seconds.",
+      "audio_narrative_log": "(1) Upbeat and energetic electronic background music with a steady, driving beat starts immediately. (2) A male narrator begins a rapid-fire delivery, announcing each product name and its specific discount price in Mandarin. The tone is high-energy and urgent. (3) The narration is continuous throughout the entire video, perfectly synced with the visual appearance of each product. (4) No significant ambient noise or sound effects are detected; the audio focus is purely on the narration and the background music.",
+      "text_narrative_log": "(1) The opening hook text reads '今年最殺就在這週 好市多 黑五特價速報 11/24~11/30 記得追蹤我們' (The biggest deals of the year are this week, Costco Black Friday Price Report 11/24-11/30, remember to follow us). (2) For every product shown, there is a large, colorful text overlay detailing the brand, product name, original price, discount amount (e.g., -550), and the final sale price (e.g., 特價 2049). (3) The text is stylized with bold outlines and bright colors like pink, yellow, and green to emphasize the savings."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 54,
+      "averageSceneDuration": 1.66,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Rapid Product List -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 female hosts appear in the first 2 seconds; products fill the rest of the frame.",
+      "mainCharacterDescription": "Two young Asian women; one has long dark hair wearing a black dress, the other wears a white baseball cap and a grey sweatshirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Costco"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The background consists of various sections of a Costco warehouse, including the main entrance, refrigerated aisles, and high-stacked pallet shelves filled with cardboard boxes.",
+      "lightingStyle": "Bright, even industrial studio-like lighting from the warehouse ceiling.",
+      "weather": "Indoor",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Bright and Saturated",
+      "cameraWork": [
+        "Static",
+        "Slight Pan"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Wagyu Beef",
+        "Salmon",
+        "Pork",
+        "Chocolate",
+        "Chips",
+        "Donuts",
+        "Coffee",
+        "Yogurt"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco",
+        "MamyPoko",
+        "Doritos",
+        "Ocean Spray",
+        "Iris Ohyama",
+        "Witor's",
+        "I-Mei",
+        "Monbana",
+        "Nestle",
+        "Hershey's",
+        "Glico",
+        "Snickers",
+        "Evian",
+        "Sofy",
+        "Whisper",
+        "Haagen-Dazs",
+        "Heineken"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and persuasive",
+        "pitch": "Medium",
+        "loudness": "High",
+        "speed": "Extremely fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Information Catalog -> CTA",
+      "mainPurpose": "The video serves as a high-speed promotional catalog for Costco's Black Friday sale. It aims to overwhelm the viewer with a sense of value and variety, encouraging immediate shopping by showing significant price reductions on popular consumer goods.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The video explicitly names prices, discounts, and the specific retailer (Costco) for the entire duration.",
+      "endorsementObject": [
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Signature 'rapid-fire' price announcement style common in Taiwanese promotional social media content.",
+      "freeDescribe": "The video is optimized for mobile consumption, using vertical aspect ratio and large text overlays to ensure readability on small screens without audio, though the audio provides critical information."
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "videoName": "3ctim-20251016072011-24390670230630877.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 50,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech News",
+        "Product Introduction",
+        "Commentary"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video features a middle-aged male with glasses and a black flat cap, wearing a pink t-shirt with a green graphic, speaking directly to the camera in a medium close-up shot against a grey curtain background. (2) Throughout the video, various product images of the Sony FlexStrike Wireless Fight Stick are overlaid, showing the stick, buttons, and underside. The man gestures enthusiastically with his hands as he speaks. (3) A yellow warning icon overlay appears briefly to emphasize a point. The man maintains high energy and facial engagement, concluding with a pointing gesture toward the camera.",
+      "audio_narrative_log": "(1) High-energy male vocals in Mandarin Chinese begin immediately, accompanied by upbeat, mid-tempo electronic background music. (2) The soundscape remains consistent with the continuous voiceover and steady music. Subtle 'pop' sound effects trigger during text and image transitions. (3) The vocal tone remains excited and persuasive until the end, where the music fades out alongside the speaker's closing remarks.",
+      "text_narrative_log": "(1) Functional text: 'Sony正式公佈旗下第一款 (FlexStrike) 無線格鬥搖桿' (Sony officially announces its first FlexStrike wireless fight stick). (2) Decorative/Hook text: '絕對要注意' (Must pay attention) with a warning sign emoji; '預計2026年推出' (Expected launch in 2026); '很重要的' (Very important) with a drooling face emoji. (3) Feature callouts: '超低延遲傳輸', '止滑底座', '特製機械開關', '整合了DualSense', '(我超好奇)' (I'm super curious), and a final hook '我賭！阿輝會買！' (I bet! Ah Hui will buy it!)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.7,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Feature breakdown with product overlays -> Closing personal opinion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body (upper half)",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main creator (Tim) visible throughout the frame.",
+      "mainCharacterDescription": "Middle-aged Asian man, glasses, black flat cap, pink casual t-shirt with a green nature/frog graphic."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A simple indoor studio setting with a neutral grey pleated curtain backdrop.",
+      "lightingStyle": "Bright studio lighting, soft and even.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Game Controller",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Sony",
+        "PlayStation",
+        "3ctim"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Normal",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Cartoon SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Technical Specification List -> Value Proposition -> Closing",
+      "mainPurpose": "The video serves as a rapid-fire tech news update intended to inform the audience about Sony's new 'FlexStrike' fight stick. It uses a talking-head format combined with high-density visual aids to highlight key features like ultra-low latency, PlayStation Link integration, and durable mechanical switches, ultimately generating hype for a 2026 release.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed product feature breakdown, use of official product photography, and positive commentary by a known tech influencer.",
+      "endorsementObject": [
+        "Sony FlexStrike"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3C有意思Tim哥 signature intro style and fast-paced variety-show editing.",
+      "freeDescribe": "The mention of another creator ('阿輝') at the end suggests a tight-knit community of tech influencers in the region."
+    }
+  }
+}

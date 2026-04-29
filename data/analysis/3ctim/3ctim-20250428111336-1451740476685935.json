@@ -1,0 +1,176 @@
+{
+  "videoName": "3ctim-20250428111336-1451740476685935.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 38,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "News"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing glasses and a grey cap stands in front of a marble wall, speaking enthusiastically with hand gestures. (2) Digital product renders of the iPhone 16e appear, transitioning to technical graphics showing the A18 chip and performance comparison charts. (3) Detailed close-ups of the phone's physical features like the camera lens, side action buttons, and USB-C port are shown. (4) An internal view of a 'C1' chip is displayed followed by the phone in two colors: white and black. (5) The man returns to the screen, gesturing toward the viewer while text displays the release dates.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music starts immediately. A male voice speaks in a high-pitched, excited tone in Mandarin. (2) The music remains at a steady volume as the narration focuses on product specifications; subtle whoosh sound effects accompany graphic transitions. (3) The vocal speed remains fast and continuous, ending with a slight volume dip in the music as the speaker finishes his call to action.",
+      "text_narrative_log": "(1) Functional text: Traditional Chinese subtitles translate the spoken dialogue throughout. (2) Hook text: '你知道Apple推出iPhone 16e嗎?' (Did you know Apple launched the iPhone 16e?). (3) Technical specs: '6.1吋超Retina XDR顯示器', 'A18晶片', '4800萬像素', '26小時續航', 'USB-C接口'. (4) Sales info: '2月21日開始預購', '2月28日正式開賣'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 16,
+      "averageSceneDuration": 2.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Product Feature Presentation -> Technical Deep Dive -> Release Date Announcement -> CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male host visible from the waist up.",
+      "mainCharacterDescription": "A middle-aged male with glasses, a grey newsboy cap, and a dark blue sweatshirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A wall with beige/light grey marble tiles; alternatively replaced by product graphics/renders.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Panning"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Microprocessor"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple",
+        "A18",
+        "C1"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Click"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Feature List -> Sales Evidence -> Final Inquiry",
+      "mainPurpose": "To provide a rapid, high-energy summary of the newly announced iPhone 16e features, targeting tech enthusiasts and potential buyers in the Chinese-speaking market by highlighting performance and value.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed product specs presented favorably by a known tech influencer.",
+      "endorsementObject": [
+        "Apple iPhone 16e"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3c有意思tim哥 branding, signature newsboy cap, rapid-fire delivery style.",
+      "freeDescribe": "The video utilizes fast cuts and beat-synced graphics to maintain high engagement in a short-form vertical format."
+    }
+  }
+}

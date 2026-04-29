@@ -1,0 +1,173 @@
+{
+  "videoName": "cocowine0205-20251122230506-2092117331581728.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 31,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Product Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a white long-sleeved top and a black skirt, stands in the aisle of a warehouse-style supermarket. She picks up a large red and white snack bag from a display and smiles at the camera. (2) She points to the green 'Green Peppercorn' label on the bag and holds it closer to the lens. (3) She shows the back of the bag and then holds it against her body to demonstrate its large size. (4) Finally, she points to her mouth and cheek with a curious and questioning expression.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced background music starts with a high-pitched, energetic female voice singing a jingle 'Beihai, Beihai' repeatedly. (2) A female voice begins speaking clearly and enthusiastically about a new flavor, followed by a male voice providing specific price and weight details. (3) The music maintains a constant tempo with occasional 'ding' sound effects (SFX) as text appears. (4) The female voice asks a concluding question with a friendly tone as the music fades.",
+      "text_narrative_log": "(1) Decorative bubbly text '北海' and '海北' (Beihai/Haibei) appears in yellow and green. (2) Decorative text '新的口味 青花椒' (New flavor Green Peppercorn) emphasizes the product update. (3) Functional text '329元 600公克' (329 NTD, 600g) and '超大包' (Super large bag) provides purchasing information. (4) Hook text '想買嗎? 想吃嗎?' (Want to buy? Want to eat?) encourages audience engagement."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 3.8,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Hook (New Snack) -> Product Demo (Flavor/Price) -> CTA (Questioning the audience)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female main creator, 3 blurred shoppers in the background background",
+      "mainCharacterDescription": "A young woman with long black hair, wearing a white blouse under a dark overall-style skirt, and black Mary Jane shoes."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A typical warehouse store interior with tall metal shelving units stacked with bulk boxes and snack products.",
+      "lightingStyle": "Bright indoor fluorescent warehouse lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Bright",
+      "cameraWork": [
+        "Static",
+        "Slight handheld movement"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Codfish Strings",
+        "Cranberries"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "北海"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and helpful",
+        "pitch": "Medium-High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Product Feature -> Price Information -> CTA",
+      "mainPurpose": "The video serves as a shopping guide and product recommendation for a new flavor of snack (Green Peppercorn Codfish Strings) found at Costco. It aims to inform regular shoppers of the new arrival, its cost-effectiveness (large bag size and price), and generate curiosity about its taste.",
+      "visualEmotion": "Cheerful and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit Integrated"
+      ],
+      "endorsementCues": "The presenter is actively showing a specific brand's new product within the retail store and providing pricing information.",
+      "endorsementObject": [
+        "北海鱈魚香絲"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of catchy jingles and high-density variety-show style text overlays.",
+      "freeDescribe": "The video targets Costco members or bargain-hunting snack lovers in the Taiwan region, utilizing high-energy audio and visual cues to drive product interest."
+    }
+  }
+}

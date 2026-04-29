@@ -1,0 +1,184 @@
+{
+  "videoName": "yga0721-20250522113022-2605824863107374.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 80,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Family",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Tokorozawa"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman with long dark hair wearing a white sweatshirt stands in an outdoor area with a retro Japanese aesthetic; a vintage yellow tram is visible in the background. (2) The scene shifts to a covered arcade street with banners and shops reflecting mid-20th century Japan. (3) Close-ups of large billboards featuring Godzilla and Ultraman are shown. (4) The woman and a young boy in a beige jacket are inside a retro-style shop looking at toys on shelves, including vinyl Ultraman figures. (5) The boy is seen outdoors near a colorful drop-tower ride, looking hesitant. (6) A brief archival-style clip shows the same boy crying on the ride. (7) The boy drives a small, camouflage-patterned safari car around a track with oversized plastic animal figures like elephants and rhinos. (8) The group enters a restaurant designed to look like the interior of a luxury train carriage with wood paneling and green velvet seats. (9) Through the digital window of the 'train', a silhouette of Godzilla is seen emerging amidst rain and lightning effects.",
+      "audio_narrative_log": "(1) Upbeat, energetic electronic background music plays. A woman's voice speaks enthusiastically in Chinese, accompanied by the ambient sounds of an outdoor park. (2) The music continues as the acoustic environment shifts slightly to an indoor store setting; sounds of plastic packaging being handled and excited conversation between a man and a woman about toys are heard. (3) A sequence of outdoor sounds follows, including the mechanical noise of a ride and a distinct sound effect of a child crying (simulating a memory). (4) The final phase features a transition to a more dramatic soundscape; while the conversation continues, deep rumbling and roaring sound effects (SFX) are layered in as a monster appears in the background.",
+      "text_narrative_log": "(1) Functional Text: '西武園遊樂園' (Seibu-en Amusement Park) - identifying the location. (2) Decorative Text: '昭和時期園區' (Showa Period Area) - setting the historical theme. (3) Decorative Text: '嗅到噴錢的味道' (Smelling the scent of spending money) - humorous hook about shopping. (4) Functional Text: '西武園遊樂園限定' (Seibu-en Amusement Park Limited) - highlighting exclusive merchandise. (5) Decorative Text: '蔡波你不敢嗎?' (Tsai Po, are you afraid?) - teasing the child. (6) Decorative Text: '不好玩! 快點停下來' (It's not fun! Stop it quickly) - variety-show style caption over a flashback. (7) Functional Text: '哥吉拉出沒' (Godzilla appears) - warning of the monster visual."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 31,
+      "averageSceneDuration": 2.58,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Exploration of Retro Street -> Toy Shopping -> Kid's Rides -> Train-themed Dining"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Waist up",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main woman, 1 boy, 1 man mostly off-screen but visible by hands/camera presence, and scattered background visitors.",
+      "mainCharacterDescription": "A woman in her 30s with long black hair wearing a white sweatshirt; a young boy in a beige jacket and striped pants."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Amusement Park",
+          "Indoor Shop",
+          "Restaurant"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A meticulously detailed recreation of 1960s Japan (Showa era) featuring vintage signage, a tram, and a luxury train-themed dining car with digital interactive windows.",
+      "lightingStyle": "Natural daylight outdoors; warm, ambient yellow lighting in the shop and restaurant.",
+      "weather": "Sunny",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural with a slightly warm, nostalgic tint in the Showa areas.",
+      "cameraWork": [
+        "POV",
+        "Follow shot",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Elephant (Statue)",
+        "Rhino (Statue)"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Tram",
+        "Toy Car"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Digital Display"
+      ],
+      "landmark": [
+        "Seibu-en Amusement Park"
+      ],
+      "brandLogos": [
+        "Godzilla",
+        "Ultraman",
+        "西武園"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with thematic music transitions",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful, conversational, and energetic",
+        "pitch": "Moderate to High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop / Instrumental",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Monster Roar",
+        "Crying baby sound effect"
+      ],
+      "ambientNoise": [
+        "Park ambiance",
+        "Crowd chatter"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Intro -> Exploration -> Climax (Themed Dining)",
+      "mainPurpose": "The video serves as a family travel vlog documenting a visit to the Seibu-en Amusement Park in Japan. It highlights the park's unique Showa-era retro theme, the shopping experience for limited-edition Ultraman merchandise, and the immersive Godzilla-themed dining experience, aiming to share a fun and nostalgic family outing with the audience.",
+      "visualEmotion": "Energetic, Nostalgic, and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of 'Tsai Po' as a character and variety-show style captions typical of the creator's family vlog style.",
+      "freeDescribe": "The video effectively uses the contrast between the child's past fear (archival clip) and current engagement to create a narrative arc of growth and entertainment."
+    }
+  }
+}

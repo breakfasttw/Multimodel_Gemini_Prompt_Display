@@ -1,0 +1,179 @@
+{
+  "videoName": "yga0721-20260122034232-1647891163043742.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 74,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Home Tour"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man with brown hair, wearing a pink t-shirt and a yellow/orange vest, stands in a brightly lit hallway, speaking excitedly to the camera. (2) He jumps and cheers with two women, one in a pink hoodie and another in a dark teal hoodie, in a celebratory manner. (3) The scene transitions to the interior of a modern apartment, showing a large entryway with beige cabinets and a dark brown door. (4) The tour continues into a spacious living room with a large, white L-shaped sofa, a round coffee table, and a wall-mounted TV. Two women sit on the sofa talking. (5) The camera moves to a bedroom featuring a large bed with a white mattress and a unique orange-red curtain. A small, mushroom-shaped lamp is shown glowing on the wall. (6) The video concludes with shots of the ceiling, highlighting a cloud-like lighting fixture and recessed lighting, while the main characters point and discuss the design.",
+      "audio_narrative_log": "(1) High-energy male vocals shouting an introduction with upbeat, fast-tempo electronic BGM in the background. (2) Sound of group cheering, clapping, and laughter as the music continues at a consistent volume. (3) The BGM volume lowers slightly as a conversation between a male and two female voices begins, describing the house layout. (4) Occasional 'pop' and 'ding' sound effects (SFX) occur simultaneously with the appearance of text on screen. (5) Ambient indoor noise is minimal, suggesting a quiet room or high-quality recording equipment. (6) The video ends with a mix of laughter and a final high-pitched remark from a female speaker.",
+      "text_narrative_log": "(1) Functional text: '我們今天要來恭喜我們的 hahababy 的總監 羅小姐 正式加入我們的 房貸少年團 耶' appearing as subtitles. (2) Functional text: '23、24坪' indicating the apartment size. (3) Decorative/Hook text: '超大的玄關', '寬敞的客廳', '300多公分的沙發' highlighting features with an enthusiastic tone. (4) Hook text: '(偷抱怨?)' and '豬肝紅?' expressing humorous or questioning tones. (5) Decorative text: '很有設計感的天花板' and '(潔癖人會注意的)' adding variety-show style commentary."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 3.36,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Celebration -> Entryway Tour -> Living Room Tour -> Bedroom Tour -> Design Details"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Upper body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male host, 1 main female subject (apartment owner), and 1 female friend/co-host.",
+      "mainCharacterDescription": "A man in a pink t-shirt and yellow vest with brown hair; a woman in a pink hoodie; a woman in a dark teal cropped hoodie and beige cargo pants."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Apartment",
+          "Living Room",
+          "Bedroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern, minimalist apartment with white walls, light wood flooring, beige cabinetry, a white curved sofa, and stylish lighting fixtures.",
+      "lightingStyle": "Bright indoor lighting with warm recessed ceiling lights and a mushroom wall lamp.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Handheld",
+        "Panning",
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "TV"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "hahababy"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, humorous, and conversational",
+        "pitch": "Medium to High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Pop",
+        "Ding",
+        "Cartoon SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Intro -> Stage 1 (Living) -> Stage 2 (Bedroom) -> Stage 3 (Design)",
+      "mainPurpose": "To celebrate a team member's purchase of a new home and provide an entertaining tour of the interior design, showcasing the apartment's layout and aesthetic features for a vlog audience.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Mention of 'hahababy' (a brand associated with the creator) and its director.",
+      "endorsementObject": [
+        "hahababy"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy opening by Cai Aga, frequent use of colorful variety-show style text overlays.",
+      "freeDescribe": "The video uses a 'mortgage youth group' (房貸少年團) pun on BTS (防彈少年團) to create a relatable and humorous context for young adult house buyers."
+    }
+  }
+}

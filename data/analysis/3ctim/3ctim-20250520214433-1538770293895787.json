@@ -1,0 +1,177 @@
+{
+  "videoName": "3ctim-20250520214433-1538770293895787.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 49,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Commentary",
+        "Finance News"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing a grey flat cap and glasses stands in front of a neutral grey background, gesturing with his hands as he speaks. (2) Visual transitions to a series of images showing Taylor Swift on a concert stage wearing sparkling outfits and playing a pink acoustic guitar. (3) The man reappears briefly, then the screen shows photos of Lucy Guo, first in a professional setting at a conference and then in a casual photo with a male colleague. (4) A website screenshot of 'Scale AI' appears, followed by a graphic of falling money icons and sparkling dollar symbols over the speaker. (5) The video ends with a shot of Lucy Guo outdoors in a festival crowd wearing sunglasses.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music begins. (A) Vocals: Adult male speaking Mandarin in an energetic and clear tone. (B) BGM: Upbeat electronic rhythm. (C) Ambient noise: Minimal/Studio quiet. (D) SFX: None. (2) The soundscape continues with the same energy. (A) Vocals: Male continues narration. (B) BGM: Constant upbeat rhythm. (D) SFX: A sharp 'ding' sound accompanies the appearance of text. (3) Financial figures are mentioned. (D) SFX: A cash register/money jingling sound effect plays as dollar signs appear visually. (4) The music and vocals maintain their pace until the speaker finishes his sentence and the track ends.",
+      "text_narrative_log": "(1) Functional Text: '最年輕的女億萬富翁' (The youngest female billionaire) - Hook/Title. (2) Functional Text: 'Taylor Swift' - Identifying the person shown. (3) Functional Text: '超過台幣500億的身價' (Net worth over NT$50 billion) - Informational detail. (4) Decorative Text: 'Scale' - Company logo appearing as a sticker. (5) Functional Text: 'Lucy Guo' - Identifying the person shown. (6) Functional Text: '12億美元' (1.2 billion USD) and '新台幣390億元' (NT$39 billion) - Financial data with an emphatic tone. (7) Functional Text: '3c Tim哥' - Social media handles in the top left corner."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 16,
+      "averageSceneDuration": 3.06,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Comparative Case Study (Taylor Swift vs. Lucy Guo) -> Financial Breakdown -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main creator (male), Taylor Swift (female), Lucy Guo (female), and 1 male colleague in a photo.",
+      "mainCharacterDescription": "The main creator is a middle-aged male with glasses, wearing a grey flat cap and a blue polo shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Primary background is a plain indoor studio wall. Secondary backgrounds include concert stages with bright lights, office environments, and a sunny outdoor festival scene with a crowd.",
+      "lightingStyle": "Studio lighting on the main character; stage lighting and natural sunlight in secondary clips.",
+      "weather": "Sunny (in secondary footage)",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Static",
+        "Digital Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Facebook",
+        "Instagram",
+        "Scale AI"
+      ],
+      "instrumentsVisible": [
+        "Acoustic Guitar"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut between voice-over segments; music is a continuous loop.",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and informative",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Cash Register",
+        "Notification Ping"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Comparison -> Evidence -> Final Summary",
+      "mainPurpose": "To provide entertaining and educational news about wealth and successful entrepreneurs, specifically focusing on the transition of the title for the 'youngest female billionaire' from Taylor Swift to Lucy Guo.",
+      "visualEmotion": "Energetic and Professional"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video is structured as a news commentary or trivia segment without any specific product call-to-action.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of '3c Tim哥' branding and signature flat cap attire.",
+      "freeDescribe": "The video follows standard high-engagement short-form video practices, using bright subtitles, fast cuts, and trending financial topics to attract viewers."
+    }
+  }
+}

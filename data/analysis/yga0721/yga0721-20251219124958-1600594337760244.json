@@ -1,0 +1,187 @@
+{
+  "videoName": "yga0721-20251219124958-1600594337760244.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 64,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man with reddish-brown hair and a black jacket with bird embroidery introduces the first fried chicken location in a park setting. (2) Close-up shots of hands picking up golden-brown fried chicken from red baskets. (3) The man eats a chicken drumstick with an exaggeratedly satisfied expression while standing outdoors. (4) Transition to a young woman holding a pizza box labeled 'Pino Pizza' in a more urban park/sidewalk area. (5) Close-up of a hand lifting a piece of chicken from the pizza box. (6) The man and his companions eat and react enthusiastically. (7) Scene shifts to an outdoor table at 'Mary's Hamburger' where the man sits and talks. (8) Close-up of 'juicy' fried chicken on a plate. (9) Final scene at a riverside path during sunset; a blonde man holds a large 'Delicious!' bucket of chicken. (10) The group laughs and eats together by the water.",
+      "audio_narrative_log": "(1) Upbeat, energetic pop music starts with a male voice speaking loudly and enthusiastically. (2) Ambient park sounds are audible beneath the dialogue. (3) Crisp crunching sound effects accompany scenes of people biting into the chicken. (4) Multiple voices (two males, two females) engage in high-pitched, excited banter and laughter. (5) The background music remains consistent in its fast tempo and joyful mood through various location changes. (6) Occasional sounds of wind and outdoor environment are present during the riverside scenes.",
+      "text_narrative_log": "(1) '陳季炸雞' (Functional: Brand name of the first shop). (2) '營業時間 12小時' (Functional: Opening hours information). (3) '一定要點三角骨' (Hook: Recommendation to order chicken cartilage). (4) 'Pino PIZZA' (Functional: Brand name of the second shop). (5) '天母最好吃的炸雞' (Hook: Claiming it's the best fried chicken in Tianmu). (6) '很嫩的肯德基' (Decorative/Effect: Describing the texture as a tender version of KFC). (7) '茉莉漢堡' (Functional: Brand name of the third shop). (8) '美國版頂呱呱' (Decorative/Effect: Comparing the brand to a local chain). (9) '當紅炸子雞' (Functional: Name of the fourth brand/pun on popularity). (10) '不要告訴大家' (Hook: Humorous request to keep it a secret)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 32,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Location 1 Tasting -> Location 2 Tasting -> Location 3 Tasting -> Location 4 Tasting -> Group Verdict"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator with red hair, 1 male friend with blonde hair, 2 female friends/staff.",
+      "mainCharacterDescription": "Male with reddish-brown hair wearing a white t-shirt under a black jacket decorated with white crane embroidery."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Park",
+          "Street",
+          "Outdoor Cafe",
+          "Riverside"
+        ],
+        "topography": [
+          "Plain",
+          "River"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Starts in a lush green park with trees; moves to urban sidewalks near buildings; then an outdoor seating area of a restaurant; ends at a riverside path with a bridge and city skyline in the distance.",
+      "lightingStyle": "Natural daylight and evening golden hour light.",
+      "weather": "Clear",
+      "season": "Spring or Autumn",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Bright",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Fried Chicken",
+        "French Fries",
+        "Pizza"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "陳季炸雞",
+        "Pino PIZZA",
+        "茉莉漢堡",
+        "當紅炸子雞"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "Medium-high",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Crunching",
+        "Eating SFX"
+      ],
+      "ambientNoise": [
+        "Wind",
+        "Park background"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Intro -> Sequential Reviews -> Conclusion",
+      "mainPurpose": "The video serves as an entertaining food vlog aimed at reviewing and comparing several popular fried chicken establishments in the Tianmu area of Taipei. By visiting four different locations, the creators use enthusiastic visual reactions, exaggerated tasting shots, and energetic dialogue to influence viewers' food choices and provide a 'best of' list for local fried chicken enthusiasts.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct presentation of brand names, logos, and positive verbal reviews of the food items.",
+      "endorsementObject": [
+        "陳季炸雞",
+        "Pino PIZZA",
+        "茉莉漢堡",
+        "當紅炸子雞"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy group interactions and the main creator's expressive eating style.",
+      "freeDescribe": "The video utilizes fast-paced editing and bright text overlays to maintain high viewer engagement typical of social media food influencers."
+    }
+  }
+}

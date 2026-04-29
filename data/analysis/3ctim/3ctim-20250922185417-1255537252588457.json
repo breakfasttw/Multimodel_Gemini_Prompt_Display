@@ -1,0 +1,174 @@
+{
+  "videoName": "3ctim-20250922185417-1255537252588457.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 36,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Product Review",
+        "Tech Gadgets"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing glasses and a blue flat cap sits at a wooden table, holding a silver smartphone. He speaks directly to the camera with an expressive face. (2) He presents a clear smartphone case and a pack of screen protectors, pointing out the features. (3) He demonstrates applying a film to the back of the phone and then displays three different colored smartphones (silver, orange, and blue) to showcase the results of the protective film.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music plays continuously. A male voice speaks in Mandarin with a friendly, energetic, and professional tone. (2) As the man discusses the product, a subtle 'ding' sound effect highlights the appearance of the protective stickers. (3) The music maintains a consistent volume as the man finishes his presentation, with low studio-grade ambient silence in the background.",
+      "text_narrative_log": "(1) \"網路上的事\" (Things on the internet) - Hook, curious tone. (2) \"最近在iPhone17 Pro開賣的時候\" (Recently when iPhone 17 Pro went on sale) - Functional, context. (3) \"我發現有人不小心把背後玻璃刮花了\" (I found someone accidentally scratched the back glass) - Functional, problem statement. (4) \"嘿 imos 他賣的一般款或磁吸款的手機殼\" (Hey, the standard or magnetic cases sold by imos) - Functional, brand introduction. (5) \"竟然有貼心贈送了兩張背貼\" (Actually includes two complimentary back stickers) - Functional, feature highlight. (6) \"雙重保護\" (Double protection) - Decorative, emphatic tone. (7) \"是不是更安心一點啊\" (Doesn't it feel more secure?) - Functional, rhetorical question."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 3.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Problem Hook -> Product Introduction -> Benefit Explanation -> Final Result Showcase"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator presenting the product",
+      "mainCharacterDescription": "The man is wearing a light green 'Athletics' t-shirt, a blue textured flat cap, glasses, and several beaded bracelets on his left wrist."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A clean, white indoor wall with a wooden desk in the foreground. Some out-of-focus background elements are visible but indistinguishable.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Smartphone case",
+        "Screen protector"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple",
+        "imos"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and persuasive",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Bell ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Pain Point -> Product Solution -> Proof of Variety",
+      "mainPurpose": "To promote imos smartphone cases and protective films by highlighting a specific value-add: the inclusion of free back-of-phone protective stickers, addressing the consumer fear of scratching expensive new devices like the iPhone 17 Pro.",
+      "visualEmotion": "Informative and reassuring"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct verbal mention of the brand 'imos', physical demonstration of the product packaging, and specific callout of product features.",
+      "endorsementObject": [
+        "imos"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3C Tim logo in the top left corner, use of variety-show style colorful captions, signature hat/glasses look.",
+      "freeDescribe": "The video uses a high-density text overlay technique typical of short-form social media reviews in the Asian market to keep viewer attention."
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "videoName": "yga0721-20250528233229-904925422188220.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 61,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Vlog",
+        "Reaction"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man in a white graphic t-shirt and blue patchwork jeans speaks excitedly to the camera in a white studio; a woman in a black t-shirt stands behind him, laughing and reacting. (2) The man performs exaggerated hand gestures and pointing movements as he explains an elaborate prank idea. (3) He raises his right arm and strikes a triumphant pose while yelling toward the lens. (4) Both characters remain in the same indoor setting, which features a white mantelpiece, a film clapperboard, and a vase of flowers in the background.",
+      "audio_narrative_log": "(1) Energetic male vocals in Mandarin start immediately, characterized by a high-pitched, loud, and humorous tone. (2) Continuous female laughter and occasional high-pitched giggles are heard in the background. (3) The acoustic environment is clean with no background music, typical of a studio setting. (4) The audio concludes with a final loud exclamation from the male speaker.",
+      "text_narrative_log": "(1) Functional Text: White subtitles translating the Mandarin dialogue about a '10-year prank plan'. (2) Decorative/Effect Text: Large yellow and black outlined captions like '整人' (Prank) and '整人成功' (Prank Success) appear to emphasize punchlines. (3) Decorative/Effect Text: '太屌了' (So cool/awesome) appears at the very end with a heavy outline for emotional emphasis."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.38,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> High Energy Explanation -> Climax/Punchline"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Upper body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main male creator speaking, 1 female assistant/partner laughing in background",
+      "mainCharacterDescription": "Male with short brown hair wearing a white t-shirt with cartoons and blue denim patchwork pants."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A minimalist white studio room featuring a white decorative mantelpiece, a film clapperboard (slate), and a small vase with white flowers.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Medium shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched, excited, and humorous",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Explanation -> Climax",
+      "mainPurpose": "To entertain the audience with a humorous 'what-if' scenario regarding an incredibly long-term prank involving company ownership and stock investments (TSMC), utilizing high-energy delivery to drive engagement.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "While TSMC (台積電) is mentioned, it is used as a comedic plot point rather than a paid advertisement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy comedic delivery, exaggerated physical gestures, and prominent variety-show style text overlays typical of Taiwanese YouTuber Cai A-ga.",
+      "freeDescribe": "The video uses hypothetical financial success (buying TSMC stock) as a comedic trope to create a 'dream' prank scenario."
+    }
+  }
+}

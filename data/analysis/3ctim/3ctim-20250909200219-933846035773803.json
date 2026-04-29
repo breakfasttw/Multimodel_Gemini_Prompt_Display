@@ -1,0 +1,189 @@
+{
+  "videoName": "3ctim-20250909200219-933846035773803.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 65,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tech News",
+        "Giveaway"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing a blue cap and glasses holds two smartphone mock-ups (orange and blue) in front of a living room setting. He gestures toward the camera lenses. (2) The man holds up a small, circular camera filter lens. (3) The scene transitions to the man inside a brightly lit electronics store (Taiwan Mobile). He stands in front of various product displays and a large screen. (4) Close-up shots of a Nintendo Switch 2 box mockup and a smartphone screen displaying a flight booking interface for STARLUX Airlines. (5) The man returns to a medium shot in the store, pointing enthusiastically at the camera and gesturing with his hands to emphasize the scale of the giveaway.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat synth-pop background music begins immediately. A male voice speaks in Mandarin with a high-pitched, energetic tone. (2) As the man shows the phone mockups, a second, slightly deeper male voice (off-screen) is heard briefly responding to his statements. (3) Sound effects (SFX) like dings, pops, and camera shutters accompany the appearance of text and stickers on screen. (4) The music remains constant in volume and tempo as the scene shifts to the store environment. (5) The main vocal becomes more rapid and persuasive during the final call to action, ending with a final chime SFX.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles translate the spoken dialogue throughout the video. (2) Decorative/Hook Text: \"iPhone 17 Pro\" and \"最新款特殊色\" (Latest special colors) appear in large, bold fonts with animated outlines to create excitement. (3) Hook Text: \"如何拿到免費的\" (How to get for free) appears at 00:18 with a high-energy tone. (4) Functional Text: Prize details like \"Switch 2\", \"星宇航空來回機票\" (STARLUX Airlines round-trip tickets), and \"總價值超過40萬\" (Total value over 400,000) are shown with large emojis to highlight the giveaway's scale."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 26,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro showing smartphone mockups -> Transition to electronics store -> Announcement of subscriber giveaway prizes -> Final call to action."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main creator (Tim), 1 blurred shopper in the background of the electronics store, 1 pair of hands holding a phone (likely Tim's or an assistant's).",
+      "mainCharacterDescription": "Middle-aged Asian male with short hair, wearing a light blue flat cap, black-rimmed glasses, and a white t-shirt, later changing to a blue and white 'ROOTS 1973' branded sports jersey."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Electronics Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Initial scenes are in a home studio with a couch and photography lighting. Subsequent scenes are in a modern, brightly lit retail store with product counters and digital signage for Taiwan Mobile.",
+      "lightingStyle": "Bright studio lighting and intense retail overhead lights.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Digital Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Nintendo Switch",
+        "Smartwatch",
+        "Monitor"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple",
+        "Google",
+        "台灣大哥大",
+        "ROOTS",
+        "STARLUX Airlines",
+        "Sony"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Medium",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Pop",
+        "Swoosh",
+        "Camera Shutter"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Prize Showcase -> Eligibility Rules -> CTA",
+      "mainPurpose": "The video aims to promote the creator's YouTube channel milestone (approaching 1 million subscribers) by announcing a massive giveaway event. It leverages current tech hype (iPhone 17 and Switch 2 rumors) to incentivize viewers to follow his channel and watch his upcoming livestream of the Apple launch event.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The creator specifically mentions prize sponsorship and films within a Taiwan Mobile retail store.",
+      "endorsementObject": [
+        "台灣大哥大",
+        "星宇航空",
+        "3cTim哥生活日常"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-speed tech commentary style with frequent use of mockups and animated cat stickers.",
+      "freeDescribe": "The video effectively combines tech speculation with influencer marketing strategies to maximize engagement and subscriber growth."
+    }
+  }
+}

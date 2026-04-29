@@ -1,0 +1,170 @@
+{
+  "videoName": "yga0721-20250801204521-1399945411063914.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 25,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Commentary"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a shot of a white sedan parked on an outdoor street. A hand enters the frame, pointing at a blue foam block attached to the edge of the driver's side door. (2) The camera zooms in to provide a close-up view of the blue sponge, which consists of several layers of foam. (3) The camera pans out slightly to show the car's side profile, then zooms back in on the sponge as the hand continues to point at it. (4) The camera maintains a focused shot on the door-edge guard until the end of the video.",
+      "audio_narrative_log": "(1) A male voice begins speaking in Mandarin Chinese with a casual and observational tone. Background noise consists of muffled city ambient sounds and light wind. (2) The narration continues as the primary audio source, with the speaker explaining the purpose of the blue sponges on car doors in Korea. (3) No background music or significant sound effects are detected throughout the clip.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles translate the spoken narration, explaining that Korean car owners use these blue sponges to prevent door-edge collisions, even if they look slightly out of place."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 25.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "The video follows a single continuous shot of a narrator pointing out and explaining a specific car accessory on a street."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male hand visible in frame; 1 male voice heard narrating.",
+      "mainCharacterDescription": "Only the hand of the narrator is visible; he appears to be the primary creator recording the scene."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Parking Lot"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A typical city street with parked cars, green leafy trees, and modern glass-windowed buildings in the distance.",
+      "lightingStyle": "Natural light",
+      "weather": "Sunny",
+      "season": "Spring",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Handheld",
+        "Close-up",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Casual and observational",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Traffic",
+        "Wind"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Observation -> Conclusion",
+      "mainPurpose": "The video serves as an educational or 'fun fact' vlog piece, where the creator highlights a specific cultural/behavioral trait in South Korea—the use of blue foam door-edge protectors on cars—to share an interesting observation with his audience.",
+      "visualEmotion": "Calm"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video is a personal observation about a general practice, not a promotion of a specific brand of sponge.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Direct camera address of objects with off-screen narration.",
+      "freeDescribe": "The video captures a niche aspect of Korean daily life, likely targeted at Chinese-speaking travelers or people interested in East Asian culture."
+    }
+  }
+}

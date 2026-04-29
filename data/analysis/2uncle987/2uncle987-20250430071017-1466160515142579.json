@@ -1,0 +1,178 @@
+{
+  "videoName": "2uncle987-20250430071017-1466160515142579.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 87,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Family",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a graphic-based intro featuring a teal Game Boy Color frame with clouds and a sun on the screen, transitioning to show two young boys' faces in circular frames. (2) Two boys wearing helmets walk through a modern office, pointing at various items on desks. The camera follows them in a POV style. (3) Throughout the tour, they stop at different workstations, and when they point to an item, circular photo overlays of staff members appear to reveal whose desk it is. (4) Close-up shots highlight specific objects: a giraffe, a bread-shaped keychain, photos, and a Batman figure. (5) The boys interact with a person behind the camera, laughing and gesturing. The video ends with a black screen and 'coming soon' text.",
+      "audio_narrative_log": "(1) Upbeat, retro 8-bit style video game music plays during the intro. (2) The soundscape shifts to ambient office noise with clear vocals from two children speaking excitedly and an off-camera adult male asking questions and responding. (3) Frequent sound effects (SFX) are used, including camera shutter clicks, 'ding' sounds for correct guesses, and comical 'boing' sounds. (4) The music remains as a constant upbeat background track throughout the dialogue. (5) The audio concludes with a final chime and the ambient sound fading out.",
+      "text_narrative_log": "(1) '貴波上班趣 (大頭佛篇)' - Title text in orange and brown, appearing in the intro. (2) Functional subtitles in white and yellow translate the spoken Chinese dialogue. (3) Decorative labels like '莎莎的', '長頸鹿', '麵包小偷', and '亞瑟的照片' appear to identify items. (4) Emotional hook text like '到底是誰' and '我猜的' appears with variety-show style animations. (5) 'coming soon' appears at the end in colorful, stylized font."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Office Tour and Guessing Game -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main children are visible throughout; the photographer is only audible and his hand is seen occasionally.",
+      "mainCharacterDescription": "Two young boys, one in a brown jacket and checkered pants, the other in a navy vest and checkered pants, both wearing large white helmets with stickers."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Office"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern open-plan office with white pegboards, wooden desks, computer monitors, ergonomic chairs, and various personal trinkets and toys.",
+      "lightingStyle": "Natural light from windows mixed with indoor fluorescent lighting.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Giraffe (toy)"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Game Boy Color",
+        "Monitor",
+        "Keyboard",
+        "Mouse",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Nintendo",
+        "Game Boy"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 3,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 2
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and playful",
+        "pitch": "High (kids), Medium (adult)",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Retro 8-bit",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Ding",
+        "Buzzer",
+        "Camera Shutter"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Exploration -> Interaction -> Outro",
+      "mainPurpose": "To entertain the audience with a cute and humorous office tour led by two children. The video uses a 'guessing game' format to introduce or showcase colleagues' desks in a lighthearted, family-oriented vlog style.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video appears to be personal or company-internal content showcasing their own workspace.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Game Boy themed framing, use of children as 'inspectors' or guides.",
+      "freeDescribe": "The video mimics the style of variety shows with heavy use of on-screen pop-ups and sound effects to maintain high engagement."
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "videoName": "yga0721-20251219154148-906750758977035.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 85,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Behind-the-scenes"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts in a studio setting with a man wearing an afro wig and a light blue patterned shirt (Cai Aga) talking energetically. (2) Multiple staff members are seen in the background, some getting ready and others laughing. (3) A man in a blonde wig and white crop top (Gary) is being prepped for a shoot, showing exaggerated expressions. (4) Another man is seen wearing a strawberry-patterned dress, looking embarrassed but participating in the humor. (5) A woman holds up a smartphone showing a person with their face blacked out on a magazine cover. (6) A man (Hong Jialin) is then shown with his face actually being painted black with makeup while others laugh around him. (7) Various shots of the staff posing for photos and reacting to the outfits are shown in a fast-paced montage.",
+      "audio_narrative_log": "(1) Upbeat and quirky BGM plays throughout. High-pitched, enthusiastic male vocals (Cai Aga) dominate the first part, speaking in Mandarin and Taiwanese. (2) Frequent sounds of group laughter and female voices reacting with 'so beautiful' or laughter. (3) Comedic sound effects (SFX) like bells, whistles, and cartoonish 'boing' sounds are inserted after jokes. (4) The audio transitions quickly between different scenes, maintaining a high-energy and chaotic soundscape. (5) In the final phase, there's a mix of shouting and collective laughter as a prank or funny makeup is revealed.",
+      "text_narrative_log": "(1) '來啦 今天大陣仗餒' (Come on, it's a big lineup today) - high energy hook. (2) '全體員工到齊' (All employees are present) - functional text. (3) '共48張角色' (Total 48 characters) - information about the shoot. (4) '以下畫面即有可能引發身體不適 請斟酌觀看' (The following images may cause physical discomfort, please watch with discretion) - comedic warning. (5) '這公司容不下任何一個男生' (This company can't accommodate any more men) - recurring humorous caption. (6) '好美哦' (So beautiful) - decorative text echoing the dialogue. (7) '去洗掉!!' (Go wash it off!!) - emphatic command in text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro to the event -> Montage of staff dress-up and makeup -> Revealed funny looks and reactions"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face close-up",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main creator (afro), 2 male staff in costumes, about 5 female staff members acting as crew and observers.",
+      "mainCharacterDescription": "One man in an afro wig and patterned blue/white outfit; one man in a blonde wig and white crop top; one man in a strawberry print dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Office"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "An indoor photography studio and office space with clothing racks, makeup mirrors with lights, photography umbrellas, and a computer desk.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pizza",
+        "Drinks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Laptop",
+        "Smartphone",
+        "DSLR Camera"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "haha baby"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 3,
+        "backgroundCrowdVoices": 5,
+        "vocal_demographics": {
+          "male_vocal_count": 3,
+          "female_vocal_count": 5,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "Varied",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Taiwanese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Quirky",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Bell",
+        "Laughter track"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Indistinct chatter"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Series of comedic transformations -> Climax/Prank reveal",
+      "mainPurpose": "To provide behind-the-scenes entertainment and promotion for an upcoming card collection event (likely the 'haha baby' road run). The video uses self-deprecating humor and staff interactions to engage the audience and build excitement for the brand's project.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "Promoting the brand's own characters and collectible cards as part of an event.",
+      "endorsementObject": [
+        "haha baby"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Cai Aga's high-energy hosting style and the 'haha baby' brand aesthetic.",
+      "freeDescribe": "The video relies heavily on the 'cross-dressing' trope for comedic effect, which is a common signature in this creator's content."
+    }
+  }
+}

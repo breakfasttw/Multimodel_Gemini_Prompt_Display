@@ -1,0 +1,178 @@
+{
+  "videoName": "2uncle987-20250311234240-891129847100489.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 124,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Interview",
+        "Behind-the-Scenes"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A series of short interviews featuring different female staff members in various indoor and outdoor settings. (2) Each person is asked a specific question about product development, such as what makes them happy or what challenges they face. (3) Interspersed with these interviews are shots of products, like bags, shoes, and merchandise, often displayed in stores or at events.",
+      "audio_narrative_log": "(1) The video starts with upbeat, lively background music that continues throughout. (2) Each segment features a different female voice answering questions in a friendly and professional tone. (3) Ambient sounds from the various locations, like a bustling store or a quiet indoor setting, are audible during the interviews. (4) Occasional sound effects underscore key points or transitions between segments.",
+      "text_narrative_log": "(1) Functional Text: Subtitles are provided for all the spoken dialogue in traditional Chinese. (2) Decorative/Effect Text: Questions are displayed in large, colorful fonts, such as 'What makes you happy during product development?' and 'What advice would you give to newcomers?'. (3) Brand names and specific product labels are also visible on screen."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 25,
+      "averageSceneDuration": 4.96,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Question/Answer segments -> Product showcases -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 6,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 6,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 5,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "5 main interviewees, 1 child in a product shot, and some passers-by in the background of store scenes.",
+      "mainCharacterDescription": "Five different women, mostly in casual yet professional attire like sweatshirts or denim jackets."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Store",
+          "Outdoor Street",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Various settings including a bright outdoor area with trees and vehicles, a well-stocked store with merchandise on shelves, and a simple indoor studio with a desk and computer.",
+      "lightingStyle": "Natural light and bright indoor lighting.",
+      "weather": "Sunny",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and vibrant",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Computer"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "HAHABABY"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 5,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 6,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, professional, and enthusiastic",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Transition whoosh",
+        "Emphasis ding"
+      ],
+      "ambientNoise": [
+        "Cafe",
+        "Street"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Question 1 -> Answer 1 -> Question 2 -> Answer 2 -> ... -> Outro",
+      "mainPurpose": "To provide a behind-the-scenes look at the product development process of the HAHABABY brand through interviews with its staff. The video aims to humanize the brand, showcase its products, and offer insights and advice to those interested in the industry.",
+      "visualEmotion": "Energetic and Positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "The video focuses on the staff and products of the HAHABABY brand, effectively promoting the brand's identity and offerings.",
+      "endorsementObject": [
+        "HAHABABY"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Frequent use of brand-specific graphics and a consistent interviewing style.",
+      "freeDescribe": "The video successfully balances personal insights from staff with direct product showcases, creating a cohesive brand narrative."
+    }
+  }
+}

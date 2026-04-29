@@ -1,0 +1,177 @@
+{
+  "videoName": "yga0721-20251227013219-866842332816818.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 63,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Variety Show",
+        "Promotional"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man with reddish-brown hair in a crane-patterned black jacket stands in a studio environment holding red card packs, explaining the game to female staff. (2) He gestures energetically to the camera, holding up a specific 'ghost card' featuring a woman. (3) The scene shifts through various shots of staff members holding up different character cards (featuring young children) and reacting with laughter and cheers. (4) Close-up shots show the details of the cards, specifically 'Baozi', 'An-an', 'Ryuu', and 'Duck' cards with stats. (5) The man points and interacts with the staff, comparing their drawn cards and announcing winners based on arbitrary rules like hair length or seniority.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat variety-show music with electronic beats begins. A male voice speaks very loudly and excitedly in Mandarin Chinese about 'Harvard card packs'. (2) Background chatter and laughing sounds are heard from multiple women. Sound effects like 'ding' and 'cheering' are layered over the dialogue. (3) The man's voice remains the dominant audio source, describing the rarities and rules of the cards. (4) High-energy music continues throughout, punctuated by collective 'Oh!' reactions and louder peaks of laughter as winners are declared.",
+      "text_narrative_log": "(1) Functional Text: '哈佛卡包', '總共會有50個角色', '還有一個鬼牌也有', '林蘿拉的鬼牌'. (2) Decorative/Hook Text: '(價值約3000萬)', '換你去討債', '頭髮最短的淘汰', '(得救了!!)', '(喬安抽到)', '靠瀏海贏了', '(拿到最強的牌!!)', '小熊竟然贏鴨鴨'. (3) Tone: Extremely enthusiastic, humorous, and focused on creating hype for the collectible items."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.8,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Product Intro -> Card Drawing Interaction -> Competitive Comparison -> Final Winner Announcement"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 6,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male host, 1 male staff in background, 6 female staff members participating in the card game.",
+      "mainCharacterDescription": "Adult male, reddish hair, wearing a black haori jacket with crane embroidery over a white t-shirt and white trousers."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Office"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A bright indoor room with white walls, wooden shelves holding various items, and clothing racks with garments in the background.",
+      "lightingStyle": "High-key studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and Saturated",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "hahababy"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 5,
+        "offscreen": 3,
+        "backgroundCrowdVoices": 4,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 5,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Variety Show Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Cheering",
+        "Laughter"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Demonstration -> Comparison -> Outro",
+      "mainPurpose": "The video is a high-energy promotional piece for 'hahababy' collectible cards. It uses a variety-show game format to showcase the different cards and their attributes, leveraging the personality of the host and his staff to create an entertaining unboxing experience that builds hype for the brand's new products.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display and verbal promotion of the branded card packs.",
+      "endorsementObject": [
+        "hahababy"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-octane hosting style, staff participation, heavy use of colorful Traditional Chinese variety captions.",
+      "freeDescribe": "The video effectively utilizes the 'surprise reveal' mechanic common in trading card communities to maintain viewer interest."
+    }
+  }
+}

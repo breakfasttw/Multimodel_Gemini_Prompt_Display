@@ -1,0 +1,184 @@
+{
+  "videoName": "cocowine0205-20251108023505-1421455029050351.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 57.0,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in a purple ruffled top and a grey bucket hat is standing in a Costco warehouse, holding two plastic bags filled with small taro roots. She smiles broadly and points at the bags while looking at the camera. (2) The scene shifts between her holding the bags and close-ups of the 'Yaro Root' packaging. She gesticulates with her hands to emphasize the price and size. (3) The scene transitions to a home dining setting where she is seated at a table. Cooked taro roots are displayed on a red Le Creuset plate. (4) She peels a taro root with her fingers, showing the soft interior, and dips it into small dishes containing sugar and pepper. She eats a piece and reacts with an exaggerated 'delicious' expression, nodding and gesturing to her face.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop music starts immediately. A high-pitched, energetic female voice speaks rapidly, introducing the new taro product at Costco. Ambient warehouse chatter and distant cart noises are heard faintly. (2) A deeper male voice enters the conversation off-camera, interacting with the woman and suggesting cooking methods like steaming. (3) The audio quality transitions to a clearer home recording as the woman describes the fragrance and texture of the cooked taro. Sound effects (SFX) like 'popping' or 'bling' sounds accompany the appearance of text overlays. (4) The woman's voice remains the dominant sound as she describes the 'betel nut taro' flavor and the綿密 (smooth/dense) texture until the end.",
+      "text_narrative_log": "(1) COSTCO WHOLESALE logo at the top. (2) Functional Text: Subtitles tracking the spoken dialogue in Traditional Chinese. (3) Hook Text: '小朋友最愛 健康又美味' (Kids' favorite, healthy and delicious) in yellow/white variety-show style font. (4) Hook Text: '好事多 最新出的小香芋' (Costco's latest small fragrant taro). (5) Price info: '一公斤189元' (1kg for 189 NTD). (6) Decorative Text: '芋頭香氣', '味道非常的好', '非常的清香' (Taro aroma, very good taste, very fragrant) with decorative borders and graphics."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at warehouse -> Detailed product display -> Home cooking/tasting session -> Final review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator; 1 male passer-by visible in the background at 0:04.",
+      "mainCharacterDescription": "A young female with long dark hair, wearing a grey Kangol bucket hat, a purple off-the-shoulder ruffled top, and a black skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Indoor Dining Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First half is a Costco warehouse with tall steel shelving units and bulk boxes. Second half is a home interior with a wooden table, an orange leather sofa, and some children's toys in the background.",
+      "lightingStyle": "Bright artificial warehouse lighting followed by warm indoor home lighting.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Taro",
+        "Sugar",
+        "Salt",
+        "Pepper"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "玉美",
+        "KANGOL",
+        "LE CREUSET"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Warehouse bustle"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Information -> Experience -> Verdict",
+      "mainPurpose": "To showcase and review a new taro product available at Costco. The creator uses a vlog-style format to provide practical shopping info (price, location) and a culinary review (tasting with different seasonings) to influence viewers' purchasing decisions.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct display of product packaging and brand logos, enthusiastic recommendation of the item as 'new' and 'delicious'.",
+      "endorsementObject": [
+        "Costco",
+        "玉美"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy variety-show style editing with prominent colorful text overlays.",
+      "freeDescribe": "The video targets household shoppers and food enthusiasts in the Taiwan region, utilizing a popular 'Costco find' format."
+    }
+  }
+}

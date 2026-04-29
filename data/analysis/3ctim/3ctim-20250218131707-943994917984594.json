@@ -1,0 +1,182 @@
+{
+  "videoName": "3ctim-20250218131707-943994917984594.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 33,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Promotion"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing glasses and a flat cap stands in an outdoor park setting, speaking directly to the camera with an expressive face and animated hand gestures. (2) As he lists promotional details, he holds up fingers to match the numbers and points towards digital text overlays that appear on screen. (3) The camera alternates between medium shots and close-ups of his face; towards the end, he covers his mouth while laughing at a joke made by an off-camera person.",
+      "audio_narrative_log": "(1) A high-energy male voice begins speaking in Mandarin over an upbeat, medium-tempo electronic background track. (2) The music continues at a steady volume as the speaker lists prices; digital sound effects (SFX) such as coin clinks and 'ding' notification sounds punctuate the mention of monetary values. (3) At the end, a second, off-screen male voice asks a brief question, followed by the main speaker's laughter as the background music fades out.",
+      "text_narrative_log": "(1) Functional Text: Detailed traditional Chinese subtitles appear at the bottom center, synchronized with the spoken Mandarin dialogue. (2) Decorative/Hook Text: A persistent 'miko' logo with the slogan '您的生活的好鄰居' stays in the top left corner, and influencer branding '3c有意思tim哥' is visible. (3) Effect Text: Bold numbers and currency symbols like '$4000', '$3000', and '加碼再送兩千' pop up in bright colors to emphasize specific financial incentives."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.3,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Promotional Offer Breakdown -> Humorous Closing"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Face",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator, 2 male passers-by blurred in the far background.",
+      "mainCharacterDescription": "Middle-aged man with short hair, wearing a grey flat cap, glasses, a blue zip-up hoodie, and a beige t-shirt with a 'Roots' logo."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Park"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A public park or square with green trees, grass, a walkway, and some distant city buildings and vehicles.",
+      "lightingStyle": "Natural light",
+      "weather": "Cloudy",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Bus"
+      ],
+      "techDetect": [
+        "Microphone",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "miko",
+        "Roots",
+        "DJI",
+        "Samsung"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Coin clink",
+        "Notification chime"
+      ],
+      "ambientNoise": [
+        "Wind",
+        "Distant traffic"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Promotional Listing -> CTA/Humor",
+      "mainPurpose": "The video is a direct-to-camera marketing advertisement for 'Miko,' a mobile retailer. The creator uses his persona as a tech influencer to explain various pre-order bonuses and trade-in incentives for the Samsung Galaxy S25 series, aiming to drive traffic to the brand's website and physical stores.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Consistent presence of store branding (miko), specific call-out of store-exclusive deals, and clear promotional intent regarding a product launch.",
+      "endorsementObject": [
+        "Miko",
+        "Samsung"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3cTim哥 branding, use of a flat cap, fast-paced list-style product promotion.",
+      "freeDescribe": "The video utilizes classic influencer marketing techniques for the Taiwanese market, combining energetic delivery with large text graphics to highlight financial savings."
+    }
+  }
+}

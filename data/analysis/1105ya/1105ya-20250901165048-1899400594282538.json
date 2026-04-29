@@ -1,0 +1,173 @@
+{
+  "videoName": "1105ya-20250901165048-1899400594282538.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 10,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Musical Performance",
+        "Meme"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman is in an indoor kitchen-like setting, wearing a black graphic t-shirt and a patterned neck scarf. She looks directly at the camera while applying makeup to her cheek using a cosmetic puff and holding a compact. (2) Suddenly, the scene cuts to a concert stage. The same woman (or a character resembling her) is performing an energetic dance routine in a white and red sleeveless outfit with dark knee-high boots and sunglasses. (3) She is surrounded by male backup dancers in white outfits, performing synchronized movements under bright stage lighting.",
+      "audio_narrative_log": "(1) The video begins with a soft thudding sound of a makeup puff. (2) Suddenly, high-energy pop music with a heavy electronic beat and female vocals starts abruptly. (3) The music remains at a consistent high volume with clear studio-quality production, featuring a driving rhythm and powerful singing throughout the rest of the clip.",
+      "text_narrative_log": "(1) Functional Text: '當你化妝畫到一半...' appearing at the bottom of the screen in white Traditional Chinese characters, setting a humorous context of being interrupted or suddenly shifting focus."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 5.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro (Makeup application) -> Hard cut -> Climax (Stage performance)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female main character in both segments; at least 4 male backup dancers on stage.",
+      "mainCharacterDescription": "A young woman with dark hair in space buns, initially wearing a black t-shirt and scarf, then transitioning to a white/red stage costume with sunglasses."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Stage"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene is a brightly lit indoor space with white tiles and wooden cabinets. Second scene is a dark professional stage with intense spotlights and stage effects.",
+      "lightingStyle": "Natural indoor lighting followed by intense, high-contrast concert lighting.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural then Cinematic",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and powerful",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Pop/Dance",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Sudden Transition -> Performance",
+      "mainPurpose": "To create a humorous 'expectation vs reality' or 'sudden transformation' meme where a mundane activity (makeup) is interrupted by an intense, high-energy stage performance, likely for entertainment and social media engagement.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Meme transition style",
+      "freeDescribe": "Typical short-video platform content leveraging a dramatic audio-visual shift."
+    }
+  }
+}

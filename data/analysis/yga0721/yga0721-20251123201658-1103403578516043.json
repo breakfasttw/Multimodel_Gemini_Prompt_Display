@@ -1,0 +1,184 @@
+{
+  "videoName": "yga0721-20251123201658-1103403578516043.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 60,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tutorial",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Fukuoka"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a close-up of a decorative manhole cover featuring anime art from 'Galaxy Express 999' on a paved sidewalk. (2) Hands appear holding a small collector card that mirrors the design of the manhole cover. (3) The video cuts to the main creator, a male in a white T-shirt and a brown multi-pocket vest, talking excitedly to the camera in an outdoor urban setting. (4) A screen recording of a website is shown, displaying a database of 'Manhole Cards' across different Japanese prefectures. (5) The creator is shown inside the 'Fukuoka City Info Plaza', where he receives physical cards from an information desk. (6) Detailed close-ups highlight the front and back of the cards, showing the artwork, geographic coordinates, and historical descriptions. (7) The creator poses with multiple cards in a brightly lit indoor space with informative posters in the background.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop music starts immediately as a male voice speaks with high energy in Mandarin, introducing the concept of painted manhole covers. (2) Music continues at a steady volume as a female voice (off-camera) occasionally laughs or responds to the narrator. (3) Sound effects like 'ding' and 'whoosh' are heard in sync with text appearing on screen. (4) The audio transitions to a mix of the narrator's voice and indoor ambient acoustics as he visits an information center, while the background music maintains its pace.",
+      "text_narrative_log": "(1) Functional text provides subtitles for the spoken dialogue explaining Japanese manhole cover culture. (2) Decorative text like '卡片質感很好' (The card texture is great) appears to emphasize the physical quality of the items. (3) '水溝蓋的經緯度位址' (Latitude and longitude of the manhole cover) points out specific details on the card. (4) Hook text '水溝蓋卡片 推坑!' (Manhole cover cards - recommending!) appears at the end to encourage viewers to try the hobby."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro to Street Art -> Search Tutorial -> Physical Collection -> Detail Review -> Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Full body",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 1 female companion partially visible/audible, 1 staff member at the desk",
+      "mainCharacterDescription": "The main male creator is wearing a white short-sleeved T-shirt and a brown tactical/fishing style vest with large pockets."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Studio",
+          "Government Office"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Outdoor city sidewalks with brick paving; a government-run information center with brochures and maps; a webpage interface with lists of Japanese locations.",
+      "lightingStyle": "Natural daylight and bright indoor fluorescent lighting",
+      "weather": "Overcast",
+      "season": "Autumn",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Vibrant",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Bird",
+        "Pikachu"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "銀河鉄道999",
+        "SoftBank Hawks",
+        "GKP"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Normal",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Vlog Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Whoosh",
+        "Camera shutter"
+      ],
+      "ambientNoise": [
+        "Street noise",
+        "Indoor office hum"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> Tutorial -> Demonstration -> CTA",
+      "mainPurpose": "To introduce the 'Manhole Card' collecting hobby in Japan as a travel activity. The video demonstrates the connection between physical street art (manhole covers) and the free collector cards available at city offices, providing a guide on how to find and obtain them.",
+      "visualEmotion": "Energetic and Curious"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video provides a step-by-step guide on how to participate in the 'Manhole Card' program, which is a real tourism initiative in Japan.",
+      "endorsementObject": [
+        "マンホールカード",
+        "福岡市"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin narration with fast-paced editing and bright text overlays typical of travel influencers.",
+      "freeDescribe": "The video leverages Japanese 'Stamp Rally' culture and niche collecting interests to provide value to travelers looking for unique, free souvenirs."
+    }
+  }
+}

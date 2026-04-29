@@ -1,0 +1,178 @@
+{
+  "videoName": "cocowine0205-20250526143506-1623498928654204.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 36,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Food Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman wearing a bucket hat and a white lace top is standing in a Costco store, holding a container of green pesto garlic cheese spread. She smiles and points at the product while shopping carts are visible in the background. (2) The scene transitions to an indoor home setting where the same woman and a friend are seated at a table. They are tasting noodles mixed with the pesto spread. The friend holds the container while the main woman eats and gives a thumbs-up. (3) Close-up shots of the pesto-covered noodles are shown as they continue to eat and discuss the flavor, gesturing enthusiastically toward the camera.",
+      "audio_narrative_log": "(1) A female voice speaks with high energy and excitement, introducing the product over an upbeat, poppy background track. Ambient noise of a busy warehouse store is audible. (2) The audio transitions to a clearer indoor environment. Two female voices engage in a dialogue, describing the aromatic garlic and basil flavor. (3) Occasional slurping sounds are heard as they consume the noodles. The background music continues at a steady, happy tempo until the end where the speaker invites viewers to their YouTube channel.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' and price '239元'. Hook Text: '青醬蒜香乳酪抹醬' (Green pesto garlic cheese spread) in a large orange speech bubble. (2) Hook Text: '超級無敵推薦' (Super highly recommended) and '蒜頭辛辣感' (Garlic spiciness) appearing with star effects. (3) Functional Text: '還有隱藏吃法' (There is also a hidden way to eat) and 'Youtube影片哦' (YouTube video) inviting the audience to see more."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Discovery at store -> Product demonstration at home -> Detailed review and tasting"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Upper body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators are visible throughout the tasting segment.",
+      "mainCharacterDescription": "One woman with a plaid bucket hat and lace top; another woman with long dark hair and a beret."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Costco",
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Costco warehouse interior with shelves and carts; a modern home dining area with white walls and a gray counter.",
+      "lightingStyle": "Bright artificial lighting in the store and soft indoor lighting at home.",
+      "weather": "None",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and Natural",
+      "cameraWork": [
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pesto Sauce",
+        "Pasta",
+        "Cheese"
+      ],
+      "trafficDetect": [
+        "Shopping cart"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco",
+        "KANGOL"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Pop",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Warehouse background noise"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Experience -> CTA",
+      "mainPurpose": "To review a specific food item from Costco and provide a creative serving suggestion (hidden eating method) to engage food enthusiasts and drive traffic to their YouTube channel.",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product showcase with price and strong verbal recommendation.",
+      "endorsementObject": [
+        "Costco",
+        "青醬蒜香乳酪抹醬"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy store opening, use of bright variety-show style captions.",
+      "freeDescribe": "Effective short-form marketing utilizing the 'hidden recipe' trope to entice clicks."
+    }
+  }
+}

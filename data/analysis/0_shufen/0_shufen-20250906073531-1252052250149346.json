@@ -1,0 +1,168 @@
+{
+  "videoName": "0_shufen-20250906073531-1252052250149346.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 7,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Skit",
+        "Short Drama"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman wearing a peach-colored hospital gown and a cartoon pink bow filter on her head stands in a hospital room, looking slightly worried. (2) She appears to be knocked back or falling into a chair as the scene cuts. (3) She is sitting in a chair beside a medical cabinet, looking exhausted and leaning back. (4) She is shown sitting on a hospital bed looking towards a window, then finally lying flat on the hospital bed as the video ends.",
+      "audio_narrative_log": "(1) The video begins with silence, followed by a loud, sudden gunshot or slamming sound effect. (2) This loud percussive sound effect repeats at every scene transition. (3) No human vocals, background music, or significant ambient noise are detected throughout the duration.",
+      "text_narrative_log": "(1) 護士：一個人來嗎？ (Nurse: Did you come alone?) - Inquisitive tone. (2) 護士：等下有人來陪妳嗎？ (Nurse: Is anyone coming to stay with you later?) - Concerned tone. (3) 護士：自己開車來醫院啊？ (Nurse: You drove yourself to the hospital?) - Surprised tone. (4) 護士：手術後自己開車回家？ (Nurse: Driving home alone after surgery?) - Disbelieving and dramatic tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 1.75,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Progression of hospital admission -> sitting in room -> lying in surgery recovery bed."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Waist up"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female actress playing a patient.",
+      "mainCharacterDescription": "A young woman with long dark hair, wearing a peach hospital gown and a pink cartoon bow headband filter."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Hospital Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A hospital room featuring a clinical white wall, a medical bed with blue railings, a wooden side cabinet, and a chair. A large window is visible in some shots.",
+      "lightingStyle": "Bright, even indoor lighting typical of a medical facility.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cuts synchronized with loud sound effects.",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Gunshot",
+        "Slamming"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Progression -> Climax",
+      "mainPurpose": "To use humor and drama to highlight the state of being 'extremely independent' or lonely while undergoing surgery. The visuals of the patient getting progressively more exhausted/weak are paired with text-based questions from a nurse that emphasize she has no one to help her.",
+      "visualEmotion": "Melancholy yet Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of loud percussive SFX for scene transitions; cartoon bow filter on the main character.",
+      "freeDescribe": "The video relies heavily on text to carry the narrative as there is no audible speech. The timing of the SFX is crucial to the comedic/dramatic effect."
+    }
+  }
+}

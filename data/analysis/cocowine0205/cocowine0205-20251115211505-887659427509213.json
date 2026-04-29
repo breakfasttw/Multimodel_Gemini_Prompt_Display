@@ -1,0 +1,180 @@
+{
+  "videoName": "cocowine0205-20251115211505-887659427509213.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 67.5,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Food Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman stands in a Costco store holding a packaged salad, gesturing excitedly toward the camera while the background shows rows of refrigerated food. (2) The scene shifts to an indoor dining area where two women sit at a table with the opened salad. The main character picks up ingredients with chopsticks and points at them, while her companion in a red hat eats and reacts. (3) Close-up shots feature the salad's contents: sliced eggs, chicken strips, purple cabbage, edamame, and various grains. Dressing is seen being poured over the salad from a plastic cup. (4) The two women continue to taste the food, smiling and giving thumbs-up gestures to indicate their satisfaction.",
+      "audio_narrative_log": "(1) High-pitched, energetic female vocals speak in Mandarin over a light, upbeat electronic background track. Slight ambient hum from a large public space is present. (2) The music continues at a steady tempo while a second female voice joins in, adding sounds of agreement like 'Mmm' and 'Wow'. (3) Brief 'ting' and 'sparkle' sound effects occur during food close-ups, alongside the muffled sound of plastic packaging. (4) The primary female voice maintains a high speech density, concluding with an enthusiastic recommendation as the music fades.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo and '100公克 8.8克蛋白質' (100g, 8.8g protein). Decorative Text: '減肥人專吃' (Weight-loss must-eat). (2) Functional Text: Subtitles tracking the price of 419 NTD/kg and the list of ingredients. (3) Decorative Text: '完全不會柴' (Not dry at all) and '亞洲風味沙拉醬加上去' (Adding Asian-style dressing) in stylized variety-show fonts. (4) Functional Text: Final summary recommendation '好吃又便宜' (Delicious and cheap) with emotional emojis."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.75,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Store introduction -> Home tasting/ingredient breakdown -> Final recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, 1 female passerby, and 1 male passerby in the background of the store scene.",
+      "mainCharacterDescription": "One young woman with long dark hair wearing a white cardigan and black dress; another woman wearing a yellow striped shirt and a red bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Costco Wholesale",
+          "Indoor Dining Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene is a bright warehouse-style grocery store with refrigerated shelves; second scene is a modern home dining room with a marble-patterned table.",
+      "lightingStyle": "Bright, even indoor artificial lighting.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Salad",
+        "Boiled Egg",
+        "Chicken Breast",
+        "Edamame",
+        "Sweet Potato",
+        "Grains"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and persuasive",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "High",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Vlog-style",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Digital Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Ding",
+        "Sparkle SFX"
+      ],
+      "ambientNoise": [
+        "Muffled grocery store hum"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Review -> Verdict",
+      "mainPurpose": "The video is a food review vlog intended to influence viewers to purchase the 'Protein Grain Salad' from Costco. It leverages the hook of health/weight-loss benefits (high protein) and combines an on-site discovery with a practical home-tasting experience to prove the product's value and taste quality.",
+      "visualEmotion": "Energetic and positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The creator provides a highly favorable review, detailed pricing, and nutritional information, concluding with an explicit recommendation for a specific audience (weight loss/fitness).",
+      "endorsementObject": [
+        "COSTCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin narration, variety-show style text graphics, and a focus on cost-performance (CP value).",
+      "freeDescribe": "Typical lifestyle content format prevalent in Taiwanese social media targeting health-conscious grocery shoppers."
+    }
+  }
+}

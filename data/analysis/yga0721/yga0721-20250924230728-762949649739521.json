@@ -1,0 +1,183 @@
+{
+  "videoName": "yga0721-20250924230728-762949649739521.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 74,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Challenge"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man wearing a purple t-shirt and a white baseball cap speaks energetically to the camera in a bright studio-like setting, gesturing with a yellow scale and a clipboard. A woman in a black top stands beside him. (2) They introduce a young woman and later a man who appears to be the participant of a challenge. The man in purple points at the participant and laughs. (3) A montage begins, showing the participant eating various foods including sun cakes and lamb hotpot in an office or home environment over several days, marked by 'DAY' overlays. (4) The video concludes with the participant standing on a yellow scale while others surround him, showing a final weight result followed by expressions of shock and celebration.",
+      "audio_narrative_log": "(1) High-energy male vocals speak rapidly and loudly in Mandarin, accompanied by fast-paced, upbeat background music with a strong drum beat. (2) Ambient noise of multiple people laughing and chatting in a room. (3) During the montage, the music maintains a steady rhythm with intermittent sound effects like 'munching' or 'ding' sounds for text reveals. (4) The audio ends with loud cheering, clapping, and a celebratory musical flourish.",
+      "text_narrative_log": "(1) Hook Text: '跟著嘎哥吃一個月' (Eat with Ga Ge for a month) in blue and yellow. (2) Decorative Text: '(上刑具)' (Putting on the torture device) as the scale is brought out. (3) Functional Text: 'DAY 17', 'DAY 19' indicating the timeline of the challenge. (4) Hook Text: '真的瘦了' (Really lost weight) at the end to emphasize the result."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 3.08,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro to challenge -> Eating montage over several days -> Final weigh-in and reaction."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 6,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Feet"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main creator, 1 participant, 2 female staff, 2 children visible at the end near the scale.",
+      "mainCharacterDescription": "The main creator wears a purple t-shirt and a white cap; the participant wears a black t-shirt and later a light blue t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Office"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A clean indoor environment with white curtains and modern furniture; later shifts to an office space with food on tables and posters on the wall.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Sun Cake",
+        "Lamb Hotpot",
+        "Noodles",
+        "Burger"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Digital Scale"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "SUNNYSCAKE",
+        "hahababy",
+        "Nike"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 3,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "Medium-high",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Cheering",
+        "Applause"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Challenge process -> Climax (Result) -> Outro",
+      "mainPurpose": "The video is a weight loss challenge vlog intended to entertain and engage the audience by following a participant's journey of eating a specific (and seemingly indulgent) diet for a month to see if weight loss is possible. It uses high-energy editing and humor to maintain viewer interest.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Prominent display of SUNNYSCAKE packaging and mention of the creator's brand 'hahababy' within the content flow.",
+      "endorsementObject": [
+        "SUNNYSCAKE",
+        "hahababy"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Variety-show style captions, high-energy rapid-fire Mandarin narration, and character-driven comedy typical of Taiwanese YouTubers.",
+      "freeDescribe": "The video leverages curiosity about 'eating to lose weight' to drive engagement, using a relatable participant and a well-known creator personality."
+    }
+  }
+}

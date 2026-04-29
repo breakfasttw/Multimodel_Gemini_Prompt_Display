@@ -1,0 +1,169 @@
+{
+  "videoName": "3ctim-20250218131707-1573856370549552.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 14,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Unboxing",
+        "Product Showcase"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A pair of hands with manicured nails holds a rose-gold textured square box featuring a gold-stamped logo resembling a stylized apple merged with a dragon/cloud motif. (2) The hands rotate the box to show the back side, which is folded like an envelope, and begin to unfold the flaps. (3) The interior of the box reveals layered golden envelopes with scale-like patterns and an embossed gold cloud icon. (4) The hands pull out a matching rose-gold envelope from the package, displaying its pattern under an animated golden glitter overlay.",
+      "audio_narrative_log": "(1) Upbeat and festive traditional Chinese instrumental music begins immediately, featuring the plucking of a Guzheng and light percussion. (2) The music maintains a constant, joyful tempo throughout the sequence. (3) No vocals or ambient noises are detected.",
+      "text_narrative_log": "(1) Functional Text: '左右都快意' (May both left and right be pleasant/joyful) is visible in gold calligraphy inside the packaging, conveying a festive blessing."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 14.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Opening packaging -> Revealing content"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female person's hands are visible throughout the video.",
+      "mainCharacterDescription": "Hands with light-colored nail polish, appearing well-groomed."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A clean, white, minimalist background with soft, out-of-focus light spots and an animated golden sparkle overlay.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Warm Rose Gold",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Traditional Chinese Instrumental",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Guzheng"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Reveal -> Interaction -> Detailed Showcase",
+      "mainPurpose": "To showcase a premium, limited-edition Chinese New Year 'Red Packet' or gift set from Apple, highlighting its exquisite material texture, traditional cultural motifs, and festive aesthetic through close-up unboxing.",
+      "visualEmotion": "Elegant and Festive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed focus on the brand logo and the high quality of the product packaging.",
+      "endorsementObject": [
+        "Apple"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Metallic rose gold textures and animated golden particle overlays.",
+      "freeDescribe": "The video targets high-end consumers interested in tech-lifestyle and cultural luxury items during the Lunar New Year season."
+    }
+  }
+}

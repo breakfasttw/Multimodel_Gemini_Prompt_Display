@@ -1,0 +1,180 @@
+{
+  "videoName": "3ctim-20250728211729-4253764708217127.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 38,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Travel Vlog",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Tokyo"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a newsboy cap walks through a subway station, speaking to the camera with a cheerful expression. (2) The camera focuses on a Tokyo Metro station map and transfer guide; a hand points to specific locations like Nagatacho and Shibuya, highlighting car numbers 5 and 8. (3) A fast-motion sequence shows a subway train arriving at a platform, followed by the man walking through the station and up an escalator. (4) The man passes through an IC card ticket gate and walks toward an outdoor area. (5) The final scene captures a crowd of people photographing cherry blossoms in full bloom under a cloudy sky.",
+      "audio_narrative_log": "(1) Enthusiastic male vocals in Mandarin dominate the audio, accompanied by the echoey ambient noise of a station corridor. (2) Upbeat, medium-tempo electronic background music enters. (3) The rhythmic 'clack-clack' and 'whoosh' of a train arriving at the platform is heard. (4) A short electronic 'ding' sound occurs as an IC card is tapped at a ticket gate. (5) The audio transitions to outdoor ambient noise including muffled chatter from a crowd and distant traffic.",
+      "text_narrative_log": "(1) Functional Text: '教大家在東京 (Teaching everyone in Tokyo)', '如何快速換乘電車 (How to quickly transfer trains)'. (2) Hook Text: '(保證快又準) (Guaranteed fast and accurate)'. (3) Descriptive Text: '永田町 (Nagatacho)', '澀谷 (Shibuya)', '立馬實測 (Immediate real-world test)', '(有手扶梯✅) (Has escalator)', '速度超快 (Super fast speed)'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Detailed map explanation -> Practical demonstration/test -> Successful result."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 15,
+      "maleDetectAmount": 8,
+      "femaleDetectAmount": 7,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main creator (Tim), approximately 5-7 commuters in the station, and a crowd of around 8-10 people viewing cherry blossoms.",
+      "mainCharacterDescription": "A middle-aged man wearing a plaid newsboy cap, round glasses, and a black quilted jacket with a light blue backpack."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Subway Station",
+          "Outdoor Park"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Subway station interiors with beige tiled walls, yellow guidance boards, digital maps, escalators, and an outdoor park area with blooming cherry trees and urban buildings.",
+      "lightingStyle": "Mixed: Fluorescent station lighting and natural overcast outdoor light.",
+      "weather": "Cloudy",
+      "season": "Spring",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Subway Train"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "IC Card Gate"
+      ],
+      "landmark": [
+        "Hachiko Square"
+      ],
+      "brandLogos": [
+        "Tokyo Metro",
+        "JR",
+        "Facebook",
+        "Instagram"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and helpful",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Train Rumble",
+        "IC Gate Beep"
+      ],
+      "ambientNoise": [
+        "Subway Station Echo",
+        "Crowd Chatter"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Instruction -> Proof -> Result",
+      "mainPurpose": "The video serves as a practical travel guide to help commuters and tourists navigate the complex Tokyo subway system. Specifically, it teaches viewers how to use station transfer maps to identify the optimal train car numbers (e.g., car 5 or 8) that align perfectly with escalators and exits at their destination, thereby saving time and avoiding confusion in busy stations like Shibuya.",
+      "visualEmotion": "Energetic and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Direct camera address while walking, clear graphic overlays for key information, and a 'real-world test' segment.",
+      "freeDescribe": "The video targets a Chinese-speaking audience traveling to Japan, utilizing popular travel hacks for efficient commuting. The shift from indoor station mechanics to outdoor cherry blossoms provides a satisfying visual payoff."
+    }
+  }
+}

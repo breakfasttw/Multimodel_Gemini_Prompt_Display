@@ -1,0 +1,191 @@
+{
+  "videoName": "2uncle987-20250619132417-779886824606144.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 57,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Travel Vlog",
+        "Recommendation"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Ehime"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a POV shot of a cable car ascending a hill surrounded by lush green trees, with title text overlay. (2) A young boy in samurai armor makes a funny face, followed by family photos at Matsuyama Castle and the Dogo Onsen hot spring area. (3) Quick cuts show kangaroos and a polar bear at Tobe Zoological Park, then transitions to adults and children ziplining at Ehime Children's Castle. (4) The family is seen riding an orange monorail and playing in the Okaido Shopping Arcade, including a vintage tram passing by. (5) They visit the Ehime Gokoku Shrine and Ehime University Museum. (6) The children play on large slides and playground equipment at Matsumae Park. (7) The final segment shows the kids playing interactive digital games, climbing, and using arcade machines at the Emifull MASAKI shopping center.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat pop music with an energetic tempo plays continuously throughout the video. (2) Occasional vocals from a female and male narrator provide enthusiastic exclamations and location introductions in Mandarin. (3) Specific sound effects include the mechanical whirring of a zipline at 0:17 and a distinct tram bell ringing at 0:30. (4) Sounds of children laughing and the electronic noise of arcade games are audible in the final few seconds.",
+      "text_narrative_log": "(1) Hook text: \"日本愛媛 十大推廣 Let's Go!\" in bold colorful fonts. (2) Functional text: Numbered locations from \"1.松山城\" to \"10.Emifull松前購物中心\" appear chronologically as subtitles. (3) Decorative/Effect text: Parenthetical captions like \"(大膽組)\" and \"(偷約會啊！)\" appear with a humorous, variety-show tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.37,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Montage of 10 recommended travel locations -> Interactive arcade ending"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 4,
+      "bodyPartVisibility": [
+        "Full body",
+        "Close-up",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 adult male, 1 adult female, and 2 children (1 boy, 1 girl) as main family; several passers-by in the background of the park and zoo.",
+      "mainCharacterDescription": "A family consisting of a father in a yellow/red vest, a mother in a white sweatshirt or pink outfit, and two children dressed in casual travel gear and safety helmets."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Castle",
+          "Shrine",
+          "Zoo",
+          "Park",
+          "Shopping Center"
+        ],
+        "topography": [
+          "Hill"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Diverse Japanese locations including historic stone castle walls, traditional wooden shrine architecture, modern shopping mall interiors, and lush green park landscapes.",
+      "lightingStyle": "Bright natural daylight for outdoor scenes; bright artificial lighting for indoor mall scenes.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "Japanese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Kangaroo",
+        "Polar Bear"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Cable car",
+        "Tram",
+        "Monorail"
+      ],
+      "techDetect": [
+        "Arcade cabinet",
+        "Digital screen"
+      ],
+      "landmark": [
+        "Matsuyama Castle",
+        "Dogo Onsen",
+        "Botchan Karakuri Clock",
+        "Ehime Gokoku Shrine"
+      ],
+      "brandLogos": [
+        "Emifull MASAKI",
+        "NAMCO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 2
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "Normal to High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat J-Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Tram bell",
+        "Zipline whirr"
+      ],
+      "ambientNoise": [
+        "Wind",
+        "Arcade environment"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Location 1 -> Location 2 -> Location 3 -> Location 4 -> Location 5 -> Location 6 -> Location 7 -> Location 8 -> Location 9 -> Location 10 -> Outro",
+      "mainPurpose": "The video serves as a family travel guide for Ehime, Japan, highlighting 10 specific attractions ranging from historical landmarks and zoos to modern entertainment centers to encourage tourism.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct listing of locations and malls with specific branding like Emifull MASAKI.",
+      "endorsementObject": [
+        "Ehime Prefecture Tourism",
+        "Emifull MASAKI"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced montage with countdown-style text and family-oriented activities.",
+      "freeDescribe": "High production value for a short-form vlog, utilizing beat-syncing and clear graphic overlays to maintain viewer engagement."
+    }
+  }
+}

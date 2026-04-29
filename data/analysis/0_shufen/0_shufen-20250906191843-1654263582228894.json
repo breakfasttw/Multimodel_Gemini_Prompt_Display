@@ -1,0 +1,175 @@
+{
+  "videoName": "0_shufen-20250906191843-1654263582228894.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 66,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Pets",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a close-up of a female creator lying on a bed, wearing a black top and a pink bow sticker animation on her head, speaking directly to the camera. (2) B-roll overlays appear showing her in an outdoor garden holding a basin full of puppies, followed by footage of a mother dog nursing and the creator bottle-feeding a single puppy. (3) The scene shifts back to the talking creator as she gestures with her hands. (4) A transition occurs showing an adult brown-and-white dog in various settings, including a car and a backyard. (5) A series of quick cuts displays different holes dug into the concrete and dirt of a yard, with numbers 1 through 9 appearing sequentially on the screen. (6) A large hole exposing a white water pipe is shown prominently. (7) The video concludes with the creator smiling and gesturing while the dog is shown wearing a red and white striped shirt.",
+      "audio_narrative_log": "(1) The audio starts with an upbeat, bouncy background music track. A female voice enters immediately, speaking in a high-pitched, energetic, and storytelling tone. (2) As the narration continues, the BGM maintains a consistent tempo. There are no significant ambient noises, indicating a clean voice-over or studio-like recording for the talking-head segments. (3) During the puppy clips, faint whining or high-pitched animal sounds can be heard underneath the narration. (4) The video ends with a distinct, canned laugh track sound effect that punctuates the creator's final joke.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles translate the spoken narration throughout the video. (2) Decorative/Effect Text: Captions like '很多人' (Many people), '這堆狗狗' (This bunch of dogs), and '好吃嗎??' (Is it delicious??) appear as variety-show style hooks. (3) Numerical counting '1' through '9' appears over footage of holes in the ground to emphasize the quantity of damage. (4) Closing text '以下開放報名' (Open for registration below) encourages engagement."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.35,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Flashback (Raising puppies) -> Current Situation (Dog's mischief) -> Outro/Engagement"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Hands",
+        "Full body (in b-roll)"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator speaking throughout.",
+      "mainCharacterDescription": "A young female with long dark hair, wearing a black camisole/top and a pink bow filter."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Bedroom",
+          "Outdoor Garden",
+          "Yard"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "An indoor bedroom with blue floral sheets and a white wall; an outdoor yard with concrete flooring, a wire fence, and some green plants.",
+      "lightingStyle": "Bright, natural daylight in outdoor scenes; soft indoor lighting for the talking-head segments.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and saturated",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Dog",
+        "Puppy"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone (implied for filming)"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Cute",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Laugh track"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Intro -> Evidence (Flashbacks) -> Problem (The dug holes) -> Conclusion",
+      "mainPurpose": "The video is a personal vlog intended to share a humorous 'expectation vs. reality' story about pet ownership. The creator contrasts the adorable stage of raising puppies with the frustrating but funny reality of the dog she kept, which has systematically destroyed her yard by digging numerous holes.",
+      "visualEmotion": "Cheerful and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of pink bow head filter and variety-show style text overlays.",
+      "freeDescribe": "The video leverages the 'cute animal' trope but adds a twist of 'domestic chaos' to build relatability and humor."
+    }
+  }
+}

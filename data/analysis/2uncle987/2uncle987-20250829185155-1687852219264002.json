@@ -1,0 +1,188 @@
+{
+  "videoName": "2uncle987-20250829185155-1687852219264002.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 68.6,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping Guide",
+        "Lifestyle"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman stands in front of a large purple sign with white Japanese characters '無印良品' (MUJI), holding a shopping bag and smiling excitedly. (2) The scene transitions to her inside a MUJI store, pushing a basket and browsing shelves filled with various household and cosmetic products. (3) She begins a series of product demonstrations: first pouring a dark soda into a blue thermal bottle, then cleaning a white shoe with foam, wiping a faucet with a gray cloth, and spraying a cooling mist on a young boy in a bedroom. (4) She continues demonstrating a body scrub on her arm, applying lotion, and finally dabbing a serum on her face in a bathroom setting. (5) The final shot shows a shopping basket full of the featured products with an overlay text suggesting the viewer take notes.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop music with a cheerful electronic melody begins immediately and remains constant throughout the video. (2) An adult female voice provides fast-paced, enthusiastic narration in Mandarin Chinese, describing each product's benefits. (3) Specific sound effects (SFX) are layered over the music: the fizzing sound of a carbonated drink, the click of a bottle lid, the 'pfft' sound of a spray bottle, and the sound of running water. (4) A young child's voice briefly speaks, confirming the cooling effect of the spray. (5) The music reaches a crescendo and ends with the narrator's concluding remarks.",
+      "text_narrative_log": "(1) '2025 MUJI 必买好物' (Must-buy MUJI items) appears as a primary hook title. (2) Functional numbering 'NO.1' through 'NO.7' appears sequentially to categorize products, accompanied by item names and prices in Japanese Yen (e.g., 日币 2990円). (3) Comparison labels '使用前' (Before) and '使用后' (After) appear during cleaning demonstrations. (4) Descriptive hooks like '长效保冷6小时' (Long-lasting cold for 6 hours) and '评价版 Aesop' (Affordable version of Aesop) highlight product strengths. (5) Ending hook '赶快笔记起来' (Quickly take notes) serves as a call to action."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.45,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Seven sequential product demonstrations -> Outro/Summary"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face",
+        "Arms"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main female creator; 1 young boy appearing in the middle for a product demo.",
+      "mainCharacterDescription": "A young Asian woman with long hair tied in a half-up bun, wearing a black-and-white striped shirt over a white jumpsuit."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Retail Store",
+          "Bathroom",
+          "Bedroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The store background features neatly organized shelves typical of MUJI with minimalist aesthetic; the domestic backgrounds include a clean white bathroom and a child's bunk bed area.",
+      "lightingStyle": "Bright, even indoor lighting (commercial/studio style)",
+      "weather": "Unknown",
+      "season": "Summer (implied by cooling products and clothing)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "Japanese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and High Brightness",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Soda",
+        "Cola"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Digital Watch"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "無印良品",
+        "MUJI",
+        "MOUSSY",
+        "Crocs",
+        "A Bathing Ape",
+        "TOTO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, energetic, and persuasive",
+        "pitch": "Medium-high",
+        "loudness": "Clear and audible",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Sizzling",
+        "Spray sounds",
+        "Water running"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Problem/Solution Demonstration -> Outro",
+      "mainPurpose": "To provide a curated shopping guide for MUJI customers, specifically highlighting 7 lifestyle products that solve everyday problems (keeping drinks cold, cleaning shoes, cooling down in summer, skincare) while leveraging the brand's reputation for quality and minimalism.",
+      "visualEmotion": "Energetic, Clean, and Productive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator is physically in the MUJI store, showing specific brand items with prices, and explicitly recommending them as 'must-buys'.",
+      "endorsementObject": [
+        "無印良品"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing synchronized with background music and enthusiastic multi-product reviews.",
+      "freeDescribe": "The video effectively uses 'before and after' visual comparisons and physical demonstrations on a child to build trust and demonstrate product efficacy quickly."
+    }
+  }
+}

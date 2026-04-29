@@ -1,0 +1,173 @@
+{
+  "videoName": "0_shufen-20250904223800-1589940985582024.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 8,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Commentary",
+        "Comedy",
+        "Dating Advice"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video features a young woman with long dark hair, wearing a white spaghetti strap top, positioned in a static medium close-up shot against a plain light wall. (2) She begins by looking into the camera, then raises her right index finger to emphasize the first point. (3) She briefly touches the side of her nose with her finger as she transitions to the second point. (4) She uses open-hand gestures while explaining the third point before the screen transitions to a solid black frame.",
+      "audio_narrative_log": "(1) A clear female voice speaks in a lively and assertive tone, accompanied by a light, bouncy electronic background track. (2) Short 'pop' or 'ding' sound effects are heard synchronously with the appearance of numbered text on the screen. (3) The vocal narration concludes, followed immediately by a short clip of a collective laughing crowd sound effect as the music stops.",
+      "text_narrative_log": "(1) Functional Text: \"男生\" (Boys/Men) appearing at the start to identify the subject. (2) Decorative/Hook Text: \"減分行為\" (Point-reducing behavior) establishing the video's theme in a bold yellow font. (3) Functional Text: \"1 指甲太長\" (1 Fingernails too long), \"2 太臭了\" (2 Too smelly), and \"3 開房的錢要AA\" (3 Splitting the bill for the hotel room) appearing sequentially to list the creator's points."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 4.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Listing Points -> Punchline/Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full face",
+        "Hands",
+        "Upper body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main creator visible throughout the video.",
+      "mainCharacterDescription": "A young Asian woman with long black hair and bangs, wearing a white textured spaghetti strap top and a thin necklace with a small pendant."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A plain, neutrally colored indoor wall with soft lighting.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and bright",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Lively, assertive, and humorous",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Electronic",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop",
+        "Ding",
+        "Laugh track"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Topic Hook -> Itemized Points -> Reactionary Outro",
+      "mainPurpose": "The video is a humorous social commentary piece where the creator shares her personal 'red flags' or 'turn-offs' regarding men's behavior in a dating context. By listing specific points like hygiene and financial expectations (AA/splitting the bill), she aims to spark engagement, agreement, or debate among her audience through a relatable listicle format.",
+      "visualEmotion": "Casual and opinionated"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No specific products or brands are promoted; the focus is entirely on personal opinion and commentary.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of bold, colorful text overlays to emphasize comedic points and ending with a canned laugh track.",
+      "freeDescribe": "Typical short-form 'talking head' content style designed for quick consumption and high interaction on social media platforms."
+    }
+  }
+}

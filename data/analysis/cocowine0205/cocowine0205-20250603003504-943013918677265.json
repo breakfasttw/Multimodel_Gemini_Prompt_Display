@@ -1,0 +1,180 @@
+{
+  "videoName": "cocowine0205-20250603003504-943013918677265.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 61,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a woman in a zebra-print bucket hat and lace top standing in a Costco warehouse, holding a large boxed cake and smiling at the camera. (2) Chronological cuts show the cake being unboxed, sliced, and held up to show the layers; it is a light brown cake topped with many walnuts and cream swirls. (3) The scene shifts to an indoor dining area where the woman and a female friend are seated at a table, eating the cake with forks and reacting with enthusiastic facial expressions, thumbs up, and hand gestures.",
+      "audio_narrative_log": "(1) A high-pitched, energetic female voice starts by singing a 'Happy Birthday' greeting and then speaks rapidly about the price and features of the cake. (2) Upbeat, fast-tempo pop-style background music plays continuously, maintaining a cheerful atmosphere. (3) A second female voice is heard joining the conversation during the tasting segment, both maintaining a lively and professional tone with occasional sound effects like pops during text transitions.",
+      "text_narrative_log": "(1) Functional Text: '399元' (399 NTD), '核桃伯爵蛋糕' (Walnut Earl Grey Cake), and '8吋耶' (8 inches). (2) Decorative/Hook Text: '史上最好吃蛋糕' (Best cake ever), '祝你生日快樂' (Happy Birthday), and '非常的值' (Very worth it). (3) Content & Tone: Captions such as '伯爵茶香味' (Earl Grey tea fragrance) and '完全不會乾口' (Not dry at all) appear in a playful, variety-show font to emphasize the cake's quality."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Store Intro -> Product Close-up -> Home Tasting Review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main creator in zebra hat, 1 female friend sitting next to her, and blurred shoppers in the background at Costco.",
+      "mainCharacterDescription": "The main creator wears a zebra-print bucket hat, a black dress, and a white lace cardigan; her friend wears a dark blue beret and a light-colored top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Initial scenes are set in the aisles of a Costco warehouse with shelves and shoppers; later scenes are in a home dining area with a sofa and fruit in the background.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Handheld",
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Cake",
+        "Walnuts",
+        "Cream"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "Kirkland"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Keyboard",
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Piano",
+        "Electronic Drums",
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Meme sounds",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Purchase Evidence -> Detailed Review -> Conclusion",
+      "mainPurpose": "The video is a lifestyle and food review intended to endorse the 'Walnut Earl Grey Cake' from Costco. It leverages high energy and visual evidence of the cake's ingredients (plenty of walnuts and moist sponge) to convince viewers of its high value-for-money and superior taste compared to other store cakes.",
+      "visualEmotion": "Energetic and Happy"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of product packaging, price disclosure, and verbal recommendation based on brand name.",
+      "endorsementObject": [
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing with colorful, bouncy Traditional Chinese text overlays and an extremely enthusiastic vocal delivery.",
+      "freeDescribe": "The video uses a high density of visual 'hooks' (like the 'Best Cake Ever' text) to capture attention immediately, which is common in short-form social media reviews."
+    }
+  }
+}

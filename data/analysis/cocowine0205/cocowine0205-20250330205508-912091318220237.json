@@ -1,0 +1,187 @@
+{
+  "videoName": "cocowine0205-20250330205508-912091318220237.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Shopping Guide",
+        "Promotional"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a vibrant Costco Wholesale logo and a cartoon character overlay with text announcing weekly specials. (2) A rapid series of shots follows, each showcasing a different product on Costco's shelves or in coolers, including kitchen towels, character pillows, vacuum-packed beef, snack boxes, nuts, and egg rolls. (3) The items are presented in quick succession, often with hands visible adjusting or presenting the product. (4) The sequence continues through various departments, showing wine, dairy products, seafood, and household goods like sanitary pads and toys. (5) The video concludes with a quick shot of a makeup eraser set.",
+      "audio_narrative_log": "(1) A high-pitched, energetic male voice immediately begins speaking over an upbeat, fast-paced electronic background track. (2) As the visuals transition between products, the narrator rapidly lists the name and promotional price of each item without pause. (3) The background music maintains a constant, high-energy rhythm throughout the entire video. (4) No ambient store noise is audible; the audio is a clean studio recording of the voiceover and music.",
+      "text_narrative_log": "(1) Functional Text: 'Costco Weekly Special Report 03/24-03/30' serves as a hook at the start. (2) Functional Text: Each product is accompanied by large, colorful text showing the product name, 'Original Price', 'Discount Amount', and 'Special Price'. (3) Decorative Text: 'Remember to follow us' is consistently displayed at the bottom to encourage viewer engagement."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Rapid-fire product and price showcase -> Final product."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "Only the hands of the creator are visible while holding or pointing at items.",
+      "mainCharacterDescription": "An off-screen creator whose hands are visible occasionally."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Supermarket",
+          "Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Various aisles of a large warehouse-style supermarket, featuring industrial shelving, refrigerated cases, and bulk product displays.",
+      "lightingStyle": "Bright industrial fluorescent lighting",
+      "weather": "Indoor",
+      "season": "Spring",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Bright and High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Beef",
+        "Snacks",
+        "Nuts",
+        "Egg Rolls",
+        "Clams",
+        "Noodles",
+        "Chicken Wings",
+        "Yogurt"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Kirkland Signature",
+        "Nestle",
+        "KitKat",
+        "Pocky",
+        "Always",
+        "Twinings",
+        "Quaker"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut sync with visuals",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and urgent",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Extremely fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Swoosh"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> CTA",
+      "mainPurpose": "The video serves as a high-speed promotional bulletin to inform local shoppers about specific weekly discounts at Costco Taiwan, using a high-density information delivery style to create a sense of urgency and value.",
+      "visualEmotion": "Energetic and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of products with price tags and store branding.",
+      "endorsementObject": [
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Rapid-fire narration and consistent price-comparison text overlays.",
+      "freeDescribe": "The video uses a 'bargain hunting' aesthetic popular on social media to drive foot traffic to retail locations during specific promotional windows."
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "videoName": "yga0721-20250501162909-1539532037160165.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 84,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Life Hack"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a live-action vlog. A male creator in a white sweater with sunflower patterns is in a living room, talking excitedly to a woman in a dark jumpsuit and a person wearing a yellow bald mask. He holds a white trash bag and a child's drawing. (2) Scene transitions to a hallway where he holds a pink yoga mat and a black duffel bag, yelling at the woman while flame effects appear behind him. (3) He moves to a kitchen area, opening a cabinet overflowing with paper bags and reactively pointing at the clutter. (4) In a bedroom setting, he pulls out a small two-tone t-shirt from a messy wardrobe, confronts another character, and throws the shirt at the woman's head. (5) Back in the living room, he stands by a TV cabinet, pulling out bubble wrap from a high shelf and screaming at the camera with dramatic red light and text overlays.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat background music with a strong rhythmic beat. A high-pitched, energetic male voice speaks rapidly in Mandarin, occasionally punctuated by a female voice's brief response. (2) Loud 'whoosh' and impact sound effects (SFX) occur during scene transitions. The male voice becomes louder and more aggressive, sounding like a mock-lecture. (3) Sound of paper bags crinkling is heard clearly. The music remains consistent in tempo. (4) Fabric rustling sounds as clothes are handled. A second male voice is heard briefly. (5) The main male voice reaches a peak volume, shouting emphatically. The music reaches a crescendo with a final 'boom' SFX as the video ends.",
+      "text_narrative_log": "(1) '觀念六：雞肋請斷捨離' (Concept 6: Declutter useless items) appears in white/red font. (2) '小朋友的作品' (Children's artwork) is used as descriptive text. (3) '不會!' (No!) appears in large, bold red characters for emphasis. (4) '觀念七：興趣用品斷捨離' (Concept 7: Declutter hobby items) marks a new section. (5) '你去多久沒露營???' (How long since you went camping???) acts as a hook. (6) '紙袋山石流' (Paper bag landslide) appears during the kitchen scene. (7) '你頭殼裝屎喔' (Is your head full of s**t?) appears in stylized orange font during the final outburst."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 3.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Tip 6 (Art) -> Tip 7 (Hobbies) -> Tip 8 (Paper Bags) -> Tip 9 (Clothes) -> Concept 10 (Space Value) -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 1 female assistant/target, 2 characters wearing full-head masks (yellow bald mask and brown monster mask).",
+      "mainCharacterDescription": "An Asian male with short brown hair, wearing a white oversized sweater with black sunflower prints and black distressed jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room",
+          "Indoor Kitchen",
+          "Indoor Bedroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A typical modern apartment interior with light wood cabinetry, a white crib, a large refrigerator, a wardrobe filled with clothes, and a living room with a TV and wall clock.",
+      "lightingStyle": "Natural bright indoor light",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, aggressive, humorous",
+        "pitch": "High-pitched",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Drum kit",
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Impact",
+        "Cymbal crash"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Tip 6 -> Tip 7 -> Tip 8 -> Tip 9 -> Concept 10 -> CTA",
+      "mainPurpose": "To comedically educate viewers on the philosophy of decluttering (Danshari). The creator uses exaggerated anger and physical comedy to argue that hoarding useless items like old hobby gear, paper bags, or small clothes is a waste of expensive living space. The ultimate goal is to motivate viewers to clean their homes by shifting their perspective on the value of 'space' versus 'junk'.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy shouting, dramatic facial expressions, red 'rage' text overlays, use of masked side characters.",
+      "freeDescribe": "The video's impact relies heavily on the creator's persona and the contrast between his manic energy and the 'messy' reality of common household clutter."
+    }
+  }
+}

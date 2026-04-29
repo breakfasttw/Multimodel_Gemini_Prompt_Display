@@ -1,0 +1,170 @@
+{
+  "videoName": "yga0721-20250731122459-893355403618240.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 13,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young boy with black hair and glasses is sitting at a wooden table in a restaurant, holding a large gyoza on a red spoon. (2) He takes a large bite of the gyoza, chews with a satisfied expression, and looks around the room while continuing to eat. (3) The scene shifts slightly to a closer angle of him chewing and enjoying the food while background figures move in the restaurant.",
+      "audio_narrative_log": "(1) Ambient restaurant noise is heard including clinking dishes and distant chatter. (2) A female voice off-camera speaks in Mandarin with a gentle, questioning tone. (3) The boy makes soft chewing sounds as the background restaurant noise continues.",
+      "text_narrative_log": "(1) Functional Text: Subtitles in Chinese appearing briefly at the bottom of the frame translating the off-screen dialogue. (2) Decorative Text: '很好吃嗎' (Is it delicious?) appears with a cute, casual tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 6.5,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Eating Action -> Reaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main child character, at least 3 blurry adults/passers-by in the background.",
+      "mainCharacterDescription": "Young boy with short black hair, wearing black-rimmed glasses and a dark blue long-sleeved shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Restaurant"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A typical casual restaurant interior with wooden tables, grey booth seating, and a service counter in the background with staff visible.",
+      "lightingStyle": "Bright indoor artificial lighting",
+      "weather": "None",
+      "season": "Unknown",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Gyoza",
+        "Dumpling"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Winnie the Pooh"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and questioning",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Restaurant",
+        "Kitchen chatter"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Action -> Reaction",
+      "mainPurpose": "To showcase a child's authentic and positive reaction to eating a specific food item (gyoza) in a restaurant setting, likely for family documentation or social media sharing.",
+      "visualEmotion": "Calm and content"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Child character with distinctive thick glasses.",
+      "freeDescribe": "The focus is purely on the child's sensory experience with the food. The presence of the Winnie the Pooh character on the plate suggests a child-friendly dining environment."
+    }
+  }
+}

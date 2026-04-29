@@ -1,0 +1,179 @@
+{
+  "videoName": "yga0721-20260112165506-2285579158635869.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 65,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Promotional",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taichung"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) This is a live-action video. A male and a female character stand in a brightly lit mall corridor in front of a colorful 'Photo Booth' structure, gesturing enthusiastically to the camera. (2) The scene cuts rapidly between shots of various merchandise: acrylic keychains, plush toys, and printed stickers. (3) The characters interact with a digital photo booth screen, showing the results of their photos. (4) Close-up shots demonstrate a small CD-shaped keychain being tapped against a smartphone, which then displays a YouTube video. (5) The duo presents more items including phone cases, canned drinks, folders, and a large colorful umbrella. (6) A hand holds a pink lucky charm in front of large character statues as if performing a blessing ritual. (7) The video ends with the pair waving towards the camera in front of the store display.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music with a steady drum beat begins immediately. A male voice speaks with high energy and a friendly tone. (2) A female voice enters, alternating with the male voice in a fast-paced conversation; they sound excited and humorous. (3) Occasional cartoonish sound effects (pings, chimes, and 'wa' noises) are heard during product reveals. (4) The music remains continuous throughout the main segment but shifts to a slightly more jaunty, quirky track during the final instructional charm sequence. (5) Ambient mall background noise is minimal, muffled by the studio-quality vocal recording.",
+      "text_narrative_log": "(1) '我們二伯在台中麗寶的十週年展' (Our Erbo's 10th Anniversary Exhibition in Taichung Lihpao) - Hook text. (2) '馬上帶大家來開箱' (Taking everyone to unbox right away) - Functional. (3) '十週年拍貼機' (10th Anniversary Photo Booth) - Functional. (4) '還有CD吊飾' (Also CD keychains) - Functional. (5) 'NFC感應CD吊飾' (NFC sensor CD keychain) - Functional. (6) '直接幫我導流量' (Directly helps me drive traffic) - Hook/Humorous. (7) '只要599!!' (Only 599!!) - Promotional hook. (8) '免費入場' (Free admission) - Promotional hook. (9) '千億御守購前說明' (Pre-purchase instruction for Qianyi charm) - Functional title."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Merchandise Showcase -> Feature Demo -> CTA -> Instructional Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Upper body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main male creator and 1 main female creator; hands shown in close-ups.",
+      "mainCharacterDescription": "A male wearing a multi-colored geometric pattern jacket and a female wearing a red sweatshirt and a black beanie."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Mall",
+          "Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "An indoor shopping outlet environment with store displays, shelves of merchandise, a photo booth structure, and promotional banners.",
+      "lightingStyle": "Bright studio-style lighting within a commercial mall.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Canned drinks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Photo Booth machine"
+      ],
+      "landmark": [
+        "Lihpao Outlet Mall"
+      ],
+      "brandLogos": [
+        "hahababy",
+        "2UNCLE"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, humorous, and energetic",
+        "pitch": "Moderate to High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Ding",
+        "Chime"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage -> List-based: Hook -> Item Highlights -> Tech Demo -> CTA",
+      "mainPurpose": "To promote the 10th-anniversary exhibition of the 'hahababy' brand at the Lihpao Outlet Mall, showcasing exclusive merchandise and interactive experiences to drive foot traffic and sales.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creators are directly promoting their own brand's exhibition and specific products with pricing and location info.",
+      "endorsementObject": [
+        "hahababy"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing with variety-show captions and high-energy interactions between the two main creators.",
+      "freeDescribe": "The video utilizes high-saturation colors and rapid cuts to maintain viewer engagement, typical of high-performing social media marketing content in Taiwan."
+    }
+  }
+}

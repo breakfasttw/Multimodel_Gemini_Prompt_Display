@@ -1,0 +1,181 @@
+{
+  "videoName": "cocowine0205-20250422223739-1644726683220197.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 54,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a white sweater, stands in a Costco refrigerated aisle holding a black product box for 'Stewed Beef in Clear Broth'. (2) The scene cuts to a well-lit indoor dining room where two women sit at a table. One woman wears a zebra-patterned bucket hat; they show a product pouch and a small pot on a portable stove. (3) Close-ups of a bowl of beef noodle soup with green vegetables are shown, followed by the woman in the hat lifting a piece of beef with chopsticks to the camera. The video ends with shots of the product packaging and a thumbs-up.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic pop music starts immediately. A female voice speaks in an enthusiastic, high-pitched tone, introducing a new product. (2) The music continues at a steady, fast tempo as the speaker details the price and quantity. Several 'ding' and 'pop' sound effects occur when text overlays appear. (3) The vocal intensity remains high as the speaker describes the taste and variety of serving suggestions. Only the BGM and vocals are audible, suggesting a clean recording environment.",
+      "text_narrative_log": "(1) 'COSTCO WHOLESALE' logo is at the top; '清燉牛肉湯!' (Stewed Beef Soup!) is in large, stylized yellow font. (2) Functional text: '最新上的牛肉湯' (Newly arrived beef soup), '429元共四包' (429 NTD for 4 packs), '每包500公克' (500g per pack). (3) Decorative/Hook text: '真的很厲害' (Really amazing), '牛肉塊都給得非常誠意' (The beef chunks are very generous), '推推' (Highly recommend), and '可可酒精頻道' (Coco Alcohol Channel) at the bottom."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at store -> Product details at home -> Food demo and tasting -> Call to action/recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "Two main female creators are visible sitting together in the main review segment.",
+      "mainCharacterDescription": "One woman has long dark hair and wears a white textured sweater. The second woman wears a zebra-patterned bucket hat and a black top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Studio",
+          "Costco Warehouse"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The video starts in a bright, industrial warehouse setting with large refrigerated glass doors. It shifts to a modern, minimalist indoor dining area with a clean white table and warm interior lighting.",
+      "lightingStyle": "Bright studio lights",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Stewed Beef",
+        "Noodles",
+        "Bok Choy",
+        "Soup"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Costco"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "玲苑"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and persuasive",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Digital Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Specs/Value -> Sensory Review -> Recommendation",
+      "mainPurpose": "To review and promote a newly released 'Stewed Beef in Clear Broth' product found at Costco. The video uses energetic pacing and appetizing visuals to convince viewers of the product's convenience and high quality-to-price ratio.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The video is a dedicated product review focusing on pricing, brand identification (Ling Yuan), and enthusiastic recommendations to buy the product.",
+      "endorsementObject": [
+        "玲苑"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-frequency variety-show style text overlays and high-pitched, enthusiastic narration characteristic of lifestyle influencers.",
+      "freeDescribe": "The video targets budget-conscious yet quality-focused shoppers in the Taiwan market, utilizing the 'Costco New Arrivals' trend to generate interest."
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "videoName": "cocowine0205-20250630212311-1431796185356487.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 26,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Two young women stand in a warehouse-style store aisle in front of a giant Tetris-themed box; the woman on the left wears a white dress and blue beret, holding a large orange 'L' shaped foam block, while the woman on the right wears a black cutout top. (2) Close-up shots of colorful foam Tetris blocks being stacked onto a large vertical board. (3) The women demonstrate a giant white die used for the game, pointing at its faces. (4) They attempt to place blocks on the board, laughing as some blocks fall or don't fit perfectly. (5) A close-up of a store price tag showing the price 2,799. (6) The women give thumbs-up and continue interacting with the colorful blocks, showing the scale compared to their bodies.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat pop music with a bright synth melody begins. A female voice speaks in an excited, high-pitched tone, introducing the product. (2) Ambient store sounds are muffled by the music, but the sound of foam blocks rubbing and light thuds as they hit the board are audible. (3) The two women engage in a fast-paced dialogue, laughing and reacting with 'Ooh' and 'Wow' sounds as they play. (4) The music remains constant in volume and energy until the video ends abruptly.",
+      "text_narrative_log": "(1) Functional Text: Subtitles translating the dialogue about the giant Tetris game at Costco. (2) Decorative/Hook Text: Large colorful captions like '2799元！值得買嗎？' (2799 yuan! Worth buying?), '巨大化俄羅斯方塊' (Giant Tetris), and '好難喔' (So hard) appearing with bouncy animations. (3) Price Tag Text: 'TETRIS TUMBLE XL GAME' and '$2,799' in standard black and white print."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 1.85,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Product Feature Explanation -> Interactive Gameplay Demo -> Price Reveal -> Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Upper body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 female creators presenting the product throughout the video.",
+      "mainCharacterDescription": "One woman has long dark hair, wearing a white textured dress and a dark blue beret with a crossbody bag; the second woman has long dark hair and wears a black top with a neck cutout design."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Supermarket"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A Costco warehouse interior with high ceilings, industrial shelving stacked with boxes, and various toy/outdoor products in the background.",
+      "lightingStyle": "Bright, even industrial fluorescent lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "TETRIS",
+        "KANGOL"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, energetic, and persuasive",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Product Intro -> Demo -> Price -> CTA",
+      "mainPurpose": "The video serves as a product discovery and review vlog, specifically highlighting a giant 'Tetris Tumble XL' game found at Costco. The creators aim to show the scale, the fun of the physical gameplay (using the giant die and foam blocks), and ultimately inform viewers of its price to help them decide if it's worth the purchase, targeting families and toy enthusiasts.",
+      "visualEmotion": "Energetic and Fun"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct display of product price, brand name, and positive review/testing of the item in a retail environment.",
+      "endorsementObject": [
+        "Costco Wholesale",
+        "Tetris Tumble XL"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy dual-host interaction, large colorful text hooks.",
+      "freeDescribe": "The video uses typical 'Costco find' tropes common in lifestyle influencer content, focusing on unique or oversized items to grab attention."
+    }
+  }
+}

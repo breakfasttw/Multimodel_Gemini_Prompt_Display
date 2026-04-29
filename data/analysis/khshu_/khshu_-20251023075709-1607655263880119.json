@@ -1,0 +1,174 @@
+{
+  "videoName": "khshu_-20251023075709-1607655263880119.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 17,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Promotional Skit",
+        "Celebrity Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts in an indoor hallway where a young man with dark hair, wearing a white oversized shirt over a black outfit, walks away from the camera and then stops to look back as if searching for something. (2) A young woman in a white tank top and lace-covered pants runs towards him holding a brown clipboard. (3) The man takes the clipboard and signs it with a marker while another young man in a striped sweater appears behind him. (4) The woman looks at the clipboard with a confused expression, then turns it toward the camera to reveal a handwritten message. (5) All three individuals stand together, waving and smiling at the camera as a celebratory filter effect is applied.",
+      "audio_narrative_log": "(1) The audio begins with a fast-paced, suspenseful orchestral track accompanied by cartoonish sound effects like 'boing' and 'shimmer' to emphasize the visual realization of something missing. (2) The music shifts to a more upbeat, triumphant theatrical pop song with lyrics as the message is revealed. (3) The video ends with the sound of a studio-recorded laughter track and the fading upbeat music.",
+      "text_narrative_log": "(1) '什麼東西掉了...' (Something dropped...) - A hook text appearing at the start with a curious tone. (2) '路人阿千撿到 ->' (Passerby Ah-Chien found it ->) - Identification text for the female character. (3) '(這是你們掉的)' ((This is yours)) - Functional text representing the girl's unspoken dialogue. (4) '(???)' - Decorative text conveying the girl's confusion. (5) '請去影院支持《冥婚開泰》' (Please go to the theater to support 'The Red Envelope') - Promotional text written on the clipboard. (6) 'Ha Ha Ha' - Decorative text representing laughter. (7) '快進影院支持 <3' (Hurry to the theater to support <3) - Closing call-to-action text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 1.54,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook (looking for lost item) -> Interaction (returning item) -> Reveal (promotional message) -> Outro (group waving)."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male in white jacket (PP Krit), 1 male in striped sweater (Billkin), and 1 female in white tank top (Ah-Chien).",
+      "mainCharacterDescription": "PP Krit is wearing an oversized white jacket over a black shirt and pants. Billkin is wearing a dark and white horizontal striped sweater."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Hallway",
+          "Theater Lobby"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern indoor hallway with neutral beige walls, wooden doors, and a large movie poster on the left wall featuring the title 'The Red Envelope'.",
+      "lightingStyle": "Warm indoor lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and Warm",
+      "cameraWork": [
+        "Follow shot",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "Medium",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Pop / Theatrical",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Laughter track"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Surprise -> Promo Reveal",
+      "mainPurpose": "The video is a comedic promotional skit designed to encourage viewers to watch the movie 'The Red Envelope' (冥婚開泰). It uses popular Thai actors PP Krit and Billkin along with an influencer to create a viral-style moment where a 'lost item' turns out to be a signed promotional board.",
+      "visualEmotion": "Humorous and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The entire skit centers around revealing a board that asks viewers to support the movie 'The Red Envelope' in theaters.",
+      "endorsementObject": [
+        "冥婚開泰",
+        "The Red Envelope"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of variety-show style captions and the appearance of the famous CP duo Billkin & PP Krit.",
+      "freeDescribe": "The video leverages the celebrity status of the actors and the 'found object' trope to deliver a promotional message in an engaging, non-traditional advertising format."
+    }
+  }
+}

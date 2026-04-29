@@ -1,0 +1,180 @@
+{
+  "videoName": "3ctim-20251122231010-1499915831712918.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 40,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Lifestyle"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a middle-aged male character sitting indoors, smiling and gesturing towards the camera while holding a large clear bottle of water. (2) The scene cuts to a close-up of the 'Suntory Tokusui' water bottle being rotated to show its label features. (3) The man is then shown drinking the water and reacting with a pleasant facial expression. (4) He then holds up a smaller green bottle of 'Danone Bio' yogurt drink, pointing at the label. (5) A close-up shot follows, showcasing the Japanese text on the 'Bio' bottle. (6) Finally, the man drinks the yogurt beverage, gives a thumbs-up, and poses with both bottles while smiling at the camera against a cityscape background through a window.",
+      "audio_narrative_log": "(1) A male voice starts speaking in a cheerful, energetic tone in Mandarin Chinese over a light, upbeat instrumental background music. (2) As the video progresses, the music remains consistent in the background while the male narrator explains the benefits of the drinks. (3) Occasional 'pop' or 'ding' sound effects (SFX) coincide with the appearance of text overlays on the screen. (4) The audio concludes with the narrator's final recommendation and the music fading out.",
+      "text_narrative_log": "(1) Functional Text: '現在日本' (Now in Japan) and '最紅的飲料' (Most popular drink) appear with a yellow highlight. (2) Functional Text: '特水' (Tokusui) and '調節脂肪代謝' (Regulate fat metabolism) used to describe the first product. (3) Decorative Text: '燃燒脂肪' (Burn fat) highlighted with a circling effect. (4) Functional Text: '第2款就是這個' (The 2nd one is this) introducing the second product. (5) Hook Text: '想大吃大喝的話' (If you want to eat and drink heavily) appearing at the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 3.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Product 1 Review -> Product 2 Review -> Final Verdict"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator presenting the products.",
+      "mainCharacterDescription": "A middle-aged man wearing glasses, a patterned flat cap, and a white sweatshirt with a 'ROOTS' logo."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Hotel Room",
+          "Studio"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern indoor setting with a large window in the background showing an urban cityscape under daylight.",
+      "lightingStyle": "Bright natural light from the side window.",
+      "weather": "Sunny/Clear",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Water",
+        "Yogurt Drink"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartwatch"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Suntory",
+        "Danone",
+        "Roots"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and informative",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Pop SFX",
+        "Notification ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Demonstration -> Explanation -> Call to Action",
+      "mainPurpose": "The video serves as a travel lifestyle recommendation guide for Chinese-speaking tourists visiting Japan. It specifically identifies and reviews two functional beverages marketed for health benefits (fat metabolism and gut health), aiming to inform viewers about trendy Japanese convenience store finds that help balance heavy eating during travel.",
+      "visualEmotion": "Energetic and Positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The creator specifically highlights brand benefits and encourages viewers to purchase these products while in Japan.",
+      "endorsementObject": [
+        "Suntory Tokusui",
+        "Danone Bio"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy variety-show style text overlays and a focus on Japanese trends.",
+      "freeDescribe": "The video targets health-conscious travelers and enthusiasts of Japanese convenience store culture."
+    }
+  }
+}

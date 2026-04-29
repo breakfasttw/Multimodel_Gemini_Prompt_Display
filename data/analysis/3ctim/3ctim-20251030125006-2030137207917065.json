@@ -1,0 +1,180 @@
+{
+  "videoName": "3ctim-20251030125006-2030137207917065.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 45,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Educational",
+        "Commentary",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a close-up of a middle-aged man (3cTim) wearing a black cap and glasses with a surprised facial expression. (2) It transitions to a visual phase showing a B-roll of hands using a white game controller in a dark room, followed by a shot of a man and a woman smiling while gaming on a couch. (3) This is followed by rapid sequences of gameplay footage including a top-down MOBA game, a mobile racing game, and a first-person shooter mobile game, while the host periodically reappears in front of a grey curtain. (4) The host continues to use hand gestures to explain brain functions as the scene returns to his studio setup, concluding with a steady shot of him speaking directly to the camera.",
+      "audio_narrative_log": "(1) A male voice begins speaking in an energetic and informative tone over an upbeat, lo-fi background music track. (2) The soundscape shifts to include mechanical clicking sounds of a game controller and soft ambient gaming noises as the visuals switch to B-roll. (3) During the gameplay segments, sound effects of racing engines and gunfire from the shooting game are layered over the continuous narration and background music. (4) The video maintains a consistent audio mix of vocals and music, ending with the music fading out alongside a concluding remark.",
+      "text_narrative_log": "(1) Decorative/Hook Text: '什麼！' (What!) appears in large white characters to create a hook. (2) Functional Text: '打電玩可以讓大腦變強的秘密' (The secret of how playing games makes the brain stronger) appears as a central hook title. (3) Functional Text: Several informational titles appear such as '動作類、射擊類遊戲' (Action and shooting games), '空間認知能力' (Spatial cognitive ability), and '專注力' (Focus) to highlight key scientific terms. (4) Functional Text: A disclaimer '*請適量玩遊戲*' (Please play games in moderation) appears at the bottom right at the end of the video."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Scientific Claim -> Gameplay Demonstration -> Conclusion and Warning"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Face",
+        "Hands only",
+        "Half-body",
+        "Side view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main host, 1 male and 1 female visible in gaming B-roll",
+      "mainCharacterDescription": "A middle-aged man with short hair, wearing a black flat cap, dark-rimmed glasses, and a white t-shirt with a blue graphic design."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The primary background is a professional studio setting with a grey vertical-striped curtain. Secondary B-roll backgrounds include a dimly lit living room with warm decorative lighting and digital gameplay environments.",
+      "lightingStyle": "Studio lighting for the host; warm, low-key ambient lighting for the gaming scenes.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Muted",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Game Controller",
+        "Headphones"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Facebook",
+        "Instagram",
+        "Sony"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Steady, professional, and friendly",
+        "pitch": "Medium-low",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Lo-fi",
+      "bgmBPM": 105,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Game SFX",
+        "UI Click sounds"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Benefit -> Disclaimer",
+      "mainPurpose": "The video's objective is to inform viewers about the positive cognitive effects of playing video games, specifically highlighting how action and shooting games can improve concentration and spatial awareness, effectively countering negative stereotypes about gaming.",
+      "visualEmotion": "Energetic and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The content focuses on a general scientific topic rather than promoting a specific product or brand.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The host (3cTim) uses a signature flat cap and a variety-show style of overlay captions typical of tech influencers in Taiwan.",
+      "freeDescribe": "The video effectively utilizes stock footage and high-paced editing to make scientific information more accessible to a social media audience."
+    }
+  }
+}

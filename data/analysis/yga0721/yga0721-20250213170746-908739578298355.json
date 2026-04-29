@@ -1,0 +1,171 @@
+{
+  "videoName": "yga0721-20250213170746-908739578298355.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 8,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Shorts",
+        "Meme"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a live-action montage. It begins with a man's face framed within a small rectangular opening of a cardboard box; he has a wide-eyed, shocked expression. In the background, a man with black hair smiles broadly. (2) A series of rapid cuts follows, showing different people appearing behind the box. These include a woman screaming, a man with glasses smiling, another man with his mouth wide open, a woman with long hair shouting, and a woman wearing a black face mask. (3) The box remains the central focus throughout the sequence, with the background person changing on every beat of the music.",
+      "audio_narrative_log": "(1) High-energy electronic music begins immediately, featuring a repetitive vocal sample saying 'Kenchana'. (2) A melodic 'Ding-ding-ding-ding' rhythm plays in sync with the visual cuts. (3) The vocal line and rhythmic melody continue at a constant, fast tempo until the video loops.",
+      "text_narrative_log": "(1) No on-screen text, subtitles, or decorative captions are present."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 1.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Rapid Montage -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 7,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Face",
+        "Shoulders",
+        "Hands"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main character inside the box, plus 3 different males and 3 different females appearing in the background cuts.",
+      "mainCharacterDescription": "A young man with light brown hair and a surprised expression, whose face is visible through a hole in a cardboard box."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A brightly lit indoor space with white walls, some studio lighting equipment visible, and wooden furniture or panels in the background.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 7,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Korean"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat EDM",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drum"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Repetitive Action -> Loop",
+      "mainPurpose": "To create a humorous and engaging short-form video trend using a 'head-in-a-box' gimmick, where multiple people participate in making exaggerated faces synchronized to a popular audio track.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Cardboard box prop with face cutout",
+      "freeDescribe": "The video relies heavily on beat-sync editing and exaggerated facial expressions to generate comedic effect."
+    }
+  }
+}

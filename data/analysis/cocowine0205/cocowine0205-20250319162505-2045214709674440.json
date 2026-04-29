@@ -1,0 +1,179 @@
+{
+  "videoName": "cocowine0205-20250319162505-2045214709674440.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 42,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping Recommendation"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A female creator stands in a Costco warehouse aisle, holding a two-pack of Kirkland Signature Salsa. She is wearing a grey turtleneck under a black sleeveless garment. (2) She moves the salsa jars toward the camera, gesturing with her free hand. (3) The camera zooms into a close-up of the product's back label, detailing ingredients and nutrition facts. (4) The creator continues to present the product while standing in front of shelves stocked with various condiment jars. (5) The camera shifts focus to the store's shelf price tag for the salsa.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic music starts immediately. A high-pitched, energetic female voice begins speaking excitedly. (2) A deep male voice is heard off-camera, engaging in a dialogue with the female speaker. (3) The music remains at a consistent volume as the two voices discuss the product, with the female voice being the primary narrator. (4) The soundscape remains clear with no significant ambient noise from the warehouse environment.",
+      "text_narrative_log": "(1) Decorative Hook: Multiple instances of \"回購\" (Repurchase) appear in pink and purple bubbles. (2) Functional Text: \"Costco Wholesale\" logo is prominently displayed at the top. (3) Decorative Hook: \"回購之王 好市多莎莎醬\" (King of Repurchase - Costco Salsa) headline. (4) Functional Text: Subtitles translate spoken dialogue regarding usage (e.g., \"配披薩好吃\" - good with pizza) and ingredient quality. (5) Decorative/Effect Text: \"這個醬太好吃\" (This sauce is too delicious) in a bubbly yellow graphic. (6) Functional Text: Price breakdown \"389 兩罐\" (389 for two cans) and \"一罐不用200塊\" (Less than 200 per can)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 3.8,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Product Showcase -> Detail/Ingredient Check -> Pricing Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main character on screen; 1 male voice audible off-screen.",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a white/grey long-sleeve top under a black pinafore-style apron."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The background consists of heavy-duty orange metal shelving units typical of a warehouse club, stocked with jars of XO sauce and Kewpie mayonnaise.",
+      "lightingStyle": "Bright indoor warehouse lighting",
+      "weather": "None",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Zoom",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Salsa",
+        "XO Sauce",
+        "Mayonnaise"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Kirkland Signature",
+        "Kewpie",
+        "十味觀"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and persuasive",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Personal Testimony -> Evidence/Ingredient Analysis -> Value/Price Justification",
+      "mainPurpose": "The video is a consumer-to-consumer recommendation designed to drive sales of Kirkland Signature Salsa at Costco. By emphasizing the 'repurchase' factor, the creator establishes credibility, while the close-up of ingredients appeals to health-conscious buyers and the final price breakdown provides a rational justification for the purchase.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct verbal recommendation, use of brand logos, and specific price call-outs for a specific retailer product.",
+      "endorsementObject": [
+        "Kirkland Signature",
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density floating text bubbles used as visual hooks.",
+      "freeDescribe": "Typical 'short-form commerce' style video, optimized for platform algorithms that favor high-energy, fast-paced product reviews with visual evidence."
+    }
+  }
+}

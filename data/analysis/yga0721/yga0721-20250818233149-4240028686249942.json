@@ -1,0 +1,181 @@
+{
+  "videoName": "yga0721-20250818233149-4240028686249942.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 54,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Tasting"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The scene begins at night outdoors in front of a modern architectural structure with curved lines. A young man in a black shirt is talking to the camera, introducing two people wearing large, caricature-like masks. (2) The setting shifts to an indoor restaurant with stainless steel tables. A man wearing a short brown bob wig and sunglasses is seen eating fish cakes from a cup. (3) Chronological close-ups of various Korean dishes follow: sizzling grilled pork belly (samgyeopsal) on a grill and a large, steaming pot of pork bone soup (gamjatang). (4) The man in the wig and the host are shown eating enthusiastically, with the guest in the wig making exaggerated expressions of pleasure and satisfaction. (5) The video concludes with more eating shots and close-ups of the food being lifted with chopsticks.",
+      "audio_narrative_log": "(1) High-energy Mandarin vocals from multiple male speakers are heard alongside upbeat, fast-paced electronic background music. (2) Ambient noise of a bustling restaurant environment, including the clinking of metal dishes and muffled background chatter, becomes prominent. (3) Distinctive sound effects (SFX) such as 'boing' or 'pop' sounds are used to accentuate comedic moments and text appearances. (4) Eating sounds like slurping and chewing are clearly audible during the food close-ups. (5) The vocal intensity remains high throughout, with frequent laughter and excited exclamations from both male and female voices.",
+      "text_narrative_log": "(1) Functional Text: '我們終於邀請到我們B哥' (We finally invited our Brother B), '來到我們的韓國啦' (Come to our Korea). (2) Decorative Hook Text: '吃10樣韓國在地美食' (Eat 10 kinds of local Korean delicacies), '總分100分' (Total score 100 points). (3) Content Labels: '烤五花肉' (Grilled pork belly), '馬鈴薯燉排骨' (Pork bone soup). (4) Emotional/Variety-show Text: '太滿足' (So satisfied), '逐漸 K 化' (Gradually becoming K-ified), '9局下半' (Bottom of the 9th inning)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.45,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at outdoor landmark -> Transition to restaurant -> Sequential tasting and evaluation of multiple dishes."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male host, 1 male guest (wig), 2 female assistants/staff members.",
+      "mainCharacterDescription": "One male in a black T-shirt and black cap; one male guest wearing a brown bob-style wig and sunglasses."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Indoor Restaurant"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Outdoor shots feature the Dongdaemun Design Plaza (DDP) at night; indoor shots show a typical Korean restaurant with stainless steel tables and plastic sheeting.",
+      "lightingStyle": "Mixed (Night ambient and bright fluorescent restaurant lights)",
+      "weather": "Clear",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Vibrant",
+      "cameraWork": [
+        "Handheld",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Fish cakes",
+        "Pork belly",
+        "Pork bone soup",
+        "Noodles"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Apple Watch"
+      ],
+      "landmark": [
+        "Dongdaemun Design Plaza"
+      ],
+      "brandLogos": [
+        "Apple",
+        "issey miyake",
+        "Dodgers"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cuts synchronized with visual transitions",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and humorous",
+        "pitch": "Medium",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Pop sounds"
+      ],
+      "ambientNoise": [
+        "Restaurant clatter",
+        "Street ambience"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Introduction -> Sequential Food Demo -> Humorous Commentary -> Conclusion",
+      "mainPurpose": "The video is an entertainment-focused food vlog designed to showcase popular South Korean local dishes. By using a guest character in a wig and humorous masks, it blends comedy with cultural exploration, aiming to provide an engaging and lighthearted review of Korean street and restaurant food for a Mandarin-speaking audience.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy comedic guest segments featuring 'Brother B', variety-show style text graphics, and fast-paced editing transitions.",
+      "freeDescribe": "The use of 'variety-show' style editing, including sound effects and large on-screen text, is a key driver for viewer retention in this short-form format."
+    }
+  }
+}

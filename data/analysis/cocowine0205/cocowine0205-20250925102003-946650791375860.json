@@ -1,0 +1,187 @@
+{
+  "videoName": "cocowine0205-20250925102003-946650791375860.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Promotion",
+        "Shopping Guide"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a graphic overlay featuring the Costco Wholesale logo, a cartoon character, and the title '好市多 每週特價速報' (Costco Weekly Special Report) for the dates 06/02-06/08. (2) A rapid sequence of shots follows, each showcasing a different product inside a Costco warehouse. Items include fresh blueberry panna cotta, ORA2 ME toothpaste, Melano CC facial cleanser, strawberry layer cake, tiramisu, Mayflower kitchen towels, Pringles, Starbucks coffee beans, and various other snacks and household goods. (3) Each shot highlights the product on a shelf or in a refrigerator, with price tags and discount information overlaid on the screen. (4) Hands are occasionally seen reaching for or pointing at the products, and shoppers are visible as blurred figures in the background aisles.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music starts immediately and continues throughout the video. (2) A male narrator speaks with an enthusiastic, promotional tone, rapidly announcing the name of each product and its discounted price in Mandarin. (3) Subtle sound effects like 'dings' or 'pops' occur periodically as new text overlays appear. (4) Faint ambient noise from the warehouse environment, including distant chatter, is audible beneath the music and narration.",
+      "text_narrative_log": "(1) Decorative text: '好市多 每週特價速報 06/02-06/08' and '記得追蹤我們' (Remember to follow us) appears in the intro. (2) Functional text for each item includes product names such as '新鮮藍莓奶酪', 'ORA2 ME 亮白香氣牙膏', and 'MELANO CC 酵素深層清潔洗面乳'. (3) Pricing info is consistently shown as '原價' (Original Price), the discount amount (e.g., '-50'), and '特價' (Special Price). (4) Status text like '售完為止' (While supplies last) appears for specific items."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 46,
+      "averageSceneDuration": 1.9,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Rapid-fire showcase of discounted products -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 0,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "Multiple hands visible reaching for items; blurred shoppers in the background of warehouse aisles.",
+      "mainCharacterDescription": "None"
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Supermarket"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Various sections of a Costco warehouse, including bakery shelves, refrigerated cases, and dry goods aisles with high racking.",
+      "lightingStyle": "Bright studio-like warehouse lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and saturated",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Panna Cotta",
+        "Strawberry Cake",
+        "Tiramisu",
+        "Trail Mix",
+        "Potato Chips",
+        "Coffee Beans",
+        "Kimchi",
+        "Noodles",
+        "Bread"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "ORA2",
+        "MELANO CC",
+        "PRINGLES",
+        "STARBUCKS",
+        "LOTTE",
+        "KIRIN",
+        "GLICO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and energetic",
+        "pitch": "Medium",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Store background chatter"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Information Items -> CTA",
+      "mainPurpose": "To promote specific weekly discounts at Costco Taiwan, providing a quick visual and auditory catalog to encourage foot traffic and sales during the specified period.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of products, brands, and discounted pricing within a retail environment.",
+      "endorsementObject": [
+        "Costco Wholesale Taiwan"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Synchronized rapid-fire product cuts with high-energy male narration and standardized price-tag graphics.",
+      "freeDescribe": "The video uses a high-density information format typical of viral short-form marketing (TikTok/Reels) to capture and maintain viewer attention through speed."
+    }
+  }
+}

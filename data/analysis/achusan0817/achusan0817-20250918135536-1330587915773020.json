@@ -1,0 +1,175 @@
+{
+  "videoName": "achusan0817-20250918135536-1330587915773020.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 46,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Animation",
+        "Humorous",
+        "Life Story"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Non-live action animation starts. A bald male character is seen holding a smartphone standing in front of various food stalls like a fried chicken shop and a salty chicken shop. (2) He repeatedly calls a black-haired male character, asking if he wants food, but the other person refuses. (3) A screen transition appears with text indicating a time jump of a few months. The bald character is now shown indoors and has become significantly obese. (4) The black-haired character enters the frame and looks shocked. The bald character looks at himself in a mirror with a surprised expression. (5) The two talk while standing in a living room, with the camera zooming into the senior's face as he makes subtle comments.",
+      "audio_narrative_log": "(1) Upbeat and quirky background music plays throughout. A high-pitched male voice (narrator/bald character) speaks energetically. (2) Dialogue occurs between the high-pitched male voice and a calmer, deeper male voice (the senior). (3) Sound effects like phone ringing, transition 'whooshes', and an exaggerated impact sound play when the senior realizes the character has gained weight. (4) The music remains consistent in tempo while the voices carry the comedic timing of the jokes.",
+      "text_narrative_log": "(1) Functional Text: '學長 我要去你那裡了喔' (Senior, I'm going to your place now) - Neutral tone. (2) Decorative Text: '阿啾小劇場' (Ah Chu's Little Theater) - Brand title. (3) Hook Text: '當朋友想說你胖但又不明說' (When a friend wants to say you're fat but doesn't say it clearly) - Humorous tone at bottom. (4) Decorative Text: '要檢討' (Need to reflect/examine) - Emphasizing the senior's final judgmental comment."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Fast-paced montage of buying food -> Time jump -> Dialogue about weight gain."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main animated male characters, no background crowds visible.",
+      "mainCharacterDescription": "One bald male character wearing a black shirt (Ah Chu) and one black-haired male character in a green t-shirt (Senior)."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Street stalls with signs like '大G排', '鹽水G', and a 'McDonald's' storefront. Later, a simple indoor living room with a TV and sofa.",
+      "lightingStyle": "Bright, even animated lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Fried Chicken",
+        "Fast Food"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "McDonald's"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and expressive",
+        "pitch": "Mix of high and medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Phone sound",
+        "Impact SFX"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Growth -> Climax/Punchline",
+      "mainPurpose": "To entertain the audience through a comedic animated skit about the unintended consequences of eating too much late-night food and the awkward social interactions that follow weight gain.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "McDonald's and other food stalls are used as narrative props rather than products being actively promoted.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Distinctive 'Ah Chu' character design and fast-talking comedic style.",
+      "freeDescribe": "The video relies heavily on cultural nuances regarding politeness and physical appearance in friendships."
+    }
+  }
+}

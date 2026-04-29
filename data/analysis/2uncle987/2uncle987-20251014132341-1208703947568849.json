@@ -1,0 +1,181 @@
+{
+  "videoName": "2uncle987-20251014132341-1208703947568849.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 80,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Charity",
+        "Lifestyle"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Keelung",
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins outdoors on a city sidewalk where three young women are standing. One is holding a large cardboard box labeled 'haha baby,' and another holds a white tote bag with the same branding. They are talking and gesturing. (2) The scene shifts to the entrance of the Boyo Social Welfare Foundation in Keelung. The women enter and are seen inside a classroom-style office. They interact with a male staff member who is holding a small child and a female staff member. (3) The women open the boxes and show the contents, which include various items of clothing and winter accessories like socks. The camera shows close-ups of children's drawings on the wall and maps of serviced areas. (4) Transition to the second location, the Taipei Christian Encouragement Center. The women are walking through a hallway carrying boxes. (5) Inside the second center, they show more donated items such as colorful socks and gloves. They also highlight small products like coffee drip bags featuring children's illustrations. (6) The video concludes with the women receiving a certificate of appreciation and taking a group photo with the staff.",
+      "audio_narrative_log": "(1) The audio begins with upbeat, fast-paced acoustic music and energetic female voices talking excitedly outdoors with background traffic noise. (2) As the setting moves indoors, the music continues but the volume of the dialogue increases. Multiple female voices are heard explaining their purpose for the visit. (3) A male voice and the sound of a child's babbling are heard at the first foundation. (4) The audio transitions to the second location with a continuation of the upbeat background music. Sounds of cardboard boxes being opened and tape being pulled are audible. (5) In the final phase, the dialogue focuses on explaining the significance of the children's artwork on the products, with a warm and appreciative tone throughout.",
+      "text_narrative_log": "(1) '今天要去哪' (Where are we going today?) - Functional introductory text. (2) '臺灣製' (Made in Taiwan) - Functional text emphasizing product origin. (3) '提供給基金會 分送給大家' (Providing to the foundation to distribute to everyone) - Functional text explaining the goal. (4) '基隆 · 博幼社會福利基金會' (Keelung · Boyo Social Welfare Foundation) - Location marker. (5) '致力於幫助偏鄉、低收、資源不足家庭' (Dedicated to helping remote areas, low-income, and under-resourced families) - Functional descriptive text. (6) '自立成長' (Self-reliant growth) - Large decorative hook text. (7) '台北 · 基督教勵友中心' (Taipei · Christian Encouragement Center) - Location marker. (8) '與咖啡結合' (Combined with coffee) - Functional text describing the product. (9) '作品商品化' (Productizing works) - Functional text explaining the initiative. (10) '感謝狀' (Certificate of Appreciation) - Functional text showing the document received."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 26,
+      "averageSceneDuration": 3.07,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Visit Foundation 1 -> Visit Center 2 -> Conclusion/Appreciation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 9,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 7,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "3 main female creators, 1 male staff member, 4 female staff members across two locations, and 1 child.",
+      "mainCharacterDescription": "Three young women; one in a pink hoodie and shorts, one in a grey hoodie and black skirt, and one in a white and pink color-blocked sweatshirt and cargo pants."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Office",
+          "Classroom"
+        ],
+        "topography": [
+          "Urban"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The video moves from a tree-lined city sidewalk to the interior of two different social welfare centers which feature desks, bookshelves, posters of children's drawings, and educational materials.",
+      "lightingStyle": "Natural daylight outdoors, standard fluorescent office lighting indoors.",
+      "weather": "Overcast",
+      "season": "Winter/Spring",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Follow shot",
+        "Static",
+        "Medium Shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Coffee"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Van"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "haha baby",
+        "NU+"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade and Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 8,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 7,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, energetic, and warm",
+        "pitch": "Moderate to high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Acoustic",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Acoustic Guitar",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Traffic",
+        "Indoor office ambient"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Action (Donation 1) -> Action (Donation 2) -> Resolution (Appreciation)",
+      "mainPurpose": "The video serves as a promotional vlog documenting a charitable donation effort by the brand 'haha baby'. It aims to showcase the brand's social responsibility by visiting two welfare organizations, donating goods (clothing and accessories), and highlighting the meaningful work these foundations do for underprivileged children.",
+      "visualEmotion": "Heartwarming and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creators are prominently carrying and showing products/packaging with the 'haha baby' brand logo throughout the charity visit.",
+      "endorsementObject": [
+        "haha baby"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High energy group interactions and direct address to the camera.",
+      "freeDescribe": "The video effectively blends influencer-style lifestyle content with corporate social responsibility (CSR) messaging, making the brand appear relatable and community-oriented."
+    }
+  }
+}

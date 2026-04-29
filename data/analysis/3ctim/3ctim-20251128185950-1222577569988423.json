@@ -1,0 +1,178 @@
+{
+  "videoName": "3ctim-20251128185950-1222577569988423.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 36,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Tech Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a flat cap holds a purple Google Pixel phone, speaking with a surprised expression. Behind him is a studio setting with soft lighting and acoustic foam panels. (2) Close-up shot of the phone screen showing file transfer interfaces. (3) Transitions to a screen recording of the Android settings menu, highlighting 'Google services' and then 'Quick Share Extension'. (4) The man reappears, holding the Pixel phone and an iPhone side-by-side. (5) Close-up of the iPhone control center, showing AirDrop settings being adjusted to 'Everyone'. (6) Both phones are placed side-by-side on a white surface; a photo is successfully transferred from the Pixel to the iPhone, showing a photo of a woman on both screens. (7) The man smiles and gives a thumbs-up.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced electronic background music starts. A male voice speaks excitedly in Mandarin, with a clear, energetic tone. (2) As the tutorial begins, the music volume remains consistent while the speaker's voice provides step-by-step instructions. (3) Subtle 'click' and 'ding' sound effects (SFX) punctuate menu selections and the successful file transfer. (4) Background remains quiet with minimal ambient noise, suggesting a studio recording environment. (5) The music reaches a slight crescendo at the end as the speaker concludes with an enthusiastic 'Gao ding!' (Done!).",
+      "text_narrative_log": "(1) 'Pixel 出大事了!' (Something big happened to Pixel!) - Hook text, excited tone. (2) '(目前僅Pixel 9系列支援) 可以跟iPhone互相傳檔案跟傳照片' (Currently only Pixel 9 series supported. Can exchange files and photos with iPhone) - Functional text/Hook. (3) '首先你要先到設定' (First, you need to go to settings) - Functional instruction. (4) '點選你的頭像' (Click your avatar), 'Google服務的所有服務裡面' (In all services of Google services), '選擇系統服務' (Select system services), 'Quick Share Extension' - Functional steps. (5) '更新' (Update), '重新開機' (Reboot) - Functional text. (6) 'AirDrop要開啟所有人' (AirDrop needs to be set to everyone) - Functional instruction. (7) '搞定!!' (Done!!) - Enthusiastic decorative text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro/Hook -> Step-by-step tutorial (Screen recording & Handheld) -> Final demonstration and success"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male main creator presenting and demonstrating",
+      "mainCharacterDescription": "Middle-aged man wearing glasses, a grey checkered flat cap, and a maroon/brown sweatshirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A studio with blue/grey acoustic foam panels, a wooden chair, and a small plant visible in the wider shots; white desk surface for phone demonstrations.",
+      "lightingStyle": "Bright studio lighting, soft shadows",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural, vibrant",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Smartwatch"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Google",
+        "Apple",
+        "Roots"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Click",
+        "Ding",
+        "Swoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Tutorial -> Evidence",
+      "mainPurpose": "To provide a quick tutorial and informative update regarding a new feature for Google Pixel 9 series phones, specifically demonstrating how to transfer files to iPhones using 'Quick Share' and 'AirDrop' interoperability. The video aims to solve a common pain point for multi-platform users.",
+      "visualEmotion": "Energetic and helpful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed demonstration of specific product features (Google Pixel 9 series) and social media handles (3ctim) displayed on screen.",
+      "endorsementObject": [
+        "Google Pixel",
+        "3c有意思tim哥"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Opening hook with dramatic visual effect lines; use of 'tim哥' persona; characteristic flat cap.",
+      "freeDescribe": "High production value for a short-form vertical video, utilizing dynamic text and clear audio to maximize engagement."
+    }
+  }
+}

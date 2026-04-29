@@ -1,0 +1,174 @@
+{
+  "videoName": "3ctim-20250218131707-1446065200228979.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 35,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Commentary",
+        "Tech News",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a middle-aged male host wearing a red shirt, glasses, and a plaid cap, gesturing with his hands while speaking to the camera in front of a gray curtain background. (2) The scene cuts to B-roll footage showing news reports and examples of women using beauty filters; the host remains visible in a small circular inset at the bottom right of the screen. (3) The visual shifts to show the host's phone screen where he demonstrates a filter application that distorts his face into a cartoonish or enhanced appearance. (4) The host returns to full-screen focus, continuing his address to the audience and concludes by pointing towards the viewer.",
+      "audio_narrative_log": "(1) A male voice speaks energetically in Mandarin throughout the video. An upbeat, medium-tempo electronic background music track starts immediately. (2) The vocal remains at a high volume relative to the music, maintaining a professional yet conversational tone. (3) No significant ambient noise or environmental sounds are heard, suggesting a quiet studio recording. (4) A subtle sound effect (SFX) occurs during transitions and text pop-ups, while the music stays consistent until the end.",
+      "text_narrative_log": "(1) Decorative/Hook Text: 'TikTok針對18歲以下的青少年祭出新規定!' - Informative and attention-grabbing. (2) Functional Text: '由於現在各種美顏濾鏡盛行' - Explanatory. (3) Functional Text: '對於自己的外表感到焦慮' - Reflective/Empathetic. (4) Functional Text: '禁止使用人工放大眼睛、豐唇、平滑的皮膚' - Factual and descriptive. (5) Decorative Text: '留言告訴我你的想法' - Engaging and encouraging."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 3.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Problem Context -> Policy Explanation -> In-app Demo -> Outro Call-to-action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male host, 3 females appearing in background B-roll news footage",
+      "mainCharacterDescription": "Middle-aged male wearing a plaid flat cap, glasses, a red long-sleeved shirt, and beaded bracelets on his wrist."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A simple indoor setting with vertical gray pleated curtains. B-roll segments show news broadcast clips and smartphone app interfaces.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Inset"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Dog"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "TikTok",
+        "Facebook",
+        "Instagram"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and professional",
+        "pitch": "Medium",
+        "loudness": "Clear and loud",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Pop-up sounds"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> Explanation -> CTA",
+      "mainPurpose": "The video aims to inform the audience about TikTok's new policy restricting the use of certain AI beauty filters for users under 18. By highlighting the psychological impact of filter-induced anxiety and demonstrating the changes, the host encourages viewers to engage in a discussion about social media regulation and its effects on youth.",
+      "visualEmotion": "Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video is a news commentary piece rather than a product promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host's signature flat cap and red shirt; consistent use of circular PiP (Picture-in-Picture) during B-roll.",
+      "freeDescribe": "The video leverages current tech trends and social issues (body dysmorphia/filter anxiety) to drive engagement on social media platforms."
+    }
+  }
+}

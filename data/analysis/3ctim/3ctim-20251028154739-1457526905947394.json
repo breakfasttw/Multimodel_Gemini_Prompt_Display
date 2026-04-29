@@ -1,0 +1,170 @@
+{
+  "videoName": "3ctim-20251028154739-1457526905947394.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 10.8,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Entertainment News"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Several security guards in black suits walk through a crowded venue with architectural structures and purple stage lighting. (2) A woman in a white tiered dress and matching beanie walks past, followed closely by a male celebrity in a long black coat and turtleneck who waves to fans. (3) The celebrity smiles and gestures toward the camera while a content creator is visible in a small picture-in-picture inset in the bottom left corner. (4) The celebrity turns and walks toward a glass exit door, followed by a crowd of staff and onlookers.",
+      "audio_narrative_log": "(1) The audio begins with loud ambient crowd chatter and a male voice shouting 'Hyung! Hyung!' (2) A professional female narrator begins speaking in Mandarin, providing live commentary on the celebrity's appearance and outfit. (3) The narration continues over the sound of footsteps and distant crowd voices until the clip ends.",
+      "text_narrative_log": "(1) None. No functional or decorative text overlays are present in the main video frame."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 10.8,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Live capture of a celebrity walking through an event hall with narrated commentary."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 12,
+      "maleDetectAmount": 8,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main celebrity (Lee Soo-hyuk), 1 creator in inset, at least 4 security guards, 1 woman in white, and several fans in the background.",
+      "mainCharacterDescription": "A male celebrity wearing a stylish long black coat over a black turtleneck; a male creator in the inset wearing a yellow shirt, brown hat, and glasses."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Event Hall"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern indoor space with large metal beam structures, a white backdrop wall, and intense purple/blue stage spotlights.",
+      "lightingStyle": "Colorful stage lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 10,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Professional and upbeat narrator; excited fans",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Korean"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "No Music",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd chatter",
+        "Footsteps"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Observation",
+      "mainPurpose": "To showcase a first-person perspective of a celebrity's arrival at an event, providing fans with a sense of proximity and exclusivity through live-recorded footage and descriptive narration.",
+      "visualEmotion": "Energetic and Glamorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Picture-in-picture reaction/presence inset of the content creator.",
+      "freeDescribe": "The video uses a 'reaction' or 'presence' window to authenticate that the creator was physically at the celebrity event, a common trope in influencer journalism."
+    }
+  }
+}

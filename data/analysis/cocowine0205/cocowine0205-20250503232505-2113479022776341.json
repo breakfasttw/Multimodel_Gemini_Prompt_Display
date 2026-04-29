@@ -1,0 +1,181 @@
+{
+  "videoName": "cocowine0205-20250503232505-2113479022776341.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 67,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Food Review",
+        "Vlog",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a white fuzzy cardigan, stands in a brightly lit Costco warehouse. She holds a transparent plastic container filled with a pasta salad and speaks to the camera. (2) The camera provides a close-up of the salad, highlighting the prosciutto, mozzarella balls, leafy greens, and rotini pasta. (3) The setting changes to an indoor apartment dining area. The woman is joined by a friend wearing a zebra-print bucket hat. They are both eating the salad and gesturing while discussing its flavor and texture.",
+      "audio_narrative_log": "(1) A female voice speaks excitedly in Mandarin against a backdrop of upbeat, rhythmic electronic background music. Faint ambient noise of a busy warehouse is audible. (2) The music continues at a steady volume as the speaker provides a detailed description of the food items. (3) The soundscape shifts to two female voices in a conversational dialogue. Occasional chime-like sound effects (SFX) occur simultaneously with the appearance of text overlays.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo. Decorative Text: '最新299元' (New 299 NTD) and '生火腿義麵沙拉' (Prosciutto Pasta Salad) appearing in bold, colorful fonts with a promotional tone. (2) Effect Text: '上面有好多火腿' (Lots of ham on top) and '莫札瑞拉起司' (Mozzarella Cheese), conveying excitement. (3) Functional Text: '葡萄油醋汁調的超級好' (Grapeseed oil vinegar dressing is made very well) and '感覺很營養' (Feels very nutritious), serving as a review summary."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at retail location -> Ingredient close-up -> Home tasting and final verdict"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, 1 male shopper in background, 1 female shopper in background",
+      "mainCharacterDescription": "One woman with long dark hair in a white fluffy coat; another woman with a black-and-white zebra-patterned bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse",
+          "Dining Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A typical Costco interior with industrial shelving and other shoppers, followed by a clean, modern home interior with a dining table.",
+      "lightingStyle": "Bright indoor artificial lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Salad",
+        "Ham",
+        "Pasta",
+        "Mozzarella",
+        "Tomato",
+        "Dressing"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "KIRKLAND"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and informative",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Notification Dings"
+      ],
+      "ambientNoise": [
+        "Warehouse ambient chatter"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Context -> Inspection -> Evaluation -> Conclusion",
+      "mainPurpose": "To provide a comprehensive review of a new food product from Costco. The video aims to inform the audience about the item's price, contents, and taste through a combination of on-site discovery and at-home consumption, helping viewers decide whether to purchase it.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The tone is balanced and includes minor criticisms about the ratio of ingredients (too much pasta), suggesting an independent review rather than a paid endorsement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density text overlays with vibrant colors and variety-show style sound effects.",
+      "freeDescribe": "The video follows the 'shopping haul/review' trend popular among Taiwanese food influencers, focusing on high-value warehouse club items."
+    }
+  }
+}

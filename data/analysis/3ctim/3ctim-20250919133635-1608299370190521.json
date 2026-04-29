@@ -1,0 +1,182 @@
+{
+  "videoName": "3ctim-20250919133635-1608299370190521.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 36,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Unboxing",
+        "Tech Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Host Tim, a middle-aged male wearing a grey t-shirt and a blue patterned flat cap, holds an iPhone box. (2) The scene cuts to a close-up of a sage green iPhone 17 placed on a tree branch outdoors. (3) Back to the studio, Tim takes the phone out and points at the dual-lens camera system. (4) Close-up shots of the screen demonstrating 120Hz scrolling and the Always-On Display. (5) Tim holds an A19 chip graphic overlay next to the phone. (6) A series of sample photos are shown: a figurine on a Starbucks cup, the Taipei 101 building at different zoom levels, a daylight selfie of Tim, and a nighttime selfie of a smiling woman. (7) Tim shows a matching green silicone case and a green MagSafe leather wallet. (8) Tim poses with the fully accessorized phone, smiling at the camera.",
+      "audio_narrative_log": "(1) Upbeat, energetic electronic pop music starts. A male voice speaks enthusiastically in Mandarin Chinese throughout. (2) Camera shutter sound effects (SFX) play during the rapid transition of sample photos. (3) Ambient studio quietness is masked by the continuous background music. (4) A final high-pitched 'ding' sound effect marks the end of the video.",
+      "text_narrative_log": "(1) '我們來開箱' (Functional: Let's unbox). (2) 'iPhone 17 鼠尾草綠' (Decorative/Hook: Product name and color). (3) '雙鏡頭 4800萬畫素', '120Hz動態螢幕更新率', 'AOD Always-On Display', 'A19處理器' (Functional: Technical specifications). (4) 'iPhone 17 1X/2X/超廣角' (Functional: Camera mode labels). (5) '超清晰!!' (Decorative/Hook: Emphasizing photo quality). (6) '最搭顏色的殼', '太好看力啦!' (Decorative/Hook: Enthusiastic praise for accessories)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Product Reveal -> Spec Walkthrough -> Photo Samples -> Accessories -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Hands only",
+        "Full face"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male host (Tim), 1 female appearing in a sample selfie photo.",
+      "mainCharacterDescription": "Middle-aged male with glasses, wearing a blue patterned flat cap and a grey 'Roots' branded t-shirt. He wears a wooden bead bracelet on his right wrist and a yellow-strapped watch on his left."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Outdoor Garden",
+          "Urban Street"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The primary background is a plain white wall in a studio. Secondary backgrounds include a tree branch with green leaves and the urban cityscape of Taipei showing Taipei 101.",
+      "lightingStyle": "Bright studio lighting mixed with natural outdoor sunlight.",
+      "weather": "Sunny",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Vibrant",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Camera lens"
+      ],
+      "landmark": [
+        "Taipei 101"
+      ],
+      "brandLogos": [
+        "Apple",
+        "Starbucks",
+        "Roots",
+        "Cartier"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and Humorous",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Camera Shutter",
+        "Notification chime"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature Presentation -> Evidence -> CTA",
+      "mainPurpose": "The video serves as a promotional unboxing and feature highlight for the iPhone 17 in Sage Green. It aims to persuade viewers of the device's aesthetic appeal and technical capabilities (camera, screen, chip) by combining a hands-on demonstration with real-world sample photos and matching accessories.",
+      "visualEmotion": "Energetic and Positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed unboxing, focus on specific technical specs, and presentation of the full accessory ecosystem.",
+      "endorsementObject": [
+        "Apple"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host uses a signature blue hat and energetic '3C' unboxing style common in Taiwanese tech media.",
+      "freeDescribe": "The video effectively uses visual cues (the green color) across multiple settings (nature and studio) to reinforce the product's theme."
+    }
+  }
+}

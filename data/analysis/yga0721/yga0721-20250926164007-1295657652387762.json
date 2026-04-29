@@ -1,0 +1,168 @@
+{
+  "videoName": "yga0721-20250926164007-1295657652387762.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 55,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Vlog",
+        "Family",
+        "Music"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video features a split-screen display showing two young boys sitting in the backseat of a car, both wearing glasses and strapped into child safety seats. (2) They are holding papers and singing enthusiastically toward the camera, with expressive facial expressions and occasional head movements. (3) Throughout the video, various circular profile icons of different people appear as stickers next to the text overlays, corresponding to the family members mentioned in their song. (4) The boys eventually break into loud laughter, looking at each other at the end of the performance.",
+      "audio_narrative_log": "(1) Two child male voices begin singing a rhythmic, a cappella song in Mandarin with a cheerful and energetic tone. (2) No background music is present; the audio consists entirely of the children's vocals and occasional muffled movements within the car cabin. (3) As the song progresses, the children's voices sync up, punctuated by moments of giggling and high-pitched excitement. (4) The audio ends with both children laughing loudly and boisterously.",
+      "text_narrative_log": "(1) Hook Text: '首次公開！' (First public reveal!) appears in a red box at the top. (2) Decorative Text: '蔡氏小兄弟。出道自創曲？' (Tsai brothers. Debut original song?) is fixed at the bottom center. (3) Functional Text: Dynamic lyrics appear in the middle, such as '貴波自創曲' (Guibo's original song), 'and 阿波愛吹喇叭' (and Abo loves blowing the trumpet), 'and 阿嬤愛滑手機' (and Grandma loves scrolling on her phone), 'and 阿公愛唱歌' (and Grandpa loves singing), describing family members with a humorous and affectionate tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 55.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "The video maintains a single continuous shot of the children singing their original song from start to finish."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Upper body",
+        "Hands"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main child creators sitting in the backseat.",
+      "mainCharacterDescription": "Two young boys wearing glasses; one in a white t-shirt and one in a black t-shirt, both in car safety seats."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Car"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The interior of a modern car with brown leather seats and seatbelts visible; daylight shines through the windows.",
+      "lightingStyle": "Natural light from car windows",
+      "weather": "Sunny",
+      "season": "Unknown",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 2
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Normal to Loud",
+        "speed": "Normal",
+        "speechDensity": "Continuous singing",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "Live"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Performance -> Interaction -> Conclusion",
+      "mainPurpose": "To showcase a cute and funny original song created by two young brothers, highlighting their personality and family life for entertainment and social media engagement.",
+      "visualEmotion": "Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Tsai family children (Guibo and Abo) signature content style.",
+      "freeDescribe": "The video uses a mirrored or stacked split-screen layout which is common in short-form mobile video formats to fill space or emphasize the subject."
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "videoName": "yga0721-20250911190449-26406887015602079.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 49,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Family"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A lemur eats a carrot chunk in an enclosure. (2) A man wearing a striped cap and cream shirt imitates the lemur's fast chewing and wide-eyed expression. (3) A giraffe is fed a carrot by a hand over a fence. (4) The man imitates the giraffe's tongue movement while being fed lettuce by another hand. (5) A capybara in a small pool shakes its head rapidly while eating. (6) The man, sitting in a restaurant, is fed a carrot by a young boy and imitates the capybara's rapid head-shaking and chewing. (7) An extended scene shows the young boy at a restaurant table continuously feeding the man edamame and other vegetables; the man sticks out his tongue and mimics animalistic eating behaviors while the boy laughs.",
+      "audio_narrative_log": "(1) Upbeat, fast-tempo electronic music starts with a repetitive vocal hook that sounds like \"num num num num\" synced to the eating motions. (2) The music continues at a steady volume while the man makes faint exaggerated munching sounds. (3) Ambient restaurant noise becomes audible, including the clinking of dishes and the high-pitched laughter of a child. (4) The man speaks briefly in a playful, joking tone toward the child as the music fades slightly in the background.",
+      "text_narrative_log": "(1) Hook/Decorative: \"POV: 這輩子當人真可惜\" (POV: What a pity to be human in this life) appearing at the top in white text on a black background, conveying a humorous and self-deprecating tone. (2) Functional: \"這小子服務不錯\" (This kid's service is not bad) appears at the bottom with a laughing emoji, indicating the man's satisfaction with his son's feeding actions."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 4.45,
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video follows a Comparison -> Demonstration flow, contrasting animal eating habits with a man's humorous imitations."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 1 young boy as a main character, and 1 female hand visible feeding the creator.",
+      "mainCharacterDescription": "An adult male with dyed hair wearing a black and grey striped flat cap and a cream-colored shirt. A young boy wearing a red, green, and white striped polo shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Zoo",
+          "Indoor Restaurant"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Outdoor zoo enclosures with wire fences, wooden structures, and water features. An indoor Japanese-style casual restaurant with wooden tables, food plates, and order tablets.",
+      "lightingStyle": "Natural daylight for outdoor scenes; warm, overhead artificial lighting for the restaurant scenes.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and High Saturation",
+      "cameraWork": [
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Lemur",
+        "Giraffe",
+        "Capybara"
+      ],
+      "foodsDetect": [
+        "Carrot",
+        "Lettuce",
+        "Edamame",
+        "Salad",
+        "Curry"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Tablet"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Playful and humorous",
+        "pitch": "Mid-range and high-pitched (child)",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Comedy",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Meme sounds"
+      ],
+      "ambientNoise": [
+        "Cafe"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Comparison -> Interaction",
+      "mainPurpose": "The video aims to entertain and showcase a humorous family dynamic. It uses a structured comparison montage where the creator first imitates various zoo animals eating, then applies this 'animal behavior' to a real-life situation where his young son feeds him at a restaurant, creating a comical and heartwarming father-son interaction.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No specific brand promotion or direct call-to-action regarding the food or location is present.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The creator (Cai A-ga) uses his signature comedic facial expressions and involves his children in common social media trend formats.",
+      "freeDescribe": "The video leverages a trending 'animal eating' sound bite and format to create relatable family content with a high engagement potential due to the cute and funny interaction."
+    }
+  }
+}

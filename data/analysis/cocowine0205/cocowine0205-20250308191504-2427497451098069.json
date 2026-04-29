@@ -1,0 +1,175 @@
+{
+  "videoName": "cocowine0205-20250308191504-2427497451098069.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 40,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping Recommendation"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young female creator wearing a blue beret and white vest stands in a warehouse-style supermarket, holding a purple Ora2 toothpaste variety pack and speaking excitedly to the camera. (2) She points to the box's flavor illustrations as the camera zooms slightly. (3) An off-screen male's hand enters the frame to point at a specific part of the product packaging while the woman continues her explanation. (4) She gives a thumbs-up gesture and points at the price tag visible on the shelf behind her, concluding with a celebratory expression.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic pop music begins immediately as a female voice speaks in an energetic, high-pitched tone. (2) The female voice continues her rapid explanation until a deeper male voice interjects with a brief question off-camera. (3) The female voice responds immediately, maintaining the energetic pace. (4) The background music remains constant throughout, fading out only at the very end as the speech concludes with a recommendation phrase.",
+      "text_narrative_log": "(1) '現在好事多有' (Functional: Currently available at Costco). (2) '跟日本一樣便宜' (Hook: As cheap as in Japan). (3) 'Ora2' (Functional: Brand name). (4) '五條 399 元' (Functional: Price information, 5 pieces for 399 NTD). (5) '超划算!' (Effect: Super value!). (6) '推推' (Effect: Recommended)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.3,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Product Feature Breakdown -> Price Comparison -> Final Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main female creator; 1 male hand/arm pointing at the product box",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a navy blue 'Kangol' brand beret and a light-colored puffer vest over a blue shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "Large industrial shelving units stacked with consumer goods, specifically personal hygiene products like Sensodyne toothpaste.",
+      "lightingStyle": "Bright industrial warehouse lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Ora2",
+        "Sensodyne",
+        "Kangol"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese (Mandarin)"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Synth Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Price/Location Context -> Detailed Product Content -> Final Endorsement",
+      "mainPurpose": "The video serves as a consumer guide and product endorsement for a specific Ora2 toothpaste variety pack sold at Costco. By comparing the local warehouse price to prices in Japan, the creator establishes a value proposition to encourage viewers to purchase the item immediately while it is in stock.",
+      "visualEmotion": "Energetic and helpful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct recommendation of the product, detailed price analysis, and thumbs-up visual cues.",
+      "endorsementObject": [
+        "Ora2"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-show style text overlays and rapid price comparison logic common in Asian shopping vlogs.",
+      "freeDescribe": "The video utilizes a 'discovery' narrative where the influencer finds a bargain in a well-known retail chain, leveraging the 'Costco find' trend."
+    }
+  }
+}

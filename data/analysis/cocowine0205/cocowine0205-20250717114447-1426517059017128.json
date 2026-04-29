@@ -1,0 +1,178 @@
+{
+  "videoName": "cocowine0205-20250717114447-1426517059017128.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 36.4,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Recommendation"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts at a Costco warehouse; a young woman with long dark hair, wearing a black and white off-the-shoulder top, holds two tubs of maple pecan cream cheese while smiling and speaking to the camera. (2) The scene transitions to a brightly lit indoor home setting where two women sit at a table; the first woman from the previous scene is joined by another woman wearing a white lace top and a dark blue beret. (3) They hold the cream cheese tub, gesturing with their hands to emphasize points about the ingredients and price, showing close-ups of the container. (4) Towards the end, they both give a thumbs-up gesture and smile warmly toward the camera as decorative text bubbles appear.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat instrumental background music starts immediately. A female voice speaks with a high-pitched, energetic tone, introducing the product in a retail environment with muffled background chatter. (2) As the scene shifts to an indoor setting, the same upbeat music continues at a steady volume. Two female voices are heard; one leads the narration with an enthusiastic and informative tone, while the second voice provides supportive reactions and comments. (3) Sound effects (SFX) such as 'dings' or 'pops' coincide with the appearance of text overlays. (4) The audio remains clear and professionally recorded, with no significant ambient noise in the second half, ending with a final upbeat musical flourish.",
+      "text_narrative_log": "(1) Decorative Text: 'COSTCO WHOLESALE' logo appears at the top. (2) Hook Text: '如何保存更久' (How to preserve it longer) and '楓糖核桃乳酪醬' (Maple Pecan Cream Cheese) in stylized fonts. (3) Functional Text: Subtitles translating the spoken Mandarin Chinese throughout the video. (4) Descriptive Text: '大罐 239 元' (Large tub 239 NTD) appears in a red and yellow box. (5) Decorative Text: '經典不敗' (Classic and unbeatable) appears at the end in a speech bubble."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 4.55,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at retail store -> Detailed product review and storage hack at home -> Closing recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Waist up",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, at least 3 shoppers visible in the background at Costco.",
+      "mainCharacterDescription": "Two young women; one with long dark hair in a black/white top, the other in a white top and a blue beret."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse Store",
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene is a Costco warehouse with shelves and shoppers. Second scene is a clean, modern home interior with a table and blurred background objects.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and Vibrant",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Cream Cheese",
+        "Bread",
+        "Bagel"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Store background noise"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature Highlight -> Practical Tip -> Summary",
+      "mainPurpose": "The video aims to promote a specific Costco food product (Maple Pecan Cream Cheese) by highlighting its taste, value, and providing a practical storage tip (freezing it with bagels) to extend its shelf life. It combines a shopping vlog style with a studio-based review to build credibility and engagement.",
+      "visualEmotion": "Energetic and positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed pricing, brand logo display, and enthusiastic recommendation of the specific product.",
+      "endorsementObject": [
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of vibrant variety-show style captions and a combination of 'field' and 'studio' footage.",
+      "freeDescribe": "The video follows a popular social media format in Taiwan where influencers share 'must-buy' lists from big-box retailers like Costco."
+    }
+  }
+}

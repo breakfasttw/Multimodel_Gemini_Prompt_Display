@@ -1,0 +1,177 @@
+{
+  "videoName": "yga0721-20250919221230-1575256410196989.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 84,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Skit",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a person wearing a pink wig and a white veil over their head, shouting enthusiastically into a white and red megaphone in a studio setting. (2) Candidate 1, a male in a blue campaign vest, appears with an exaggeratedly angry and energetic expression, surrounded by a group of people cheering and gesturing behind him. (3) The scene shifts to Candidate 2, a female in a pink campaign vest, also shouting into a megaphone with her own team supporting her. (4) The candidates engage in a heated comedic face-off, with the camera using fast cuts to capture their exaggerated facial expressions, finger-pointing, and a moment where Candidate 1's face is playfully pushed by Candidate 2. (5) A third male character wearing sunglasses and a blue vest joins the scene, gesturing towards the camera. (6) The video concludes with Candidate 2 making a final passionate pitch into the megaphone, followed by the host in the pink wig calling for audience interaction.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic music with a fast tempo starts immediately. A high-pitched male voice is heard shouting through a megaphone distortion effect. (2) Loud, rhythmic shouting and chanting from a crowd of mixed male and female voices are heard in the background. (3) The dialogue consists of rapid-fire Mandarin speech, characterized by a playful, aggressive, and exaggerated tone. (4) Occasional sound effects, including cartoonish 'boing' sounds and audience cheers, are layered over the music. (5) The music continues at a consistent high intensity until the end of the video, where a final loud shout and a crowd roar conclude the audio track.",
+      "text_narrative_log": "(1) Functional Mandarin subtitles appear at the bottom of the screen to translate the rapid dialogue. (2) Decorative large yellow and white text blocks introduce candidates: '① 蔡緯嘉' (Candidate 1) and '② 李佩潔' (Candidate 2). (3) Hook text and variety-show style captions like '不是我還有誰!!' (Who else but me!!), '笑死!!' (Hilarious!!), and '被騙了3000萬' (Scammed 30 million) appear with colorful outlines to emphasize specific jokes and plot points."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Candidate 1 Intro -> Candidate 2 Intro -> Comedic Debate -> Final Pitch -> CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 12,
+      "maleDetectAmount": 5,
+      "femaleDetectAmount": 7,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 host in pink wig, 1 main male creator (Cai A-ga), 1 main female staff (Li Pei-jie), and approximately 9 background staff members acting as supporters.",
+      "mainCharacterDescription": "The main male character wears a blue vest over a white t-shirt with short brown hair; the main female character wears a pink vest over a black top with hair clips; the host wears a pink wig and a bridal-style veil."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A brightly lit indoor studio with white walls, featuring various posters, a green 'ha-ha baby' logo on the wall, and shelves filled with colorful stuffed bears.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Mandarin"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Beef noodles"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Megaphone",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "ha-ha baby"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut sync with visuals",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 8,
+        "vocal_demographics": {
+          "male_vocal_count": 5,
+          "female_vocal_count": 7,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Very loud (shouting)",
+        "speed": "Extremely fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Meme sounds",
+        "Crowd cheering",
+        "Megaphone distortion"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Competitive Presentation -> Conflict -> Conclusion",
+      "mainPurpose": "The video is a comedic promotional skit for a social welfare association's internal election. It uses a parody of political campaign styles—including vests, megaphones, and aggressive debating—to entertain the audience while simultaneously promoting the brand 'ha-ha baby' and encouraging viewers to comment and participate in the 'vote'.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "Consistent presence of 'ha-ha baby' logos on the background and clothing, and verbal mentions of the brand's products.",
+      "endorsementObject": [
+        "ha-ha baby"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Cai A-ga's signature loud, fast-paced, and manic comedy style involving his actual staff members.",
+      "freeDescribe": "The video leverages high-intensity editing and 'variety show' aesthetics to maintain viewer retention in a short-form format."
+    }
+  }
+}

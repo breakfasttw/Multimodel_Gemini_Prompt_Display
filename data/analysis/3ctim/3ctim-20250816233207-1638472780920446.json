@@ -1,0 +1,170 @@
+{
+  "videoName": "3ctim-20250816233207-1638472780920446.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 37,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Educational",
+        "Tech Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing a flat cap and glasses speaks directly to the camera in a studio setting. A chat bubble graphic with the 'Read' indicator is shown below him. (2) He gestures with his hands while explaining, and the scene transitions to include an image of a massive wave (tsunami) within a circular frame, accompanied by text about the 311 earthquake. (3) He continues talking as screenshots of the LINE application's 'Safety Status' and 'Location Info' features are overlaid on the screen.",
+      "audio_narrative_log": "(1) A male voice speaks in Mandarin with a clear, professional, and slightly energetic tone. Upbeat, mid-tempo acoustic-style background music plays continuously. (2) Subtle 'ding' and 'whoosh' sound effects are heard during text transitions and when new graphics appear. (3) The music maintains a steady rhythm as the speaker concludes his explanation, with no significant change in the ambient studio environment.",
+      "text_narrative_log": "(1) Functional Text: 'LINE的已讀功能' (LINE's Read feature) and '社交壓力' (Social pressure). (2) Hook Text: '怎麼說呢？' (How to say?) and '救命' (Save life). (3) Decorative Text: '日本發生311地震時' (When the 311 earthquake happened in Japan) and '安全通報功能' (Safety reporting feature) used to emphasize historical context and app features."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.08,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro to common misconception -> Historical origin story -> Modern feature update"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator presenting to the camera.",
+      "mainCharacterDescription": "Middle-aged male with glasses, wearing a dark grey flat cap and a white graphic t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A blurred, neutral indoor background with warm lighting, typical of a professional video studio.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone interface"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "LINE",
+        "3c有意思tim哥"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Steady and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Whoosh",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Historical Evidence -> Modern Application",
+      "mainPurpose": "The video aims to educate users on the humanitarian origins of LINE's 'Read' (已讀) feature, explaining it was originally designed as a safety indicator during the 2011 Japan earthquake. It seeks to reduce the social pressure associated with the feature by highlighting its utility in emergencies and introducing newer safety reporting tools within the app.",
+      "visualEmotion": "Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "Educational content focused on app features rather than a direct paid promotion.",
+      "endorsementObject": [
+        "LINE"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host's signature flat cap and the '3c有意思tim哥' brand watermark.",
+      "freeDescribe": "The video effectively uses historical context to change the perception of a daily-use digital feature, likely targeting social media users in Taiwan."
+    }
+  }
+}

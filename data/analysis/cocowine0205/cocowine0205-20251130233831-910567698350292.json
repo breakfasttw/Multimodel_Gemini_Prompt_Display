@@ -1,0 +1,177 @@
+{
+  "videoName": "cocowine0205-20251130233831-910567698350292.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 61,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts in a Costco warehouse aisle where a woman wearing a white bucket hat and a white long-sleeved top stands in front of stacks of Sofy brand feminine hygiene products. She gestures enthusiastically towards the camera. (2) She points specifically at boxes of Sofy overnight pants, holding her fingers up to indicate numbers. (3) The camera pans slightly to show stacks of tampons; she picks up a box of 'Organic 100%' tampons to show the packaging close to the lens. (4) She continues to gesture between two different types of tampon boxes (Regular and Super) to highlight the deals. (5) The video ends with her smiling and holding the products, encouraging the viewers.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo background music starts immediately. A cheerful young female voice begins speaking about stocking up on Sofy products at Costco. (2) As she discusses the overnight pants, a male voice is heard off-camera providing a price comparison with convenience stores. (3) The female speaker continues, explaining the specific discounts for tampons (e.g., 200 TWD off). (4) The off-camera male voice chimes in again near the end, commenting on the Japanese packaging. (5) The audio remains clear with minimal ambient warehouse noise, suggesting the use of a close-range microphone.",
+      "text_narrative_log": "(1) 'COSTCO WHOLESALE 大家搶著買' (Everyone is rushing to buy) - Hook text in red and blue. (2) '黑五好康' (Black Friday deals) - Decorative text in black. (3) '蘇菲 超低價可囤貨' (Sofy, super low price, can stock up) - Effect text in white/blue. (4) Various price points like '15元/片' (15 TWD/piece) and '折200元' (200 TWD off) appear throughout as functional text explaining the deal. (5) Emoji of a sparkling heart appears when she mentions the organic tampons."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 5.5,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Hook -> Product Review 1 (Overnight Pants) -> Product Review 2 (Tampons) -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator onscreen; 1 male voice heard offscreen but not visible.",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a white bucket hat with a NY logo, a white long-sleeved shirt, blue jeans, and a brown crossbody bag."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Costco",
+          "Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "High-shelved warehouse aisles filled with bulk packages of feminine hygiene products (Sofy brand). Promotional Black Friday price tags are visible on the shelves.",
+      "lightingStyle": "Intense studio-like warehouse lighting",
+      "weather": "Indoor",
+      "season": "Winter (indicated by 'Black Friday' context)",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Sofy",
+        "Unicharm",
+        "NY (New York Yankees)"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, friendly, and persuasive",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature 1 -> Feature 2 -> Call to Action",
+      "mainPurpose": "The video aims to promote specific Black Friday discounts on Sofy feminine hygiene products at Costco Taiwan. It uses a price-comparison strategy (comparing Costco bulk prices to individual convenience store prices) to demonstrate value and encourage viewers to 'stock up' immediately.",
+      "visualEmotion": "Energetic and helpful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct mention of brand names, showing products clearly to the camera, and highlighting specific promotional prices/discounts.",
+      "endorsementObject": [
+        "Sofy (蘇菲)",
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density Traditional Chinese text overlays with price 'math' shown visually.",
+      "freeDescribe": "The video mimics the style of 'Costco find' or 'deals hunter' content common on social media platforms like Instagram/TikTok/Douyin, where creators share specific bargain finds to drive engagement."
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "videoName": "3ctim-20250414051331-1300440308596852.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 20,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Unboxing",
+        "Shorts"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A hand is shown holding a black iPhone 16e inside its white retail box against a light brown wooden floor background. (2) The phone is tilted slightly to reveal the matte black finish and the single camera lens at the top. (3) The camera focuses on the Apple logo in the center of the phone. (4) The video cuts to a white iPhone 16e being held in the same manner, showcasing its glossy or matte white back. (5) The hand rotates the white phone to catch the light, emphasizing its sleek design and camera module.",
+      "audio_narrative_log": "(1) A male voice speaks in Chinese with an energetic and friendly tone, introducing the iPhone 16e. Upbeat, rhythmic background music starts immediately. (2) As the video transitions between the black and white models, the narrator describes the matte texture and asks the viewers which color they prefer. (3) The music maintains a constant, positive tempo throughout, with no significant ambient noise detected beyond the studio-quality vocal recording.",
+      "text_narrative_log": "(1) Functional Text: 'iPhone 16e的黑色' (Black iPhone 16e) appears as a caption. (2) Decorative/Hook Text: 'iPhone 16e黑色 & 白色' (iPhone 16e Black & White) is displayed in a stylized font with colorful accents at the bottom of the frame. (3) Functional Text: '3c有意思tim哥' and social media handles are present in the top left corner as branding."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 10.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro (Black model) -> Transition -> Demo (White model) -> Inquiry to Audience"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male hand visible throughout the video holding the devices.",
+      "mainCharacterDescription": "The main character is only represented by their hands; the person is speaking off-camera."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Office/Home"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A consistent light-colored wooden floor with visible wood grain patterns.",
+      "lightingStyle": "Bright, even indoor lighting, likely studio lights or bright natural light.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and clean",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Smooth cross-fade of voice-over",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Electronic",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Feature A (Black) -> Feature B (White) -> Comparison/CTA",
+      "mainPurpose": "The video serves as a brief product showcase and aesthetic review of the iPhone 16e. It aims to generate engagement by presenting the two main color options (Black and White) in a clean, minimalist setting and inviting the audience to comment on their preference. The narrative is driven by visual comparison supported by enthusiastic tech commentary.",
+      "visualEmotion": "Calm and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed product close-ups and narrator branding typical of consumer electronics reviewers.",
+      "endorsementObject": [
+        "Apple iPhone 16e"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Consistent branding '3c有意思tim哥' and the use of the wooden floor as a standard review backdrop.",
+      "freeDescribe": "The video targets tech-savvy viewers interested in the latest Apple hardware releases, focusing on aesthetics rather than deep technical specs."
+    }
+  }
+}

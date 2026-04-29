@@ -1,0 +1,177 @@
+{
+  "videoName": "1105ya-20250209040510-938429325310910.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 18.0,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Event"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins at night in a crowded outdoor area with Taipei 101 in the background. A young woman in a grey hoodie faces the camera, smiling and gesturing with a peace sign while the building's LED displays show a countdown. (2) As the countdown ends, bright fireworks begin to explode from the various levels of the Taipei 101 tower, lighting up the sky with red and white bursts. The camera pans and tilts to capture the scale of the tower and the crowd holding up phones. (3) A shot features three young women smiling and cheering toward the camera with the tower in the background. (4) The final sequences focus entirely on the skyscraper, showing elaborate multi-colored fireworks (pink, green, white) erupting amidst thick smoke, with the camera zoomed in to capture the architectural details of the bursts.",
+      "audio_narrative_log": "(1) The audio begins with a loud, synchronized countdown from a massive crowd in Chinese, ending with a collective roar. (2) Intense, booming sound effects of fireworks exploding dominate the soundscape, accompanied by the high-pitched cheers and 'wooh' sounds from nearby people. (3) Three female voices are heard shouting 'Happy New Year!' in English with an excited, high-pitched tone. (4) The soundscape concludes with continuous, crackling firework explosions and a rushing wind-like noise, with faint background chatter still audible.",
+      "text_narrative_log": "(1) Functional Text: 'Better Together' and 'TAIWAN' appear on the building's LED screen, conveying a celebratory and national message. (2) Decorative Text: Yellow and red food stall signs like '熱狗' (Hot Dog) and '炸雞' (Fried Chicken) are visible, providing a festive night-market atmosphere. (3) Functional Text: A digital countdown on the building's facade shows the transition to the new year."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Countdown -> Crowd Cheering -> Firework Montage"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 20,
+      "maleDetectAmount": 8,
+      "femaleDetectAmount": 12,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "3 main young women in foreground; dozens of visible hands and heads in the crowd holding smartphones.",
+      "mainCharacterDescription": "Three young women; one in a grey 'SUPER' hoodie, one in a blue beanie and grey jacket, and one in a white knit sweater with a head accessory."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Plaza"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The background is dominated by the Taipei 101 skyscraper at night, surrounded by smaller food stalls with bright, colorful signage and a large, dense crowd of spectators.",
+      "lightingStyle": "Nighttime with intense artificial lights from signs, LED building displays, and fireworks.",
+      "weather": "Clear",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Handheld",
+        "Tilting",
+        "Panning"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Hot Dog",
+        "Fried Chicken"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Taipei 101"
+      ],
+      "brandLogos": [
+        "TAIWAN",
+        "Better Together"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 10,
+        "backgroundCrowdVoices": 50,
+        "vocal_demographics": {
+          "male_vocal_count": 5,
+          "female_vocal_count": 10,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Chinese",
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Firework explosions"
+      ],
+      "ambientNoise": [
+        "Crowd chatter",
+        "Wind"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Event -> Greeting",
+      "mainPurpose": "The video's core objective is to document and share the immersive experience of attending the New Year's Eve celebration at Taipei 101. It uses the suspense of the crowd's countdown to build anticipation, followed by the spectacle of the fireworks to provide a visual and auditory climax. The inclusion of the creators' smiling faces and 'Happy New Year' greetings personalizes the event, aiming to share joy and a sense of shared cultural experience with the audience.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video appears to be a personal vlog of a public event with no specific product placement; the branding on the building is part of the city's event promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy group greeting to the camera; handheld POV vlogging style.",
+      "freeDescribe": "The video effectively captures the scale of the Taipei 101 fireworks, which is a major landmark event in Taiwan, making it highly relevant for travel and cultural clustering."
+    }
+  }
+}

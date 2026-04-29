@@ -1,0 +1,175 @@
+{
+  "videoName": "yga0721-20250530021917-4281006648837448.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 59,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Gaming",
+        "Entertainment"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts in a brightly lit indoor arcade. A man in a black shirt with white patterns (Cai Ah-ga) speaks directly to the camera while another man in a green jacket (Cai Zong-han) sits at a game machine. (2) The camera zooms in on the game machine's screen, which features colorful graphics and token counts. A hand points to specific numbers on the glass panel. (3) The man in the green jacket presses a large yellow button repeatedly. The man in the black shirt watches closely with expressions of tension and fear. (4) The scene transitions to both men jumping, cheering, and raising their arms in triumph as the machine indicates a big win. (5) A final close-up shows a large number of tokens on the machine's screen followed by a freeze-frame of the winning moment.",
+      "audio_narrative_log": "(1) High-energy male vocals speaking Mandarin and Taiwanese, accompanied by the chaotic ambient noise of an arcade (beeps, music from other machines). (2) Upbeat, fast-paced electronic background music fades in during the gameplay. (3) Sudden, loud shouting and cheering from both men as they win. (4) Sound effects include the mechanical clicking of the machine's buttons and the digital 'win' chimes. (5) The audio ends with high-pitched laughter and excited chatter.",
+      "text_narrative_log": "(1) Functional Text: '來啊蔡宗翰現在賭性堅強' - teasing the player's gambling spirit. (2) Functional Text: '我們已經中了啊', '得到1000枚' - explaining the game's current status and potential rewards. (3) Hook Text: '怕。' - expressing fear/tension. (4) Hook Text: '(真的中大獎了?!)' - questioning if a big prize was won. (5) Functional Text: '變成2640了' - confirming the final high token count."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.68,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Game Mechanics Explanation -> High-tension Gameplay -> Climactic Win celebration."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Facial close-ups"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "Two adult males are the focus; one playing, one narrating.",
+      "mainCharacterDescription": "One man wears a black long-sleeved shirt with white graphic patterns and a red strap; the other wears a dark green jacket over a white shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Arcade"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A crowded Japanese arcade filled with colorful LED lights, various gaming cabinets, and token machines.",
+      "lightingStyle": "Bright, colorful arcade lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Follow shot",
+        "Close-up",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Arcade Machine",
+        "Token Dispenser"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, high-pitched, energetic",
+        "pitch": "Moderate to High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese",
+          "Taiwanese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Win chimes",
+        "Button clicks",
+        "Coin sounds"
+      ],
+      "ambientNoise": [
+        "Arcade atmosphere"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Explanation -> Action -> Resolution",
+      "mainPurpose": "To entertain viewers by sharing a high-energy, successful gambling/gaming experience at a Japanese arcade, emphasizing the luck and excitement of winning a large amount of tokens.",
+      "visualEmotion": "Energetic, Tense, Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Cai Ah-ga's signature high-energy narration and expressive facial reactions.",
+      "freeDescribe": "The video utilizes fast-paced editing and variety-show style captions to maintain high engagement and emphasize emotional peaks."
+    }
+  }
+}

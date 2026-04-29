@@ -1,0 +1,178 @@
+{
+  "videoName": "khshu_-20250702000805-1920948728629380.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 64.0,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman leans into the frame, speaking enthusiastically; she then presents a red and white package of instant noodles to the camera. (2) She opens the box, revealing dried noodles and several condiment packets. (3) She shows a packet of red dried fruit pieces, pouring them into her hand. (4) The scene cuts to a kitchen faucet filling the noodle container with hot water; a brief insertion of a 'SpongeBob' style title card appears. (5) She opens a green packet containing white powder and pours it onto the noodles, followed by a purple packet with red dried strawberries, and finally a red packet of translucent red syrup. (6) She mixes the noodles with chopsticks and takes a large bite, her expression shifting from anticipation to a mix of confusion and mild disgust. (7) She covers her face and laughs, holding the finished bowl toward the camera.",
+      "audio_narrative_log": "(1) High-energy, upbeat J-pop music plays with a female vocal track. A woman speaks in a high-pitched, excited tone in Mandarin. (2) Crinkling sounds of plastic packaging are heard as she unboxes the product. (3) A 'boing' sound effect plays when a text overlay appears. (4) The sound of running water is prominent during the filling sequence. (5) Transition sound effects (whooshes) play between cuts. (6) The woman's tone becomes more hesitant and humorous as she describes the 'chemical' smell. (7) Slurping sounds as she eats, followed by an awkward silence and then forced laughter.",
+      "text_narrative_log": "(1) '好想吃草莓蛋糕喔' (I really want to eat strawberry cake - Tone: Craving). (2) '一平夜店炒麵 草莓蛋糕口味' (Ippei-chan Yakisoba Strawberry Shortcake Flavor - Tone: Informative). (3) '30週年紀念日版本' (30th Anniversary Japanese Version - Tone: Informative). (4) '草莓果乾???' (Dried strawberries??? - Tone: Surprised). (5) '化學奶油味...' (Chemical cream flavor... - Tone: Disappointed). (6) '衝!!!擊!!!' (Shock!!! - Tone: Dramatic). (7) '食安風險...' (Food safety risk... - Tone: Humorous/Sarcastic). (8) '真的不好吃' (It's really not good - Tone: Honest verdict). (9) '完。' (The End - Tone: Finality)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Unboxing -> Preparation -> Tasting -> Verdict"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Hands",
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "One main female creator performing a product review.",
+      "mainCharacterDescription": "A young Asian woman with dark hair tied up, wearing a white cardigan with orange trim over a white top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern kitchen with dark grey cabinetry, white countertops, a black smart faucet (Everpoll), and kitchen utensils like oven mitts and spice racks.",
+      "lightingStyle": "Bright indoor artificial lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Japanese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Instant Noodles",
+        "Dried Strawberries",
+        "Syrup"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smart Faucet"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "明星 一平ちゃん夜店",
+        "EVERPOLL"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and expressive",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat J-pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Cartoon SFX",
+        "Boing"
+      ],
+      "ambientNoise": [
+        "Water running"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Process -> Climax -> Resolution",
+      "mainPurpose": "The video is an entertainment-focused food review of a bizarre product (Strawberry Shortcake Yakisoba). The creator uses humor and exaggerated facial expressions to convey the 'horror' of tasting a sweet dessert flavor applied to a savory noodle format, ultimately concluding that the product is not tasty.",
+      "visualEmotion": "Humorous and slightly chaotic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The creator gives a negative review of the product, stating it tastes 'chemical' and is 'not good'.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy unboxing, reaction-style editing with variety show text overlays.",
+      "freeDescribe": "The video follows the 'weird food challenge' trend common in Asian social media, where creators try limited-edition or unusual products for comedic effect."
+    }
+  }
+}

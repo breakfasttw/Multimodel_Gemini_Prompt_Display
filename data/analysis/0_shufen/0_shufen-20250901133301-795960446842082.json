@@ -1,0 +1,169 @@
+{
+  "videoName": "0_shufen-20250901133301-795960446842082.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 7,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair and glasses sits at a green table in a breakfast shop, holding a pen and looking intensely at a large, multi-colored menu. (2) She begins to circle items on the menu while looking stressed. (3) Animated crying stickers and variety-show style text appear around her face as she continues to study the menu like a test paper.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo background music plays. A young woman's voice speaks Mandarin in a humorous and slightly complaining tone. (2) Faint ambient noise of a public space, likely a shop, can be heard underneath the voice and music. (3) The vocal track remains continuous throughout the clip until it ends.",
+      "text_narrative_log": "(1) Functional Text: Subtitles provided in Traditional Chinese translating the spoken dialogue about the difficulty of ordering breakfast. (2) Decorative/Hook Text: Large bold characters appearing on screen: '台灣人' (Taiwanese people), '吃早餐' (eat breakfast), '可以不看菜單直接講' (can order without looking at the menu), '而我卻像在考學測' (while I am like taking a university entrance exam). (3) Emotional stickers: '痛苦面具' (mask of pain), '难过' (sad), '我哭了' (I cried), '委屈' (aggrieved) along with crying face emojis."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 7.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Character studying menu with text commentary"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator",
+      "mainCharacterDescription": "Young female with long dark hair, purple-tinted glasses, wearing a white zip-up jacket over a light blue top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Restaurant",
+          "Breakfast Shop"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A green table, a map of Taiwan on the wall behind, and a white grate/shelf structure.",
+      "lightingStyle": "Natural indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and slightly frustrated",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Cafe"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Observation -> Emotional Reaction",
+      "mainPurpose": "The video serves as a humorous social observation about the 'daunting' nature of complex breakfast menus in Taiwan for non-locals. It uses the visual metaphor of the creator 'studying' the menu as if for an exam to highlight the contrast between an outsider's struggle and a local's effortless familiarity with the ordering process.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No specific product or service is being promoted; the menu is used as a generic prop for a cultural joke.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of heavy text overlays and 'crying' stickers typical of Douyin/TikTok comedic vlogs.",
+      "freeDescribe": "The video targets viewers interested in Taiwanese culture or those who have shared the experience of being overwhelmed by large menus in foreign casual eateries."
+    }
+  }
+}

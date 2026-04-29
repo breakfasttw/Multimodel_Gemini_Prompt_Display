@@ -1,0 +1,177 @@
+{
+  "videoName": "1105ya-20251103004332-2829195473950792.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 21,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Concert",
+        "K-pop",
+        "Performance"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a medium shot of Jennie from Blackpink on a concert stage, wearing a white ruffled top and black leather corset shorts, holding a pink microphone and dancing. (2) She performs choreographed hip and arm movements while singing, flanked by other members and backup dancers wearing black tops and pink cargo pants. (3) The camera follows her movements dynamically as she transitions through the choreography, featuring sharp arm extensions and hair flips, ending with a pose where she points upwards.",
+      "audio_narrative_log": "(1) Upbeat K-pop music with a prominent classical violin sample and heavy hip-hop bass kicks begins. (2) High-pitched female vocals enter, singing lyrics in a mix of English and Korean with an energetic and rhythmic tone. (3) The soundscape is filled with the loud, continuous roaring and cheering of a large live crowd throughout the performance.",
+      "text_narrative_log": "(1) None."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 2.6,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Continuous live stage performance with synchronized choreography."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 10,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 10,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main idol (Jennie), 3 other group members visible in flashes, and at least 6 backup dancers.",
+      "mainCharacterDescription": "Jennie is wearing a white ruffled sleeveless top, a black leather lace-up corset belt, black leather shorts, and tall black boots. Her hair is long, dark, and wavy."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Concert Stage",
+          "Indoor Stadium"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A large dark concert stage with bright spotlights, a screen displaying abstract purple and white patterns, and thousands of glowing lightsticks from the audience in the distance.",
+      "lightingStyle": "Intense studio/stage lights with shifting colors and high-contrast shadows.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Cinematic",
+      "cameraWork": [
+        "Follow shot",
+        "Dynamic"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "Stage Lighting",
+        "Speakers"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 500,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 4,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, powerful, and rhythmic",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "English",
+          "Korean"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "K-pop/Hip-hop",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Violin",
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd cheering"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Performance -> Climax",
+      "mainPurpose": "The video serves as a high-energy fan-captured performance clip (fancam) designed to highlight the charisma, dancing skill, and vocal presence of Jennie during a Blackpink concert. It aims to engage the fandom by showcasing the group's signature 'Shut Down' choreography and the immersive atmosphere of their live show.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Blackpink's 'Shut Down' violin hook and Jennie's specific 'soloist-style' focus within group choreography.",
+      "freeDescribe": "The video focuses heavily on Jennie, suggesting it is a 'fancam' edit. The high level of audience noise and visible lightsticks are key identifiers for the K-pop concert subculture."
+    }
+  }
+}

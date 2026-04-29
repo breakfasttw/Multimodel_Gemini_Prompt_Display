@@ -1,0 +1,180 @@
+{
+  "videoName": "cocowine0205-20250928142505-890493623765536.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 32.1,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping Recommendation",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman wearing a black-and-white patterned bucket hat and a white ruffled top stands in a warehouse aisle holding a large bag of Popcorners. Behind her is a stack of green boxes featuring the character Rex from Toy Story. (2) She puts the bag down and gestures toward the stack of green boxes, eventually picking one up to show the camera. She points to a transparent window in the shape of the character's mouth. (3) She rotates the box to show the side with a full illustration of Rex, the back containing nutritional information and ingredients, and finally holds the box close to the lens for a final appeal.",
+      "audio_narrative_log": "(1) A high-pitched female voice begins speaking in Mandarin with an enthusiastic, inviting tone; upbeat, bouncy electronic background music begins simultaneously. (2) The voice continues at a steady pace as she explains the features of the product, with occasional ambient rustling of the cardboard boxes heard. (3) The music maintains its tempo as the speaker's volume increases slightly when announcing the price and quantity, concluding with a direct question to the audience.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo appears at the top. (2) Decorative Hook: '爆米花小包 抱抱龍派對箱' (Popcorn small pack Rex party box) in yellow and red bubble letters. (3) Functional Text: '小包裝' (Small packaging) highlights the portion size. (4) Decorative Text: '是抱抱龍的' (It's Rex's) appears with a playful tone. (5) Functional Text: '299元有7包' (299 NTD for 7 packs) and '一小包是30塊' (One small pack is 30 NTD) for price breakdown. (6) Decorative Text: '留言告訴我們' (Comment and tell us) as a call to action."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 2.9,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro holding the product -> Close-up demonstration of packaging features -> Price analysis and closing CTA."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator presenting the product.",
+      "mainCharacterDescription": "The woman is wearing a patterned black and white bucket hat, a white off-the-shoulder top with ruffled sleeves, and blue jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Costco"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A typical Costco warehouse aisle with high metal shelving stocked with large quantities of snacks, specifically yellow Cretors popcorn boxes and green Rex-themed boxes.",
+      "lightingStyle": "Bright fluorescent warehouse lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Popcorn",
+        "Snacks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "POPCORNERS",
+        "Disney Pixar Toy Story"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and humorous",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drum"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Price Logic -> CTA",
+      "mainPurpose": "The video serves as a product recommendation or 'Costco find' vlog. The creator uses the visual hook of cute 'Rex' (Toy Story) packaging to attract viewers, then proceeds to demonstrate the physical details of the box (transparent mouth, graphics) and finally provides a value-for-money breakdown to help viewers decide if it is worth the purchase.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed product demonstration and pricing information presented in a favorable light.",
+      "endorsementObject": [
+        "PopCorners",
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Heavy use of variety-show style large text overlays and a focus on warehouse store deals.",
+      "freeDescribe": "The video targets budget-conscious shoppers and fans of character-themed collectibles."
+    }
+  }
+}

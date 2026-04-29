@@ -1,0 +1,180 @@
+{
+  "videoName": "yga0721-20250923002750-1467248254821313.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 89,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Commentary",
+        "Talk Show",
+        "Education"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a man in a white shirt and headphones (Tsai Ah-ga) sitting in a studio-like environment with shelves of figurines behind him; he is speaking animatedly and holding a script. (2) There is a cut to a close-up of a brown guinea pig resting on a gray blanket. (3) The camera alternates between the man and a woman (Ga Sao) sitting on a leather sofa, also holding a script and wearing headphones; she looks surprised and laughs. (4) Screen recordings of the Spotify app showing various Barilla pasta playlists appear. (5) A graphic screen with a brick wall background and bold text appears, detailing historical dates. (6) The video concludes with the man making a shocked face and a promotional card showing his YouTube channel logo.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music plays throughout. A male voice speaks with high energy and a humorous tone, explaining facts about Swiss laws and guinea pigs. (2) A female voice enters, providing reactive sounds like 'Ah?' and laughing loudly. (3) Sound effects including 'ding' chimes for text appearing and pre-recorded crowd laughter tracks are layered over the conversation. (4) The male voice changes pitch slightly when reading the scripts to emphasize certain words like 'Al dente'.",
+      "text_narrative_log": "(1) '瑞士政府覺得' (The Swiss government feels) - Functional subtitle in blue. (2) '天竺鼠是群居的動物' (Guinea pigs are social animals) - Functional subtitle. (3) '你虐待鼠芬' (You are abusing Shufen) - Decorative text in blue, humorous tone. (4) 'playlist timer' - Functional text in blue. (5) '小G的冷知識' (Little G's cold knowledge) - Decorative title in large blue font. (6) '1582年的十月只有21天' (October 1582 only had 21 days) - Functional text on a graphic background."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 3.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Trivia Fact 1 (Animals) -> Trivia Fact 2 (Marketing/Food) -> Trivia Fact 3 (History) -> Outro CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male host sitting in the primary recording chair, 1 female co-host sitting on the nearby sofa.",
+      "mainCharacterDescription": "Male host in a cream-colored t-shirt with large headphones. Female co-host in a white dress and blue denim jacket."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A professional but casual recording studio with shelves filled with anime and pop-culture figurines (e.g., Dragon Ball), a red leather couch, and recording equipment like microphones and pop filters.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm and Vibrant",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Guinea Pig",
+        "Hamster"
+      ],
+      "foodsDetect": [
+        "Pasta"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Microphone",
+        "Headphones"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Barilla",
+        "Spotify"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with sound effect cues",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, humorous, and theatrical",
+        "pitch": "Moderate to High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Taiwanese Hokkien"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Vlog",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Laughter Track",
+        "Notification Ping",
+        "Cartoon SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Fact 1 -> Reaction -> Fact 2 -> Reaction -> Fact 3 -> Outro CTA",
+      "mainPurpose": "The video aims to entertain and educate viewers by sharing 'cold knowledge' or interesting trivia. It uses a high-energy podcast/vlog format to maintain engagement, discussing topics ranging from animal welfare laws in Switzerland to clever marketing campaigns by Barilla pasta and Spotify, and finally a historical calendar oddity. The ultimate goal is to provide snackable, shareable content that promotes the creator's full-length videos.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The mention of Barilla and Spotify is part of a trivia segment rather than a direct paid promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Tsai Ah-ga's signature high-energy delivery, interaction with his wife (Ga Sao), and use of specific blue/white captions.",
+      "freeDescribe": "The video relies heavily on rapid-fire editing and reaction sound effects typical of Taiwanese variety shows to keep the pacing brisk for social media consumption."
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "videoName": "achusan0817-20250725044105-1408172037450523.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 71,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Animation",
+        "Comedy",
+        "Storytelling"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) This is a 2D animation video. The video starts with a female character's head cutout on a dark background, her eyes closed and smiling. (2) The scene transitions to a dark indoor hallway resembling a school, with posters on the walls and lockers. Two male characters—one bald and one with black hair—enter, looking around with apprehensive expressions. (3) The camera focuses on the characters' faces showing sweat and wide eyes. They look through a barred window at a girl with long black hair sitting by a sink with her back turned. (4) The characters scream in terror, their mouths wide and eyes bulging. (5) Later, they are seen standing in a group with another female character (Abby) who is laughing. (6) One male character goes into a pitch-black room to retrieve a brown broom and runs out screaming while the others watch.",
+      "audio_narrative_log": "(1) High-pitched, cheerful female vocals speak quickly, accompanied by a light, bubbly sound effect. (2) As the scene changes to the dark hallway, a tense, suspenseful background music with low-frequency drones begins. A deep, professional male voice (news reporter style) speaks. (3) The main characters engage in dialogue with high-pitched, frantic tones. Loud, sharp sound effects (SFX) such as metallic bangs and ghostly whimpering are heard. (4) Sudden, loud screams from multiple male voices occur, followed by a transition to upbeat, fast-paced background music. (5) A female character's distinct, rhythmic laughing is heard, followed by more frantic shouting and running footsteps sound effects.",
+      "text_narrative_log": "(1) Functional Text: \"那我們就準備進去囉\" (Then let's get ready to go in) - Neutral tone. (2) Functional Text: \"大家記得要跟好喔\" (Everyone remember to follow closely) - Instructional tone. (3) Functional Text: \"哇靠 場景也太逼真了吧\" (Holy crap, the scene is too realistic) - Surprised tone. (4) Functional Text: \"新聞報導：近期某高中發生多起失踪案件\" (News Report: Multiple missing person cases occurred in a certain high school recently) - Serious/Narrative tone. (5) Decorative Text: \"巾幗女英雄\" (A heroine among women) - Sarcastic/Honorary tone during the broom scene."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.69,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Exploration -> Jump Scare -> Reaction/Interaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Head only",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 bald male creator, 1 dark-haired male friend, 1 female friend (Abby), and 1 ghost-like female character.",
+      "mainCharacterDescription": "A bald male wearing a black t-shirt and a male with messy black hair wearing a green or red t-shirt. Abby is a female with short brown hair."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor School",
+          "Haunted House"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A dark school hallway with gray walls, posters, metal lockers, a barred window overlooking a sink area, and a dark storage room.",
+      "lightingStyle": "Dim, moody, flickering lights",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Muted and Dark",
+      "cameraWork": [
+        "Static",
+        "Pan",
+        "Digital Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Telephone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 3,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Exaggerated, high-pitched, panicked",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Horror/Suspense and Upbeat Comedy",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Screams",
+        "Ghost whimpering",
+        "Metallic thuds",
+        "Cartoon laughing"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Setup -> Climax -> Resolution",
+      "mainPurpose": "The video is an animated comedy sketch depicting the exaggerated reactions of friends visiting a haunted house or an escape room. It aims to entertain the audience through relatable fears and humorous social interactions between the characters.",
+      "visualEmotion": "Tense yet Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Distinctive 2D character designs with exaggerated facial expressions; bald main character avatar.",
+      "freeDescribe": "The video utilizes classic horror tropes (long-haired ghost girl, dark hallways) and subverts them with comedic timing and character reactions."
+    }
+  }
+}

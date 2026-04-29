@@ -1,0 +1,176 @@
+{
+  "videoName": "achusan0817-20250804014139-1702890164455275.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 45,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Animation",
+        "Comedy",
+        "Storytelling"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) This is a 2D animation video. A bald character with a serious, analytical facial expression is shown in a close-up, touching his chin as if thinking deeply against a dark background. (2) The scene cuts to a split-screen memory of the bald character and a black-haired male character laughing happily while looking at a screen. (3) Back to the present, the bald character's eyes narrow with suspicion and sweat drops appear on his head. (4) A series of quick cuts follows: they play video games together, walk down a brick-walled alley while looking at a phone, and talk in a room. In each scene, the black-haired 'Senior' (學長) character responds with a gentle, mysterious smile and a '?' icon appears near his face. (5) The bald character is shown getting increasingly agitated and frantic, questioning the Senior's motives. (6) The video concludes with a quick replay of the Senior's smiling face over a static-filled, retro-style background.",
+      "audio_narrative_log": "(1) Upbeat, slightly suspenseful electronic BGM plays with a steady rhythm. A male voice-over (the protagonist) speaks in a fast-paced, internal-monologue style, sounding suspicious and over-analytical. (2) A transition sound effect (a quick 'whoosh') plays as scenes shift. (3) Dialogue segments occur where the protagonist speaks with an anxious, high-pitched tone, while the Senior's voice is calm, deep, and steady. (4) A 'ding' or 'sparkle' sound effect accompanies the appearance of the '?' and the Senior's smile. (5) Ambient sound of a video game (beeps and combat noises) is heard during the gaming scene. (6) The music stops abruptly for a punchline, followed by a final comedic comment.",
+      "text_narrative_log": "(1) '一切都很不對勁' (Everything is very wrong) - suspicious tone. (2) '如果不對我有意思，他幹嘛陪我聊到半夜' (If he doesn't like me, why does he chat until midnight?) - analytical/questioning. (3) '欸 學長你幹嘛不補血啊' (Hey Senior, why don't you heal?) - functional dialogue. (4) '笑屁' (What are you laughing at?) - decorative/emotional text. (5) '看來阿啾的天賦都點到畫畫上了呢' (Looks like A-Chau's talent was all put into drawing) - sarcastic variety-style caption."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Internal monologue -> Flashback montage -> Climax of confusion -> Punchline"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Head and shoulders",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 bald male protagonist, 1 black-haired male senior",
+      "mainCharacterDescription": "The protagonist is a bald man wearing a black shirt with exaggerated facial expressions; the 'Senior' has black hair, wears a red shirt, and maintains a calm, smiling face."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Room",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Varies between a dark abstract background for internal thoughts, a living room with a couch for gaming, and a brick-walled alleyway with green bushes.",
+      "lightingStyle": "Flat animation lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Game Controller",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous, neurotic, and slightly high-pitched for the narrator; calm for the Senior",
+        "pitch": "Variable",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Ding",
+        "Game sounds"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Series of suspicious evidence -> Comic escalation -> Punchline",
+      "mainPurpose": "The video is a comedic animated short intended to entertain by depicting the relatable social anxiety and 'over-thinking' of the protagonist. He interprets his friend's (Senior) polite and constant smiles as having a deeper, potentially romantic or mysterious meaning, leading to humorous frustration.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "A-Chau (阿啾) animation style characterized by simple lines, expressive facial distortions, and neurotic internal monologues.",
+      "freeDescribe": "The video uses exaggerated animation tropes (sweat drops, narrowing eyes) to emphasize the character's internal turmoil."
+    }
+  }
+}

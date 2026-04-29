@@ -1,0 +1,179 @@
+{
+  "videoName": "2uncle987-20250911072924-1542878226791732.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 57,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Product Review",
+        "Comedy",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young girl with a large purple bow in her hair sits on a grey couch, gesturing excitedly while speaking. A woman in a yellow t-shirt sits beside her, smiling and nodding. (2) The woman holds up a purple box labeled 'Kids Beta-Glucan', and the girl raises her hand eagerly. (3) Transitions to close-up shots of the product packaging and small purple tablets arranged on a white scalloped plate. (4) The woman is shown feeding one of the tablets to the girl. (5) The girl flexes her biceps and shows off a purple smartwatch, appearing energetic. (6) Both the woman and the girl appear together in the frame holding multiple boxes of the product, looking directly at the camera with happy expressions.",
+      "audio_narrative_log": "(1) Upbeat, energetic background music with a playful synth melody starts immediately. A young girl's high-pitched, excited voice recites a tongue twister about grapes. (2) A clear, professional female voice enters, introducing the brand 'Pharmacist's Healthy Life' and the 'Kids Beta-Glucan' product. (3) A deep-toned male narrator's voice takes over, providing technical details about the product's ingredients and concentration levels over the continuous upbeat BGM. (4) The girl's voice returns, asking 'Is it sweet?' followed by the woman's reassuring reply. (5) The male narrator returns to explain the current promotional discounts and specific coupon codes as the music reaches a crescendo with sound effects like pops and sparkles.",
+      "text_narrative_log": "(1) '吃葡萄' (Eat grapes) - Hook text with a playful tone. (2) '不吐葡萄皮' (Don't spit out grape skin) - Continuation of the tongue twister. (3) '藥師健生活 兒童葡聚醣' (Pharmacist's Healthy Life Kids Beta-Glucan) - Functional text identifying the product. (4) '幫助你調整體質' (Helping you adjust your constitution) - Functional health claim. (5) '葡萄聚醣濃度80%是市面最高' (80% Beta-Glucan concentration is the highest on the market) - Decorative hook for value proposition. (6) '最低79折' (Lowest 79% off) - High-emphasis marketing hook. (7) '專屬優惠碼 2uncle' (Exclusive discount code 2uncle) - Functional call-to-action text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.37,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Skit-based intro -> Product introduction -> Technical features overview -> Tasting demo -> Promotion and CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Close-up face"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 adult female, 1 female child acting as the primary subjects.",
+      "mainCharacterDescription": "A young girl with curly hair and a purple bow wearing a 'Care Bears' t-shirt; a woman with a high bun wearing a yellow t-shirt with 'Kindness' text."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A comfortable indoor setting with a grey fabric sofa, plush blue and red character pillows, and a white wall featuring a purple monster poster.",
+      "lightingStyle": "Bright, even studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Macro"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Tablets",
+        "Supplements"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartwatch"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "藥師健生活",
+        "Pharkids+",
+        "M-GARD"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and professional",
+        "pitch": "Varied (child is high, adult male is deep)",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop sounds",
+        "Twinkle SFX"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Logic -> Evidence -> Offer -> CTA",
+      "mainPurpose": "This video is a commercial endorsement for children's nutritional supplements. It uses a lighthearted, humorous interaction between an adult and a child to establish relatability, then transitions into a data-driven technical explanation of the product's health benefits, concluding with a direct sales push involving a time-limited discount and a creator-specific promo code.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of the product, detailed feature list, verbal recommendation, and a dedicated discount code '2uncle'.",
+      "endorsementObject": [
+        "藥師健生活"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The creator uses the child's energetic personality and a specific discount code '2uncle' as visual and auditory signatures.",
+      "freeDescribe": "The video blends variety-show editing style (large colorful captions, fast pacing) with a clinical/pharmaceutical product, making the supplement appear accessible and kid-friendly."
+    }
+  }
+}

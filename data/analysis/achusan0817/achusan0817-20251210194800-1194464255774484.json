@@ -1,0 +1,185 @@
+{
+  "videoName": "achusan0817-20251210194800-1194464255774484.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 45,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Animation",
+        "Commentary",
+        "Comedy",
+        "News"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is primarily an anime-style animation. It begins with a male news anchor character called 'Senior' in a news studio with a lime-green mascot. (2) The scene transitions to real-life news footage showing heavy rain, flooded streets, and a reporter in a suit standing in a storm. (3) A large black graphic of the character '風' (Wind) appears, followed by '颱風' (Typhoon). (4) The video shifts to a montage of real-life K-pop concert footage featuring groups like BLACKPINK, Super Junior, and TWICE performing on stage. (5) A graphic of '韓風' (Korean Wave) is displayed. (6) The animation returns, showing a bald man (the creator Ar Chou) crawling on the floor in visible agony. (7) The final graphic '痛風' (Gout) appears as the punchline. (8) The news anchor character gestures with his hands as the video concludes.",
+      "audio_narrative_log": "(1) A deep, professional, yet energetic male voiceover begins narrating in a dramatic news-reporting style. Fast-paced, rhythmic background music with a strong beat starts immediately. (2) Ambient sounds of wind and heavy rain are mixed in as the visual shows a typhoon. (3) Short, high-energy snippets of electronic dance music/K-pop are heard during the concert segment. (4) Distinct 'Impact' or 'Whoosh' sound effects occur every time a large title graphic appears on screen. (5) The narrator's tone remains consistent but shifts towards a comedic inflection during the mention of gout.",
+      "text_narrative_log": "(1) Functional Text: '大家好我是學長' (Hello everyone, I am Senior), '台灣這一年發生的各種大事件' (Various major events in Taiwan this year). (2) Decorative/Hook Text: '2025台灣重大新聞總結' (Summary of Major 2025 Taiwan News) at the bottom, and large stylistic kanji for '風' (Wind), '颱風' (Typhoon), '韓風' (Korean Wave), and '痛風' (Gout). (3) Content & Tone: The text provides a humorous structure to the news summary, culminating in a self-deprecating joke about the creator's health."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro (Animation) -> News Montage (Real Footage) -> Comedy Punchline (Animation) -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 25,
+      "maleDetectAmount": 12,
+      "femaleDetectAmount": 13,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 animated news anchor, 1 animated bald man, several K-pop group members (BLACKPINK 4, TWICE 9, Super Junior members), and concert crowds.",
+      "mainCharacterDescription": "An animated news anchor with grey hair and glasses in a suit, and a bald-headed animated man in a black t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Outdoor Street",
+          "Concert Venue"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A stylized news studio, a stormy city street during a typhoon, and brightly lit concert stages with LED screens.",
+      "lightingStyle": "Studio lighting and high-contrast stage lighting",
+      "weather": "Rainy",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Cinematic",
+      "cameraWork": [
+        "Static",
+        "Pan",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "Stage Lighting"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "YouTube",
+        "BLACKPINK",
+        "Super Junior",
+        "TWICE"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut with impact sound effects",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Steady and professional yet humorous",
+        "pitch": "Deep",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock",
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Boom",
+        "Rain SFX"
+      ],
+      "ambientNoise": [
+        "Wind",
+        "Crowd noise"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Historical Evidence -> Humorous Twist",
+      "mainPurpose": "The video serves as a comedic news wrap-up for the year 2025 in Taiwan. It cleverly uses the phonetic and semantic associations of the Chinese character '風' (Wind) to link natural disasters (typhoons), the cultural dominance of the 'Korean Wave' (Hallyu), and the creator's personal health issue (gout), providing an entertaining summary that drives viewers to his full YouTube content.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The character 'Senior' as a narrator and the bald 'Ar Chou' character are consistent avatars for the creator's brand.",
+      "freeDescribe": "The use of 'Hallyu' as a news milestone reflects the high cultural impact of K-pop in Taiwan. The juxtaposition of professional news style with personal health issues creates a relatable comedy effect."
+    }
+  }
+}

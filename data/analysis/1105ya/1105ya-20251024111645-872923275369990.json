@@ -1,0 +1,177 @@
+{
+  "videoName": "1105ya-20251024111645-872923275369990.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 37,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Concert"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a close-up of a female performer in a black-and-white ruffled dress on a large LED screen, then cuts to a wide shot of her on stage with pyrotechnic sparklers shooting upward. A small circular inset in the upper right displays a female audience member wearing a glowing pink headband. (2) The performer is shown gesturing to the audience while singing. (3) A shot of another female performer with long blonde hair on the screen is followed by a wide panoramic view of a massive stadium audience holding thousands of pink lightsticks. (4) The first performer is seen again in a close-up on the screen while rapping. (5) A third female performer with red hair appears on the screen, singing with an emotional expression.",
+      "audio_narrative_log": "(1) An upbeat K-pop track begins with electronic beats and high-energy female vocals singing in Korean and English. Heavy ambient crowd cheering is audible. (2) The audio transitions to a mid-tempo melodic song with acoustic guitar elements and clear female singing. (3) The crowd noise increases significantly as a bass-heavy beat kicks in. (4) Rhythmic female rap vocals are heard over a punchy instrumental. (5) The audio concludes with a high-pitched, melodic vocal solo from a different female singer.",
+      "text_narrative_log": "(1) Decorative hook text at the bottom reads: \"當你追星用iPhone 17 新功能雙重鏡頭拍攝\" (When you use iPhone 17's new dual-lens shooting feature while chasing stars). The tone is humorous and relatable to fan culture."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 4.6,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Performance Montage -> Audience Shot -> Performance Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1000,
+      "maleDetectAmount": 100,
+      "femaleDetectAmount": 900,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 4,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "3 main idols on screen/stage, 1 fan in the PiP window, and a massive stadium crowd.",
+      "mainCharacterDescription": "The performers wear stylized black and white corset dresses with ruffles; the fan in the PiP wears casual attire and a pink glowing headband."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Stadium",
+          "Concert Stage"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A massive concert stage with giant LED screens, strobe lights, and pyrotechnic fountains. The background shows a packed stadium filled with glowing pink lightsticks.",
+      "lightingStyle": "Intense concert lighting with strobe effects and pink neon hues",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Vibrant and High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "PiP"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "LED Screen"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 100,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 4,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and emotive",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Korean",
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "K-pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion",
+        "Strings"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine",
+        "Acoustic Guitar"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd cheering"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Evidence -> Highlight",
+      "mainPurpose": "The video is a concert vlog snippet intended to share the excitement and visual spectacle of a BLACKPINK concert. By using a 'fan-reaction' inset alongside high-quality stage footage, it creates an immersive experience for the viewer. The humorous text about a fictional 'iPhone 17' feature acts as a social media hook to increase engagement through relatability and humor.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The mention of iPhone 17 is a humorous social media meme and not an official product placement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of PiP (Picture-in-Picture) to contrast idol performance with fan reaction.",
+      "freeDescribe": "Highlights the 'Pink Ocean' lightstick phenomenon and the intense parasocial connection between K-pop idols and their global fanbase."
+    }
+  }
+}

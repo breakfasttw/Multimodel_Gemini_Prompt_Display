@@ -1,0 +1,170 @@
+{
+  "videoName": "yga0721-20250929203643-888537130816060.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 9,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Social Media"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video displays a screen recording of a mobile messaging interface. Centered is a static photograph of a woman standing on a boat deck, triumphantly holding a fish she has caught in one hand and a fishing rod in the other. (2) She is smiling broadly toward the camera, standing against a backdrop of a calm lake and hills with autumn foliage under a clear sky. (3) The image remains static for the entire duration while an audio message bar at the bottom shows playback progress.",
+      "audio_narrative_log": "(1) A high-pitched and playful female voice begins singing or chanting rhythmically. The tone is excited and childlike. (2) The vocal performance continues with consistent energy and no background music. (3) No ambient environmental sounds or sound effects are audible; the recording is focused entirely on the vocal expression.",
+      "text_narrative_log": "(1) Functional Text: '蔡麗莉 ~Lily' appearing as a contact name. (2) Functional Text: '蔡麗莉 ~Lily 已收回訊息' indicating a retracted message. (3) Functional Text: '上午 11:21' and an audio player widget showing '00:09' duration."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 9.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Static photo with audio playback via a messaging interface"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main character in the photo",
+      "mainCharacterDescription": "A young woman wearing a white knit beanie, a cream-colored fleece vest over a dark long-sleeve shirt, and loose-fitting grey/black trousers with white sneakers."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor",
+          "Lake",
+          "Boat"
+        ],
+        "topography": [
+          "Hill",
+          "River"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A large body of blue water with mountainous terrain in the background. The hills show yellow and brown vegetation suggesting an autumn season.",
+      "lightingStyle": "Bright natural sunlight",
+      "weather": "Sunny",
+      "season": "Autumn",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and bright",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Fish"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Boat"
+      ],
+      "techDetect": [
+        "Fishing Rod",
+        "Smartphone Interface"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, playful, and rhythmic",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Static Visual -> Audio Expression",
+      "mainPurpose": "To share a personal moment of joy and success in fishing with a playful, rhythmic vocal message, likely intended for friends or social followers within a chat environment.",
+      "visualEmotion": "Happy and Proud"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "Personal lifestyle content without brand promotion",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Chat interface screen recording",
+      "freeDescribe": "The video uses a social media 'status' or 'chat share' aesthetic, focusing on a single moment of outdoor recreation."
+    }
+  }
+}

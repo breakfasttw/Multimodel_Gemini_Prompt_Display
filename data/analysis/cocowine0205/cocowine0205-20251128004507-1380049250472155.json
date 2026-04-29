@@ -1,0 +1,181 @@
+{
+  "videoName": "cocowine0205-20251128004507-1380049250472155.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 52,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Review",
+        "Food"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman in a white top and black skirt stands in front of a refrigerated shelf at Costco, holding a black tray of sliced salmon. She gestures towards the camera and the product with expressive facial expressions. (2) The camera zooms in on the tray of salmon, showing the price tag and the texture of the fish. Hand gestures point out specific details of the packaging and surrounding salmon products. (3) Scene transitions to a home dining setting. Two women are seated at a table; one is wearing a purple dress and the other is wearing a yellow shirt with a red bucket hat. They use chopsticks to pick up slices of salmon from a blue fish-shaped plate, dipping them into a small bowl of sauce. The woman in the red hat holds up the original packaging and a piece of salmon close to the lens.",
+      "audio_narrative_log": "(1) A female voice speaks enthusiastically in Traditional Chinese with an upbeat background music track featuring a steady electronic beat. Subtle ambient noise from a busy supermarket is present. (2) A male voice-over enters, providing descriptive details about the product's weight and price in a professional yet friendly tone. Short sound effects like 'pings' are used to highlight key points. (3) The audio shifts to a mix of two female voices reacting to the food with sounds of enjoyment and rhythmic chatting. The male voice-over continues to provide commentary on the quality and origin of the salmon. The music remains consistent in tempo throughout.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo. Decorative Text: '竟然有鮭魚生魚片' (Actually has salmon sashimi) and '生食級的生魚片' (Sashimi-grade sliced fish) in large yellow and white fonts. (2) Functional Text: '一盒450克' (One box 450g) and '599元' (599 dollars) appearing as informational overlays. (3) Decorative/Hook Text: '太值得買了' (So worth buying), '非常的厚' (Very thick), '味道很鮮甜' (Very fresh and sweet), and '無與倫比的美麗' (Incomparably beautiful) appearing with vibrant colors and stylized fonts to emphasize the review's positivity."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Discovery at store -> Product specification -> Domestic tasting and review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Half body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, 1 female passerby in store background, 1 male passerby in store background",
+      "mainCharacterDescription": "One woman in a white long-sleeve top and black skirt (store) and later a purple dress (home); another woman in a yellow striped shirt and a red Kangol bucket hat (home)."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Supermarket",
+          "Indoor Dining Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A Costco meat and seafood section with bright fluorescent lights and glass-fronted refrigerators; a domestic dining area with wooden furniture and home decor items.",
+      "lightingStyle": "Bright artificial light",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and vibrant",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Salmon",
+        "Sashimi",
+        "Soy sauce",
+        "Wasabi"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "LE CREUSET",
+        "KANGOL"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Bell ping"
+      ],
+      "ambientNoise": [
+        "Supermarket background murmur"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Product Intro -> Detailed Tasting -> Recommendation",
+      "mainPurpose": "To provide a highly enthusiastic review and recommendation of Costco's salmon sashimi, emphasizing its value for money, freshness, and quality through both on-site discovery and at-home consumption.",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Prominent brand logo placement, detailed price information, and direct verbal recommendation to purchase.",
+      "endorsementObject": [
+        "COSTCO WHOLESALE"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy presentation style with bold, colorful variety-show text overlays.",
+      "freeDescribe": "The video successfully bridges the gap between a shopping guide and a food review, using a relatable 'home-tasting' segment to validate the initial store discovery."
+    }
+  }
+}

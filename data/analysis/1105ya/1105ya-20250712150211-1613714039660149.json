@@ -1,0 +1,174 @@
+{
+  "videoName": "1105ya-20250712150211-1613714039660149.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 10,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Dance",
+        "Vlog",
+        "Social Media Trend"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Seoul"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Three friends—two females and one male—stand in the middle of a snowy outdoor shopping street. One female wears a black outfit, the center female wears a pink puffer jacket, and the male wears a red sweater. They smile at the camera as snow falls. (2) They perform a synchronized dance routine involving rhythmic stepping, hand gestures forming hearts, and swaying to the beat. (3) They shift positions slightly while maintaining their cheerful expressions, posing playfully against the backdrop of bustling shops and neon signs as the camera follows their movements.",
+      "audio_narrative_log": "(1) A high-pitched, upbeat pop song begins immediately, featuring stylized, chipmunk-like female vocals singing a repetitive, melodic tune. (2) The background music maintains a consistent, rhythmic electronic beat with a fast tempo. (3) Faint ambient noise of a public outdoor space is occasionally audible but largely masked by the loud, studio-quality music track.",
+      "text_narrative_log": "(1) Hook Text: \"當你跟朋友一起拍這首歌\" (When you film this song with friends), appearing at the top center in a semi-transparent bubble, conveying a relatable and fun tone. (2) Functional Text: Various Korean store signs and banners in the background, including brands like TONYMOLY and OLIVE YOUNG, providing geographical context."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 1.25,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Synchronized Dance Routine"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 7,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "3 main creators performing dance; at least 4 passers-by blurred in the background.",
+      "mainCharacterDescription": "One female in a black jacket and pants, one female in a pink puffer jacket with light green pants, and one male in a red sweater with grey trousers."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Shopping District"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A busy shopping street in Myeong-dong, Seoul, featuring numerous storefronts, promotional banners, and pedestrians. Snow is falling steadily.",
+      "lightingStyle": "Natural daylight, overcast",
+      "weather": "Snowy",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Chinese",
+          "Korean"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "Myeong-dong"
+      ],
+      "brandLogos": [
+        "TONYMOLY",
+        "OLIVE YOUNG",
+        "EIDER"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and cute",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous singing",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Cute Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Street noise"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Intro -> Choreographed Performance -> Conclusion",
+      "mainPurpose": "To participate in a popular social media dance challenge, showcasing synchronization and group friendship in a visually appealing winter setting in Seoul.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Synchronized 'Miao Miao' dance trend choreography.",
+      "freeDescribe": "The video utilizes a high-paced editing style synchronized with the music beats to enhance engagement. The snowy Seoul setting adds a seasonal aesthetic appeal characteristic of winter travel vlogs."
+    }
+  }
+}

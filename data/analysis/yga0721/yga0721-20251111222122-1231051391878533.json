@@ -1,0 +1,171 @@
+{
+  "videoName": "yga0721-20251111222122-1231051391878533.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 27,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Kids"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Two young boys in pajamas are excitedly dancing and posing in a modern living room, with one in beige and one in red patterned outfits. (2) The boy in beige runs to a wall-mounted TV to point at a man's face on the screen while smiling widely. (3) Both boys then jump onto a large white sofa, continuing their energetic dance and laughter.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic music plays with children's voices rhythmically singing 'Nya Nya'. (2) An adult male voice off-camera laughs and speaks in a teasing tone in Mandarin. (3) The rhythmic singing and music continue as the children cheer and jump.",
+      "text_narrative_log": "(1) Functional Text: Text on the TV screen shows '點一首' (Request a song) and some lyrics in Traditional Chinese. (2) Functional Text: On-screen subtitles on the TV indicate song selection options."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 4.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Dance intro -> TV interaction -> Sofa jumping celebration"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main children characters performing in front of the camera.",
+      "mainCharacterDescription": "Two young boys in pajamas; one wears beige with dog patterns, the other wears red and white with character patterns and glasses."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern, minimalist living room with a large white sectional sofa, light wood paneling, and a wall-mounted television.",
+      "lightingStyle": "Bright, even indoor lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "TV",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 2
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and playful",
+        "pitch": "High-pitched",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Kids Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Action -> Reaction -> Climax",
+      "mainPurpose": "The video aims to entertain the audience by showcasing the high-energy and cute behavior of two children as they dance along to a song and react to content on their TV at home.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Taiwanese YouTube family content featuring 'Tsai Tao-Kuei' and 'Tsai Po-Neng'.",
+      "freeDescribe": "Typical high-engagement family vlog content focusing on children's natural playfulness and reactions."
+    }
+  }
+}

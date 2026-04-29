@@ -1,0 +1,183 @@
+{
+  "videoName": "3ctim-20250218131707-939289909034385.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 56,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Promotion",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man with glasses, a patterned flat cap, and a white Christmas-themed hoodie (with reindeer and Santa graphics) stands outdoors on a busy city street, talking excitedly to the camera while holding smartphone boxes. (2) The scene transitions to an indoor retail store counter where a male staff member wearing a face mask and glasses is sitting behind a computer. (3) Various smartphone boxes (Samsung Galaxy Z Fold6, Google Pixel 9 Pro Fold, Motorola razr) are placed one by one onto the counter. (4) The camera alternates between the staff member pointing at the screen and the man in the hoodie reacting with exaggerated surprised facial expressions. (5) The video ends with a montage of the smartphone boxes overlaid with promotional text and falling snowflake graphics.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop-style BGM begins. A male voice speaks with high energy and a fast pace, introducing folding phones. (2) Brief cartoon-like sound effects (pings and swooshes) play as text and boxes appear. (3) A second, calmer male voice (the store clerk) joins in, stating specific numbers and price figures. (4) The first male voice reacts with short, loud exclamations of surprise. (5) The BGM continues through to a final narration summarizing the deal and a specific date with a firm, promotional tone.",
+      "text_narrative_log": "(1) Functional Text: '3C 有意思 tim 哥' and 'miko' logos at the top. (2) Decorative Text: '老闆!' (Boss!) with a cartoon dog sticker. (3) Functional Text: '最近連製姐也換摺疊機了!' (Recently even Sister Zhi changed to a folding phone!) and '大摺展開變平板, 小摺收起收納方便' (Big folds turn into tablets, small folds are easy to store). (4) Hook Text: '我來賣你!', '6萬有找的', '5萬7有找的'. (5) Functional Price Text: 'Z Fold6 $59,888 -> $44,890', 'Pixel 9 Pro Fold $56,990 -> $42,790', 'razr 50 Ultra $22,890', 'razr 50 $13,890', 'Z Flip6 $23,190'. (6) CTA Text: '米可超殺優惠!', '只到 2025/01/07'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 4.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro outdoor commentary -> Price negotiation/reveal at indoor store -> Final deal summary."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main creator (Tim) and 1 store staff member.",
+      "mainCharacterDescription": "A middle-aged man with glasses, a red/grey checkered flat cap, and a festive white hoodie with reindeer and Santa patterns."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Electronics Store"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Outdoors: A city street with glass buildings and blurry passers-by. Indoors: A clean, well-lit tech retail shop with shelves of electronics and computer monitors.",
+      "lightingStyle": "Natural daylight outdoors and bright studio-style LED lighting indoors.",
+      "weather": "Cloudy",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "PC Keyboard",
+        "Monitor"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "miko",
+        "Samsung",
+        "Google",
+        "Motorola"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and persuasive",
+        "pitch": "Normal",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Street noise",
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Comparison -> Discount Reveal -> CTA",
+      "mainPurpose": "To promote a specific limited-time sale event for folding smartphones at the 'miko' retail store by contrasting standard high market prices with the retailer's discounted prices.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct price comparison, store naming, and clear call to action to visit the store before a deadline.",
+      "endorsementObject": [
+        "miko"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Creator's catchphrase and distinctive festive attire.",
+      "freeDescribe": "The video uses a high-contrast pricing strategy to trigger FOMO (Fear Of Missing Out) in tech enthusiasts."
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "videoName": "cocowine0205-20250925193507-1239080598347921.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 76,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Product Review",
+        "Food Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman wearing a white off-the-shoulder top and a black and white bucket hat stands in the freezer section of a Costco, pointing to and then holding up a large bag of chicken strips. (2) The scene transitions to a home dining setting where the same woman and another woman in a black beret sit behind a table with the chicken product and plates of cooked chicken. (3) The women use forks to hold up pieces of fried chicken to the camera, showing the crispy texture, and then eat them with enthusiastic expressions. (4) Close-up shots of the cooked chicken on a black plate are interspersed with their commentary.",
+      "audio_narrative_log": "(1) Upbeat and energetic pop background music plays continuously. A high-pitched, excited female voice introduces the 'Dachan' chicken strips at Costco. (2) The audio shifts to a dialogue between two females discussing the product's price, weight (1.7kg), and the ease of preparation using an air fryer. (3) Vocal tones remain friendly and persuasive throughout the tasting phase, with clear enunciation of the brand name and positive descriptors of the taste.",
+      "text_narrative_log": "(1) Functional text: 'COSTCO WHOLESALE' and '大成香辣炸雞柳' (Dachan Spicy Chicken Strips) appear as persistent headers. (2) Functional text: '$499' and '1.7公斤' (1.7kg) indicate product details. (3) Decorative/Hook text: '非常簡單' (Very simple), '地瓜粉' (Sweet potato starch), and '值得推薦' (Worth recommending) emphasize product benefits in an enthusiastic tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 5.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Store Intro -> Product Display -> Home Cooking/Tasting -> Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Upper body",
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators appearing throughout the video.",
+      "mainCharacterDescription": "One woman in a white off-the-shoulder top and bucket hat; one woman in a black beret and black top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Supermarket",
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Costco freezer aisle with frozen goods; a brightly lit home kitchen/dining area with food on the table.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and saturated",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Fried Chicken",
+        "Chicken Strips"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco",
+        "大成 (Dachan)"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Info -> Demonstration -> Social Proof",
+      "mainPurpose": "The video aims to promote Dachan Spicy Chicken Strips available at Costco by demonstrating their convenience and quality. The creators use a 'discovery' narrative at the store followed by a 'tasting' session at home to validate the product's value and taste, specifically targeting Costco shoppers looking for easy-to-cook frozen snacks.",
+      "visualEmotion": "Energetic and joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product showcase, brand name callouts, and explicit recommendation.",
+      "endorsementObject": [
+        "大成 (Dachan)",
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy short-form video style with bright text overlays.",
+      "freeDescribe": "Effective use of the 'Costco find' trope to drive engagement through perceived value and relatability."
+    }
+  }
+}

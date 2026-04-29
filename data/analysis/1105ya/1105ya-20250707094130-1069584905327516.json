@@ -1,0 +1,171 @@
+{
+  "videoName": "1105ya-20250707094130-1069584905327516.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 18,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Concert",
+        "Performance"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A female performer wearing an oversized grey shirt and white thigh-high boots dances on a stage lit by intense green lasers. (2) The performer turns away from the camera, showing the back of her outfit, then turns back to face the audience while pointing upwards. A large screen behind her shows various abstract visuals and live close-ups. (3) She continues high-energy dance movements, spinning and jumping, with pink heart-shaped objects appearing in the foreground as fans move in the pit.",
+      "audio_narrative_log": "(1) High-tempo electronic dance music plays with a heavy, driving beat. A female voice is heard shouting \"Let's go!\" over the track. (2) The music continues at a consistent pace; loud, high-pitched cheering and screaming from a large crowd are audible. (3) The female voice shouts \"Come on!\" as the music reaches a peak with sharp synth sounds and rhythmic drums.",
+      "text_narrative_log": "None"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 10,
+      "averageSceneDuration": 1.8,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Continuous high-energy dance performance"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 11,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main female performer on stage and at least 10 fans visible as hands or backs of heads in the foreground.",
+      "mainCharacterDescription": "A young woman with a long ponytail, wearing an oversized grey t-shirt and white thigh-high boots."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Concert Stage"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A large concert stage featuring a massive LED screen displaying abstract purple and pink graphics, stage trussing, and dynamic green laser beams.",
+      "lightingStyle": "Intense concert lighting with green lasers and flashing studio-quality spotlights.",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Vibrant and high saturation, dominated by neon green and hot pink tones.",
+      "cameraWork": [
+        "Handheld",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 50,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Normal",
+        "speechDensity": "Occasional shouting",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "K-pop / EDM",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Action -> Climax",
+      "mainPurpose": "To document and share the high-energy atmosphere of a live music performance, specifically highlighting the artist's stage presence and the enthusiastic fan interaction during a high-tempo segment of the show.",
+      "visualEmotion": "Energetic, Exciting, and Vibrant"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Pink heart-shaped lightsticks (BLACKPINK Hammer Bong) and the performer's high-energy interaction with the audience.",
+      "freeDescribe": "The video features hallmarks of a K-pop concert fancam, emphasizing the idol's movements and the specific fandom merchandise used to create a unified visual experience."
+    }
+  }
+}

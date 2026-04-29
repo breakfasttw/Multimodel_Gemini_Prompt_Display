@@ -1,0 +1,168 @@
+{
+  "videoName": "alephant_0427-20250318213956-1354981426467891.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 83.0,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Music Performance",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a live-action shot of a young woman playing the piano in an indoor setting. She is positioned in profile, facing the left side of the frame where the piano is located. (2) Throughout the video, her hands move rapidly across the keyboard, performing an upbeat and rhythmic piece. Her facial expression remains focused, occasionally looking down at the keys and then slightly ahead. (3) The scene is static, with no camera movement or cuts, maintaining a steady view of the pianist and the immediate surrounding environment.",
+      "audio_narrative_log": "(1) Piano music begins immediately with a bright, fast-paced melody characterized by rapid arpeggios and a steady rhythm. (2) There are no vocals detected; the soundscape is entirely instrumental. (3) The acoustic environment is quiet, suggesting an indoor room with minimal ambient noise, allowing the piano notes to resonate clearly without distortion.",
+      "text_narrative_log": "(1) None detected."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 83.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "The video consists of a continuous, single-shot piano performance from start to finish."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands",
+        "Head",
+        "Upper body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female character playing the piano.",
+      "mainCharacterDescription": "A young woman with long, straight dark hair, wearing a grey and white striped button-down shirt over a black top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A home interior featuring a wooden cabinet with decorative items, a small potted plant, and a white wall with a louvered partition or window in the background.",
+      "lightingStyle": "Warm indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Warm and natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "Piano"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "None"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Piano Solo",
+      "bgmBPM": 140,
+      "instrumentFamiliesAudible": [
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Piano"
+      ],
+      "musicSourceType": [
+        "Live"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Performance Start -> Continuous Play -> Performance End",
+      "mainPurpose": "To showcase the pianist's musical talent and skill through a continuous live performance of an upbeat piece, likely for entertainment and social media engagement.",
+      "visualEmotion": "Calm and focused"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Clean, single-shot performance style typical of music creators.",
+      "freeDescribe": "The focus is purely on the musical performance without any distracting elements like text or cuts."
+    }
+  }
+}

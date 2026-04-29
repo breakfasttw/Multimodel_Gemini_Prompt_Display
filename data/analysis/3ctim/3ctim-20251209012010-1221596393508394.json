@@ -1,0 +1,181 @@
+{
+  "videoName": "3ctim-20251209012010-1221596393508394.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 102,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Unboxing",
+        "Review",
+        "Tech News"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a man in a blue sweatshirt and a flat cap sitting on a floor in front of a beige sofa, presenting two Apple product boxes: an iPad Pro and a Magic Keyboard. (2) He proceeds to unbox the iPad Pro, showing the contents which include the tablet itself, a manual, a USB-C cable, and a 20W power adapter. (3) He holds the tablet and gestures while explaining its specifications, with close-up shots of the tablet's back and screen. (4) He switches to showing the Magic Keyboard, focusing on the metallic finish, the larger trackpad, and the function keys. (5) The final segment shows a 'behind-the-scenes' clip where the man laughs after misspeaking during a take.",
+      "audio_narrative_log": "(1) Fast-paced Mandarin male vocals introduce the products with an energetic tone. An upbeat, electronic background track with a steady rhythm plays continuously. (2) Sounds of plastic peeling and cardboard boxes opening are heard as the man speaks about the M5 chip and 3nm process. (3) The vocal density remains high as he compares performance stats, with the music maintaining a constant tempo. (4) Toward the end, the tone becomes more casual and humorous during the blooper reel, followed by a sudden cut to silence at the very end.",
+      "text_narrative_log": "(1) Functional Text: '我們今天要來快速開箱' (We are doing a quick unboxing today) - Informative tone. (2) Hook Text: 'M5 的 iPad Pro 11吋' (M5 iPad Pro 11-inch) - Highlighting the core product. (3) Decorative Text: 'CPU 效能提升 15%', 'GPU 達到 10 核心', 'AI 運算快了 3.5 倍' - Highlighting technical specs with a hook-like style. (4) Effect Text: '幕後花絮' (Behind the scenes) - Indicating a shift to humorous content."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 4.25,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Unboxing -> Specification Review -> Accessory Demo -> Outro/Bloopers"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Upper body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main tech creator throughout the video.",
+      "mainCharacterDescription": "A middle-aged man wearing a dark blue 'ROOTS' sweatshirt, glasses, and a grey flat cap."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor",
+          "Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A simple indoor setting with a large beige fabric sofa and a plain white/beige wall.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "iPad Pro",
+        "Magic Keyboard",
+        "Smartphone",
+        "Power Adapter",
+        "USB Cable"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple",
+        "Roots"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, energetic, and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Pop",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Hands-on -> Spec Comparison -> Accessory Highlight -> Humor Outro",
+      "mainPurpose": "The video serves as a comprehensive first-look and review of the iPad Pro with the M5 chip. It targets tech enthusiasts by combining unboxing, hardware demonstration, and detailed technical performance comparisons against the previous generation to encourage purchasing decisions.",
+      "visualEmotion": "Informative and energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed product review and recommendation of high-end Apple products.",
+      "endorsementObject": [
+        "Apple"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Opening introduction referencing the '3ctim' brand.",
+      "freeDescribe": "The video uses typical tech-vlogger tropes: rapid-fire specs, on-screen dynamic text, and a relatable 'blooper' ending to build audience rapport."
+    }
+  }
+}

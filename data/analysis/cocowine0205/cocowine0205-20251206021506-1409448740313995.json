@@ -1,0 +1,176 @@
+{
+  "videoName": "cocowine0205-20251206021506-1409448740313995.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 46,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in a white top and black skirt stands in a warehouse store aisle filled with stacks of large red snack boxes. (2) She picks up a Doritos Christmas-themed box, showcasing the front graphic which includes a Christmas tree and a bell made of chips. A male hand occasionally enters the frame to point out specific details on the box. (3) She rotates the box to reveal its sides, showing images of the internal snack bags and the price tag. The camera uses frequent close-ups on the product packaging and her facial expressions, which remain cheerful throughout.",
+      "audio_narrative_log": "(1) The video begins with an upbeat, synthesized version of 'We Wish You a Merry Christmas' that continues as background music. (2) A female voice speaks enthusiastically in Mandarin about the product, joined by a male voice off-screen commenting on the box design. (3) The conversation remains high-energy with consistent background music and some ambient warehouse store echo.",
+      "text_narrative_log": "(1) 'Costco Wholesale' logo appears at the top throughout. (2) Functional text: 'wish you a Merry Christmas' and Traditional Chinese translations of the dialogue. (3) Decorative/Hook text: '多力多滋 299元 超大箱' (Doritos 299 NTD huge box), '聖誕大餐 派對包' (Christmas Feast Party Pack) in bright yellow and red fonts."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at stack -> Picking up product -> Close-up details of packaging -> Summary and outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator on-screen, 1 male hand visible pointing at the box.",
+      "mainCharacterDescription": "Young East Asian woman with long black hair, wearing a white long-sleeved blouse and a black high-waisted skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A warehouse store environment with high shelves and large stacks of boxed merchandise, specifically snack boxes.",
+      "lightingStyle": "Bright indoor warehouse lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Corn chips",
+        "Snack boxes"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Doritos"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and excited",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Holiday Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Product Demo -> Call to Action",
+      "mainPurpose": "The video serves as a shopping guide and promotion for a seasonal Doritos gift box available at Costco. It highlights the aesthetic packaging and flavor variety to encourage holiday purchases.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator specifically highlights the price, the location (Costco), and the brand features of the Doritos box.",
+      "endorsementObject": [
+        "Doritos",
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-show style text overlays and interaction with an off-screen partner.",
+      "freeDescribe": "Typical lifestyle/influencer content aimed at bargain-hunting or holiday shopping audiences in Taiwan."
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "videoName": "3ctim-20251010224640-1361824715964622.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 87,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Review",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "USA"
+        ],
+        "city": [
+          "Cupertino"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man in a grey flat cap and light green t-shirt stands outdoors under olive trees, gesturing enthusiastically. Behind him, the glass-walled Apple Park Visitor Center is visible. (2) The camera switches between medium shots of the man talking and close-up views of him adjusting his sunglasses. He holds a polarized lens up to the camera to demonstrate its effect on the vibrant colors of an Apple-branded rainbow t-shirt inside the store. (3) The man is shown sitting at an outdoor table and walking along the pavement, pointing to the frames of his sunglasses. (4) The video concludes with the man back in the initial outdoor setting, gesturing towards the bottom of the screen while smiling.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music starts. A man speaks in an energetic, friendly Mandarin tone, introducing his location at the Apple Headquarters. (2) The music continues as the speaker describes the features of his sunglasses, including lens technology and frame material. Ambient wind noise and distant outdoor chatter are occasionally audible. (3) The speaker's voice maintains a consistent, persuasive volume as he explains the benefits of the sunglasses for activities like golf. (4) The music remains steady until the end, where the speaker provides a concluding call to action.",
+      "text_narrative_log": "(1) Functional Text: \"我們現在人呢\", \"蘋果總部\", \"旁邊的遊客中心\", \"剛參加完iPhone發表會\" - informative tone setting the scene. (2) Hook Text: \"(Tim的時尚單品!)\", \"Maui Jim 太陽眼鏡\" - enthusiastic tone introducing the product. (3) Technical/Functional Text: \"PolarizedPlus2®技術\", \"消除眩光, 提升色彩飽和度\", \"(增強色彩對比度: 強化紅光、綠光、藍光)\", \"高達56\" - educational tone describing product specifications. (4) Descriptive Text: \"直接暗掉\", \"戴比不戴更清晰\", \"很有個性吧\", \"保護你的眼睛\" - persuasive tone highlighting benefits."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 3.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at Apple HQ -> Product technology demo -> Lifestyle use-case explanation -> Conclusion and CTA."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main creator, approximately 7 passers-by visible in the background and retail area.",
+      "mainCharacterDescription": "An adult male wearing a denim-style flat cap, dark sunglasses, a light green t-shirt, a yellow watch band, and multiple beaded bracelets."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Retail Store",
+          "Cafe"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The exterior and interior of the Apple Park Visitor Center, featuring large glass panes, olive trees, outdoor seating, and displays of Apple merchandise.",
+      "lightingStyle": "Natural light",
+      "weather": "Sunny",
+      "season": "Autumn",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "POV",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartwatch",
+        "Smartphone",
+        "Laptop"
+      ],
+      "landmark": [
+        "Apple Park Visitor Center"
+      ],
+      "brandLogos": [
+        "Apple",
+        "Maui Jim"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Wind",
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based -> Demo -> CTA: Hook -> Feature Presentation -> Visual Proof -> Lifestyle Context -> Outro.",
+      "mainPurpose": "This video is a product endorsement for Maui Jim sunglasses. The creator utilizes his presence at the Apple Park Visitor Center to create a high-tech, lifestyle-oriented context, demonstrating the sunglasses' lens technology through practical visual comparisons and discussing their physical comfort and utility.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct mention of the brand 'Maui Jim', detailed explanation of its proprietary technology, and a call to action for viewers to check the description box.",
+      "endorsementObject": [
+        "Maui Jim"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of the '3cTim' branding and high-energy tech-vlogger persona; filming at a globally recognized tech landmark.",
+      "freeDescribe": "The video effectively targets a tech-enthusiast audience by bridging consumer electronics culture with high-end accessory reviews."
+    }
+  }
+}

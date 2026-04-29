@@ -1,0 +1,169 @@
+{
+  "videoName": "2uncle987-20250702234017-1152186053567339.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 25,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Music",
+        "Interactive Challenge"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Ten individuals are posed in a studio setting, with red numbers 1 through 10 superimposed above their heads. They are all holding smartphones. (2) As the music plays, participants shift their facial expressions and body language; some sway slightly, some pretend to sing with closed eyes, and others maintain a neutral, observant look to conceal who is actually vocalizing. (3) The shot remains static throughout the entire performance, focusing on the collective group's expressions.",
+      "audio_narrative_log": "(1) The audio begins with a single, clear female voice singing a melodic Mandopop song a cappella. (2) The singing continues without any background music, maintaining a steady and emotional tempo. (3) The vocal track remains consistent in volume and clarity until the video ends, with no ambient noise or sound effects detected.",
+      "text_narrative_log": "(1) Hook Text: \"到底誰在唱歌\" (Who on earth is singing?) appears at the top center with a curious and challenging tone. (2) Decorative Text: Numbers 1 through 10 are placed above the heads of the ten participants for identification. (3) Functional Text: Subtitles for the lyrics appear at the bottom, along with the song credit \"七月半-你聽見我了沒有\"."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 25.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Static group performance with floating text numbers."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 10,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 7,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 10,
+      "bodyPartVisibility": [
+        "Full body",
+        "Sitting",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "10 people are explicitly numbered; participants 1, 5, and 6 are male; 2, 3, 4, 7, 8, 9, and 10 are female.",
+      "mainCharacterDescription": "A diverse group of young adults dressed in casual clothing including flannels, t-shirts, and denim."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A minimalist white indoor studio with a small wooden table, some decorative objects, and studio lighting equipment partially visible.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Melodic and emotional",
+        "pitch": "Mid-to-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous singing",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "No Music",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Static Setup -> Interactive Performance",
+      "mainPurpose": "The video is designed as an interactive social media challenge to promote the song '你聽見我了沒有' by the band '七月半'. By challenging the audience to identify the actual singer among ten participants, it drives viewer engagement and participation in the comments section.",
+      "visualEmotion": "Calm and Curious"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "On-screen text explicitly credits the band '七月半' and the song title.",
+      "endorsementObject": [
+        "七月半"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Numbered group challenge format.",
+      "freeDescribe": "This type of content relies heavily on the 'gamification' of music promotion, encouraging users to interact with the post multiple times to find clues about the singer."
+    }
+  }
+}

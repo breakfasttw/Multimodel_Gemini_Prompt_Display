@@ -1,0 +1,168 @@
+{
+  "videoName": "2uncle987-20251105213547-860567757030285.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 25,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Dance"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Three women are dressed in anime-inspired costumes (one in a blue and orange Goku-style suit, one with purple braids and a yellow jacket, and one with long red hair and a yellow skirt). They stand in a shop and perform a synchronized hand-dance to upbeat music. (2) They continue the dance with various finger-pointing and heart-shaped gestures. (3) The woman with purple braids suddenly breaks formation and runs away from the camera, followed by the red-haired woman. The woman with purple braids slips on the floor and falls on her back. (4) The fall is repeated in a slow-motion, black-and-white edit for comedic effect.",
+      "audio_narrative_log": "(1) An upbeat Japanese pop song starts immediately with energetic male/female vocals and a fast electronic beat. (2) The music continues steadily throughout the dancing sequence. (3) A sudden, exaggerated 'thud' and sliding sound effect (SFX) is heard as the woman falls. (4) The J-pop music continues as the background audio while the sound of the fall is emphasized.",
+      "text_narrative_log": "(1) Functional Text: 'POV：躲了一個下午你當仔到...' (Traditional Chinese) appears at the top, setting a humorous scenario of being caught. (2) Decorative Text: '得了一回滑倒🤣' appears during the replay of the fall to highlight the humorous accident."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 12.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Dance performance -> Sudden chase -> Comedic accident"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "Three female dancers/actors are visible throughout the video.",
+      "mainCharacterDescription": "One woman with long purple braids in a yellow jacket, one with black hair in a blue/orange martial arts gi, and one with long red hair in a black graphic tee and yellow skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Shop"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A retail shop interior featuring shelves stocked with various goods, stationery, and toys. The floor is tiled with a blue and white pattern.",
+      "lightingStyle": "Bright indoor artificial lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut to SFX layering",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and rhythmic",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Japanese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "J-Pop",
+      "bgmBPM": 140,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Slipping/Thud sound"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Action -> Twist -> Replay",
+      "mainPurpose": "The video is a humorous short intended for social media engagement. It uses the contrast between a carefully choreographed, anime-inspired dance and a sudden, clumsy fall to create a comedic 'fail' moment that subverts the viewer's expectations.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No explicit product promotion detected.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Anime cosplay and comedic timing.",
+      "freeDescribe": "The use of 'POV' text and a trending J-pop song indicates a content style designed for platforms like TikTok or Instagram Reels."
+    }
+  }
+}

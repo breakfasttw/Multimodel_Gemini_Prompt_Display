@@ -1,0 +1,179 @@
+{
+  "videoName": "3ctim-20250613035657-782824927708782.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 52,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Product Demo"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a close-up of a person's hands holding a black tablet with gaming controller grips attached to both ends. (2) The screen displays an Android home interface before launching the game 'Genshin Impact'. (3) The user demonstrates gameplay where a purple-clad character runs through a scenic open-world environment with stone paths and grass. (4) The camera shows the device being rotated to display its slim profile and the back, which features a dual-camera setup and branding. (5) The video concludes with continued gameplay and the person manipulating the controller's joysticks and buttons.",
+      "audio_narrative_log": "(1) Two male voices are heard in an enthusiastic and conversational dialogue in Mandarin. (2) Melodic orchestral music from the video game plays continuously in the background. (3) A consistent hum of background chatter and movement characteristic of a large public event or tech expo is audible throughout. (4) No distinct mechanical sound effects from the physical device buttons are heard over the speech and BGM.",
+      "text_narrative_log": "(1) Functional Text: Standard Android app icons like 'Google', 'Gmail', 'YouTube', and 'Play Store' appear on the menu. (2) Functional Text: Game UI elements including HP bars, skill icons, and character names 'Mona' and 'Chris' appear during gameplay. (3) Content Text: The brands 'Lenovo' and 'GAMESIR' are clearly printed on the rear of the device and controller. (4) Content Text: Technical labels like '13MP CAMERA' and 'Bluetooth' are visible on the back of the hardware."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 8.6,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Software Demo -> Gameplay -> Hardware Reveal -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "Hands of 1 main creator; at least 2 blurred figures visible in the background background.",
+      "mainCharacterDescription": "Only hands and forearms are visible; wearing a dark watch and a decorative ring on the right index finger."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Expo Hall",
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A professional exhibition booth with purple and white panels, featuring some blurred tech display tables and passers-by.",
+      "lightingStyle": "Bright, even expo lighting with purple ambient hues",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Handheld",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Tablet",
+        "Game Controller",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Lenovo",
+        "GAMESIR",
+        "Google"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Lively and informative",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Game Soundtrack",
+      "bgmBPM": 110,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Woodwind"
+      ],
+      "instrumentsAudible": [
+        "Violin",
+        "Flute"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd",
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature Highlight -> Performance Test -> Hardware Specs",
+      "mainPurpose": "To showcase the gaming performance and hardware design of a Lenovo tablet paired with a GameSir controller, specifically targeting mobile gamers by demonstrating smooth frame rates in 'Genshin Impact'.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed hands-on demonstration focusing on performance benefits and positive verbal highlights of technical specifications.",
+      "endorsementObject": [
+        "Lenovo",
+        "GAMESIR"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Hands-on tech review style typical of 3C influencers.",
+      "freeDescribe": "The video effectively uses a popular high-demand game (Genshin Impact) to validate the device's high-end performance claims."
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "videoName": "yga0721-20250731003224-2306346656531665.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 238,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Vlog",
+        "Performance",
+        "Podcast"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video employs a split-screen layout where the upper half depicts an indoor studio setting with two individuals, a male and a female, while the lower half shows a night-time dashcam perspective of city streets. (2) The male character, wearing a black-and-white jacket and a professional headset, sits in front of a microphone and laptop, singing expressively with varied facial expressions. The female character, in a striped shirt, sits beside him, listening and occasionally interacting with a mobile phone. (3) The studio background is densely packed with shelves of collectible figurines and toys. (4) The lower dashcam footage continuously moves through urban traffic, passing buses and neon signs. (5) As the performance concludes, the male character leans back in his chair and engages in brief conversation.",
+      "audio_narrative_log": "(1) A male voice begins singing a melodic Mandarin ballad with a soulful and emotional tone. The background music is a studio-quality arrangement featuring piano and light percussion. (2) There are intervals where the male and female voices engage in casual, friendly conversation in Mandarin, sounding like a typical podcast interaction. (3) The audio remains clear and professionally mixed throughout, with the vocals having a high ratio compared to the background music. (4) No significant ambient street noise is heard despite the dashcam visual, indicating the audio is strictly from the studio environment.",
+      "text_narrative_log": "(1) Functional Text: White lyrics appear chronologically in the lower half of the screen, synced with the song. (2) Decorative Text: Top titles read '蔡阿嘎 愚人節快樂cover' in bold yellow and white. A bracketed caption '(嘿哥podcast直播。也是會唱一些新歌啦)' sits in the middle. (3) On the left, a '今日歌單' (Today's Song List) provides a list of titles. On the right, live chat comments from viewers scroll vertically, adding to the variety-show/livestream aesthetic."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 238.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "The video maintains a consistent split-screen format showing a live podcast performance alongside night driving footage."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male podcaster singing, 1 female co-host sitting next to him.",
+      "mainCharacterDescription": "A male with brown hair in a headset and black/white jacket; a female with a high bun wearing a blue and white striped shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The upper background is an indoor room filled with collectible figurines on shelves; the lower background is a night-time city street with moving traffic and commercial buildings.",
+      "lightingStyle": "Studio lighting",
+      "weather": "Clear",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Bus"
+      ],
+      "techDetect": [
+        "Microphone",
+        "Laptop",
+        "Smartphone",
+        "Headset"
+      ],
+      "landmark": [
+        "Breeze Xinyi"
+      ],
+      "brandLogos": [
+        "Breeze",
+        "正新精品門窗"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Emotional and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Mandopop Ballad",
+      "bgmBPM": 72,
+      "instrumentFamiliesAudible": [
+        "Keyboard",
+        "Strings"
+      ],
+      "instrumentsAudible": [
+        "Piano"
+      ],
+      "musicSourceType": [
+        "Live"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Performance -> Outro",
+      "mainPurpose": "To showcase a live singing performance by the influencer 蔡阿嘎 (Cai Aga) during his podcast session, likely intended for fan engagement and entertainment.",
+      "visualEmotion": "Sentimental"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The split-screen layout with dashcam footage and studio performance is a common creative choice for this specific creator's music covers.",
+      "freeDescribe": "The high volume of on-screen text, including song lists and chat logs, indicates a strong focus on community interaction typical of popular Taiwanese YouTubers."
+    }
+  }
+}

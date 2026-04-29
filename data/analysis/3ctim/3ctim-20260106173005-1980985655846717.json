@@ -1,0 +1,180 @@
+{
+  "videoName": "3ctim-20260106173005-1980985655846717.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 40,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tech Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A hand holds a white 3D-printed model of a square foldable device. (2) A man wearing a grey flat cap, glasses, and a red sweater appears in front of a display of smartphones in a retail shop. (3) The man holds the white foldable model, showing its front and back. (4) A split-screen comparison shows the white model's thickness next to a silver foldable smartphone. (5) Close-ups of the white model's surface showing small circular sensors and a side-mounted button area. (6) The back of the white model is compared with the back of a white smartphone with a single camera lens. (7) Final shot compares the white model side-by-side with a large-screen foldable smartphone displaying a home screen.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo Lo-fi electronic music begins. A male voice speaks rapidly and excitedly in Mandarin. (2) Sound effects including a 'shing' or sparkle sound occur when visual highlights appear. (3) The male voice maintains a consistent, professional yet enthusiastic tone throughout. (4) Ambient noise is minimal, suggesting a controlled indoor environment or high-quality directional microphone usage.",
+      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese throughout the video translating the narration. (2) Decorative/Hook Text: '傳聞的 iPhone 摺疊' (Rumored iPhone Fold) in bold blue/white/yellow. '被 3D 列印出來了' (Has been 3D printed). '推薦大家買手機到米可' (Recommend everyone buy phones at miko). (3) Technical labels: 'Maker World', '外螢幕 5.4-5.5 吋', '內螢幕 7.6-7.8 吋', '一模一樣的薄' (Exactly the same thinness), 'Face ID', 'Touch ID', 'Air 是單鏡頭' (Air is single lens), '雙鏡頭' (Dual lens), 'Galaxy Z Fold 7'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.85,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro with 3D model -> Talking head in shop -> Detailed spec comparison -> Conclusion with size comparison."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main creator (Tim哥) appearing on screen and holding objects.",
+      "mainCharacterDescription": "Middle-aged male, wearing a grey patterned flat cap, black-rimmed glasses, and a vibrant red long-sleeved sweater."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Mobile Phone Shop",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Background alternates between a retail shelf filled with smartphone boxes (Vivo, Realme) and a plain purple/grey studio wall.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "3D Printed Model"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple",
+        "Samsung",
+        "miko",
+        "Maker World",
+        "vivo",
+        "realme"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and informative",
+        "pitch": "Normal",
+        "loudness": "Clear",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Lo-fi",
+      "bgmBPM": 110,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Drum Machine",
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Sparkle SFX",
+        "Transition swoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature Breakdown -> Comparison -> Engagement",
+      "mainPurpose": "The video aims to discuss rumored specifications of a future Apple foldable phone by using a physical 3D-printed model from 'Maker World'. It serves as both a tech rumor update and a subtle endorsement for the 'miko' mobile phone shop.",
+      "visualEmotion": "Energetic and curious"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "A large banner at the top of the video and verbal recommendations encourage viewers to buy phones at 'miko'.",
+      "endorsementObject": [
+        "miko 米可手機館"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Tim哥's signature red sweater and flat cap styling.",
+      "freeDescribe": "The video utilizes high-interest tech rumors (iPhone Fold) to drive traffic to a retail brand, combining news-style reporting with commercial placement."
+    }
+  }
+}

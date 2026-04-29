@@ -1,0 +1,177 @@
+{
+  "videoName": "achusan0817-20251122202947-1550447156212193.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 91,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Commercial",
+        "Comedy",
+        "Animation"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with an anime-style 2D animated sequence showing a school building and cherry blossoms, followed by title text. (2) The scene transitions to a real-life set on a couch where several plush dolls (a blue bat, two beige figures) are positioned as characters in a dorm. (3) A new human-like plush doll with black hair and a blue jacket is introduced into the scene. (4) Human hands enter the frame to manipulate the dolls, specifically removing the jacket of the new doll to show a feature. (5) A small plastic student ID card is placed in front of the doll. (6) The final phase transitions to a high-quality product showcase with the plush doll rotating against a stylized background with floating text and pricing info.",
+      "audio_narrative_log": "(1) High-energy Japanese narration starts over an upbeat anime theme song. (2) The soundscape shifts to Mandarin Chinese dialogue with distinct character voices: a deep, authoritative voice for the blue doll and a gentler voice for the new doll. (3) Periodic cartoon sound effects (pops, magic sparkles) are used for comedic emphasis. (4) The final segment features a melodic Mandopop style background track with a clear male voiceover describing product specifications and price.",
+      "text_narrative_log": "(1) 阿啾小劇場 (Functional: Series Title). (2) 轉學生登場！ (Decorative: Hook text meaning 'Transfer student appears!'). (3) 學生宿舍 (Functional: Location label). (4) Shawn學長 生日紀念絨毛娃娃 (Functional: Product name). (5) NT$ 800 (Functional: Price). (6) 附學生證(雙面) (Functional: Product feature detail)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 3.25,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Character Skit -> Product Reveal -> Feature Showcase -> CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 0,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 4,
+      "bodyPartVisibility": [
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "4 main plush doll characters; human hands appear occasionally to move the toys.",
+      "mainCharacterDescription": "A plush doll representing 'Shawn學長' with messy black hair, red eyes, wearing a red shirt and blue hooded jacket."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Initially a gray fabric couch with a small whiteboard; later a vibrant pink and white commercial graphic background.",
+      "lightingStyle": "Bright, even studio lighting.",
+      "weather": "Indoor",
+      "season": "Spring (implied by cherry blossoms in intro)",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and Saturated",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Pan"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Cat"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "阿啾小劇場"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 5,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 4,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and Dramatic",
+        "pitch": "Varied (Deep to High)",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese",
+          "Japanese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Anime / J-Pop / Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electric Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop SFX",
+        "Sparkle Sound",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Comedic Skit -> Feature Demo -> Promotional Close",
+      "mainPurpose": "This video serves as a creative marketing tool to launch a limited edition plush doll for the 'Shawn' character. It utilizes the creator's established 'Mini Theater' comedy format to maintain viewer engagement through a narrative skit before pivoting to a direct commercial pitch highlighting price and specific product features like removable clothing and included ID card.",
+      "visualEmotion": "Playful and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of product name, pricing, and availability details in the second half of the video.",
+      "endorsementObject": [
+        "Shawn學長絨毛娃娃"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of the '阿啾小劇場' branding and specific plushie character designs recognizable to the creator's fanbase.",
+      "freeDescribe": "The video effectively bridges digital content with physical merchandise by giving the product a personality through the skit."
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "videoName": "2uncle987-20250907014507-1543588943360733.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 24,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "Hong Kong"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a fast-paced montage of two young women enjoying various Hong Kong-style dishes, including egg tarts, iced drinks, fried rice, and dim sum. They show expressions of delight and focused eating. (2) At 00:15, the scene shifts to a static shot of one woman sitting in a restaurant booth, holding a bowl of noodles and chopsticks. She speaks directly to the camera with a playful and humorous expression, smiling and looking relaxed.",
+      "audio_narrative_log": "(1) An upbeat, repetitive song plays with the lyrics \"I like to eat, eat, eat...\" synced to the fast-cut eating montage. (2) At 00:15, the music stops, and a young woman's voice takes over, speaking in a humorous, storytelling tone in Mandarin. (3) Subtle background restaurant sounds like muffled chatter and clinking dishes are audible behind her speech.",
+      "text_narrative_log": "(1) A fixed title at the top reads: \"來香港爆吃港式飲茶\" (Coming to Hong Kong to feast on HK-style dim sum). (2) Functional subtitles appear for the dialogue: \"30歲的女人\" (A 30-year-old woman), \"你不用餵她安眠藥\" (You don't need to give her sleeping pills), \"滿滿的澱粉就好了\" (Just give her plenty of starch), \"吃完就想睡\" (She'll want to sleep after eating). The tone is humorous and relatable."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 16,
+      "averageSceneDuration": 1.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Fast-paced eating montage -> Static talking-head humorous commentary."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Head and shoulders",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators appearing interchangeably in the montage; 1 appears as the main speaker at the end.",
+      "mainCharacterDescription": "Two young Asian women in casual summer attire; one wears a white tank top, the other a black vest over a white shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Restaurant",
+          "Cafe"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Various Hong Kong-style restaurant interiors featuring traditional wall decor, tiled walls, green booths, and crowded tables.",
+      "lightingStyle": "Bright indoor restaurant lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm and Vibrant",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Egg tart",
+        "Fried Rice",
+        "Noodles",
+        "Iced Lemon Tea",
+        "Dim Sum",
+        "Beef Ho Fun"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut from music to dialogue",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and friendly",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Children's Song style",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Cafe"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage -> List-based: Hook (Action Montage) -> Logic (Joke/Commentary).",
+      "mainPurpose": "The video aims to entertain through a relatable lifestyle joke. It uses a high-energy food montage to hook the audience, followed by a humorous 'confession' that for a 30-year-old woman, a high-carb meal is as effective as a sleeping pill, promoting a lighthearted take on aging and food culture.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video focuses on a personal joke rather than promoting a specific restaurant brand name.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-cut synchronized eating clips paired with self-deprecating humor about age.",
+      "freeDescribe": "The video relies heavily on the 'carb-coma' trope, which is a popular relatable content theme in Asian social media vlogs."
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "videoName": "alephant_0427-20251212033806-809532221405359.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 72,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Beauty"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Kyoto"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with bright pink hair looks into the camera and speaks, with a large text hook overlay. (2) The scene shifts to a mobile screen recording showing a website for booking a hair salon called 'hair studio Zen ~advance~' in Kyoto. (3) The woman is now in a hair salon, wearing a grey sweatshirt with a UFO print, discussing hair color with a female stylist who is wearing a black mask. (4) Close-up shots of the hair dyeing process, including the application of purple dye and the woman wearing a plastic cap. (5) A humorous filtered shot of her face appears during the process. (6) A transition shows her having her hair washed with a white cloth over her eyes. (7) Montage of the stylist cutting her bangs and drying her hair, now a vibrant reddish-purple. (8) The woman walks on a sunny street in Kyoto, wearing a beige puffer jacket, showing off her new hairstyle with heart-shaped animation effects. (9) A calculator shows the total bill of 10,100 Yen. (10) The exterior of the salon building and its signage are shown, followed by the woman posing happily in the salon and inviting viewers to visit.",
+      "audio_narrative_log": "(1) Upbeat, energetic pop music with a fast tempo starts. A female voice begins narrating in a high-pitched, enthusiastic tone in Mandarin. (2) Ambient salon sounds like the hum of a hairdryer and the sound of running water are subtly mixed with the music during the dyeing and washing scenes. (3) The music remains constant but shifts slightly in melody as the video moves to the outdoor reveal. (4) The narrator's voice maintains a friendly and informative tone throughout, ending with a cheerful invitation.",
+      "text_narrative_log": "(1) Hook text: \"到日本爆改換頭竟然只要2000元!\" (Changing your look in Japan for only 2000 TWD!). (2) Functional text: \"這次到日本因為頭髮一直吹不乾\", \"所以我馬上隨便預約一間髮廊\" (Explain the reason for the salon visit). (3) Booking tutorial text: \"我是用 Hot Pepper 預約\", \"點進預約鍵\" (Booking via Hot Pepper Beauty). (4) Process text: \"開始啦!!\", \"設計師會先跟你細心討論髮色\" (Starting the process and consultation). (5) Result and Price text: \"染、剪、護、洗 這樣竟然只要2000台幣!\" (Dye, cut, treat, wash for 2000 TWD). (6) Location info: \"我來的是東本願寺對面的 hair studio Zen advance\", \"設計師是村上幸佳\" (Salon name and stylist's name)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.57,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Booking Tutorial -> Salon Process -> Outdoor Reveal -> Cost & Location Details"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Head",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main creator, 2 female salon staff members visible during the process.",
+      "mainCharacterDescription": "A young Asian woman with a friendly face, wearing a grey sweatshirt with a cartoon UFO/alien graphic, and later a beige puffer jacket. Her hair changes from a faded pink to a deep reddish-purple."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Hair Salon",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern minimalist hair salon interior with mirrors and professional equipment; outdoor urban street scene in Kyoto with Japanese signs and clear blue sky.",
+      "lightingStyle": "Bright studio lighting and natural daylight.",
+      "weather": "Sunny",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese (Traditional)",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, High Saturation",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Selfie"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Higashi Hongan-ji Temple"
+      ],
+      "brandLogos": [
+        "Casio",
+        "Hot Pepper Beauty"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and informative",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat J-Pop style",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Hairdryer",
+        "Running water"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Practical Tutorial -> Experience Log -> Result Reveal -> Final Recommendation",
+      "mainPurpose": "To share a positive and cost-effective personal experience of getting a hair makeover in Kyoto, Japan, serving as both lifestyle entertainment and a practical travel tip for Mandarin-speaking viewers.",
+      "visualEmotion": "Energetic and Happy"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed mention of salon name, location, booking app, and specific stylist's name.",
+      "endorsementObject": [
+        "hair studio Zen ~advance~"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin narration, variety-show style subtitles, and heart animations during the reveal.",
+      "freeDescribe": "The video effectively targets female travelers interested in Japanese beauty culture by focusing on the 'cheap but high-quality' (CP value) aspect."
+    }
+  }
+}

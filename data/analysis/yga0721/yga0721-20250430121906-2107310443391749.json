@@ -1,0 +1,174 @@
+{
+  "videoName": "yga0721-20250430121906-2107310443391749.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 12,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Event",
+        "Entertainment"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a wide shot of a crowd in a large event space, featuring many individuals holding professional cameras and smartphones pointed toward an unseen center of attention. A large blue screen in the background displays a brand logo. (2) The camera pans smoothly to the right, showing rows of gold-framed chairs and a dense audience of photographers and fans, some crouching and some standing, all focused on the front. (3) The pan concludes by focusing on a male in a black beanie and glasses sitting next to a female with long hair in a denim jacket; both are smiling and posing for the cameras as people around them lean in to take photos.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic pop music with a steady beat starts immediately. (2) Layered over the music, a chaotic mix of human voices is heard, with multiple people shouting \"Here!\" and \"Look over here!\" in Mandarin to get the attention of the subjects. (3) The combination of high-energy music and the loud, excited chatter of the crowd continues consistently until the video ends.",
+      "text_narrative_log": "(1) Functional Text: On the background screen, the text \"Simply 新普利\" is visible alongside a leaf-shaped logo, identifying the brand of the event."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 12.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Panning across crowd -> Focus on main characters"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 25,
+      "maleDetectAmount": 12,
+      "femaleDetectAmount": 13,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "Approximately 23 audience/media members and 2 main celebrity subjects in the center.",
+      "mainCharacterDescription": "A male wearing a black beanie, black glasses, and a black shirt; a female with long dark hair wearing a light blue denim jacket."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Event Hall",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A professional event setting featuring a large blue LED backdrop with brand logos, gold-painted chairs, and a crowded atmosphere of media personnel.",
+      "lightingStyle": "Bright studio/event lighting with occasional camera flashes.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and Vibrant",
+      "cameraWork": [
+        "Panning"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Professional Camera"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Simply 新普利"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 15,
+        "backgroundCrowdVoices": 20,
+        "vocal_demographics": {
+          "male_vocal_count": 8,
+          "female_vocal_count": 7,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and frantic",
+        "pitch": "Varied",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd chatter"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Observation -> Discovery",
+      "mainPurpose": "To document the high-intensity atmosphere and media frenzy surrounding a celebrity appearance at a brand promotional event for 'Simply 新普利'. The video emphasizes the popularity of the subjects and the scale of the press coverage.",
+      "visualEmotion": "Energetic and Hectic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "The prominent brand logo on the background screen and the formal seating arrangement suggest an official brand event.",
+      "endorsementObject": [
+        "Simply 新普利"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Crowded media panning shot",
+      "freeDescribe": "The video captures a typical 'star-spotting' moment in East Asian celebrity culture, characterized by high-density media presence and synchronized attention."
+    }
+  }
+}

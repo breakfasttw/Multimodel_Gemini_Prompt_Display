@@ -1,0 +1,179 @@
+{
+  "videoName": "yga0721-20250916142353-883959514446516.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 87,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Podcast",
+        "Trivia",
+        "Talk Show"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a stylized text card over a yellow brick wall background. (2) It transitions to a studio setting where a male host, wearing a white shirt and headphones, is speaking animatedly into a microphone. (3) A female guest is sitting on a brown sofa, reacting to the host's trivia questions with expressions of surprise and skepticism. (4) The scene frequently cuts between the host's excited gestures and close-ups of the guest. (5) Periodic text cards reappear to introduce new trivia segments. (6) The video concludes with an end screen featuring a promotional image and text directing viewers to a full video on another channel.",
+      "audio_narrative_log": "(1) Enthusiastic male vocals open with a trivia question, accompanied by upbeat, medium-tempo background music and audience laughter sound effects. (2) The soundscape features a mix of the host's high-pitched shouting and a female guest's occasional laughter and brief comments. (3) Mid-video, the host performs a short, melodic vocal snippet of a popular song. (4) Various sound effects like 'ding' for correct facts and loud 'Oh!' reactions are interspersed throughout the dialogue. (5) The audio remains a clear studio recording with minimal ambient noise.",
+      "text_narrative_log": "(1) Decorative Hook: '小陳1016 在台灣被棄養的嬰兒會跟當地的市長同一個姓' (Trivia about abandoned babies having the same surname as the mayor), tone is intriguing. (2) Functional Text: Variety-show style subtitles like '誰知道' (Who knew?), '騙人' (Liar), and '好可怕' (So scary), reflecting emotional reactions. (3) Decorative Hook: '小M 加油站附設廁所是宋楚瑜所提出的構想' (Trivia about gas station toilets), tone is informative. (4) Decorative Hook: '當你孤單你會想起誰 原唱不是張棟樑' (Trivia about the original singer of a song), tone is surprising. (5) Promotional Text: '完整影片請上 蔡阿嘎543 頻道收看', tone is instructional."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 38,
+      "averageSceneDuration": 2.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Trivia Segment 1 -> Trivia Segment 2 -> Trivia Segment 3 -> Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Upper body",
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male creator (host), 1 female guest in studio.",
+      "mainCharacterDescription": "The main male host has short brown hair, wearing a white t-shirt and professional silver/white headphones. The female guest has long dark hair and wears a denim jacket over a white dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The primary background is a studio with wooden shelves filled with figurines (including Bearbrick), framed artwork, and microphones. Title cards feature a repeating yellow brick pattern.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and vibrant",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Headphones",
+        "Microphone",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cuts with SFX transitions",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "Medium-high",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Laughter",
+        "Applause",
+        "Ding",
+        "Meme sounds"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Question -> Reaction -> Fact Reveal",
+      "mainPurpose": "The video aims to entertain and educate through a collection of surprising cold facts (trivia) about Taiwan's culture, history, and pop culture. It leverages the high-energy persona of the host to drive engagement and curiosity, serving as a teaser or highlight reel to attract viewers to the creator's full podcast episodes.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Cai Aga's signature high-energy shouting, variety-show style text graphics, and the use of 'cold knowledge' as a hook.",
+      "freeDescribe": "The video is optimized for short-form social media platforms, using fast pacing and high-contrast text overlays to maintain attention during the trivia list."
+    }
+  }
+}

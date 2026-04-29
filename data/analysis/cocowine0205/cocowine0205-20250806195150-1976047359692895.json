@@ -1,0 +1,180 @@
+{
+  "videoName": "cocowine0205-20250806195150-1976047359692895.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 61,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Review",
+        "Food"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a close-up shot of colorful freeze-dried candies being poured into a clear glass bowl on a marble-style countertop. (2) The scene transitions to a brightly lit Costco warehouse where a young woman with long dark hair, wearing a white cardigan over a white dress, stands in front of a massive display of 'Freeze Dried Rainbow Bursts' bags. She holds a bag and gestures while talking to someone off-screen. (3) The setting shifts to an indoor room where the same woman and another woman wearing a pink beret are sitting at a table. They are holding the candies, examining them closely, and eating them while expressing excitement through facial expressions and hand gestures. They hold a large bowl of the candies between them.",
+      "audio_narrative_log": "(1) The audio begins with a light, upbeat electronic pop track with a moderate tempo. Crisp sounds of small objects clinking against glass are heard. (2) A male voice is heard off-screen asking questions, followed by the first female speaker's voice which is clear, high-pitched, and enthusiastic as she describes the product. (3) At the home setting, two female voices are heard talking simultaneously and taking turns; their tone is lively and humorous. Occasional 'ding' and 'sparkle' sound effects (SFX) are synchronized with decorative text appearing on the screen. (4) The background music remains consistent throughout the transitions, providing a cheerful atmosphere.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles appear at the bottom of the screen translating the spoken dialogue about the candy's texture and price. (2) Decorative/Effect Text: 'COSTCO WHOLESALE' logo appears at the top during the store segment. Large, colorful captions such as 'Freeze-Dried Rainbow Candy', 'Explosion!', and 'Childhood Retro' appear in stylized fonts to emphasize specific points. (3) Functional Text: Price tags like '$259' are visible on the store shelves."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Store Discovery -> Detailed Home Review/Tasting"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Head and shoulders",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators visible; one male hand briefly seen pointing at text.",
+      "mainCharacterDescription": "Two young women; one with long dark hair in a white cardigan/dress, another with a pink beret and light-colored top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A Costco warehouse with high ceilings and tall shelves stacked with bulk goods; an indoor residential room with a table, plush toys, and household decor.",
+      "lightingStyle": "Bright studio-like indoor lighting and fluorescent warehouse lighting.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Candy",
+        "Freeze-dried snacks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone (attached to clothing)"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco",
+        "We Crush On"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with cross-faded BGM",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, energetic, and excited",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Sparkle SFX",
+        "Ding SFX",
+        "Pop sounds"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Evidence -> Review",
+      "mainPurpose": "The video is a product review and recommendation for 'Freeze Dried Rainbow Bursts' candies available at Costco. It aims to inform viewers about a new or interesting snack find, describing its unique freeze-dried texture and flavor profile through a first-person shopping experience followed by a taste test.",
+      "visualEmotion": "Energetic and Cheerful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed showcasing of the brand packaging, location of purchase (Costco), and positive verbal feedback on the product's quality and taste.",
+      "endorsementObject": [
+        "We Crush On Freeze Dried Rainbow Bursts"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy interaction between hosts, variety-show style text graphics, and a mix of shopping/lifestyle vlogging.",
+      "freeDescribe": "The video follows a popular social media format in Taiwan where creators find unique items at bulk retailers like Costco to review for their audience."
+    }
+  }
+}

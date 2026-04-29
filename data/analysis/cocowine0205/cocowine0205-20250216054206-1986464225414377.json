@@ -1,0 +1,179 @@
+{
+  "videoName": "cocowine0205-20250216054206-1986464225414377.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 60,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping",
+        "Cooking"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman stands inside a bright Costco warehouse, holding a large, vacuum-packed piece of raw beef. She smiles and gestures enthusiastically toward the camera. (2) Close-up shots show the meat display in the refrigerated section and the price tag indicating a discount. (3) The scene shifts to a kitchen where the woman is wearing plastic gloves and handling the raw beef on a cutting board lined with paper towels. (4) She uses a knife to trim the silver skin and fat, then slices the large block into steaks and smaller strips. (5) She displays different plates filled with portioned meat, including steaks and scraps for stir-frying. (6) The final shot shows the cooked steak served on a sizzling plate with bell peppers, accompanied by a bowl of fresh lettuce.",
+      "audio_narrative_log": "(1) An upbeat, fast-paced electronic pop track with a steady drum beat plays throughout the video. (2) A woman's voice provides energetic and high-pitched narration in Mandarin Chinese, expressing excitement about the purchase. (3) Occasional subtle sound effects like plastic rustling and knife-on-board sounds are heard beneath the music. (4) The audio maintains a consistent high-energy flow until the end.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo appears at the top. '美國頂級嫩肩里肌牛肉盲包' (US Prime Top Blade Vacuum Pack) identifies the product. '$489/KG' indicates the price. (2) Decorative/Hook Text: '開箱' (Unboxing) in a red bubble. '這個也折太多了吧' (This discount is too much) with fire emojis. '頂級 Prime!' in red 3D text. '筋很漂亮' (The tendon is very beautiful) and '非常推薦給大家' (Highly recommended to everyone) are used to emphasize quality. (3) Narrative Text: '1526元的肉總共分出這些小牛排' (Total 1526 dollars of meat divided into these steaks) summarizes the result."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Store introduction -> Home preparation and cutting -> Final cooked result"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Arms"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, approximately 3 shoppers visible in the background at the store.",
+      "mainCharacterDescription": "An Asian woman with long dark hair, wearing a beige or light brown long-sleeved top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First part shows a Costco refrigerated aisle with many packages of meat and shoppers. Second part shows a clean home kitchen with white countertops and kitchen appliances.",
+      "lightingStyle": "Bright studio-like indoor lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Beef",
+        "Steak",
+        "Bell Peppers",
+        "Lettuce"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Tutorial/Demo -> Result",
+      "mainPurpose": "To demonstrate the value and processing method of a large wholesale meat purchase from Costco. The creator aims to show how to economically portion a large cut of 'Prime' beef into multiple meal types (steaks and stir-fry), validating the purchase through a final cooked presentation.",
+      "visualEmotion": "Energetic and Satisfying"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Prominent display of the brand logo and specific product unboxing with high praise.",
+      "endorsementObject": [
+        "COSTCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin narration combined with rapid-cut editing and colorful variety-show text overlays.",
+      "freeDescribe": "The video follows a popular social media trend of 'Costco hauls' and food preparation tutorials, focusing on cost-efficiency and culinary skills."
+    }
+  }
+}

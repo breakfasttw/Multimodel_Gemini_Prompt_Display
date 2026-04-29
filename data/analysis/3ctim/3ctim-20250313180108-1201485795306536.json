@@ -1,0 +1,191 @@
+{
+  "videoName": "3ctim-20250313180108-1201485795306536.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 138,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tutorial",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man with glasses, a black beanie, and a red shirt stands in a brightly lit indoor space, gesturing towards the camera to introduce the JAL lounge. (2) Close-up shots show a smartphone screen demonstrating how to use an app to book a shower room and order food from a digital menu. (3) The man is seen with a small bowl of curry rice, which he begins to eat. (4) He walks through a hallway with lockers, showing a numbered plastic key card, then uses it to unlock a door labeled '1'. (5) He gives a tour of a modern shower room, highlighting the sink, a white Panasonic hairdryer, the toilet, and a basket of clean towels. (6) Inside the shower stall, he shows the multi-nozzle shower head and various bottled toiletries. (7) Finally, he walks through the buffet section, scanning various food stations including bread, pasta, salads, udon, alcoholic beverages, and an automated rice dispenser.",
+      "audio_narrative_log": "(1) Upbeat, energetic pop music plays as a primary background layer. A male voice speaks enthusiastically in Mandarin, providing a running commentary. (2) The sound of water splashing and the rhythmic hum of a hairdryer are layered over the music during the shower room sequence. (3) Ambient lounge noises are minimal, with occasional quiet clicks corresponding to app interactions or door unlocking. (4) The music remains continuous with a steady tempo, maintaining a lighthearted and informative atmosphere throughout.",
+      "text_narrative_log": "(1) '體驗日航 貴賓室洗澡': Excited hook title about experiencing the JAL lounge shower. (2) '第一步 掃描QR Code': Instructional text for scanning the QR code. (3) '來了 我點的 量好少哦': Subjective commentary on the small portion of food. (4) '開箱淋浴間': Review-style title for 'unboxing' the shower room. (5) '（水壓很夠）' and '（吹風機風力也行）': Evaluative notes on the water pressure and hairdryer power. (6) '來看看貴賓室有什麼好吃的': Transition text to the food section. (7) '（超多選擇）': Enthusiastic summary of the buffet options."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 62,
+      "averageSceneDuration": 2.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> App Tutorial -> Food Review -> Shower Facility Tour -> Buffet Showcase"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator, 1 female staff member briefly visible in the buffet background at 01:46",
+      "mainCharacterDescription": "A middle-aged man wearing glasses, a black beanie with an 'LA' logo, and a red sweatshirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Airport Lounge",
+          "Shower Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A sleek, modern airport lounge featuring high-tech amenities, private wooden lockers, a tiled minimalist shower room, and a wide variety of food stations in a professional hospitality setting.",
+      "lightingStyle": "Bright studio-like indoor lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and warm",
+      "cameraWork": [
+        "POV",
+        "Follow shot",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Curry Rice",
+        "Bread",
+        "Pastries",
+        "Pasta",
+        "Salad",
+        "Udon",
+        "Wine",
+        "Soda"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Rice Dispenser"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "JAL",
+        "Panasonic",
+        "Coca-Cola",
+        "Minute Maid",
+        "Canada Dry",
+        "Johnnie Walker"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with cross-faded BGM",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Water spraying",
+        "Humming of hairdryer",
+        "Interface clicks"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Tutorial -> Review -> Showcase",
+      "mainPurpose": "The video serves as a comprehensive travel guide and review of the Japan Airlines (JAL) lounge facilities. It aims to inform travelers on how to utilize high-tech services like app-based shower booking and food ordering while showcasing the quality of the amenities to provide value to potential airline customers.",
+      "visualEmotion": "Energetic and helpful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator provides a positive, detailed review of the specific services offered by the JAL lounge, naming the airline multiple times and showing its logos.",
+      "endorsementObject": [
+        "JAL"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-show style text overlays and a friendly 'Tim-哥' persona.",
+      "freeDescribe": "The video balances utility (how-to) with entertainment (facility review), typical of tech and travel influencers in the Mandarin-speaking market."
+    }
+  }
+}

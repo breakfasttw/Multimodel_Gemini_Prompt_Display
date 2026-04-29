@@ -1,0 +1,168 @@
+{
+  "videoName": "0_shufen-20250705165729-1393655405202276.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 14,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long black hair and a light purple top looks directly into the camera lens with a pouting expression. (2) She begins to speak, her facial expressions changing as she tells a story, appearing slightly exasperated. (3) She uses her right hand to gesture while speaking. (4) The video cuts to a black screen as the punchline concludes.",
+      "audio_narrative_log": "(1) Soft, melancholic piano music plays as a young woman begins speaking in a conversational, somewhat complaining tone. (2) The woman continues her narrative over the steady, gentle piano background. (3) Just as she finishes her last sentence, the piano music stops and is immediately replaced by a loud, sudden sitcom-style laugh track sound effect. (4) Silence follows the laugh track.",
+      "text_narrative_log": "(1) Functional Text: 我媽叫我過年帶男朋友回家 (My mom told me to bring a boyfriend home for the New Year) - Informative and slightly stressed tone. (2) Functional Text: 我跟她說已經分了💔 (I told her we've already broken up) - Sad tone with a broken heart emoji. (3) Functional Text: 我媽問我為什麼那麼快分?! (My mom asked me why we broke up so soon?!) - Questioning and surprised tone. (4) Functional Text: 我也沒辦法啊, 因為他說我逼太緊 (I couldn't help it, because he said I'm too pushy/tight) - Humorous and suggestive tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 14.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Storytelling -> Punchline"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main creator appears in a talking-head format.",
+      "mainCharacterDescription": "Young female with long, straight black hair, wearing a light purple scoop-neck long-sleeved top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Bedroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A domestic indoor setting featuring a bed with white linens and a warm-toned wall/curtain background.",
+      "lightingStyle": "Warm, soft indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm and natural",
+      "cameraWork": [
+        "POV",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut to sound effect",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Conversational and humorous",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Melancholic Piano",
+      "bgmBPM": 72,
+      "instrumentFamiliesAudible": [
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Piano"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Laugh track"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Punchline",
+      "mainPurpose": "The video uses a relatable social situation—parents pressuring adult children to bring partners home for the holidays—as a setup for a short comedy skit. The ultimate objective is to deliver a pun-based punchline that contrasts the serious, slightly melancholic buildup with a humorous twist.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No commercial products or brands are visible or mentioned.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Selfie-style vertical framing with large centered subtitles.",
+      "freeDescribe": "The video relies heavily on the final pun in the Mandarin dialogue to achieve its comedic effect, utilizing a common bait-and-switch narrative technique."
+    }
+  }
+}

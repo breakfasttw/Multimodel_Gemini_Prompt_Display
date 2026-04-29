@@ -1,0 +1,175 @@
+{
+  "videoName": "yga0721-20250430121651-1429426552147072.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 64,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Talk Show",
+        "Vlog",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a man wearing headphones and a green shirt (influencer Cai Aga) sitting in a studio-like environment, speaking animatedly and gesturing with his hands. (2) The scene cuts to two women sitting together on a couch, listening to him; they smile and laugh. (3) A transition shows a person in a red hoodie and a large, cartoonish yellow-faced mask sitting on a brown leather couch, participating in the conversation. (4) The video continues with rapid cuts between the man, the two women, and the masked figure as they engage in a lively discussion with exaggerated facial expressions and gestures. (5) The final shot shows the studio blurred out with a text box directing viewers to a YouTube channel.",
+      "audio_narrative_log": "(1) A male voice (Mandarin) starts the video with an inquisitive and upbeat tone, followed by higher-pitched female voices responding in a casual, conversational manner. (2) As the conversation progresses, frequent bursts of group laughter and lighthearted banter are heard. (3) There are subtle sound effects added for comedic emphasis, such as 'boing' sounds or canned laughter overlays. (4) The speech density is high, with overlapping voices reflecting a group discussion. (5) The background has a clean studio-quality acoustic with no significant environmental noise.",
+      "text_narrative_log": "(1) Functional text in the form of traditional Chinese subtitles appears at the bottom of the screen to translate the spoken dialogue. (2) Decorative hook text and emotional stickers occasionally appear near the speakers to emphasize specific words like 'OK!' or names like '洪嘉琳'. (3) At the end, functional text appears: '完整影片請上蔡阿嘎543頻道收看', which is a call to action for the main channel."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.9,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Group Discussion -> Reaction -> Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 4,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male host, 2 female guests, 1 masked male on couch",
+      "mainCharacterDescription": "The main host is a male with dyed hair wearing white headphones and a green t-shirt; the female guests are in casual sweatshirts (one in black, one beige with 'MAHABABY' text)."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A studio background with shelves filled with collectible figures, toys, and anime figurines. There is a brick-style wallpaper and studio microphones visible.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Multiple angles"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "Headphones"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Supreme",
+        "MAHABABY"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and excited",
+        "pitch": "Varied",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Meme sounds",
+        "Canned laughter"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Question -> Multi-person Reaction -> Humorous Conclusion -> CTA",
+      "mainPurpose": "The video is a highlight clip from a talk show or podcast featuring Taiwanese influencer Cai Aga. The core objective is to entertain the audience through a humorous discussion about men's health/vasectomy concerns, using guests' reactions and witty banter to create engagement and drive traffic to the full video on his main YouTube channel.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Cai Aga's signature high-energy hosting style and the inclusion of staff/friends (the masked character is a recurring figure in his videos).",
+      "freeDescribe": "The video utilizes a split-screen and fast cuts to maintain high viewer retention, typical of short-form social media content."
+    }
+  }
+}

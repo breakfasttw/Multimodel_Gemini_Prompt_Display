@@ -1,0 +1,193 @@
+{
+  "videoName": "602avenue-20251111074812-1944015249534557.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 87,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Travel",
+        "Finance"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Daegu"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with an extreme close-up of melted cheese being pulled from spicy tteokbokki, followed by a rapid montage of various Korean dishes like raw beef and grilled meats. (2) A young female creator with long dark hair is shown visiting several restaurants in Daegu; she is seen tasting food, nodding in approval, and showing the storefronts of 'Sinjeon', 'P.S Coffee & Bakery', and others. (3) The creator transitions to a talking-head segment in a room with blinds, then is shown shopping in a clothing store ('8 Seconds') and holding up a grey and white credit card with 'CUBE' written on it, while mobile app interfaces are overlaid on the screen.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic pop music starts immediately and continues throughout the video. A high-pitched, energetic female voice provides a continuous Mandarin Chinese narration. (2) Sizzling sounds of food and ambient restaurant chatter are mixed in during the food segments. Cartoonish 'ding' and 'pop' sound effects emphasize key text points. (3) The vocal tone shifts to a more informative and persuasive style as the music volume lowers slightly to focus on the financial benefits being explained, before finishing with an upbeat closing statement.",
+      "text_narrative_log": "(1) Decorative Hook: '韓國大師私人收藏的五大必吃美食' (Master's private collection of 5 must-eat delicacies). (2) Functional List: '1. Sinjeon 辣炒年糕', '2. P.S', '3. 大邱燉排骨', '4. 格列佛烤腸', '5. Mungtigi 生牛肉片'. (3) Promotional Text: '刷CUBE信用卡' (Swipe CUBE credit card), '14.3% 小樹點回饋' (14.3% Tree Point rewards), and various fine-print disclaimers about financial responsibility at the bottom of the screen."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.07,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Food Recommendations List -> Travel Savings Transition -> Credit Card Endorsement -> CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, approximately 7 customers and staff in the background of restaurant and store scenes.",
+      "mainCharacterDescription": "An East Asian female with long, wavy dark hair. Initially wears a white knit cardigan, later seen in a pink sweater while shopping."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Restaurant",
+          "Outdoor Street",
+          "Indoor Store",
+          "Studio"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Vibrant restaurant interiors with wooden tables, a modern bakery with pastries, a busy urban street with Korean signage, a brightly lit convenience store, and a minimalist room with white blinds.",
+      "lightingStyle": "Bright, natural, and studio-enhanced indoor lighting.",
+      "weather": "Clear",
+      "season": "Autumn/Winter (based on clothing)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Korean"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "POV",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Tteokbokki",
+        "Bread",
+        "Beef",
+        "Pork",
+        "Coffee",
+        "Kimchi"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "國泰世華",
+        "CUBE",
+        "Sinjeon",
+        "8 Seconds",
+        "P.S Coffee & Bakery",
+        "Visa"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, friendly, and persuasive",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Pop",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Restaurant chatter",
+        "Sizzling"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Recommendations -> Solution -> Reward",
+      "mainPurpose": "The video serves as a travel guide for Daegu, South Korea, recommending five specific food spots to attract the audience's interest. It then seamlessly transitions into a financial endorsement for the Cathay United Bank CUBE credit card, highlighting its cashback rewards to encourage travelers to use the card during their trips.",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full",
+        "Integrated"
+      ],
+      "endorsementCues": "The creator directly holds the 'CUBE' credit card, demonstrates the app interface, and explains the specific reward percentages (14.3%) offered by Cathay United Bank.",
+      "endorsementObject": [
+        "國泰世華 CUBE 信用卡"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin voiceover with rapid-fire delivery and variety-show style text graphics.",
+      "freeDescribe": "The video effectively bridges lifestyle content (food vlogging) with fintech marketing, using popular travel destinations as a hook for credit card acquisition."
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "videoName": "yga0721-20251005000011-25663415836673157.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 10,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Skit"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man with brown hair, wearing a bright orange shirt, stands on a red-brick balcony with white stone railings, holding a bright orange smartphone to his ear while smiling and speaking expressively. (2) He gestures with his free hand while leaning against the balcony railing, maintaining a boastful facial expression. (3) A hand wearing a blue and white striped shirt enters from the right and flips the phone over, revealing a photo gallery interface on the screen; the man's expression shifts to a neutral, slightly confused look as he stares at the camera.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic music starts along with a male voice speaking loudly and excitedly in Mandarin. (2) The male voice continues a continuous monologue with a boastful tone. (3) A sharp 'swish' or 'pop' sound effect occurs as the phone is flipped, followed by a brief pause in speech while the background music continues at the same intensity.",
+      "text_narrative_log": "(1) Functional Text: 'iPhone 17 拿到手了' (Got my hands on the iPhone 17) - boastful and exciting tone. (2) Functional Text: '庫克上禮拜就給嘎哥了' (Tim Cook gave it to Ga Ge last week) - bragging tone. (3) Functional Text: '大家都在開箱了' (Everyone is doing unboxings) - informative tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 10.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro/Bragging -> Interruption/Reveal"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main male creator, 1 hand of an off-screen person (likely female based on hand size/sleeve style)",
+      "mainCharacterDescription": "A man with short brown hair, wearing an oversized bright orange t-shirt over a white shirt, dark blue denim-style shorts, white socks with red stripes, and red athletic shoes."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Balcony",
+          "Heritage Building"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A traditional red brick building with white stone balustrades and arched architectural details; greenery and trees are visible in the background.",
+      "lightingStyle": "Natural daylight",
+      "weather": "Overcast",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and warm",
+      "cameraWork": [
+        "Static",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "Medium-high",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Comedic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Swish/Flip SFX"
+      ],
+      "ambientNoise": [
+        "Outdoor ambiance"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Exposure",
+      "mainPurpose": "The video is a comedic short designed to parody technology unboxing culture and influencers who claim to have early access to products. The creator humorously brags about owning a non-existent 'iPhone 17' in an orange color, only to be immediately exposed when another person flips the phone to reveal it is just a digital image being held to his ear.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The product shown is a fictional/prank version of an iPhone that does not exist in the market.",
+      "endorsementObject": [
+        "Apple"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The creator uses a characteristic high-energy, comedic delivery typical of Taiwanese variety skits.",
+      "freeDescribe": "The contrast between the traditional architectural setting and the modern 'fake' tech gadget enhances the comedic effect."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "videoName": "2uncle987-20250803032356-2106974666742431.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 46,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle",
+        "Food Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a blue and white striped sleeveless dress, walks through a brightly lit shopping mall identified as 'Dream Plaza'. She is seen on an escalator and walking through the corridors. (2) She enters a store named 'STANCAVE' where she looks at sports apparel, specifically a WBC (World Baseball Classic) themed jacket and jersey. She also shows a tray with various embroidered patches. (3) The scene shifts to 'HOBBY WORLD', a store filled with toy boxes, anime figurines, and collectible cards. She smiles while holding a pink box. (4) She transitions to 'FLIPPER'S', a cafe with white brick walls and wooden accents. She is seen browsing a menu featuring souffle pancakes. (5) She and a female friend are at a table, excitedly eating a tall, multi-layered strawberry souffle pancake tower. They take bites and look directly at the camera with expressions of delight.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic pop background music plays continuously. A female voice speaks in an enthusiastic, fast-paced tone, introducing the mall. (2) The music maintains its tempo as the female narrator describes the products at STANCAVE and the customization options for patches. (3) Music continues as she talks about the toys and collectibles found in Hobby World. (4) Sound of a page turning or soft restaurant ambiance is layered under the BGM as the narration focuses on the cafe. (5) The voices of the two women are heard reacting to the taste of the dessert with 'Mmm' sounds and happy exclamations, while the upbeat music reaches its conclusion.",
+      "text_narrative_log": "(1) 'DREAM PLAZA' - Title card at the beginning. (2) 'STANCAVE' - Store name label. (3) 'WBC 週邊 世界經典棒球賽' - Functional text explaining baseball merchandise. (4) 'HOBBY WORLD' - Store name label. (5) 'FLIPPER'S' - Cafe name label. (6) '一生摯愛舒芙蕾鬆餅' - Hook expressing her love for souffle pancakes. (7) '我可以' - Enthusiastic 'I can' caption. (8) '期間限定', '超高', '超大!!' - Decorative variety-show style hooks describing the large strawberry pancake tower."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 1.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Store Tour (Sports) -> Store Tour (Hobbies) -> Cafe Dining -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 6,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Torso"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main creator, 1 female friend at the end, and approximately 6 shoppers/staff in the background across different scenes.",
+      "mainCharacterDescription": "A young Asian woman with long black hair, wearing a blue and white horizontally striped sleeveless knee-length dress and white sneakers."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Shopping Mall",
+          "Retail Store",
+          "Cafe"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern shopping mall interiors with polished floors, various retail displays for clothing and toys, and a cozy cafe with wooden furniture and white brick walls.",
+      "lightingStyle": "Bright indoor lighting / Studio quality",
+      "weather": "Unknown",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation / Bright",
+      "cameraWork": [
+        "Follow shot",
+        "Handheld",
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Souffle Pancake",
+        "Strawberries",
+        "Whipped Cream",
+        "Iced Tea"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "STANCAVE",
+        "WBC",
+        "FLIPPER'S",
+        "POKEMON",
+        "AMERICAN HOLIC"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with BGM overlay",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "Medium-High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion",
+        "Synthesizer"
+      ],
+      "instrumentsAudible": [
+        "Drums",
+        "Synth Bass"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Sparkle SFX"
+      ],
+      "ambientNoise": [
+        "Mall Background"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Sequence of Store Highlights -> Climax (Food Experience)",
+      "mainPurpose": "To promote the 'Dream Plaza' shopping mall in Taipei by showcasing its diverse range of attractions including sports merchandise, hobby/collectible stores, and a popular dessert cafe. It targets a young, lifestyle-oriented audience seeking weekend leisure activities.",
+      "visualEmotion": "Energetic and Fun"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Clear identification of the mall name 'Dream Plaza' and specific tenants like 'STANCAVE' and 'FLIPPER'S', along with a walkthrough experience highlighting products.",
+      "endorsementObject": [
+        "Dream Plaza",
+        "STANCAVE",
+        "FLIPPER'S"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Variety-show style captioning and fast-paced editing commonly found in Asian lifestyle vlogs.",
+      "freeDescribe": "The video effectively uses visual 'hooks' (like the tall pancake tower) to maintain viewer engagement and emphasizes the 'one-stop' leisure experience of the mall."
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "videoName": "602avenue-20251222004914-760102910192256.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 82,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taichung"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with dark hair stands on a city street at night, appearing lost before entering a building through a hidden door that looks like a vending machine. (2) The scene shifts to the interior of a dimly lit, stylish bar where a male bartender mixes cocktails; the woman is shown tasting various drinks and colorful snacks, specifically Doritos paired with gourmet dips. (3) A series of quick cuts follows as she visits four different bars, each with unique decor from modern minimalist to cozy wooden aesthetics, always featuring Doritos branding and food pairings. (4) Close-up shots highlight the food: chips topped with cheese, skewers crusted with chip crumbs, and vibrant salsa bowls. (5) The video concludes with the woman back outdoors, speaking to the camera while holding a red promotional flyer for 'Bar Quest'.",
+      "audio_narrative_log": "(1) The audio begins with upbeat, fast-paced electronic pop music that maintains a consistent energy throughout. A young woman's voice-over begins immediately, speaking in an enthusiastic and friendly tone. (2) As the visuals move into bars, the sound of a cocktail shaker rhythmically clanking and liquid splashing into a glass is clearly audible over the music. (3) Occasional low-level ambient chatter and the clinking of glassware provide a 'nightlife' atmosphere. (4) Periodic sound effects (SFX) like sparkles or chimes accompany on-screen text appearances. (5) The music volume dips slightly at the end to emphasize the woman's final spoken call to action.",
+      "text_narrative_log": "(1) '韓國人在台中 差點迷路？' (A Korean in Taichung, almost got lost?) - Hook text with a curious tone. (2) '比首爾更有氛圍的' (More atmosphere than Seoul) - Comparative hook. (3) '台中4間特殊酒吧' (4 special bars in Taichung) - Content description. (4) 'Doritos Bar Quest' - Functional branding text. (5) '1. Goût Bar', '2. Vender Bar', '3. Sozai Taichung', '4. Chan Chan' - Sequential labels for locations. (6) '禁止酒駕' (Don't drink and drive) and '未滿18歲禁止飲酒' (No alcohol under 18) - Mandatory safety warnings at the bottom."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 45,
+      "averageSceneDuration": 1.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Sequential review of four specific locations -> Promotional CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 2 male bartenders, approximately 5 other patrons partially visible in backgrounds",
+      "mainCharacterDescription": "Young Asian woman with long dark hair, wearing a black and white striped long-sleeve shirt and khaki shorts."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Indoor Bar",
+          "Bistro"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Nighttime city streets with urban lighting; various bar interiors featuring shelves of liquor bottles, neon signs, and mood lighting.",
+      "lightingStyle": "Mixed: Natural night lighting and warm, localized indoor studio/bar lighting.",
+      "weather": "Clear night",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm and Vibrant",
+      "cameraWork": [
+        "Handheld",
+        "POV",
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Doritos",
+        "Cocktails",
+        "Skewers",
+        "Salsa",
+        "Cheese"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Doritos"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and persuasive",
+        "pitch": "Medium-High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Shaker sound",
+        "Sparkle SFX"
+      ],
+      "ambientNoise": [
+        "Bar chatter",
+        "Glass clinking"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Introduction of Campaign -> Recommendation 1 -> Recommendation 2 -> Recommendation 3 -> Recommendation 4 -> CTA",
+      "mainPurpose": "This video serves as a promotional endorsement for a collaboration event between Doritos and several bars in Taichung called 'Bar Quest'. It leverages the 'foreigner's perspective' (Korean in Taiwan) to create a sense of discovery and high-quality lifestyle, encouraging viewers to visit these locations and try the specific food pairings.",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of product, branded promotional materials, and explicit mention of the campaign name.",
+      "endorsementObject": [
+        "Doritos"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Korean traveler persona in Taiwan",
+      "freeDescribe": "The video uses fast editing and beat-syncing to appeal to a younger, nightlife-oriented demographic."
+    }
+  }
+}

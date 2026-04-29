@@ -1,0 +1,174 @@
+{
+  "videoName": "yga0721-20251020184050-793817099642908.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 14,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young man and a young boy sit at a restaurant table filled with stir-fried dishes and skewers. The man uses chopsticks to feed the boy a piece of dark meat. The boy leans in with his mouth open. (2) As the boy chews, a fire animation effect is overlaid on the screen near his mouth to indicate spiciness. The man watches him closely with an expectant expression. (3) The camera zooms in on the boy's face as he talks with food in his mouth. (4) The man points toward the dish and says something. (5) The screen suddenly zooms in tight on the boy's face, a 'shock' filter with white radiating lines and pixelation is applied, and the text '蜗牛' (Snail) appears in large font. (6) The boy continues to eat while looking dazed as the camera repeatedly zooms in and out on him.",
+      "audio_narrative_log": "(1) Lively and upbeat background music plays. A man's voice is heard speaking in an enthusiastic, encouraging tone in Mandarin/Hokkien. The sounds of a busy restaurant, including plates clinking, are audible. (2) The boy's voice is heard responding, sounding slightly muffled as he is eating. (3) The music abruptly shifts to a dramatic, melancholic piano and violin melody at the 0:09 mark when the 'truth' about the food is revealed. (4) The man's voice continues, laughing slightly as he watches the boy's reaction.",
+      "text_narrative_log": "(1) '貴你要吃吃看' - Friendly/Encouraging tone. (2) '這個炒螺肉嗎' - Descriptive/Functional text. (3) '會辣' - Warning/Informative. (4) '你吃看看' - Command/Encouragement. (5) '就只是辣辣的肉' - Neutral/Observational. (6) '你知道這是什麼嗎' - Suspenseful setup. (7) '蝸牛' - Shocking revelation. (8) '貴鋼八' - Humorous/Slang hook."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 1.16,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Eating Action -> Taste Feedback -> Reveal of Ingredient -> Shocked Reaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 adult male and 1 young boy sitting at a dining table.",
+      "mainCharacterDescription": "An adult male wearing a white t-shirt and a young boy with black hair wearing a black shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Restaurant"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A dimly lit indoor restaurant or 'Re Chao' (Taiwanese stir-fry) stall with a visible fish tank and bamboo-style wall decor.",
+      "lightingStyle": "Warm indoor artificial lighting.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm/Natural",
+      "cameraWork": [
+        "Static",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Stir-fry",
+        "Skewers",
+        "Snail Meat"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut in music to create comedic timing.",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Playful and humorous",
+        "pitch": "Normal",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Hokkien"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Comedic followed by Dramatic/Sad Piano",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Piano",
+        "Violin"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Shock accent sound"
+      ],
+      "ambientNoise": [
+        "Restaurant chatter"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Challenge -> Action -> Climax (Reveal) -> Reaction",
+      "mainPurpose": "To entertain the audience by capturing a humorous family moment where a child is 'tricked' into eating something unusual (snail meat) and recording his funny reaction to both the spice and the revelation of what the food actually was.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of dramatic zoom-ins and meme-style editing filters.",
+      "freeDescribe": "The video uses common 'vlog comedy' tropes including fast cuts and sound cues to emphasize the child's reaction."
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "videoName": "3ctim-20251108100005-1368460571967272.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 50.36,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Commentary",
+        "News"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a middle-aged male host wearing a white T-shirt and a black flat cap speaking directly to the camera against a gray curtain backdrop. (2) The visual cuts to B-roll footage showing a man in a Royal Navy uniform wearing a VR headset and other individuals focused on gaming monitors in a dimly lit room. (3) The camera returns to the host, who uses hand gestures to emphasize points while various graphics, such as computer towers, the Nvidia logo, and military-themed icons, appear on screen. (4) The host continues talking until the end, with quick cuts showing a keyboard and more military-themed illustrations.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music plays immediately. A male voice begins speaking in a clear, energetic, and professional tone in Mandarin. (2) The background music continues at a consistent volume, providing a rhythmic base for the narration. (3) Subtle sound effects, like digital pings and whooshes, are heard whenever new text or graphics pop up on the screen. (4) The narration remains continuous and dominant over the music until the video concludes.",
+      "text_narrative_log": "(1) Functional Text: '英國國防部' (UK Ministry of Defence) and '舉辦電競聯賽' (Hosting Esports League) - Informative tone. (2) Hook Text: '招收電競人才?!' (Recruiting esports talent?!) - Intrigued/Excited tone. (3) Decorative/Effect Text: 'Nvidia 顯卡', '高端電競電腦' (Nvidia graphics cards, high-end gaming computers) - Emphasis on hardware quality. (4) Functional Text: '預計2026年啟動第一屆賽事' (First tournament expected to launch in 2026) - Factual tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> News Report with B-roll -> Technical Details -> Call to Action/Summary"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main host, 3 individuals in gaming B-roll footage",
+      "mainCharacterDescription": "A middle-aged man with glasses, wearing a black flat cap and a white graphic T-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor Office"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A professional studio with gray curtains and some B-roll of dark, tech-oriented gaming rooms.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and vibrant",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "VR Headset",
+        "Computer Tower",
+        "Mechanical Keyboard",
+        "Gaming Monitor"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Nvidia",
+        "Royal Navy"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Ping"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence/News -> Impact/Details",
+      "mainPurpose": "To inform the audience about the UK Ministry of Defence's new initiative to recruit esports talent to bolster their cyber defense capabilities, highlighting the launch of an international league and the high-end equipment being used for training.",
+      "visualEmotion": "Energetic and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Mention and visual display of Nvidia graphics cards as a standard for high-end performance in the military's tech setup.",
+      "endorsementObject": [
+        "Nvidia"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host's signature flat cap and high-density graphical editing style.",
+      "freeDescribe": "The video effectively bridges the gap between gaming culture and national security, making complex military strategy relatable to a tech-savvy audience."
+    }
+  }
+}

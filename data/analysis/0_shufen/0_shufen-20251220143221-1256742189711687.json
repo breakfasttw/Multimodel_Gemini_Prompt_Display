@@ -1,0 +1,195 @@
+{
+  "videoName": "0_shufen-20251220143221-1256742189711687.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 54,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Food"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Kaohsiung"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a young woman in a black top looking out of a train window at a rural landscape. (2) It transitions to the exterior of Kaohsiung Station, then to the famous glass art roof of Formosa Boulevard Station where the woman poses. (3) A series of rapid cuts follow, showing the woman eating beef noodles, walking along old railway tracks at Hamasen, and visiting mural-covered buildings at the Pier-2 Art Center. (4) She is seen riding a ferry, eating mango shaved ice, meatballs, and grilled sausages. (5) She visits a temple, tries local fast food at Dan Dan Burger, and samples various snacks like sweet potato balls and pastries at a night market. (6) The video concludes with her in a hotel room setting.",
+      "audio_narrative_log": "(1) An upbeat Mandopop song begins immediately with a male vocalist singing melodic lyrics. (2) The tempo is moderate and steady with a clear rhythmic drum beat and electronic keyboard backing. (3) No actual dialogue or speech from the on-screen subject is heard; the song completely dominates the audio track. (4) Ambient environmental noises are absent or filtered out by the background music.",
+      "text_narrative_log": "(1) Traditional Chinese lyrics appear at the bottom center of the screen throughout the duration, mirroring the song's vocals. (2) Functional signage is visible in the background including \"高雄車站\" (Kaohsiung Station), \"美麗島 Formosa Boulevard\", and \"THE PIER-2 ART CENTER\". (3) Food-related text such as \"丹丹漢堡\" (Dan Dan Burger), \"甜思特\" (Tiansite Cake), and \"阿嬤麻油雞飯\" (Grandma's Sesame Oil Chicken Rice) appears on stall signs and packaging."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 48,
+      "averageSceneDuration": 1.12,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Travel Montage -> Extensive Food Tour -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 7,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female main character, 3 food stall vendors (male/female), and 3 passers-by in station/street scenes.",
+      "mainCharacterDescription": "A young woman with long dark hair, wearing a black top and denim jeans, often seen smiling or eating."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Station",
+          "Outdoor Street",
+          "Ferry",
+          "Restaurant",
+          "Temple"
+        ],
+        "topography": [
+          "Plain",
+          "Coastline"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern railway stations, colorful urban murals, harbor views from a ferry, traditional temple architecture, and bustling street food stalls.",
+      "lightingStyle": "Natural light and bright indoor lighting.",
+      "weather": "Sunny and clear.",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and High Saturation",
+      "cameraWork": [
+        "Static",
+        "POV",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Dog",
+        "Duck"
+      ],
+      "foodsDetect": [
+        "Noodles",
+        "Mango Ice",
+        "Sausage",
+        "Burger",
+        "Sweet Potato Balls",
+        "Pastries",
+        "Fried Chicken"
+      ],
+      "trafficDetect": [
+        "Train",
+        "Ferry",
+        "Light Rail"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "Kaohsiung Station",
+        "Formosa Boulevard Station",
+        "Pier-2 Art Center"
+      ],
+      "brandLogos": [
+        "丹丹漢堡",
+        "甜思特",
+        "品天然"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Warm and melodic",
+        "pitch": "Medium",
+        "loudness": "Consistent",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Mandopop",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Keyboard",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Location/Food Sequence -> Lifestyle Close",
+      "mainPurpose": "The video aims to provide a high-energy, attractive showcase of Kaohsiung's travel destinations and local culinary scene. By pairing popular landmarks and street foods with a catchy, sentimental song, it creates an inviting atmosphere that encourages viewers to visit the city and experience its vibrant lifestyle.",
+      "visualEmotion": "Joyful and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Repeated clear framing of specific food brands and local landmark signage suggests a tourism or lifestyle promotion.",
+      "endorsementObject": [
+        "高雄市",
+        "丹丹漢堡",
+        "甜思特"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-saturation filters and fast-paced 'POV eating' cuts.",
+      "freeDescribe": "The video effectively uses local cultural icons (like the ferry and specific snacks) to build a narrative of 'the perfect day trip' in Kaohsiung."
+    }
+  }
+}

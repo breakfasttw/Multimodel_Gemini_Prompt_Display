@@ -1,0 +1,177 @@
+{
+  "videoName": "3ctim-20250924203006-750744867890345.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 27,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Hands-on",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "USA"
+        ],
+        "city": [
+          "Cupertino"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a 3D animated render of an orange iPhone model; a circular avatar of a male host with glasses and a flat cap is overlaid, speaking with an expressive, smiling face. (2) The scene transitions to a live-action hands-on demonstration of a dark blue smartphone held by hands in a brightly lit, modern hall; the hands rotate the device to show the back and camera module. (3) The camera then focuses on the screen of the phone, showing the camera app zooming in from a wide angle to 1x, 2x, 4x, 8x, and finally 40x digital zoom, tracking a woman in black and white clothing in a distant part of the venue.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music starts immediately. A high-pitched, energetic male voice begins a continuous narration in Mandarin. (2) Ambient crowd noise, including muffled chatter and the acoustics of a large open space, is present in the background. (3) Subtle digital SFX (clicks and chimes) trigger as text overlays and zoom levels change on the screen, while the vocal narration maintains a steady, excited tempo.",
+      "text_narrative_log": "(1) Decorative Hook: 'iPhone 17 Pro' with a yellow 'X' through the '17', setting a speculative or comparative tone. (2) Functional Text: '鋁金屬一體成型' (Aluminum unibody) and '4倍抗刮' (4x scratch resistance) describing physical features. (3) Descriptive Hook: '3鏡頭' (3 lenses), '4800萬畫素' (48MP), and '40倍' (40x) emphasizing camera specifications with an enthusiastic tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 4.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Graphic -> Product Close-up -> Camera Zoom Demonstration"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Full body",
+        "Head/Face"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main male host in avatar, 1 pair of hands holding phone, at least 6 people visible in the background crowd during zoom test.",
+      "mainCharacterDescription": "A middle-aged Asian male wearing glasses and a grey flat cap."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Public Hall"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The initial background is a neutral grey graphic; the subsequent background is a high-ceilinged, circular white architectural space with large windows and a crowd of people, characteristic of an Apple event venue.",
+      "lightingStyle": "Bright, even studio and natural indoor light.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Apple Park"
+      ],
+      "brandLogos": [
+        "Apple"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Digital Clicks"
+      ],
+      "ambientNoise": [
+        "Crowd chatter"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Feature Showcase -> Practical Demo",
+      "mainPurpose": "To generate excitement and provide a quick overview of the physical durability and telephoto camera capabilities of the new iPhone model, presented in a fast-paced 'infotainment' style typical of tech social media influencers.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed showcase of product features, usage of professional review persona, and branding of the '3cTim' channel.",
+      "endorsementObject": [
+        "Apple",
+        "iPhone"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Circular floating host avatar, '3cTim' social media handles in corner, high-density yellow and white Traditional Chinese text overlays.",
+      "freeDescribe": "The video uses rumor-based branding (iPhone 17 Pro) to attract views, leveraging the hype around future tech releases while demonstrating features on current or prototype-like hardware."
+    }
+  }
+}

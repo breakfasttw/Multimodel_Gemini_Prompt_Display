@@ -1,0 +1,197 @@
+{
+  "videoName": "cocowine0205-20250930161221-936700228797530.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 87,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Promotional",
+        "Shopping",
+        "Food"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taoyuan"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with two women standing in front of a Costco Wholesale entrance sign, holding an apple box and waving; they appear joyful and energetic. Large red and yellow text overlays the screen with promotional dates. (2) The video transitions into a fast-paced montage of various products inside the warehouse. Each product is shown briefly, usually held by a hand or on a shelf, with a clear focus on the item and its price tag. Products include decorative bear statues, raw meats (chicken breast, beef), alcoholic beverages (wine, whiskey), snacks (biscuits, chips, chocolate), produce (apples), and prepared foods (pork knuckles, seafood soup). (3) The shots are characterized by quick cuts and minimal camera movement, focusing entirely on presenting as many discounted items as possible before ending.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic dance music begins immediately and continues throughout the entire video. (2) Two female voices are heard briefly at the very beginning shouting a greeting in Mandarin. (3) A male narrator's voice enters quickly, speaking in an energetic and fast-paced tone. He systematically lists the names of the products shown on screen and their discounted prices. The narration is tightly edited to match the rapid visual cuts. (4) No significant ambient store noise or sound effects are audible over the loud BGM and narration.",
+      "text_narrative_log": "(1) Functional Text: Massive red and yellow title '好市多 新年特價速報' (Costco New Year Special Report) with the date range '01/27-02/02'. (2) Functional Text: For every item shown, a structured text block appears detailing the brand, product name, original price, discount amount, and the final 'Special Price' (特價). (3) Decorative Text: Phrases like '新年快樂' (Happy New Year) and '什麼都好買' (Everything is a good buy) appear to create a festive and urgent shopping atmosphere. (4) Functional Text: Specific store availability notes like '桃園南崁店售完為止' (Available at Taoyuan Nankan store until sold out)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 46,
+      "averageSceneDuration": 1.9,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Rapid-fire Product and Price Showcase -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female presenters at the start, at least 6 distinct background shoppers/staff members visible throughout the warehouse shots.",
+      "mainCharacterDescription": "Two young Asian women; one has long black hair and wears a beige ribbed top, the other wears a grey top and a white bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Club",
+          "Costco"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The interior of a large warehouse-style retail store featuring high ceilings, industrial shelving, refrigerated display cases, and large quantities of boxed goods.",
+      "lightingStyle": "Bright, even industrial fluorescent lighting.",
+      "weather": "Indoor",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Static",
+        "Panning"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Chicken",
+        "Beef",
+        "Apples",
+        "Biscuits",
+        "Wine",
+        "Whiskey",
+        "Chips",
+        "Pork Knuckle",
+        "Seafood",
+        "Milk Powder"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "CHIVAS REGAL",
+        "KIRIN",
+        "CROWN",
+        "GLENMORANGIE",
+        "MONBANA",
+        "BRAND'S",
+        "RITZ",
+        "Cheetos",
+        "HUGO BOSS",
+        "LINDT",
+        "TREE TOP",
+        "KLIM",
+        "Haagen-Dazs"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and urgent",
+        "pitch": "Normal",
+        "loudness": "Clear",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Information Catalog -> Store Specific Detail",
+      "mainPurpose": "The video serves as a digital promotional flyer for Costco Taiwan, specifically targeting shoppers looking for New Year deals. It uses a high-energy delivery and rapid visual information to create a sense of abundance and 'FOMO' (fear of missing out), driving consumer traffic to the physical store during a major holiday period.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The video is entirely focused on promoting products within a specific retail brand (Costco) and lists specific prices and store locations.",
+      "endorsementObject": [
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density price graphic overlays, rapid-fire Mandarin narration style.",
+      "freeDescribe": "This content is a classic example of 'deal-hunting' social media journalism common in Asian markets, where influencers provide curated value-add information to their followers to help them save money on household essentials."
+    }
+  }
+}

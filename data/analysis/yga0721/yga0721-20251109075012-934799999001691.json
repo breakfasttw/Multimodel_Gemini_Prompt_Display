@@ -1,0 +1,181 @@
+{
+  "videoName": "yga0721-20251109075012-934799999001691.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 89,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Promotion",
+        "Entertainment"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "New Taipei City"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A male character wearing a yellow cap, yellow shirt, and a black vest with a logo steps out of a white taxi. He holds an iPhone box and speaks excitedly to the camera. (2) The scene transitions to an outdoor park area where the man walks across a stone path toward a female character. (3) The man interviews the woman, who wears a grey jacket and a black mask; they stand in a public square with buildings and trees in the background. (4) The man presents the iPhone box to the woman, who takes it and poses for the camera. (5) The man returns to the camera alone in the park, performing exaggerated gestures and point-of-interest movements to promote a mobile app.",
+      "audio_narrative_log": "(1) Energetic, high-tempo pop BGM starts immediately. A high-pitched, excited male voice speaks rapidly, greeting the audience with enthusiasm. (2) The acoustic environment shifts to an outdoor field recording with slight wind and distant traffic noise as the conversation continues. (3) A female voice joins the dialogue, sounding surprised and polite. (4) Frequent cartoon-style sound effects (dings, sparkles, and transition whooshes) are integrated with the speech. (5) The music volume increases slightly during the closing promotional segment as the male voice delivers a final call to action.",
+      "text_narrative_log": "(1) Functional Text: Subtitles translating the spoken Mandarin dialogue. (2) Decorative Text: '新北蘆洲' marking the location with a pin icon. (3) Hook Text: 'iPhone 17 pro max' in large font emphasizing the prize. (4) Emotional Text: '真的出現了!' (It really appeared!) and '詐騙' (Scam) used humorously to reflect the winner's disbelief. (5) Functional Text: '11.4 - 11.9 下載金好運' providing campaign dates and app name."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 4.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Prize Presentation -> Interview -> Promotional Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 1 female prize winner, 3 distant passers-by in the background",
+      "mainCharacterDescription": "Adult male with dyed brown hair, wearing a yellow LSU-branded baseball cap, a yellow button-down shirt, and a black utility vest with '金好運' branding."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Public Park"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Starts next to a white taxi on a city street, then moves to a public park with paved paths, stone benches, green trees, and residential apartment buildings in the distance.",
+      "lightingStyle": "Natural light",
+      "weather": "Overcast",
+      "season": "Autumn",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Follow shot",
+        "Handheld",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "金好運",
+        "Apple",
+        "Google Play",
+        "Toyota"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Variety Show Style",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Ding",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "Traffic",
+        "Wind"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Evidence -> CTA",
+      "mainPurpose": "The video serves as a promotional endorsement for the mobile game 'Gold Luck' (金好運). It utilizes the credibility of a popular influencer (Cai Aga) to demonstrate the legitimacy of their prize giveaways, specifically an iPhone, by showing a real-life delivery to a winner. The objective is to build trust and drive app downloads by showing that users can actually win high-value rewards.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator is wearing a vest with the brand logo, uses the brand name multiple times in speech, and explicitly instructs viewers to download the app to win prizes.",
+      "endorsementObject": [
+        "金好運"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Cai Aga's signature high-energy delivery, rapid-fire Mandarin speech, and variety-show style text graphics.",
+      "freeDescribe": "The use of 'iPhone 17 Pro Max' in the text appears to be a marketing exaggeration or humorous hook, given the actual availability of iPhone models at the time of the campaign."
+    }
+  }
+}

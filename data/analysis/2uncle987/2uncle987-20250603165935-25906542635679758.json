@@ -1,0 +1,173 @@
+{
+  "videoName": "2uncle987-20250603165935-25906542635679758.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 11,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Fashion",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with braided hair stands in a room wearing a white oversized t-shirt, facing a large blue wavy mirror. (2) She taps the mirror glass repeatedly; with each tap, the reflection's outfit changes through four distinct sets: a white two-piece, a pink set, a black-and-red athletic set, and a green patterned shirt and shorts set. (3) She points upwards as the camera zooms in on her wearing the final green outfit, and she smiles broadly with a cheerful expression.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music starts playing immediately. (2) Four distinct magic 'ping' or 'ding' sound effects are heard, perfectly synchronized with the character's finger tapping on the mirror. (3) The music continues as a brief, high-pitched female giggle is heard at the very end as the visuals zoom in.",
+      "text_narrative_log": "(1) Decorative Text: '有夠省時' (Time-saving) - Casual, variety-show style tone. (2) Decorative Text: '免穿搭就出門!' (Go out without styling!) - Hook text with an enthusiastic and convenient tone. (3) Decorative Text: '終於不用想破頭' (Finally don't have to rack my brains) - Relatable, emotional tone highlighting the solution to a common problem."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 5,
+      "averageSceneDuration": 2.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Mirror outfit transitions -> Final result reveal"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Back view",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator is visible, both from the back and in the mirror reflection.",
+      "mainCharacterDescription": "A young female with long hair tied in two pigtail braids, wearing various casual oversized shirt and short sets."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A clean, modern indoor space with a large floor-to-ceiling window showing green trees outside, a white side table, and a distinctive wavy-bordered blue mirror.",
+      "lightingStyle": "Bright natural daylight",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "SFX layering over BGM",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Meme sounds",
+        "Magic chime"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Result",
+      "mainPurpose": "The video utilizes a creative 'mirror-tap' transition effect to showcase multiple casual outfit options. The objective is to demonstrate the ease and time-saving nature of these pre-coordinated clothing sets, addressing the viewer's difficulty in daily styling through a lighthearted, visual-first approach.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "The video focuses entirely on displaying different clothing sets from the same style category, combined with promotional text about saving time on styling.",
+      "endorsementObject": [
+        "Unknown fashion brand"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Mirror-tap transition rhythm aligned with SFX.",
+      "freeDescribe": "The video relies heavily on the 'Outfit of the Day' (OOTD) trope but uses visual editing magic to keep the pace engaging for short-form video platforms."
+    }
+  }
+}

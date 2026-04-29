@@ -1,0 +1,184 @@
+{
+  "videoName": "yga0721-20250909180928-2712851459067601.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 90,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Trailer",
+        "Promotion",
+        "Satire"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with her hair in braids and wearing pink boxing gloves shouts angrily at the camera in a room filled with racks of clothing. (2) Rapid montage transitions: a man jumps rope in a sunlit park, close-ups of an orange Hermes shopping bag, and an animated boxing graphic being punched. (3) The woman is seen counting a stack of cash. (4) The male character, wearing a white graphic t-shirt and red boxing gloves, shadowboxes in a park and performs high kicks. (5) The woman boxes inside what appears to be a retail clothing store (labeled hahababy). (6) The male character sits on a wooden fence outdoors, speaking directly and intensely into the camera, gesturing with his gloved hands. (7) Quick flashes of the Taipei Arena building and a website for 'hahababy' featuring various clothing items. (8) The male character delivers a final close-up provocative monologue ending with a title card over a dark, smoky background.",
+      "audio_narrative_log": "(1) Intense cinematic music starts abruptly with a loud, aggressive female shout. (2) A deep, authoritative male voiceover (announcer style) begins, speaking dramatically in Mandarin over a fast-paced electronic beat. (3) Sound effects of heavy punching thuds and wind whooshes accompany the visual montage. (4) The soundtrack transitions to a high-energy, suspenseful background track as the male character speaks in a mix of Mandarin and Hokkien; his tone is provocative and loud. (5) Ambient park noises are barely audible under the dominant music and vocals. (6) The video ends with a dramatic musical swell and a deep echo effect on the final spoken title.",
+      "text_narrative_log": "(1) Decorative: '2025 哈佛工作室鉅獻' (2025 Harvard Studio Presentation) - dramatic tone. (2) Decorative: 'AB合約終局之戰' (AB Contract Finale Battle) - suspenseful hook. (3) Hook: '【拳上羅拉】' (Punch on Lola) - central title. (4) Functional: '一場價值三千萬的拳賽' (A boxing match worth 30 million) - informative. (5) Decorative: '不叫黑衣人 不拿鐵鎚 不躲廁所' (No black-clothed men, no hammers, no hiding in toilets) - satirical tone. (6) Hook: '我的hahababy就是台灣製' (My hahababy is Taiwan-made) - defensive and proud tone. (7) Functional: '2025.4.1 台北小巨蛋' (2025.4.1 Taipei Arena) - event date/location. (8) Hook: '再給你100萬獎金' (Give you another 1 million prize) - aggressive emphasis."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 38,
+      "averageSceneDuration": 2.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Fast-paced cinematic intro -> Montage of conflict themes -> Direct character provocation -> Call to action for event tickets."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Close-up face"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male character (creator), 1 female character (rival).",
+      "mainCharacterDescription": "Male: Mid-30s, athletic build, wearing a white t-shirt with graphics, athletic shorts, and boxing gloves. Female: Mid-20s/30s, braids, wearing a black sweatshirt and pink boxing gloves."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Park",
+          "Indoor Retail Store",
+          "Stadium Exterior"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A walk-in closet/store filled with colorful apparel, a sunny outdoor park with green trees and a wooden fence, and the distinctive blue architecture of the Taipei Arena.",
+      "lightingStyle": "Natural daylight outdoors, bright fluorescent retail lighting indoors.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Taipei Arena"
+      ],
+      "brandLogos": [
+        "Hermès",
+        "hahababy"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut synced to percussion and scene changes.",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Provocative, shouting, aggressive, and theatrical",
+        "pitch": "Varied (Deep male VO, high-pitched female shouting, medium male character voice)",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Hokkien"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Cinematic/Suspenseful/Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Percussion",
+        "Electronic",
+        "Strings"
+      ],
+      "instrumentsAudible": [
+        "Drum Kit",
+        "Synthesizer",
+        "Cello"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Thud",
+        "Money rustling",
+        "Echo"
+      ],
+      "ambientNoise": [
+        "Park",
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Confrontation -> Evidence -> Call to Action",
+      "mainPurpose": "This video serves as a hype trailer/parody promotion for a staged boxing event between two influencers to resolve a publicized dispute. It uses aggressive visuals, dramatic music, and call-out text to build excitement for the event and drive ticket sales for the 'Punch on Lola' match scheduled at Taipei Arena, while simultaneously promoting the 'hahababy' clothing brand.",
+      "visualEmotion": "Energetic and Aggressive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct verbal mention of the brand, display of the official website, and clothing store background.",
+      "endorsementObject": [
+        "hahababy"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of Hokkien-Mandarin code-switching and highly expressive/comical anger characteristic of Taiwanese variety style.",
+      "freeDescribe": "The video blends real-world influencer drama with high production value professional wrestling-style promotion techniques to create viral engagement."
+    }
+  }
+}

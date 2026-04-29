@@ -1,0 +1,172 @@
+{
+  "videoName": "2uncle987-20251228124314-4252000911755003.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 20,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Holiday Montage",
+        "Social Media Trend"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a series of fast-paced cuts showing different individuals peaking through a hole in a cardboard box. Each opening is framed with red and green tinsel garland and holly leaves. (2) Each person, including several young women, a young boy, and one man, performs a quick, cheerful pose such as smiling, making peace signs, or forming hearts with their hands. (3) The final segment transitions into a festive collage where all the previous individual shots are arranged in the shape of a Christmas tree against a red snowy background.",
+      "audio_narrative_log": "(1) Upbeat classic holiday music ('Jingle Bell Rock') begins immediately at the start of the video. (2) The song continues at a steady, high-energy tempo throughout the duration of the clip. (3) No spoken dialogue, ambient noise, or additional sound effects are heard; the studio-recorded music track is the sole audio source.",
+      "text_narrative_log": "(1) Functional Text: 'Merry Christmas' appears at the bottom of the screen during the final collage phase, conveying a warm and festive holiday greeting."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 15,
+      "averageSceneDuration": 1.33,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Fast-paced individual poses -> Collective Christmas tree collage"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 15,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 13,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 15,
+      "bodyPartVisibility": [
+        "Face",
+        "Hands",
+        "Shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "The final tree collage displays 15 distinct frames, each featuring one person (mostly young women, one boy, and one adult male).",
+      "mainCharacterDescription": "An ensemble of young individuals dressed in casual indoor winter wear like hoodies and sweaters, all displaying joyful expressions."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The primary background for each shot is the interior of a brown cardboard box, creating a consistent framing device.",
+      "lightingStyle": "Bright, even indoor lighting",
+      "weather": "Unknown",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Festive and Vibrant (High saturation of red and green)",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and festive singing",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "None",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Holiday Pop",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Percussion",
+        "Strings",
+        "Brass"
+      ],
+      "instrumentsAudible": [
+        "Electric Guitar",
+        "Drums",
+        "Saxophone"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Sequence -> Collage",
+      "mainPurpose": "To create a heartwarming and creative group holiday greeting. The video uses a collaborative framing technique to show community and festive spirit, culminating in a visual representation of a Christmas tree made of the participants' faces.",
+      "visualEmotion": "Joyful and Warm"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Cardboard box frame decorated with tinsel",
+      "freeDescribe": "The video follows a popular social media template where multiple users or a group combine clips to form a larger festive image."
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "videoName": "3ctim-20250218131707-1272390101503609.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 64,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Unboxing",
+        "Tech Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing a plaid cap, glasses, and a white sweatshirt stands in an indoor room, holding a black rectangular box towards the camera. (2) He begins to unbox the device, revealing a sleek titanium-colored smartphone. (3) He demonstrates tearing the plastic seal from the side of the phone. (4) He points out specific physical features including the metal frame, the S Pen being removed from its slot, and the camera lens array on the back. (5) He shows the contents of the box, including a SIM tool and a USB-C cable. (6) He holds the phone close to the lens to show the rounded corner design and the thin bezels on the activated screen. (7) He finishes by smiling and giving a thumbs-up to the camera.",
+      "audio_narrative_log": "(1) Upbeat and energetic electronic background music starts immediately. A male voice speaks enthusiastically in Mandarin, greeting the audience and introducing the product. (2) A clear sound effect of plastic tearing is heard as he opens the phone's packaging. (3) The male voice continues to describe the phone's specs and design features with a friendly and professional tone. (4) The background music maintains a consistent tempo and volume throughout the presentation. (5) Subtle handling noises of the phone and box are audible alongside the narration.",
+      "text_narrative_log": "(1) Hook text: '我要挑戰台灣第二位拿到三星Galaxy S25 Ultra手機的人' (I want to challenge being the second person in Taiwan to get the Samsung Galaxy S25 Ultra phone). (2) Functional text: '我們來快速開箱S25 Ultra' (Let's quickly unbox the S25 Ultra). (3) Decorative caption: '來 撕開它' (Come, tear it open). (4) Technical feature callouts: '金屬的中框' (Metal frame), 'S Pen', '藍色的', '5000萬畫素' (50 million pixels), '6.9吋', '極窄邊框' (Extremely narrow bezels). (5) CTA: '期待我們完整的開箱喔' (Look forward to our full unboxing)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Unboxing Ceremony -> Feature Highlights -> Accessories Overview -> Final Summary"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full face",
+        "Torso",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male presenter shown as a talking head and hands during unboxing.",
+      "mainCharacterDescription": "A middle-aged man with glasses, wearing a distinctive plaid flat cap and a white sweatshirt with a 'Roots' logo."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern indoor room with neutral walls, a curtained window, and a minimalist floor lamp.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and clean",
+      "cameraWork": [
+        "Static",
+        "Handheld Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Samsung Galaxy S25 Ultra",
+        "Smartphone",
+        "USB-C Cable",
+        "SIM Tool"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Samsung",
+        "Roots"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Tearing/Unboxing SFX"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Unboxing -> Demonstration -> CTA",
+      "mainPurpose": "The video aims to build early hype for the Samsung Galaxy S25 Ultra by providing a 'first in Taiwan' unboxing experience. It showcases the new physical design, camera upgrades, and box contents to inform and excite tech-savvy viewers.",
+      "visualEmotion": "Energetic and Anticipatory"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct presentation and positive review of a specific named product (Samsung Galaxy S25 Ultra).",
+      "endorsementObject": [
+        "Samsung Galaxy S25 Ultra"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The presenter's plaid cap and energetic '3c tim' branding.",
+      "freeDescribe": "High-production value short-form content optimized for TikTok/Reels with heavy use of text overlays and fast-paced editing to maintain engagement."
+    }
+  }
+}

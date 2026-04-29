@@ -1,0 +1,178 @@
+{
+  "videoName": "cocowine0205-20251204195505-1244419084305338.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 50,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a female creator standing in front of a Costco graphic, gesturing broadly to set the scene. She is wearing a brown puffer jacket and a long brown pleated skirt. (2) She approaches a shelf fully stocked with Daisho Salt & Pepper twin packs. She picks one up, showing it to the camera with a cheerful expression. (3) The camera pans to a price tag showing '$159' before returning to her. She continues to handle the product and points at the abundant stock on the shelves. (4) Other shoppers with carts are visible in the background moving through the warehouse aisles.",
+      "audio_narrative_log": "(1) Upbeat, moderately fast background music with electronic elements begins immediately. A female voice starts speaking with high energy and an excited tone. (2) An off-screen male voice enters, engaging in a conversational style with the female speaker about the product and its price. (3) The female voice describes the flavor and utility of the seasoning, maintaining a constant flow of speech over the music. (4) Subtle ambient sounds of a busy warehouse, including the distant rumble of carts and muffled background chatter, are heard throughout.",
+      "text_narrative_log": "(1) '黑五好康' (Black Friday Deals) appears as a large hook title with a festive, excited tone. (2) '黑五沒人要買' (Nobody's buying on Black Friday) provides a surprising, curiosity-inducing hook. (3) '曾經需要排隊' (Used to require queuing) highlights the past popularity of the item. (4) '明星商品' (Star Product) labels the item as a must-have. (5) 'DAISHO SALT & PEPPER $159' provides functional pricing and product information."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 4.1,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Product Discovery -> Price Analysis -> Usage Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 6,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female main character, 5 background shoppers (mixed genders) visible in aisles.",
+      "mainCharacterDescription": "Young female with long dark hair, wearing a brown jacket, a black top with a choker necklace, and a brown pleated skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "High-ceilinged warehouse environment with industrial metal shelving, bulk food products, and yellow price signs.",
+      "lightingStyle": "Bright industrial studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Pan"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Salt & Pepper",
+        "Ketchup"
+      ],
+      "trafficDetect": [
+        "Shopping cart"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "DAISHO",
+        "HEINZ"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and conversational",
+        "pitch": "Sharp/High",
+        "loudness": "Loud",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Store"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Contradiction -> Evidence -> Benefit Analysis",
+      "mainPurpose": "To advise consumers that a previously high-demand seasoning product is now readily available at Costco during the Black Friday period. It seeks to provide a shopping tip by highlighting the product's quality, large volume, and low price point to encourage viewers to purchase without the stress of crowds.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct product review, price mention, and location-specific recommendation.",
+      "endorsementObject": [
+        "DAISHO",
+        "COSTCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy 'shopping find' style common among lifestyle influencers.",
+      "freeDescribe": "The video leverages 'Black Friday' FOMO while providing a counter-intuitive tip that makes the content feel more exclusive and helpful."
+    }
+  }
+}

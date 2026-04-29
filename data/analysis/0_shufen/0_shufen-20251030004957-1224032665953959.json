@@ -1,0 +1,170 @@
+{
+  "videoName": "0_shufen-20251030004957-1224032665953959.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 9,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Artistic",
+        "Performance"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A person is completely covered by a large white sheet, sitting upright with their arms holding the edges of the sheet outward to resemble a ghost or a sculptural figure. The background is a white wall with red decals of string instruments. (2) The scene cuts to a low-angle rear view of the figure kneeling on a tiled floor, performing a rhythmic, swaying hip movement under the sheet as the lighting shifts to a dim, reddish tone. (3) The shot changes to the figure lying flat on a bed, fully covered by the white sheet, with a vertical light glare effect moving across the screen. (4) The visual returns to the initial seated ghost-like pose against the wall.",
+      "audio_narrative_log": "(1) A soft, melodic keyboard track begins accompanied by a high-pitched, child-like female vocal singing 'I can see you from behind'. (2) The vocals maintain a consistent, slightly eerie yet sweet tone with a reverb effect as the music continues at a slow tempo. (3) The song concludes as the vocal phrase ends, leaving only the soft background atmosphere.",
+      "text_narrative_log": "(1) None"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 2.25,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Pose -> Performance -> Static Shot -> Loop Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 individual completely covered by a sheet, female gender inferred by body proportions and movement.",
+      "mainCharacterDescription": "The character is entirely hidden beneath a voluminous white fabric sheet, creating a shapeless, ghostly aesthetic."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Bedroom",
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A room with white walls featuring red cello/violin decals, a tiled floor, and a bed with curtains in the background.",
+      "lightingStyle": "Mixed; shifts from bright indoor light to dim red lighting.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Muted and Cinematic with a red color shift mid-video.",
+      "cameraWork": [
+        "Static",
+        "Low Angle"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Eerie, high-pitched, melodic",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Slow",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Suspenseful Melodic",
+      "bgmBPM": 85,
+      "instrumentFamiliesAudible": [
+        "Keyboard",
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Electric Piano",
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Unknown"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Performance -> Outro",
+      "mainPurpose": "This video serves as a creative performance piece, likely for social media, combining the 'ghost' aesthetic with rhythmic dance movements to evoke a sense of mystery and allure. The use of a simple white sheet as a prop focuses the viewer's attention on the silhouette and motion rather than the individual's identity.",
+      "visualEmotion": "Eerie and Alluring"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "White sheet ghost costume, instrument wall decals",
+      "freeDescribe": "The video leans into the 'ghost trend' or similar aesthetic-focused content where anonymity and visual style take precedence over narrative dialogue."
+    }
+  }
+}

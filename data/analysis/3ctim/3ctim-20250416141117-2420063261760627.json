@@ -1,0 +1,179 @@
+{
+  "videoName": "3ctim-20250416141117-2420063261760627.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 75,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Automotive Review",
+        "Tech Showcase"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a male host (Tim) sitting in a Mercedes-Benz car, wearing a newsboy cap and glasses, gesturing enthusiastically while talking. (2) Scene cuts to an exterior shot of a grey Mercedes E200 sedan, then back to the interior where Tim demonstrates a smart route feature that automatically rolls down the car window at a set location. (3) Transition to a white Mercedes EQE 300 SUV; the host demonstrates 'Automatic Assisted Parking' with a split-screen view of the dashboard display and the steering wheel moving on its own. (4) The final segment features a grey Mercedes GLC 300, focusing on the 'Transparent Chassis' camera technology shown on the large central screen, highlighting wheel trajectories on the ground.",
+      "audio_narrative_log": "(1) Upbeat, energetic background music with a steady electronic beat begins. A male voice (Tim) speaks in a high-pitched, fast-paced, and excited tone, introducing the car experience. (2) The music continues as the primary audio layer beneath the clear, studio-quality narration. Subtle cabin ambient noise is present during the driving demo. (3) During the parking demonstration, electronic beeping sound effects (SFX) from the car's proximity sensors are audible, layered over the background music. (4) The audio concludes with a final enthusiastic summary from the host as the music maintains its tempo before a hard cut at the end.",
+      "text_narrative_log": "(1) Functional Text: '大家好 我是Tim哥' (Hi everyone, I'm Tim), '我們今天要來體驗3款賓士' (We're going to experience 3 Mercedes models). (2) Decorative/Hook Text: '3款賓士' in large yellow font, '體驗他們最新科技' (Experience their latest tech). (3) Content Text: 'E200', 'EQE 300 SUV', '自動輔助停車' (Automatic assisted parking), 'GLC 300', '底盤可以透視' (Transparent chassis). (4) Emotional Text: '非常棒!' (Very great!), '無敵無腦的' (Super easy/brainless), '非常正!' (Very perfect!)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Feature Demo (E200) -> Feature Demo (EQE 300 SUV) -> Feature Demo (GLC 300)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main host (Tim), 1 male passerby briefly visible in the background during the exterior parking shot.",
+      "mainCharacterDescription": "Adult male wearing a grey newsboy cap, round glasses, a light green t-shirt, and a bright yellow smartwatch."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Car",
+          "Outdoor Parking Lot"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The interior of modern Mercedes-Benz vehicles featuring high-tech dashboards, large screens, and ambient lighting; exterior parking lots with other vehicles and city trees visible.",
+      "lightingStyle": "Natural daylight, slightly overcast.",
+      "weather": "Cloudy",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Coffee (mentioned in context)"
+      ],
+      "trafficDetect": [
+        "Mercedes-Benz E200",
+        "Mercedes-Benz EQE 300 SUV",
+        "Mercedes-Benz GLC 300"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Car Dashboard Display",
+        "Smartwatch"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Mercedes-Benz"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Corporate Pop",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Parking sensor beeps"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Intro -> Product 1 Demo -> Product 2 Demo -> Product 3 Demo",
+      "mainPurpose": "The video serves as a promotional review to highlight the innovative 'intelligent' features of the new Mercedes-Benz car lineup. It focuses on user convenience (automatic windows for drive-thrus), safety/ease of use (assisted parking), and advanced situational awareness (transparent chassis). The creator aims to position these vehicles as the pinnacle of automotive technology for a tech-savvy audience.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The host specifically visits a dealership or event to test three specific models and praises their features extensively using brand names.",
+      "endorsementObject": [
+        "Mercedes-Benz"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host uses a signature high-energy opening '大家好 我是Tim哥'.",
+      "freeDescribe": "The fast editing and high density of text overlays are typical of Taiwanese tech-influencer content, designed to keep viewers engaged on mobile platforms."
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "videoName": "cocowine0205-20250806002234-1847401539301810.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 71,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is live-action. A woman wearing a black top with a cutout and large hoop earrings stands in a Costco aisle, holding a large plastic bowl of Thai Seafood Tom Yum Pho. She points to the product and gestures enthusiastically. (2) Close-up shots show the product label and the ingredients inside the bowl (shrimp, squid, fish). The woman gives a thumbs-up and makes a 'money' hand sign. (3) The scene shifts to an indoor room where the first woman is joined by another woman wearing a zebra-print bucket hat. They unbox the Pho kit, showing the separate bags of noodles, seafood, herbs, and soup base. (4) A black pot on a stovetop shows the soup boiling with all ingredients added. (5) The two women sit at a table, eating the Pho from the pot. They have expressive facial reactions, nodding and gesturing to indicate the food is spicy and sour. (6) They point to the pot, which is now half-empty, and give final positive reactions.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic pop music plays throughout. A female voice speaks in an excited, high-pitched tone in Mandarin. Background ambient noise of a busy supermarket is audible. (2) Sound effects like 'ding' and 'sparkle' noises coincide with visual text appearances. (3) The audio transitions to a clearer, indoor environment. Two female voices are heard chatting and laughing as they describe the ingredients. (4) Slurping sounds and 'mmm' vocalizations occur during the eating segment. (5) The upbeat music continues until the end, maintaining a high energy level.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' banner at the top throughout the store segment. Subtitles in white at the bottom translate the spoken Mandarin. (2) Decorative/Hook Text: '小朋友拿什麼' (What did the kid take?) as an opening hook. '誠意十足 滿滿海鮮' (Very sincere, full of seafood) in large purple/pink variety-show style font. '泰式酸辣海鮮河粉' (Thai Spicy and Sour Seafood Pho) as the main title. (3) Price information: '437元' and '一公斤只要395' (395 per kg) appear in bold yellow/red text. (4) Emotional Hooks: '超級划算' (Super good value) and '又酸又辣' (Both sour and spicy) appear with explosion graphics to emphasize the taste."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 3.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Store Intro -> Product Close-up -> Home Unboxing -> Cooking Demo -> Taste Test/Review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Half body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, 2 blurred passers-by in the background at Costco.",
+      "mainCharacterDescription": "One woman has long dark hair, a black headband, and a black top with a chest cutout. The second woman has shorter hair and wears a zebra-patterned bucket hat and an orange/brown top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Supermarket",
+          "Indoor Dining Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene is a Costco refrigerated aisle with shelves of pre-packaged meals. Second scene is a modern home dining area with a table and a plush toy in the background.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "Unknown",
+      "season": "Summer (mentioned in text/audio)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pho",
+        "Shrimp",
+        "Squid",
+        "Lemon",
+        "Tomato",
+        "Basil"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Kirkland Signature"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched, excited, and energetic",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Ding",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Supermarket hum"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Introduction -> Ingredient Breakdown -> Result -> Recommendation",
+      "mainPurpose": "To review and promote a specific Costco food product by demonstrating its value, ease of preparation, and strong flavor profile. The video aims to influence viewers to purchase the 'Thai Seafood Tom Yum Pho' by emphasizing its generous seafood portions and authentic spicy-sour taste.",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed product unboxing, price mention, and explicit positive recommendation of a branded item.",
+      "endorsementObject": [
+        "Costco Thai Seafood Tom Yum Pho"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin narration combined with colorful variety-show style text overlays and fast-cut editing.",
+      "freeDescribe": "The video uses typical 'short-form' social media editing techniques to maintain high viewer retention, focusing heavily on visual proof of product quality (abundant seafood)."
+    }
+  }
+}

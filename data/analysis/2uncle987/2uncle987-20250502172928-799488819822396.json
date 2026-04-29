@@ -1,0 +1,175 @@
+{
+  "videoName": "2uncle987-20250502172928-799488819822396.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 39,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Promotional",
+        "Event"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Kaohsiung"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a close-up of a colorful bed-themed display featuring polka-dot patterns and a teddy bear. A woman wearing a beige beret and a cream-colored dress appears behind the bed, leaning her arms on the headboard and smiling. She stretches her arms wide in a yawning gesture. (2) The scene shifts to a bright yellow wall with a convex mirror mounted on it. The woman stands by the mirror, gesturing towards it with both hands and then posing for a selfie while holding a smartphone. (3) The scene moves to a blue wall decorated with cartoon characters wearing sunglasses. The woman stands in front of it, raising her hand in a 'high five' pose. She then stands in front of a directional signpost, waving goodbye to the camera. The video ends with a shot of the brand's store sign and various packaged goods.",
+      "audio_narrative_log": "(1) An upbeat, medium-tempo electronic pop track with a cheerful melody begins immediately. A young woman's voice is heard speaking enthusiastically in Mandarin, greeting the audience. (2) The music continues at a consistent volume as the vocal rhythm remains steady, explaining features of a physical space. Occasional subtle sound effects accompany visual transitions. (3) The upbeat music and energetic vocal delivery maintain their pace until the end, concluding with a final friendly remark and a brief fade-out of the music track.",
+      "text_narrative_log": "(1) '三大打卡點' (Three major check-in points) - Decorative Hook text appearing at the top with an energetic tone. (2) Functional subtitles appearing at the bottom translating the speaker's introduction to the photo spots and the bed display. (3) 'SLEEP' - Large decorative text during the photo collage section. (4) 'Give me five' - Decorative effect text during the third photo spot scene. (5) '4/17-5/15' - Functional text indicating the event duration."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro to event -> Sequential demonstration of three photo spots -> Event details and CTA."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator presenting the store features.",
+      "mainCharacterDescription": "A young woman wearing a beige beret, a cream-colored short-sleeved dress with a drawstring waist, and sheer white undersleeves."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Shop",
+          "Pop-up Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The background consists of three distinct themed walls: a bed area with polka dots and a bear, a yellow wall with a convex 'fisheye' mirror and signs, and a blue wall with cartoon face illustrations and a directional signpost.",
+      "lightingStyle": "Bright indoor studio-style lighting",
+      "weather": "Indoor",
+      "season": "Spring (based on text 4/17-5/15)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Bear plushie"
+      ],
+      "foodsDetect": [
+        "Snack packages"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "haha baby"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drum"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Intro -> Point 1 -> Point 2 -> Point 3 -> Closing Info",
+      "mainPurpose": "The video serves as a promotional guide for a 'haha baby' pop-up store event in Kaohsiung. It highlights specific aesthetically pleasing areas within the store designed for social media photography ('check-in points') to encourage foot traffic and engagement from fans and potential customers.",
+      "visualEmotion": "Energetic and Playful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The entire video focuses on a specific store's layout, features, and event dates, with the brand logo clearly visible throughout.",
+      "endorsementObject": [
+        "haha baby"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin narration paired with fast-paced editing and colorful graphic overlays.",
+      "freeDescribe": "The video is tailored for short-form social media platforms like Instagram Reels or TikTok, emphasizing visual 'Instagrammability' and concise information delivery."
+    }
+  }
+}

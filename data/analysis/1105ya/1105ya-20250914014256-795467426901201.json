@@ -1,0 +1,175 @@
+{
+  "videoName": "1105ya-20250914014256-795467426901201.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 28,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Social Experiment"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young girl with a pink bow headband is seen in a close-up, eating with a spoon and smiling at the camera. (2) The scene transitions to a young woman in a white t-shirt (the creator) hugging the little girl in a restaurant setting. (3) Transition to a young boy sitting at a table; the creator is seen talking to him from the side. (4) Transition to a young man with glasses sitting next to the creator; he listens and then rolls his eyes at her. (5) Transition to an older woman eating noodles; the creator leans in to talk to her while she continues to handle her chopsticks.",
+      "audio_narrative_log": "(1) Upbeat, cheerful background music starts. A female voice (the creator) tells a child she was sad and bought bread; the child's voice responds with an affectionate 'I care about you' and offers a hug. (2) The female voice repeats the same scenario to a boy; the boy's voice asks pragmatically, 'What kind of bread?'. (3) The female voice repeats the story to a young man; he asks why she was sad, and after her playful response, he lets out a mock sigh. (4) The female voice tells the story to an older woman; the woman responds with a confused, logical tone asking about the connection between mood and bread. Ambient restaurant chatter and clinking dishes are audible throughout.",
+      "text_narrative_log": "(1) '當你測試家人的性格' (Hook: Testing family's personality). (2) '關心妳~~ (感性人格)' (Decorative: Caring about you - Emotional personality). (3) '什麼麵包? (理性人格)' (Functional: What bread? - Rational personality). (4) '幹嘛心情不好? (感性人格)' (Functional: Why the bad mood? - Emotional personality). (5) '翻白眼???' (Decorative: Rolling eyes???). (6) '心情不好跟麵包有什麼關係? (理性人格)' (Functional: What does a bad mood have to do with bread? - Rational personality)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 5,
+      "averageSceneDuration": 5.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Emotional Reaction (Child) -> Rational Reaction (Boy) -> Mixed Reaction (Man) -> Rational Reaction (Mother)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female creator, 1 little girl, 1 young boy, 1 young man with glasses, 1 older woman.",
+      "mainCharacterDescription": "A young female creator wearing a white t-shirt with long dark hair, acting as the interviewer."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Restaurant"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A traditional indoor restaurant with brick-patterned walls, wooden chairs, calligraphy scrolls on the wall, and tables with food.",
+      "lightingStyle": "Natural indoor lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Noodles",
+        "Bread",
+        "Soup"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut sync with visual cuts",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Varies from playful/mischievous to pragmatic and questioning",
+        "pitch": "Mixed",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Restaurant chatter",
+        "Dish clinking"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Evidence -> Evidence -> Evidence -> Evidence",
+      "mainPurpose": "The video is a social experiment vlog utilizing a popular online 'Bread Test' meme to explore the different personality types (Emotional vs. Rational) of the creator's family members. By posing a logically disconnected statement ('I was sad so I bought bread'), she elicits and compares various reactions for the purpose of entertainment and relatable family content.",
+      "visualEmotion": "Humorous and Warm"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of MBTI-style personality labeling in captions.",
+      "freeDescribe": "The video follows a trend common on platforms like TikTok/Douyin where users test their loved ones' empathy vs. logic."
+    }
+  }
+}

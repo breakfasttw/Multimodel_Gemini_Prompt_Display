@@ -1,0 +1,183 @@
+{
+  "videoName": "yga0721-20251128121013-1520198965737348.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 60,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Promotion",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Changhua"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a male host in an orange shirt and a female host in a striped shirt talking in an outdoor area of a modern grey building. (2) They transition to an indoor lobby featuring a map of Taiwan and the 'FOOMAO' logo, meeting a middle-aged male staff member. (3) The scene shifts to factory floors where workers in white cleanroom suits and masks inspect raw ingredients like dried mushrooms and large taro roots. (4) An automated production line is shown, with large quantities of meatballs falling into stainless steel hoppers, being weighed by multi-head weighers, and finally being bagged into 'FOOMAO' branded packaging. (5) The hosts are then seen sitting at a dining table with a hotpot and various cooked meatball dishes, reacting with wide eyes and excited gestures as they talk to the staff member.",
+      "audio_narrative_log": "(1) Upbeat, energetic background music starts immediately. A male and female voice talk excitedly outdoors with a friendly, casual tone. (2) In the office/lobby, the hosts' voices are punctuated by laughter and quick-paced dialogue. (3) In the factory segment, a deeper male voice (the staff member) explains the process calmly, while the background noise of machinery (clinking, whirring, and the sound of items dropping) is audible. (4) The final segment features high-pitched exclamations and gasps from the hosts as they react to production numbers, accompanied by the clinking of chopsticks and the bubbling of a hotpot.",
+      "text_narrative_log": "(1) Decorative: '全台灣銷量第一名的丸子' (The #1 selling meatballs in all of Taiwan), emphasizing the product's popularity. (2) Functional: Subtitles translating the dialogue about winter hotpot and meatballs. (3) Decorative: '姓賴的' (Surnamed Lai), a pun on 'trustworthy' (信賴) used during the host's interaction with the staff. (4) Decorative: Large text overlays '55噸' (55 tons) and '200多萬顆' (Over 2 million pieces) appear in a bold font to emphasize the scale of production."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Factory Inspection/Production Demo -> Tasting and Reaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 6,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male host, 1 female host, 1 male staff member, and at least 3 factory workers seen in various shots.",
+      "mainCharacterDescription": "A male creator in an orange t-shirt and blue jeans, and a female creator in a blue and white striped shirt and denim pants."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Courtyard",
+          "Office Lobby",
+          "Factory",
+          "Dining Room"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Outdoor area has a concrete building facade; factory area is clinical with stainless steel machines and workers in protective gear; dining area is a modern room with large windows showing a rainy day.",
+      "lightingStyle": "Natural light outdoors, bright fluorescent studio/factory lighting indoors.",
+      "weather": "Rainy",
+      "season": "Winter (implied by dialogue)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Handheld",
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Meatballs",
+        "Shiitake Mushrooms",
+        "Taro",
+        "Hotpot"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Automated Production Line",
+        "Industrial Scale"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "福茂"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "Medium-high",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Factory Machinery",
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Discovery -> Verification -> Experience",
+      "mainPurpose": "The video serves as a promotional endorsement for FOOMAO (福茂) meatballs. It uses a popular vlog format to take viewers 'behind the scenes' of the factory to prove the scale, hygiene, and ingredient quality of the brand, concluding with a tasting session to validate the product's appeal for winter hotpots.",
+      "visualEmotion": "Energetic and Enthusiastic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct factory visit, logo visibility, and hosts actively praising the product and production volume.",
+      "endorsementObject": [
+        "福茂"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy hosting style with fast-paced editing and variety-show style text overlays.",
+      "freeDescribe": "The video successfully blends entertainment with corporate transparency by showcasing automated industrial processes to build consumer trust."
+    }
+  }
+}

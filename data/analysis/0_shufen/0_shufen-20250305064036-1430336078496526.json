@@ -1,0 +1,167 @@
+{
+  "videoName": "0_shufen-20250305064036-1430336078496526.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 40,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Storytelling"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair and a large black bow is lying down on a bed, looking directly at the camera with a tired and pained expression. (2) As she narrates her story, her facial expressions shift between discomfort and mild frustration, though she remains in the same lying position. (3) The scene stays static throughout the entire video, focusing on her upper body and face as she continues to recount her experience.",
+      "audio_narrative_log": "(1) A soft female voice begins speaking in Mandarin with a weary and slightly high-pitched tone, conveying exhaustion. No background music is present. (2) The voice continues at a slow pace, with natural pauses for breath, maintaining the same volume and tone as she narrates a personal encounter. (3) The audio remains focused solely on the vocal narration with minimal ambient room noise until the end.",
+      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese translate the spoken story about having a stomachache and having to work. (2) Decorative/Hook Text: Large white captions appear centrally, such as '今天胃痛的要死' (Stomach hurts like hell today) and '結果呢' (And then what?), used to emphasize the emotional peaks of the story. (3) Sequence Text: Smaller captions detail the timeline: taking medicine, boarding the MRT, and being asked to give up a seat."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 40.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Constant talking while lying down"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Face",
+        "Upper body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female creator visible on screen throughout the video",
+      "mainCharacterDescription": "A young woman with long black hair, wearing a large black bow headband and a navy blue sailor-style top with a white collar."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Bedroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A bed with patterned sheets in soft colors, suggesting a private, domestic setting.",
+      "lightingStyle": "Soft natural indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Weary and vulnerable",
+        "pitch": "Medium",
+        "loudness": "Soft",
+        "speed": "Slow",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Experience -> Reflection",
+      "mainPurpose": "To share a personal and vulnerable experience regarding the social pressure of giving up seats on public transport while suffering from an 'invisible' illness. The creator aims to connect with her audience by expressing her frustration and physical discomfort through a first-person narrative.",
+      "visualEmotion": "Tired and Vulnerable"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Sailor-style aesthetic and signature large hair bow.",
+      "freeDescribe": "The video uses a very intimate angle (lying down on a bed) to enhance the feeling of vulnerability and sickness described in the narration."
+    }
+  }
+}

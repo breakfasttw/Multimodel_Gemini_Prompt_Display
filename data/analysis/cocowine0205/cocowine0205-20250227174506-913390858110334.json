@@ -1,0 +1,179 @@
+{
+  "videoName": "cocowine0205-20250227174506-913390858110334.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 47,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tutorial",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts in a warehouse club setting. A woman wearing a patterned fur hat and purple sweater holds a large transparent box of cherry tomatoes, comparing one tomato's size to her thumb with an excited expression. (2) The scene transitions to an indoor home setting. The same woman, now wearing a black beret and white top, sits at a table with the tomato box and a bag of dried prunes. (3) She uses a knife and scissors to demonstrate cutting the prunes and stuffing them into the sliced cherry tomatoes while wearing plastic gloves. (4) The camera shows a close-up of the finished snacks arranged on a pink plate. (5) She picks one up, eats it, and reacts with a surprised and happy facial expression, covering her mouth as she chews.",
+      "audio_narrative_log": "(1) High-energy upbeat pop music begins immediately. A female voice speaks in an excited, high-pitched tone with audible background noise typical of a busy warehouse. (2) As the scene changes to the home, the background noise disappears, leaving only the music and the clear, steady narration of the woman explaining the recipe. (3) Occasional sound effects (SFX) like a 'ding' or a 'pop' coincide with text appearances. (4) Sound of the woman chewing and an enthusiastic 'Mmm' vocalization are heard at the end.",
+      "text_narrative_log": "(1) Functional Text: '好市多' (Costco), '終於又進小番茄' (Finally cherry tomatoes are back), '225元' (Price). (2) Decorative/Hook Text: '跟大拇哥一樣' (Like a thumb) with a hand emoji, '包蜜餞超讚' (Stuffed with prunes is great), '無痛升級' (Painless upgrade), '超好吃' (Super delicious). (3) The tone of the text is enthusiastic and uses large, colorful fonts common in social media short videos."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Warehouse Intro -> Recipe Explanation -> Cooking Demo -> Tasting and Review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator; approximately 3 male and female shoppers blurred in the warehouse background.",
+      "mainCharacterDescription": "A young woman with long dark hair, wearing a stylish fur hat and purple sweater in the first half, and a black beret with a white sweater in the second half."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First half: A Costco warehouse with high metal shelves, bulk packaging, and signs like 'FRESH PRODUCE'. Second half: A modern home interior with a marble table, a television in the background, and warm lighting.",
+      "lightingStyle": "Mixed: Bright industrial fluorescent lights in the store; soft warm indoor lighting at home.",
+      "weather": "Indoor",
+      "season": "Winter",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Cherry Tomatoes",
+        "Prunes",
+        "Snack"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "TV",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "KANGOL"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Warehouse crowd chatter"
+      ],
+      "audioQuality": "Mixed"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Demonstration -> Validation",
+      "mainPurpose": "To share a food hack/recipe using cherry tomatoes purchased from Costco. The video aims to inform viewers about the availability of the product and provide an easy, tasty way to prepare it at home.",
+      "visualEmotion": "Energetic and Happy"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The creator specifically highlights the Costco logo, mentions the price, and showcases the 'Traceable Agricultural Product' (產銷履歷) label on the box.",
+      "endorsementObject": [
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy presentation style with distinctive headwear (KANGOL beret).",
+      "freeDescribe": "The video follows a standard social media 'lifestyle hack' format, combining shopping vlog elements with a quick DIY tutorial."
+    }
+  }
+}

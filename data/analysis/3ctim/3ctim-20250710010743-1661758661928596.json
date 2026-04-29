@@ -1,0 +1,177 @@
+{
+  "videoName": "3ctim-20250710010743-1661758661928596.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 53,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech News",
+        "Commentary"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with thick-rimmed glasses and a grey newsboy cap is centered in the frame, speaking directly to the camera. He wears a light purple T-shirt and has a beaded bracelet on his left wrist. (2) As he speaks, colorful graphics and logos appear around him: a large Apple logo, the Perplexity AI logo, and stacks of cash graphics are overlaid to emphasize the acquisition news. (3) The man uses frequent hand gestures, such as counting on his fingers and pointing to on-screen text, to explain the three reasons for the rumored deal. The background is a soft-focus indoor living area with light curtains.",
+      "audio_narrative_log": "(1) An upbeat, electronic background music track plays continuously at a moderate volume. A male voice speaks in Mandarin Chinese with an energetic, fast-paced, and informative tone. (2) Sound effects are synchronized with visual pop-ups, including a cash register 'cha-ching' sound when money is mentioned and digital 'ding' sounds for each point of the argument. (3) The vocal remains clear and prominent over the BGM, ending with an emphasized tone when mentioning potential competition from Samsung.",
+      "text_narrative_log": "(1) Functional Text: 'Apple wants to spend 415.5 billion to acquire strongest AI Perplexity' appears as a bold headline at the start. (2) Decorative/Effect Text: Social media handle stickers '3c有意思tim哥' and '@3ctim' are fixed at the top left. (3) Functional Text: Sequential points '1. Google search cooperation', '2. AI talent', and '3. Growth potential' appear to structure the argument. (4) Effect Text: Large numeric overlays like '140 billion USD' and '3 billion USD' emphasize financial scale."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.9,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro Hook -> Explanation of 3 reasons for acquisition -> Comparison with historical deals -> Conclusion/Potential obstacles."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male host/creator appearing throughout the video.",
+      "mainCharacterDescription": "Middle-aged man, newsboy cap, thick-rimmed glasses, light purple T-shirt, beaded bracelet."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A blurred indoor setting featuring light beige curtains and a partial view of a room with shelves, creating a professional home-studio look.",
+      "lightingStyle": "Soft, natural-looking indoor lighting.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and warm",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple",
+        "Perplexity",
+        "Google",
+        "Samsung",
+        "Beats",
+        "Facebook",
+        "Instagram"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cash register",
+        "Ding",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence Analysis -> Market Comparison -> Potential Obstacle.",
+      "mainPurpose": "The video serves as a tech news commentary aimed at informing viewers about the strategic motivations behind Apple's rumored multi-billion dollar acquisition of Perplexity AI. It explains the move as a counter-measure to Google's search monopoly issues and a grab for AI talent, while identifying Samsung as a primary competitor that might block the deal.",
+      "visualEmotion": "Energetic and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host's newsboy cap, '3C有意思' branding, fast-paced graphic-heavy editing style.",
+      "freeDescribe": "The content is optimized for short-form social media engagement with high-frequency text overlays and sound effects to maintain viewer attention on a dense informational topic."
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "videoName": "alephant_0427-20251128215348-2298505334006207.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 28,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Dance"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts in an indoor pole dance studio with a woman in a pink top and white leggings standing next to a pole; she looks at the camera and prepares to start. (2) She begins a series of fluid movements, gripping the pole with her hands and legs, spinning around it while transitioning through various poses, including inverted hangs and leg extensions. Her movements are graceful and controlled. (3) Towards the end, she performs a final spin, gracefully slides down the pole, and lands on the padded floor before walking off-camera.",
+      "audio_narrative_log": "(1) A soft Korean ballad starts playing, featuring a male vocalist with a gentle, emotional tone. (2) The song continues throughout the video, maintaining a steady, slow tempo as the woman performs her routine. (3) No ambient noises or sound effects are audible, creating a focused, atmospheric listening experience centered on the music.",
+      "text_narrative_log": "(1) 'PINNA STUDIO' is visible in a gold-colored logo on the back wall, serving as a functional background element identifying the location."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 28.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Pole Dance Performance -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main character performing pole dancing",
+      "mainCharacterDescription": "A young woman wearing a pink sports bra and white high-waisted leggings, barefoot."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A bright indoor dance studio with wood-paneled walls on one side and a large logo on the back wall. The floor is covered with white safety mats.",
+      "lightingStyle": "Bright studio lights",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Warm and Muted",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "PINNA STUDIO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Emotional and melodic",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Slow",
+        "speechDensity": "Continuous (singing)",
+        "language": [
+          "Korean"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Ballad",
+      "bgmBPM": 72,
+      "instrumentFamiliesAudible": [
+        "Keyboard",
+        "Strings"
+      ],
+      "instrumentsAudible": [
+        "Piano"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Start -> Action -> End",
+      "mainPurpose": "The video is a performance showcase aimed at demonstrating the subject's pole dancing skills and the aesthetic quality of her routine. It serves as both a personal vlog entry and a promotional piece for 'PINNA STUDIO', blending athletic display with a calm, artistic atmosphere provided by the music and setting.",
+      "visualEmotion": "Calm and Focused"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "The prominent placement of the studio's logo in the background suggests a location-based endorsement or affiliation.",
+      "endorsementObject": [
+        "PINNA STUDIO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Graceful transitions between complex pole poses",
+      "freeDescribe": "The video focuses on the elegance of movement rather than high-intensity fitness, emphasized by the choice of slow ballad music."
+    }
+  }
+}

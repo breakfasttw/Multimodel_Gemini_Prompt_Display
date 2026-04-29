@@ -1,0 +1,180 @@
+{
+  "videoName": "yga0721-20250502075250-1379219033508350.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 60,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Game/Challenge"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man in a white sweatshirt holds a large stack of giant playing cards while a woman in a green knitted sweater stands beside him in a room with a karaoke machine. (2) They participate in a card-drawing game; the woman leans down excitedly as cards are placed on a wooden bench. (3) The scene shifts to a montage of past events in different indoor settings showing the man losing or others winning similar games. (4) Back in the primary room, the man draws a card, and the woman reacts with extreme shock and joy, covering her mouth and clapping her hands while the man looks defeated.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced electronic music plays as a man and a woman engage in rapid-fire dialogue in Mandarin and Taiwanese. (2) Loud sound effects including bells and comedic buzzers punctuate the conversation. (3) The woman lets out high-pitched screams of excitement and laughter while the man makes groaning, mock-frustrated sounds. (4) Ambient chatter from other people in the room is heard in the background along with a 'ding' sound effect indicating a successful game outcome.",
+      "text_narrative_log": "(1) Functional Text: '抽兩張' (Draw two cards), '機率很高' (High probability), '各位觀眾' (Everyone, look). (2) Decorative/Effect Text: '出事了' (Something's wrong/Trouble) in red bold letters, '嘎啊衰小' (Gaga is so unlucky) with a dizzy emoji, '少女的眼神' (A young girl's gaze) with heart stickers. (3) Hooks: '馬華的好運能夠續約嗎？' (Can Mahua's good luck be renewed?) as a centered title."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Game Play -> Historical Flashback -> Climax/Reaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 1 main female staff/creator, and approximately 6 different colleagues/friends appearing in montage segments.",
+      "mainCharacterDescription": "A male with short brown hair wearing a white sweatshirt and khaki pants; a female with a high bun and blonde-highlighted hair wearing a green sweater and jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Karaoke Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A room containing a large TV screen, a karaoke amplifier system, a red toaster-like appliance, and tables with dishes and drinks. Montage clips show office spaces and event stages.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Static",
+        "Follow",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "TV",
+        "Microphone",
+        "Karaoke System"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard Cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 3,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "High (Female) / Mid (Male)",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Taiwanese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Variety Show",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Bell",
+        "Cartoon Boing",
+        "Buzzer"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Indistinct chatter"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Current game setup -> Flashback to past failures -> Dramatic resolution of current game.",
+      "mainPurpose": "The video is designed to entertain its audience by showcasing a high-stakes, humorous gambling game between well-known internet personalities. It emphasizes the contrast between the 'cursed' bad luck of the male protagonist and the 'strong luck' of his female colleague, using historical context from past videos to build tension and comedy around the final result.",
+      "visualEmotion": "Humorous and Tense"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Tsai A-ga's signature high-energy vlog editing style, use of large-scale props, and interactive staff challenges.",
+      "freeDescribe": "The video relies heavily on the existing rapport between the creators and their long-term narrative of luck vs. misfortune during holiday games."
+    }
+  }
+}

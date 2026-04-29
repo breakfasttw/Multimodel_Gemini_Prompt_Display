@@ -1,0 +1,179 @@
+{
+  "videoName": "3ctim-20250806095223-936853338855049.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 28,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Tech Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Osaka"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a grey flat cap (Tim) speaks directly to the camera, pointing forward with an energetic expression. (2) The scene cuts to a large, white, pod-like machine called the 'Science Mirai Human Washing Machine' in a showroom. (3) Close-up shots follow showing water mist and bubbles forming inside a nozzle. (4) A woman is shown lying inside the transparent-sided pod, appearing relaxed as if in a spa. (5) Tim returns to the screen holding a transparent display that shows a heart rate graph and physiological data. (6) A scenic shot of a sunset over the ocean is shown. (7) Tim finishes by gesturing with his hands while speaking enthusiastically.",
+      "audio_narrative_log": "(1) High-pitched and excited male vocals start immediately over a fast-paced, upbeat electronic pop background music. (2) The music continues at a steady volume as the male voice describes the features of the machine. (3) Subtle splashing and misting sound effects are heard during the close-ups of the machine's interior. (4) The audio remains continuous and high-energy until the end, with the music fading out on the final sentence.",
+      "text_narrative_log": "(1) '你最久幾天不洗澡?' (Traditional Chinese: Provocative hook/question). (2) '冬天的時後，是不是覺得洗澡又冷又麻煩' (Traditional Chinese: Functional text describing a problem). (3) '懶人洗澡機來了' (Traditional Chinese: Descriptive title). (4) '15分鐘全自動喔' (Traditional Chinese: Functional feature description). (5) '採用了奈米氣泡深入毛孔洗淨' (Traditional Chinese: Technical feature description). (6) '甚至就像SPA一樣享受' (Traditional Chinese: Emotional benefit). (7) '舒緩你的心靈' (Traditional Chinese: Emotional benefit). (8) '我都心動了' (Traditional Chinese: Emotional hook)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Product Introduction -> Feature Demonstration -> Emotional Appeal -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Head and shoulders",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 1 female model in the machine, and approximately 3 blurred passers-by in the expo background.",
+      "mainCharacterDescription": "A middle-aged man wearing glasses, a grey flat cap, and a royal blue t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Showroom",
+          "Expo Hall"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A blurred tech exhibition hall with posters, brand logos (Science, Miko), and various displays.",
+      "lightingStyle": "Bright studio lighting mixed with exhibition hall ambient light.",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Panning"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Digital Display",
+        "Medical Monitoring Device"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Science",
+        "Miko",
+        "3c有意思tim哥"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Sizzling",
+        "Water spray"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Evidence -> Benefit -> CTA",
+      "mainPurpose": "The video aims to introduce and promote the 'Mirai Human Washing Machine' by Science. It uses a relatable hook (not wanting to shower in winter) to present a high-tech solution, emphasizing both the functional deep-cleaning capabilities and the emotional relaxation/wellness benefits of the device.",
+      "visualEmotion": "Energetic and Optimistic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The video features brand logos prominently and provides a detailed walkthrough of the product's features and benefits.",
+      "endorsementObject": [
+        "Science Mirai Human Washing Machine"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host's signature flat cap and high-energy delivery style.",
+      "freeDescribe": "The video is tailored for social media consumption with a square aspect ratio and heavy use of dynamic text overlays to maintain viewer engagement."
+    }
+  }
+}

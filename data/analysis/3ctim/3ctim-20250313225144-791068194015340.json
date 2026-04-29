@@ -1,0 +1,184 @@
+{
+  "videoName": "3ctim-20250313225144-791068194015340.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 50,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tech Commentary"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan",
+          "Japan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with a plaid hat and glasses is talking directly to the camera in a studio setting. (2) A graphic sequence shows a white bar with keys labeled as a keyboard. (3) A man in a blue shirt holds an extremely long, single-row keyboard in a workshop environment. (4) Split-screen and full-screen demonstrations show the long keyboard being used in an office, to stretch arms, and to reach under a sofa. (5) Footage of people hiking using the keyboard as a walking stick. (6) Close-up of the keyboard showing 'Google' branding and its open-source nature on a website.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced electronic background music plays throughout. (2) A male voice speaks enthusiastically and rapidly in Mandarin, describing the product. (3) Sound effects like 'dings' and digital pops occur during text transitions. (4) In the hiking segment, low ambient outdoor noise is layered under the music.",
+      "text_narrative_log": "(1) '這絕對是!!' (This definitely is!! - Hook). (2) '最適合1人使用的鍵盤' (Most suitable keyboard for one person - Hook). (3) '先說這並不是愚人節企劃' (First of all, this is not an April Fool's plan - Functional). (4) '長165公分 寬6.4公分' (165cm long, 6.4cm wide - Functional/Spec). (5) '社恐人士...保持距離' (Socially anxious people... keep distance - Decorative/Humorous). (6) '找沙發底下的遺失物' (Find lost items under the sofa - Functional). (7) '爬山的時候當登山杖' (Use as a walking stick when hiking - Functional). (8) '僅在網站開放原始碼' (Only open-source on the website - Functional)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 21,
+      "averageSceneDuration": 2.38,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Host Intro -> Product Reveal -> Specifications -> Usage Scenarios -> Conclusion/Availability"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 7,
+      "maleDetectAmount": 5,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Torso"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main host, 1 engineer in workshop, 1 office worker, 4 hikers seen in various shots.",
+      "mainCharacterDescription": "Middle-aged male host wearing a grey and white plaid newsboy cap, glasses, and a light blue sweatshirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Office",
+          "Outdoor Forest",
+          "Workshop"
+        ],
+        "topography": [
+          "Hill",
+          "Forest"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A clean studio with soft lighting for the host; a cluttered tech workshop for the product reveal; a modern office; a lush green hiking trail.",
+      "lightingStyle": "Bright studio lighting mixed with natural outdoor light.",
+      "weather": "Sunny",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Japanese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Vibrant",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Keyboard",
+        "Monitor",
+        "Laptop"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Google",
+        "miko"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Tech Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Digital Pop"
+      ],
+      "ambientNoise": [
+        "Outdoor nature sounds"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature Breakdown -> Humorous Application -> Call to Action",
+      "mainPurpose": "To introduce a viral, unconventional piece of hardware (the Gboard Bar by Google Japan) through a humorous lens, explaining its physical dimensions and quirky use cases while clarifying its availability as an open-source project.",
+      "visualEmotion": "Energetic and Whimsical"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The host prominently features the 'miko' brand logo in the top left and bottom left throughout the video, which is a common setup for sponsored tech content in Taiwan.",
+      "endorsementObject": [
+        "miko 悠適生活的好鄰居"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host's signature plaid hat and '3C有意思tim哥' branding on the overlay.",
+      "freeDescribe": "The video capitalizes on the 'weird tech' trend to drive engagement, using fast cuts and variety-show style captions common in Taiwanese YouTube/Shorts culture."
+    }
+  }
+}

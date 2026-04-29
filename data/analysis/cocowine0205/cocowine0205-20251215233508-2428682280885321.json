@@ -1,0 +1,178 @@
+{
+  "videoName": "cocowine0205-20251215233508-2428682280885321.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 77,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping",
+        "Product Showcase"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Two young women are standing in a Costco pharmacy/personal care aisle. The woman on the right wears a white bucket hat, a black dress, and white boots; the woman on the left wears a long brown pleated dress. They are holding two large Disney-themed Lip Smacker sets. (2) The woman in the white hat takes the lead, pointing to the characters on the pink 'Girly' themed package, including Ariel, Elsa, and Minnie. She uses expressive hand gestures to highlight the 'mystery' ball part of the packaging. (3) They switch focus to the blue 'Cute Squad' package, identifying characters like Stitch and Lotso. (4) The camera zooms in on the back of the packaging as they point to the flavor descriptions. (5) The main character leans in closer to the camera to deliver her final advice while pointing at the product.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music starts immediately. An energetic female voice begins speaking in Mandarin, introducing the product with high enthusiasm. (2) As the visuals transition to product details, the primary speaker maintains a consistent, friendly tone while describing the prices and styles. (3) A second female voice is heard off-camera (the person filming), engaging in a lighthearted dialogue about the flavors, such as 'peanut butter flavor'. (4) Ambient store noise is very low, indicating focused recording. (5) The primary speaker's volume increases slightly during the conclusion to emphasize her 'insider' tip about waiting for a sale.",
+      "text_narrative_log": "(1) 'COSTCO WHOLESALE' (Decorative: brand banner at top). (2) '阿菇 親一下' (Decorative: variety-style caption). (3) '迪士尼最新 潤唇膏 779元' (Functional: product title and price). (4) '少女派' (Decorative: category name). (5) '神祕的角色' (Decorative: emphasizing mystery element). (6) '萌萌天團' (Decorative: category name). (7) '哇 我超想要花生醬哎' (Decorative: reaction text). (8) '它一定會特價' (Hook: advice/prediction)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 6.4,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Product Feature Breakdown -> Flavor Discussion -> Shopping Tip"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Torso"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators in focus, 1 blurred female shopper passing in the background.",
+      "mainCharacterDescription": "One woman wears a white bucket hat with an 'NY' logo and a black ruffled dress. The other wears a brown, layered maxi dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse Store"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "Shelves filled with various personal care and pharmaceutical products, Costco signage, and blue metal warehouse shelving units.",
+      "lightingStyle": "Bright indoor store lighting",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "Disney",
+        "Lip Smacker"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and conversational",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Pop SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Item 1 Features -> Item 2 Features -> Insider Tip",
+      "mainPurpose": "The video serves as a consumer guide for Costco members, specifically targeting Disney fans. It highlights the features of a new lip balm set, including characters and unique flavors, while providing practical buying advice (predicting a future discount) to build trust with the audience.",
+      "visualEmotion": "Energetic and Cheerful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed showcasing of product features and price tag within a retail environment.",
+      "endorsementObject": [
+        "Lip Smacker",
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-show style captions and the 'wait for the sale' catchphrase.",
+      "freeDescribe": "The video fits the 'Costco finds' niche popular on social media platforms in Taiwan, characterized by high-energy presentation and functional text overlays."
+    }
+  }
+}

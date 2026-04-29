@@ -1,0 +1,176 @@
+{
+  "videoName": "khshu_-20251101230014-1837397833598006.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 18,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Vlog",
+        "Lifehack"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a split-screen or overlay of a Japanese TV show clip where a male character watches someone demonstrate a tofu removal trick. A young Asian woman with her hair in a bun, wearing a white tank top and a black apron, stands in a kitchen holding a packaged block of tofu. (2) She places the tofu package upside down on a white plate. She uses her fingers to tap two corners of the container's bottom. The camera zooms in as the tofu smoothly slides out of the plastic container and onto the plate. (3) The woman reacts with a wide-mouthed expression of shock and excitement. She then gives a V-sign to the camera while holding the plate of tofu, smiling broadly. Confetti effects appear on screen.",
+      "audio_narrative_log": "(1) The audio starts with a short clip of a male voice speaking Japanese and the sound of a studio audience reacting. This is quickly followed by a high-pitched, enthusiastic female voice speaking Mandarin, introducing the tofu experiment. An upbeat, fast-paced electronic pop background music track starts. (2) Two distinct 'tap' sound effects (SFX) are heard, followed by a sudden gasp of surprise from the female speaker. (3) The upbeat music continues as the female speaker expresses her amazement loudly, concluding with a cheerful and energetic closing statement. The sound of digital 'sparkles' or celebratory SFX plays at the end.",
+      "text_narrative_log": "(1) Functional Text: '實測 讓豆腐掉出的方法' (Testing the method to make tofu drop out). Decorative Text: '只要敲兩次' (Just tap twice), '看完日本節目說' (After watching a Japanese show). Tone is curious and hook-driven. (2) Decorative Text: '大為震驚' (Extremely shocked). Tone is dramatic and emotional. (3) Functional Text: '實測成功' (Test successful). Decorative Text: '兩下！真的兩下就下來了' (Two taps! It really came down in two), '千千好吃驚' (Qianqian is surprised). Tone is triumphant and surprised."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro/Hook -> Demonstration -> Reaction/Verification"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator in the foreground, 1 male visible in the Japanese TV clip overlay.",
+      "mainCharacterDescription": "A young Asian woman with dark hair tied in a bun, wearing a white tank top and a black kitchen apron."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern kitchen setting with white cabinets, a refrigerator, a countertop, and kitchen tools visible in the background.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Bright and saturated",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Tofu"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "TV Screen Overlay"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Japanese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Tap sound",
+        "Shock/Surprise sound",
+        "Celebration/Confetti sound"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Action -> Validation",
+      "mainPurpose": "To verify a lifehack found in a Japanese variety show. The video demonstrates that tapping two corners of a tofu container allows the tofu to slide out perfectly without sticking, successfully proving the tip to the audience.",
+      "visualEmotion": "Excited, Humorous, Surprised"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No specific brand is promoted; the focus is on the technique of opening generic tofu packaging.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy reaction style, use of Japanese TV clips for inspiration, variety-show style text graphics.",
+      "freeDescribe": "The video follows a popular short-form content trend where creators 'verify' hacks found in traditional media, bridging the gap between TV and social media content."
+    }
+  }
+}

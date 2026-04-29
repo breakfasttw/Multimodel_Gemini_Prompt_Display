@@ -1,0 +1,189 @@
+{
+  "videoName": "cocowine0205-20251103193510-1482847426878725.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 73,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Advertisement",
+        "Health & Beauty"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a woman in a dark blue off-shoulder top and a black Kangol beret speaking directly to the camera in what appears to be a bedroom or dressing area. (2) A second woman in a pink cardigan and ripped jeans joins her; the scene cuts to various shots of them eating large meals, including hotpot and Japanese cuisine. (3) A split-screen comparison shows 'before' and 'after' photos of both women, suggesting a physical transformation. (4) They demonstrate a specific eating order using graphics and real food: protein, then vegetables, then carbohydrates. (5) The focus shifts to various colored supplement packets labeled 'Cofit', showing the women carrying and consuming them in different settings like restaurants and outdoors while drinking bubble tea. (6) The video concludes with the two women standing together, presenting the full range of Cofit products and promotional materials.",
+      "audio_narrative_log": "(1) High-pitched and energetic female vocals start immediately, discussing common questions from followers about their appearance. (2) Upbeat, fast-tempo electronic BGM enters and remains consistent throughout the video. (3) The speakers' voices are clear and enthusiastic as they explain their eating habits and the role of supplements. (4) Distinct sound effects (SFX) like 'bling' sounds and 'pops' are heard when text overlays or product highlights appear. (5) Ambient restaurant noise is briefly audible during eating segments but is heavily suppressed by the BGM and narration. (6) The video ends with a rapid-fire delivery of promotional offers and a call to action.",
+      "text_narrative_log": "(1) '我們最常收到的私訊跟留言就是' - Functional/Hook text. (2) '你們怎麼越來越漂亮!!' - Decorative text with an excited tone. (3) '學會正確的飲食順序' - Functional text explaining health tips. (4) 'Cofit 大餐包' - Product name hook. (5) '小祕訣' - 'Small secret' variety-show style caption. (6) '首次開團' - 'First time group buy' promotional hook. (7) '最低58折' - Functional text indicating discount level."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 48,
+      "averageSceneDuration": 1.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Personal Story/Secret -> Health Tip Demo -> Product Introduction -> Real-life Usage -> Promotional CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Half body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, approximately 2 other people visible in background restaurant scenes.",
+      "mainCharacterDescription": "One woman wears a black KANGOL beret and a navy blue off-shoulder ruffled top. The other wears a light pink button-up cardigan and light-colored ripped jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor",
+          "Restaurant",
+          "Bedroom",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A simple white room with a door, various busy restaurant interiors with wooden tables and food, and an outdoor urban area at night.",
+      "lightingStyle": "Bright studio lighting in the intro, natural and ambient restaurant lighting elsewhere.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Static",
+        "POV",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Dog"
+      ],
+      "foodsDetect": [
+        "Hotpot",
+        "Noodles",
+        "Meat",
+        "Vegetables",
+        "Cake",
+        "Bubble Tea"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Camera",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "KANGOL",
+        "Cofit",
+        "ANESSA"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, friendly, and persuasive",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Bling",
+        "Pop",
+        "Transition swoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Restaurant chatter"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence/Transformation -> Educational Tutorial -> Product Solution -> Social Proof -> CTA",
+      "mainPurpose": "The primary goal is to endorse Cofit health supplements by presenting them as a 'secret weapon' for maintaining weight and beauty while enjoying large meals. It uses the creators' personal transformations and daily habits to build credibility and provides a direct promotional offer to encourage immediate purchase.",
+      "visualEmotion": "Energetic and Positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct recommendation of the brand 'Cofit', display of multiple product lines, and mention of a 'first-time group buy' discount.",
+      "endorsementObject": [
+        "Cofit"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy fast-cut vlog editing, variety-show style captions, and KANGOL brand association.",
+      "freeDescribe": "The video leverages the 'Girlfriend/Bestie' dynamic to make the advertisement feel like a personal recommendation, effectively blending lifestyle content with a hard-sell promotion."
+    }
+  }
+}

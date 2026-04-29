@@ -1,0 +1,177 @@
+{
+  "videoName": "cocowine0205-20250216054206-1515779553882840.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 60,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Food Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a close-up of a price tag and food packaging in a retail store. A hand reaches in and picks up a container of 'Daifuku rolls'. (2) Scene transitions to an indoor setting where two women are seated at a table. One woman uses a knife to cut the long white rolls into bite-sized pieces on a grey cutting board. (3) The woman on the right holds up a plate containing three pieces of different flavors (Matcha, Red Bean, and Milk) and speaks enthusiastically to the camera. (4) Various close-ups show the cross-section of the food, revealing the inner fillings and a chewy, mochi-like outer layer. (5) The two women continue discussing the food, gesturing towards the plate and the camera, with colorful text and cartoon stickers appearing frequently on screen.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music starts immediately. A high-pitched, excited female voice narrates the purchase of the product. (2) As the scene shifts to the tasting, two distinct female voices are heard engaged in a conversational dialogue. They use a friendly and humorous tone. (3) Occasional cartoonish sound effects (SFX) like 'dings' and 'pop' sounds occur in sync with on-screen text appearances. (4) The background music remains constant throughout the video, maintaining a lively atmosphere without overpowering the spoken vocals.",
+      "text_narrative_log": "(1) Functional Text: '三種經典口味99元' (Three classic flavors for 99 yuan). (2) Decorative/Hook Text: '大幅捲好吃嗎？' (Are the Daifuku rolls delicious?). (3) Decorative/Hook Text: '有福啦!' (Good news!). (4) Decorative/Hook Text: '想不到吧' (Didn't expect that?). (5) Subtitles translate the spoken dialogue throughout the video, emphasizing specific words like '外皮好吃!' (Skin is delicious!) with larger, colorful fonts."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at store -> Unboxing and cutting -> Tasting/Review -> Final verdict."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "Two main female creators are sitting together throughout the review section.",
+      "mainCharacterDescription": "One woman has long dark hair wearing a grey top; the other has short dark hair with bangs wearing a colorful patterned sweater."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Retail Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Initial shots show a supermarket shelf (Don Don Donki); the main review occurs in a brightly lit indoor room with a table, a laptop, and a couch visible in the background.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Daifuku",
+        "Mochi",
+        "Red Bean",
+        "Matcha"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "DON DON DONKI"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and humorous",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Critique -> Conclusion",
+      "mainPurpose": "The video is a consumer-focused food review intended to evaluate the value and taste of a specific snack (Daifuku rolls) from the popular retailer Don Don Donki. The creators aim to inform their audience whether the product is worth the 99-yuan price tag by breaking down its components and sharing their honest tasting experience.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The reviewers offer critical feedback regarding the texture of the filling, which is unlikely in a paid endorsement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of variety-show style 'pop-up' text and interactive dialogue between two hosts.",
+      "freeDescribe": "The video utilizes a common 'money-saving' hook to attract viewers interested in budget-friendly food finds."
+    }
+  }
+}

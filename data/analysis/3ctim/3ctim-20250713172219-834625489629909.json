@@ -1,0 +1,177 @@
+{
+  "videoName": "3ctim-20250713172219-834625489629909.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 41,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Vlog",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a blue textured cap speaks directly to the camera, gesturing with his hands. (2) The camera transitions to a wall display featuring several smartphones mounted in white rectangular frames. (3) The man's hand points chronologically through the Galaxy Fold series from 2019 (Fold 1) to the latest model (Fold 7). (4) The camera pans to another section showing the evolution of the Galaxy Z Flip series, starting from the 2020 model. (5) Close-up shots compare the external screen sizes of various Flip models as the camera moves along the wall.",
+      "audio_narrative_log": "(1) A high-pitched, enthusiastic male voice begins speaking over an upbeat, mid-tempo electronic background track. (2) A sharp 'ping' sound effect occurs as the camera shifts to the product wall. (3) The speaker lists model numbers and years as the camera pans, with subtle ambient noise of a crowded exhibition hall or showroom audible in the background. (4) The speech continues at a fast pace while the music remains steady and rhythmic until the end of the video.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles translate the spoken commentary, such as '大家好' (Hello everyone) and '我們來帶大家看一下' (Let's take a look). (2) Hook Text: 'Galaxy Fold 演進史 還有 Flip 演進史' (Galaxy Fold and Flip Evolution History) appears as a variety-show style overlay. (3) Decorative/Informational Text: Labels on the display wall like 'The first Galaxy Fold', '2019', '2020', and 'Galaxy Z Flip7' are visible. (4) Hook Text: '螢幕變大史' (Screen enlargement history) highlights the core feature being discussed."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.9,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Chronological Product Walkthrough -> Comparison Highlight"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male presenter shown onscreen; hand used for pointing at products.",
+      "mainCharacterDescription": "Middle-aged man with short hair, wearing glasses, a blue/grey patterned flat cap, a white t-shirt, and a green lanyard."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Showroom",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A clean, white showroom wall with perforated patterns, featuring framed smartphone displays and black text labels indicating years and model names.",
+      "lightingStyle": "Intense studio lights / Bright exhibition lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural / Bright",
+      "cameraWork": [
+        "Handheld",
+        "Pan",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Foldable Phone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Samsung",
+        "Galaxy"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Ping"
+      ],
+      "ambientNoise": [
+        "Exhibition chatter",
+        "Hall echo"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Chronological Evidence -> Conclusion",
+      "mainPurpose": "To provide an educational and promotional walkthrough of Samsung's foldable phone history, specifically emphasizing the design progress of the Galaxy Fold and Flip series to demonstrate technological innovation.",
+      "visualEmotion": "Energetic and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video is filmed at a Samsung-branded exhibit and focuses entirely on showcasing their specific product lineup in a positive manner.",
+      "endorsementObject": [
+        "Samsung"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3C 有意思 tim哥 branding, signature cap and glasses, enthusiastic 'tech guru' persona.",
+      "freeDescribe": "Typical tech influencer content from Taiwan, characterized by high-speed narration and mobile-friendly vertical formatting."
+    }
+  }
+}

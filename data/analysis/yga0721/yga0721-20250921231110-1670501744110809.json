@@ -1,0 +1,170 @@
+{
+  "videoName": "yga0721-20250921231110-1670501744110809.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 31,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Toy Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is live-action. A pair of adult hands holds a keychain featuring a green character emerging from a yellow banana peel against a white floor where two young boys are sitting. (2) The hand swaps the first keychain for another one depicting a white cup-headed character with a pink dress, while the children in the background interact with a pile of similar trinkets. (3) The scene continues with the hand displaying a third keychain: a green frog trapped inside a black tire; one of the children gestures towards the toy while talking. (4) The camera maintains a close-up focus on the toys while the background shows the children's legs and torso as they sort through more items from a box labeled 'BRAIN ROT'.",
+      "audio_narrative_log": "(1) Adult male voice begins speaking in a friendly, inquisitive tone in Mandarin Chinese, accompanied by the rustling sound of plastic toys. (2) A child's high-pitched voice responds, rhythmically chanting meme-related names like 'Gidagidagedigao' and other gibberish-style identifiers. (3) The dialogue continues as the adult prompts the children to name the toys; multiple children's voices overlap with the adult's voice. (4) The audio concludes with a burst of collective laughter from both the adult and the children as the sound of toys clinking persists.",
+      "text_narrative_log": "(1) Functional Text: 'BRAIN ROT' is printed in bold yellow and black letters on a cardboard box on the floor, suggesting the theme of the toys. (2) Decorative Text: None."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 31.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "The camera remains static as a hand presents various meme-themed keychains to the children for identification."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Full body",
+        "Feet"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 adult male (hands and voice visible/audible), 2 young boys sitting on the floor.",
+      "mainCharacterDescription": "Two young boys wearing casual indoor clothes, one in a green t-shirt and the other in a blue and white striped shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A clean, white or light grey tiled floor with several toy boxes and a pile of colorful keychains scattered around.",
+      "lightingStyle": "Natural bright indoor lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Frog"
+      ],
+      "foodsDetect": [
+        "Banana"
+      ],
+      "trafficDetect": [
+        "Tire"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 3,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 2
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Playful and enthusiastic",
+        "pitch": "Varied (Deep adult male and high-pitched children)",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Toy rustling",
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Outro",
+      "mainPurpose": "The video serves as a playful demonstration of 'Brain Rot' culture merchandise. It uses the interaction between an adult and two children to showcase how popular internet memes have been physicalized into toys, highlighting the children's familiarity with these digital-native characters and terms.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video appears to be a personal vlog or toy showcase rather than a paid advertisement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of 'Brain Rot' terminology and specific meme-chanting patterns.",
+      "freeDescribe": "The video captures a specific subset of Gen Alpha internet culture where surreal and fragmented meme characters are recognized and celebrated as collectibles."
+    }
+  }
+}

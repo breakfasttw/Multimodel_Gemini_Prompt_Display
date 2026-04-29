@@ -1,0 +1,179 @@
+{
+  "videoName": "3ctim-20250305022713-1372474867985177.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 40,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Product Showcase",
+        "Tech Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a close-up of a person's hands holding a dark grey Xiaomi 15 smartphone, showing its back and camera module. (2) The scene transitions to show the light green and then the white versions of the same phone. (3) The demonstration shifts to the Xiaomi 15 Ultra, featuring a large circular camera array, shown in both black and white finishes. (4) The camera pans over accessories including the Xiaomi Buds 5 Pro charging cases in silver and black. (5) Several Xiaomi Smart Band 9 Pro units are shown on display stands, followed by the Xiaomi Electric Scooter 5 Max on a textured floor. (6) The video concludes with a showcase of the Xiaomi Watch S4 and the Xiaomi Pad 7 tablet with its keyboard accessory.",
+      "audio_narrative_log": "(1) Upbeat, high-energy electronic music with a consistent dance beat plays throughout the entire duration. (2) No vocals or spoken narration are detected. (3) Subtle ambient noise typical of a crowded exhibition space is present in the background but is mostly masked by the music.",
+      "text_narrative_log": "(1) 'Xiaomi 15' - Functional text identifying the initial product model. (2) 'Xiaomi 15 Ultra' - Functional text identifying the premium phone model. (3) 'Xiaomi Buds 5 Pro' - Functional text identifying the earbuds. (4) 'Xiaomi Smart Band 9 Pro' - Functional text identifying the fitness trackers. (5) 'Xiaomi Electric Scooter 5 Max' - Functional text identifying the transport device. (6) 'Xiaomi Watch S4' - Functional text identifying the smartwatches. (7) 'Xiaomi Pad 7' - Functional text identifying the tablet. (8) Social media handles '3c有意思tim哥' and '3ctim' appear as persistent corner overlays."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.2,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro (Phones) -> Mid (Accessories/Wearables) -> Outro (Scooter/Tablet)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Partial torso",
+        "Background figures"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main demonstrator (hands only), at least 3 passers-by visible in the background shots.",
+      "mainCharacterDescription": "A person wearing a blue knitted sweater, primarily visible through their hands demonstrating the products."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Tech Showroom",
+          "Exhibition Hall"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A clean, modern exhibition environment with white display tables, minimalist product stands, and posters for 'Xiaomi Series' and 'Wearables'.",
+      "lightingStyle": "Bright, even exhibition lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "English",
+          "Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Bright and clean with high clarity",
+      "cameraWork": [
+        "Follow shot",
+        "Pan",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Electric Scooter"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Earbuds",
+        "Smartwatch",
+        "Tablet"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Xiaomi",
+        "LEICA"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "None"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd chatter"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Showcase -> Product Rotation -> Category Progression",
+      "mainPurpose": "To provide a rapid 'hands-on' visual summary of Xiaomi's latest hardware ecosystem, focusing on industrial design and product variety at a major tech exhibition.",
+      "visualEmotion": "Modern, Innovative, Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct and exclusive focus on Xiaomi-branded products with clear text identifying each model.",
+      "endorsementObject": [
+        "Xiaomi"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of the '3c有意思tim哥' watermark and social media handle.",
+      "freeDescribe": "The video serves as a high-quality vertical social media snippet for tech enthusiasts to preview new hardware launches without narration."
+    }
+  }
+}

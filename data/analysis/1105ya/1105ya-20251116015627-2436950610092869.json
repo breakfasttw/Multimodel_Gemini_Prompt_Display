@@ -1,0 +1,176 @@
+{
+  "videoName": "1105ya-20251116015627-2436950610092869.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 35.1,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Promotion",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with a double bun hairstyle, wearing a grey crop top and light blue jeans, is kneeling in front of a walk-in closet, rummaging through piles of clothes and swimwear with a distressed expression. (2) The scene shifts to a grey sofa where the same woman sits looking dejected; another woman with blonde-brown hair enters from the side and shows her a smartphone screen. (3) The video transitions to screen recordings of the HiCut app interface, demonstrating AI outfit swapping on various photos of the woman (including beach and street scenes). (4) The final scene shows the two women sitting together on the sofa, smiling broadly and clapping their hands in excitement.",
+      "audio_narrative_log": "(1) A female voice sounds distressed and whiny, accompanied by an upbeat, fast-tempo electronic pop BGM. Sounds of rustling clothes are audible. (2) A second, more energetic and persuasive female voice enters, explaining something while the first woman responds with surprised and impressed interjections. (3) The second woman provides a steady narration explaining app features over the continuous upbeat music. (4) The audio concludes with both women's cheerful voices and the sound of hands clapping, followed by the music fading out.",
+      "text_narrative_log": "(1) Functional Text: '當你沒有衣服穿時' (When you have no clothes to wear), '我的泳衣呢？' (Where is my swimsuit?), '這件已經穿過了...' (I've worn this one...). (2) Hook Text: '好煩哦' (So annoying). (3) Functional Text: '欸，很好看欸！' (Hey, it looks good!), '這什麼APP啊' (What app is this?), '是HiCut幫你穿搭的' (It's HiCut helping you dress). (4) Technical Text: 'AI換裝模板' (AI dress-up template), 'HiCut.AI' logo."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Problem (nothing to wear) -> Solution (HiCut app) -> Demo (AI fitting) -> Resolution (happy users)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main female creator searching for clothes, 1 female friend appearing later to help.",
+      "mainCharacterDescription": "A young woman with brown hair in double buns, wearing a grey athletic crop top and high-waisted denim jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Closet",
+          "Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern closet filled with hanging clothes and organized drawers; a minimalist living room with a grey fabric sofa and plush toys (Stellalou).",
+      "lightingStyle": "Bright indoor artificial light",
+      "weather": "Indoor",
+      "season": "Summer (inferred from clothing)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "HiCut",
+        "alo"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with continuous background music",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, dramatic, and high-pitched",
+        "pitch": "High",
+        "loudness": "Medium",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Clapping",
+        "Interface clicking sounds"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Problem -> Solution Demo -> Emotional Payoff",
+      "mainPurpose": "The video is an advertisement for the HiCut AI app. It uses a relatable 'nothing to wear' scenario for social media content creators (specifically regarding swimwear and vacation outfits) to introduce the app's AI virtual try-on feature as a solution for diverse outfit styling without purchasing new clothes.",
+      "visualEmotion": "Energetic and Positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct demonstration of the app's interface, features, and call-to-action regarding its benefits.",
+      "endorsementObject": [
+        "HiCut"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy comedic acting at the start; use of popular Stellalou plushies in background.",
+      "freeDescribe": "The video targets young female users interested in fashion, social media photography, and AI technology."
+    }
+  }
+}

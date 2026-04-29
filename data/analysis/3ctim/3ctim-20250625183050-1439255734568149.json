@@ -1,0 +1,180 @@
+{
+  "videoName": "3ctim-20250625183050-1439255734568149.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 48,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Vlog",
+        "Commercial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man with thick green-rimmed glasses and a grey beret (Tim) talks excitedly to the camera, gesturing with his hands. (2) Close-up shots show a pink heart-shaped display with the text 'X200 FE' and a premium black gift box set. (3) A woman in a pink dress presents a pink vivo smartphone while text bubbles highlight features like battery and charging. (4) A rapid-fire montage showcases the vivo X200 FE in various colors: minimalist black, modern blue, white, yellow/gold, and pink, often accompanied by lifestyle props like macarons, coffee, and donuts. (5) A woman in a pink outfit is seen spinning on a platform holding the phone. (6) The video ends with a still photo of Tim and a woman posing together, both holding phones.",
+      "audio_narrative_log": "(1) Upbeat, high-energy electronic background music begins. A male voice speaks enthusiastically in Traditional Chinese, introducing the new phone. (2) The music remains continuous and rhythmic as the male vocal continues to narrate technical specifications. (3) The vocal stops as the music takes over during the product showcase montage, maintaining a fast-paced and modern vibe. (4) Occasional 'whoosh' sound effects are used to punctuate scene transitions. (5) The video concludes with the music fading out.",
+      "text_narrative_log": "(1) Functional Text: '走 我們去看 vivo X200 FE' (Let's go see the vivo X200 FE). (2) Hook Text: '有哪些新顏色 新功能' (What new colors and features are there?). (3) Functional Text: '超大電量 90W 快充 還有防塵防水哦' (Huge battery, 90W fast charging, also dust and water resistant). (4) Decorative Text: Color names such as '極簡黑' (Minimalist Black) and '摩登藍' (Modern Blue) appear as labels. (5) Functional Text: Final slide shows camera specs '23mm f/1.88 1/1.20s ISO229'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Talking Head -> Product Feature Callouts -> Aesthetic Color Montage -> Final Spec Summary"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator (Tim), 1 female model in pink dress, 1 female posing in the final shot.",
+      "mainCharacterDescription": "Male with green glasses, a grey beret, and a lavender-grey t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A studio environment featuring various colored backdrops (pink, white, wood), decorative props like heart signs, luxury gift boxes, and dessert items like macarons and donuts.",
+      "lightingStyle": "Bright studio lighting with high-key fill.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Macarons",
+        "Donuts",
+        "Coffee"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "vivo",
+        "ZEISS",
+        "LEVI'S"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Normal",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Moderate",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Product Feature Showcase -> Lifestyle Presentation -> Technical Outro",
+      "mainPurpose": "To promote the launch of the vivo X200 FE smartphone by highlighting its diverse color options, battery performance, and high-quality ZEISS camera system in an energetic, lifestyle-oriented format.",
+      "visualEmotion": "Energetic and Aesthetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The entire video is a structured product showcase featuring brand logos and specific technical specifications.",
+      "endorsementObject": [
+        "vivo"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Creator's distinct eyewear and headwear style; use of '3ctim' social handles.",
+      "freeDescribe": "The video uses high-saturation colors and lifestyle props to appeal to a younger, fashion-conscious audience rather than just traditional tech enthusiasts."
+    }
+  }
+}

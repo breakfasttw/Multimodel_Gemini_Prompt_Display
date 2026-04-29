@@ -1,0 +1,167 @@
+{
+  "videoName": "alephant_0427-20250730032946-880775674944238.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 25,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Musical Performance",
+        "Comedy",
+        "Dance"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman with long red hair wearing a dark blue formal dress sits at a black grand piano in a studio with wooden floors, playing a piece of music with a focused expression. (2) Suddenly, another version of the same woman appears from behind her, stands up, and begins dancing energetically with a large smile while the first version continues to play. (3) As the video progresses, more clones of the woman appear across the screen, dancing in synchronization; one clone even appears standing and dancing on top of the piano, until the frame is filled with multiple versions of her dancing together.",
+      "audio_narrative_log": "(1) A upbeat piano melody starts playing immediately, covering a pop song arrangement with a moderate, rhythmic tempo. (2) The piano music continues consistently as the sole audio element, maintaining the same rhythm and energy throughout. (3) No vocals, ambient noise, or sound effects are detected; the audio remains a clean studio-quality instrumental track until the end.",
+      "text_narrative_log": "(1) None"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 25.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro (Piano solo) -> Surprise reveal (First clone) -> Escalation (Multiple clones dancing)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female performer multiplied through digital cloning effects to create a group of 8-10 figures.",
+      "mainCharacterDescription": "A woman with vibrant long red hair, wearing a dark blue sleeveless floor-length dress with a high leg slit and white block heels."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A minimalist indoor setting with a light-colored wooden floor and a light gray textured wall; professional stage lighting fixtures are visible on the ceiling.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and clean",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "Grand Piano"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "None"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Piano Pop",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Piano"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Surprise -> Escalation",
+      "mainPurpose": "To entertain viewers by showcasing a creative and technically skilled combination of musical performance and digital video editing. The video transforms a traditional piano recital into a playful, high-energy dance routine by using 'clones' of the performer, effectively creating a one-person ensemble that emphasizes rhythm and humor.",
+      "visualEmotion": "Playful and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Red-haired female creator, complex digital cloning effects, piano-based covers of pop songs.",
+      "freeDescribe": "The video uses the popular song 'Small Girl' as the musical base. The seamlessness of the cloning effects suggests a high level of post-production skill."
+    }
+  }
+}

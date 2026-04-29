@@ -1,0 +1,183 @@
+{
+  "videoName": "3ctim-20251213231917-26527382100202247.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 46,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tech Review",
+        "Event Coverage"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged male host wearing a cap and glasses speaks to the camera in a crowded tech exhibition hall. (2) The camera transitions to show a small, futuristic grey PC tower with a hexagonal transparent window showcasing RGB lighting and water-cooling tubes inside. (3) Close-up shots focus on the PC's top LCD status screen and its front USB ports. (4) The PC is shown connected to a wide monitor displaying gameplay from 'Black Myth: Wukong'. (5) An iPhone 12 mini is placed on and next to the PC to provide a size scale comparison. (6) The host returns to the screen, smiling and talking excitedly while gesturing toward the product.",
+      "audio_narrative_log": "(1) Upbeat, mid-tempo electronic BGM starts immediately. A male voice (host) begins speaking in Mandarin with an enthusiastic and fast-paced tone. (2) The sound of the exhibition hall's ambient chatter is audible but muffled in the background. (3) A second, off-screen male voice (camera operator) briefly responds to the host. (4) The music remains constant as the host provides technical commentary, ending with a high-pitched concluding remark.",
+      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese reflecting the host's spoken words about TECNO and its PC specs. (2) Decorative/Hook Text: Large, stylized colorful captions such as '傳音非洲之王' (TECNO, King of Africa), '超小型水冷的主機' (Ultra-small water-cooled host), and '水冷的喔!' (It's water-cooled!) to emphasize key points. (3) Labeling Text: 'iPhone 12 mini' labels used to identify the comparison device."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Product Close-up -> Performance Demo -> Size Comparison -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main host, 1 off-screen voice (cameraman), and at least 1 blurred passer-by in the background.",
+      "mainCharacterDescription": "A middle-aged man with glasses, wearing a grey/blue flat cap, a white t-shirt with green patterns, and a lanyard."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Exhibition Hall",
+          "Tech Booth"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A tech booth (TECNO) at Computex, featuring white walls, product displays, monitors, and exhibition signage.",
+      "lightingStyle": "Intense studio/exhibition lights",
+      "weather": "Indoor",
+      "season": "Summer",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural/Vibrant",
+      "cameraWork": [
+        "Follow shot",
+        "Close-up",
+        "Panning"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Mini PC",
+        "Smartphone",
+        "Monitor",
+        "GPU"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "TECNO",
+        "NVIDIA",
+        "GeForce RTX",
+        "msi",
+        "Apple"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and informative",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Lo-fi Upbeat",
+      "bgmBPM": 110,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd chatter"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Product Feature Reveal -> Evidence/Specs -> CTA",
+      "mainPurpose": "To showcase and review a breakthrough small-form-factor gaming PC (TECNO MEGA Gaming G1) at Computex 2024, highlighting its water-cooling efficiency and surprisingly high-end GPU specs for its size.",
+      "visualEmotion": "Energetic and Curious"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct interaction with the product at a specific brand booth, mentioning brand dominance and technical specs positively.",
+      "endorsementObject": [
+        "TECNO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Variety-show style captions, host's signature cap and glasses, high-speed Mandarin commentary.",
+      "freeDescribe": "The video targets tech enthusiasts and gamers interested in mini PCs. The comparison with an iPhone 12 mini is a strategic visual anchor for viewers to grasp the scale."
+    }
+  }
+}

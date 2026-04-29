@@ -1,0 +1,187 @@
+{
+  "videoName": "2uncle987-20251201091754-883817217723256.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 62,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Commercial",
+        "Event Coverage"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with rapid close-ups of colorful posters and logos on glass windows. (2) A woman in a red hoodie and a man in a yellow-and-white checkered shirt pose energetically with large, character-themed cushions in front of a branded backdrop. (3) Shots transition between various merchandise items like small pouches, lanyards, and pillows, followed by a close-up of fried food in a bucket. (4) The scene shifts to a press-style event where the two main characters stand behind a microphone stand, surrounded by a large crowd of photographers and reporters with various recording equipment. (5) The woman in the red hoodie is seen speaking directly towards the camera in a room filled with merchandise, holding up different items like a colorful lanyard and a pink plush bag. (6) The characters are then shown wearing face masks and blue gloves, working behind a fast-food service counter, interacting with customers and handing over branded paper bags. (7) A montage follows showing the woman happily eating a piece of fried chicken and breaking open a small bun to reveal a dark filling. (8) The video concludes with several group photos of the main characters posing with a large crowd of fans and staff, all giving thumbs up or peace signs.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic pop music with a fast tempo starts immediately and remains constant. (2) Multiple voices are heard simultaneously, creating a lively atmosphere of a public event; a male voice speaks enthusiastically followed by a clear female voice. (3) The female voice becomes dominant, delivering a fast-paced, high-pitched, and excited narrative in Mandarin. (4) Subtle sound effects like 'pops' or 'dings' are heard accompanying the visual transitions of products. (5) Occasional background chatter and camera shutter sounds are audible during the press conference and store service segments.",
+      "text_narrative_log": "(1) Functional text includes dates like '2025.01.15' and 'MAR 31 2025' indicating the campaign period. (2) Product prices such as '$399', '$379', and '$479' are shown next to specific items. (3) Decorative 'hook' text appears in large, bold Chinese characters including the brand names 'TKK Fried Chicken' and 'haha baby', as well as promotional phrases like 'One day store manager' and 'limited collaboration'. (4) Functional subtitles provide a literal transcription of the woman's narration regarding the product details and availability."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 48,
+      "averageSceneDuration": 1.29,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Event Promotion -> Product Showcase -> Behind-the-scenes Service -> Food Tasting -> Community Celebration"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 35,
+      "maleDetectAmount": 15,
+      "femaleDetectAmount": 20,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "2 main influencers, approximately 15 reporters/photographers, and 18+ fans/staff in the final group shots.",
+      "mainCharacterDescription": "One female with her hair in two buns wearing a red oversized hoodie; one male wearing a yellow and white checkered shirt with blue jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Fast Food Restaurant",
+          "Studio",
+          "Event Space"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Features a TKK Fried Chicken store interior with menu boards and service counters, as well as a dedicated event space with a 'haha baby' branded colorful wall mural.",
+      "lightingStyle": "Bright, high-key indoor lighting suitable for promotional content.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Hand-held",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Fried Chicken",
+        "Buns",
+        "Sweet Potato Balls"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "DSLR Camera",
+        "Smartphone",
+        "Video Camera"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "TKK Fried Chicken",
+        "haha baby"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, friendly, and promotional",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop SFX",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Crowd chatter",
+        "Camera shutters"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Event Highlight -> Product Features -> Interactive Experience -> Conclusion",
+      "mainPurpose": "This video serves as a promotional highlight for a cross-brand collaboration between 'TKK Fried Chicken' and 'haha baby'. It aims to generate excitement for the limited-edition merchandise and food menu items by showing the influencers' active participation in a launch event and their direct interaction with the products and customers.",
+      "visualEmotion": "Energetic, joyful, and commercial"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The influencers are wearing the brand's uniform, working in the store, and directly pitching specific products and prices to the camera.",
+      "endorsementObject": [
+        "TKK Fried Chicken",
+        "haha baby"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy presentation style characteristic of Taiwanese lifestyle vloggers.",
+      "freeDescribe": "The video uses very fast-paced editing and bright colors to appeal to a younger, trend-conscious demographic."
+    }
+  }
+}

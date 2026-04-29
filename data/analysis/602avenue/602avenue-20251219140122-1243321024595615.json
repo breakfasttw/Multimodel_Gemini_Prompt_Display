@@ -1,0 +1,187 @@
+{
+  "videoName": "602avenue-20251219140122-1243321024595615.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 54,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long brown hair, wearing a voluminous grey faux-fur coat, stands in a brightly lit convenience store looking surprised at the camera. (2) The camera switches to a series of point-of-view shots where a hand reaches out to select various snacks from refrigerated shelves: a cream-filled mochi pastry, a sliced sponge cake, a pudding cup, a can of Sapporo beer, a natto roll, and a chocolate box. (3) The setting shifts to a hotel room with warm, dim lighting. The woman, now in a grey hoodie, sits on a bed and unboxes the mochi pastry. (4) She takes large bites of the pastry, looking into the camera with wide eyes and humorous, exaggerated expressions of delight. (5) She proceeds to show and eat a chocolate biscuit and then the natto roll, demonstrating the sticky 'stringy' texture of the natto to the lens while nodding in approval.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic pop music with a bright melody plays continuously. A female voice speaks enthusiastically in Korean. (2) Subtle 'pop' and 'ting' sound effects occur rhythmically, coinciding with transitions and text appearances. (3) The music continues as the primary layer, but sounds of crinkling plastic packaging and clear chewing/swallowing sounds (ASMR-style) are layered over it. (4) The female voice maintains an excited, descriptive tone throughout the tasting segments, ending with a satisfied exclamation.",
+      "text_narrative_log": "(1) Hook text: '只有韓國人在日本便利商店會買這些？' (Do only Koreans buy these in Japanese convenience stores?) with a surprised emoji. (2) Numbered list of items: '1. 麻糬奶乳捲', '2. 北海道生乳蛋糕', '3. 布丁', '4. 北海道限定啤酒', '5. 納豆飯捲'. (3) Descriptive/Hook text: '只剩一個好奇購買' (Bought it out of curiosity because only one was left), '奶油真的瘋掉' (The cream is insane), '超級超級好吃' (Super super delicious), '好吃到不行' (So good it's unacceptable)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.45,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Item Selection -> Hotel Room Tasting -> Final Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "One main female creator throughout the video.",
+      "mainCharacterDescription": "A young woman with long, styled brown hair, wearing a grey faux-fur coat in the store and a grey zip-up hoodie in the room."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Convenience Store",
+          "Hotel Room"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First half features white-lit convenience store aisles with shelves of food; second half features a hotel room with a white bed and warm, soft wall lighting.",
+      "lightingStyle": "Mixed (Bright fluorescent in store, warm interior in hotel)",
+      "weather": "Indoor",
+      "season": "Winter (based on fur coat)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Japanese",
+          "Korean"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Warm",
+      "cameraWork": [
+        "Static",
+        "POV",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pastry",
+        "Cake",
+        "Pudding",
+        "Beer",
+        "Natto",
+        "Chocolate"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Uchi Cafe",
+        "Sapporo",
+        "Glica",
+        "DARS",
+        "Lotte"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous",
+        "language": [
+          "Korean"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop",
+        "Ding",
+        "Swish"
+      ],
+      "ambientNoise": [
+        "Indoor quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Shopping Selection -> Taste Test -> Conclusion",
+      "mainPurpose": "The video aims to provide a travel-friendly food recommendation list for Koreans visiting Japan, focusing on specific convenience store items that have gained popularity or have a 'must-try' status within that community. It uses a mix of high-energy visuals and ASMR-style eating to validate the quality of the products.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "Review style suggests personal purchase and genuine recommendation rather than a paid partnership.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Exaggerated facial expressions of deliciousness (eyes crossing), high density of variety-show style text overlays.",
+      "freeDescribe": "The video effectively targets cross-cultural trends, specifically Korean tourists' preferences in Japanese retail environments."
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "videoName": "602avenue-20251101122217-784265324728259.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 105,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping",
+        "Lifestyle"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Live-action video. The main female creator appears on screen with a wide smile and excited facial expression, wearing a navy blue blazer. She is standing in a high-end shopping mall with her partner. (2) The scene shifts to a montage of visiting luxury jewelry stores: BVLGARI, Cartier, Chaumet, Damiani, and Piaget. Close-ups show hands trying on various wedding rings, focusing on the sparkle and design of the jewelry. The creator and her partner show gestures of comparison and selection. (3) The creator is seen walking through the mall, then buying coffee. The final segment shows her sitting on a white sofa at home, speaking directly to the camera with expressive facial movements. She shows her bare feet to the camera, pointing out red marks and blisters from the long day of walking.",
+      "audio_narrative_log": "(1) Upbeat and energetic electronic pop music begins. A high-pitched, cheerful female voice narrates in Mandarin with an excited tone. (2) The music continues at a steady volume as the soundscape includes subtle ambient boutique noise and the faint clinking of rings. A male voice is heard occasionally in the background responding to the narrator. (3) The BGM volume slightly decreases as the female creator transitions to a talking-head segment at home. Her vocal tone becomes more conversational and informative, ending with a direct question to the audience.",
+      "text_narrative_log": "(1) Hook Text: '環價要結婚啦 ep.2' (Getting married ep.2) and '幫我們選名牌婚戒' (Help us choose luxury wedding rings) - Excited and inviting tone. (2) Functional Text: Lists brands and specific ring prices such as 'BVLGARI NT$67,100', 'CHAUMET NT$101,000', and 'DAMIANI' - Informative and factual tone. (3) Decorative/Effect Text: '結果最沒感覺' (Least feeling) - Humorous tone; '剝皮辣腳' (Skin peeling painful feet) - Playful and exaggerated tone; '有人知道資訊的話請留言告訴我' (Leave a comment if you have info) - Sincere and inquisitive tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Store-by-store shopping montage -> Home review and CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face/Head"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 1 male partner, and at least 2 different sets of sales assistants' hands appearing in stores.",
+      "mainCharacterDescription": "Female creator with long dark hair, wearing a navy blue blazer and black skirt; male partner wearing a horizontal-striped polo shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Mall",
+          "Luxury Boutique",
+          "Home/Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "High-end luxury store interiors featuring glass display cases, marble walls, and branded logos; followed by a modern home interior with a white sofa and a floral painting on the wall.",
+      "lightingStyle": "Bright boutique lighting followed by soft, natural indoor lighting.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English",
+          "Korean"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and High Saturation",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Coffee"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "BVLGARI",
+        "Cartier",
+        "CHAUMET",
+        "DAMIANI",
+        "PIAGET",
+        "BOUCHERON",
+        "10000 Coffee"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Korean"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Swoosh",
+        "Chime"
+      ],
+      "ambientNoise": [
+        "Mall chatter",
+        "Boutique quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Experience -> Practical Advice -> Interaction",
+      "mainPurpose": "The video documents a couple's real-world search for luxury wedding rings in Taipei, serving as both a personal vlog and a consumer guide. By showcasing specific brands, ring styles, and actual prices, it provides utility to viewers in a similar life stage while building a community by asking for local recommendations on jewelry markets.",
+      "visualEmotion": "Energetic and Positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The creator expresses mixed feelings about certain stores and explicitly asks for local shopping advice, which suggests organic content rather than a paid sponsorship.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Cross-cultural (Korean/Taiwanese) perspective, high-density informative text overlays, direct audience consultation.",
+      "freeDescribe": "The inclusion of price data and specific model names increases the video's searchability and utility for potential luxury consumers."
+    }
+  }
+}

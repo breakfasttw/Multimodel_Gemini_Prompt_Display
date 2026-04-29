@@ -1,0 +1,173 @@
+{
+  "videoName": "1105ya-20250528012539-1967870180434703.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 7,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Transformation"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan",
+          "Thailand"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long brown hair and bangs is seated in an airplane cabin, wearing a light blue button-down shirt. She looks into the camera, smiles, and brings her hand towards the lens to cover it as a transition. (2) After a bright white flash, she appears in a shop filled with traditional Thai garments. She is now wearing an ornate pink and gold Thai dress (Chut Thai) with a matching jeweled sash, necklace, and hair ornament. She poses by tilting her head and looking down and then back at the camera while standing in front of clothing racks.",
+      "audio_narrative_log": "(1) A rhythmic hip-hop beat begins immediately with a deep bass and percussive 'Bim Bam Boom' sound pattern. (2) A male voice enters, rapping lyrics with a confident and steady flow: 'The type of shit I'm on you wouldn't understand, the type of kits I'm on you wouldn't understand.' The music continues at a consistent tempo without any audible ambient noise from the airplane or the clothing shop.",
+      "text_narrative_log": "(1) 當你從台灣人變泰國人 (When you change from a Taiwanese person to a Thai person): Decorative hook text appearing at the bottom of the screen, conveying a playful and humorous tone regarding the cultural transformation."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro (Airplane) -> Transition -> Reveal (Thai Costume)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator appearing in both scenes.",
+      "mainCharacterDescription": "A young woman with brown hair, bangs, and fair skin. Initially dressed casually in a blue shirt, then changes into a highly detailed pink and gold traditional Thai dress with extensive jewelry."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Airplane",
+          "Clothing Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene shows an airplane interior with white overhead bins and brown seats. The second scene is an indoor clothing shop featuring numerous colorful traditional Thai dresses hanging on racks.",
+      "lightingStyle": "Natural cabin light followed by soft indoor studio-style lighting.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Confident and rhythmic",
+        "pitch": "Deep",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Hip-hop/Rap",
+      "bgmBPM": 95,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Electronic Drums",
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Transition -> Reveal",
+      "mainPurpose": "The video is a lifestyle and travel 'glow-up' transformation. It leverages a popular social media format where a creator transitions from a 'before' travel state (casual airplane attire) to an 'after' glamorized state (traditional local attire) to celebrate their arrival or cultural experience in Thailand. The core appeal is the visual satisfaction of the sudden costume and setting change synchronized with a beat drop.",
+      "visualEmotion": "Energetic, Glamorous, Playful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No specific brand mentioned; appears to be a personal travel vlog clip.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of the hand-to-lens transition gesture common in short-form video apps.",
+      "freeDescribe": "The video follows high-pacing editing trends and targets travel/lifestyle audiences interested in Thai culture and aesthetic transformations."
+    }
+  }
+}

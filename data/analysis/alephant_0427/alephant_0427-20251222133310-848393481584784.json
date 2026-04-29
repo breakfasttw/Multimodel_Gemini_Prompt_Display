@@ -1,0 +1,183 @@
+{
+  "videoName": "alephant_0427-20251222133310-848393481584784.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Entertainment",
+        "Music",
+        "Challenge",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with braided hair wearing a blue dress and holding a violin stands in a hallway next to a man in a blue suit; she speaks enthusiastically to the camera. (2) Scene cuts between the woman playing the violin and various people (a girl in a grey blazer, a young man in a black jacket) listening intently and reacting with confusion or smiles. (3) A screen overlay shows music video footage and song titles as answers to the violin melodies. (4) The woman moves through a building hallway, playing for more people including two men (Ian and Eric) and a man in a green pinstripe suit (Froggy). (5) Reactions vary from failed guesses (marked with '失敗') to a successful guess by a man in a tan and white jacket. (6) The woman plays a final song for a woman in a sparkly black outfit; the video ends with a successful reveal and the group celebrating.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced background music plays as a high-pitched, excited female voice introduces a challenge in Mandarin, followed by a male voice responding in a steady tone. (2) The background music lowers as a solo violin begins playing a melodic pop tune. (3) Occasional laughter and brief Mandarin comments from various speakers are heard over the violin. (4) Short snippets of high-quality pop song recordings (with vocals and electronic beats) play momentarily to signal the reveal of an answer. (5) Sound effects like a 'ding' for success and buzzer-like sounds for failure are interspersed. (6) The video concludes with loud cheering, the violin playing a final flourish, and upbeat music.",
+      "text_narrative_log": "(1) 'Youtuber 猜歌大挑戰' (Hook text: YouTuber song guessing challenge, energetic tone). (2) '@jengsu', '@joanne_722', '@huang45490' (Functional: Instagram handles for participants). (3) '失敗+1' (Effect text: Fail +1, humorous tone). (4) '阿民 & 鳥屎 - 大麻煩' (Functional: Song title and artist). (5) '成功' (Effect text: Success, triumphant tone). (6) '最後一首 大家一起猜猜看' (Hook text: Last song, let's guess together). (7) '本集MVP / 賤葆' (Functional: MVP of the episode/Creator name)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Multi-round song guessing challenges -> Final reveal and celebration."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 12,
+      "maleDetectAmount": 7,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Waist up",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female main creator, 1 male co-host in intro, approximately 8-10 featured guest creators/passers-by across different cuts.",
+      "mainCharacterDescription": "A young Asian woman with long brown hair in two braids, wearing a dark blue floral patterned long dress, carrying a wooden violin."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Hallway",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A white-walled indoor hallway with wooden doors, signage (D B122-1), and promotional posters for an event (Re:Re:).",
+      "lightingStyle": "Bright studio lighting and indoor fluorescent light.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Microphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "Violin"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut between live recording and studio music tracks.",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 10,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 6,
+          "female_vocal_count": 5,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "Varied",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Violin",
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song",
+        "Live"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Buzzer",
+        "Bell"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Chatter"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Challenge 1 -> Reveal -> Challenge 2 -> Reveal -> Challenge 3 -> Final Success -> Outro",
+      "mainPurpose": "To entertain the audience through a musical game show format where a violinist performs popular YouTube-related songs for other famous creators to guess, showcasing both musical talent and creator community interactions.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Violin-based music covers of popular internet culture songs; high-energy interactive challenge format involving multiple influencers.",
+      "freeDescribe": "The video effectively uses the 'collab' strategy common in YouTuber circles to increase reach, using a recognizable musical instrument as the central gimmick."
+    }
+  }
+}

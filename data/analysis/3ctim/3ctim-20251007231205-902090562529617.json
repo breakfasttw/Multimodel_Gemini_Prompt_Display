@@ -1,0 +1,181 @@
+{
+  "videoName": "3ctim-20251007231205-902090562529617.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 46.0,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tech Review",
+        "Concert Highlights"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man with glasses, a grey newsboy cap, and a green jacket stands outdoors in front of a poster, holding a white and red lightstick with 'BM' branding. He speaks directly to the camera with an enthusiastic expression. (2) The scene transitions to the interior of a large, dimly lit concert arena. The man is seen in the foreground pointing towards a distant stage illuminated with red and pink lights. (3) A screen recording shows a smartphone's camera interface zooming in from 1x to 9.9x, transitioning from a wide view of the arena to a clear shot of performers on stage. (4) Close-up footage of female K-pop idols dancing and singing on stage in pink and white outfits. A small picture-in-picture window at the bottom left shows the man's face as he watches. (5) The video ends with a montage of sharp, still photographs of the performers on stage.",
+      "audio_narrative_log": "(1) An energetic male voice speaks in a clear, professional tone with light background noise from a public setting. Upbeat background music is present. (2) The soundscape shifts to the expansive, echoing environment of a concert hall with the muffled roar of a crowd and distant music. (3) The audio transitions into high-fidelity, loud K-pop music featuring powerful female vocals and a heavy beat as the camera focuses on the stage. (4) Periodic camera shutter sound effects (SFX) are heard during the final photo montage.",
+      "text_narrative_log": "(1) Functional Text: '我來baby monster演唱會' (I'm at the Baby Monster concert) - informative. (2) Hook Text: 'iPhone 17 Pro' - promotional/curiosity-driven. (3) Functional Text: '看看它的變焦跟錄影行不行' (See if its zoom and recording are okay) - objective-setting. (4) Functional Text: '1倍、2倍、4倍、8倍' (1x, 2x, 4x, 8x) - descriptive of action. (5) Decorative Text: '9.9倍也很清楚 (自肥企劃)' (9.9x is also very clear (Selfish project)) - humorous. (6) Decorative Text: '(非常享受)' (Very much enjoying it) - emotional state. (7) Decorative Text: '(拍照畫質很滿意)' (Very satisfied with the photo quality) - concluding opinion."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.28,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Setting the Challenge -> Real-time Zoom Demo -> Performance Showcase -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 9,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 8,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main male creator, 7 female performers on stage, plus various blurred crowd members.",
+      "mainCharacterDescription": "An adult male wearing a grey newsboy cap, black-rimmed glasses, a green zip-up windbreaker over a pink t-shirt, and a yellow digital watch."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Concert Arena",
+          "Outdoor Entrance"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The initial background is a concert promotional wall. The main background is a massive indoor arena filled with people, a large stage with high-brightness LED screens and dynamic lighting rigs.",
+      "lightingStyle": "Dynamic concert lighting with pink, purple, and white spotlights and strobes.",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and high-saturation during the concert scenes.",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "LED Screens"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Baby Monster"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut between narration and concert audio, with some cross-fading.",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 7,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 7,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional (narrator), melodious and powerful (singers)",
+        "pitch": "Medium (narrator), Varying (performers)",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking in segments",
+        "language": [
+          "Mandarin",
+          "Korean",
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "K-pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Live",
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Camera shutter"
+      ],
+      "ambientNoise": [
+        "Concert crowd",
+        "Echo"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Challenge -> Performance/Evidence -> Conclusion",
+      "mainPurpose": "The video serves as a dual-purpose piece: a tech demonstration/review of a smartphone's camera zoom capabilities and a fan's vlog of a Baby Monster concert. By showing the transition from a distant arena seat to clear stage footage, the creator aims to impress the audience with the device's technical performance in a high-demand setting.",
+      "visualEmotion": "Energetic and Impressed"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The creator explicitly labels the video with a specific phone model (iPhone 17 Pro) and spends the majority of the time showcasing its features.",
+      "endorsementObject": [
+        "iPhone"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The creator (Tim) uses his signature glasses, hat, and friendly tech-expert persona.",
+      "freeDescribe": "The use of 'iPhone 17 Pro' in the text might be a clickbait title or a playful prediction/hyperbole, as current models are earlier, but the intent is clearly a camera test of a high-end flagship."
+    }
+  }
+}

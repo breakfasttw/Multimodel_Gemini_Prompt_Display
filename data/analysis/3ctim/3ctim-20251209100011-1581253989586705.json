@@ -1,0 +1,173 @@
+{
+  "videoName": "3ctim-20251209100011-1581253989586705.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 44,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Commentary",
+        "Tech News"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a stylized intro graphic featuring portraits of Elon Musk and the esports player Faker, with headline text. (2) A male host appears in a studio setting, wearing a grey sweater, glasses, and a flat cap, speaking to the camera with expressive hand gestures. (3) Throughout the video, colorful text overlays and graphics related to AI and gaming appear around the host. (4) A screenshot of a tweet from Elon Musk and a video clip of Faker are displayed as visual evidence. (5) The video concludes with the host smiling at the camera amidst energetic text effects.",
+      "audio_narrative_log": "(1) Upbeat, energetic electronic background music starts immediately with a male voice speaking in a fast, enthusiastic tone in Mandarin. (2) The vocal narration remains the primary audio layer, explaining details of an AI challenge while the music maintains a consistent tempo. (3) Subtle sound effects like 'whoosh' sounds accompany the appearance of text and image overlays. (4) The music and vocals end simultaneously at the conclusion.",
+      "text_narrative_log": "(1) '馬斯克對 Faker 下戰帖!?' - Hook text in yellow/red expressing a challenge between Musk and Faker. (2) '通用人工智慧' - Functional text identifying the topic of AGI. (3) 'AI的學習力' - Functional text regarding AI learning. (4) '電競圈熱烈反應' - Decorative text highlighting the community reaction. (5) 'Faker的大殺特殺呢' - Emotional hook text wondering about Faker's performance."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.14,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Technical Explanation -> Evidence Display -> Speculative Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main host in studio, images of Elon Musk and Faker used as visual aids.",
+      "mainCharacterDescription": "An Asian male in his late 30s or 40s, wearing glasses, a grey sweater, and a dark flat cap."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A simple purple studio wall with vertical paneling and soft lighting.",
+      "lightingStyle": "Studio bright",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Computer"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "X",
+        "3ctim"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Normal",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Transition swoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Rule Explanation -> Social Reaction -> Closing Speculation",
+      "mainPurpose": "To inform and generate engagement regarding a hypothetical or proposed AI vs Human esports challenge involving Elon Musk's xAI and the legendary player Faker.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3ctim logo and '3c有意思tim哥' branding, flat cap fashion.",
+      "freeDescribe": "Typical high-energy tech commentary video designed for short-form video platforms like TikTok or Reels, using high-density text overlays to maintain viewer attention."
+    }
+  }
+}

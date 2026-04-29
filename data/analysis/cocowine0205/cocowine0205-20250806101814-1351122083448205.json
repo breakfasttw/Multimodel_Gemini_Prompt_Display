@@ -1,0 +1,183 @@
+{
+  "videoName": "cocowine0205-20250806101814-1351122083448205.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 89,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taoyuan"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman with long dark hair in a black dress stands in a Costco aisle, excitedly holding a large floral-patterned box of Aunt Stella cookies and pointing at the text overlays. (2) The scene cuts to a close-up of a Costco shelf price tag labeled 'AUNT STELLA TAIWAN TEA COOKIES' at $369. (3) The setting shifts to a home kitchen where the first woman and another woman in a bucket hat sit at a counter, unboxing the product. (4) They display the 15 individual packs of cookies and show close-up textures of three different tea-flavored cookies (Ruby Black Tea, Tieguanyin, Biluochun). (5) They break the cookies to show the interior and eat them, concluding with thumbs-up and enthusiastic facial expressions.",
+      "audio_narrative_log": "(1) A female voice speaks with high energy and excitement in Mandarin. Upbeat, mid-tempo electronic background music plays throughout. (2) In the second phase, two female voices are heard conversing, describing the flavor profiles and crunchiness of the cookies. (3) Sound effects include the crisp rustling of individual plastic cookie wrappers and the distinct 'crunch' sound as they bite into the cookies. (4) The ambient background noise transitions from the slight hum of a warehouse store to a quiet indoor room environment.",
+      "text_narrative_log": "(1) Functional Text: '找到了 詩特莉 台茶精選餅乾' (Found it! Aunt Stella Taiwan Tea Selection Cookies). (2) Functional Text: '369元', '15包', '總共30片' (369 Dollars, 15 packs, total 30 pieces). (3) Decorative/Hook Text: '真的找很久' (Really looked for a long time!), '超級好吃' (Super delicious!), '隱藏版' (Hidden/Secret edition). (4) Labels for flavors: '紅玉紅茶' (Ruby Black Tea), '鐵觀音' (Tieguanyin), '碧螺春玄米茶' (Biluochun Brown Rice Tea)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 6.35,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at store -> Store price proof -> Detailed unboxing and tasting review at home."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Waist up",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main creator in the store intro, joined by a second female friend during the unboxing segment.",
+      "mainCharacterDescription": "The primary creator has long black hair and a black cut-out top. The second creator wears a zebra-patterned bucket hat and a beige top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Costco Warehouse"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene is a Costco warehouse aisle with stacks of brown boxes and yellow price tags. The second scene is a modern home kitchen with a grey marble-style countertop, a brown leather sofa, and plush toys in the background.",
+      "lightingStyle": "Bright indoor lighting and ring light studio style.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and Saturated",
+      "cameraWork": [
+        "Handheld",
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Cookies",
+        "Tea"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "AUNT STELLA",
+        "詩特莉"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and conversational",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Crunching",
+        "Plastic Rustling"
+      ],
+      "ambientNoise": [
+        "Warehouse hum",
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Store Discovery -> Detailed Review -> Final Recommendation.",
+      "mainPurpose": "The video serves as a shopping recommendation and detailed product review for Aunt Stella's tea-flavored cookies found at Costco. It uses the narrative of a 'hard-to-find' item to build interest, then provides social proof through a two-person tasting session that describes the texture and specific Taiwanese tea flavors (Ruby Black Tea, Tieguanyin, and Biluochun) to convince viewers of the product's quality and value.",
+      "visualEmotion": "Excited, Friendly, and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video prominently features the brand name, price, and location, followed by a highly positive review with multiple 'thumbs up' and descriptive praise.",
+      "endorsementObject": [
+        "Aunt Stella",
+        "詩特莉",
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Enthusiastic grocery store discovery intros and multi-flavor taste tests.",
+      "freeDescribe": "The video aligns with the 'Costco Finds' subculture in Taiwan, focusing on limited-edition or value-packed food items."
+    }
+  }
+}

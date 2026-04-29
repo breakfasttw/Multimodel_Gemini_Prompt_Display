@@ -1,0 +1,179 @@
+{
+  "videoName": "cocowine0205-20250226073802-925689863279507.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 44.57,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Urayasu"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a close-up of a colorful, submarine-themed gachapon (capsule toy) machine. A hand inserts coins and pulls the red lever repeatedly. (2) The scene shifts to a montage of capsules rolling out of the machine and the main character, a young woman in a black off-shoulder top, reacting with a mix of excitement and playful frustration as she checks the contents of numerous capsules. (3) The character is seen standing inside a crowded store environment and then outdoors, holding a capsule and pouting at the camera. (4) Finally, the video shows several Disney-themed eco-bags in different colors (yellow, light blue, dark blue) being held up against a backdrop of Tokyo Disneyland's outdoor scenery including a lamp post and trees.",
+      "audio_narrative_log": "(1) High-energy, whimsical music plays with a fast tempo. A young female voice speaks excitedly in Mandarin, explaining that the machine is only at Tokyo Disney. (2) Sound effects like 'ka-ching' and 'boing' are synchronized with coins being inserted and capsules dropping. The narrator's tone becomes more frantic as she continues to roll for a specific color. (3) The music remains constant while the narrator's voice transitions from anticipation to humorous despair as she counts the repeated colors. (4) The audio concludes with a more satisfied tone as she displays the variety of bags collected, with the background music fading out.",
+      "text_narrative_log": "(1) '只有在東京迪士尼' (Only at Tokyo Disney) - Functional/Location hook. (2) '限定扭蛋機' (Limited Gachapon Machine) - Hook/Description. (3) '一抽400日幣' (400 Yen per draw) - Functional info. (4) '超可愛購物袋' (Super cute shopping bag) - Hook/Emotional. (5) '小賭上癮了' (Addicted to gambling) - Humorous/Hook. (6) '我要粉紅色' (I want pink) - Emotional/Objective. (7) '6顆藍色' (6 blue ones) - Descriptive/Frustrated tone. (8) Color labels: '黃色' (Yellow), '湖水藍' (Lake blue), '深藍' (Dark blue) - Functional identifiers."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 1.59,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook (Limited Item) -> Process (Gachapon Unboxing Montage) -> Result (Displaying the Collection)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main female creator, 1 adult female in background, 2 children in background, 1 male passer-by.",
+      "mainCharacterDescription": "Young Asian woman with dark hair and bangs, wearing a black off-shoulder dress and a pearl-like hair accessory."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Store",
+          "Outdoor Theme Park"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The first half is inside a brightly lit, themed souvenir shop with brick walls and merchandise shelves. The second half is outdoors in a theme park with clear skies, green trees, and Victorian-style street lamps.",
+      "lightingStyle": "Mixed: Bright indoor artificial lighting followed by natural outdoor daylight.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "Tokyo Disneyland"
+      ],
+      "brandLogos": [
+        "Tokyo Disney Resort",
+        "Disney",
+        "Mickey Mouse"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Whimsical",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Coin drop",
+        "Bling"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Challenge -> Result",
+      "mainPurpose": "To showcase a specific limited-edition shopping experience at Tokyo Disney Resort, emphasizing the 'gachapon' gambling aspect to create engagement through the creator's emotional journey of trying to win a specific color of eco-bag.",
+      "visualEmotion": "Energetic and Playful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed showcasing of specific branded merchandise and location-exclusive items.",
+      "endorsementObject": [
+        "Tokyo Disney Resort"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-frequency text overlays and fast-cut reaction shots typical of lifestyle influencers.",
+      "freeDescribe": "The video uses a high-energy 'gacha unboxing' format to appeal to viewers interested in Disney park exclusives and collectible merchandise."
+    }
+  }
+}

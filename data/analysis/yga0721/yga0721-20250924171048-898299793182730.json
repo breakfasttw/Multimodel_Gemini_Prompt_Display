@@ -1,0 +1,175 @@
+{
+  "videoName": "yga0721-20250924171048-898299793182730.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 53,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Music Performance",
+        "Cover Song"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young man with brown hair is standing in a studio setting, wearing a black top and white undershirt with black Sony headphones on. He is positioned behind a silver professional studio microphone with a black pop filter. (2) He begins to sing with high emotional intensity, frequently closing his eyes and using expressive hand gestures to accompany the lyrics. (3) The shot is mostly static, focused on his head and upper body against a background of light blue vertical curtains.",
+      "audio_narrative_log": "(1) The video opens with energetic pop-rock instrumentation featuring strong drum beats and electric guitar riffs. (2) A male vocalist begins singing in Min Nan Chinese (Hokkien) with a high-pitched, emotional, and resonant tone. (3) The tempo remains steady and upbeat throughout, with the vocals remaining the dominant element in the acoustic mix over the instrumental backing.",
+      "text_narrative_log": "(1) Functional Text: White subtitles appear at the bottom center of the screen throughout the video, providing the Chinese character lyrics for the Min Nan song being performed. (2) The text conveys a melancholic and reflective emotional tone, consistent with the lyrical content of the song."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 26.5,
+      "isNarrativeShift": false,
+      "mainActionFlow": "The video maintains a constant flow of a vocal music performance from start to finish."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Face",
+        "Upper body",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator performing in a studio.",
+      "mainCharacterDescription": "A young male with dark brown hair wearing a black jacket over a white t-shirt and professional studio headphones."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A simple indoor studio setup featuring a light blue curtain as a backdrop, with a professional microphone stand and pop filter in the foreground.",
+      "lightingStyle": "Even, bright studio lighting.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and slightly muted.",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Microphone",
+        "Headphones"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "SONY"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Smooth performance flow.",
+      "vocalRatio": "High (vocal-centric performance)"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Emotional and high-pitched",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous singing",
+        "language": [
+          "Min Nan"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Pop-Rock",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Percussion",
+        "Electronic",
+        "Strings"
+      ],
+      "instrumentsAudible": [
+        "Drums",
+        "Electric Guitar",
+        "Bass"
+      ],
+      "musicSourceType": [
+        "Stock",
+        "Live"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Performance -> Climax -> Outro",
+      "mainPurpose": "The video serves as a vocal showcase or music cover performance intended to demonstrate the singer's emotional range and technical proficiency in the Min Nan language within a professional studio environment.",
+      "visualEmotion": "Focused and Passionate"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Passionate singing with eyes closed and hand gestures in a studio setting.",
+      "freeDescribe": "A standard music performance vlog typical of independent music creators on social media platforms."
+    }
+  }
+}

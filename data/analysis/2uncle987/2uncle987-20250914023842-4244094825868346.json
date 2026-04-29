@@ -1,0 +1,182 @@
+{
+  "videoName": "2uncle987-20250914023842-4244094825868346.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 31,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Australia"
+        ],
+        "city": [
+          "Sydney"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman is sitting in a red Ferris wheel carriage, smiling and pointing towards the Sydney Opera House and Harbour Bridge in the background; the scene cuts to the bridge. (2) The woman stands by a stone wall at 'Felt Step', gesturing with both hands towards the Opera House across the water. (3) She is on a yellow ferry, wearing a white shirt and black sleeves, pointing to the Opera House again. (4) In a Lego store, she stands before a large Lego mosaic of the Opera House, gesturing towards it. (5) She stands in the plaza directly beneath the Opera House, pointing up at its structure. (6) At night, she is on a boat with a young boy; she talks to the camera, gestures towards the city lights, and smiles. (7) A final montage shows the Opera House and Harbour Bridge illuminated at night from the water.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo pop music with a steady electronic beat begins. A woman's voice provides short, energetic phrases in Mandarin, coinciding with the location changes. (2) The music continues at a lower volume as the woman speaks in a conversational, friendly tone, explaining the benefits of the 'sunset ferry' while ambient wind and water splashing sounds are audible. (3) The upbeat music returns to the foreground during the final montage of nighttime scenery, ending with a final rhythmic beat.",
+      "text_narrative_log": "(1) '雪梨歌劇院' (Sydney Opera House) appears as a main title throughout the first half. (2) Functional location labels appear: '月神公園摩天輪' (Luna Park Ferris Wheel), 'Felt step', '渡輪' (Ferry), '樂高玩具店' (Lego Store), and '底下看' (Look from below). (3) Subtitles explain the travel tip: '這個時間點就是叫做黃昏的船班' (This time slot is the sunset ferry), '出發的時候是看夕陽的景' (See the sunset when departing), '回程的時候就是看夜景' (See the night view on the return). (4) Emotional hook text: '超棒' (Awesome/Excellent)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 2.58,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Montage -> Explanatory Segment -> Outro Scenery Montage"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Side view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 1 young boy as secondary character, several passers-by in the background near the Opera House.",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing various outfits: a cream cardigan, a striped sweater with a green skirt, and a white t-shirt. A young boy in a puffer jacket."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Harbour",
+          "Ferry",
+          "Ferris Wheel",
+          "Lego Store"
+        ],
+        "topography": [
+          "Coastline",
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Features various angles of Sydney Harbour, including the iconic Opera House sails, the Harbour Bridge, Luna Park, city skyscrapers, and a Lego-themed interior.",
+      "lightingStyle": "Mixed: Natural daylight (bright/sunny) and night city illumination (neon/street lights).",
+      "weather": "Clear",
+      "season": "Spring or Autumn",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Ferry",
+        "Ferris Wheel"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "Sydney Opera House",
+        "Sydney Harbour Bridge",
+        "Luna Park Sydney"
+      ],
+      "brandLogos": [
+        "LEGO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and informative",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Wind",
+        "Water splashing"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> Explanation -> Outro",
+      "mainPurpose": "To provide a travel guide for the best ways to view the Sydney Opera House. It first showcases five different perspectives (Ferris wheel, Felt Step, ferry, Lego store, and close-up) and then specifically recommends taking the ferry during sunset to experience both daylight and night views in one trip.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy pointing gestures, use of pink heart emojis in text overlays.",
+      "freeDescribe": "The video effectively uses a fast-paced montage to capture attention before pivoting to a practical travel tip, which increases engagement for a travel-focused audience."
+    }
+  }
+}

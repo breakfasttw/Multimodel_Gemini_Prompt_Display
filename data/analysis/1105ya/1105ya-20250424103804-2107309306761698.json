@@ -1,0 +1,171 @@
+{
+  "videoName": "1105ya-20250424103804-2107309306761698.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 6,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Cosplay"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a character in a full red and blue Spider-Man costume and mask, posing against the night skyline of Taipei, with Taipei 101 visible. Animated white lightning strikes overlay the scene. (2) Through a quick cut and a blurred transition, the character pulls off the mask and shakes out her long brown hair. (3) The woman, now unmasked, smiles at the camera while wearing the superhero suit, posing with her hand near her chin as the city lights shimmer in the background.",
+      "audio_narrative_log": "(1) Upbeat pop music begins with a rhythmic beat and melodic male vocals. (2) The music continues at a steady pace as the vocals deliver a lyrical line; no environmental sounds or physical movement noises are audible. (3) The song remains at a consistent volume through to the end of the clip, maintaining a smooth, high-quality studio production sound.",
+      "text_narrative_log": "None"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 1.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro masked pose -> Transition/Reveal -> Unmasked beauty pose"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator wearing a bodysuit",
+      "mainCharacterDescription": "A young female with long brown hair, wearing a form-fitting red and blue Spider-Man themed costume."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Rooftop",
+          "Outdoor City"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A nighttime urban panoramic view featuring the illuminated Taipei 101 skyscraper and numerous smaller city buildings with glowing windows.",
+      "lightingStyle": "Dim night lighting with bright artificial city lights and vibrant digital lightning effects.",
+      "weather": "Clear night",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Fast Cuts"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "Taipei 101"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Smooth and melodic",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Pop",
+      "bgmBPM": 90,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Transition -> Reveal",
+      "mainPurpose": "The video is designed for social media engagement, specifically utilizing the 'character reveal' trope. It aims to showcase the creator's attractiveness and cosplay skill by transitioning from a masked, anonymous superhero figure to a polished, smiling individual, all set against a high-profile urban landmark to maximize visual appeal.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No products or brands are explicitly or implicitly promoted beyond the costume theme.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Reveal transition with hair shake",
+      "freeDescribe": "The use of the Taipei 101 landmark provides a strong geographic marker that helps localize the content while maintaining international appeal through the recognizable Spider-Man IP."
+    }
+  }
+}

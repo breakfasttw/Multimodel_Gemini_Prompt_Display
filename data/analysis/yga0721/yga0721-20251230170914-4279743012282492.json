@@ -1,0 +1,181 @@
+{
+  "videoName": "yga0721-20251230170914-4279743012282492.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 84,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Product Demo",
+        "Vlog",
+        "Humor"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man and a woman are standing in a studio-like room, engaging in an animated conversation with expressive gestures. The man points at the woman and later at his own waist. (2) The man pulls out colorful plush bird toys from his waistband, and they both clip several of these toys onto their wrists and forearms. (3) They perform a synchronized, playful dance while wearing the toys, showcasing their movement. (4) The video transitions into a series of close-up shots of various specific plush bird models, demonstrating their wing-flapping and eye details. (5) The duo returns to a medium shot, continuing their energetic presentation and interaction with the toys on their arms before the woman walks off-camera.",
+      "audio_narrative_log": "(1) The audio begins with high-pitched, excited dialogue between a male and a female speaker. (2) An upbeat, rhythmic background music track with a fast tempo enters as the product demonstration begins. (3) Significant sound effects (SFX) are heard, including realistic bird chirping and a high-pitched electronic singing voice coming from the toys. (4) The male speaker's voice remains dominant, maintaining a humorous and enthusiastic tone throughout the demo. (5) The music continues until the end, occasionally punctuated by the mechanical whirring or chirping of the toys.",
+      "text_narrative_log": "(1) Functional text appears as Chinese subtitles throughout the video, translating the dialogue. (2) Decorative hook text like \"眼睛水汪汪\" (Sparkling eyes) and \"身體毛茸茸\" (Fuzzy body) appears to highlight product features. (3) Specific labels for each bird type appear during close-ups, such as \"紅鸚鵡\" (Red Parrot), \"大嘴鳥\" (Toucan), and \"紅鶴\" (Flamingo). (4) Final promotional text \"歡樂小吱\" (Happy Little Squeak) is displayed as the product name."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video follows a fast-paced 'Hook -> Comic Setup -> Product Reveal -> Feature Demonstration -> Outro' flow."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male creator and 1 female co-host are clearly visible throughout.",
+      "mainCharacterDescription": "The male character wears a white Lacoste t-shirt and khaki pants; the female character wears a white cropped t-shirt and blue wide-leg sweatpants."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "An indoor studio setting with gray walls, a white 'haha baby' backlit sign, a green curtain, and a large red cartoon character statue.",
+      "lightingStyle": "Bright studio lights",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Parrot",
+        "Toucan",
+        "Flamingo"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Lacoste",
+        "haha baby"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut sync with visuals",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and Humorous",
+        "pitch": "Moderate to High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Bird Chirping",
+        "Toy Squeaks",
+        "Electronic Singing"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Product Demo -> Detailed Showcase -> Outro",
+      "mainPurpose": "The video serves as a high-energy commercial advertisement for a series of plush bird toys called 'Happy Little Squeak'. It uses humor and chemistry between the presenters to showcase the product's features (portability, sound effects, appearance) to a young or family-oriented audience.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The characters explicitly demonstrate the product, mention its features like Type-C charging, and display the brand name 'haha baby' prominently.",
+      "endorsementObject": [
+        "haha baby",
+        "歡樂小吱"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-frequency use of variety-show style text overlays and the 'haha baby' branding environment.",
+      "freeDescribe": "The video utilizes a typical 'KOL marketing' style popular in East Asia, characterized by over-the-top reactions, fast-paced editing, and dense text overlays to maintain viewer engagement."
+    }
+  }
+}

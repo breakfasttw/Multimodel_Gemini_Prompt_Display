@@ -1,0 +1,173 @@
+{
+  "videoName": "2uncle987-20250727001008-1570135097369071.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 44,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Dance",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a split-screen intro featuring a man and women in a hallway, overlaid with large yellow text. (2) It transitions into a fast-paced montage comparing professional dancers in a large, well-lit studio with several individuals in a narrow marble-floored hallway attempting the same energetic dance moves. (3) The professional dancers wear various outfits (black, red, grey), while the hallway dancers are in casual wear. Characters show high-energy expressions, laughing, and dynamic movements like high kicks and spins. (4) The video concludes with a group shot in the hallway and a black screen with recruitment-style text.",
+      "audio_narrative_log": "(1) High-tempo, upbeat electronic dance music starts immediately and continues throughout the montage. (2) Transition SFX like digital glitches occur between visual cuts. (3) Towards the end, the music lowers to allow for audible laughter and light-hearted shouting from the people in the hallway. (4) A final laugh track or giggle is heard over the ending text screen.",
+      "text_narrative_log": "(1) \"什麼\" (What), \"還有\" (Also), \"Round 2\": Hook text in yellow and black. (2) \"抓! KIKI 偷懶啊\": Variety-show style caption accusing a character of being lazy. (3) \"誠徵 職缺：正職 希望你：會跳舞、體力好 (開玩笑的)\": Functional and joke text regarding recruitment for dancers with good stamina."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Comparative Dance Montage -> Comedic Group Outro -> Text Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 15,
+      "maleDetectAmount": 6,
+      "femaleDetectAmount": 9,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 4,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "Multiple dancers in studio and about 5-6 recurring people in the hallway shots.",
+      "mainCharacterDescription": "Various individuals; one male in a black t-shirt and grey pants, one female in a black crop top and two-tone jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Hallway",
+          "Dance Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "One setting is a narrow indoor hallway with marble floors and glass walls with curtains; the other is a large, professional white studio with an audience sitting on sofas.",
+      "lightingStyle": "Bright studio lighting and indoor ceiling lights.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 3,
+        "backgroundCrowdVoices": 5,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 3,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Digital Glitch",
+        "Laugh Track"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Comparison -> Joke CTA",
+      "mainPurpose": "To entertain the audience by comparing professional dance performances with humorous, amateur attempts in a casual setting, ultimately acting as a comedic recruitment post for a dance group.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced cross-cutting between professional and amateur dancing.",
+      "freeDescribe": "The video uses popular short-video editing techniques like beat-syncing and text hooks to maintain high engagement."
+    }
+  }
+}

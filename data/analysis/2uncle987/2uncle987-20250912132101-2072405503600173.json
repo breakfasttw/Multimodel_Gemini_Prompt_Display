@@ -1,0 +1,189 @@
+{
+  "videoName": "2uncle987-20250912132101-2072405503600173.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A female host in a blue and white striped dress stands in front of a large golden mermaid mural, gesturing to the camera. (2) The scene cuts to various shots of a modern, spacious Starbucks interior with wooden tables and artistic lighting. (3) The host appears with two female friends in front of a vibrant digital art screen, all waving and smiling. (4) Close-up shots of tea being poured and cocktails being prepared at different bar counters. (5) The host stands by a bronze-colored wall labeled 'SIREN'S LOUNGE' and walks through the entrance. (6) A shot from an outdoor terrace shows the host posing with Taipei 101 in the background. (7) The host showcases exclusive merchandise, including mugs, bags, and a 24K gold Bearbrick figure in a glass case. (8) The video concludes with shots of various pastries and breads in a display case featuring labels with chefs' photos.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic pop music begins immediately as a female voice speaks with an excited and welcoming tone. (2) As the visuals show drinks being poured, the sound of liquid and slight clinking of ice is audible over the music. (3) The female voice continues with a steady, descriptive pace, explaining the features of the store. (4) Ambient cafe chatter and background noise are kept to a minimum, primarily dominated by the clear vocal narration and the energetic BGM.",
+      "text_narrative_log": "(1) Functional subtitles appear at the bottom, translating the host's spoken Chinese. (2) Large decorative text: '今天帶大家來 搶先 開箱' (Taking everyone to unbox first today). (3) '全台最大 STARBUCKS' (Largest Starbucks in Taiwan). (4) 'TEAVANA 茶瓦納' (Teavana bar label). (5) '全預約制 SIREN'S LOUNGE' (All-reservation Siren's Lounge). (6) '直接就是 101' (Directly is 101). (7) '24小時營業' (24-hour operation). (8) '三方聯名 24K 金庫柏力克熊' (Triple collaboration 24K Gold Bearbrick)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 48,
+      "averageSceneDuration": 1.83,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Exploration of different themed sections -> Merchandise display -> Conclusion."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 9,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 6,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female host, 2 female friends, 3 staff members, approximately 3 customers in background.",
+      "mainCharacterDescription": "An Asian female with long dark hair, wearing a blue and white horizontal striped sleeveless dress and white sneakers."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Cafe",
+          "Retail Store",
+          "Outdoor Terrace"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A luxury flagship Starbucks store featuring high ceilings, intricate murals, specialized bar counters (Teavana, Siren's Lounge), and a scenic terrace overlooking urban landmarks.",
+      "lightingStyle": "Warm indoor ambient lighting with bright natural light in the terrace scenes.",
+      "weather": "Sunny",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm and Vibrant",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Panning"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Mermaid (Artistic)",
+        "Bear (Bearbrick)"
+      ],
+      "foodsDetect": [
+        "Coffee",
+        "Tea",
+        "Cocktails",
+        "Croissants",
+        "Cakes",
+        "Bread"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Digital Art Wall"
+      ],
+      "landmark": [
+        "Taipei 101"
+      ],
+      "brandLogos": [
+        "STARBUCKS",
+        "TEAVANA",
+        "DREAM PLAZA",
+        "KUBRICK",
+        "金門高粱"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and enthusiastic",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Moderate",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh transitions"
+      ],
+      "ambientNoise": [
+        "Cafe chatter",
+        "Glass clinking"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Spatial Tour -> Product Highlights -> Feature Reveal -> Conclusion",
+      "mainPurpose": "To promote the grand opening and unique features of the Starbucks flagship store at Dream Plaza in Taipei, emphasizing its scale, exclusive lounge, 24-hour bar service, and gourmet food collaborations.",
+      "visualEmotion": "Energetic and inviting"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The host provides a detailed guided tour, explicitly names the brand and location, and highlights exclusive services and products.",
+      "endorsementObject": [
+        "STARBUCKS",
+        "DREAM PLAZA"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy lifestyle hosting style with rhythmic editing.",
+      "freeDescribe": "The video effectively uses short, snappy cuts to keep the viewer engaged while covering a wide range of offerings from beverages to luxury collectibles like the gold Bearbrick."
+    }
+  }
+}

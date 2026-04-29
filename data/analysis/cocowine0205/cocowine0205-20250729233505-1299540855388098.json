@@ -1,0 +1,185 @@
+{
+  "videoName": "cocowine0205-20250729233505-1299540855388098.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 76,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Cooking"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman wearing a beige bucket hat and a cream-colored dress stands inside a Costco, excitedly holding a large packaged 'Vegetable Mutton Hot Pot' kit while gesturing toward the price tag of 289 dollars per kilogram. (2) The scene shifts to a home dining setting where two women unbox the contents of the kit, revealing bags of mutton slices, clams, soup base packets, and fresh white radish. (3) Close-up shots of the cooking process follow: vegetables are boiled in a blue cast-iron pot, then mutton and clams are added using tongs as steam rises. (4) The two women sit at the table and taste the finished hot pot, nodding and giving enthusiastic thumbs-up while displaying the tender meat and cooked clams to the camera.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic pop music begins immediately with a high-pitched, enthusiastic female voice speaking in Mandarin. Ambient store chatter is faintly audible in the background. (2) The music continues as a clear, professional male voiceover takes over, narrating the unboxing process with an energetic tone; sounds of plastic packaging being opened and objects being placed on a table are heard. (3) During the cooking phase, sound effects of bubbling water and the clinking of a heavy pot lid are prominent. (4) The final phase features the two women making satisfied eating sounds and brief verbal exclamations of delight over the background music and occasional cartoon-style 'ding' sound effects for emphasis.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles appear at the bottom of the screen throughout the video translating the spoken dialogue and narration. (2) Decorative/Hook Text: Large, colorful captions appear such as '超火新品' (Super popular new product) in red, '蔬菜羊肉爐' (Vegetable Mutton Hot Pot) in green, and '超級無敵清香' (Super invincible fragrance) with a rainbow border. (3) Descriptive Text: '非常醜喔' (Very ugly) appears when criticizing the appearance of the cabbage, and '畫龍點睛' (The finishing touch) appears when adding clams."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 3.45,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro/Purchase -> Unboxing -> Cooking -> Tasting/Review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators appear together for the review portion.",
+      "mainCharacterDescription": "Two young women; one with long dark hair wearing a beige hat and white dress, the other with long dark hair in a light blue top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Costco",
+          "Dining Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Costco refrigerated section with food shelves; a residential kitchen/dining room featuring a blue Staub pot and a pet cage in the distance.",
+      "lightingStyle": "Bright artificial indoor lighting",
+      "weather": "Unknown",
+      "season": "Summer (referenced in dialogue)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and saturated",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Dog"
+      ],
+      "foodsDetect": [
+        "Mutton",
+        "Clams",
+        "Radish",
+        "Cabbage",
+        "Soup"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "Costco"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "STAUB"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with rhythmic sync",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic Pop",
+      "bgmBPM": 126,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Digital Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Bubbling",
+        "Pop sounds"
+      ],
+      "ambientNoise": [
+        "Store ambience",
+        "Kitchen noises"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Demo -> Conclusion",
+      "mainPurpose": "This is a promotional food review for a specific seasonal mutton hot pot product from Costco. The video aims to validate the product's value (showing the price and weight) and quality (showing the cooking and tasting) to encourage viewers to purchase it before the season ends.",
+      "visualEmotion": "Cheerful and appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed showcase of product packaging, price tag, and emphatic positive taste review.",
+      "endorsementObject": [
+        "Costco Vegetable Mutton Hot Pot"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-speed editing with 'variety show' style floating text bubbles and a distinctive high-energy male narrator.",
+      "freeDescribe": "The video mimics popular East Asian short-form review styles, utilizing visual hooks and text pop-ups to maintain viewer retention."
+    }
+  }
+}

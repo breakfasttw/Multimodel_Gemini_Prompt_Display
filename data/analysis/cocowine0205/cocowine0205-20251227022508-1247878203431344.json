@@ -1,0 +1,176 @@
+{
+  "videoName": "cocowine0205-20251227022508-1247878203431344.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 33,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A female creator wearing a white bucket hat and a white sweater stands in front of a Costco display, enthusiastically holding a large bag of Sennarido green pistachios featuring Kumamon packaging. (2) The camera zooms in on the product, showcasing the Kumamon character on the front and the smaller individual packets visible through the translucent bag. (3) The creator flips the bag to reveal a row of Kumamon illustrations on the back while continuing to talk and gesture excitedly towards the camera.",
+      "audio_narrative_log": "(1) High-pitched and energetic female vocals speaking Mandarin over an upbeat, bouncy lo-fi background track. Ambient warehouse store noise is muffled in the background. (2) Frequent cartoon-style sound effects (pops and dings) coincide with text appearing on screen. (3) The music maintains a constant tempo as the speaker's tone remains cheerful and persuasive until the end.",
+      "text_narrative_log": "(1) '熊本熊限定包裝 千成堂綠色酥脆開心果 pistachio' (Decorative Hook: Kumamon Limited Edition Packaging Sennarido Green Crispy Pistachio - Excited tone). (2) 'COSTCO WHOLESALE' (Functional: Store branding). (3) '真的好吃' (Decorative: Really tasty! - Enthusiastic tone). (4) Standard Chinese subtitles translating the spoken dialogue appear at the bottom."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 5,
+      "averageSceneDuration": 6.6,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Product Demo -> Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator visible throughout.",
+      "mainCharacterDescription": "A young female with long dark hair, wearing a white New York Yankees logo bucket hat, a white long-sleeved sweater, and jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A Costco warehouse aisle with high shelves, stacked green boxes of pistachios, and store signage like 'PHARMACY' in the distance.",
+      "lightingStyle": "Bright indoor warehouse lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pistachios"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "Sennarido",
+        "Kumamon"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Lo-fi",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Electronic Synth",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Pop sounds"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Recommendation",
+      "mainPurpose": "To showcase and recommend a specific limited edition snack (Sennarido Kumamon Pistachios) available at Costco, leveraging the popularity of the Kumamon character and the creator's previous positive experience with the brand.",
+      "visualEmotion": "Energetic and Happy"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The creator specifically holds, demonstrates, and praises the product while standing in the retail location.",
+      "endorsementObject": [
+        "Sennarido",
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy variety-show style editing with pop-up text and cartoon SFX.",
+      "freeDescribe": "The video targets Costco shoppers and fans of Japanese snacks/mascots, focusing on the novelty of the packaging design."
+    }
+  }
+}

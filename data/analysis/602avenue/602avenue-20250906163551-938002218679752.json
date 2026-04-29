@@ -1,0 +1,177 @@
+{
+  "videoName": "602avenue-20250906163551-938002218679752.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 131,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tutorial",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a split screen showing a Korean influencer's makeup tutorial and the creator eating ice cream, then transitions to the creator holding a white skincare spray. (2) The creator demonstrates a makeup technique by spraying her face and then applying liquid foundation with her hands, massaging it in. (3) Close-up shots of her cheek show a significant glowing, 'glass skin' effect. (4) The creator presents a set of three ICD skincare products (booster, serum, and cream) on a light-colored table. (5) Detailed demonstration of product textures on the back of her hand and face, showing the application of serum and cream. (6) Comparison of her skin condition before and after two weeks of using the products, finishing with a final recommendation shot holding all three bottles.",
+      "audio_narrative_log": "(1) Upbeat, energetic pop music with electronic beats begins. (2) A female speaker begins a high-pitched, enthusiastic Mandarin narration, explaining a viral Korean makeup trend. (3) Sound effects like 'dings' and 'pops' are heard as text and product names appear. (4) The music remains consistent and energetic as she transitions into a detailed review of the skincare products. (5) The speaker's tone becomes more instructional and persuasive as she describes the product benefits. (6) Music fades slightly as the video ends with a closing remark.",
+      "text_narrative_log": "(1) '用手隨便推開就行？韓網爆紅💦拌拌水光肌💦' - Hook text asking about a viral makeup technique. (2) '1. 臉上噴上足夠的噴霧' and '2. 還沒乾的時候直接上粉底' - Instructional steps for the makeup method. (3) 'ICD 映哲美的「活妍系列」' - Branding for the endorsed skincare line. (4) 'Boo-Se-Boo-Cream' - A rhythmic mnemonic for the application order of the products. (5) '真的可以試試看這些韓國產品喔！' - Closing recommendation and CTA."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 48,
+      "averageSceneDuration": 2.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Makeup Tutorial -> Product Reveal -> In-depth Feature Review -> Result Comparison"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator performs the entire review and demonstration.",
+      "mainCharacterDescription": "A young female with long dark wavy hair, wearing a casual grey tank top, with an expressive and energetic facial demeanor."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A simple indoor environment with a plain wall and a wooden table surface where products are displayed.",
+      "lightingStyle": "Bright studio light providing clear visibility of skin texture.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, High Saturation, Clean",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Macro close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Ice cream",
+        "Yogurt"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "ICD 映哲美"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched, excited, and persuasive",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Ding",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Product Endorsement -> CTA",
+      "mainPurpose": "To promote the ICD skincare product line by validating its effectiveness through a popular 'glass skin' makeup hack, positioning the products as essential for achieving a high-moisture, radiant look.",
+      "visualEmotion": "Energetic, Hopeful, Vibrant"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product showcase, detailed explanation of ingredients/tech, and a clear call to action.",
+      "endorsementObject": [
+        "ICD 映哲美"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin commentary mixed with K-beauty trend integration.",
+      "freeDescribe": "The video effectively uses the 'hook' of a viral makeup technique to pivot into a full-scale product advertisement, leveraging the current consumer interest in Korean skincare aesthetics."
+    }
+  }
+}

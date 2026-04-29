@@ -1,0 +1,174 @@
+{
+  "videoName": "3ctim-20250806183907-1181582654051466.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 36,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Tech Tips"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing glasses, a patterned flat cap, and a mustard yellow hoodie gestures toward the camera in front of a grey curtain. (2) A brief shot of a man in a business suit is shown before transitioning to a 3D graphic of the LINE app logo and a notification bell icon. (3) The video displays a series of screen recordings from a mobile phone, showing the LINE app's settings menu. Red arrows and boxes highlight specific toggle switches within the 'Friends' and 'Privacy' sections. The narrator occasionally appears in an inset.",
+      "audio_narrative_log": "(1) An energetic male voice begins speaking over an upbeat, fast-paced electronic background track. (2) The vocal remains the dominant element as it provides instructional narration. Subtle sound effects like 'swishes' and 'clicks' accompany the visual transitions and highlights on the screen. (3) The upbeat music continues with a consistent rhythm until the speaker finishes his final sentence, where the sound quickly cuts out.",
+      "text_narrative_log": "(1) Functional Text: '關閉這六個選項' (Turn off these six options) and '讓你 LINE 帳號更安全' (Make your LINE account safer). The tone is helpful and direct. (2) Functional Text: A numbered list of six instructions appears sequentially, such as '第一個 關閉 加入好友' (1st: Turn off Add Friends). (3) Decorative Text: '趕快關' (Turn it off quickly) appears at the end with an urgent emotional tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 16,
+      "averageSceneDuration": 2.25,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Step-by-step tutorial -> CTA Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Face only",
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator (Tim哥) and 1 male figure in a suit shown briefly.",
+      "mainCharacterDescription": "A middle-aged man wearing a mustard yellow hoodie, glasses, and a red and grey patterned flat cap."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A studio with a grey pleated curtain, interspersed with mobile app interfaces and abstract 3D graphics.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "LINE",
+        "miko"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Transition swish",
+        "UI click"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Step-by-step Guidance -> CTA",
+      "mainPurpose": "The video is a cybersecurity-focused tutorial for users of the LINE messaging app. It aims to teach viewers how to enhance their account privacy by disabling specific features that could lead to data leaks or unwanted contact from strangers.",
+      "visualEmotion": "Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The 'miko' brand logo is persistently visible in the upper-left corner of the frame.",
+      "endorsementObject": [
+        "miko"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The creator's signature attire (hat and glasses) and the consistent use of the '3c有意思tim哥' branding.",
+      "freeDescribe": "A highly functional short-form tutorial that leverages screen recordings for clear communication and engagement."
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "videoName": "0_shufen-20250910134014-1227562825418616.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 4,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Trend",
+        "Short Video"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with black hair in a pink t-shirt sits in a rustic indoor setting, looking down and rhythmically moving her hands as if preparing for a clap sequence. (2) Suddenly, a brown and white dog appears in her lap, and she holds its paws to make it 'dance' or react to the music. The camera zooms in on the dog's face as the woman smiles widely.",
+      "audio_narrative_log": "(1) A rhythmic, high-tempo electronic beat begins with distinct percussion sounds. No vocals are detected initially. (2) A loud, distorted male shouting sound effect ('Ah!') occurs simultaneously with the dog's appearance. (3) The rhythmic music continues briefly as the sound of the shout echoes.",
+      "text_narrative_log": "(1) Functional Text: '來跟拍一下' (Come and film/follow this trend), appearing in white font with a black outline, positioned on the left side of the screen with a casual and inviting tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 4.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro preparation -> Sudden reveal and interaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main character",
+      "mainCharacterDescription": "A young woman with black hair tied back, wearing a pink short-sleeved t-shirt with black stripes on the sleeves."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor",
+          "Rustic Shelter"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A rustic environment with corrugated metal roofing, wooden beams, and various cluttered household items in the background.",
+      "lightingStyle": "Natural light",
+      "weather": "Daytime",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Dog"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Screaming",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Meme sounds"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Action -> Reaction",
+      "mainPurpose": "To participate in a viral social media trend where a rhythmic build-up leads to a surprising or funny reveal, in this case, featuring a pet dog's reaction.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Pet-centric comedy",
+      "freeDescribe": "The video uses a high-contrast sound effect to emphasize the sudden appearance of the dog, which is a common trope in short-form video comedy."
+    }
+  }
+}

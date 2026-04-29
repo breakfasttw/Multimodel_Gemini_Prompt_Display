@@ -1,0 +1,177 @@
+{
+  "videoName": "cocowine0205-20250414093504-2142528699827578.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 53,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins in a Costco store where a young woman in a black top is holding a box of pastries and smiling at the camera. (2) The camera transitions to close-up shots of the pastry boxes on display shelves, highlighting the 'Blueberry Blossom Pastry' labels. (3) The setting shifts to an indoor living room/studio where the same woman and a friend are seated at a table with plates and the opened pastry box. (4) They tear the pastries apart to show the blueberry filling, taste them, and react with excited expressions and thumbs-up gestures.",
+      "audio_narrative_log": "(1) An offscreen male voice asks 'Why are you smiling like this?' over upbeat, fast-tempo background music. (2) A female voice narrates the product details, including the price of 339 TWD for 6 pieces. (3) The audio becomes a dialogue between two females as they taste the food, describing the texture as flaky and the sweetness as balanced. (4) The music remains consistent and high-energy until the end, concluding with the two women shouting '10 points!' in unison.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo is fixed at the top. (2) Decorative/Hook Text: '你為什麼笑成這樣' (Why are you smiling like this?) with a playful tone. (3) Functional Text: '超級黑馬 藍莓果醬奶酥' (Super dark horse: Blueberry Jam Cream Crisp) appearing with flame effects. (4) Functional Text: '339元 6個' and '10分!!!' indicating price and high rating."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.9,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at store -> Product information -> Detailed tasting and review at home -> Final rating"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, 1 male shopper in red in the background, 1 blurred passerby.",
+      "mainCharacterDescription": "One woman has long dark hair wearing a black sheer-sleeved top; the other wears a white shirt and a black beret."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Retail Store",
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The first half is shot in a warehouse-style supermarket (Costco) with refrigerated shelves; the second half is a domestic indoor setting with a clean wall and dining table.",
+      "lightingStyle": "Bright indoor lighting and natural domestic light.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and vibrant",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pastry",
+        "Blueberry Jam",
+        "Almonds"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "Kirkland Signature"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Store hum"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Product Intro -> Review -> Conclusion",
+      "mainPurpose": "To provide a positive recommendation for a specific Costco Taiwan bakery item by demonstrating its appearance at the store and conducting a detailed taste test to validate its quality and value.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed product presentation, price mentioning, and extremely high rating (10/10).",
+      "endorsementObject": [
+        "COSTCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density colorful captions and 'Dark Horse' labeling style.",
+      "freeDescribe": "The video follows a standard 'influencer shopping' format common on social platforms like Douyin or Instagram Reels, focusing on high-value-for-money items."
+    }
+  }
+}

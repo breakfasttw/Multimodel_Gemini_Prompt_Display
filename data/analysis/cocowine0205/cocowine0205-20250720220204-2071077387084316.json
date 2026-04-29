@@ -1,0 +1,181 @@
+{
+  "videoName": "cocowine0205-20250720220204-2071077387084316.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 45,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Live-action video. A young woman in a white lace top and blue beret stands in a Costco aisle, smiling and holding a pre-packaged Roast Beef Salad. (2) Close-ups of the salad ingredients: sliced beef, cherry tomatoes, orange segments, and raisins. (3) The setting shifts to a home dining area. Two women are seated at a table, plating and tasting the salad. The main character in the beret shows extreme excitement, then coughs mid-chew. (4) Close-up shots of sauce being poured and beef being lifted with tongs. The main character ends with a thumbs-up and a peace sign.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop music starts. A high-pitched, energetic female voice introduces the product in Mandarin. (2) Music continues as the narrator describes the ingredients. The sound of plastic packaging crinkling is heard. (3) The acoustic environment changes to a room with slight reverb. Sounds of chewing and utensils hitting plates are prominent. A sudden, loud cough is heard from the main speaker. (4) Music remains steady as the voice expresses strong approval and concludes the review.",
+      "text_narrative_log": "(1) Functional Text: '最新款的' (The newest), '超級好吃！新品黑馬' (Super delicious! New hit), '燒烤牛肉沙拉' (Roast Beef Salad). Tone: Excited. (2) Functional Text: '一公斤是519元' ($519/kg), '每盒落在370元左右' (Approx $370 per box). Tone: Informative. (3) Decorative Text: '12萬分' (120,000 points) with a star sticker. Tone: Exaggerated praise. (4) Functional Text: '回感豐富 價格不貴' (Rich flavor, affordable price). Tone: Recommending."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro in supermarket -> Detail of product -> Home tasting -> Final rating"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Upper body",
+        "Hands only",
+        "Full body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main female creator in a beret, 1 female friend sitting beside her during the tasting portion.",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a white sleeveless lace top and a dark blue beret."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Supermarket",
+          "Indoor Dining Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First half features Costco refrigerated shelves stocked with prepared meals. Second half features a domestic interior with a beige sofa and a white dining table.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and Saturated",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Beef",
+        "Salad",
+        "Tomato",
+        "Orange",
+        "Raisins"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "Kirkland Signature"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Beep"
+      ],
+      "ambientNoise": [
+        "Supermarket hum"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Procurement -> Evaluation -> Verdict",
+      "mainPurpose": "To influence consumers to purchase a specific new food product from Costco by providing an enthusiastic and positive review that highlights value and taste.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct recommendation, displaying brand logos (Costco), and detailed price information.",
+      "endorsementObject": [
+        "COSTCO",
+        "Kirkland Signature"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy presentation, signature blue beret, use of '120,000 points' rating scale.",
+      "freeDescribe": "Typical lifestyle influencer content targeting budget-conscious foodies and Costco regulars."
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "videoName": "602avenue-20250806230806-1119024990324988.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 8,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Lifestyle"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Seoul"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with brown hair, wearing a white blouse and a gold necklace, films herself in a selfie-style POV on a street in Seoul, pointing to her eye and smiling. (2) The video cuts to a series of fast-paced shots showing massive digital billboards on skyscrapers. The first shows Jisoo for Dior Addict. (3) Subsequent shots display vibrant, high-definition advertisements featuring BABYMONSTER, NCT members, actor Park Seo-joon for Classys, Karina from aespa, and other K-pop/K-drama stars in a dense urban setting with traffic and modern architecture.",
+      "audio_narrative_log": "(1) A female voice counts 'Yi, er, san' (One, two, three) in Mandarin Chinese over low ambient city noise. (2) A rhythmic, upbeat electronic pop track starts abruptly. A stylized whisper of the word 'Dior' is heard as the first billboard appears. (3) The electronic music maintains a steady, high-tempo beat with bass emphasis throughout the montage of billboard displays, with no further speech or significant ambient sound.",
+      "text_narrative_log": "(1) POV 🇰🇷在韓國一定要睜大眼睛的原因 You really can't zone out in Seoul - Hook text establishing the 'why' of the video. (2) 路上每五分鐘就出現一次你的偶像😂 - Descriptive text explaining that idols appear every five minutes on the street, using a laughing emoji for a lighthearted tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 1.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro (Talking Head) -> Montage (Urban Scenery/Billboards)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 7,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator; others are celebrities appearing on digital screens (Jisoo, Karina, Park Seo-joon, etc.)",
+      "mainCharacterDescription": "A young Asian woman with long brown hair, wearing a white v-neck blouse and a delicate gold necklace."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Urban Center"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern urban cityscape of Seoul, specifically the COEX/Gangnam area, featuring high-rise buildings, glass-walled skyscrapers, and massive LED display screens.",
+      "lightingStyle": "Natural daylight (overcast)",
+      "weather": "Cloudy",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English",
+          "Korean"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and Vibrant",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Pan"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Bus"
+      ],
+      "techDetect": [
+        "LED Screen",
+        "Smartphone"
+      ],
+      "landmark": [
+        "COEX",
+        "Parnas Hotel Seoul"
+      ],
+      "brandLogos": [
+        "DIOR",
+        "PARNAS",
+        "CLASSYS",
+        "Babitalk"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and welcoming",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Low",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Electronic Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whisper SFX"
+      ],
+      "ambientNoise": [
+        "Traffic"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Evidence",
+      "mainPurpose": "To showcase the high density of celebrity advertisements and the vibrant fan-culture atmosphere in Seoul's commercial districts, targeting travelers and K-pop fans.",
+      "visualEmotion": "Energetic and Exciting"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The brands shown are part of the environmental scenery (billboards) rather than products actively promoted by the creator.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Mandarin-speaking female traveler in Korea trope.",
+      "freeDescribe": "The video uses beat-sync editing to match the cuts of the billboards with the electronic music, enhancing the 'cool city' aesthetic."
+    }
+  }
+}

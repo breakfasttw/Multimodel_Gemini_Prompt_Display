@@ -1,0 +1,183 @@
+{
+  "videoName": "2uncle987-20250902222325-1409127854242228.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 72,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a woman in a blue and white striped shirt tasting a drink and expressing delight. (2) She approaches a freezer in a brightly lit convenience store, filled with transparent bags containing pre-cut frozen fruit and vegetables. (3) The scene shifts to a chronological walkthrough of the purchasing process: selecting a bag, paying at the counter to get a cup, scanning a QR code on a specialized pink and teal smoothie machine, and placing the cup inside. (4) Close-ups show the machine blending the ingredients and the woman adding extra items like Yakult and yogurt to different flavors. (5) Throughout the video, she is seen tasting four different flavors: Green Latte, Apple Blueberry, Lemon Guava, and Berry, using various facial expressions to convey the taste (sweet, sour, refreshing). (6) The video ends with a shot of a QR code on a sign and the woman encouraging viewers to try it.",
+      "audio_narrative_log": "(1) An upbeat, mid-tempo pop-style BGM starts immediately and plays continuously throughout the video. (2) A cheerful female voice provides a continuous narration, explaining the steps and describing the taste of the smoothies. (3) Occasional high-pitched sound effects (pings and pops) occur during text transitions or when a specific action is completed on screen. (4) Faint ambient noise of a commercial environment (refrigerator hum, distant movement) is audible under the music and voice. (5) The narrator's tone is consistently enthusiastic and conversational.",
+      "text_narrative_log": "(1) '在台灣也能喝到水果奶昔' (You can drink fruit milkshakes in Taiwan too) - Hook, excited tone. (2) '果C果昔專屬冰箱' (Fruit C Smoothie exclusive freezer) - Functional text. (3) '總共8種口味' (8 flavors in total) - Functional text. (4) '先結帳才有杯子' (Pay first to get a cup) - Instructional text. (5) '掃描QR CODE' (Scan QR CODE) - Instructional text. (6) '製成約90秒' (Takes about 90 seconds) - Functional text. (7) '可自行調整甜度' (Adjust sweetness yourself) - Functional text. (8) '好喝!' (Delicious!) - Emotional hook. (9) '想念日本的味道' (Miss the taste of Japan) - Descriptive text, nostalgic tone. (10) '一起去嚐鮮' (Go try it together) - CTA."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Instructional Walkthrough -> Product Testing/Review -> CTA/Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator; 1 female passerby in the background at various intervals.",
+      "mainCharacterDescription": "A young woman with long dark hair wearing a blue and white horizontal striped t-shirt and dark denim pants."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Convenience Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "Interior of a modern, well-lit convenience store featuring refrigerated displays, product shelves, and a specific smoothie processing machine.",
+      "lightingStyle": "Bright indoor retail lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Vibrant",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Fruit",
+        "Vegetables",
+        "Smoothie",
+        "Yakult",
+        "Yogurt"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smoothie Machine",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "7-ELEVEn",
+        "果C果昔",
+        "Yakult"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, energetic, and promotional",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Vlog Music",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop SFX",
+        "Ping SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Tutorial -> Review -> CTA",
+      "mainPurpose": "To introduce and review the 'Fruit C' self-serve smoothie machines newly available in Taiwan's convenience stores. The video serves as a guide for consumers on how to use the machine and offers creative suggestions (adding Yakult/yogurt) to enhance the flavor and texture of the drinks.",
+      "visualEmotion": "Cheerful and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The video provides a step-by-step tutorial on using a specific brand's machine, includes a QR code to find store locations, and repeatedly praises the product's taste and convenience.",
+      "endorsementObject": [
+        "果C果昔"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing with colorful 'variety show' style text overlays and a focus on 'DIY' food hacks.",
+      "freeDescribe": "The video leverages the popularity of Japanese-style convenience store innovations to appeal to a Taiwanese audience looking for similar experiences locally."
+    }
+  }
+}

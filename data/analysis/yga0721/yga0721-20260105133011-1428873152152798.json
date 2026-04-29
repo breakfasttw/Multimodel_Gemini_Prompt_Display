@@ -1,0 +1,182 @@
+{
+  "videoName": "yga0721-20260105133011-1428873152152798.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 93,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Promotion",
+        "Exhibition Tour"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taichung"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man in a colorful jacket and a woman in a brown sweatshirt stand in an outdoor parking lot with a massive blue and white Ferris wheel in the background. They are gesturing excitedly toward the camera. (2) The scene transitions to the inside of a shopping mall where a large, colorful exhibition entrance for '2UNGLE 10th Anniversary' is visible. The woman poses in front of it. (3) They explore various themed zones: a wall of retro television sets, a 'Time Corridor' featuring illustrated timelines and screens showing past videos, and a playful indoor street scene with a zebra crossing and oversized smiley face props. (4) The duo stands before a white-clothed object, which they pull away to reveal a cartoon-style statue of the female character (Er Bo). (5) The camera shows a series of product shots featuring mugs, bags, and stickers with brand illustrations. (6) The video concludes with a rapid-fire montage of the pair posing at various photo spots within the exhibition.",
+      "audio_narrative_log": "(1) High-energy, upbeat synth-pop background music plays throughout. A male voice with an enthusiastic, loud tone begins speaking immediately, joined by a cheerful female voice. (2) Sound effects like 'sparkle' chimes and applause are heard during transitions and the statue reveal. (3) The ambient sound of a busy shopping mall is occasionally audible beneath the voices and BGM. (4) The music tempo remains consistent and fast-paced until the final montage where it ends on a bright chord.",
+      "text_narrative_log": "(1) Functional text: Subtitles translate the spoken dialogue regarding the 10th-anniversary exhibition. (2) Hook text: '二伯十周年展 正式開幕' (Er Bo 10th Anniversary Exhibition Grand Opening) appears in bold yellow and black. (3) Informational text: '台中麗寶樂園' (Taichung Lihpao Resort) and '免費參觀' (Free Entry) mark the location and cost. (4) Zone titles: '復古電視區' (Retro TV Zone), '時光走廊區' (Time Corridor Zone) appear as variety-show style headers. (5) Promotional text: '十周年限量紀念商品' (10th Anniversary Limited Commemorative Goods) highlights the merch section."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at landmark -> Guided tour of exhibition zones -> Product showcase -> Closing montage"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male creator (Cai Aga) and 1 female creator (Er Bo) as main hosts.",
+      "mainCharacterDescription": "A man wearing a brightly patterned, oversized geometric jacket and white pants. A woman wearing a brown oversized sweatshirt, dark shorts, a black beanie, and bright yellow sneakers."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Theme Park",
+          "Indoor Mall",
+          "Exhibition Space"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Starts in a spacious outdoor lot with a clear blue sky and a large Ferris wheel; moves to a brightly lit, modern shopping mall interior decorated with vibrant, cartoon-themed exhibition panels and props.",
+      "lightingStyle": "Natural daylight (outdoor) and bright, even studio/commercial lighting (indoor).",
+      "weather": "Sunny",
+      "season": "Winter (indicated by long sleeves and Christmas tree in background).",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "CRT TV"
+      ],
+      "landmark": [
+        "Lihpao Resort Ferris Wheel"
+      ],
+      "brandLogos": [
+        "Starbucks",
+        "Hahababy",
+        "Descente"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and promotional",
+        "pitch": "High-pitched",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Sparkle",
+        "Applause",
+        "Whistle"
+      ],
+      "ambientNoise": [
+        "Cafe",
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Location Intro -> Zone-by-Zone Walkthrough -> Reveal -> Merch Preview -> Photo Outro",
+      "mainPurpose": "The video serves as a high-energy promotional tour for the 'Er Bo 10th Anniversary Exhibition' located at the Lihpao Outlet Mall in Taichung. It aims to drive foot traffic by highlighting specific 'Instagrammable' spots, the historical narrative of the creators' brand (Hahababy), and the availability of limited-edition merchandise, all while emphasizing that entry is free.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct verbal promotion of the exhibition, location callouts, and showcasing of brand-specific merchandise.",
+      "endorsementObject": [
+        "Hahababy",
+        "麗寶樂園 Outlet Mall"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-pitched, energetic hosting style typical of Cai Aga; emphasis on 'free' activities and family-friendly branding.",
+      "freeDescribe": "The video uses fast-paced editing and colorful text overlays to maintain high viewer retention, typical of modern short-form promotional content for social media."
+    }
+  }
+}

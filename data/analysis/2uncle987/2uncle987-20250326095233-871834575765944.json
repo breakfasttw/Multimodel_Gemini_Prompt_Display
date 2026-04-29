@@ -1,0 +1,187 @@
+{
+  "videoName": "2uncle987-20250326095233-871834575765944.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 61,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel Guide",
+        "Family"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Osaka"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a montage of two young boys running through an indoor facility and playing with a large bubble machine, with large white text overlays. (2) A woman is shown standing outside the building pointing to a subway exit sign, followed by shots of the 'Kids Plaza Osaka' welcome sign and a floor map. (3) The woman demonstrates using an automated ticket machine and then shows a designated stroller parking area. (4) A fast-paced series of clips shows the boys engaging with various interactive exhibits: spinning discs, a wind tunnel, sliding down a large indoor slide, and climbing through a red rope bridge. (5) Further scenes show the children in a mock TV studio, playing traditional Japanese drums (Taiko), participating in a mock supermarket, and using a voice-changing machine. (6) The video concludes with the two boys walking outside the building, holding hands with their mother, looking tired with messy hair.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic pop music starts immediately and continues throughout the video. (2) A male voice provides a clear, energetic narration in Mandarin, describing the location and its features. (3) Frequent sound effects are layered over the music: bubble popping sounds, whooshing noises for transitions, and the sound of a slide. (4) In the final seconds, the music volume drops, and a female voice is heard asking a question, followed by the high-pitched voice of a child answering 'Fun' (Hao wan).",
+      "text_narrative_log": "(1) Decorative Hook: 'Osaka Parent-Child Travel' and 'Indoor Playground Japan' in large, bold white characters. (2) Functional Information: 'Subway Ogimachi Station Exit 2', 'Japan's largest children's museum', '5 floors in total', and ticket price details. (3) Descriptive Labels: 'Visual & Tactile Experience', 'Power Facilities', 'Drawing Creation', 'Physical Facilities', 'Nature/Science/Culture/Career', 'Indoor Facilities', 'Career Experience', 'Voice Changer', and 'Photo Animation'. (4) Interactive Hook: 'Good to play?' (Hao wan ma?) and 'Fun' (Hao wan) appear as colored captions at the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.45,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Essential Visitor Info -> Detailed Activity Showcase -> Emotional Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 12,
+      "maleDetectAmount": 8,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 7,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 adult female (mom), 2 young boys (main characters), several other children and adults visible in the background of the museum exhibits.",
+      "mainCharacterDescription": "The main woman wears a beige trench coat over a tracksuit; the two young boys wear matching brown and cream fleece vests with blue jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Museum",
+          "Playground",
+          "Children's Center"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A multi-story indoor facility with colorful walls, interactive science exhibits, a mock TV studio, a supermarket area, and large wooden structures for climbing.",
+      "lightingStyle": "Bright studio lighting and natural light from large windows.",
+      "weather": "Clear",
+      "season": "Spring",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "Japanese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "TV Camera",
+        "Microphone",
+        "Automated Ticket Machine",
+        "Monitor"
+      ],
+      "landmark": [
+        "Kids Plaza Osaka"
+      ],
+      "brandLogos": [
+        "SHARP",
+        "Adidas"
+      ],
+      "instrumentsVisible": [
+        "Taiko Drum",
+        "Gong"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with synced SFX",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and helpful",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine",
+        "Taiko Drum"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Bubble pop",
+        "Whoosh",
+        "Slide sound"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Logic Flow -> Activity Demo -> Emotional CTA",
+      "mainPurpose": "The video serves as a travel recommendation and guide for parents visiting Osaka, Japan. It highlights 'Kids Plaza Osaka' as an ideal, comprehensive indoor activity center for children, emphasizing its educational value through play and its practicality as a destination regardless of weather conditions.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed information about transport, pricing, and specific facilities suggest a travel destination recommendation.",
+      "endorsementObject": [
+        "Kids Plaza Osaka"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density text overlays with variety-show style sound effects and a 'learn through play' (wan zhong xue) theme.",
+      "freeDescribe": "The video effectively uses fast-paced editing and comprehensive coverage of the museum's floors to create a sense of 'high value' for families looking for travel itineraries."
+    }
+  }
+}

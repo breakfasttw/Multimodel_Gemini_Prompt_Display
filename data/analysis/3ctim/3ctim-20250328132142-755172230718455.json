@@ -1,0 +1,173 @@
+{
+  "videoName": "3ctim-20250328132142-755172230718455.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 49,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Vlog",
+        "Interview",
+        "Career Story"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a live-action recording of a man driving a car. He wears a checkered flat cap, glasses, and a red polo shirt. He is speaking animatedly while gesturing with his hands. (2) As he drives through an urban environment, variety-show style text overlays and dog stickers appear on the screen. (3) The man continues his story, looking between the road and the off-camera interviewer, maintaining an expressive facial expression.",
+      "audio_narrative_log": "(1) A male voice (onscreen) speaks with high energy and an enthusiastic tone. An upbeat, medium-tempo electronic background track is playing. (2) A second male voice (offscreen) is heard asking questions, creating a conversational interview style. (3) The sound of the car engine and muffled outside traffic noise provide a consistent ambient layer throughout the dialogue.",
+      "text_narrative_log": "(1) Decorative/Hook Text: '你難道50歲！你還要站在旁邊盯場嗎？' (Don't tell me you're 50! Do you still want to be standing on the sidelines monitoring the site?) - provocative and dramatic tone. (2) Functional Text: '老闆！你說你以前是做活動公司的...為什麼現在會變成 YouTuber' (Boss! You said you used to run an event company... why did you become a YouTuber?) - informative and curious tone. (3) Functional Text: '幫品牌公司做贈品' (Doing giveaways/gifts for brand companies) - explanatory tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 4.08,
+      "isNarrativeShift": false,
+      "mainActionFlow": "The video follows a constant talking-head flow inside a moving car, structured as an interview Q&A."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Upper body",
+        "Hands",
+        "Head"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator is visible in the driver's seat.",
+      "mainCharacterDescription": "A middle-aged man wearing glasses, a checkered brown flat cap, and a red polo shirt with a visible logo."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Car"
+        ],
+        "topography": [
+          "Urban"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The interior of a modern car with a view of city buildings and streets through the side window.",
+      "lightingStyle": "Natural daylight from outside the car windows.",
+      "weather": "Overcast",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Car Console"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Roots"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and humorous",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Traffic",
+        "Car Engine"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Question -> Reflection -> Insight",
+      "mainPurpose": "The video aims to share a pivotal moment in the creator's career journey. By recounting a blunt comment from a client about his age and role, the creator explains the motivation behind his transition from traditional event planning to becoming a content creator/YouTuber.",
+      "visualEmotion": "Energetic and Reflective"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video focuses on personal career storytelling rather than promoting a specific product.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of shiba inu stickers and '3c有意思Tim哥' watermark branding.",
+      "freeDescribe": "Typical 'car-talk' vlog format which creates a sense of intimacy and authenticity with the audience."
+    }
+  }
+}

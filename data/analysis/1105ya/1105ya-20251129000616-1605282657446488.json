@@ -1,0 +1,178 @@
+{
+  "videoName": "1105ya-20251129000616-1605282657446488.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 53,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tech Review",
+        "Product Showcase"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long brown hair, wearing a white off-the-shoulder furry sweater and black denim shorts, dances on a city street at night with yellow ginkgo leaves on the ground. (2) Transition to the woman sitting on a white bed in a brightly lit indoor room, holding a grey smartphone and speaking directly to the camera with cheerful expressions. (3) Digital overlays show a phone interface with 'Nano Banana' text; an AI-generated image appears showing the woman in a black halter dress on a red carpet. (4) Another interface for 'Veo3' appears, showing a generated video of the woman in the same black dress walking on a red carpet and waving to a crowd of photographers. (5) A flat lay of clothing items (white sweater, black top, blue jeans) on a bed is shown with a digital scanning box moving over them. (6) The woman appears in a final outfit (white sweater, blue jeans, white boots) standing on a modern spiral staircase, posing for the camera. (7) Returns to the woman on the bed, smiling and gesturing while talking.",
+      "audio_narrative_log": "(1) High-energy electronic pop music starts with repetitive vocal chops ('e-a-e-a') and a strong rhythmic beat. (2) A young woman's voice enters, speaking Mandarin in a high-pitched, enthusiastic, and friendly tone. (3) The background music continues at a lower volume as the woman narrates her experience. (4) A synthetic male voice (AI assistant) speaks briefly in a calm, helpful tone. (5) Occasional UI sound effects (dings and camera shutters) punctuate the transitions. (6) The music remains consistent until the end where it fades out with a final brand chime.",
+      "text_narrative_log": "(1) Functional Text: '使用 Galaxy S25 Ultra 拍攝' (Shot with Galaxy S25 Ultra) appearing at the top right. (2) Hook Text: '當你一個人在韓國跳舞' (When you are dancing in Korea alone) in white bold letters. (3) Functional Text: Traditional Chinese subtitles translate the spoken dialogue throughout the video. (4) Technical Labels: 'Nano Banana', 'Veo3', and 'Gemini Live' identifying specific AI features. (5) Hook Text: '我也想要體驗一下走紅毯是什麼感覺' (I also want to experience what it feels like to walk the red carpet). (6) Decorative Text: '有過沒？' (Have you?) and 'SAMSUNG' logo at the very end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.9,
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video flows from an outdoor lifestyle hook to an indoor tech demonstration and ends with a final call to action."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Waist up",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator is visible throughout; background photographers in the AI generation are simulated.",
+      "mainCharacterDescription": "A young Asian woman with long brown hair, wearing a white off-the-shoulder furry top and black shorts initially, then blue jeans later."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Indoor Bedroom",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Night street with city lights and autumn leaves; a clean hotel-style bedroom with white linens; a modern indoor spiral staircase.",
+      "lightingStyle": "Mixed: Ambient street lighting at night and soft indoor studio/lifestyle lighting.",
+      "weather": "Clear night",
+      "season": "Autumn",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and Warm",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "SAMSUNG"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade and Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and high-pitched (female); calm and steady (male AI)",
+        "pitch": "High (female); Medium-low (male)",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Camera Shutter",
+        "UI Notification"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature Demo 1 (Image AI) -> Feature Demo 2 (Video AI) -> Feature Demo 3 (Style AI) -> Outro",
+      "mainPurpose": "The video serves as a promotional endorsement for the Samsung Galaxy S series, specifically highlighting its advanced AI features like Gemini image/video generation and outfit coordination to appeal to lifestyle-oriented Gen-Z users.",
+      "visualEmotion": "Energetic and Aspirational"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct mention of the device model, demonstration of brand-specific software features, and final brand logo display.",
+      "endorsementObject": [
+        "Samsung Galaxy S25 Ultra"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of AI-generated avatars of the creator and high-tempo beat-matching edits.",
+      "freeDescribe": "The video effectively blends travel vlog aesthetics with a technical product review, leveraging the 'influencer' persona to make AI technology feel accessible and fun."
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "videoName": "yga0721-20251114085028-2645943862435142.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 64,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Advertisement"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts in an office setting. A woman with a ponytail and a black-and-white striped sweater is crying at her desk, with cartoon blue tear stickers on her face. A man in a white t-shirt approaches her and starts talking animatedly. (2) A transition occurs to a humorous scene where the man, now wearing a red head guard, interacts with a large cardboard wall being held up. Another man in a red sweatshirt is visible behind the wall. The woman appears wearing red boxing gloves. (3) The man in the white t-shirt is back in the office, holding up two small purple packs of Tempo tissues to the camera, gesturing excitedly. He then demonstrates wiping his face with a tissue. (4) Close-up shots follow, showing the packaging of different products: 'Tempo Protect Mini' wet wipes and 'Tempo Moist Flushable Tissue' with a cat illustration. (5) A demonstration scene shows a piece of moist toilet paper being tossed into a toilet bowl and flushed away. (6) The video returns to the man and woman in the office. He gives her several packs of the products while continuing to talk and joke with her as she smiles.",
+      "audio_narrative_log": "(1) The audio begins with the sound of a woman crying loudly, followed by a man's energetic and slightly mocking voice in Mandarin. (2) Upbeat, fast-paced background music starts and continues throughout the video. (3) Sound effects of 'thudding' occur when the cardboard is hit, accompanied by loud shouting and laughter from multiple people. (4) The man's voice dominates as a narrator/presenter, speaking in a high-pitched, enthusiastic 'sales' tone to describe product features. (5) A clear sound of a toilet flushing is heard mid-video. (6) The audio concludes with playful banter between the man and woman over the fading background music.",
+      "text_narrative_log": "(1) Functional Text: '怎樣啦 又出包' (What's wrong? Messed up again). (2) Functional Text: '對不起~' (Sorry~). (3) Hook Text: '打中間 打中間' (Hit the middle, hit the middle). (4) Functional Text: '腳本還有AB版484' (Is there an AB version of the script?). (5) Decorative/Hook Text: 'Tempo迷你紙手帕 不用再擔心出包啦' (Tempo mini paper handkerchief, no need to worry about messing up anymore - Tone: Encouraging). (6) Hook Text: 'Tempo迷你口袋系列 超方便輕巧好攜帶' (Tempo mini pocket series, super convenient and portable - Tone: Informative). (7) Functional Text: '還有4層厚實設計 就算遇濕也不容易破' (4-layer thick design, doesn't break easily even when wet). (8) Hook Text: 'Tempo迷你口袋系列 抗菌倍護濕紙巾' (Antibacterial protective wet wipes). (9) Functional Text: '不含酒精 還給你99%的保護力' (Alcohol-free, 99% protection). (10) Hook Text: 'Tempo濕式衛生紙 遇水可分解' (Moist toilet paper, water decomposable). (11) Decorative Text: '直接沖到馬桶也沒問題!!' (No problem flushing directly into the toilet!! - Tone: Confident)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro skit -> Product demonstration and feature highlights -> Closing interaction."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 1 main female actress, 1 supporting male in a red sweater.",
+      "mainCharacterDescription": "The main male wears a white t-shirt and blue jeans, appearing energetic. The main female wears a striped sweater and blue jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Office",
+          "Bathroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "An office with computer monitors, figurines, and storage cabinets. A clean white bathroom for the toilet demonstration.",
+      "lightingStyle": "Bright studio lights",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Cat (on packaging)"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Computer Monitor",
+        "Keyboard",
+        "Mouse"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Tempo"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut between skit and demo, cross-fade for music.",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Loud, excited, humorous",
+        "pitch": "Normal to high",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Toilet flush",
+        "Impact sound"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage -> Hook -> Demo -> CTA",
+      "mainPurpose": "This video is a commercial endorsement for Tempo brand mini-tissue and wet wipe products. It uses a comedic 'problem-solution' narrative where characters face messy or emotional situations in an office and skit setting, positioning the portable Tempo products as the convenient solution for cleaning up and maintaining hygiene.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The entire second half of the video is dedicated to explaining the features, variety, and benefits of Tempo products with clear brand visibility.",
+      "endorsementObject": [
+        "Tempo"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-talking comedic delivery typical of Taiwanese variety influencers.",
+      "freeDescribe": "The video blends personal vlog style with high-production advertising elements, using 'outtakes' or 'skits' to maintain viewer engagement before transitioning into a direct product pitch."
+    }
+  }
+}

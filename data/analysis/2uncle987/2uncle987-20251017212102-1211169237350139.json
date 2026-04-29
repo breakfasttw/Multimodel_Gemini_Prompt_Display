@@ -1,0 +1,181 @@
+{
+  "videoName": "2uncle987-20251017212102-1211169237350139.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 30,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Family",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a woman in a pink t-shirt and blue cap pushing a child in a stroller through a covered pedestrian walkway. (2) The scene transitions to the woman in a black-and-white striped shirt pushing the stroller in a city street and then in a mall hallway. (3) A role reversal occurs: the young boy, wearing a black cap and striped shirt, begins pushing the woman who is now sitting in the stroller. She looks surprised and starts laughing. (4) A montage follows showing the boy pushing the woman in various urban settings, including past a 7-Eleven. (5) In one shot, the woman is wearing a brown dress, taking a selfie with her phone while being pushed. (6) The final scenes show them on a sidewalk, with the woman holding a drink and giving a thumbs-up while the boy continues to push her with great effort.",
+      "audio_narrative_log": "(1) Upbeat, whimsical, and fast-paced electronic background music begins immediately. A woman's high-pitched, energetic voice provides narration in Mandarin. (2) The sound of the woman's laughter and occasional exclamations from the boy are heard over the music. The rolling sound of stroller wheels on hard pavement is periodically audible. (3) The vocal density remains high as the woman continues to speak excitedly about the experience. (4) Subtle ambient city noises like distant traffic and muffled background chatter can be heard during pauses in the narration. The music stays consistent in tempo until the end.",
+      "text_narrative_log": "(1) Functional Text: '推了7年的推車...' (Pushing the stroller for 7 years...). Tone: Nostalgic. (2) Decorative Text: '兒子竟然說要推我' (My son actually said he wants to push me). Tone: Surprised and amused. (3) Hook Text: '一人推一個位' (One person pushes one seat). Tone: Humorous. (4) Decorative Text: '調皮的波波' (Mischievous Bobo). Tone: Affectionate. (5) Functional Text: '這是什麼好康的服務' (What kind of good service is this?). Tone: Playful. (6) Decorative Text: '波爺衝刺' (Master Bo sprints). Tone: Energetic. (7) Functional Text: '推去撞牆' (Push towards the wall). Tone: Alarmed but joking. (8) Decorative Text: '孝子！長大了！' (Filial son! Grown up!). Tone: Proud."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 2.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro (Mom pushing) -> Transition (Son taking over) -> Montage (Son pushing Mom in various locations)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main woman creator, 1 son, and approximately 6 passers-by visible in the background across different scenes.",
+      "mainCharacterDescription": "The woman wears various outfits: a pink lounge set, a black-and-white striped t-shirt with white overalls, and a brown midi dress. The boy wears a blue t-shirt then a black-and-white striped t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Indoor Mall",
+          "Urban Walkway"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern urban environments with Japanese signage, including a shopping mall interior, a red-carpeted indoor area, and city sidewalks near a 7-Eleven and ACCEA store.",
+      "lightingStyle": "Natural daylight and bright indoor studio-style lighting.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Follow shot",
+        "POV",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Beverage"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Nike",
+        "7-Eleven",
+        "無印良品",
+        "ACCEA"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "High-pitched",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Laughter",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "Street",
+        "Cafe"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Narrative Shift -> Evidence -> Outro",
+      "mainPurpose": "The video is a lifestyle and family vlog intended to entertain through a humorous role reversal. It documents a moment during a trip where a son takes over pushing his own stroller while his mother sits in it. The objective is to showcase the son's growth and the playful, close relationship between parent and child while traveling in Japan.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No specific product is promoted as a primary focus; brands in the background are incidental to the travel location.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-speed Mandarin narration with variety-show style text graphics and role-reversal humor.",
+      "freeDescribe": "The contrast between the child's small size and the effort to push an adult in a stroller creates high engagement and a 'cute' factor for social media."
+    }
+  }
+}

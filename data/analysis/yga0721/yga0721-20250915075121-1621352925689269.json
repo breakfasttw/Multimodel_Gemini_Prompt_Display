@@ -1,0 +1,177 @@
+{
+  "videoName": "yga0721-20250915075121-1621352925689269.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 93,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Talk Show",
+        "Trivia",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man with brown hair, wearing a white oversized t-shirt and silver-white headphones, sits in a studio and speaks into a professional microphone while holding a script. The studio background has colorful illustrations and collectibles. (2) Transition to a close-up of a Taiwanese Unified Invoice (lottery receipt) where a specific character in the URL is circled in red to show a typo. (3) A woman in a denim jacket is seen reacting on a sofa. (4) The man holds up large poker cards (King of Hearts) to demonstrate a second trivia fact about the missing mustache.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat background music starts. A male voice speaks enthusiastically in Mandarin with high-pitched emphasis. (2) Sounds of a crowd cheering and laughing are heard as the first trivia point is made. (3) A female voice reacts with surprise and interest. (4) The music continues at a consistent tempo as the man explains the second fact, ending with a celebratory sound effect.",
+      "text_narrative_log": "(1) 我們傳統的統一發票 (Functional: Traditional Unified Invoice). (2) 小維 (Decorative: Name of the person/segment). (3) 統一發票為了防止作弊 每期會有一兩個不一樣的錯字 (Hook: Unified invoices have 1-2 typos to prevent fraud). (4) Do you know? (Hook). (5) 完整影片請上 蔡阿嘎543頻道收看 (Functional: CTA to watch full video on Tsai Aga 543 channel)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 5.16,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Trivia Fact 1 (Invoice) -> Reaction -> Trivia Fact 2 (Poker Card) -> Outro CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Upper body",
+        "Full body",
+        "Hands"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male creator (host), 1 female guest/co-host reacting on the sofa.",
+      "mainCharacterDescription": "Male, brown hair, wearing a loose-fitting white t-shirt and white over-ear professional studio headphones."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A studio setting with white brick wallpaper, shelves containing various colorful toys (Gundam, figurines), and large posters. A brown sofa is visible in the guest area.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and Saturated",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "Headphones",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, humorous, and high-energy",
+        "pitch": "Medium-high",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Crowd Applause",
+        "Cartoon SFX",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence 1 -> Reaction -> Evidence 2 -> CTA",
+      "mainPurpose": "To entertain and educate the audience with 'cold' trivia facts regarding common items (Taiwanese receipts and poker cards), using a lively variety-show format to encourage viewers to watch more content on the creator's main channel.",
+      "visualEmotion": "Energetic and Playful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video focuses on general trivia rather than promoting a specific brand or commercial service.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density traditional Chinese captions with variety-style graphics and high-pitched vocal interjections.",
+      "freeDescribe": "The video is highly localized to Taiwan due to the discussion of the Unified Invoice system."
+    }
+  }
+}

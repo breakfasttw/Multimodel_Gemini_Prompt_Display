@@ -1,0 +1,178 @@
+{
+  "videoName": "3ctim-20250913145554-1275542388047758.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 46,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a live-action hands-on review. It starts with a side-profile view of an extremely thin silver smartphone held by a hand. (2) The hand rotates the device to reveal the back, showing a single large camera lens and a reflective logo. The scene shifts through four different color versions: Sky Blue, Cloud White, Pale Gold, and Space Black. Each is shown from various angles, focusing on the camera module, the buttons on the side, and the overall thinness. (3) The camera zooms in on the 'Space Black' version, showing its dual-lens configuration and glossy finish near the lens area. The phone is then turned to show the screen displaying a wallpaper with layered curves.",
+      "audio_narrative_log": "(1) Upbeat, mid-tempo electronic music begins immediately. A male voice speaks enthusiastically in Mandarin, introducing the 'iPhone Air' and its four colors. (2) As the visuals transition between phone colors, the narration continues, describing the metallic finish and physical dimensions. The sound of a busy environment with distant muffled chatter and camera shutters is audible in the background. (3) The narrator's voice remains dominant and clear as he summarizes the screen size and thickness measurements towards the end of the clip.",
+      "text_narrative_log": "(1) Top-left corner persistent text: 'f 3c有意思tim哥' and '@3ctim'. (2) Functional subtitles appear at the bottom: '這次一共由四款顏色' (This time there are four colors in total), '天藍色' (Sky Blue), '雲白色' (Cloud White), '淺金色' (Pale Gold), '太空黑色' (Space Black). (3) Decorative/Hook text: 'iPhone Air 全色系上手!' (iPhone Air All Colors Hands-on!), '鈦金屬 亮面邊框' (Titanium glossy frame), '機身 5.6mm' (Body 5.6mm), '螢幕是 6.5 吋大小' (Screen is 6.5 inches)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Multi-color Product Showcase -> Specification Summary"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 12,
+      "maleDetectAmount": 8,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Full body",
+        "Partial face in reflection"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main reviewer (hands and reflection), approximately 11 other people visible in the background at the event venue.",
+      "mainCharacterDescription": "The main character (reviewer) is wearing a white collared shirt and an orange watch band; primarily their hands are shown holding the device."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Event Space"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A bright, modern indoor event space with high ceilings, circular recessed lights, and many people holding cameras and phones.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation, Cinematic",
+      "cameraWork": [
+        "POV",
+        "Close-up",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Camera",
+        "Microphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Steady and professional",
+        "pitch": "Medium",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd",
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Product Feature Carousel -> Specification Outro",
+      "mainPurpose": "The video serves as a product demonstration and review for a new (or concept) smartphone model dubbed the 'iPhone Air'. It aims to highlight the device's aesthetic appeal through various color options and its key physical selling point: extreme thinness (5.6mm). It functions to build hype and inform tech-savvy viewers of the new design direction.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator focuses exclusively on the product, providing detailed specs and naming the brand and model repeatedly.",
+      "endorsementObject": [
+        "iPhone Air",
+        "Apple"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Mandarin narration by 'Tim哥', a well-known tech influencer, with specific graphic overlays and social media handles.",
+      "freeDescribe": "The video uses beat-synced editing where cuts between different phone colors align with the music. The 'iPhone Air' name suggests this is either a conceptual piece or early access to a new product line, which increases its virality potential within tech communities."
+    }
+  }
+}

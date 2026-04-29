@@ -1,0 +1,173 @@
+{
+  "videoName": "cocowine0205-20250216054206-1533304761520515.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 28,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Food Vlog",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with two females sitting in an indoor setting; the female on the right holds a green grape and talks with an expressive face. (2) The scene cuts to a supermarket display of Shine Muscat grapes with price tags indicating '359' and brand 'Don Don Donki'. (3) The duo returns to the screen, holding grapes next to their thumbs to compare size, then they both eat the grapes, nodding and gesturing to indicate the texture and sweetness. (4) Close-up shots of the grapes on a plate are shown while they continue to describe the taste through expressions.",
+      "audio_narrative_log": "(1) An upbeat, medium-tempo electronic background music starts. A high-pitched, enthusiastic female voice begins narrating immediately. (2) The narration remains continuous and energetic throughout the video, with no significant ambient noise from the supermarket scene. (3) Subtle chewing sounds occur when they eat, but the primary focus remains on the enthusiastic vocal delivery and the consistent BGM.",
+      "text_narrative_log": "(1) '價格非常劃算的' (Very cost-effective price) - Functional/Hook. (2) '唐吉訶德 359元 麝香葡萄' (Don Quijote 359 NTD Muscat Grapes) - Functional information. (3) '它每一個都比大拇哥還要大' (Each one is bigger than a thumb) - Descriptive hook. (4) '軟軟的' (Soft), '完全不會澀' (Not astringent at all), '非常的多汁 juicy' (Very juicy) - Emotional/descriptive captions. (5) '果香' (Fruit fragrance), '高級香味' (Premium scent) - Comparative descriptions."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 2.33,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Product Evidence (Store shot) -> Tasting & Review -> Comparison"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators sitting together.",
+      "mainCharacterDescription": "A female with a pink beret and a blue ruffled sweater (right) and a female with long dark hair and a white cardigan (left)."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Supermarket"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern indoor room with soft lighting and a store shelf filled with packaged grapes in yellow mesh.",
+      "lightingStyle": "Bright, even indoor lighting.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm and Vibrant",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Shine Muscat Grapes"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "唐吉訶德"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Price/Availability -> Taste Test -> Comparison Conclusion",
+      "mainPurpose": "The video aims to influence consumer behavior by showcasing the affordability and high quality of Shine Muscat grapes available at Don Don Donki. It uses size comparisons, sensory descriptions, and enthusiastic reactions to validate the product's value proposition.",
+      "visualEmotion": "Energetic and Savoring"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed mention of price point and specific retailer (Don Don Donki) combined with a highly positive review.",
+      "endorsementObject": [
+        "唐吉訶德 (Don Don Donki)"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy reaction shots and thumbs-up size comparisons.",
+      "freeDescribe": "The video utilizes 'variety-show' style editing with colorful, oversized text to emphasize key selling points like 'Juicy' and 'Price'."
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "videoName": "khshu_-20251015200153-893083680125065.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 28,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Life Hack",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in a black apron and white top stands in a kitchen, gesturing towards an overlay clip of a Japanese TV show. (2) She holds up a clear plastic bag, initially misidentifying it, then laughs and corrects herself while a caption about 'daily stupidity' appears. (3) She demonstrates rubbing her hands vigorously with the plastic bag. (4) A split-screen visual comparison shows her hands appearing shiny/oily at the top and matte/clean at the bottom. (5) She extends her hand toward the lens, and another person's hand enters from off-camera to touch her palm.",
+      "audio_narrative_log": "(1) A high-pitched, energetic female voice speaks Chinese over a bouncy, upbeat BGM. (2) Sound effects including a 'ding' and short cartoonish slide occur when text pops up. (3) The speaker laughs, and the BGM continues at a steady, playful tempo. (4) In the final segment, a brief male voice is heard off-camera responding to her request to touch her hand, followed by a playful musical flourish.",
+      "text_narrative_log": "(1) Functional Text: 'What to do if hands are oily?', 'Let's test it out', 'Can plastic bags really remove oil?'. (2) Decorative Text: 'Daily stupidity achievement (1/1)', 'Experimenting... please wait', 'Wow, there is (an effect)', 'Sounds a bit \"Mo Tang\" (wrong/weird)'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Failed take/Correction -> Demo -> Results -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main female creator, 1 male hand appearing at the end",
+      "mainCharacterDescription": "A young Asian woman with dark hair tied back, wearing a white halter-neck top under a black apron."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern home kitchen with white cabinetry, a black oven/microwave, a stainless steel sink, and a silver refrigerator with magnets.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with sound effects",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Playful",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Cartoon SFX",
+        "Laughter"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Error/Correction -> Demonstration -> Result -> Verification",
+      "mainPurpose": "The video serves as an entertaining life-hack tutorial where the creator verifies a cleaning method seen on a Japanese TV show. By demonstrating how a plastic bag can remove oil from skin, the content aims to provide practical value through a humorous, relatable vlog format.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Self-deprecating humor captions, quick-cut editing style, interactive ending with off-camera crew.",
+      "freeDescribe": "The video relies heavily on the 'Variety Show' editing style common in Asian social media, using large font overlays to highlight emotional beats and mistakes for comedic effect."
+    }
+  }
+}

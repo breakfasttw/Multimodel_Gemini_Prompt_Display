@@ -1,0 +1,172 @@
+{
+  "videoName": "khshu_-20250621142559-1234398781980407.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 8,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman wearing a blue and yellow birthday crown sits behind three cakes; two candles forming the number '18' are lit. She has a joyful expression and clasps her hands as if making a wish. (2) She blows out the candles, and the '1' in '18' instantly flips to a '3', changing her age to '34'. (3) Her expression shifts to exaggerated shock and distress; she begins a frantic, comedic dance as variety-show style stickers like orange exclamation marks and blue tear drops appear around her face.",
+      "audio_narrative_log": "(1) High-energy electronic pop music starts with a fast tempo. (2) A sharp transition occurs where a male voice shouts 'Green light!' followed by a synthesized 'Oh!' sound effect as the visual shift happens. (3) The music continues into an energetic vocal section with lyrics 'Run fast for your mother and fast for your father...' while the woman reacts. No environmental ambient noise is detectable over the studio-produced track.",
+      "text_narrative_log": "(1) '18' (Functional Text: represents the initial age of the character). (2) 'Green light' (Decorative Text: variety-show style caption appearing during the transition). (3) '34' (Functional Text: represents the revealed actual age). (4) '( ! )' and crying-eye symbols (Decorative Text: emotional stickers emphasizing the character's distress)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro celebration -> Twist reveal -> Energetic reaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main character in the center of the frame",
+      "mainCharacterDescription": "A young woman with dark braided hair wearing a white athletic tank top and a blue birthday crown."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A yellow wall decorated with large gold-patterned 'HAPPY BIRTHDAY' balloons, floral balloons, yellow bunting, a large plush teddy bear, and a plush tiger.",
+      "lightingStyle": "Bright studio lights",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Plush Tiger",
+        "Plush Bear"
+      ],
+      "foodsDetect": [
+        "Cake",
+        "Fruit Cake"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "adidas"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and loud",
+        "pitch": "Medium",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Electronic transition"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Narrative Twist -> Emotional Peak",
+      "mainPurpose": "To entertain through a comedic subversion of expectations regarding age. The video uses the 'birthday wish' setup to humorously reveal the contrast between a character's desired youth (18) and their reality (34), utilizing fast-paced editing and synchronized music to drive the comedic energy.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Exaggerated facial expressions, variety-show style text effects",
+      "freeDescribe": "The video utilizes a popular viral video format where a visual change triggers an energetic dance reaction, likely intended for short-form social media platforms like TikTok or Reels."
+    }
+  }
+}

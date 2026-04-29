@@ -1,0 +1,182 @@
+{
+  "videoName": "cocowine0205-20260101203507-923956366853573.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 74,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Food Tasting"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A female creator stands in a Costco warehouse, holding a pink Godiva x Labubu chocolate gift box. She points at the box and gestures excitedly towards the camera. (2) Close-up shots of the price tag ($899 TWD) and the purchase limit sign (Limit 2 units per card). (3) The scene shifts to an indoor room where the creator and a female friend are seated at a table. They unbox the three colorful tins (white, brown, pink) and display the collectible cards and individual chocolate wraps. (4) They hold up star-shaped and shell-shaped chocolates, showing the cross-sections of the fillings before eating them and expressing delight through wide eyes and thumbs-up gestures.",
+      "audio_narrative_log": "(1) An energetic female voice begins speaking quickly over upbeat, mid-tempo pop background music. The voice sounds excited and enthusiastic. (2) As the scene transitions to the unboxing, two female voices are heard interacting, one describing the price comparison with 7-11 while the other agrees. (3) Sound effects like 'ding' or sparkles are heard when highlighting specific features of the product. (4) The audio concludes with a final recommendation in a high-pitched, friendly tone as the music fades out.",
+      "text_narrative_log": "(1) Functional Text: '我的天啊 好市多 竟然進這個之前' (My god, Costco actually got this before...), '味道竟然...?' (The taste is actually...?), 'Godiva & Labubu 聯名巧克力' (Godiva & Labubu co-branded chocolate). (2) Decorative/Hook Text: '強強聯手' (Strong collaboration), '每卡限購兩組' (Limit 2 sets per card) in a bold red font. (3) Functional Text: Descriptions of chocolate types like '紅莓巧克力' (Raspberry chocolate) and '黑巧克力' (Dark chocolate) appear as they are tasted."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Discovery at Costco -> Price Analysis -> Indoor Unboxing -> Flavor Tasting -> Verdict"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main creator in the Costco scenes, joined by a second female during the tasting phase.",
+      "mainCharacterDescription": "The main creator has long dark hair and wears a grey off-the-shoulder top with a checkered skirt. The second female wears a tan top and a white bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Indoor Room"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The first half is shot in a Costco warehouse with stacks of pink gift boxes and high shelves. The second half is in a domestic indoor setting with a clean table and household items in the background.",
+      "lightingStyle": "Bright indoor lighting and natural window light.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Chocolate"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco",
+        "Godiva",
+        "Labubu",
+        "Pop Mart"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop sounds",
+        "Sparkle SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Information -> Experience -> Conclusion",
+      "mainPurpose": "The video serves as a shopping guide and product review for the Godiva x Labubu chocolate set exclusive to Costco. It highlights the significant price advantage at Costco compared to 7-11 and provides a detailed sensory evaluation of the flavors to encourage viewers to purchase before it sells out.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed unboxing, positive tasting experience, and clear pricing information suggesting a recommendation.",
+      "endorsementObject": [
+        "Costco",
+        "Godiva",
+        "Labubu"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy 'My god' opening and variety-show style text graphics.",
+      "freeDescribe": "The content is highly optimized for short-form video platforms with fast cuts and beat-synced editing."
+    }
+  }
+}

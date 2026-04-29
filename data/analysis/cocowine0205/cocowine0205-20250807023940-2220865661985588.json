@@ -1,0 +1,175 @@
+{
+  "videoName": "cocowine0205-20250807023940-2220865661985588.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 55,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts in a Costco warehouse; a woman wearing a black beret and a white ruffled dress excitedly picks up a pink box of Vilson strawberry yogurt snacks from a shelf. (2) The scene transitions to an indoor setting where the woman from the first scene and another woman with long dark hair and a zebra-print hat are sitting at a table. (3) They open the pink box, pour pink dinosaur-shaped snacks onto a house-shaped tray, and then pick them up to show the camera. (4) Both women taste the snacks, displaying exaggerated facial expressions of enjoyment, including widening eyes and nodding, while holding the snacks close to the lens for detail.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop-style background music starts immediately with energetic female vocals speaking in Mandarin. (2) Ambient noise from the warehouse is briefly audible in the first few seconds before the music dominates. (3) The sound of a plastic bag being opened and snacks hitting a ceramic plate is heard. (4) The two women engage in a fast-paced, high-pitched dialogue, expressing excitement and describing the taste of the snacks over the continuous upbeat BGM.",
+      "text_narrative_log": "(1) 'COSTCO WHOLESALE' and '399元 值得嗎？' (Is 399 NTD worth it?) appear at the top. (2) '草莓優格恐龍' (Strawberry Yogurt Dinosaur) appears in a yellow bubble. (3) '酸酸甜甜好滋味' (Sweet and sour good taste) appears with emotional stickers. (4) '冷凍的乾燥優格' (Freeze-dried yogurt) and '恐龍咬咬優格' (Dinosaur Bite Yogurt) are used as descriptive titles. (5) '五倍濃縮' (Five times concentrated) appears near the end to emphasize product quality."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at retail store -> Product unboxing and tasting at home -> Review summary."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female presenters; some blurred shoppers in the background at Costco are not counted as main subjects.",
+      "mainCharacterDescription": "One woman has a black beret, white ruffled dress, and brown hair; the second woman has long dark hair and a black and white zebra-pattern bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Costco Store",
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene shows tall warehouse shelving packed with pink boxes; second scene is a modern apartment interior with a brown leather sofa and plush toys.",
+      "lightingStyle": "Bright studio lighting and retail fluorescent lighting.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Strawberry Yogurt Snacks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "Vilson 米森"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Warehouse hum"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Experience -> Evaluation",
+      "mainPurpose": "The video aims to promote and review a specific 'dinosaur-shaped freeze-dried strawberry yogurt' snack found at Costco. It uses an enthusiastic 'shopping find' hook followed by a detailed tasting session to convince viewers of the product's novelty and flavor value.",
+      "visualEmotion": "Energetic and cheerful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The video focuses entirely on the Vilson product, showing packaging, pricing, and a detailed tasting review.",
+      "endorsementObject": [
+        "Vilson 米森"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy variety-show style editing with colorful floating text.",
+      "freeDescribe": "The content is optimized for short-form social media engagement, prioritizing visual cuteness (dinosaur shapes) and price-point curiosity."
+    }
+  }
+}

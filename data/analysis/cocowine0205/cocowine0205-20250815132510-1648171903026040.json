@@ -1,0 +1,181 @@
+{
+  "videoName": "cocowine0205-20250815132510-1648171903026040.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 55,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Review",
+        "Lifestyle"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a woman standing in a Costco warehouse aisle, wearing a black-and-white patterned bucket hat and a white dress, holding a green juice bottle. (2) Chronological cuts show close-ups of the product on the shelves, specifically 'Natural Benefits Pear & Avocado Smoothie,' and the price tag. (3) The scene transitions to an indoor home setting where the same woman and another woman in a beret are sitting at a table with the juice and a large bottle of yogurt. They demonstrate mixing the two liquids and drink from glasses with wide straws.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic background music starts immediately with a high-pitched, excited female voice speaking Mandarin. Ambient warehouse noise is faintly heard. (2) Frequent 'ding' and 'pop' sound effects emphasize key points in the speech. (3) The vocal track continues with two female voices interacting in a friendly tone as they describe the drink recipe. Sound of liquid pouring is audible.",
+      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese. Decorative Text: 'COSTCO WHOLESALE' logo at the top; '終於補貨' (Finally restocked) and '爆紅果汁是炸馬桶神器' (Viral juice is a toilet-exploding hack) in bright colors. (2) Functional: '$195' price tag. (3) Decorative/Hook: '炸馬桶神器' (Toilet hack), '非常順' (Very smooth), and '1:1 完美搭配' (1:1 perfect pairing) used to emphasize the digestive benefits."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.9,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Store discovery -> Product close-up -> Home demonstration and review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Torso",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, 1 female passer-by, and 1 male figure blurred in the background of the warehouse.",
+      "mainCharacterDescription": "One woman wears a patterned bucket hat and a white off-the-shoulder dress; the other wears a black beret and a purple top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse",
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Costco warehouse shelves stocked with various food items; a home kitchen counter with a plush toy in the background.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Handheld",
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Avocado Pear Juice",
+        "Yogurt"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "Natural Benefits",
+        "AB"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and persuasive",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Store noise"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Location Context -> Application -> Testimonial",
+      "mainPurpose": "To promote a specific 'digestive hack' by mixing Costco's pear and avocado juice with yogurt, positioning it as a highly effective solution for constipation through a high-energy personal review.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed product demonstration, price information, and specific brand visibility (COSTCO, AB Yogurt).",
+      "endorsementObject": [
+        "COSTCO",
+        "Natural Benefits",
+        "AB"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing with colorful, variety-show style text graphics.",
+      "freeDescribe": "The video follows a standard 'Costco find' format popular on social media platforms like TikTok or Instagram Reels, utilizing high-contrast visuals and exaggerated speech to maintain viewer attention."
+    }
+  }
+}

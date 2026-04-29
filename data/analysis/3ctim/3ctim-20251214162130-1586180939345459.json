@@ -1,0 +1,181 @@
+{
+  "videoName": "3ctim-20251214162130-1586180939345459.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 79,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Product Review",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a female presenter in a white sweater sitting on a couch, holding a grey heated pad; she smiles and gestures. (2) She holds up a green, rectangular magnetic device, demonstrating how it splits into two separate hand warmers. Close-ups show the brand 'igrass' and the internal heating surface with light indicators. (3) She then unfolds a large white fleece shawl, putting it over her shoulders and later lying down on the sofa with it. A sequence shows her working at a computer while wearing the shawl. (4) She demonstrates a grey heated compress pad, wrapping it around her waist and showing how it can be used for the legs and feet. (5) The final scene shows the presenter with a digitally added traditional Chinese headpiece against a snowy background, holding the compress pad while gesturing towards a 'buy here' link.",
+      "audio_narrative_log": "(1) A high-pitched, energetic female voice begins speaking immediately over upbeat, mid-tempo background music. (2) As the products are demonstrated, the music continues at a steady pace, interspersed with occasional 'ping' or 'pop' sound effects synchronized with on-screen text appearances. (3) The female speaker's tone remains friendly and persuasive, maintaining a fast speech rate. (4) The audio concludes with a final enthusiastic call to action as the music swells slightly and fades out.",
+      "text_narrative_log": "(1) Functional Text: Subtitles translate the presenter's speech throughout the video. (2) Decorative/Hook Text: Large captions appear such as '我現在全身在發熱' (I'm feeling warm all over) with hearts, '寒流來了這3樣東西你一定要準備' (The cold wave is coming, you must prepare these 3 things), and '磁吸可分離暖手器' (Magnetic Separable Hand Warmer) with a thumbs-up icon. (3) Product Specs: Technical details like '三段溫控 45/55/60度' (Three-stage temp control) and '大約4-6小時' (Approx 4-6 hours) are displayed during product demos. (4) CTA Text: '3cTim x Oli 嚴選' and '這裡買 www.3ctim.com' appear at the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 26,
+      "averageSceneDuration": 3.03,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Product 1 Demo -> Product 2 Demo -> Product 3 Demo -> Conclusion/CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female presenter appears throughout all scenes.",
+      "mainCharacterDescription": "A young female with long dark hair, wearing a white button-up sweater and grey denim jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room",
+          "Office",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern indoor setting featuring a beige sofa, grey walls, a desk with a computer, and neutral-colored curtains.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Indoor (Simulated cold weather theme)",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Corgi plush toy"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Desktop Computer",
+        "Power Bank",
+        "Hand Warmer"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "igrass",
+        "3c有意思Tim哥"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and persuasive",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop-up SFX",
+        "Digital ping"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Problem (Cold) -> Solution (3 Products) -> Product Details -> Call to Action.",
+      "mainPurpose": "The video serves as a commercial endorsement to promote and sell three specific winter warming electronic products (hand warmer, shawl, and compress pad) by demonstrating their convenience, features, and various use cases for home and office environments.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed product demonstrations, on-screen purchase links, and '3cTim x Oli 嚴選' branding.",
+      "endorsementObject": [
+        "igrass",
+        "3c有意思Tim哥"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High text density, fast-paced variety-show editing style, and '3cTim' branding.",
+      "freeDescribe": "The video targets young adults and office workers looking for solutions to stay warm during winter, using a relatable 'vlog' style combined with direct sales tactics."
+    }
+  }
+}

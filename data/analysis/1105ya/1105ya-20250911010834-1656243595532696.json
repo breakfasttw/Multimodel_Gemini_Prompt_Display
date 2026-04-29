@@ -1,0 +1,170 @@
+{
+  "videoName": "1105ya-20250911010834-1656243595532696.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 9,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Live Performance",
+        "Music"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts on a large stage where a male performer in all-white attire is dancing and singing with several female backup dancers in white fringe outfits. A large LED screen in the background displays monochromatic, high-contrast imagery. (2) A female performer with blonde hair, wearing a black leather jacket and black shorts, moves to the center of the stage to perform alongside the male lead. (3) The camera maintains a steady, low-angle position from the audience perspective, with the hands and mobile phones of other audience members visible in the foreground, capturing the performance's dynamic lighting and choreography.",
+      "audio_narrative_log": "(1) High-energy electronic pop music with a driving beat and heavy bass begins immediately. (2) A female vocal enters, rapping and singing with an aggressive, high-pitched, and excited tone. (3) Background noise consists of muffled crowd cheering and whistling, characteristic of a live concert recording environment.",
+      "text_narrative_log": "(1) None"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 9.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Live concert performance capture from the audience."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 7,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male lead singer, 1 female lead singer, and 6 female backup dancers are visible on stage.",
+      "mainCharacterDescription": "The male performer is wearing a white tank top and white trousers. The female guest performer has blonde hair and is wearing a black leather jacket over a dark outfit."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Concert Stage"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A massive stage set with a high-definition LED backdrop showing abstract or cinematic black-and-white visuals. The floor is flat and illuminated by overhead spotlights.",
+      "lightingStyle": "Intense studio/stage lighting with flashing pink and white colors.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "POV",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Unknown"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Electronic Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Action -> Climax",
+      "mainPurpose": "To showcase a high-energy highlight from a live musical performance, emphasizing the synergy between the two lead performers and the scale of the production to engage fans and social media viewers.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Concert POV recording with audience interaction visible.",
+      "freeDescribe": "The video captures the 'fan experience' of a concert, characterized by the low-angle perspective and the presence of other mobile devices in the frame."
+    }
+  }
+}

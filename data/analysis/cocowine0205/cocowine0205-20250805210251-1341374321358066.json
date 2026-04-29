@@ -1,0 +1,192 @@
+{
+  "videoName": "cocowine0205-20250805210251-1341374321358066.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Shopping Guide",
+        "Promotion"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a colorful title card featuring a cartoon character and the Costco Wholesale logo against a background of plush toys. (2) A rapid sequence of shots follows, each focusing on different products on Costco store shelves, ranging from household goods (Kleenex) to pantry staples (Milk powder, Oreo, Rice crackers) and fresh produce/meats (Pork, Apples). (3) The shots are mostly static, centered on the packaging of the items, transitioning quickly every 2 seconds. (4) The final sequence shows alcoholic beverages and household chemicals before ending abruptly.",
+      "audio_narrative_log": "(1) A high-energy, fast-paced male voice starts by shouting the video title and a call to action. (2) Upbeat, high-BPM electronic background music plays continuously. (3) The male narrator maintains a rapid-fire delivery throughout the video, reading the brand name, product name, and the specific discount/price for every single item shown on screen. (4) Very low-level ambient store noise is occasionally audible underneath the music and narration.",
+      "text_narrative_log": "(1) Title Screen: 'COSTCO WHOLESALE 每週特價速報 07/21 - 07/27 記得追蹤我們' (Weekly Special Report, Remember to follow us). (2) Product Text (repeated for each item): 'Brand Name', 'Product Name', 'Original Price', 'Discount Amount', 'Special Price'. (3) All text is in Traditional Chinese with a variety-show bold style and bright colors (Yellow/Red)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Rapid-fire product list montage"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 0,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 0,
+      "bodyPartVisibility": [
+        "None"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "No people are clearly visible; only products on shelves are shown.",
+      "mainCharacterDescription": "None"
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Costco Warehouse",
+          "Indoor Retail"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Various aisles of a Costco warehouse, showing metal shelving units filled with bulk products, refrigerated meat sections, and produce bins.",
+      "lightingStyle": "Intense studio-style warehouse lighting",
+      "weather": "Indoor",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Milk powder",
+        "Pork",
+        "Apples",
+        "Cake",
+        "Bread",
+        "Noodles",
+        "Ice cream",
+        "Bibimbap"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Kleenex",
+        "KLIM",
+        "OREO",
+        "Popcorners",
+        "Quaker",
+        "Myprotein",
+        "Pringles",
+        "Kinder",
+        "I-Mei",
+        "Crown",
+        "Nescafe",
+        "Starbucks",
+        "Persil",
+        "Budweiser"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Extremely fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Information List -> Outro",
+      "mainPurpose": "To provide a rapid-fire information guide on weekly discounts at Costco Taiwan, encouraging viewers to visit the store and follow the creator for more deals.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed pricing and discount information provided for a single retailer.",
+      "endorsementObject": [
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Rapid-fire pricing narration style, high-density text overlays with price reduction math.",
+      "freeDescribe": "The video uses extreme pacing to pack over 40 products into less than 90 seconds, targeting 'bargain hunters' who want quick information."
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "videoName": "cocowine0205-20250401180504-1251618960509935.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 27,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Unboxing",
+        "Shopping Haul"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a female creator holding a receipt in front of a colorful Ojamajo Doremi-themed backdrop. She is wearing a pink beret and a white apron. (2) She gestures towards her apron, which features various cartoon characters. (3) She moves to a kitchen setting, wearing pink oven mitts and pulling a tray out of a Smeg oven. (4) A close-up shot shows the creator's feet wearing green slippers designed with a character's face. (5) She holds up two character-themed laundry bags in front of a brown leather sofa. (6) She demonstrates a pink drawstring pouch, opening it to show the interior lining. (7) She presents two character coasters in plastic packaging. (8) She waves goodbye to the camera while smiling.",
+      "audio_narrative_log": "(1) High-energy female vocals begin immediately with an upbeat, fast-paced electronic background track. (2) As she presents each item, the vocal intensity remains high, describing the products and their prices in Mandarin. (3) Distinctive sound effects like 'dings' and 'sparkle' noises occur simultaneously with the visual appearance of price text on screen. (4) The music maintains a constant tempo and volume throughout the showcase. (5) The video concludes with a friendly farewell vocal tone as the music fades out.",
+      "text_narrative_log": "(1) Functional Text: '小魔女doremi 購物開箱!' (Ojamajo Doremi Shopping Unboxing!) - Enthusiastic hook. (2) Functional Text: '魔女圍裙 $850' (Witch Apron $850) - Price identification. (3) Functional Text: '魔女隔熱手套 $390' (Witch Heat Insulation Gloves $390) - Price identification. (4) Functional Text: '魔女莉卡拖鞋 $500' (Majorika Slippers $500) - Price identification. (5) Functional Text: '小花 旋律轉換器洗衣袋 $299' (Hana-chan Melody Converter Laundry Bag $299) - Price identification. (6) Functional Text: '魔女束口袋 $290' (Witch Drawstring Pouch $290) - Price identification. (7) Functional Text: '隨機大頭杯墊 $220' (Random Head Coaster $220) - Price identification. (8) Decorative Text: '雙面圖案!' (Double-sided pattern!) - Feature highlight. (9) Functional Text: '更多影片記得關注我們哦' (Follow us for more videos) - Call to action."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 2.45,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Multi-item product showcase with price reveals -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Feet only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator appearing throughout the video.",
+      "mainCharacterDescription": "Young female with dark hair, wearing a pink beret, white off-shoulder striped shirt, and a white decorative apron."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Features a cartoon character backdrop, a kitchen with a Smeg oven, and a living room area with a brown leather sofa and wooden blinds.",
+      "lightingStyle": "Bright, even indoor lighting.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Oven"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "SMEG",
+        "KANGOL",
+        "Ojamajo Doremi"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Sparkle SFX"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> List-based Item Showcase -> CTA",
+      "mainPurpose": "The video serves as a shopping haul and product review to showcase specific 'Ojamajo Doremi' themed merchandise. It aims to inform viewers of current product availability and pricing while leveraging the creator's enthusiastic personality to drive engagement among fans of the anime series.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed pricing information and brand-specific merchandise showcase.",
+      "endorsementObject": [
+        "Ojamajo Doremi"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-pitched energetic greeting, rapid price-reveal editing, anime-themed styling.",
+      "freeDescribe": "The video follows a standard 'K-style' or Taiwanese influencer short-form format, characterized by high-density text overlays and rapid-fire presentation."
+    }
+  }
+}

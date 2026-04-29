@@ -1,0 +1,179 @@
+{
+  "videoName": "3ctim-20251124100008-3871038986359432.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 98.0,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Review",
+        "Product Showcase"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing a grey cap and glasses sits in a car, gesturing to the camera to introduce the Jowua brand. (2) The scene transitions to multiple close-ups of a clear iPhone case with a white MagSafe ring, followed by a demonstration of its transparency and lens protection frame. (3) A black matte version of the case with a built-in metal ring stand is shown; hands demonstrate opening the stand to prop the phone up at various angles. (4) The video showcases a car phone mount with cooling fins and a magnetic attachment, followed by a back-seat headrest MagSafe hook used to hold a phone for passengers. (5) The man returns to the driver's seat to conclude the presentation.",
+      "audio_narrative_log": "(1) A friendly and high-pitched male voice speaking Mandarin dominates the audio track, maintaining an enthusiastic tone throughout. (2) An upbeat, mid-tempo electronic pop track serves as background music, providing a rhythmic base for the narration. (3) Distinct mechanical sound effects are audible, including the 'click' of the metal stand opening and the 'snap' of the phone magnetically attaching to the car mount. (4) Very low-level ambient street noise is occasionally audible through the car windows.",
+      "text_narrative_log": "(1) Functional Traditional Chinese subtitles translate the speaker's dialogue throughout the video. (2) Decorative hook text like '身為電動車車主' (As an EV owner) and '#閃亮登場' (Shining debut) appears in large fonts to grab attention. (3) Product names and features are listed, such as 'iPhone 16 pro MagSafe保護殼' and '#註冊享4年超長保固' (Register for 4-year warranty) with an informative tone. (4) Concluding text features a promotional call to action: '#iPhone 13-15 老客戶限定' (For iPhone 13-15 old customers only)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 38,
+      "averageSceneDuration": 2.57,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Product Feature Demonstration -> Car Integration Demo -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "One main male influencer appears throughout; hands are shown in close-up product demos.",
+      "mainCharacterDescription": "A middle-aged man wearing a grey beret-style cap, round glasses, a white printed t-shirt, and a wooden bead bracelet."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Car"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The interior of a modern car featuring black leather seats, a dashboard, and a view through the windshield showing a city street with rainy conditions in some shots.",
+      "lightingStyle": "Natural daylight from outside the car windows",
+      "weather": "Rainy",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Macro"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Car Phone Mount",
+        "MagSafe Charger"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Jowua",
+        "Apple"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and enthusiastic",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Magnetic snap",
+        "Plastic click"
+      ],
+      "ambientNoise": [
+        "Car interior",
+        "Rain"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature Iteration -> Use-case Demo -> CTA",
+      "mainPurpose": "This video serves as a comprehensive commercial endorsement for the brand Jowua, specifically showcasing their line of iPhone 16 MagSafe accessories designed with EV owners in mind. The narrator uses a professional yet accessible reviewer persona to detail specific product benefits like non-yellowing materials, multi-functional stands, and cooling-capable car mounts, ending with a specific promotional offer to drive sales.",
+      "visualEmotion": "Energetic and Professional"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct verbal and textual promotion of the brand Jowua, detailed demonstration of product features, and a clear discount offer for specific customers.",
+      "endorsementObject": [
+        "Jowua"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3C Tim's signature energetic hosting style and the '3C有意思' logo on screen.",
+      "freeDescribe": "The video effectively targets a niche audience (EV owners/iPhone users) by demonstrating high-tech car integrations that complement both the vehicle and the device."
+    }
+  }
+}

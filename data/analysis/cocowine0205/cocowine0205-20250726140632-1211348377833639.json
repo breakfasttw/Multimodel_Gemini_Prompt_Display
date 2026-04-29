@@ -1,0 +1,190 @@
+{
+  "videoName": "cocowine0205-20250726140632-1211348377833639.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 74,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taoyuan"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts outdoors where a woman in a pink cardigan and white skirt plays with two small white dogs on a paved path surrounded by greenery. (2) It transitions to a luxurious, white dome-shaped tent interior where two women relax on cloud-like plush sofas with a dog. (3) A series of quick cuts shows transportation in a white golf cart, a spacious room with two large beds, a miniature dog tent, and a clean, modern white bathroom. (4) The characters are shown engaging in various activities: playing with dogs in the grass, using an arcade machine, sitting at a poker table, playing darts, and singing karaoke. (5) A food-focused section features a buffet spread, large plates of raw meat, lobster, an automated ramen cooking machine, and a bartender mixing cocktails. (6) The sequence concludes with scenes of a dog sleeping in a bed, a breakfast buffet, a woman floating a breakfast tray in a pool, and drone-style shots of the multiple white domes on a hillside.",
+      "audio_narrative_log": "(1) Energetic and upbeat pop music with a consistent rhythmic beat plays throughout. A male narrator begins speaking in an enthusiastic, fast, and professional tone. (2) As various facilities are shown, the narrator's voice is layered with sound effects like 'ding' sounds for highlights and 'pop' sounds for transitions. (3) Occasional female voices are heard laughing or exclaiming 'Yeah!' and 'I like it!' in high-pitched, excited tones during activities like the golf cart ride or the bathroom reveal. (4) The audio maintains a high density of speech and music, ending with the narrator's call to action as the music stays upbeat.",
+      "text_narrative_log": "(1) Hook text: 'Is every dog so happy coming here to play?' and 'I really don't want to go home!' in colorful, variety-show style fonts. (2) Functional text/subtitles: 'Private shuttle,' 'Huge room space,' 'Super clean bathroom,' and 'Princess-style camping.' (3) Food descriptions: 'BBQ and Hotpot,' 'Big Lobster,' and 'Steak.' (4) Value-driven text: 'Minimum under 3000 NTD per person' and 'Eat, Stay, and Play included.' (5) Closing text: 'Jungle Start (叢林開始)' identifying the location."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 48,
+      "averageSceneDuration": 1.54,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Facility Tour -> Activity Montage -> Food/Dining Showcase -> Price/Location reveal"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "Two main female creators/travelers, one male bartender shown briefly.",
+      "mainCharacterDescription": "One woman with long dark hair in a pink top/white skirt; another woman often wearing a black and white polka dot outfit and a grey bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Glamping Site",
+          "Indoor Room",
+          "Restaurant",
+          "Outdoor Lawn"
+        ],
+        "topography": [
+          "Hill",
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "White geodesic dome tents, lush green hills with communication towers in the distance, a blue swimming pool, and brightly lit interiors with modern, cozy furniture.",
+      "lightingStyle": "Natural daylight outdoors, bright studio-style lighting and warm ambient lighting indoors.",
+      "weather": "Cloudy",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, high saturation, energetic",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Follow shot",
+        "Panning"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Dog"
+      ],
+      "foodsDetect": [
+        "Lobster",
+        "Steak",
+        "Ramen",
+        "Cocktails",
+        "Hotpot",
+        "Bread",
+        "Salad"
+      ],
+      "trafficDetect": [
+        "Golf cart"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Arcade Game machine",
+        "Karaoke machine"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "叢林開始",
+        "LAZO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with beat-sync",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic, marketing-oriented, cheerful",
+        "pitch": "Moderate (Male narrator), High (Female exclamations)",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Pop",
+        "Game sounds"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Value Proposition -> Feature Evidence -> Call to Action",
+      "mainPurpose": "This video serves as a comprehensive promotional review for 'Jungle Start' (叢林開始), a glamping site in Taoyuan. It targets pet owners and young adults looking for a 'princess-style' luxury experience, emphasizing the all-inclusive nature (food, stay, play) and competitive pricing.",
+      "visualEmotion": "Energetic, Fun, Luxurious"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct mention of the brand name, specific pricing details, and a comprehensive tour of all services provided by the venue.",
+      "endorsementObject": [
+        "叢林開始"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-frequency variety show text overlays and fast-paced male narration synchronized with beat-cuts.",
+      "freeDescribe": "The video successfully combines pet-friendly appeal with high-end glamping facilities to create a strong desire for the lifestyle shown."
+    }
+  }
+}

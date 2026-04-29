@@ -1,0 +1,176 @@
+{
+  "videoName": "yga0721-20250919052315-1824174681513645.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 87,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Storytelling",
+        "Interview"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is live-action. A male creator (Cai A-ga) in a grey striped shirt and a female creator (Er-shao) in a pink hoodie are seated at a white table, talking intensely. (2) Cut to a dark CCTV-style recording showing several figures entering a hallway and approaching a door. (3) The scene shifts back to the studio where two other men (one in white, one in black) have joined the conversation at the table. Cai A-ga uses hand gestures to describe a sequence of events. (4) The group continues to recount a story, their facial expressions shifting between disbelief, mockery, and laughter as they imitate voices and actions.",
+      "audio_narrative_log": "(1) A male voice starts by describing a lawyer ringing a doorbell. The tone is descriptive and steady. (2) Sound effects of a doorbell ringing three times are heard, followed by the mechanical sound of a lock being picked and a door opening ('Beep beep beep'). (3) The soundscape shifts to a multi-person conversation. A female voice imitates someone making excuses, followed by a male voice questioning her. The background music is a light, rhythmic beat that stays consistent in volume. (4) Laughter and overlapping dialogue occur as the group reacts to the story being told. Ambient noise is minimal, suggesting a studio recording.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles throughout the video translating the spoken dialogue. (2) Decorative/Hook Text: A yellow header at the top reads '第二次強制執行經過' (The process of the second mandatory execution). (3) Decorative/Effect Text: Various captions appear for emphasis, such as '(鎖匠開始破門)' (Locksmith starts breaking the door), '不知到' (Don't know), and '機場買的' (Bought at the airport) in a variety-show style to highlight key humorous or absurd points in the narrative."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.07,
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video follows a conversational flow where the hosts describe a past event, using occasional flashback footage and sound effects to punctuate the story."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 7,
+      "maleDetectAmount": 5,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 4,
+      "bodyPartVisibility": [
+        "Hands",
+        "Face",
+        "Upper body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "4 main creators sitting at a table; approximately 3 people visible in the dark CCTV flashback footage.",
+      "mainCharacterDescription": "A male with dyed brown hair in a grey striped long-sleeved shirt; a female with long black hair in a pink zip-up hoodie; a male with dark curly hair in a white sweater; a male with short hair in a black long-sleeved shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Indoor Apartment"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The primary setting is a clean, bright indoor studio with beige walls and minimalist furniture. The secondary setting is a dimly lit apartment hallway shown via CCTV.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Medium shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 3,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Conversational and humorous",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese",
+          "Taiwanese Hokkien"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 110,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Doorbell",
+        "Drilling",
+        "Beeping",
+        "Cartoon SFX"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Talk Show Discussion -> Flashback B-roll -> Reaction/Analysis",
+      "mainPurpose": "The video serves as an entertaining storytelling session where the creators recount a dramatic and somewhat absurd legal enforcement experience. They mock the excuses made by an individual involved, using humor to engage their audience and reveal the details of a controversial event.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced subtitle editing, multi-host talk format, signature variety-show style text callouts common to the creator Cai A-ga.",
+      "freeDescribe": "The video is a segment from a longer vlog or podcast series, focusing on a specific legal dispute (the 'Lin Peizhen' incident) that was a major topic for the creator's channel at the time."
+    }
+  }
+}

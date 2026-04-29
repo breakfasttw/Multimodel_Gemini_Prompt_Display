@@ -1,0 +1,180 @@
+{
+  "videoName": "cocowine0205-20250806145528-1714735933221730.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 60,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping Review",
+        "Food Tasting"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The scene begins inside a large warehouse-style store. A woman with long dark hair, wearing a tan bucket hat and a white puffy-sleeved top, is standing in front of stacks of cherry boxes. She picks up a clear plastic container of dark red cherries, looking at it with a surprised facial expression. (2) Close-up shots of several cherry containers and price tags are shown. The woman points to different boxes of cherries, including one with yellow-red Rainier cherries. She continues to hold the dark cherry container while smiling and looking towards the camera. (3) The setting shifts to an indoor room with a couch and shelf in the background. Two women are seated at a table with a glass bowl of cherries and a plastic container. They both pick up cherries, bring them close to the camera to show the size and skin, and then eat them. One woman holds a small cherry pit in her palm to demonstrate the meat-to-pit ratio. (4) The women continue talking to the camera, gesturing with the cherries, and taking bites, maintaining happy and satisfied expressions.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music plays throughout. An energetic female voice speaks in an excited, high-pitched tone, expressing disbelief and excitement. (2) Ambient store noise is faintly audible behind the dominant vocals and music. Sound effects like 'dings' and 'pops' occur when specific prices are mentioned or when there is a transition. (3) As the scene changes to the indoor tasting, the vocal environment remains energetic as two female voices interact, describing the flavor and texture of the fruit. (4) Subtle chewing and crunching sounds are heard when the women bite into the cherries. The music remains consistent until the end of the clip.",
+      "text_narrative_log": "(1) Decorative Hook Text: '發生什麼事' (What happened?), '太扯了吧' (Too ridiculous), '便宜到嚇到' (Scared by how cheap it is). (2) Functional Text: 'COSTCO WHOLESALE' logo is displayed at the top. Price tags show '$ 349' and '$ 559'. (3) Decorative/Effect Text: '超便宜櫻桃' (Super cheap cherries), '還是很難吃?' (Or does it taste bad?), '甜酸甜的口感' (Sweet and sour taste). (4) Functional Subtitles: Continuous Traditional Chinese subtitles translate the spoken dialogue regarding price, cherry varieties, and taste characteristics."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video flows from a shopping discovery at a warehouse store to an indoor taste-test review."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, 1 male shopper in the background, 1 female shopper in background",
+      "mainCharacterDescription": "One woman wears a tan bucket hat and white top; the other wears a white dress with a pearl necklace."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The store background features large metal shelving, boxes of produce, and other shoppers. The indoor background shows a sofa, a white shelving unit with toys, and soft home lighting.",
+      "lightingStyle": "Bright indoor lighting and store fluorescent lights",
+      "weather": "Indoor",
+      "season": "Summer (implied by cherry season)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and Saturated",
+      "cameraWork": [
+        "Handheld",
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Cherries"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "Northwest Cherries",
+        "Nature's Candy"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and enthusiastic",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Pop",
+        "Cartoon SFX"
+      ],
+      "ambientNoise": [
+        "Store quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Discovery -> Verification -> Evaluation -> Recommendation",
+      "mainPurpose": "The video serves as a shopping recommendation and product review, specifically highlighting a high-value deal on cherries at Costco. It uses emotional 'shock' at the low price as a hook to engage viewers, then validates the quality through a physical taste test to encourage purchase behavior.",
+      "visualEmotion": "Energetic and Surprised"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed price and quality review of products from a specific retailer (Costco).",
+      "endorsementObject": [
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy variety-show style text overlays and enthusiastic delivery typical of lifestyle influencers.",
+      "freeDescribe": "The contrast between the 'luxury' perception of cherries and the 'budget' price found at the store is the key driver of the content's engagement."
+    }
+  }
+}

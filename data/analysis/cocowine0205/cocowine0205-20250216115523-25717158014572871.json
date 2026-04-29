@@ -1,0 +1,182 @@
+{
+  "videoName": "cocowine0205-20250216115523-25717158014572871.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 75,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Food Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts at a Costco warehouse where a woman is holding a container of mini donuts, pointing to a price tag showing $259. There are large animated donut graphics on the screen. (2) The scene transitions to an indoor setting where two women are sitting at a table with the donuts. They open the container and pull a donut apart to reveal a chocolate-hazelnut filling. (3) They take bites, nodding and gesturing enthusiastically. (4) Close-up shots show the donuts being pan-fried on a stovetop until the exterior is caramelized. (5) A man is then shown eating the fried donut alongside a breakfast plate of eggs and sausages.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced background music begins immediately. A high-pitched, excited female voice describes finding the last box of the 'trending' donuts at Costco despite it being early in the morning. (2) As the scene shifts to the tasting, two female voices engage in a lively discussion about the 'cloud-like' and 'soft' texture, comparing it to the Krispy Kreme brand. (3) A sizzling sound effect (SFX) is heard during the cooking montage. (4) A male voice enters at the end, providing a first-person review of the pan-fried version, describing the crispy texture like 'toasted mantou'.",
+      "text_narrative_log": "(1) Functional Text: '話題新品 迷你榛果可可甜甜圈 怎麼變成這樣' (New trending product: Mini Hazelnut Cocoa Donut, how did it become like this?). (2) Decorative Hook: '最後一盒 好扯哦' (The last box, so crazy/unbelievable). (3) Functional Text: '16入259元' (16 pieces for 259 NTD). (4) Descriptive Text: '口感非常的好 是很綿很輕柔' (The texture is very good, very dense and gentle). (5) Decorative Text: '榛果可可的醬' (Hazelnut cocoa sauce) with arrows pointing to the filling. (6) Functional Text: '煎甜甜圈' (Fried donuts)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Purchase discovery -> In-depth taste test -> Creative cooking tutorial -> Final verdict."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face close-up",
+        "Hands only",
+        "Torso"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "Two main female reviewers on screen; one male reviewer appearing from the chest down at the end.",
+      "mainCharacterDescription": "One woman with long black hair wearing a black mesh top. Another woman wearing a blue Kangol beret and a white sweater."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Indoor Kitchen/Dining"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The first scene is a brightly lit Costco bakery section with metal racks. The second is a home interior with a marble-patterned dining table and warm, soft lighting.",
+      "lightingStyle": "Mixed (Bright fluorescent in store, warm domestic lighting in studio)",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and Saturated",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Donuts",
+        "Sausage",
+        "Fried Eggs",
+        "Chocolate Sauce"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Kirkland Signature",
+        "Kangol"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, enthusiastic, and conversational",
+        "pitch": "Medium-High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Sizzling",
+        "Whoosh",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Warehouse hum"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Taste Review -> Cooking Hack -> Final Recommendation",
+      "mainPurpose": "To provide a positive review of a specific Costco bakery product (Mini Hazelnut & Cocoa Beignets) and demonstrate a 'hack' for eating them pan-fried to enhance the texture.",
+      "visualEmotion": "Cheerful and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed showing of product packaging, price, store location, and high praise for the flavor.",
+      "endorsementObject": [
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy duo review style with descriptive food metaphors.",
+      "freeDescribe": "The video utilizes popular 'Costco find' tropes to engage viewers interested in grocery shopping and budget-friendly desserts."
+    }
+  }
+}

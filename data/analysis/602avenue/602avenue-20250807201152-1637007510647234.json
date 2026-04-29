@@ -1,0 +1,187 @@
+{
+  "videoName": "602avenue-20250807201152-1637007510647234.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 53,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a live-action vlog. It opens with a young woman with long brown hair, wearing a blue Adidas jacket, smiling and waving at the camera in a crowded stadium. (2) Chronological montage shows the interior of the Taipei Dome, the woman cheering in the stands, and the large stadium screen displaying the girl group ITZY. (3) The woman is shown in close-up eating and drinking: first Lipton Peach Oolong Tea, then Kadina chips, followed by a protein shake, and finally BHC fried chicken and cheese balls. She displays facial expressions of deep satisfaction. (4) The visual transitions to wide shots of the baseball field and the crowd erupting in cheers as the home team scores. (5) Cuts show ITZY performing live on the field and their image on the big screen. (6) The final phase shows the woman in a bedroom setting, wearing a cat-ear headband, drinking water and looking exhausted but content.",
+      "audio_narrative_log": "(1) The video begins with an upbeat, high-tempo K-pop track ('Not Shy' by ITZY) that remains the dominant audio layer throughout. (2) Faint ambient noise of a large crowd cheering and a stadium announcer's muffled voice is layered under the music. (3) No direct dialogue from the creator is audible; the soundscape is a mix of the continuous BGM and occasional stadium SFX (clapping, horns). (4) The audio transitions between stadium acoustics and a slightly quieter, studio-like clarity for the music track. (5) In the final seconds, the ambient noise fades, leaving only the music and the sound of drinking water.",
+      "text_narrative_log": "(1) 'POV: 韓國人第一次去大巨蛋看賽' - Hook text introducing the theme. (2) '今天人生第一次去大巨蛋' - Functional text setting the scene. (3) '其實原本為了看 ITZY 去의' - Decorative text explaining motivation. (4) '（對於棒球無知）' - Humorous hook text about the creator. (5) '原來台灣這樣應援喔' - Functional observation on local culture. (6) '最期待吃東西', 'BHC 炸雞來了' - Decorative text highlighting the food focus. (7) '一直狂打安打中', '直接逆轉贏球' - Functional subtitles describing the game's climax. (8) '最後 ITZY 的表演' - Hook text introducing the performance. (9) '好像來了演唱會', '好幸福唷' - Emotional stickers reflecting the mood. (10) '看賽唯一的缺點會有後遺症' - Final hook concluding the video."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 38,
+      "averageSceneDuration": 1.39,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at stadium -> Food montage -> Game climax -> ITZY performance -> Outro at home."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 50,
+      "maleDetectAmount": 20,
+      "femaleDetectAmount": 30,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Waist up",
+        "Hands only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main female creator, 5 members of ITZY on field/screen, dozens of spectators in the background.",
+      "mainCharacterDescription": "A young Korean woman with long wavy brown hair, wearing a white t-shirt under a blue Adidas track jacket, and a beige crossbody bag."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Stadium",
+          "Bedroom"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A massive modern indoor baseball stadium (Taipei Dome) with yellow-clad fans, large LED screens, and a green field; transitions to a dimly lit bedroom with a bed and a wall clock at the end.",
+      "lightingStyle": "Intense stadium lights, followed by warm indoor home lighting.",
+      "weather": "Indoor",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "POV",
+        "Handheld",
+        "Quick cuts"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Fried Chicken",
+        "Cheese Balls",
+        "Chips",
+        "Tea"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "LED Screen"
+      ],
+      "landmark": [
+        "Taipei Dome"
+      ],
+      "brandLogos": [
+        "Adidas",
+        "Lipton",
+        "Kadina",
+        "BHC",
+        "CTBC Brothers"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "K-pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd cheering",
+        "Stadium atmosphere"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Experience Journey -> Climax -> Result.",
+      "mainPurpose": "The video aims to document a 'first-time' experience of a Korean woman attending a baseball game in Taiwan. It highlights the cultural novelty of the Taipei Dome, the specific joy of 'ballpark food' (specifically fried chicken and snacks), and the excitement of a live K-pop performance (ITZY) integrated into the sports event. The ultimate goal is lifestyle sharing and travel recommendation through an energetic and relatable lens.",
+      "visualEmotion": "Energetic, Joyful, Satisfied"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed close-ups of specific food brands (BHC, Lipton, Kadina) while eating them with visible enjoyment.",
+      "endorsementObject": [
+        "BHC炸雞",
+        "Lipton",
+        "Kadina"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density text overlays with mixed Korean-Taiwanese context; rapid-fire eating montage synced to K-pop music.",
+      "freeDescribe": "The video effectively utilizes the 'foreigner's perspective' trope to create engagement with Taiwanese viewers while cross-promoting K-pop culture and specific food brands."
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "videoName": "alephant_0427-20260122023728-1935261010716382.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 24,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Skit"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman wearing a black dress and beret walks down a restroom aisle and enters a stall. (2) She closes the door and begins banging on it rhythmically from the inside, visible through the door gap, as a cinematic logo parody '21th PRODUCT MIG' appears as an overlay. (3) She looks toward the camera with an excited expression and performs hand gestures mimicking trumpet players in synchronization with the music, eventually smiling and laughing.",
+      "audio_narrative_log": "(1) Footsteps echo on a hard floor followed by the mechanical sound of a door latch closing. (2) A rhythmic banging sound occurs, immediately followed by the start of a loud, triumphant brass-heavy cinematic fanfare. (3) The music continues at a steady volume while faint female laughter is heard toward the end of the clip.",
+      "text_narrative_log": "(1) Decorative Text: '21th PRODUCT MIG' written in a golden, three-dimensional architectural font styled after the 20th Century Fox movie intro, conveying a humorous and grand cinematic tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 24.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Setup -> Rhythmic Banging -> Parody Performance"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main character performing the skit",
+      "mainCharacterDescription": "A young woman with light-colored braided hair wearing a black beret, a black mesh long-sleeved top, and a black layered mesh skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Public Restroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A public restroom with rows of brown wooden stall doors and white/beige tiled walls and floors.",
+      "lightingStyle": "Bright, cool overhead lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and lighthearted",
+        "pitch": "Medium",
+        "loudness": "Low",
+        "speed": "Normal",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Cinematic Fanfare",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Brass",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Trumpet",
+        "Snare Drum"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Door Banging",
+        "Latch Sound"
+      ],
+      "ambientNoise": [
+        "Restroom Reverb"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Action -> Climax",
+      "mainPurpose": "The video is a comedic short designed for social media engagement. It utilizes a parody of a famous cinematic introduction to create a humorous contrast between the 'epic' music and the mundane, slightly unglamorous setting of a public toilet stall. The character's enthusiastic performance aims to entertain through absurdity and 'main character energy'.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Parody of 20th Century Fox logo with customized name",
+      "freeDescribe": "The video relies on cross-modal synchronization where visual actions (banging the door and mimicking trumpets) are timed perfectly to the audio track."
+    }
+  }
+}

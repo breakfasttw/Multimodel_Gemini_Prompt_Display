@@ -1,0 +1,182 @@
+{
+  "videoName": "khshu_-20251001031945-691922590574482.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 57,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tutorial",
+        "Cooking"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a young woman in a denim overall dress taking a bite of a yogurt cake and smiling, holding a plate of the dessert toward the camera. (2) She begins a step-by-step tutorial: opening a yogurt container, mixing it with mascarpone and honey in a glass bowl. (3) She introduces Kellogg's granola bags, pouring the granola into the mixture and stirring it with a black spatula. (4) The mixture is poured into a rectangular mold, leveled, and placed into a refrigerator. (5) Three hours later, she removes the mold, cuts the frozen mixture into blocks, and arranges them in a bowl with additional granola toppings. (6) She tastes the final product with an extremely satisfied expression, accompanied by heart and sparkle animations. (7) The video shifts to a product review style where she showcases four different flavors of the granola bags on a counter. (8) She demonstrates the ingredients (cornflakes, grain balls, dried fruit) on her palm and eats the granola directly from the bag. (9) The video ends with her holding three bags of granola, posing energetically.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop music begins immediately as the woman speaks in a high-pitched, enthusiastic Mandarin tone. (2) Sound effects like a 'pop' are heard when she opens the yogurt and 'shimmer' sounds accompany the appearance of text. (3) During the cooking montage, the music remains consistent while the sounds of mixing and container handling are audible. (4) A male voice-over enters in the second half of the video, providing a more formal, promotional narration about the product benefits (sugar reduction) while the female creator reacts visually. (5) The audio finishes with the woman's final upbeat call to action over the fading music.",
+      "text_narrative_log": "(1) '教大家來做 餐廳等級的甜點' (Teaching everyone to make restaurant-level desserts) - Hook text. (2) '步驟一' to '步驟八' (Steps 1 to 8) - Functional labels for the recipe process. (3) '3 hours later 冰三小時' - Functional time indicator. (4) '真材實料!!' (Genuine ingredients!!) - Decorative/Hook text showing satisfaction. (5) '日本纖穀脆 減糖版新上市!' (Japanese Granola Reduced Sugar Version New Release!) - Functional promotion text. (6) '減糖25%' (25% sugar reduction) - Key product benefit text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 32,
+      "averageSceneDuration": 1.78,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Step-by-step Recipe Tutorial -> Tasting and Reaction -> Product Feature/Promotion -> Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female creator throughout the video; a male voice is heard but not seen.",
+      "mainCharacterDescription": "Young Asian woman with dark hair tied up, wearing a blue denim overall dress and a necklace, energetic and expressive."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A clean, brightly lit modern kitchen featuring white cabinets, a silver refrigerator, and a wooden kitchen counter.",
+      "lightingStyle": "Bright studio lighting with even distribution.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, High Saturation, Clean",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Fixed Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Yogurt",
+        "Honey",
+        "Granola",
+        "Strawberries",
+        "Mascarpone cheese"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Refrigerator",
+        "Oven (in background)"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Kellogg's"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and persuasive",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Meme sounds",
+        "Pop",
+        "Shimmer"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Recipe Steps -> Outcome -> Commercial Promotion",
+      "mainPurpose": "The video is a branded content advertisement for Kellogg's Granola. It uses a 'life hack' or recipe tutorial format to demonstrate the product's use as a main ingredient in healthy, easy-to-make desserts, specifically highlighting the 'reduced sugar' benefit and variety of flavors.",
+      "visualEmotion": "Energetic, appetizing, and cheerful."
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed product close-ups, mentioning specific health benefits (25% less sugar), and a final call to action to purchase.",
+      "endorsementObject": [
+        "Kellogg's (家樂氏)"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy presentation with 'kawaii' (cute) style editing and sparkles.",
+      "freeDescribe": "The video effectively bridges the gap between a personal vlog and a high-production advertisement, leveraging the creator's relatability to sell the product."
+    }
+  }
+}

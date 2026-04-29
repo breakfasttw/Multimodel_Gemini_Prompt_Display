@@ -1,0 +1,178 @@
+{
+  "videoName": "cocowine0205-20251201184506-3783361185303189.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 26.6,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a woman in a beige coat standing in a Costco warehouse, gesturing towards empty display boxes. Large text overlays introduce the Crest toothpaste brand. (2) The camera pans across multiple empty cardboard displays on a pallet, emphasizing that the stock has been depleted. (3) The woman holds up a 5-pack of Crest 3D White toothpaste, pointing at the packaging details while speaking. (4) The camera shifts to a close-up of a price tag on a shelf, showing a Black Friday discount from 549 to 429. (5) The woman holds the product again, smiling and engaging with the camera, while other shoppers and staff move in the background. (6) Final shot shows her holding the pack prominently with a bright expression.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop-style BGM begins immediately. A female voice speaks excitedly about the empty shelves at Costco. (2) A male voice (off-camera) joins the conversation, explaining that the 'Crest' toothpaste is the reason for the empty boxes. (3) The male voice provides a detailed price breakdown, mentioning the original price, the 120 NTD discount, and the final sale price. (4) The female voice interjects, calculating that each tube costs only 86 NTD. (5) Ambient sounds of a busy warehouse (distant chatter, movement) are audible but suppressed by the clear, high-pitched, and energetic dialogue of the two speakers.",
+      "text_narrative_log": "(1) '搬空好幾箱 Crest 速效亮白牙膏' (Emptied several boxes of Crest fast whitening toothpaste) - Functional hook text, excited tone. (2) '黑五好康' (Black Friday Good Deals) - Decorative sticker text. (3) '5入組' (5-pack) - Functional product info. (4) '一條只要86塊' (Only 86 dollars per tube) - Functional price highlight. (5) '好扯喔' (So ridiculous/crazy) - Emotional reaction caption."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 2.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook (Empty shelves) -> Evidence (Product/Price) -> Enthusiastic Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, approximately 6-7 shoppers and staff in the background background including a child in a cart.",
+      "mainCharacterDescription": "A young woman with long black hair, wearing a beige oversized coat and a black choker."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A typical Costco interior with high metal shelving units, cardboard display boxes on pallets, and price tags hanging from the shelves.",
+      "lightingStyle": "Industrial overhead lighting",
+      "weather": "Indoor",
+      "season": "Autumn/Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural/High Saturation",
+      "cameraWork": [
+        "POV",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "Crest",
+        "3D WHITE",
+        "Gillette",
+        "ma:nyo"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and enthusiastic",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Crowd chatter"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Price Breakdown -> Conclusion",
+      "mainPurpose": "The video serves as a promotional shopping vlog designed to create urgency and 'FOMO' (fear of missing out) regarding a specific Black Friday deal at Costco. By showing empty shelves first, it establishes high demand, then validates the 'hype' by demonstrating the significant price reduction on Crest toothpaste, aiming to encourage viewers to visit the store immediately.",
+      "visualEmotion": "Energetic and Urgent"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The creator focuses specifically on one brand (Crest) and provides detailed pricing and 'best deal' messaging consistent with influencer marketing.",
+      "endorsementObject": [
+        "Crest"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Energetic duo commentary (on-screen female, off-screen male) common in shopping haul videos.",
+      "freeDescribe": "The video uses typical social media 'hook' strategies like showing empty shelves to signify popularity before introducing the product."
+    }
+  }
+}

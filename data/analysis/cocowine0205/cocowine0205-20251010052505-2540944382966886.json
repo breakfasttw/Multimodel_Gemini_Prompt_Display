@@ -1,0 +1,176 @@
+{
+  "videoName": "cocowine0205-20251010052505-2540944382966886.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 41.5,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Shopping",
+        "Product Showcase",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a woman in a leopard-print bucket hat and a white lace top standing in a Costco warehouse, holding two packs of embroidered dish towels. A large Costco logo is overlaid at the top. (2) She alternates between showing different packs of towels, featuring various embroidered designs: blue birds with flowers, green lavender/flowers, yellow citrus fruits, and brown mushrooms. She points specifically at the embroidery details on the front of the packaging. (3) The camera remains mostly at a medium shot, with occasional slight zooms on the product. The woman maintains a happy, expressive face with wide eyes and frequent smiles while presenting the items against the backdrop of store shelves and other customers in the distance.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced background music with a strong rhythm begins immediately. A woman's high-pitched, energetic voice starts speaking in Mandarin, expressing excitement about the products. (2) The vocal track remains continuous and enthusiastic throughout, describing the price, the number of towels in a pack, and the specific designs being shown. (3) There are no significant ambient noises from the store, suggesting the audio was recorded with a close-mic or potentially dubbed over, as the focus is entirely on the speech and the BGM.",
+      "text_narrative_log": "(1) Functional Text: '好事多新出的' (New from Costco), '355元有4條' (355 yuan for 4 pieces), '88塊' (88 bucks). (2) Decorative/Hook Text: '這是我看過最漂亮的抹布' (The most beautiful dishcloth I've seen), '細緻刺繡多用布' (Detailed embroidery multi-purpose cloth). (3) Content labels: '藍色的小鳥' (Blue birds), '綠色的花朵' (Green flowers), '黃色的水果' (Yellow fruits), '褐色的香菇' (Brown mushrooms). All text is presented in a colorful, variety-show style with emotional emphasis."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 3.7,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Individual Product Showcase -> Detailed Embroidery Close-up -> Price Summary"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 2 blurry shoppers in the distant background.",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a black and white leopard-print hat, a white sleeveless lace top, and blue jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The interior of a Costco warehouse, featuring high metal shelving units, cardboard boxes, and other shoppers walking in the distance under bright warehouse lighting.",
+      "lightingStyle": "Bright artificial warehouse lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Slight Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Bird (Embroidered)"
+      ],
+      "foodsDetect": [
+        "Lemon (Embroidered)",
+        "Peach (Embroidered)",
+        "Mushroom (Embroidered)"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone (used for filming)"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "KitchenAid"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High-pitched",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature Exhibition -> Price Breakdown -> Summary",
+      "mainPurpose": "The video is a consumer recommendation vlog aimed at Costco shoppers. It highlights a specific new product (embroidered kitchen towels) by emphasizing its aesthetic variety and low unit price to entice viewers to visit the store and purchase them.",
+      "visualEmotion": "Energetic and Cheerful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The presence of the large Costco logo, the filming inside a Costco location, and the direct recommendation of a store-specific product.",
+      "endorsementObject": [
+        "COSTCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy shopping recommendation style typical of retail-focused influencers.",
+      "freeDescribe": "The video uses typical social media 'discovery' tropes, using hooks like 'the most beautiful' to capture attention quickly in a vertical scroll format."
+    }
+  }
+}

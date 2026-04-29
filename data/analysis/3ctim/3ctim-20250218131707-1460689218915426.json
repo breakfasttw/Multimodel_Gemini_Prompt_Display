@@ -1,0 +1,180 @@
+{
+  "videoName": "3ctim-20250218131707-1460689218915426.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 58,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Finland"
+        ],
+        "city": [
+          "Lapland"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a POV shot of several huskies pulling a sled through a snowy forest at night, with one dog appearing to bark at another. (2) A middle-aged man in a red winter jacket, glasses, and a hat speaks directly to the camera in front of a shelf of helmets. (3) A shot of a wooden sign for 'LAPLAND HUSKY SAFARI' appears against a snowy background. (4) Two women in identical red winter suits are seen; one shows her eyelashes which are visibly covered in white frost/ice. (5) Multiple POV shots show the sled moving quickly through the snow, following other sleds under bright artificial lights. (6) A close-up shows the man petting a black and white husky that leans into him. (7) The video concludes with a close-up of hands being warmed over a bright, crackling campfire outdoors.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic music begins immediately. Loud, energetic barking from multiple dogs is clearly audible. (2) A male voice speaks in Mandarin with an excited and friendly tone, explaining the upcoming husky experience. (3) The rhythmic sound of sled runners sliding over packed snow and the occasional 'whooshing' of wind are heard during the sledding segments. (4) The music continues at a steady volume as female voices are heard laughing and commenting on the cold. (5) The video ends with the distinct crackling and popping sounds of a wood fire, while the music fades out.",
+      "text_narrative_log": "(1) 'They are fighting!' - Hook text in white/yellow variety-show style (0:00-0:01). (2) 'Sudden pull forward' - Decorative text (0:02-0:03). (3) 'Finland Experience: Husky Sled!!' - Main title text with stars (0:05-0:07). (4) 'That's right everyone, we are going to experience huskies' - Functional subtitle (0:08-0:10). (5) 'Eyelashes are all frozen!' - Decorative variety-show caption emphasizing the cold (0:19-0:23). (6) 'This husky is super clingy' - Narrative caption (0:44-0:50). (7) 'It's so cold, let's toast a fire' - Functional text (0:55-0:58)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 4.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook (Dog Barking) -> Intro (Talking Head) -> Preparation (Lodge/Gear) -> Action (Sledding) -> Interaction (Petting/Fire)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 2 female companions in red suits, 1 person visible driving the sled in POV shot.",
+      "mainCharacterDescription": "Middle-aged Asian male, wearing glasses, a black winter hat, a neck gaiter, and a thick red and black 'Lapland Safaris' branded thermal jacket."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Snow",
+          "Log Cabin/Lodge",
+          "Forest"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Snow-covered ground, pine trees, wooden log buildings, interior of a rental shop with helmets and gear.",
+      "lightingStyle": "Mixed: Bright indoor lighting, dark night outdoor lighting with strong artificial spotlights from the sleds, and orange glow from the campfire.",
+      "weather": "Snowy",
+      "season": "Winter",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural (high contrast between white snow and dark night)",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Husky Dog"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Sled"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Action Camera"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Lapland Safaris",
+        "Audi"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Dog Barking",
+        "Wind",
+        "Fire Crackling"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Intro -> Evidence -> CTA",
+      "mainPurpose": "The video is a travel vlog intended to share the unique and immersive experience of a husky sled safari in Finnish Lapland. It emphasizes the sensory aspects of the trip—the coldness (frozen eyelashes), the energy of the dogs (barking and pulling), and the cozy conclusion (campfire), likely to inspire viewers or document a personal journey.",
+      "visualEmotion": "Energetic and Adventurous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Visible branding on jackets and signs, detailed documentation of the activity provided by the specific company.",
+      "endorsementObject": [
+        "Lapland Safaris"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3Ctim's characteristic enthusiastic opening and variety-show style text overlays.",
+      "freeDescribe": "The video effectively uses POV shots to make the viewer feel like they are on the sled, combined with personal 'vlog' moments that add authenticity."
+    }
+  }
+}

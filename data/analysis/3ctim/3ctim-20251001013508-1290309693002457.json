@@ -1,0 +1,174 @@
+{
+  "videoName": "3ctim-20251001013508-1290309693002457.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 36,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tech Review",
+        "Product Testing"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a close-up of an iPhone screen showing 100% battery at 7:45 AM. (2) Transition to a man wearing glasses and a grey flat cap in an office environment; he holds the phone while speaking to the camera. (3) A close-up shows the battery at 95% around 10:00 AM. (4) The scene shifts to the man in a green jacket handing the phone to another person whose hands are visible. (5) Sequential close-ups of the phone screen show battery levels at 72% at 1:20 PM and 49% at 5:13 PM. (6) The man is shown at home in the evening, holding the phone. (7) Final close-up of the phone screen shows 29% battery at 7:58 PM and 15% battery at 10:53 PM before the screen turns off.",
+      "audio_narrative_log": "(1) A male voice begins speaking enthusiastically in Mandarin, explaining he is starting a battery test. (2) Ambient office noise is heard as a second male voice (off-screen) interacts with the speaker. (3) The audio consists of clear, conversational dialogue with no background music. (4) Occasional sounds of the phone being handled or tapped are audible. (5) The speaker's tone remains friendly and informational throughout the day's progression.",
+      "text_narrative_log": "(1) Functional Text: '嘿 早上7:45' (Hey, morning 7:45) indicates the start time. (2) Decorative Text: '這個電力 現在是100%' (This power is now 100%) emphasizes the full battery. (3) Functional Text: 'iPhone Air 我自己現在的主力機' (iPhone Air, my current main phone) labels the device. (4) Functional Text: Various updates throughout the video including '電力還有95%', '下午 1:20 72%', '5:13 現在還有49%', '7:58 現在電力還有29%', and '剩15%'. (5) Decorative Text: Social media handles '@3ctim' appear in the top corner."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 4.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Series of battery check-ins throughout the day -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main creator on screen, 1 person filming whose hands appear when taking the phone.",
+      "mainCharacterDescription": "A man wearing glasses, a grey flat cap, a white t-shirt with a peanut graphic, and later a green jacket."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Office",
+          "Home",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "An office with white walls and professional clutter, followed by a home setting with a couch.",
+      "lightingStyle": "Natural and indoor artificial light",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and energetic",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Indoor room noise"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Sequence of Updates -> Conclusion",
+      "mainPurpose": "To demonstrate the real-world battery endurance of the creator's phone over a full 15-hour period, providing tech-enthusiast viewers with performance data.",
+      "visualEmotion": "Informative and casual"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "Personal vlog testing phone battery with no explicit brand promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Tim哥 (Tim-ge) personal brand presence and specific text caption style.",
+      "freeDescribe": "Typical tech influencer vlog style common in the Taiwanese YouTube/Facebook community."
+    }
+  }
+}

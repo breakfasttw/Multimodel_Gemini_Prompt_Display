@@ -1,0 +1,169 @@
+{
+  "videoName": "alephant_0427-20250108193737-1984680192437269.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 30,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Dance",
+        "Sports"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman dressed in black athletic wear stands in a dance studio with pink ambient lighting, positioned next to a vertical chrome pole. (2) She initiates a pole dance sequence, performing various spins, climbs, and inverted poses that demonstrate flexibility and upper-body strength. Her movements are fluid as she circles the pole and extends her legs into the air. (3) She concludes the performance by slowly descending the pole and settling into a seated position on the light-colored wooden floor.",
+      "audio_narrative_log": "(1) An upbeat pop song featuring an energetic female vocal begins immediately with lyrics about attraction and wanting. (2) The track maintains a consistent tempo with a prominent electronic bassline and percussion. (3) The music continues throughout the entire duration without interruptions from ambient noise or speech, eventually fading as the video ends.",
+      "text_narrative_log": "(1) Functional Text: The logo 'RV POLE STUDIO' is visible on the left side of the background wall throughout the video, serving as studio identification. The tone is professional and branding-oriented."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 30.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Performance -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female dancer performing throughout the video",
+      "mainCharacterDescription": "A woman with long dark hair, wearing a black sports bra and black athletic shorts."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Dance Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A dance studio featuring light wood flooring, a mirror wall reflecting the space, and a logo for 'RV POLE STUDIO'. The entire room is illuminated by a strong pink hue.",
+      "lightingStyle": "Intense pink studio lights",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "RV POLE STUDIO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and bright",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous singing",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Intro -> Performance -> Outro",
+      "mainPurpose": "The video serves as a demonstration of pole dancing skills, highlighting the dancer's athleticism and the aesthetic environment of the studio. It is likely intended for social media promotion or as a personal portfolio piece to showcase proficiency in pole fitness.",
+      "visualEmotion": "Energetic, Confident, Aesthetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "The prominent studio logo 'RV POLE STUDIO' indicates the video is filmed at and likely promotes that specific establishment.",
+      "endorsementObject": [
+        "RV POLE STUDIO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Saturated pink lighting and focused studio branding.",
+      "freeDescribe": "Typical content for fitness and dance influencers, utilizing high-quality lighting and synchronized music to create an engaging visual experience."
+    }
+  }
+}

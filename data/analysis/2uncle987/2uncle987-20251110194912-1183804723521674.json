@@ -1,0 +1,171 @@
+{
+  "videoName": "2uncle987-20251110194912-1183804723521674.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 13,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Advertisement",
+        "Promotional"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A group of young people cheer and wave in a brightly lit studio setting while a white office chair is spun in the foreground. (2) In a fast-paced montage, different main characters take turns sitting on the chair as it finishes spinning, each posing with specific items including a red suitcase, skincare products, a neck pillow, and a gift bag. (3) The video concludes with a man wearing glasses sitting on the chair and lifting a red three-tiered trolley above his head while the background group continues to celebrate with confetti.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic pop music starts immediately with loud, synchronized group cheering and shouting. (2) Every few seconds, a distinct 'whoosh' sound effect occurs, synchronized with the spinning of the chair on screen. (3) The high-tempo music and enthusiastic vocal cheering continue consistently until the end of the clip, maintaining a festive atmosphere.",
+      "text_narrative_log": "(1) '11.08 - 11.11 哈比狂歡購' - Hook text indicating the sale event dates and title. (2) '天天抽好禮' - Hook text regarding daily gift draws. (3) '優惠沒得比' - Hook text emphasizing price discounts. (4) '免運不打烊' - Hook text about 24/7 free shipping. (5) '還有滿額禮' - Hook text regarding gifts for specific spending thresholds. (6) '就在hahababy' - Functional text identifying the brand and platform."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Character/Product Montage -> Brand CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 9,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 6,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 6,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "6 main characters appear sequentially on the chair, while approximately 3 background performers cheer throughout.",
+      "mainCharacterDescription": "Various young adults dressed in casual, trendy attire including striped shirts, plaid patterns, and colorful t-shirts."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A minimalist indoor studio with light beige walls, a wooden floor, and a large green potted plant in the corner.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "hahababy"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 6,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 3,
+        "vocal_demographics": {
+          "male_vocal_count": 3,
+          "female_vocal_count": 6,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Confetti Pop"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> List-based Product Display -> CTA",
+      "mainPurpose": "To generate excitement and urgency for a limited-time shopping carnival (11.08-11.11). By using a high-energy group atmosphere and a fast-paced 'spinning chair' reveal format, the video highlights multiple incentives like free shipping and gifts to drive consumers to the hahababy brand.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of products and brand name 'hahababy' with specific sale dates and benefits.",
+      "endorsementObject": [
+        "hahababy"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-spinning chair transitions and high-energy group cheers.",
+      "freeDescribe": "The video relies heavily on the '11.11' shopping festival context common in East Asian e-commerce marketing."
+    }
+  }
+}

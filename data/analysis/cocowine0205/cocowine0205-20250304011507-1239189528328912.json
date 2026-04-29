@@ -1,0 +1,181 @@
+{
+  "videoName": "cocowine0205-20250304011507-1239189528328912.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 74,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts in a Costco warehouse; a female host wearing a dark beret and a white puffer vest holds a purple tin of KLIM milk powder, pointing at stacks of the product on warehouse shelves. (2) Close-up shots show the host's hand pointing at the product's label and pricing tags highlighting a discount from 689 to 549. (3) The host moves to an indoor home setting, sitting at a table with the same milk powder tin, using animated hand gestures and facial expressions to describe the product. (4) The final phase shows the host inside a car at night, wearing a yellow jacket and looking visibly drowsy and relaxed while speaking to the camera.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music plays as a high-pitched, excited female voice announces a deal at Costco. (2) A deep-toned male voice joins off-camera in a conversational manner to discuss the ingredients (sesame) and benefits for sleep; ambient store chatter is minimal. (3) The background music transitions to a softer, calmer style as the female host describes the taste and warmth of the milk at home. (4) The audio concludes with the female voice sounding softer and sleepier, layered over light car engine hums and ambient night sounds.",
+      "text_narrative_log": "(1) Decorative Text: 'COSTCO WHOLESALE' logo appears at the top; Hook Text: '喝了真的會想睡? 克寧晚安全護奶粉' (Does it really make you sleepy? KLIM Goodnight Total Care Milk Powder) is featured prominently. (2) Functional Text: Traditional Chinese subtitles translate the dialogue about the '140 dollar discount' and '94% milk powder content'. (3) Effect Text: Colorful, bold captions like '折140' and '幫助你睡覺' emphasize key sales points."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at Costco -> Detailed product features at home -> Real-world effect test in car"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main female creator visible on-screen; 1 male partner's hand and voice detected throughout.",
+      "mainCharacterDescription": "A young East Asian woman with dark hair and bangs, wearing a dark beret, a turquoise turtleneck, and a white sleeveless puffer vest."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Costco Store",
+          "Indoor Home",
+          "Car Interior"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "High industrial warehouse shelves in Costco; a clean, modern living room with a leather couch; and a dark car interior at night with street lights visible outside.",
+      "lightingStyle": "Bright industrial fluorescent lights followed by warm home interior lighting and dim car cabin light.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Follow shot",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Milk Powder"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco",
+        "KLIM",
+        "克寧"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and relatable",
+        "pitch": "High (Female), Deep (Male)",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Lo-fi",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Piano"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Traffic"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Product Evidence -> Experience Result",
+      "mainPurpose": "To promote KLIM Goodnight milk powder by highlighting a Costco discount and validating its sleep-aiding claims through a personal 'test' showing the host feeling drowsy after consumption.",
+      "visualEmotion": "Energetic and Relatable"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Repeated close-ups of the KLIM brand, detailed explanation of ingredient benefits (sesame), and explicit mention of pricing deals at Costco.",
+      "endorsementObject": [
+        "KLIM",
+        "克寧",
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host's expressive beret-based outfit and the transition from high-energy shopping to 'sleepy' car review.",
+      "freeDescribe": "The video successfully blends 'bargain hunting' culture with 'wellness' lifestyle content, typical of Taiwanese influencer marketing."
+    }
+  }
+}

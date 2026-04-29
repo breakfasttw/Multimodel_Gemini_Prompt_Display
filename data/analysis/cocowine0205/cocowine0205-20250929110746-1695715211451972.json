@@ -1,0 +1,190 @@
+{
+  "videoName": "cocowine0205-20250929110746-1695715211451972.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 90,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Shopping Guide",
+        "Promotion"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a colorful graphic overlay featuring the Costco Wholesale logo and a cartoon character, with large text announcing a weekly special report. (2) A rapid montage follows, showing various products on warehouse shelves or in refrigerated sections. Each shot focuses on a specific item, such as Mayflower tissues, egg rolls, Coca-Cola bottles, packs of beef, pork, squid, and salads. (3) The sequence continues through dozens of household and food items, including snacks like Snickers and Doritos, clothing like Levi's jeans, and beverages like Pellegrino and UCC coffee, ending with a final shot of alcoholic beverages.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music begins. An energetic male voiceover introduces the Costco weekly specials. (2) As the visuals cut rapidly between products, the male voice maintains a high-speed narration, calling out the name of each product and its discounted price in sync with the visual changes. Digital 'ping' sound effects accompany the appearance of price text. (3) The energetic narration and BGM continue consistently until the very end, concluding with a final price callout.",
+      "text_narrative_log": "(1) Title text: 'COSTCO 每週特價速報 09/22-09/28 記得追蹤我們' (Costco Weekly Special Report, dates, 'remember to follow us'). (2) For each featured product, text overlays display the brand/item name, original price '原價', the discount amount (e.g., '-70'), and the final special price '特價'. (3) The text is large, bold, and uses high-contrast colors (yellow, red, and white) to emphasize the savings and urgency of the deals."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 45,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Rapid Product Listing Montage -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 0,
+      "bodyPartVisibility": [
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 narrator/cameraman's hands occasionally visible, a few blurred shoppers in the background.",
+      "mainCharacterDescription": "The main character is an off-screen narrator; only hands are occasionally visible holding or pointing at products."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Different aisles and sections of a Costco warehouse, including dry goods shelves, refrigerated cases, and clothing racks.",
+      "lightingStyle": "Intense studio-style warehouse lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and High Saturation",
+      "cameraWork": [
+        "POV",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Beef",
+        "Pork",
+        "Squid",
+        "Mackerel",
+        "Salad",
+        "Pomelo",
+        "Snacks",
+        "Dorayaki",
+        "Porridge"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "Mayflower",
+        "Coca-Cola",
+        "Kinder",
+        "Snickers",
+        "Doritos",
+        "Levi's",
+        "Lipton",
+        "Nescafe",
+        "UCC",
+        "Biore",
+        "Sunmai"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and promotional",
+        "pitch": "Normal",
+        "loudness": "Loud",
+        "speed": "Extremely fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Digital Pings",
+        "Notification sounds"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Itemized Product Specials -> CTA",
+      "mainPurpose": "The video serves as a rapid-fire promotional guide for Costco Taiwan's weekly sales. By combining high-energy audio, fast-paced editing, and clear price-benefit text overlays, it aims to inform existing customers of current bargains and drive foot traffic to the warehouse during the specified date range.",
+      "visualEmotion": "Energetic and Urgent"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of products with price discounts and a call to follow the creator for more Costco updates.",
+      "endorsementObject": [
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Rapid-fire price narration style, 'Costco Weekly Special Report' branding",
+      "freeDescribe": "The video is optimized for short-form social media consumption, relying on information density to keep the viewer engaged throughout the long list of products."
+    }
+  }
+}

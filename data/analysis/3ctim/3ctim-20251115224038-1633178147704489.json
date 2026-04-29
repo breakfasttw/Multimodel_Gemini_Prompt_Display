@@ -1,0 +1,180 @@
+{
+  "videoName": "3ctim-20251115224038-1633178147704489.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 102,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Exhibition Tour"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with the host, a middle-aged man in a grey blazer and flat cap, standing in front of a large red wall with the white text 'Hermès IN THE MAKING', introducing the event. (2) He pulls aside a heavy red curtain to reveal a spacious exhibition hall filled with Hermès luxury goods; close-ups show various Kelly and Birkin bags in tan, pink, and white on illuminated shelves. (3) Artisans are shown at work benches; one female artisan uses specialized tools to stitch a blue leather handle, while a male artisan cuts leather patterns. (4) The host moves to the silk scarf section, where large textile printers are in operation, and colorful scarves with complex patterns are displayed on spinning circular racks. (5) Further demonstrations show a female artisan hand-painting a porcelain plate featuring a blue leopard motif and another artisan working on leather gloves. (6) The host interacts with a large, interactive musical installation constructed from saddle-making tools, striking them to create sounds. (7) A sequence shows the intricate process of assembling a leather saddle on a yellow workstation. (8) Finally, the host sits on a stylized yellow saddle-shaped seat against a purple and orange background to deliver his closing remarks and summary.",
+      "audio_narrative_log": "(1) Upbeat, mid-tempo jazzy background music with a prominent funky bassline and crisp drum kit begins immediately. A male voice speaks in Mandarin with an enthusiastic, high-energy, and professional tone. (2) As the host moves through the exhibition, the music remains consistent, but muffled ambient sounds of a crowd and distant machinery are audible underneath the narration. (3) During the workshop segments, the BGM continues at a steady volume, with no distinct voices from the artisans heard. (4) A series of bright, melodic percussive chimes or bell sounds occur as the host plays the tool-based music box installation. (5) The music fades slightly during the host's concluding summary, remaining as a light backing track until the video ends.",
+      "text_narrative_log": "(1) 'Hermès IN THE MAKING' - Opening title establishing the brand and event. (2) '皮革製作-Kelly包' - Functional text identifying the leather workshop for the Kelly bag. (3) 'Kelly包的手把 總共有五層' - Informative text explaining that the Kelly bag handle consists of five layers. (4) '絲巾印染' - Functional text identifying the silk printing section. (5) '由40個基本色發展出7萬5000個愛馬仕獨有色彩' - Descriptive text detailing the vast color palette used in Hermès scarves. (6) '手套製作', '瓷器彩繪', '馬鞍製作' - Functional labels for the glove, porcelain, and saddle workshops. (7) '用製作馬鞍的工具 製作而成的大型音樂盒' - Descriptive text explaining the music box made from saddle tools."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 3.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Multi-part Workshop Tour -> Interactive Demo -> Closing Summary"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 12,
+      "maleDetectAmount": 6,
+      "femaleDetectAmount": 6,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main host, 5 artisans visible at workstations, approximately 6 visitors in the background.",
+      "mainCharacterDescription": "Middle-aged male wearing a grey flat cap, glasses, a grey wool blazer over a white t-shirt, and light blue jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Exhibition Hall",
+          "Workshop"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern exhibition space featuring high ceilings, brick walls, vibrant red and yellow partition walls, industrial-style lighting, and specialized artisan workbenches.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Leopard",
+        "Horse"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Digital Screen",
+        "Large Printing Press"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Hermès"
+      ],
+      "instrumentsVisible": [
+        "Custom Tool-based Music Box"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Jazzy",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Bass Guitar",
+        "Drums",
+        "Synthesizer",
+        "Chimes"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Chimes"
+      ],
+      "ambientNoise": [
+        "Exhibition crowd"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Intro -> Showcase of Handicrafts -> Closing Impression",
+      "mainPurpose": "To promote and document the Hermès 'In the Making' exhibition, emphasizing the brand's dedication to traditional craftsmanship and artisan skill through an engaging guided tour format.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The entire video is a dedicated tour of a specific brand's exhibition with verbal praise of their craft.",
+      "endorsementObject": [
+        "Hermès"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3C有意思tim哥 branding in the top left corner.",
+      "freeDescribe": "The video uses high production value and dynamic editing to make a traditional craftsmanship exhibition feel modern and accessible to a lifestyle audience."
+    }
+  }
+}

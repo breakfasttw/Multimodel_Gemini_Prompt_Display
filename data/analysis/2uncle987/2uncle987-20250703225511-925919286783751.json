@@ -1,0 +1,182 @@
+{
+  "videoName": "2uncle987-20250703225511-925919286783751.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 74,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Vlog",
+        "Promotion",
+        "Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Two women are in a living room; one points toward the camera while the other takes notes. (2) The main woman moves closer to the lens, gesturing expressively while addressing the viewer. (3) The scene shifts to a bathroom where the woman presents product boxes and then individual bottles of shower mousse. (4) Close-ups show the mousse being applied to an arm and leg, creating a thick white foam. (5) The woman is then seen sitting in a bathtub, demonstrating the texture of the foam on her hands and body. (6) The video cuts back to the living room setting where the host presents three different versions of the product side-by-side. (7) Final shot shows the host smiling and waving behind the product lineup.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo pop music begins. A female voice speaks in an informal, observational tone. (2) The female voice shifts to a direct, persuasive tone addressing the audience. (3) A male narrator's voice enters, speaking clearly and professionally to describe product features. (4) Sound effects (SFX) such as soft 'pop' sounds accompany text appearances and 'squish' sounds accompany the mousse dispensing. (5) The female host's voice returns at the end, sounding cheerful and encouraging.",
+      "text_narrative_log": "(1) '哎 你有沒有看到' (Hey, did you see?) - Hook. (2) '不要再滑手機了 好好洗澡 才能放鬆啊' (Stop scrolling, take a good bath to relax) - Functional/Instructional. (3) '挑選合格沐浴乳' (Choosing qualified shower gel) - Title Hook. (4) '很難沖' (Hard to rinse), '皮膚很滑' (Slippery skin), '不明添加物' (Unknown additives), '皮膚乾癢' (Dry/itchy skin) - Descriptive/Problem points. (5) '淨淨 胺基酸沐浴慕斯' (CleanClean Amino Acid Shower Mousse) - Product Title. (6) '德國DERMATEST 皮膚科醫師實測認證' - Endorsement/Functional. (7) '乾性肌 痘痘肌 敏乾肌' (Dry skin, Acne skin, Sensitive skin) - Targeting text. (8) '嬰兒級 安心洗沐產品' (Baby-grade safe washing product) - Quality Hook."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 3.08,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook (Living Room) -> Problem Identification -> Product Reveal (Bathroom) -> Feature Demonstration -> Conclusion (Living Room)."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Legs",
+        "Arms"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main female creator/host, 1 female assistant/companion in the background.",
+      "mainCharacterDescription": "An Asian female wearing glasses, a black sleeveless vest over black shorts, with long dark hair."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room",
+          "Indoor Bathroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern minimalist living room with white cabinetry and a large TV, and a bright tiled bathroom with a bathtub and shower fixtures.",
+      "lightingStyle": "Bright, even indoor studio-style lighting.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Tablet",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "CleanClean",
+        "淨淨"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, informative, and persuasive",
+        "pitch": "Varied (Medium-high for female host, medium-low for male narrator)",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Water splashing",
+        "Mousse squishing"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Problem Identification -> Solution Presentation -> Detail breakdown -> Call to Action",
+      "mainPurpose": "To promote the CleanClean Amino Acid Shower Mousse by contrasting it with common poor-quality shower products and highlighting its skin-friendly ingredients and luxurious foam texture.",
+      "visualEmotion": "Energetic and trust-building"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product demonstration, branding prominently displayed, and naming specific benefits/certifications.",
+      "endorsementObject": [
+        "CleanClean",
+        "淨淨"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Direct interaction with the 'fourth wall' at the start to grab attention.",
+      "freeDescribe": "The video uses a mix of lifestyle vlog elements and professional product review styles to appeal to young consumers looking for skincare-conscious bath products."
+    }
+  }
+}

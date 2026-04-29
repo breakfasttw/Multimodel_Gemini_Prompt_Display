@@ -1,0 +1,167 @@
+{
+  "videoName": "yga0721-20250502063107-728511056805502.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 15,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Family"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young boy wearing glasses, a grey-and-white jacket, and dark pants stands on a large red padded mat in an indoor recreational space. He swings his arms repeatedly in preparation. (2) The boy leaps forward, landing on his hands and knees on the red mat. (3) He crawls forward briefly before rolling onto his back, looking directly at the camera with a wide smile and joyful expression.",
+      "audio_narrative_log": "(1) A female voice speaks in Mandarin with a cheerful and encouraging tone; ambient echoes of an indoor facility are audible. (2) A dull thumping sound occurs as the boy's body impacts the padded mat. (3) Upbeat, synthetic background music starts playing, accompanied by a retro video game 'fail' sound effect; the boy's laughter is heard clearly.",
+      "text_narrative_log": "(1) '跳远比赛' (Long jump competition): Functional text setting the scene in a playful tone. (2) '超过红色的了' (Surpassed the red one): Decorative text reflecting spoken encouragement. (3) '好 超过喔' (Okay, jump over it) and '开始 go' (Start go): Functional text capturing instructions and the start of the action."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 15.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Preparation -> Jump -> Celebration"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main child creator visible on screen",
+      "mainCharacterDescription": "A young boy with short black hair and glasses, wearing a light grey and white jacket, dark joggers, and yellow-accented sneakers."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Play Center"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A wall featuring a mural of a track and field stadium under a sunny sky with green foliage. Vertical white markers and numbers are painted on the wall to measure distance. The floor is covered by thick, red safety mats.",
+      "lightingStyle": "Bright, even indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and humorous",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Video Game Style",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Video Game SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Action -> Result",
+      "mainPurpose": "The video aims to share a wholesome family moment, capturing a child's playful attempt at a simulated track and field event. By combining encouraging off-screen dialogue with lighthearted video game sound effects, it emphasizes the fun and bonding nature of a visit to an indoor play center.",
+      "visualEmotion": "Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of 8-bit style sound effects to highlight the child's physical 'failure' in a humorous way.",
+      "freeDescribe": "Typical parent-child interaction video common on social platforms, focusing on authenticity and emotional warmth."
+    }
+  }
+}

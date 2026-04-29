@@ -1,0 +1,181 @@
+{
+  "videoName": "yga0721-20250830085646-1641900773486005.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 90,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Promotion",
+        "Comedy",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man in a blue and white striped shirt (Cai Aga) stands in front of a table filled with supplement boxes, brandishing a red foam stick and shouting at the camera while others hold umbrellas and objects in the foreground. (2) The scene cuts rapidly as different guests join him to present product bundles: a man in a white wig and fake teeth, a woman with glasses holding a laptop, a woman with a school bag, and a woman using a makeup brush. (3) The main character continues to use high-energy gestures, pointing at products and prices displayed in various box sets. (4) Close-ups of specific supplement bottles and boxes are shown on a white pedestal. (5) The video ends with a group of people raising their hands in a celebratory cheer around the products.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat background music starts immediately with a driving rhythm. A loud, high-pitched male voice shouts enthusiastically in Mandarin and Taiwanese Hokkien. (2) Throughout the video, the main male vocal maintains a very high energy level, shouting promotional catchphrases. Occasional SFX like 'ding' sounds, whooshing transitions, and crowd cheering are heard. (3) A second, calmer male voice provides a more informative narration over product close-ups towards the end, while the upbeat BGM continues. (4) The audio concludes with a synchronized group cheer and a final motivational shout.",
+      "text_narrative_log": "(1) Decorative: '不要搶' (Don't grab!), '這我的生日禮物餒' (This is my birthday gift!), '你的健康我也包起來' (I'll take care of your health too!). (2) Functional: Product bundle titles like '生龍活虎組' (Vitality Group), '日日精彩組' (Daily Brilliance Group), '快步高升組' (Rapid Promotion Group), '樂此不皮組'. (3) Functional: Pricing info like '特$1442', '原價$3760', '再打9折' (Additional 10% off). (4) Brand: '健康工程師 HEALTH ENGINEER', '南極磷蝦油' (Antarctic Krill Oil)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 52,
+      "averageSceneDuration": 1.73,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> High-energy product bundle showcase with guests -> Feature explanation -> Final group cheer and CTA."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Upper body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 1 male guest, 3 female guests, and approximately 3 additional people visible as hands or backs in the foreground/background.",
+      "mainCharacterDescription": "A male creator with short brown hair wearing a horizontal blue and white striped t-shirt, extremely expressive facial expressions."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A clean white studio environment with a wooden table and a white display pedestal showcasing numerous boxes of supplements stacked in various configurations.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "text_overlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Laptop",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "健康工程師",
+        "HEALTH ENGINEER"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 5,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 3,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 3,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Very loud",
+        "speed": "Extremely fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Taiwanese Hokkien"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 135,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Ding",
+        "Crowd Cheering"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Segmented Bundle Showcase -> Detailed Product Breakdown -> CTA",
+      "mainPurpose": "To promote a limited-time birthday group-buy discount for 'Health Engineer' Antarctic Krill Oil supplements by utilizing high-energy comedy and variety-show style presentation to engage viewers.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct presentation of product features, brand logos, and specific discount pricing linked to the creator's birthday event.",
+      "endorsementObject": [
+        "健康工程師",
+        "HEALTH ENGINEER"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy shouting style, red foam stick prop, variety-show style text graphics, fast-paced comedic interactions with 'employees' or guests.",
+      "freeDescribe": "The video uses a 'chaotic' sales energy typical of Taiwanese variety shows or livestream selling to create a sense of urgency and excitement."
+    }
+  }
+}

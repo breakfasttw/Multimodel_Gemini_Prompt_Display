@@ -1,0 +1,175 @@
+{
+  "videoName": "602avenue-20260103072930-1795776241092994.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 10,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Dance",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Seoul"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in a light-colored, patterned pajama set dances in a minimalist white-walled room. (2) She is then seen at an airport wearing a blue Adidas track jacket over a grey top and black skirt, holding a passport and boarding pass while dancing in front of a flight departures board. (3) She dances while sitting in an airplane seat, wearing headphones. (4) The scene shifts to her dancing in a high-rise room with a night view of Seoul through a window, including a large Dior billboard featuring Jisoo. (5) She dances at an airport arrival area near a baggage claim. (6) Finally, she dances in a convenience store dairy section, holding two yellow cups of banana milk.",
+      "audio_narrative_log": "(1) An upbeat pop song with a steady electronic beat and female vocals starts immediately. (2) The song continues without interruption as the visual scenes change, maintaining a consistent tempo and melodic structure. (3) No ambient noises from the airport, plane, or store are audible over the music.",
+      "text_narrative_log": "(1) Decorative/Hook Text: 'POV 🇰🇷韓國明星 又叫我回韓國探訪' (POV Korean stars asked me to visit Korea again). Tone: Excited and playful."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 5,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Travel -> Arrival -> Local Activities"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female character, 3 blurred passers-by in airport backgrounds.",
+      "mainCharacterDescription": "Young Asian woman with long brown hair, wearing pajamas, then a blue track jacket, grey shirt, and black skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor",
+          "Airport",
+          "Plane",
+          "Convenience Store"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A minimalist home interior, an airport departure hall with a blue flight information screen, an airplane cabin, a city night view with neon signs and large billboards, an airport arrival terminal, and convenience store shelves filled with drinks.",
+      "lightingStyle": "Bright indoor lighting and vibrant night city lights.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Milk"
+      ],
+      "trafficDetect": [
+        "Plane"
+      ],
+      "techDetect": [
+        "Headphones"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Dior",
+        "Adidas"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Melodic and smooth",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Pop",
+      "bgmBPM": 110,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Home -> Airport -> Destination",
+      "mainPurpose": "To document and share the excitement of a travel trip to South Korea through a series of beat-synced dance clips at various stages of the journey. It uses a playful hook about being invited by stars to engage viewers interested in Hallyu culture and travel.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "Brands like Dior and Binggrae appear as part of the environment or personal consumption rather than explicit promotions.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Beat-matching dance transitions in travel contexts.",
+      "freeDescribe": "The video effectively uses TikTok-style trends (dancing in public spaces) to create high-energy travel content."
+    }
+  }
+}

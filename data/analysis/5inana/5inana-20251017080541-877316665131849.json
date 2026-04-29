@@ -1,0 +1,171 @@
+{
+  "videoName": "5inana-20251017080541-877316665131849.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 29,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Keelung"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with dark hair, bangs, red sunglasses, and brown headphones is standing on a grassy hillside during the golden hour. She wears a white tank top with a graphic print and a brown skirt, smiling and gesturing towards the camera. (2) She turns and points with both arms toward the valley behind her, her facial expressions are animated as she speaks. (3) The camera pans slowly to the right, revealing a wide panoramic view of a city with colorful yellow and pink buildings, a distant high-rise tower, and mountains under a fading sunset sky.",
+      "audio_narrative_log": "(1) A high-pitched and energetic female voice begins speaking in Mandarin Chinese. Loud, continuous sounds of cicadas or summer insects dominate the background. (2) The vocal continues at a steady volume, explaining historical details about the surrounding area. No background music is present. (3) As the camera pans, the speaker's voice remains the focus, though faint wind noise and distant outdoor ambience become slightly more prominent.",
+      "text_narrative_log": "(1) Functional Text: '太曬了' (Too sunny), appearing as a subtitle in a cheerful tone. (2) Functional Text: Subtitles detailing that the landmark was built in 2006 and mentioning the Keelung government. (3) Functional Text: Subtitles expressing the speaker's wish for the area to become prosperous again."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 29.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro speech with gestures -> Panoramic scenery reveal"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator speaking to the camera",
+      "mainCharacterDescription": "Young woman with dark hair, bangs, wearing red-rimmed sunglasses, brown headphones, a white graphic tank top, and a long brown skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Hillside",
+          "City View"
+        ],
+        "topography": [
+          "Hill"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A grassy, unkempt hillside in the foreground leading down to a dense urban valley with a mix of residential buildings and mountains in the distance.",
+      "lightingStyle": "Natural golden hour light",
+      "weather": "Clear",
+      "season": "Summer",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm, Natural",
+      "cameraWork": [
+        "Static",
+        "Pan"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Headphones"
+      ],
+      "landmark": [
+        "Keelung Landmark"
+      ],
+      "brandLogos": [
+        "Apple"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Cicadas",
+        "Wind"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Explanation -> Reveal",
+      "mainPurpose": "The video serves as a personal travel vlog and informative snippet where the creator introduces a specific landmark in Keelung, Taiwan. She combines local history (mentioning the landmark's construction in 2006) with her own energetic presence to showcase the city's panoramic view and express hope for the area's development.",
+      "visualEmotion": "Energetic and bright"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of large headphones as a fashion accessory and vibrant red sunglasses.",
+      "freeDescribe": "The video has a raw, authentic vlog feel with minimal editing, relying on the creator's personality and the scenic reveal of Keelung."
+    }
+  }
+}

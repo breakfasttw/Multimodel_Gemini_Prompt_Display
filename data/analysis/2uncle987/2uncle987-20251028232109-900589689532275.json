@@ -1,0 +1,183 @@
+{
+  "videoName": "2uncle987-20251028232109-900589689532275.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 16.34,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Family",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Tokyo"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with two young boys in matching black and white striped t-shirts and a woman outdoors on a city sidewalk near a crosswalk. One boy pushes a Jeep-branded stroller. (2) The scene shifts to a fast-paced montage of the two boys at various arcade locations. They are seen playing a Pokemon-themed card game, a Dragonball Super Divers interactive game, and an alligator-hitting mallet game. (3) The montage continues with them looking at a Kirby-themed capsule machine, playing a fishing game with a small blue net, peering into claw machines, and interacting with an Anpanman-themed kiosk. (4) A brief shot shows one boy walking alone on a sidewalk at night. (5) The final shots return to the Dragonball game, showing the character Goku on screen and the boy actively using the touch-screen interface.",
+      "audio_narrative_log": "(1) Upbeat, rhythmic electronic music starts immediately. A female voice with a clear, professional tone typical of public transit announcements says in English: 'The next station is...', followed by 'Tokyo' in Japanese. (2) As the music maintains a steady dance beat, the female voice continues to list Tokyo districts in sequence: 'Shibuya', 'Asakusa', 'Shinjuku', 'Roppongi', 'Akihabara', 'Ginza', and 'Tsukiji'. (3) Faint sounds of arcade machines, including mechanical clicking and synthesized bells, are layered beneath the music. (4) Toward the end, the same female voice announces, 'The doors on the left side will open' in English. No speech from the children is audible.",
+      "text_narrative_log": "(1) 'THE NEXT STATION IS' appears in bold white text as a hook. (2) Functional text identifies each location corresponding to the audio: 'TOKYO 東京', 'SHIBUYA 渋谷', 'ASAKUSA 浅草', 'SHINJUKU 新宿', 'ROPPONGI 六本木', 'AKIHABARA 秋葉原', 'GINZA 銀座', 'TSUKUJI 築地'. (3) 'THE DOORS ON THE LEFT SIDE WILL OPEN' appears in white text near the end. (4) Game titles like 'DRAGONBALL SUPER DIVERS' and gameplay status 'GREAT!!' are visible on screens."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 1.17,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro crosswalk scene -> Fast-paced montage of arcade gaming in various districts -> Outro gameplay shot."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main young boys, 1 woman accompanying them, 2-3 blurred passers-by in the background of arcade scenes.",
+      "mainCharacterDescription": "Two young boys with short black hair, wearing matching horizontal black and white striped shirts and shorts. One boy wears black-rimmed glasses."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Arcade",
+          "Indoor Entertainment Center"
+        ],
+        "topography": [
+          "Urban"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Features various Japanese urban settings: a sunlit street with a crosswalk, several brightly lit indoor arcades filled with colorful game cabinets, neon lights, and glowing screens, and a dimly lit night-time storefront with shutters.",
+      "lightingStyle": "Natural daylight outdoors, vibrant neon and fluorescent lighting in arcades.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "English",
+          "Japanese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Stroller"
+      ],
+      "techDetect": [
+        "Arcade Machine",
+        "Touch Screen"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Jeep",
+        "7-Eleven",
+        "Pokemon",
+        "Dragonball",
+        "Kirby",
+        "Anpanman"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Steady and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "English",
+          "Japanese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drum"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Arcade SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Activity Sequence -> Conclusion",
+      "mainPurpose": "To document a family's travel experience in Tokyo through the eyes of children, specifically focusing on the variety of arcade entertainment available. The video uses the creative framing of a Japanese train announcement to link disparate arcade visits into a unified travel 'journey' across different city districts.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "While brands like Dragonball and Pokemon are visible, they are part of the setting (arcade games) rather than a paid promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Matching outfits for children, train-themed audio motif.",
+      "freeDescribe": "The fast editing pace and beat-synced visuals create a high-energy, vlog-style feeling suitable for short-form social media platforms."
+    }
+  }
+}

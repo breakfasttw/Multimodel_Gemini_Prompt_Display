@@ -1,0 +1,179 @@
+{
+  "videoName": "602avenue-20251026202523-910312698580439.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 11,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Promotion"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a close-up of a woman with long brown hair, wearing a grey t-shirt and a wireless lapel microphone, smiling and mouthing lyrics. (2) The camera pans to the left to show two other women standing behind her; they are holding red and yellow snack boxes and smiling. (3) The camera pans back towards the center and then to the right, revealing two different women who are holding green snack bags and making cute facial expressions. (4) The camera moves to a wider shot showing the main woman in the foreground with the other four women behind her on a balcony, all waving and holding their respective snack products.",
+      "audio_narrative_log": "(1) High-energy, upbeat pop music starts immediately with a female vocal repeating the phrase \"Rock your body.\" (2) The music maintains a consistent fast tempo with electronic synthesizer beats and rhythmic percussion. (3) There is a faint layer of outdoor ambient wind noise, but the music remains the dominant acoustic element throughout. (4) No spoken dialogue or identifiable sound effects (SFX) are detected.",
+      "text_narrative_log": "None"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 3,
+      "averageSceneDuration": 2.75,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Product Reveal Montage -> Group Finale"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main creator holding the camera and 4 secondary participants posing with snacks.",
+      "mainCharacterDescription": "A woman with long, wavy brown hair, wearing a casual grey t-shirt and a Hollyland brand lapel microphone."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Balcony",
+          "Terrace"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern building terrace with glass railings and outdoor furniture. The background shows architectural elements and a bright, overcast sky.",
+      "lightingStyle": "Natural daylight",
+      "weather": "Cloudy",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Follow shot",
+        "Panning"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Puffs",
+        "Snacks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Wireless Microphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Hollyland",
+        "義美",
+        "乖乖"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and rhythmic",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous singing",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Wind"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Product Feature 1 -> Product Feature 2 -> Group Resolution",
+      "mainPurpose": "The video serves as a lifestyle-oriented commercial for popular snacks from the brands 'I-MEI' and 'Kuai Kuai'. By utilizing a trendy POV vlog style and upbeat music featuring a group of young women, it aims to associate these food products with fun, group social activities, and modern influencer culture.",
+      "visualEmotion": "Energetic and Happy"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Multiple characters are holding snack packaging directly toward the camera in a choreographed manner.",
+      "endorsementObject": [
+        "義美",
+        "乖乖"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Hollyland microphone used as a visual prop for audio clarity; synchronized group movement.",
+      "freeDescribe": "The video leans heavily into 'Vlog-style' marketing where the advertising feels like a personal recommendation or a shared moment among friends."
+    }
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "videoName": "yga0721-20250725073712-1646308060054770.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 58,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Comedy",
+        "Podcast",
+        "Talk Show"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a close-up of a person wearing a large, yellow cartoonish mask with blue hair, speaking into a professional microphone. (2) The scene cuts to a studio setting where a man in a white t-shirt and white headphones sits on a brown leather couch, holding a drink and laughing. (3) A woman in a dark brown sleeveless shirt appears sitting next to him, joining the laughter and conversation. (4) The man in the white shirt repeatedly points to an 'H' embroidery on his left sleeve, gesturing towards it with pride and amusement while the others laugh.",
+      "audio_narrative_log": "(1) A male voice speaks in a conversational tone mentioning currency and prices. (2) A second, more energetic male voice enters, laughing loudly and mentioning 'hahababy' and specific price points. (3) A female voice joins the soundscape with high-pitched laughter. (4) The audio concludes with a mixture of loud, synchronized group laughter and fast-paced dialogue about brand logos.",
+      "text_narrative_log": "(1) Functional text provides currency conversions and subtitles for the dialogue. (2) Hook text like 'hahababy $599' appears to highlight product value. (3) Decorative variety-show style captions like '厚' and '嘎哥' appear in large white fonts to emphasize emotional reactions. (4) A persistent brand logo for 'hahababy' featuring a cartoon girl is displayed during the later half."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.2,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro dialogue -> Comedic reveal of the shirt logo -> Group laughter and banter"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 masked individual, 1 man in white shirt, 1 woman on the couch.",
+      "mainCharacterDescription": "One individual wears a large yellow mask; another man wears a plain white T-shirt with an 'H' logo on the sleeve and white headphones."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A studio with soundproof teal curtains, a brick wall decorated with pop-art posters, and shelves filled with collectible figures and toys.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Medium Shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Drink"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "Headphones"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "hahababy"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and excited",
+        "pitch": "Moderate to high",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Discussion -> Climax -> Reaction",
+      "mainPurpose": "The video is a promotional comedy piece for the brand 'hahababy'. It uses a humorous podcast-style interaction to highlight the brand's apparel, specifically making a joke about an 'H' logo to playfully compare it to high-end luxury brands like Hermes, suggesting that style and success don't require expensive luxury labels.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of brand logo, discussion of product price, and wearing the brand's clothing.",
+      "endorsementObject": [
+        "hahababy"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Masked persona, high-energy group laughter, variety-show style captions.",
+      "freeDescribe": "The use of the mask and the specific studio setting suggests this is a popular Taiwanese internet personality or content creator."
+    }
+  }
+}

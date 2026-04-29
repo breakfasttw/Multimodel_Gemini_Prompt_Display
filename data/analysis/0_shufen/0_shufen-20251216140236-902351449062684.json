@@ -1,0 +1,167 @@
+{
+  "videoName": "0_shufen-20251216140236-902351449062684.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 6,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Tainan"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman wearing a white lacy dress and black knee-high boots walks across a field covered in white salt towards the right. (2) She turns to face the camera, smiling, and tosses handfuls of salt into the air to mimic falling snow. She is now wearing a hat with sheep ears attached.",
+      "audio_narrative_log": "(1) A dreamy, mid-tempo synth-based instrumental track plays continuously from the start. (2) No human voices, speech, or distinct environmental sound effects are audible, creating an ethereal and focused soundscape.",
+      "text_narrative_log": "(1) Functional Text: '台南沒有下雪 所以只能這樣拍雪景' (It doesn't snow in Tainan, so we can only take snow photos like this) appears at the top of the frame. The tone is creative and explanatory."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Walk -> Interactive Pose"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main character appears in the center of the frame.",
+      "mainCharacterDescription": "An Asian woman with long dark hair, wearing a white lacy high-low dress, black boots, and a cream hat with sheep ears."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Salt Pan"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A flat, expansive ground covered in white salt, resembling a snow-covered landscape. In the far background, there are salt piles and small industrial structures under a pale, cloudy sky.",
+      "lightingStyle": "Natural, soft daylight",
+      "weather": "Cloudy",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Cinematic, Muted",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "None"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Dreamy Instrumental",
+      "bgmBPM": 110,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Unknown"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Execution",
+      "mainPurpose": "The video is a short, aesthetic showcase intended to share a creative photography tip. It demonstrates how a salt field can be visually manipulated to look like a snowy environment for social media content, appealing to travel enthusiasts looking for unique photo locations.",
+      "visualEmotion": "Whimsical, Calm"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Environmental substitution for aesthetics",
+      "freeDescribe": "The creator uses high-contrast visuals (white salt against a blue/grey sky) to create a 'false winter' theme common in regions where snow is rare."
+    }
+  }
+}

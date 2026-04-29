@@ -1,0 +1,178 @@
+{
+  "videoName": "602avenue-20250805214727-1450856373316085.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 20,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Event Recap",
+        "Entertainment"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a close-up POV shot of a young woman with long dark hair, her hand covering her mouth as if surprised or moved to tears, with two large 'pleading eyes' emojis overlaid. (2) The scene cuts to a brightly lit stage at night where a man in a black suit is performing synchronized dance moves alongside two individuals wearing green tracksuits. (3) A wide shot shows the performer in the suit holding a microphone, interacting with the audience while people in the foreground hold up smartphones to record. (4) The performer and other stage members dance their way off the stage towards the side wings while maintaining a rhythmic walk.",
+      "audio_narrative_log": "(1) High-energy electronic dance music starts immediately, featuring a heavy percussion beat and repetitive vocal hooks reminiscent of the K-pop song 'Bang Bang Bang'. (2) A male voice is heard speaking into a microphone with a high-pitched, excited tone, occasionally drowned out by the loud music and crowd cheers. (3) Ambient noise of a large outdoor crowd shouting and whistling is heard throughout the clip, mixing with the amplified stage music. (4) The music continues at a consistent high volume and fast tempo until the video ends.",
+      "text_narrative_log": "(1) Functional Text: 'POV 當你看到薩諾斯TOP' (POV when you see Thanos TOP) appearing at the top center, setting the context. (2) Decorative Text: '可愛 😂😂😂' (Cute) appearing in the middle of the screen during the dance sequence, expressing a playful tone. (3) Functional Text: '有人喜歡薩諾斯角色嗎！！' (Does anyone like the Thanos character!!) appearing as a prompt for the audience. (4) Descriptive Text: '邊跳舞邊退場 😂😂😂' (Leaving the stage while dancing) appearing as the performers exit, describing the humorous action."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 3.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro (Reaction) -> Performance Highlight -> Outro (Exiting stage)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 15,
+      "maleDetectAmount": 8,
+      "femaleDetectAmount": 7,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 female reactor in POV, 1 male main performer in suit, 4-5 dancers on stage, and a large crowd in the foreground.",
+      "mainCharacterDescription": "The main reactor is a woman with long dark hair in a green and white jersey; the stage performer is a man in a formal black suit with short dark hair."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Stage",
+          "Event Venue"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A large outdoor stage with bright LED screens displaying pink and purple graphics, surrounded by stage trusses and professional lighting equipment; a large crowd of spectators is visible in the dark foreground.",
+      "lightingStyle": "Intense neon stage lights",
+      "weather": "Clear night",
+      "season": "Summer",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Microphone",
+        "Stage Lights",
+        "LED Screen"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 50,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat K-pop/Dance",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd",
+        "Outdoor atmosphere"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Performance -> Outro",
+      "mainPurpose": "To capture and share the excitement and humor of a live event featuring an influencer (likely Brian Tseng) performing a parody of a K-pop idol (Thanos TOP), emphasizing the 'fan experience' through the initial emotional reaction shot.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video appears to be a personal vlog or fan recording of a live entertainment event.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of 'POV' text hook, 'holding back tears' emojis, and the 'Squid Game' tracksuit visual theme.",
+      "freeDescribe": "The video leverages current pop culture trends (Squid Game, K-pop) and local influencer meta-humor (Thanos/Brian Tseng) to generate social media engagement."
+    }
+  }
+}

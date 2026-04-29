@@ -1,0 +1,172 @@
+{
+  "videoName": "0_shufen-20251208180741-1211721060594889.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 15,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Commentary"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Kaohsiung"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long black hair, sunglasses on her head, and a patterned camisole is speaking directly into the camera in a park setting. She has a bright smile and expressive facial movements. (2) She continues her story, her expression shifting from amusement to a mock-surprised or startled look, touching her chest with her hand. (3) She finishes her story with a laugh, remaining in the same static POV position with trees and a park path visible in the background.",
+      "audio_narrative_log": "(1) A female voice speaks in a high-pitched, excited, and humorous tone in Mandarin. Background includes soft ambient park noise and distant bird chirping. (2) A sudden, loud, deep male voice shouts \"Shufen!\" (淑芬), which is clearly a sound effect or a recorded snippet used for the anecdote. (3) The woman resumes speaking, followed by a burst of canned laughter and her own chuckle as she concludes the story.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles appear at the bottom translating her speech about an encounter in Kaohsiung's Central Park. (2) Decorative/Hook Text: A bold character \"淦\" (Damn/Wow) appears briefly at the start to hook the viewer's attention. (3) Content includes specific mentions of an \"Abé\" (uncle) shouting a name."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 15,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Storytelling Anecdote -> Reaction/Laughter"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head",
+        "Shoulders",
+        "Chest",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator in a selfie-style POV shot.",
+      "mainCharacterDescription": "Young woman with long dark hair, wearing sunglasses as a hair accessory and a low-cut patterned floral/animal print dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Park"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A public park with tall trees, a paved walking path, and green grass patches under bright daylight.",
+      "lightingStyle": "Natural bright daylight",
+      "weather": "Sunny",
+      "season": "Summer/Spring",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and bright",
+      "cameraWork": [
+        "POV",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Central Park, Kaohsiung"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut between narration and sound effects",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, humorous, and friendly",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Meme Shout",
+        "Canned Laughter"
+      ],
+      "ambientNoise": [
+        "Park",
+        "Birds"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Narrative Anecdote -> Resolution/Punchline",
+      "mainPurpose": "The video is a short social media vlog where the creator shares a humorous personal anecdote about being startled by an elderly man shouting a name in a park, only to realize he wasn't calling her. The objective is entertainment and audience engagement through relatable storytelling.",
+      "visualEmotion": "Humorous and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-angle selfie POV, use of expressive facial reactions, and localized storytelling referencing specific places in Taiwan.",
+      "freeDescribe": "The video relies heavily on the creator's personality and the comedic timing of the audio cues (shouting/laughter) to drive engagement."
+    }
+  }
+}

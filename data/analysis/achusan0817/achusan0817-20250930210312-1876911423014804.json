@@ -1,0 +1,174 @@
+{
+  "videoName": "achusan0817-20250930210312-1876911423014804.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 46,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Animation",
+        "Comedy",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Hsinchu"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a 2D animation; it begins with a bald cartoon character sitting on a train or bus, looking thoughtful. (2) He turns to talk to his dark-haired friend, showing a nervous then frantic expression as he discusses meeting parents. (3) A brief still photograph of a real Caucasian family is inserted during the dialogue for comedic effect. (4) The scene transitions to the character practicing a polite greeting against a pink patterned background. (5) The setting shifts to a room where the two characters are sitting; the friend explains the itinerary. (6) The bald character's expression changes from anticipation to deadpan disappointment as the list is revealed. (7) The video ends on a close-up of the bald character looking annoyed.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic BGM starts immediately. A frantic male voice speaks in Mandarin with a high pitch, followed by a calmer, deeper male voice. (2) The background music maintains a consistent, bouncy rhythm as the dialogue continues back and forth. (3) Ambient sound is minimal, focusing entirely on the character voices and the BGM. (4) The music cuts suddenly at the end, followed by a single 'slap' or 'ping' sound effect for comedic timing.",
+      "text_narrative_log": "(1) Top banner: '阿啾小劇場' (Ah Choo's Mini Theater), Decorative. (2) Functional subtitles: Mandarin Chinese translation of the spoken dialogue. (3) Bottom hook text: '第一次被朋友帶去新竹以為可以去很多景點的me' (Me thinking I'd visit many spots when a friend first took me to Hsinchu), Humorous hook. (4) '完整影片在 Youtube' (Full video on YouTube), Functional call to action."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro setting the context -> Nervous dialogue -> The reveal of the joke/anticlimax -> Outro reaction."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main animated characters; 3 real people in a inserted photograph (1 man, 1 woman, 1 child).",
+      "mainCharacterDescription": "One bald character with large ears wearing a black shirt; one character with messy dark hair wearing a red shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Cafe",
+          "Public Transport",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A stylized bus interior with windows; a simple indoor room with a window showing a cityscape; a pink background with geometric patterns for practice shots.",
+      "lightingStyle": "Bright, flat animation lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Static",
+        "Mid-shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Bus"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Big City"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Comedic and expressive",
+        "pitch": "Varied (High to Mid)",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ping",
+        "Meme sounds"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Setup -> Interaction -> Punchline",
+      "mainPurpose": "To humorously critique the lack of diverse tourist destinations in Hsinchu City, Taiwan, by showing that every proposed activity by a local friend leads back to the 'Big City' shopping mall.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The mention of Big City mall is part of a local cultural joke rather than a commercial promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Distinctive 2D character design (Ah Choo), high-speed Mandarin delivery, and regional humor specific to Taiwan.",
+      "freeDescribe": "The video relies heavily on the 'Hsinchu is a desert for fun' meme, where 'Big City' is the only place people go."
+    }
+  }
+}

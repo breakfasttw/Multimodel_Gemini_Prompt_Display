@@ -1,0 +1,177 @@
+{
+  "videoName": "cocowine0205-20251006235505-937812772032809.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 60,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a live-action vlog set in a warehouse store. A young woman wearing a black beret and a sheer top stands in an aisle filled with potted plants. (2) She points toward a Fiddle Leaf Fig plant and a price tag showing $899. (3) The camera moves closer to show the detail of the leaves and the woman's facial expressions as she speaks enthusiastically. (4) A close-up shot focuses on the care instructions on the label while her hand points to the text. (5) She gestures broadly with her hands and poses playfully to end the video.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music starts immediately. A female voice speaks with a high-pitched, excited, and persuasive tone. (2) A male voice responds off-camera with a friendly and humorous tone, engaging in a dialogue with the woman. (3) Background sounds of a busy warehouse, including the low rumble of shopping carts and distant ambient chatter, are present. (4) Short cartoon-style sound effects (SFX) play when decorative text appears on the screen.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo at the top throughout. (2) Decorative Text: 'Only 899 NTD' and 'Exaggeratedly cheaper than IKEA' appear in large, colorful fonts to highlight the value proposition. (3) Functional Text: Subtitles at the bottom translate the spoken Mandarin dialogue. (4) Decorative Text: 'Forest-style or crazy?' and 'Just kidding' appear to emphasize the humorous interaction."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 4.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Price/Value Comparison -> Product Care Details -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator on-screen, 1 male voice off-camera, and at least 2 passers-by visible in the background aisles.",
+      "mainCharacterDescription": "A young female with long dark hair wearing a black Kangol beret, a black sheer off-the-shoulder top over a grey tank, and distressed denim jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Costco"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A warehouse retail environment with high industrial ceilings, large steel shelving units stacked with boxes, and a specialized plant display area.",
+      "lightingStyle": "Bright, cool-toned warehouse lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Vibrant",
+      "cameraWork": [
+        "Handheld",
+        "Zoom",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "KANGOL"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and friendly",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat pop",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Warehouse echo",
+        "Shopping cart movement"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Comparison -> Education -> Closing",
+      "mainPurpose": "The video is a lifestyle and shopping recommendation vlog aimed at budget-conscious consumers interested in home decor. It synthesizes a visual demonstration of a product's quality with a spoken price comparison against a major competitor (IKEA) to persuade the audience of the item's value at Costco.",
+      "visualEmotion": "Energetic and positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct comparison of prices between retailers and a verbal recommendation of the product's value.",
+      "endorsementObject": [
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Humorous banter with an off-screen partner and the use of 'Forest-style' (森系) subculture terminology.",
+      "freeDescribe": "The video utilizes high-density text and quick cuts typical of short-form social media commerce content designed to drive foot traffic to retail stores."
+    }
+  }
+}

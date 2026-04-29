@@ -1,0 +1,180 @@
+{
+  "videoName": "yga0721-20250430234205-927066019741199.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 59,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Commentary",
+        "Vlog",
+        "Clarification"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man and a woman are seated at a wooden desk in front of a blue curtain, both wearing bright orange jumpsuits with patches. The man is holding a stack of papers and gesturing animatedly while looking at the camera. (2) A series of quick cuts showing the 'hahababy' YouTube channel page and various behind-the-scenes clips of manufacturing processes: factory workers sewing clothes, safety helmets being painted, and suitcases being assembled. (3) The scene returns to the studio where the man points aggressively toward the camera and makes exaggerated facial expressions (opening mouth wide, touching forehead in frustration) while the woman speaks calmly beside him.",
+      "audio_narrative_log": "(1) Fast-paced, high-pitched male voice speaking in Mandarin with an excited and urgent tone, accompanied by upbeat, high-tempo background music with a strong electronic beat. (2) Sound of factory machinery and ambient workplace noise layered under the continuing music. (3) The man shouts emphatically 'Mei-You-Nei!' (Not at all!) while the woman's voice joins in with a more measured, steady tone explaining manufacturing details.",
+      "text_narrative_log": "(1) Functional Text: '其實這整篇最嚴重的 烏賊戰' (Actually, the most serious smear campaign in this whole thing). (2) Decorative Text: '(林小姐 記得去訂閱)' (Miss Lin, remember to subscribe) with a channel icon. (3) Functional Text: 'hahababy 出任務' (hahababy on a mission). (4) Hook Text: '衣服真的都台灣製嗎?' (Are the clothes really all made in Taiwan?). (5) Decorative Text: '沒有餒' (Not at all/No way) in large yellow characters with impact lines."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro/Hook -> Montage of manufacturing evidence -> Emphatic refutation and closing."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Torso"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 1 main female co-host, at least 2 workers visible in factory B-roll clips.",
+      "mainCharacterDescription": "A man with styled brown hair and a woman with long dark hair, both wearing matching high-visibility orange jumpsuits with 'I GOT MY COVID-19 VACCINE' patches."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Factory"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A simple studio setup with a teal curtain and microphones; interspersed with industrial factory interiors containing sewing machines and assembly lines.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Curry pack",
+        "Snacks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "PC/Monitor"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "hahababy"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Indignant, humorous, and energetic",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Taiwanese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Swoosh",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Factory hum"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Evidence -> CTA",
+      "mainPurpose": "The video serves as a defensive rebuttal against accusations of false labeling. The creator uses high-energy delivery and visual proof (factory footage) to demonstrate that his brand, hahababy, actually manufactures its products in Taiwan, countering claims of a 'smear campaign' or 'ink-fish war' regarding product origins.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct showcase of brand name, YouTube channel, and manufacturing process for 'hahababy' products.",
+      "endorsementObject": [
+        "hahababy"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Cai A-ga's signature high-energy shouting and variety-show style text graphics.",
+      "freeDescribe": "The video uses a 'transparency' strategy common in influencer marketing to build trust by showing 'behind-the-scenes' factory operations."
+    }
+  }
+}

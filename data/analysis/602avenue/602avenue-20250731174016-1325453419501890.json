@@ -1,0 +1,196 @@
+{
+  "videoName": "602avenue-20250731174016-1325453419501890.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 66,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Lifestyle",
+        "Sponsorship"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan",
+          "South Korea"
+        ],
+        "city": [
+          "Seoul"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young Asian female creator with long brown hair smiles at the camera while holding a passport and ticket in a hallway. (2) Scene shifts to her inside an airplane showing a flight meal and then her passport. (3) Upon landing, she walks through a terminal and is met by a man in a white shirt holding a Netflix sign next to her luggage. (4) She enters a luxury black van, then arrives at the Fairmont Ambassador Seoul, which has staff dressed in red Squid Game outfits. (5) She tours a luxury hotel suite with two beds, showing various gift packs and snacks on the bed. (6) She visits a convenience store aisle filled with instant noodles. (7) She changes into a floral dress and dines at 'Dahlia Dining', showing close-ups of gourmet dishes and drinking wine. (8) The video ends with her speaking directly to the camera in various outfits, using hand gestures to engage the audience.",
+      "audio_narrative_log": "(1) Energetic, upbeat pop music with a fast tempo starts. A high-pitched, excited female voice speaks in Mandarin. (2) Occasional 'ding' and cash register sound effects occur when price tags appear on screen. (3) The female voice continues a continuous narration over the scenes of travel and hotel arrival. (4) Background ambient noise of a busy airport and restaurant chatter is briefly audible but suppressed by the BGM. (5) At the end, the creator switches to speaking Korean with a friendly and polite tone before returning to Mandarin for the closing call to action.",
+      "text_narrative_log": "(1) Functional Text: 'NETFLIX 招待我回家 24小時能花多少?' (Netflix invited me home, how much can I spend in 24 hours?) as a hook title. (2) Decorative Text: Prices like '$14,000NT', '$800NT', '$10,700NT/晚', and '$4,000NT/桌' appearing to track expenses. (3) Functional Text: Subtitles in Traditional Chinese translating the creator's narration about the trip and the 'Squid Game' themed experience. (4) Decorative Text: '**有抽獎**' (There is a giveaway) and '總金額答案會在下一集公佈' (The total amount answer will be announced in the next episode) to create engagement."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.57,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Travel Logistics -> Hotel Experience -> Gourmet Dining -> Engagement/Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 1 female companion/assistant seen briefly, 1 male driver, 1 male staff member, 2 staff in red jumpsuits, 2-3 background passers-by.",
+      "mainCharacterDescription": "A young Asian woman with long wavy brown hair, wearing a white knit top initially and a sleeveless floral dress during dinner."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Airport",
+          "Airplane",
+          "Hotel Lobby",
+          "Hotel Suite",
+          "Restaurant",
+          "Convenience Store"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern airport terminal, airplane cabin with trays, luxury hotel lobby with Squid Game branding, hotel room with city view, and an upscale restaurant with soft lighting.",
+      "lightingStyle": "Bright indoor lighting and natural daylight.",
+      "weather": "Clear",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English",
+          "Korean"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and warm",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Handheld/Vlog-style"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Noodles",
+        "Chicken",
+        "Bread",
+        "Gnocchi",
+        "Lasagna",
+        "Mapo Tofu",
+        "Wine"
+      ],
+      "trafficDetect": [
+        "Airplane",
+        "Luxury Van"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Netflix",
+        "Fairmont",
+        "Rode"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade and Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, energetic, and friendly",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Korean"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Vlog",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Cash Register",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Airport announcement",
+        "Restaurant chatter"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Step-by-step Experience -> Engagement CTA",
+      "mainPurpose": "The video serves as a promotional vlog for Netflix, showcasing a luxury sponsored trip to South Korea. It uses the narrative hook of 'spending someone else's money' to keep viewers engaged while highlighting specific brand partners like Fairmont hotels and themed promotions for 'Squid Game'. The creator blends lifestyle content with influencer marketing to drive engagement through a guessing game/giveaway.",
+      "visualEmotion": "Energetic, luxurious, and cheerful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct mention of Netflix inviting her, constant brand logos, and specific focus on themed services provided by the brand.",
+      "endorsementObject": [
+        "Netflix"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin narration, price-tracking overlay style common in budget/expense vlogs.",
+      "freeDescribe": "The video effectively utilizes the 'Squid Game' IP (Intellectual Property) to create visual interest and brand synergy. The use of NTD (Taiwanese Dollars) suggests the target audience is specifically the Taiwanese market."
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "videoName": "cocowine0205-20250804151108-1975799529679749.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 57,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman in a gray coat stands in a Costco store, holding a green bag of potatoes. She looks excited and surprised. (2) The camera pans to a shelf filled with the same product. A price tag showing \"$349\" is visible. (3) The woman holds the bag closer, pointing at the details while talking. (4) Scene shifts to a home setting where two women sit at a table with the product. They are interacting with the camera and each other. (5) They open the bag, take out a potato, and eat it with a fork, expressing their opinions through facial expressions.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat background music begins. A high-pitched female voice speaks excitedly about finding a product. (2) An off-screen male voice briefly joins the conversation, sounding supportive. (3) The music continues at a steady pace. At the home scene, two female voices take turns speaking in a friendly, conversational tone, detailing price calculations and cooking instructions. (4) Ambient indoor noise is low. Sound of plastic packaging rustling and forks clicking on a plate can be heard occasionally.",
+      "text_narrative_log": "(1) \"終於出現了\" (Finally appeared) - excited hook. (2) \"你看一整排\" (Look, a whole row) - emphasis on stock. (3) \"日本北海道奶油馬鈴薯\" (Japan Hokkaido Butter Potato) - product identification. (4) \"$349\" - pricing info. (5) \"1.1公斤有三入\" (1.1kg with 3 packs). (6) \"每一顆馬鈴薯是29塊錢\" (Each potato is 29 dollars) - cost analysis. (7) \"澳洲白玉馬鈴薯\" (Australia White Jade Potato) - comparative recommendation."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 16,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Discovery at store -> Product details -> Home tasting -> Comparison and conclusion."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, several shoppers in the background of the Costco scene",
+      "mainCharacterDescription": "Woman 1: long dark hair, wearing a gray coat and black turtleneck. Woman 2: wearing a white shirt and a black beret."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Store",
+          "Indoor Home"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The first scene is a bright, busy Costco warehouse with refrigerated shelves and shoppers. The second scene is a modern home dining area with warm lighting and a neutral wall.",
+      "lightingStyle": "Bright retail lighting followed by warm home interior lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and bright",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Potato",
+        "Butter Potato"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, excited, and informative",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Indoor store chatter"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Context -> Experience -> Recommendation",
+      "mainPurpose": "To review a restocked food product at Costco. The creator captures the excitement of finding the Japan Butter Potato, provides practical information about its cost and preparation, and concludes with an honest taste test and a recommendation of a better-value alternative, the Australia White Jade Potato.",
+      "visualEmotion": "Energetic and Curious"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The review contains a critical comparison with another product, suggesting it's an organic lifestyle review rather than a paid promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing with colorful Chinese text overlays and a focus on Costco lifestyle trends.",
+      "freeDescribe": "The video effectively uses the 'scarcity' angle (product finally appearing) to drive engagement before offering a practical, value-based critique."
+    }
+  }
+}

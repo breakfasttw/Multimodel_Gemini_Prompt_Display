@@ -1,0 +1,175 @@
+{
+  "videoName": "602avenue-20250720235627-1716019942709266.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 51,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Beauty",
+        "Product Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with dark hair and a green ribbed top appears on screen, holding an eyelash serum bottle while a split-screen shows a close-up of an eye. (2) Close-up shots of the 'innete' brand eyelash serum and its dual-ended applicator are shown. (3) A montage follows showing the application process on different eyes and a day-by-day progression from Day 1 to Day 28, illustrating lash growth. (4) The main woman returns to screen, speaking excitedly and gesturing with the product, eventually showing a photo of herself with Korean beauty YouTuber Soyoon to announce a group buy.",
+      "audio_narrative_log": "(1) Upbeat, energetic electronic pop music starts immediately as a high-pitched, enthusiastic female voice begins speaking in Mandarin. (2) The music remains at a steady, fast tempo with occasional 'ting' and 'pop' sound effects synchronized with text appearing on screen. (3) The vocal intensity increases as the speaker highlights the special offer, with the music maintaining its cheerful atmosphere until the end.",
+      "text_narrative_log": "(1) '近期韓網爆紅 不需卸妝的睫毛液!?' - Hook text in bold colors. (2) '沒睫毛的快來看... 韓國人都刷這個' - Descriptive hook. (3) 'innete日夜雙效睫毛滋養液' - Functional product name. (4) '75萬韓國美妝Youtuber Soyoon共同研發' - Authority claim. (5) 'DAY 1... DAY 28' - Chronological progress markers. (6) '單獨拿到全台最低價團購' - Promotional offer text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Product Feature Demo -> Visual Evidence (Montage) -> Social Proof/Collaboration -> Group Buy Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face close-up",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator, 1 female YouTuber (Soyoon) in a photo, and 2 additional females shown in application/result clips.",
+      "mainCharacterDescription": "A young woman with long dark hair, light skin, wearing a green ribbed button-down top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A clean indoor setting with a plain light-colored wall and soft lighting; split screens show extreme close-ups of eyes and product details.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Split-screen"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "innete"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and persuasive",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "UI pop",
+        "Bling sound"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Product Intro -> Evidence Montage -> Authority Proof -> CTA",
+      "mainPurpose": "To promote and sell the innete eyelash serum by demonstrating its effectiveness over a 28-day period and offering a limited-time lowest-price group buy discount.",
+      "visualEmotion": "Energetic and Convincing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator directly handles the product, lists its benefits, shows personal/user results, and provides a direct call-to-action for a group purchase.",
+      "endorsementObject": [
+        "innete"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density text overlays and split-screen comparisons typical of commercial beauty vlogs.",
+      "freeDescribe": "The video leverages the popularity of Korean beauty trends and a specific collaboration with a known YouTuber (Soyoon) to build trust and urgency."
+    }
+  }
+}

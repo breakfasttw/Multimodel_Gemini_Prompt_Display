@@ -1,0 +1,176 @@
+{
+  "videoName": "2uncle987-20250727043748-1569088807473320.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 51.5,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Recommendation",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taoyuan"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in a multi-colored knit sweater stands in a bright shopping mall, speaking enthusiastically and pointing to a yellow promotional sign for 'OASIS'. (2) Close-up shots of a variety of colorful meringue cookies topped on small round crackers; the host is shown holding a bag of these snacks and taking a bite, smiling with satisfaction. (3) The video transitions to several packaged bags of snacks with different flavor labels like Matcha and Oreo; the host then stands behind a display counter filled with these bags. (4) The host continues to eat the snack while gesturing towards the camera, eventually posing with six bags of the product spread out on the counter. (5) The final sequence shows a close-up of a promotional poster detailing store offers and the wide-angle view of the 'OASIS' pop-up stall located in the mall basement.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic pop music plays throughout. A young female voice speaks with a high-pitched, energetic, and welcoming tone, introducing a 'hidden snack' at a pop-up store. (2) The music continues as the female voice describes the product's texture as being like 'crispy cotton candy' and lists various flavors. (3) Subtle sounds of plastic packaging crinkling and crunching are heard as she tastes the snack. (4) The female voice transitions into a promotional call-to-action, announcing a giveaway while the music maintains its steady, cheerful pace. (5) The audio concludes with her providing specific location and date details, with the music fading out at the very end.",
+      "text_narrative_log": "(1) '我最近來看我們的快閃店的時候，發現了一個超刷嘴的隱藏零食' (I found a super addictive hidden snack while visiting our pop-up store) - Hook text, Tone: Excited. (2) 'OASIS 馬琳糖專賣店 快閃特惠' (OASIS Meringue Specialty Store Pop-up Special) - Functional text. (3) '低油、減糖的蛋白糖霜餅乾' (Low-oil, sugar-reduced meringue cookies) - Functional text, Tone: Informative. (4) '抹茶、檸檬、OREO、焦糖脆脆' (Matcha, Lemon, Oreo, Caramel Crispy) - Functional text. (5) '抽兩位送六包！' (Choosing two winners to give away six bags!) - Promotional hook, Tone: Energetic. (6) '1/3 到 2/10... 桃園台茂 B2' (Jan 3 to Feb 10... Taoyuan Taimall B2) - Functional text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Host Intro -> Product Close-ups & Tasting -> Flavor Showcase -> Giveaway CTA -> Location Info."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Torso"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female host; 1 female staff member briefly visible in the background at the counter.",
+      "mainCharacterDescription": "A young female with long dark hair, wearing a white sweater with blue and purple patches and a black skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Shopping Mall"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern shopping mall interior with escalators, retail signage, and a dedicated pop-up stall area featuring white counters and glass displays filled with snacks.",
+      "lightingStyle": "Bright studio-like mall lighting",
+      "weather": "Indoor",
+      "season": "Winter",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese (Traditional)"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and Warm",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Meringue Cookies",
+        "Crackers",
+        "Strawberry Snacks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "Taimall Shopping Center"
+      ],
+      "brandLogos": [
+        "OASIS 馬琳糖專賣店"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and Humorous",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Mall background chatter"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Promotion -> CTA -> Info",
+      "mainPurpose": "The video serves as a promotional vlog to drive traffic to the 'OASIS' meringue cookie pop-up store at the Taimall shopping center. It uses a personal recommendation format where the host tastes the product, highlights its health-conscious attributes (low oil/sugar), and offers a giveaway to boost social media engagement.",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The host specifically visits the brand's stall, demonstrates the product, lists its benefits, and organizes a giveaway specifically for that brand.",
+      "endorsementObject": [
+        "OASIS 馬琳糖專賣店"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy vlog style with traditional Chinese variety-show text overlays.",
+      "freeDescribe": "The video uses a 'hidden gem' narrative to create a sense of exclusivity for the pop-up store."
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "videoName": "cocowine0205-20250521182504-945150058316974.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 53,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a black and white outfit, stands in front of a freezer at a Costco warehouse, gesturing towards the products. (2) She opens the freezer door and retrieves a blue and orange box of seafood buns, showing it to the camera. (3) The scene shifts to an indoor dining area where the woman and a friend (wearing a dark beret) are seated at a table. (4) They present cooked white buns on a plate and split one open to show the steaming seafood filling inside. (5) The two women are filmed from a medium shot as they eat the buns, talk excitedly, and provide hand gestures of approval.",
+      "audio_narrative_log": "(1) An upbeat, high-tempo electronic pop track plays. A high-pitched female voice speaks with an enthusiastic tone. Faint ambient warehouse store noise is heard. (2) Frequent cartoon-style sound effects (pings, dings) sync with text overlays. (3) The acoustic environment shifts to a cleaner, studio-like indoor sound as two female voices interact in a conversational but fast-paced manner. (4) The music remains constant throughout the transitions.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo and '宏裕行新品' (Hong Yu New Product). (2) Decorative Hook: '一顆40元！值得嗎？' (40 per piece! Worth it?) in a bold font. (3) Functional Text: '澎湃海鮮包' (Premium Seafood Bun) variety title. (4) Functional Information: '一箱有10顆 總共399元' (10 pieces for 399 total) and '微波加熱只需700瓦兩分鐘' (700W microwave for 2 mins). (5) Decorative/CTA: '非常推薦試試看哦' (Highly recommend trying it) and '留言告訴我們' (Leave a comment to tell us)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at store -> Product selection -> Home taste test -> Summary and Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main creators (females), 2 female shoppers visible in the background at Costco.",
+      "mainCharacterDescription": "Main creator has long dark hair, wearing a black dress with white puffy sleeves. Her friend wears a dark beret and a light-colored knit top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse Store",
+          "Indoor Dining Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene shows commercial glass-door freezers in a Costco warehouse; second scene is a modern home interior with a white marble-pattern table.",
+      "lightingStyle": "Bright indoor lighting and studio-style fill light.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Buns",
+        "Seafood",
+        "Shrimp",
+        "Cuttlefish"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "宏裕行"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade and Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Pop",
+        "Glissando"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Warehouse store background"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Introduction -> Demonstration -> Sensory Review -> Recommendation.",
+      "mainPurpose": "To review a new frozen seafood bun product from Costco, providing price information, preparation instructions, and a subjective taste test to help viewers decide if the product is worth purchasing.",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed focus on the brand name '宏裕行', showing the packaging clearly, and providing specific cooking instructions and price points.",
+      "endorsementObject": [
+        "宏裕行"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced variety-show style captions and high-pitched energetic vocal delivery.",
+      "freeDescribe": "The video follows a standard social media 'food haul/review' format, utilizing high-density text overlays to maintain viewer engagement and provide information quickly."
+    }
+  }
+}

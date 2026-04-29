@@ -1,0 +1,178 @@
+{
+  "videoName": "cocowine0205-20250422201507-909238751864877.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 28,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping",
+        "Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Two women stand in a Costco warehouse aisle; the one on the left holds a giant green Rex (Toy Story) plush. They both smile and gesture excitedly. (2) The woman on the right, wearing a blue off-the-shoulder top and a bucket hat, speaks to the camera while pointing at the plush. (3) She pulls a green and white checkered blanket out from the plush toy's back. (4) She unfolds and displays the blanket, showing silhouettes of various Toy Story characters. (5) They both hug the plush together, then the camera zooms in on the plush's face as the video ends.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic pop music starts immediately. A high-pitched, excited female voice introduces the 'Super Large Hugging Dragon'. (2) The music continues at a steady volume as the speaker explains the price and compares the convenience of buying it at Costco versus a Disney theme park. (3) Sound effects of 'rustling' and 'pop' are heard as the blanket is pulled out. A second female voice is heard briefly saying 'Oh, so cute!'. (4) The main speaker continues describing the patterns on the blanket and the weight of the plush, concluding with a recommendation for kids' age.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo remains at the top. (2) Hook Text: '超大抱抱龍' (Super Large Hugging Dragon) with '哇' (Wow) emotional stickers. (3) Functional Text: '2249元' (2249 dollars) price tag. (4) Decorative Text: Narrates the struggle of bringing large toys home from Disney vs. Costco. (5) Functional Text: '有附毯子' (Blanket included) and '玩具總動員' (Toy Story). (6) Functional Text: Detailed description of the plush's 'healing' face and weight suitability for kids over 10."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Price/Comparison -> Feature Demo (Blanket) -> Final Impression"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main female speaker, 1 female assistant holding the plush",
+      "mainCharacterDescription": "A young female wearing a blue off-the-shoulder top, blue jeans, and a grey bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Retail",
+          "Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "Costco warehouse interior with shelves full of toys and pink plushies in the background.",
+      "lightingStyle": "Industrial indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Dinosaur (Plush)"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "Disney",
+        "Pixar"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop",
+        "Sparkle"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Price/Value -> Feature Reveal -> Recommendation",
+      "mainPurpose": "The video serves as a shopping recommendation and product review, specifically targeting Toy Story fans. It highlights a value proposition by comparing the ease of purchase at Costco versus Disney parks, while demonstrating the unique 'hidden blanket' feature to drive consumer interest.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed pricing, store location identification, and specific product feature demonstration.",
+      "endorsementObject": [
+        "Costco",
+        "Disney Toy Story Rex Plush"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy presentation style with heavy use of colorful variety-show style text overlays.",
+      "freeDescribe": "The use of the Costco logo throughout the video acts as a strong anchor for location-based shopping content."
+    }
+  }
+}

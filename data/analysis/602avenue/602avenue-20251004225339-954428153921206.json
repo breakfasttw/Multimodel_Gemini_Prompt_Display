@@ -1,0 +1,171 @@
+{
+  "videoName": "602avenue-20251004225339-954428153921206.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 11,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Dance",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Two women, an older one in a hat and glasses and a younger one in a white dress, stand on a paved road beside a green rice field. They appear to be talking and laughing. (2) The pair begins a synchronized dance routine involving hand-holding, spinning, and rhythmic leg kicks. Their facial expressions are joyful and enthusiastic. (3) They finish the routine by striking a pose together and smiling directly at the camera while standing in the middle of the road.",
+      "audio_narrative_log": "(1) Upbeat electronic dance music starts immediately with a clear, rhythmic percussion track. No vocals are detected. (2) The music maintains a consistent, high-energy tempo as the women dance. Ambient environment noise is completely absent, replaced by the studio-quality music track. (3) The music track continues until the final frame without interruption or vocal additions.",
+      "text_narrative_log": "(1) Decorative Hook: \"POV 每次要解釋她不是我的大姐🤣\" (POV: Every time I have to explain she is not my eldest sister) appears at the top; Tone is humorous and proud. (2) Functional Text: \"(? 歲)\" (? years old) appears over the older woman; Tone is playful and inquisitive. (3) Functional Text: \"(女兒)\" (Daughter) appears over the younger woman; Tone is clarifying."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 11.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro talking -> Main dance performance -> Outro pose"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female characters in the center of the frame",
+      "mainCharacterDescription": "One older woman wearing a sun hat, glasses, navy t-shirt, and grey trousers. One younger woman with long brown hair wearing a white puff-sleeve top and matching long white skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Roadside",
+          "Rural Field"
+        ],
+        "topography": [
+          "Plain",
+          "Hill"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A rural paved road running alongside a lush green rice field with forested hills in the background under a clear sky.",
+      "lightingStyle": "Natural bright sunlight",
+      "weather": "Sunny",
+      "season": "Summer/Autumn",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and High Saturation",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Dance",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Performance -> Outro",
+      "mainPurpose": "The video is designed to showcase the energetic and youthful dynamic between a mother and daughter. By utilizing a popular dance challenge format and a humorous 'POV' hook about age-defying appearances, the content seeks to engage viewers through a mix of family sentiment and viral entertainment trends.",
+      "visualEmotion": "Joyful and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Mother-daughter dance challenge, Rural background contrast",
+      "freeDescribe": "The contrast between the traditional rural setting and the modern dance challenge enhances the video's charm and relatability."
+    }
+  }
+}

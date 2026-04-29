@@ -1,0 +1,184 @@
+{
+  "videoName": "2uncle987-20250311234240-4391363607848498.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 73,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Vlog",
+        "Event"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Chiayi"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in a blue patterned oversized shirt stands before a school entrance, gesturing enthusiastically toward the camera. (2) Chronological montage of a car journey starting in the dark at 5:30 AM, transitioning through various timestamps to sunrise on the highway and arrival at a school campus with multiple colorful buses parked. (3) Interaction in an office environment with school staff, followed by a transition to a large indoor gymnasium filled with students seated on floor mats. (4) The woman is shown on stage receiving an award, giving a speech with a microphone, and presenting a gift. (5) Interaction segment showing her handing out HAHABABY branded snacks to students, signing autographs on various items, and taking group photos with female students. (6) Closing shot of the woman's hand signing a document with an inspirational message.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic pop music starts immediately with a loud female exclamation in Mandarin asking 'Where are we today?'. (2) The music continues as a constant backdrop through the travel montage, with minimal environmental noise. (3) Transition to field recordings at the school, featuring the main character's excited conversational voice and background chatter from staff. (4) In the gymnasium phase, the audio includes microphone-amplified speech, echoing gymnasium acoustics, and loud collective cheers and applause from a large crowd of students. (5) Occasional cartoon-style sound effects (pops and sparkles) coincide with text overlays. (6) The final phase blends the background music with the sounds of pens on paper and excited student voices during the autograph session.",
+      "text_narrative_log": "(1) '今天在哪裡？' (Where are we today?) - Hook with excited tone. (2) '輔仁中學' (Fu Jen High School) - Functional location label. (3) '5:30 AM', '6:00 AM', '7:00 AM', '8:00 AM' - Functional travel progress markers. (4) '台北-嘉義 (抵達)' (Taipei to Chiayi Arrival) - Functional. (5) '老師訓話中' (Teacher lecturing) and '調皮的學生' (Naughty student) - Decorative/Humorous captions. (6) '上台前皮皮挫' (Nervous before going on stage) - Emotional hook. (7) '好里家 x 輔仁中學無人機' - Functional event/endorsement title. (8) '選擇接受自己的選擇' (Choose to accept your own choice) - Inspirational text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 38,
+      "averageSceneDuration": 1.9,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Travel Montage -> Event Ceremony -> Student Interaction -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 100,
+      "maleDetectAmount": 40,
+      "femaleDetectAmount": 60,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main female influencer, approximately 5 staff members, and a gymnasium crowd of over 80 students.",
+      "mainCharacterDescription": "An Asian female with hair in low braids, wearing a light blue oversized button-down shirt featuring white and blue floral patterns on the lower back, black shorts, black socks, and black platform loafers."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Indoor School Gymnasium",
+          "Office",
+          "Car Interior"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Features the exterior of a white school building with green banners, highway scenes at dawn, an office with portraits of officials, and a large indoor school gymnasium with blue floor mats and a stage with a projection screen.",
+      "lightingStyle": "Mixed: Natural daylight for outdoor scenes and car journey; bright indoor fluorescent lighting in the gymnasium and office.",
+      "weather": "Clear/Sunny",
+      "season": "Spring",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Follow shot",
+        "POV",
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Rice crackers",
+        "Snack bags"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Bus"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Microphone",
+        "Projector"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "HAHABABY"
+      ],
+      "instrumentsVisible": [
+        "Piano"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 50,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "high-pitched and excited",
+        "pitch": "Medium-high",
+        "loudness": "Normal to Loud",
+        "speed": "Normal",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop",
+        "Twinkle SFX"
+      ],
+      "ambientNoise": [
+        "Crowd chatter",
+        "Traffic"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Journey -> Climax -> Resolution",
+      "mainPurpose": "To document and share the creator's visit to Fu Jen High School for a collaborative event involving AI/Drones, showcasing her positive engagement with students and promoting her brand, HAHABABY, through a warm, community-focused lens.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Prominent display and distribution of 'HAHABABY' branded products and collaboration text on screen.",
+      "endorsementObject": [
+        "HAHABABY"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Oversized blue shirt fashion style and signature high-energy opening address.",
+      "freeDescribe": "The video uses fast-paced editing and popular social media aesthetic cues (like variety-show captions) to bridge the gap between an official school event and influencer-style content."
+    }
+  }
+}

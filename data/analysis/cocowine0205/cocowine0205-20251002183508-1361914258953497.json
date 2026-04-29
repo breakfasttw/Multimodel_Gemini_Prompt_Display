@@ -1,0 +1,179 @@
+{
+  "videoName": "cocowine0205-20251002183508-1361914258953497.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 66.0,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a woman wearing a black beret and white textured dress standing in the freezer section of a Costco warehouse, holding a box of bibigo Whole Shrimp Mandu. She gestures excitedly towards the product. (2) The scene transitions to an indoor dining area where two women sit at a table; one holds a plate of cooked dumplings while the other holds the product packaging. They use chopsticks to pull a whole shrimp out of a dumpling to show the camera. (3) Close-up shots of the frozen dumplings in their tray are shown, followed by the two women continuing to taste and discuss the food, using expressive hand gestures and facial expressions to convey their review.",
+      "audio_narrative_log": "(1) Fast-paced upbeat electronic background music starts immediately. A female voice speaks excitedly about finding the shrimp dumplings and mentions the price and quantity. (2) A male narrator's voice joins the conversation off-screen as the women describe the texture and ingredients. Sound effects like 'Wow' and 'ding' noises are interspersed to highlight specific points. (3) The conversation continues with high speech density, focusing on a price-per-piece breakdown and a final recommendation, while the upbeat music maintains a consistent tempo until the end.",
+      "text_narrative_log": "(1) Functional text: 'COSTCO WHOLESALE', '399元', '15個', '26塊'. Decorative text: '宵夜下酒菜!', 'bibigo 冷凍蝦煎餃' (2) Functional text describing food: '迷你蔥油餅', '一整條蝦', '脆脆的皮 香香的蛋'. (3) Hook text: '值得值得嗎?', '26.6元', '52塊'. Overall tone is informative and energetic."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 4.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at store -> Detailed food demo and tasting at home -> Final price analysis and verdict."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist-up"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators appearing on screen during the review.",
+      "mainCharacterDescription": "One woman is wearing a black beret and a white lace dress; the other has long dark hair and wears a black headband with a grey top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Supermarket"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Costco freezer aisles with various frozen goods; a domestic dining table with plush toys and a simple interior wall in the background.",
+      "lightingStyle": "Bright studio-like indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Dumplings",
+        "Shrimp"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "Costco"
+      ],
+      "brandLogos": [
+        "Costco",
+        "bibigo"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Meme sounds",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Demo -> Evaluation",
+      "mainPurpose": "The video aims to provide a comprehensive review of bibigo's whole shrimp dumplings purchased at Costco. It balances the excitement of a new find with a practical cost-benefit analysis, ultimately helping viewers decide if the premium price is worth the culinary quality.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed product packaging display, specific price mentions, and a direct review of the brand's taste.",
+      "endorsementObject": [
+        "bibigo",
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-contrast text overlays and rapid scene switching synchronized with audio cues.",
+      "freeDescribe": "The video uses a 'value-for-money' angle, which is a common and effective hook for grocery-focused content creators."
+    }
+  }
+}

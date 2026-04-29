@@ -1,0 +1,182 @@
+{
+  "videoName": "3ctim-20250914160559-3293185147503193.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 68,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Promotion",
+        "Food"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a woman in a light-colored top eating from a bowl of soup. (2) The scene transitions to a high-end indoor lounge area with wood-paneled walls, black leather chairs, and a long wooden table. (3) A close-up shot shows a plate of dumplings, followed by the woman and a man in a black shirt and hat sitting together at the table. (4) Detailed close-ups of beef noodles with thick broth and green onions are shown. (5) The man points and gestures as they discuss a 'zongzi' (sticky rice dumpling) wrapped in bamboo leaves on a plate. (6) The camera pans around the modern lounge interior, showing glass partitions and minimalist furniture. (7) Screenshots of mobile apps showing restaurant listings ('Knock Knock Heaven' and 'gonnaEAT') appear on screen. (8) The video concludes with the woman continuing to eat and smiling at the camera.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat background music with a steady rhythm starts immediately. A female voice speaks in an excited and friendly tone, introducing the location. (2) A male voice joins in, speaking in a professional yet conversational manner. Both voices are clear and prominent over the music. (3) Sounds of chopsticks hitting the bowl and the rustling of food packaging are audible during the close-up shots of food. (4) The dialogue continues as a back-and-forth between the man and woman, discussing the quality and variety of the food menu. (5) The music stays consistent in tempo and volume until the end of the video, maintaining an energetic atmosphere.",
+      "text_narrative_log": "(1) '我跟霓霓現在正在' (Me and Nini are now at) - Functional intro. (2) '好像貴賓室...保時捷的展間' (Seems like a VIP lounge... Porsche showroom) - Decorative setting info. (3) '超級讚的服務，來保養就可以吃東西' (Superb service, you can eat when you come for maintenance) - Hook/Promotional text. (4) '牛肉麵' (Beef noodles) with a green checkmark - Functional identifying text. (5) '水餃' (Dumplings) with a green checkmark - Functional identifying text. (6) '端午節前夕', '肉粽!' (Dragon Boat Festival eve, Meat Zongzi!) - Contextual decorative text. (7) '兩家餐廳' (Two restaurants), '356元/車' (356 TWD per car) - Functional informational text. (8) '因為我很餓啊' (Because I am very hungry) - Decorative character thought."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Food showcase -> Service explanation -> Detailed menu options -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Upper body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 female creator eating, 1 male creator talking and gesturing.",
+      "mainCharacterDescription": "A woman with long dark hair wearing a light tan sleeveless top; a man wearing a black shirt, a grey newsboy cap, and glasses."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Lounge",
+          "Showroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A luxury automotive lounge featuring modern wooden shelving, sleek black leather seating, high ceilings with glass, and decorative plants. Part of the video shows close-ups of food on white ceramic plates.",
+      "lightingStyle": "Bright studio lighting mixed with natural light from large windows.",
+      "weather": "Clear",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm, high saturation, clean",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Noodles",
+        "Dumplings",
+        "Zongzi",
+        "Soup"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Porsche"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, energetic, and enthusiastic",
+        "pitch": "Moderate",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Showcase -> Benefit -> Call-to-action",
+      "mainPurpose": "To promote the premium customer lounge and complimentary dining services offered at a Porsche maintenance center in Taiwan. By showcasing high-quality food like beef noodles and seasonal zongzi, the video aims to transform a routine car maintenance chore into a desirable luxury lifestyle experience.",
+      "visualEmotion": "Energetic and inviting"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creators specifically mention the brand name and demonstrate the specific food services provided to customers during car maintenance.",
+      "endorsementObject": [
+        "Porsche",
+        "Knock Knock Heaven",
+        "gonnaEAT"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy interaction between the male and female hosts, use of vibrant text overlays with checkmarks, and focus on luxury lifestyle and technology.",
+      "freeDescribe": "The video effectively uses food as a hook to talk about automotive services, appealing to a broad audience interested in both luxury cars and gourmet experiences."
+    }
+  }
+}

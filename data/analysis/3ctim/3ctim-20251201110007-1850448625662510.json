@@ -1,0 +1,184 @@
+{
+  "videoName": "3ctim-20251201110007-1850448625662510.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 52,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "News",
+        "Vlog",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Tokyo"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a middle-aged man wearing a grey flat cap and glasses, gesturing enthusiastically towards the camera in a studio setting with a light purple background. (2) Transition to a high-quality CGI animation showing a glowing Poké Ball entrance that opens to reveal a lush, green landscape. (3) Animated sequences follow, showcasing various Pokémon like Pikachu running through a forest and Chansey in front of a Poké Center in a town setting. (4) The scene cuts back to the man in the studio, who is now gesturing next to a large text graphic detailing ticket prices and benefits. (5) Short clips of animated Pokémon battles and parades are interspersed. (6) The video ends with the man pointing directly at the camera, with a Pikachu graphic appearing beside him.",
+      "audio_narrative_log": "(1) A male voice speaks in an energetic and fast-paced tone, accompanied by upbeat, high-tempo electronic background music. (2) A sharp sound effect of a Poké Ball opening and digital chimes are heard as the animation starts. (3) The narration continues consistently, detailing the features of the theme park while the background music maintains a constant, cheerful rhythm. (4) Subtle ambient sound effects like rustling leaves and Pokémon 'cries' are mixed into the animation segments. (5) The music volume lowers slightly when the speaker explains ticket price details, then swells back up for the energetic closing statement.",
+      "text_narrative_log": "(1) Decorative Hook: \"去吧！就決定是你了！\" (Go! I choose you!) in large, bold characters with a Poké Ball icon. (2) Functional Information: \"2026年2月5日 東京寶可夢樂園 正式開幕\" (Tokyo Pokémon Park officially opens on Feb 5, 2026). (3) Content Captions: \"這是全球首座戶外常設型寶可夢主題樂園\" (World's first permanent outdoor Pokémon theme park). (4) Labels: \"寶可夢森林\" (Pokémon Forest) and \"草紗鎮\" (Grassy Town) appear over specific scenes. (5) Decorative Hook: \"門票11/21開賣！\" (Tickets on sale 11/21!). (6) Functional Text: A detailed table showing \"精英訓練家通行證\" (Elite Trainer Pass) and prices in JPY and TWD. (7) Final Hook: \"2026 東京見！\" (See you in Tokyo 2026!)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 4.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Feature Animation -> Ticket Details -> Outro Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Waist up",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 real male creator in studio; 1 animated female and 2 animated children in the park footage.",
+      "mainCharacterDescription": "A middle-aged Asian man with glasses, wearing a grey patterned flat cap, a black short-sleeved shirt, and wooden bead bracelets on his wrist."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Theme Park",
+          "Forest"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The primary studio background is a simple, solid light purple/lavender wall. The secondary animated backgrounds feature highly detailed green forests, a traditional-style Pokémon town with red-roofed buildings, and a futuristic arena.",
+      "lightingStyle": "Bright studio lighting; vibrant simulated daylight in animations.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Pikachu",
+        "Chansey",
+        "Bulbasaur",
+        "Charmander",
+        "Squirtle"
+      ],
+      "foodsDetect": [
+        "Cake"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Pokémon Center"
+      ],
+      "brandLogos": [
+        "Pokémon",
+        "3c 有意思 tim 哥"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Medium",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Digital chimes",
+        "Poké Ball sounds"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Information Reveal -> Detailed Features -> Pricing Logic -> Final Call",
+      "mainPurpose": "The video serves as a promotional news update designed to inform and excite fans about the opening of a new Pokémon theme park in Tokyo. It blends a charismatic 'talking head' presenter with high-quality promotional animation to establish credibility and visual appeal, concluding with actionable ticket information.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "The video focuses entirely on the features and ticket sales of a specific brand's new attraction.",
+      "endorsementObject": [
+        "Pokémon",
+        "Nintendo"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Opening with a catchphrase and pointing gesture; persistent branding in the top corner.",
+      "freeDescribe": "The video uses a high density of text overlays to ensure information retention in a short-form vertical format."
+    }
+  }
+}

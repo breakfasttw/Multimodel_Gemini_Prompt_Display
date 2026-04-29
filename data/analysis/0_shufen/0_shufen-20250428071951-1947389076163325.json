@@ -1,0 +1,172 @@
+{
+  "videoName": "0_shufen-20250428071951-1947389076163325.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 6,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a live-action selfie shot. A young woman with long black hair, wearing a pink zip-up jacket and a light blue top, smiles at the camera inside an airport boarding bridge. (2) She begins walking forward along the glass-walled corridor, while the camera follows her face. Outside the window, a large commercial airplane with green and orange tail markings is parked on the tarmac. (3) She continues walking with a happy expression, passing a male traveler carrying a bag in the blurred background.",
+      "audio_narrative_log": "(1) An upbeat pop song with female vocals and electronic beats starts immediately at the beginning of the video. (2) The music continues as the primary audio source with no audible speech from the person on screen. (3) The track maintains its tempo and volume until the video ends, with ambient airport noise completely suppressed by the background music.",
+      "text_narrative_log": "(1) Decorative/Hook Text: \"去國外尋找我的未來老公 因為我在自己的國家找不到 🙄\" (Going abroad to find my future husband because I can't find one in my own country). The text is written in Traditional Chinese and appears as a central caption with a playful and humorous tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 6.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Selfie walking through an airport jet bridge."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main female creator filming herself, 1 male traveler visible in the background.",
+      "mainCharacterDescription": "A young woman with long, straight black hair, wearing a pink sports jacket over a light blue shirt, with a bright smile."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Airport",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "An airport boarding bridge (jet bridge) with large glass windows showing the tarmac and an EVA Air airplane.",
+      "lightingStyle": "Bright natural daylight",
+      "weather": "Sunny",
+      "season": "Unknown",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Selfie",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Airplane"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "EVA Air"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Musical",
+        "pitch": "Medium",
+        "loudness": "Moderate",
+        "speed": "Normal",
+        "speechDensity": "None",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Pop",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Action",
+      "mainPurpose": "The video serves as a lighthearted social media update. By combining a happy selfie walk at the airport with a humorous caption about seeking a husband abroad, the creator aims to entertain her audience while sharing a moment from her travels.",
+      "visualEmotion": "Cheerful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Self-deprecating humor through text overlay.",
+      "freeDescribe": "The video follows standard short-form content trends where a travel visual is paired with a relatable or funny personal anecdote."
+    }
+  }
+}

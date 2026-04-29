@@ -1,0 +1,187 @@
+{
+  "videoName": "khshu_-20250829145913-2125960334902063.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 107,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Animal"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Australia"
+        ],
+        "city": [
+          "Melbourne"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a close-up of a young woman in a black beanie and white face mask smiling at the camera. (2) It transitions to a scene at a train station where a vintage maroon steam train is docked; the woman is seen waving from the train window. (3) A sequence follows showing various Australian wildlife: a koala sleeping on a eucalyptus branch, kangaroos hopping through a grassy enclosure, and a tree kangaroo climbing wooden structures. (4) There is a brief shot of a restaurant meal featuring grilled meat, mashed potatoes, and broccoli. (5) The woman is then shown riding the steam train as it crosses a high wooden trestle bridge; she and other passengers sit on the window sills with their legs dangling outside. (6) She reacts with a fearful expression as she looks down from the bridge and later shields her eyes as she explains about coal soot.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo acoustic-pop background music begins as a female voice speaks enthusiastically in Mandarin, introducing the Melbourne trip. (2) The sound of a steam train's loud whistle and the rhythmic chuffing of the engine become prominent. (3) Ambient sounds of wind and outdoor chatter at the zoo are mixed with the narration. (4) A bell-like sound effect (SFX) plays during a transition to the food segment. (5) The audio shifts to loud wind noise and collective cheering from passengers as the train crosses the bridge. (6) The vocal tone becomes more instructional and cautionary as she describes the experience of getting soot in her eyes.",
+      "text_narrative_log": "(1) Functional Text: '要搭火車啦~~~' (Going to ride the train!) appearing as a hook. (2) Functional Text: '澳洲 一日動物園 + 小火車' (Australia One-day Zoo + Steam Train) providing context. (3) Decorative Text: '(這也是袋鼠肉)' ((This is also kangaroo meat)) in a humorous tone. (4) Effect Text: '逆砍砍這個腿庫' (Look at these legs) referring to the koala. (5) Hook Text: '其中有一段會腳底懸空!' (One part has feet dangling in the air!) emphasizing the thrill. (6) Functional Text: '會有煤炭的灰跑進眼睛!!' (Coal ash will get in your eyes!!) as a practical tip."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 4.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Animal Park Highlights -> Food Break -> Steam Train Experience -> Practical Tips/Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 12,
+      "maleDetectAmount": 5,
+      "femaleDetectAmount": 7,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands only",
+        "Legs and feet"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, roughly 8 other passengers on the train, 2 station staff, and a few passers-by at the zoo.",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a black Kathmandu brand beanie, a grey fleece-lined jacket or hoodie, and grey leggings."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Zoo",
+          "Steam Train Station",
+          "Forest",
+          "Restaurant"
+        ],
+        "topography": [
+          "Forest",
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Features a wildlife park with naturalistic enclosures, a historic steam train station (Belgrave), a dense eucalyptus forest, and a high timber trestle bridge.",
+      "lightingStyle": "Natural daylight",
+      "weather": "Overcast",
+      "season": "Winter",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and vibrant",
+      "cameraWork": [
+        "POV",
+        "Selfie",
+        "Follow shot",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Koala",
+        "Kangaroo",
+        "Tree Kangaroo"
+      ],
+      "foodsDetect": [
+        "Mashed Potatoes",
+        "Broccoli",
+        "Meat"
+      ],
+      "trafficDetect": [
+        "Steam Train"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Selfie Stick"
+      ],
+      "landmark": [
+        "Puffing Billy Railway"
+      ],
+      "brandLogos": [
+        "Kathmandu"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 5,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Vlog",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Train Whistle",
+        "Notification Ding"
+      ],
+      "ambientNoise": [
+        "Wind",
+        "Train Engine Chugging",
+        "Crowd Chatter"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Sequence of Events -> Climax (Train Bridge) -> Resolution/Advice",
+      "mainPurpose": "A personal travel guide and experience share for tourists visiting Melbourne, Australia. The video aims to showcase a specific day-trip itinerary involving the Puffing Billy steam train and a wildlife park, highlighting the 'feet-dangling' experience as a major attraction while offering practical advice regarding safety and comfort.",
+      "visualEmotion": "Joyful, Adventurous, and energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video follows a standard non-commercial travel vlog format without specific brand calls-to-action or promotional links.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Selfie-focused reaction shots and high-angle POV shots of feet over the bridge.",
+      "freeDescribe": "The content strongly caters to the East Asian tourism demographic looking for iconic 'Instagrammable' experiences in Australia."
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "videoName": "3ctim-20250511125148-917312697361854.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 27,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech News",
+        "Tutorial",
+        "Cybersecurity Warning"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a grey flat cap appears in front of a blurred indoor background, pointing forward and gesturing as he speaks. A graphic showing a LINE logo with a red 'Fake' stamp appears. (2) The scene transitions to a screen recording of a Google search page showing results for 'line-chinese.com' while the man remains in a small circular inset, explaining the phishing tactic. (3) The man returns to full-screen view. Animated graphics of a Trojan horse, a shocked emoji with 'Data Leak' text, and a megaphone appear sequentially. Finally, the official LINE website URL is displayed with a green checkmark, and the man gives a cautionary hand gesture.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music begins. A male voice starts speaking in Mandarin with a clear, warning yet friendly tone. (2) Music continues steadily as the narration explains the Google search keyword manipulation by hackers. Short 'whoosh' and 'pop' SFX are heard as text and graphics appear. (3) The vocal speed remains consistent as the music builds slightly toward the end, finishing with the narrator's closing warning and a final musical beat.",
+      "text_narrative_log": "(1) '你有想過 你下載的 LINE 是盜版的嗎' (Have you thought about whether the LINE you downloaded is a pirated version?) - Hook. (2) '近期有駭客假冒 LINE 下載網站' (Recently hackers have impersonated LINE download websites) - Information. (3) '木馬程式' (Trojan program), '個資外洩' (Data leak) - Warning text with emotional emphasis. (4) 'https://www.line.me/' - Functional URL. (5) '要小心啊~' (Be careful~) - Closing emotional hook."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 9,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Demonstration of Phishing -> Warning of Consequences -> Official Solution -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male creator on screen as the primary presenter",
+      "mainCharacterDescription": "Middle-aged male with short hair, wearing glasses, a grey flat cap, a blue sweater, and a wooden beaded bracelet."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A blurred indoor room with neutral grey/blue walls and soft lighting, switching occasionally to a screen recording of a web browser search result page.",
+      "lightingStyle": "Soft studio lighting, balanced and bright.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Screen Capture"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone UI",
+        "Web Browser Interface"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "LINE",
+        "Google"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Steady and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Graphic pop-ups"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Risk Assessment -> Resolution",
+      "mainPurpose": "To educate and warn users about the dangers of downloading software from unofficial phishing websites. Specifically, the video highlights a scam involving fake LINE download links on Google, explains the risks of malware and data theft, and directs viewers to the only official, safe URL for the application.",
+      "visualEmotion": "Instructive and Alert"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video explicitly recommends the official LINE website as the only safe download source to avoid malware.",
+      "endorsementObject": [
+        "LINE"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Creator's distinct grey flat cap and signature beaded bracelet; usage of variety-show style text bubbles and icons for tech advice.",
+      "freeDescribe": "The video follows a typical short-form educational format common in Taiwanese tech influencer content, using high-density text overlays to keep viewers engaged with critical security information."
+    }
+  }
+}

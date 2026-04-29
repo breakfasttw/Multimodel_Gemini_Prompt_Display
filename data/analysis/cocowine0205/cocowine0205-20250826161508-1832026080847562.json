@@ -1,0 +1,176 @@
+{
+  "videoName": "cocowine0205-20250826161508-1832026080847562.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 75,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman stands in a brightly lit Costco warehouse holding a pink box of peaches, gesturing towards them with an excited expression. (2) The scene shifts to a close-up of the peaches inside the box, showcasing their red and yellow skins. (3) The camera cuts to an indoor home setting where the first woman and another woman in a bucket hat are sitting at a table with a heart-shaped plate of sliced peaches. They pick up slices, show the peach pit to the camera, and eat them with satisfied expressions. (4) They continue to talk and gesture while eating the fruit.",
+      "audio_narrative_log": "(1) Energetic, medium-tempo electronic background music plays throughout. (2) A young woman's voice is heard speaking excitedly in Mandarin, joined occasionally by a male voice off-screen. (3) The soundscape transitions to include ambient indoor sounds and the sound of fruit being sliced and chewed. (4) Occasional high-pitched sound effects (dings and pops) coincide with the appearance of text overlays.",
+      "text_narrative_log": "(1) Decorative 'COSTCO WHOLESALE' logo appears at the top. (2) Hook text: '7顆裝' (7-pack) and '大又甜水蜜桃' (Large and sweet peaches). (3) Functional text explaining the price is 679 and recommending the 7-pack for better value. (4) Advice text: '要挑果實渾圓' (Choose round fruit) and '竟然有指甲痕' (Actually has nail marks) as a warning. (5) Taste description: '香氣非常十足' (Very fragrant)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 5.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at warehouse -> Selection tips -> Home tasting and review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators in the foreground; approximately 6 shoppers visible in the warehouse background.",
+      "mainCharacterDescription": "One woman has long black hair wearing a beige puff-sleeve top; the other wears a white t-shirt and a zebra-patterned bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Home Interior"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A large warehouse store with industrial shelving and a residential living room with a couch and plush toys.",
+      "lightingStyle": "Bright indoor lighting and natural-style home lighting.",
+      "weather": "Unknown",
+      "season": "Summer",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Peach"
+      ],
+      "trafficDetect": [
+        "Shopping cart"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and enthusiastic",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Ding",
+        "Chime"
+      ],
+      "ambientNoise": [
+        "Warehouse hum"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Buying Tips -> Product Demo -> Tasting Review",
+      "mainPurpose": "The video serves as a shopping guide and product review for seasonal peaches found at Costco. It aims to inform viewers about price points and selection techniques (avoiding nail marks) while providing a first-hand tasting experience to validate the product's quality and flavor profile.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Clear display of the Costco logo and a direct review of a specific product sold there with a positive recommendation.",
+      "endorsementObject": [
+        "COSTCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-show style text overlays and a split-location format (store to home).",
+      "freeDescribe": "The video follows a popular social media format for lifestyle influencers focusing on warehouse club deals and 'hacks' for selecting produce."
+    }
+  }
+}

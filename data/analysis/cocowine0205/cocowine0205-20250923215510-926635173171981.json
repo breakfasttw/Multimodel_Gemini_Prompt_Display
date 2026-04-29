@@ -1,0 +1,189 @@
+{
+  "videoName": "cocowine0205-20250923215510-926635173171981.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 58,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Accommodation Review",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Yilan"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with two women and two small dogs playing in an outdoor infinity pool at dusk. (2) Scenes transition to show a modern, multi-story building exterior followed by the women exploring a spacious balcony with panoramic views of green fields. (3) The interior tour begins, showing one woman in a bathtub and then sitting in a designer armchair in a room with large glass windows. (4) Close-up shots feature high-end amenities: a Marshall speaker and a ghd hairdryer. (5) The duo is seen in a large communal living space with their dogs, pointing towards a massive projector screen. (6) They are then shown singing enthusiastically in a private KTV room equipped with professional gear. (7) The women ride bicycles in front of the villa building. (8) The video concludes with the two women sitting by the pool edge, talking directly to the camera as the sky darkens.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop music starts immediately. Two high-pitched, excited female voices introduce a pet-friendly location. (2) The soundscape remains dominated by the energetic BGM and continuous narration detailing the villa's features like the pool and Guishan Island view. (3) Occasional sound effects like camera shutter clicks and water splashing are heard. (4) During the KTV segment, muffled singing and reverb effects are audible. (5) The final phase features a conversational tone between the two women with the music volume lowering slightly before ending.",
+      "text_narrative_log": "(1) Functional Text: '可以跟狗狗一起游泳的地方' (A place where you can swim with dogs) - Informative and inviting tone. (2) Hook Text: '怎麼能不來！' (How can you not come!) - High-energy, emotional hook. (3) Functional Text: '自己的無邊際泳池' (Your own infinity pool), '整棟陽台都是我們的' (The whole balcony is ours), '直接透視龜山島' (Direct view of Guishan Island) - Highlighting specific selling points. (4) Decorative Text: 'I Love 宜蘭' with heart emojis. (5) Product labels: 'Marshall', 'ghd', 'Netflix'. (6) Closing Text: '從早到晚都很好拍！' (Great photos from morning to night!) - Enthusiastic recommendation."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.07,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Outdoor Amenities -> Room Tour -> Entertainment Facilities -> Outro Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 female creators throughout the video, no other people visible.",
+      "mainCharacterDescription": "One woman has long dark hair, wearing a white flowing dress. The other wears a grey bucket hat, a black top, and a cream-colored skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Bedroom",
+          "Outdoor Pool",
+          "Balcony",
+          "Studio",
+          "Living Room"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A luxury modern villa with minimalist concrete and glass architecture, an infinity pool overlooking vast green rice fields, and Guishan Island visible on the horizon. Interior features include high-end designer furniture, large beds, and a KTV room.",
+      "lightingStyle": "Natural dusk light and warm indoor ambient lighting",
+      "weather": "Clear",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Cinematic, Warm, Vibrant",
+      "cameraWork": [
+        "Follow shot",
+        "Static",
+        "Pan",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Dog"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Bicycle"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "TV",
+        "Projector",
+        "Marshall Speaker",
+        "ghd Hairdryer"
+      ],
+      "landmark": [
+        "Guishan Island"
+      ],
+      "brandLogos": [
+        "Marshall",
+        "ghd",
+        "Netflix"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut synced to music beats",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched, excited, and persuasive",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Camera Shutter",
+        "Water Splash"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Feature Showcase -> Personal Experience -> Recommendation",
+      "mainPurpose": "To promote and review a luxury pet-friendly villa in Yilan. The video uses high-energy visuals and audio to appeal to pet owners and travelers looking for a high-end, 'instagrammable' vacation experience, emphasizing privacy and premium amenities.",
+      "visualEmotion": "Energetic, Luxurious, Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct mention and tagging of the accommodation name, detailed showcasing of specific premium brand amenities provided by the host.",
+      "endorsementObject": [
+        "寧夏光線",
+        "ghd",
+        "Marshall"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-pitched 'KOL' style enthusiastic delivery, variety-show style colorful text overlays.",
+      "freeDescribe": "The video follows standard short-form video marketing trends for travel and lifestyle content, focusing on aesthetics and 'pet-friendly' luxury as the primary hooks."
+    }
+  }
+}

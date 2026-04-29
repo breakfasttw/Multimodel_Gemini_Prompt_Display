@@ -1,0 +1,179 @@
+{
+  "videoName": "yga0721-20250926211036-1610278453435012.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 59,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Shorts"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young boy with black-rimmed glasses wearing a green t-shirt sits at a table with a bowl of food, speaking to the camera in a domestic setting. (2) He tells a joke about fish, using hand gestures to simulate small fish swimming and interacting. (3) He performs a rhythmic clapping sequence as a transition. (4) He continues with a banana-themed joke; a second boy suddenly pops up behind him, laughing heartily with his mouth open. (5) The first boy asks a riddle about shrimp skin while eating from his bowl. A digital countdown (10 to 1) appears in large yellow and red numbers on the screen. (6) He reveals the answer, both boys smile and laugh, and the video ends on his satisfied expression.",
+      "audio_narrative_log": "(1) Upbeat, whimsical background music starts. A young boy's voice is heard telling a joke in Mandarin with an excited and expressive tone. (2) Sound effects such as cartoon pops and canned laughter tracks are integrated. (3) A series of loud, rhythmic hand claps marks a transition in the content. (4) The boy continues speaking, followed by the loud, boisterous laughter of a second child appearing in the background. (5) A rhythmic ticking or beeping sound effect accompanies a countdown sequence while the boy asks a question. (6) The boy delivers a final punchline with a cheerful tone, followed by the music and laughter continuing until the end.",
+      "text_narrative_log": "(1) Functional Text: '我要講一個笑話就是' (I'm going to tell a joke) - Introduction hook. (2) Decorative Text: '波爺透客秀' (Boye Talk Show) - Branding sticker. (3) Content Text: '你知道魚的記憶力只有3秒鐘嗎？' (Did you know a fish's memory is only 3 seconds?) - Part of the first joke. (4) Status Text: '（滿意）' (Satisfied) - Visual emotion caption. (5) Identification Text: '頭號粉絲—貴哥' (Number one fan - Brother Gui) - Labeling the second boy. (6) Hook Text: '腦筋急轉彎 Action!' (Brain Teaser Action!) - Segment intro. (7) Riddle Text: '為什麼所有人摸蝦的皮都不會過敏？' (Why doesn't everyone get allergies from touching shrimp skin?). (8) Functional Text: Numbers (10, 9, 8, 7, 6, 5, 4, 3, 2, 1) - Countdown. (9) Punchline Text: '答案是：蝦皮是取貨的地方' (The answer is: Shopee is a place for picking up goods) - Pun on the brand Shopee."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 7,
+      "averageSceneDuration": 8.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Fish Joke -> Clapping Break -> Banana Joke -> Riddle Countdown -> Punchline"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Hands",
+        "Full body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main child creator speaking in front, 1 child friend appearing in background halfway through.",
+      "mainCharacterDescription": "A young boy with short black hair, wearing black-rimmed glasses and a green t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor",
+          "Home",
+          "Dining Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A typical home interior with white walls, a white sofa, and a visible air conditioner.",
+      "lightingStyle": "Natural indoor lighting",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and warm",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Salad",
+        "Vegetables",
+        "Noodles"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 2
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, playful, and high-spirited",
+        "pitch": "High (children's voices)",
+        "loudness": "Normal to loud",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 122,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Laughter track",
+        "Clapping",
+        "Countdown beeps"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Joke Series -> Interactive Riddle -> Outro",
+      "mainPurpose": "Entertainment and social media content creation. The video features a child performing a series of jokes and an interactive riddle to engage viewers. The content is edited with typical 'short-video' features such as variety-show style text, sound effects, and reaction shots to enhance the comedic and cute appeal for a family-oriented or general audience.",
+      "visualEmotion": "Playful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The mention of 'Shopee' is part of a wordplay riddle rather than a commercial placement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "波爺透客秀 (Boye Talk Show) branding; rhythmic clapping interlude signature.",
+      "freeDescribe": "The video utilizes local puns (Shopee/Shrimp skin) and Traditional Chinese text, indicating a Taiwanese cultural context. The editing style is professional for home-grown content, designed to maximize the child's personality."
+    }
+  }
+}

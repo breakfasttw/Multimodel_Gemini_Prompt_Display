@@ -1,0 +1,179 @@
+{
+  "videoName": "cocowine0205-20260106155240-1571110730861260.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 25,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Shopping Guide",
+        "Food Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a fuzzy grey cardigan, leans over a freezer unit at a Costco warehouse; animated flashy graphics and the Costco logo are overlaid on the screen. (2) The camera transitions to a close-up of a price tag and the vacuum-sealed meat packages inside the freezer. (3) The woman's hand enters the frame, pointing at specific details on the labels of two different beef shank packages. (4) The shot remains focused on the comparison between the black-labeled and white-labeled beef shank packages as she points out their differences.",
+      "audio_narrative_log": "(1) A female voice starts with an excited exclamation \"Ah!\", accompanied by upbeat, medium-tempo electronic background music and a sparkling sound effect. (2) The woman speaks clearly and energetically about a popular \"hidden\" item in the store. (3) As the BGM continues at a steady volume, she explains the pricing and the specific types of beef shank, with occasional \"pop\" sound effects for visual text appearances. (4) The audio concludes with her summary of the price comparison, maintaining a friendly and helpful tone.",
+      "text_narrative_log": "(1) Functional Text: \"COSTCO WHOLESALE\" logo at the top. (2) Decorative/Hook Text: \"隱藏款! 討論度爆高 牛腱心\" (Hidden item! Highly discussed beef shank) in bold yellow and blue variety-show style font. (3) Functional Text: Price tag details including \"US CHOICE HEEL MUSCLE VACUUM PACK\" and \"$379/KG\". (4) Functional Text: Subtitles tracking the speaker's dialogue about the differences between black and white labels. (5) Decorative Text: \"更強而有力 的後腿\" (Stronger rear leg) appearing with emphasis."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 4.16,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Price Reveal -> Product Detail -> Comparison/Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female host, 2 female shoppers in the background near the freezer.",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a thick, fuzzy grey/beige cardigan over a black outfit."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A typical Costco warehouse interior with industrial metal shelving, large freezer chests filled with meat, and white fluorescent lighting.",
+      "lightingStyle": "Intense studio-like warehouse lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Beef",
+        "Meat"
+      ],
+      "trafficDetect": [
+        "Shopping cart"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "KIRKLAND SIGNATURE"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and helpful",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Pop",
+        "Sparkle",
+        "Cha-ching"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Information -> Comparison -> Advice",
+      "mainPurpose": "The video aims to provide a practical shopping tip for Costco customers by identifying a high-value beef shank product on sale. It focuses on educating the viewer on how to distinguish between the 'hind leg' beef shank (black label) and the 'regular' beef shank (white label) based on packaging labels while highlighting that both are currently available at the same discounted price.",
+      "visualEmotion": "Energetic and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video features a specific retailer (Costco) and a specific product type (beef shank) in a positive, helpful light without an explicit 'ad' disclaimer, typical of influencer shopping guides.",
+      "endorsementObject": [
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Variety-show style text captions and high-energy openings.",
+      "freeDescribe": "The use of 'Hidden item' (隱藏款) as a hook is a common social media strategy to drive engagement by implying exclusive knowledge."
+    }
+  }
+}

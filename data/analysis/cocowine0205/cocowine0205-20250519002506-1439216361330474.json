@@ -1,0 +1,180 @@
+{
+  "videoName": "cocowine0205-20250519002506-1439216361330474.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 25,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping Review",
+        "Promotion"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman stands in a warehouse retail aisle, excitedly holding three white animal-shaped plush pillows (a rabbit, a seal/otter, and a bear). She is smiling and gesturing with the products. (2) She individually highlights the rabbit, then the seal (which has a small accessory in its hand), and finally the white bear pillow. (3) She turns away from the camera, walks a few steps to a cardboard display bin labeled 'ICE COOL BEDDING', and picks up a long, cylindrical animal-shaped bolster to show its size and design.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo synthesized background music starts. A female voice excitedly announces that summer has arrived and kids need these items. (2) The female speaker mentions the price of 699 yuan and identifies the animals as a rabbit and a seal; a male voice off-screen briefly corrects her by saying 'Otter, sea otter'. (3) The female speaker explains that for an extra 100 yuan (799 total), adults can get the long bolster version. Cartoonish 'pop' and 'bling' sound effects punctuate the transitions. Ambient warehouse hum is audible but faint.",
+      "text_narrative_log": "(1) Functional Text: '夏天到了' (Summer is here) - Excited tone; Decorative Text: 'COSTCO WHOLESALE' logo at the top. (2) Functional Text: '小朋友一定要一個可愛的' (Kids must have a cute one), '動物涼感抱枕' (Animal cooling pillow), '699元！超冰涼！' (699 yuan! Super cool!) - Energetic and informative tone. (3) Functional Text: '看這個很值得是因為他有多一個手裡的東西' (This is worth it because it has an extra thing in its hand), '加100 799' (Add 100 799), '就有長形的涼感枕' (Then there's the long cooling pillow) - Persuasive tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 6.25,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Feature demonstration of small pillows -> Transition to long bolster -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female presenter onscreen; 1 male voice heard but not seen.",
+      "mainCharacterDescription": "A young woman wearing a zebra-print bucket hat, a white lace long-sleeved top, a black skirt, and a small beige crossbody bag."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Retail Store",
+          "Warehouse"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A Costco warehouse bedding aisle with tall metal shelves, stacked boxes of pillows and blankets, and large cardboard display bins for 'Allerfect' branded items.",
+      "lightingStyle": "Bright, even fluorescent warehouse lighting.",
+      "weather": "Indoor",
+      "season": "Summer",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Plush Rabbit",
+        "Plush Seal",
+        "Plush Otter",
+        "Plush Bear"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "Allerfect"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and friendly",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Cartoon Pop",
+        "Bling"
+      ],
+      "ambientNoise": [
+        "Warehouse quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature Presentation -> Comparison -> Price Breakdown",
+      "mainPurpose": "The video serves as a shopping guide and product recommendation for cooling pillows available at Costco. By leveraging the presenter's enthusiastic personality and showing the 'cute' designs of the pillows, the content aims to drive consumer interest and store visits for these seasonal summer items.",
+      "visualEmotion": "Energetic and Cheerful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct mention of price, retailer name (Costco), and specific product benefits like 'cooling feeling'.",
+      "endorsementObject": [
+        "Costco Wholesale",
+        "Allerfect"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density colorful text overlays and variety-show style editing typical of Asian short-form shopping vlogs.",
+      "freeDescribe": "The video targets budget-conscious families and young adults looking for seasonal lifestyle upgrades, emphasizing both utility (cooling) and aesthetics (cute animals)."
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "videoName": "3ctim-20250924120008-1980079992929888.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 36,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Tech",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing a blue cap, glasses, and a light green t-shirt is sitting at a wooden table, holding a green smartphone and speaking directly to the camera with an expressive face. (2) He holds the phone up to the camera, showing a transparent icon theme, then snaps a green protective case onto the phone. (3) The scene shifts to a direct screen recording of the smartphone's iOS interface, where he demonstrates long-pressing the home screen and navigating through the 'Edit' and 'Customize' menus. (4) He selects the 'Tinted' option and uses an eyedropper tool to match the icon color to the green phone case visible in his hand at the top of the screen. (5) The video returns to the man showing the completed color-matched home screen on the phone, nodding and smiling at the camera.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music starts immediately. A male voice speaks enthusiastically in Mandarin, greeting the audience and introducing a hidden iOS 18 feature. (2) A 'snap' sound effect plays as he puts the case on the phone, followed by continuous explanatory narration as he walks through the software settings. (3) The music maintains a consistent volume throughout, providing an energetic backdrop to the tutorial. (4) The video ends with a closing remark from the speaker and the music fading out.",
+      "text_narrative_log": "(1) Decorative text: 'iOS18 竟然有隱藏功能' (iOS18 actually has a hidden feature) appears in bold yellow and blue. (2) Functional text: Full Traditional Chinese subtitles throughout the video translating the spoken tutorial. (3) Decorative text: '你只要準備好一個原廠殼' (You just need an official case) and '變色了' (Changed color) appear as emphatic hooks during key moments."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 10,
+      "averageSceneDuration": 3.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Demonstration of hardware/software interaction -> Step-by-step UI tutorial -> Final result reveal"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male presenter shown from the waist up.",
+      "mainCharacterDescription": "A middle-aged male tech reviewer wearing a blue denim-style newsboy cap, rectangular glasses, a light green 'ATHLETICS' t-shirt, and a yellow Apple Watch band."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A clean indoor studio setting with a white wall and a dark wood grain table; transitions to a digital iOS home screen background during the tutorial.",
+      "lightingStyle": "Bright studio lighting with even distribution.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Screen Recording"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Apple Watch"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple",
+        "Roots"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and helpful",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "UI Snap"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Tutorial -> Outro",
+      "mainPurpose": "The video serves as a quick tutorial for iPhone users to learn a specific customization feature in iOS 18. It demonstrates how to use the 'Tinted' icon setting to match the color of the phone's physical case, effectively blending hardware aesthetics with software customization.",
+      "visualEmotion": "Energetic and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The creator specifically mentions the 'official case' (原廠殼) and demonstrates the synergy between the Apple hardware and software features.",
+      "endorsementObject": [
+        "Apple"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3c有意思tim哥 branding, signature blue cap, and fast-paced tech review style.",
+      "freeDescribe": "High production value for a social media tech tip, likely targeting young tech enthusiasts in Taiwan."
+    }
+  }
+}

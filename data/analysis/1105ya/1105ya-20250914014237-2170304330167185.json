@@ -1,0 +1,168 @@
+{
+  "videoName": "1105ya-20250914014237-2170304330167185.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 18,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Reaction"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Two women sit on a sofa reviewing a photobook; the woman on the left wears a camouflage cap and tank top, while the woman on the right wears a pink and green sports top. They turn pages showing a model in red athletic lingerie. (2) A cat sticker is overlaid on the photobook as they point at a image of a woman's back. (3) A third woman with a white hair bow leans in from the right to join the viewing; a rabbit sticker appears over the book content as they all smile and converse while pointing at the pages.",
+      "audio_narrative_log": "(1) A light, upbeat acoustic guitar melody begins. Female voices are heard speaking in excited, high-pitched tones in Mandarin, complimenting the images. (2) The volume of the conversation increases as more voices join in; sounds of light laughter and continuous chatter about the 'scale' of the photos are heard. (3) The music remains consistent in the background as the speakers express awe and excitement, with clear pronunciation of emotional reactions like 'Oh my god'.",
+      "text_narrative_log": "(1) '當給媽媽看我的寫真書時' (Functional/Hook): Neutral tone explaining the context of showing a photobook to a mother. (2) '媽媽' (Mom), '阿姨' (Aunt), '表妹' (Cousin) (Functional): Labeling the individuals in the video. (3) '很會給情緒價值的家人' (Hook): Appreciative tone highlighting the emotional support of the family. (4) '真的很可愛欸' (Functional): Subtitle translating a comment about the book being cute."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 4.5,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Group viewing and reaction -> Emotional climax"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "Three adult females are sitting on a couch interacting with a book.",
+      "mainCharacterDescription": "One woman wears a camouflage cap and tank top (Mom); one wears a pink/green color-blocked tank top (Aunt); one has long dark hair with a large white bow (Cousin)."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A simple indoor setting featuring a grey fabric sofa and a plain, light-colored wall.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 3,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and supportive",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Acoustic",
+      "bgmBPM": 105,
+      "instrumentFamiliesAudible": [
+        "Strings"
+      ],
+      "instrumentsAudible": [
+        "Acoustic Guitar"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Sentiment",
+      "mainPurpose": "To showcase a positive and humorous family reaction to the creator's sexy photobook, emphasizing the supportive and open-minded bond between the family members while implicitly promoting the photobook content.",
+      "visualEmotion": "Warm and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video centers entirely around the physical photobook being shown and admired by family members.",
+      "endorsementObject": [
+        "寫真書"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of animated animal stickers (cat, rabbit) to censor revealing parts of the photobook while maintaining a cute aesthetic.",
+      "freeDescribe": "The video relies heavily on the 'emotional value' (情緒價值) concept common in Asian social media, where family support is highly prized."
+    }
+  }
+}

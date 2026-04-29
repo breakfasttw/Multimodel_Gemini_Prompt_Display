@@ -1,0 +1,177 @@
+{
+  "videoName": "alephant_0427-20250414040458-898842246445760.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 76,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Street Interview",
+        "Music"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with brown hair, wearing a white sweatshirt, stands on a busy street holding a black violin case and speaking to the camera. (2) She opens the case, takes out a violin, and begins playing while standing near a station entrance. (3) She approaches a man in a black and white patterned shirt and plays the violin for him; she then approaches a group of three young women and performs for them as well. (4) She continues to interact with different passersby, showing expressive smiles and gestures while playing and chatting.",
+      "audio_narrative_log": "(1) An energetic female voice speaks over an upbeat, fast-tempo electronic pop BGM. (2) The background music continues as the sound of a solo violin playing melodic anime-style themes enters. (3) Ambient street noise consisting of distant traffic and crowd chatter is heard. (4) Various voices, both male and female, are heard laughing and speaking in response to the music performance.",
+      "text_narrative_log": "(1) '小提琴街頭猜歌挑戰' - Functional Text, Title. (2) '是不是還有人不知道我會拉小提琴' - Functional Text, subtitles. (3) '留言區一起猜猜看' - Decorative/Hook Text, call to action for the audience."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Interactive Street Violin Performance -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 12,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 7,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main female creator, 1 male interviewee, 3 female interviewees, 1 other male interviewee, and multiple passers-by including a child in the background.",
+      "mainCharacterDescription": "A young woman with brown hair, wearing an oversized white sweatshirt with a 'Tony Hawk' logo, black shorts, and white knee-high socks."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Subway Station Entrance"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A bustling urban shopping district with bright neon signs, commercial buildings, and Ximen Station entrance visible.",
+      "lightingStyle": "Natural daylight",
+      "weather": "Clear",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Handheld",
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Wireless Microphone"
+      ],
+      "landmark": [
+        "Ximending"
+      ],
+      "brandLogos": [
+        "Adidas",
+        "Tony Hawk"
+      ],
+      "instrumentsVisible": [
+        "Violin"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 6,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 5,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 5,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and enthusiastic",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Violin",
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock",
+        "Live"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd chatter",
+        "Street noise"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Interactive Performance Challenges -> CTA",
+      "mainPurpose": "The video serves as a street-performance entertainment vlog where the creator engages the public by playing anime theme songs on her violin and challenging them to guess the titles. The objective is to showcase her musical talent while fostering audience interaction and social media engagement.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No explicit promotional language or product links provided.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Street music challenge format, 'Tony Hawk' white sweatshirt signature look.",
+      "freeDescribe": "The video utilizes the vibrant atmosphere of Taipei's Ximending area to create high energy and relatability."
+    }
+  }
+}

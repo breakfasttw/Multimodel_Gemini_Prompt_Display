@@ -1,0 +1,178 @@
+{
+  "videoName": "cocowine0205-20250804173052-1405712077694952.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 38.3,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping Recommendation"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a woman in a brown bucket hat and beige dress holding a large, white polar bear-shaped cooling cushion in the aisle of a Costco warehouse. A large Costco Wholesale logo is overlaid at the top. (2) A second woman in a white dress and beige cardigan joins her. They both hold and display various animal-shaped cushions, including a panda, a blue bear, and a white cat. They gesture towards the cushions and each other while talking enthusiastically. (3) There is a close-up shot of a stack of the cushions (panda, cat, blue bear) where a hand is seen touching the panda's head. (4) The scene returns to the two women holding the cushions together, smiling at the camera and interacting playfully as they continue their discussion.",
+      "audio_narrative_log": "(1) Upbeat, cheerful, and mid-tempo electronic background music starts immediately. A female voice speaks with a high-pitched, excited, and friendly tone, introducing the product. (2) A second female voice joins in, creating a conversational and lively atmosphere. They discuss the price and the physical sensation of the product. The BGM remains consistent in the background. (3) Occasional subtle sound effects (SFX) like light 'dings' or 'pops' accompany some of the text overlays. Ambient warehouse noise is kept at a very low, almost imperceptible level. (4) The music and the two female voices continue until the end of the video, maintaining a high energy level.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo appears at the top throughout the video. (2) Hook Text: '以前小朋友我都用這個 現在長大後 我要用這個' (I used to use this as a kid, now that I'm grown up, I want to use this) - nostalgic and persuasive tone. (3) Decorative/Hook Text: '最新的 動物涼感抱枕 799元' (Latest animal cooling cushion 799 yuan) - informational and catchy. (4) Functional Text: '你一定要在冷氣房 它的涼感才真的會涼' (You must use it in an air-conditioned room for it to really feel cool) - helpful advice. (5) Decorative Text: '舒服 舒服' (Comfortable, comfortable) and '算是省電神器' (A power-saving miracle tool) - highlighting product benefits. (6) Functional Text: '這個叫做熊貓' (This one is called a panda) - identifying the animal."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 3.48,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro with product -> Group demonstration -> Close-up features -> Recommendation/Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Upper body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators in the foreground, approximately 3 other shoppers (passers-by) visible in the background aisles.",
+      "mainCharacterDescription": "One woman wears a brown leather bucket hat and a beige puff-sleeve dress; the other wears a white dress with a white cardigan."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Costco"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The interior of a Costco warehouse with tall metal shelves, stacked merchandise, signage, and other shoppers with carts in the background.",
+      "lightingStyle": "Bright, even industrial overhead lighting typical of a large warehouse.",
+      "weather": "Indoor",
+      "season": "Summer (inferred from the 'cooling' product theme and attire)",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Panda",
+        "Bear",
+        "Cat"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "DON"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched, excited, and cheerful",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Cartoon SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Price/Features -> Usage Tips -> Varieties -> Conclusion",
+      "mainPurpose": "To promote and recommend a specific seasonal product (cooling animal cushions) at Costco. The video aims to drive sales by showcasing the cuteness of the designs, the affordable price point, and providing a practical tip on how to maximize the cooling effect, positioning it as an essential summer item.",
+      "visualEmotion": "Energetic and Happy"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Prominent brand logo placement, direct mention of price, and strong positive recommendation of specific products found in the store.",
+      "endorsementObject": [
+        "Costco",
+        "Dorothy & Thee Animal Cushion"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-show style text overlays with bold colors and rounded fonts.",
+      "freeDescribe": "Typical lifestyle/shopping KOL content style common on platforms like TikTok or Instagram Reels, focusing on 'finds' in popular retail chains."
+    }
+  }
+}

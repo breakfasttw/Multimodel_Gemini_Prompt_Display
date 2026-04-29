@@ -1,0 +1,177 @@
+{
+  "videoName": "yga0721-20250821123310-1206568468289055.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 97,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Promotional"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taichung"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a man in a yellow cap and khaki vest standing in a large parking lot, speaking excitedly to the camera with a giant ferris wheel in the background. (2) A woman wearing a black beret and a striped black-and-white dress joins him; they both gesture energetically with their hands while smiling. (3) Transitions show close-up shots of the colorful ferris wheel and the surrounding resort buildings. (4) The scene shifts to a studio-like setting where a female model showcases various merchandise, including a white t-shirt, a colorful insulated bag, and small cardholders. (5) Close-up product shots feature a round red pillow, a digital watch with a printed strap, and a blue mesh tote bag. (6) A detailed shot of a gold medal with a spinning center is shown. (7) The video returns to the man in the parking lot who points to the camera and gestures urgently to emphasize the final message.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic music starts immediately. A male voice speaks in a very high-pitched, enthusiastic, and fast-paced tone. (2) A female voice joins in with a similar high-energy, cheerful tone, creating a lively dialogue. (3) Wind noise is audible in the background during outdoor scenes. (4) Sound effects such as high-pitched pings and chime sounds accompany the appearance of text and transition graphics. (5) The music continues at a steady pace while the speakers describe product features, maintaining a high volume throughout.",
+      "text_narrative_log": "(1) 第二屆 hahababy 路跑 (Functional: Event title, Excited tone). (2) 8/8 12:00 開始報名 (Functional: Registration info, Informative tone). (3) 12/20 12/21 (Functional: Event dates). (4) 台中麗寶樂園 (Functional: Location). (5) 演唱會 (Hook: Concert announcement). (6) 煙火秀 (Hook: Fireworks announcement). (7) 摩天輪燈光秀 (Hook: Light show info). (8) 衣服, 保冷袋, 卡套, 翻轉抱枕, 手燈手錶, 海灘包, 獎牌, 造型悠遊卡 (Functional: Merchandise labels). (9) 搶爆了 (Decorative: High demand warning). (10) 絕對會當機 (Decorative: System crash warning, Urgent tone)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 3.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro/Announcement -> Location/Event Details -> Merchandise Showcase -> Final Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Upper body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male creator, 1 female creator, 1 female model for products.",
+      "mainCharacterDescription": "The man wears a yellow baseball cap, a white t-shirt, and a khaki utility vest. The woman wears a black beret and a black-and-white striped dress with a black mesh skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Studio"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "An expansive asphalt parking lot adjacent to the Lihpao Resort, featuring a large blue ferris wheel and multicolored European-style buildings. Merchandise shots are taken against a clean white studio shelf background with colorful toys.",
+      "lightingStyle": "Bright natural sunlight and even studio lighting.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Pan"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Lihpao Resort"
+      ],
+      "brandLogos": [
+        "hahababy"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Chime",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Wind"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Event Logistics -> Merchandise Showcase -> Scarcity Tactic",
+      "mainPurpose": "To promote and drive registrations for the second 'hahababy' themed fun run at Lihpao Resort by highlighting event activities and showcasing extensive exclusive merchandise packages.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct promotion of an event and brand merchandise owned by the creators.",
+      "endorsementObject": [
+        "hahababy"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Signature high-energy 'variety show' hosting style of the creators.",
+      "freeDescribe": "The video utilizes classic marketing FOMO (Fear Of Missing Out) by explicitly stating that the registration system will likely crash, urging fans to act immediately."
+    }
+  }
+}

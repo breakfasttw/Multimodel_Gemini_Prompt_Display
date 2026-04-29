@@ -1,0 +1,174 @@
+{
+  "videoName": "1105ya-20250427191246-898834839554759.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 6.0,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Sports",
+        "Live Event",
+        "News/Highlight"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "USA"
+        ],
+        "city": [
+          "Los Angeles"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a high-angle view from the spectator stands of an NBA basketball game. A large crowd is visible, mostly seated or beginning to stand. Players in white and dark jerseys are clustered near one end of the court. (2) A physical scuffle breaks out between several players near the baseline. A referee in a striped uniform quickly runs toward the center of the altercation to intervene. (3) The camera zooms in slightly as more players and staff join the cluster to separate the fighting parties. Spectators in the foreground, including a man in a white t-shirt and a person in a Leonard #2 jersey, are seen watching intently.",
+      "audio_narrative_log": "(1) The audio begins with a sudden, loud roar from a massive crowd. No distinct background music is present. (2) High-pitched screams and collective shouting from the audience dominate the soundscape as the physical altercation on court escalates. (3) The ambient noise of the stadium, including the buzzing of thousands of voices and distant whistles, remains constant throughout the clip.",
+      "text_narrative_log": "(1) \"當你看NBA打球變打架\" - Decorative/Hook Text: This translates to \"When you watch NBA and playing becomes fighting,\" establishing a humorous or dramatic tone for the viewer."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 6.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Live Action Capture -> Conflict Escalation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 100,
+      "maleDetectAmount": 60,
+      "femaleDetectAmount": 30,
+      "kidsDetectAmount": 10,
+      "mainCharacterCount": 0,
+      "bodyPartVisibility": [
+        "Full body",
+        "Back view",
+        "Hands only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "A full stadium audience and approximately 15-20 players/staff on the court floor.",
+      "mainCharacterDescription": "None"
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Stadium",
+          "Basketball Court"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "An NBA basketball court with the Los Angeles Clippers logo clearly visible. The stands are packed with thousands of fans in various colored clothing.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "CLIPPERS",
+        "NBA",
+        "Intuit Dome"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 100,
+        "vocal_demographics": {
+          "male_vocal_count": 50,
+          "female_vocal_count": 40,
+          "kids_vocal_count": 10
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and chaotic",
+        "pitch": "High",
+        "loudness": "Very loud",
+        "speed": "Normal",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "No Music",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd roar",
+        "Stadium atmosphere"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Observation -> Action Event",
+      "mainPurpose": "To capture and share a viral, high-tension moment of a physical fight breaking out during a professional NBA basketball game, leveraging the raw emotion of the live crowd.",
+      "visualEmotion": "Tense"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-angle fan-perspective recording",
+      "freeDescribe": "The video focuses on the novelty and drama of professional athletes fighting, which is a high-engagement topic for sports social media."
+    }
+  }
+}

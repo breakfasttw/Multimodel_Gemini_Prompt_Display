@@ -1,0 +1,181 @@
+{
+  "videoName": "2uncle987-20250905054215-2096012087887274.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 35,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Lifestyle"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts in a brightly lit skincare store with three women in their 30s. They appear energetic and happy, examining bath bombs and products. (2) The scene shifts to a toy store where they excitedly show off blind boxes and merchandise featuring Stitch and Doraemon, smiling broadly at the camera. (3) A text-based transition appears. (4) One woman is then seen sitting down on a bench in a shoe store, looking exhausted. (5) The group is shown walking through a mall, then leaning against pillars while focused on their smartphones. (6) One woman leans heavily against a wooden wall near a restaurant with a tired expression. (7) They are shown walking with several shopping bags, appearing weary. (8) The video concludes with two of the women slumped over a dining table in a restaurant, looking sleepy and drained. (9) A final close-up shows a woman's face with a look of mock despair.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop music plays as female voices chat excitedly and laugh while shopping. (2) A comical 'whoosh' or transition sound effect occurs. (3) The music changes to a slow, slightly melancholic yet humorous piano melody. (4) Female voices are heard in a more subdued tone, mentioning being tired, needing to find a toilet, wanting to take a taxi instead of walking, and feeling hungry. (5) Sound effects of ambient mall noise and restaurant clatter are audible in the background.",
+      "text_narrative_log": "(1) '跟30歲以後女人出門' (Going out with women over 30) - Hook text. (2) '剛出門時' (When just starting out) - Contextual label. (3) '然後就...' (And then...) - Narrative transition. (4) '可以坐就不站' (If they can sit, they won't stand) - Humorous observation. (5) '三不五時廁所' (Going to the bathroom frequently) - Humorous observation. (6) '找機會就玩手機' (Looking for any chance to play on phones) - Humorous observation. (7) '有車就不想走路' (If there's a car, they don't want to walk) - Humorous observation. (8) '總是肚子餓' (Always hungry) - Humorous observation. (9) '吃飽了就想睡' (Wanting to sleep after eating) - Humorous observation. (10) '人生好難' (Life is so hard) - Dramatic humorous conclusion."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 2.9,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro (High energy shopping) -> Transition -> Series of 'tired' vignettes (Decreasing energy levels) -> Outro (Post-meal exhaustion)."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 6,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face close-up",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "3 main female creators, approximately 3 passers-by/staff in the background.",
+      "mainCharacterDescription": "Three women in their 30s wearing stylish, casual urban outfits; one in a blue polka dot top, one in a striped shirt with a red backpack, and one in a black jacket and long skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Shopping Mall",
+          "Skincare Store",
+          "Toy Store",
+          "Shoe Store",
+          "Restaurant"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern commercial interiors with shelves of products, bright display lighting, mall corridors, and a restaurant booth.",
+      "lightingStyle": "Bright studio-like retail lighting transitioning to softer restaurant lighting.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Restaurant dishes",
+        "Bath bombs (visually similar to sweets)"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Stitch",
+        "Doraemon",
+        "Toca Loca"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut with sound effects",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 3,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Varies from excited and high-pitched to weary and complaining",
+        "pitch": "Medium-High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop (start), Comedic Piano (rest)",
+      "bgmBPM": 110,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Piano"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh transition"
+      ],
+      "ambientNoise": [
+        "Mall chatter",
+        "Restaurant noise"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Contrast (Before vs. After) -> Relatable vignettes.",
+      "mainPurpose": "To create a relatable and humorous vlog-style commentary on the physical stamina and behavioral changes of women in their 30s during a shopping outing. It contrasts initial excitement with the inevitable exhaustion and physiological needs that arise later in the day.",
+      "visualEmotion": "Humorous, Relatable, Slightly Whimsical"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "While products are shown, the focus is on the humor of the situation rather than promoting a specific brand.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of rhythmic text overlays to punctuate specific comedic observations about age-related behavior.",
+      "freeDescribe": "The video uses a very popular TikTok/Reels trend style involving 'expectations vs reality' or 'before and after' tropes to engage a specific demographic (urban women)."
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "videoName": "khshu_-20251205195610-2116343465773761.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 63,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Beauty Review",
+        "Recommendation"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a woman (Doris) in a grey vest and mask standing in a kitchen-style studio, gesturing excitedly. (2) Brief clips show Doris working as a professional makeup artist, applying products to a model. (3) Doris introduces the first product, a Medicube beauty device, demonstrating its use on her face and a model's jawline to show lifting effects. (4) She then presents a jar of Torriden cotton pads, showing the packaging closely and gesturing their use on the cheeks. (5) Finally, she introduces a compact UV nail lamp and displays her finished 'cat-eye' style nails. (6) The video ends with her waving goodbye and playfully squatting down to simulate an elevator descending.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music begins immediately. A male narrator introduces Doris as a veteran makeup artist. (2) Doris speaks in a clear, friendly, and energetic tone, explaining why she loves each product. (3) Sound effects like a 'sparkling' chime and a 'zapping' electric sound are added when demonstrating the beauty device. (4) Another female voice is heard briefly during the segment about lipstick. (5) The music stays consistent throughout, concluding with laughter and a 'thank you' from the narrator as the video ends.",
+      "text_narrative_log": "(1) Hook text: '(用完像換一張臉?!)' (Like a face change after use?!) with an emotional, curious tone. (2) Functional text: '化妝師近期熱愛三選' (Makeup artist's recent top 3 picks). (3) Product labels: 'Medicube/age-R Booster Pro', 'Torriden/5D Multi Pad', '3COINS/UV-LED 凝膠美甲燈'. (4) Descriptive hooks: '真的超級好用' (Really super useful) with a highly positive tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.25,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Product 1 (Tech) -> Product 2 (Skincare) -> Product 3 (Nails) -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face with mask"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator (Doris), 1 female model/recommender, and 1 male narrator visible only by hands.",
+      "mainCharacterDescription": "A woman with long brown hair, wearing a white mask, a grey knitted vest over a black long-sleeved shirt, and light-colored pants."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern kitchen setting with grey cabinetry, spice racks, and a marble countertop; also includes a makeup studio area with professional lighting.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Beauty Device",
+        "UV Nail Lamp"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Medicube",
+        "Torriden",
+        "Chanel",
+        "3COINS",
+        "Homei"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "Moderate",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Chime",
+        "Electric zap",
+        "Cartoon SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Item 1 -> Item 2 -> Item 3 -> Outro",
+      "mainPurpose": "The video serves as a professional recommendation vlog where a makeup artist shares her top three favorite beauty and grooming products. It aims to persuade the audience of the effectiveness of these items through personal testimony and visual demonstrations.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed product presentation, brand name callouts, and 'where to buy' mentions.",
+      "endorsementObject": [
+        "Medicube",
+        "Torriden",
+        "3COINS"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Opening hook regarding face changes, professional expert persona, and playful ending.",
+      "freeDescribe": "The video uses fast-paced editing and text hooks typical of short-form social media (e.g., Douyin/TikTok/Little Red Book) to maintain high engagement."
+    }
+  }
+}

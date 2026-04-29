@@ -1,0 +1,178 @@
+{
+  "videoName": "1105ya-20260125190714-2095338547882007.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 65,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Beauty"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Thailand"
+        ],
+        "city": [
+          "Bangkok"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a woman in a pink traditional Thai dress posing in front of a decorated temple wall. (2) The scene shifts to the exterior of 'NANA PHOTO STUDIO' and then shows racks of colorful Thai garments inside. (3) A close-up sequence follows, documenting the woman's makeup process: foundation application, heavy nose contouring, eye shadow, eyebrow drawing, and lip gloss. The woman reacts to her reflection with varying expressions of surprise and curiosity. (4) She is seen selecting a pink fabric with a shop assistant. (5) The final phase shows her fully dressed in the pink outfit, posing with a paper umbrella and a silver purse at Wat Arun. She is joined by a female friend in a gold Thai dress, and they walk through the temple grounds together for a professional photoshoot.",
+      "audio_narrative_log": "(1) High-energy male narration in Mandarin begins over an upbeat, rhythmic electronic BGM. (2) The narrator continues with a playful, surprised tone as the makeup process is shown, with the music maintaining a steady, fast tempo. (3) The background music transitions to a melodic Thai pop song featuring a female vocalist. Ambient outdoor sounds of a public space (faint chatter and wind) are audible beneath the music as the scene moves to the temple.",
+      "text_narrative_log": "(1) '來到泰國就是要來畫泰妝' (Hook: Coming to Thailand is for Thai makeup). (2) '兩個人妝髮+衣服+拍攝套裝 台幣5,100左右' (Functional: Price for two people). (3) '底妝打底中~' (Functional: Foundation in progress). (4) '這粉底是不是有點厚?' (Decorative: Questioning the thickness). (5) '局部打亮打亮' (Functional: Highlighting). (6) '現在正在畫鼻影' (Functional: Contouring nose). (7) '鼻子變好挺' (Decorative: Nose looks very high). (8) '什麼? 又要再上一層' (Decorative: Surprise at layers). (9) '怎麼感覺我變得有點陽剛了' (Decorative: Feeling masculine). (10) '眼影打好打滿 打超深欸' (Functional: Deep eyeshadow). (11) '眉毛畫一根一根 很像自己的眉毛好厲害' (Functional: Impressed by eyebrow technique). (12) '上腮紅 上完終於變得比較像女的' (Decorative: Humorous comment on blush). (13) '我嘴唇終於有靈魂了' (Decorative: Lips have soul). (14) '正在挑選衣服顏色跟款式' (Functional: Selecting clothes). (15) '泰妝初體驗' (Hook: First Thai makeup experience)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 32,
+      "averageSceneDuration": 2.03,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Studio Makeup/Selection Process -> Outdoor Photoshoot Showcase"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 6,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face close-up",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female character, 1 female friend, 1 male makeup artist, 1 female assistant, and at least 2 passers-by in the background.",
+      "mainCharacterDescription": "A young woman with dark hair, initially in casual clothes, transformed into a traditional Thai look with a pink one-shoulder wrap dress, intricate jewelry, and elaborate hair ornaments."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Outdoor Temple"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The interior of a photo studio with garment racks and mirrors, and the exterior of Wat Arun with its characteristic porcelain-encrusted spires.",
+      "lightingStyle": "Mixed: Bright studio lighting for makeup and natural daylight for the temple scenes.",
+      "weather": "Sunny",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and Warm",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Scooter"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Wat Arun"
+      ],
+      "brandLogos": [
+        "NANA PHOTO STUDIO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and expressive",
+        "pitch": "Medium-high",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Electronic Pop / Thai Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock",
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Outdoor atmosphere"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Experience -> Results",
+      "mainPurpose": "To showcase and recommend the experience of traditional Thai costume rentals and makeup services in Bangkok, specifically highlighting the transformation process and the aesthetic value of the resulting photoshoot at Wat Arun.",
+      "visualEmotion": "Joyful and Glamorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video prominently features the name of the studio (NANA PHOTO STUDIO) and provides pricing information, acting as a travel recommendation.",
+      "endorsementObject": [
+        "NANA PHOTO STUDIO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced vlog style with humorous interior monologue subtitles.",
+      "freeDescribe": "The video effectively utilizes the 'before and after' trope of beauty vlogs within a travel context to drive engagement."
+    }
+  }
+}

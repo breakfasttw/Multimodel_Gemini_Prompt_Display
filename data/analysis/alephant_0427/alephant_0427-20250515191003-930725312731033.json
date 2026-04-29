@@ -1,0 +1,169 @@
+{
+  "videoName": "alephant_0427-20250515191003-930725312731033.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 30,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Dance",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a live-action recording. A woman with long reddish-brown hair, wearing a pink sports bra and black leggings, is seen gripping a metal pole in a studio, starting a dance sequence. (2) She performs a series of fluid spins and acrobatic poses, holding herself horizontally and upside down while the pole rotates. (3) A second woman with tattoos and wearing a red outfit enters the frame to assist the first woman in achieving a vertical split pose against the pole. (4) A comedic visual effect is applied, enlarging and distorting the first woman's head as she looks toward the camera with an exaggerated, distressed expression while being stretched. (5) The video cycles through these assisted stretching moments with the distorted head effect and the woman posing on the pole.",
+      "audio_narrative_log": "(1) High-energy pop music, a remix of a female-led song, begins at a fast tempo. (2) As the visual transition to the 'stretching' scene occurs, loud, high-pitched, and comical screaming sound effects are layered over the music. (3) The music continues to loop with a repetitive beat and vocal hook, alternating between the regular track and the inserted screaming sound effects synchronized with the visual distortion.",
+      "text_narrative_log": "(1) 'PANPOLE STUDIO' is visible as a decorative logo and text on the wall in the background throughout the video."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 7,
+      "averageSceneDuration": 4.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Dance -> Assisted Stretching -> Comedic Distortion Transition"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main dancer with reddish hair, 1 assistant in red clothing",
+      "mainCharacterDescription": "Woman with long reddish-brown hair wearing glasses, a pink sports bra, black leggings, and extremely high platform heels."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Dance Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A clean, bright indoor dance studio with multiple vertical metal poles, light-colored walls, and a wooden floor. A wall logo reads 'PANPOLE STUDIO'.",
+      "lightingStyle": "Bright studio lights",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural, High Brightness",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "PANPOLE STUDIO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut/Layering",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and comical",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking/singing",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop Remix",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Comical Screams"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Skill Demo -> Physical Challenge -> Comedic Twist",
+      "mainPurpose": "To showcase the athlete's pole dancing skills while subverting the serious nature of the workout with humor. The use of the 'big head' filter and screaming sound effects during a painful-looking stretch creates a 'meme' style video meant for viral social media engagement.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Self-deprecating humor using visual distortion filters during athletic feats.",
+      "freeDescribe": "The video effectively blends high-level physical skill with internet-native comedy tropes."
+    }
+  }
+}

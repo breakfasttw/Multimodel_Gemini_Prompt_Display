@@ -1,0 +1,180 @@
+{
+  "videoName": "yga0721-20250806204259-1470864631424770.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 89,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Commercial",
+        "Comedy",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a man in a navy blue t-shirt and white pants entering a modern living room, speaking animatedly to a woman sitting on a white sofa. (2) Transitions show the man performing various household chores: wiping a wooden table, folding a pile of colorful laundry with the woman, and helping her wash dishes in a kitchen with a black sink. (3) A white standing fan is introduced; the man carries it from a hallway into the living room where the woman is sitting. (4) Close-ups showcase the fan's control panel, blades, and remote control. (5) The man is then seen outdoors in a park, sitting on a folding chair next to the fan, which is mounted on a tripod. (6) Back indoors, the woman uses a remote to control the fan while lounging on the sofa, and the man presents a fan accessory with his own face on it.",
+      "audio_narrative_log": "(1) Upbeat, energetic pop music starts immediately. A male voice speaks in a loud, fast-paced, and enthusiastic tone. (2) Sound effects like 'whooshes' and 'dings' punctuate scene transitions and key points. (3) As the man describes the fan's features, the music continues at a steady, high-BPM rhythm. (4) Occasional short vocal interjections from a woman are heard during the skit portions. (5) The audio remains clear and professional, suggesting studio recording or high-quality field recording for the voiceover.",
+      "text_narrative_log": "(1) Functional Text: '大家都在說小朋友要富養' (Everyone says children should be raised with wealth) appearing at the start. (2) Hook Text: 'NO! 聽嘎哥的一句勸' (No! Listen to Ga Ge's advice) in a bold blue/white font. (3) Decorative Text: '老婆' (Wife) with arrows pointing to the woman. (4) Functional Text: 'DIKE 全能無線風扇' (DIKE All-round Wireless Fan) as a primary title. (5) Functional Text: '約2小時快速充滿電' (Quick charge in about 2 hours) and '22.5小時涼風' (22.5 hours of cool breeze) highlighting technical specs. (6) Hook Text: '嘎哥團購優惠中' (Ga Ge's group buy offer) appearing near the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook Skit -> Lifestyle Chores Montage -> Product Feature Deep-dive -> CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male creator (Ga Ge) and 1 female companion (his wife).",
+      "mainCharacterDescription": "The man has brown styled hair, wearing a navy blue oversized t-shirt and white trousers. The woman has long dark hair, wearing a blue and white striped t-shirt and dark denim shorts."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room",
+          "Kitchen",
+          "Outdoor Park"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A clean, modern minimalist apartment with white walls, a large white sectional sofa, and wooden flooring. The outdoor scene is a sunny park with green grass and large trees.",
+      "lightingStyle": "Bright, natural lighting throughout.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Electric Fan",
+        "Smartphone",
+        "Remote Control"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "DIKE"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, persuasive, and humorous",
+        "pitch": "Normal",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh SFX",
+        "Alert Ping"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Domestic Skit -> Technical Demonstration -> Call to Action",
+      "mainPurpose": "To promote the DIKE wireless fan by positioning it as an essential lifestyle tool for keeping a 'happy wife' cool and comfortable. The video combines relatability through a domestic skit with a high-energy product review to encourage viewers to participate in a group buy.",
+      "visualEmotion": "Energetic, Positive, Domestic Bliss"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product demonstration, verbal recommendation of the brand, and a 'group buy' discount offer.",
+      "endorsementObject": [
+        "DIKE"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Ga Ge (蔡阿嘎) high-speed comedic delivery and family-centric content.",
+      "freeDescribe": "The video effectively utilizes influencer marketing by blending the creator's known persona with a clear product sales pitch."
+    }
+  }
+}

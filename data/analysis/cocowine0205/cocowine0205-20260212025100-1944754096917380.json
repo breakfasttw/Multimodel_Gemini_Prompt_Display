@@ -1,0 +1,176 @@
+{
+  "videoName": "cocowine0205-20260212025100-1944754096917380.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 64,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in a beige cardigan and white dress stands in front of a refrigerated food display at a Costco warehouse, smiling and pointing at packs of mango crepes. (2) She picks up a container and talks excitedly to someone behind the camera while other shoppers move in the background. (3) Scene cuts to an indoor dining room where the same woman and a friend wearing a hat are sitting at a table, holding pieces of the crepe and showing the interior mango filling to the camera. (4) Close-up shots show the thin, layered texture of the crepes inside the plastic packaging.",
+      "audio_narrative_log": "(1) Enthusiastic female vocals begin speaking over upbeat, mid-tempo electronic background music. The sound of a crowded warehouse is audible in the background. (2) A male voice briefly interacts with the main speaker, joking about the quantity being purchased. (3) The audio transitions to a quieter indoor environment where two female voices take turns describing the taste, mentioning the mascarpone cream and the thinness of the crust. (4) Sounds of plastic packaging crinkling and the muffled sound of eating are layered with the continuous background music.",
+      "text_narrative_log": "(1) Large 'COSTCO WHOLESALE' logo appears at the top. (2) Decorative hook text: '很多人買 threads 爆紅的 芒果可麗餅 真的好吃嗎？' (Many people buying mango crepes trending on Threads, is it really good?). (3) Functional subtitles translate the spoken dialogue throughout the video. (4) Large yellow and red emphasis text: '美味', '只要50塊' (Only 50 dollars), and '十分高' (Very high score)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at store -> Selection -> Home tasting and review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "2 main female reviewers, 1 off-camera male voice/hand, at least 5 shoppers in the background.",
+      "mainCharacterDescription": "Two young Asian women; one has long dark hair wearing a beige cardigan, the other wears a black top and a grey bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Costco Warehouse",
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A large warehouse store with industrial shelving and food refrigerators, followed by a domestic living room with a table, decorative toys, and a pet cage in the distance.",
+      "lightingStyle": "Bright indoor lighting and overhead store lights.",
+      "weather": "None",
+      "season": "Summer",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Bright",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Dog"
+      ],
+      "foodsDetect": [
+        "Mango Crepes"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 3,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and descriptive",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Lo-fi",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Store chatter",
+        "Domestic background noise"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Procurement -> Testing -> Final Verdict",
+      "mainPurpose": "To verify the quality and value of a trending food product (Mango Crepes) from Costco, aiming to inform and entertain followers through a first-hand tasting experience.",
+      "visualEmotion": "Enthusiastic and cozy"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed mention of product name, price per unit, and brand location.",
+      "endorsementObject": [
+        "Costco",
+        "新鮮芒果可麗餅"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Conversational chemistry between the two hosts, high-density decorative captions.",
+      "freeDescribe": "The video capitalizes on cross-platform trends (referencing 'Threads') to build relevance and curiosity."
+    }
+  }
+}

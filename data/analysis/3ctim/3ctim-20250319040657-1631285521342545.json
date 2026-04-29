@@ -1,0 +1,178 @@
+{
+  "videoName": "3ctim-20250319040657-1631285521342545.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 51,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a flat cap sits at a wooden table with two iPhones placed in front of him. (2) Close-up view of hands inserting a Taiwan Mobile SIM card into the blue iPhone's SIM tray. (3) A series of screen-recorded speed tests (Speedtest by Ookla) are shown, comparing 'iPhone 16e' and 'iPhone 16' side-by-side. (4) Transition to an outdoor setting where the two phones are held against a window for another speed test. (5) A tabular summary of results appears on screen, listing multiple download and upload speeds for both models. (6) The man returns to the screen, holding both phones and gesturing to emphasize his final points about battery life.",
+      "audio_narrative_log": "(1) A male voice begins speaking in an energetic, professional tone in Chinese, accompanied by upbeat electronic background music at a moderate tempo. (2) A sharp clicking sound is heard as the SIM tray is inserted. (3) The vocal narration continues over the music, explaining the test conditions and reading out the speed results. (4) The audio landscape shifts slightly with faint ambient street noise during the outdoor segment. (5) The music stays consistent through the summary and closing, ending as the speaker finishes his sentence.",
+      "text_narrative_log": "(1) Intro hook: '這次蘋果 iPhone16e 換上 C1 晶片' (This time Apple iPhone 16e uses the C1 chip). (2) Functional labels: '第一次測速' through '第五次測速' (1st speed test through 5th speed test). (3) Location context: '室內測不準 我們去室外' (Indoor tests aren't accurate, let's go outside). (4) Result summary table listing 'Type', 'Date', and 'Mbps' for both phones. (5) Highlight hook: '續航力也增加了兩個小時！' (Battery life also increased by two hours!)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro with host -> Technical demonstration of SIM insertion -> Montage of speed test results -> Data summary table -> Final conclusion/benefit highlight."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Upper body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male creator performing the tech review.",
+      "mainCharacterDescription": "Middle-aged male wearing a white 'Roots' sweatshirt, a grey flat cap, glasses, and several beaded bracelets on his right wrist."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Indoors features a simple room with grey vertical blinds and a wooden table. Outdoors shows a window overlooking a city street with some green trees and buildings.",
+      "lightingStyle": "Bright, even studio lighting indoors and natural daylight for the outdoor shots.",
+      "weather": "Clear",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "iPhone 16",
+        "iPhone 16e"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple",
+        "Taiwan Mobile",
+        "Roots",
+        "Speedtest"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Informative and energetic",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Digital Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Mechanical Click"
+      ],
+      "ambientNoise": [
+        "Street Noise"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> Comparison -> CTA/Value Proposition",
+      "mainPurpose": "To provide a performance comparison between the iPhone 16e and iPhone 16, specifically focusing on the new C1 chip's 5G capabilities and concluding that while network performance is similar, the 16e offers a significant advantage in battery life.",
+      "visualEmotion": "Professional and energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3c有意思tim哥 logo in the corner, consistent white sweatshirt branding, fast-paced tech comparison style.",
+      "freeDescribe": "The video uses empirical testing (speed tests) to validate hardware claims, which is a standard format for tech influencers."
+    }
+  }
+}

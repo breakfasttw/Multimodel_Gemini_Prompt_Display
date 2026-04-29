@@ -1,0 +1,180 @@
+{
+  "videoName": "3ctim-20250523195939-1536715144090872.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 52,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a middle-aged male host wearing a newsboy cap and glasses, speaking directly to the camera in a crowded exhibition hall. He points to a ring on his hand. (2) The scene transitions to a close-up of a black smart ring (Acer FreeSense Ring) being held, followed by a specification graphic. (3) Close-up comparison shots show the Acer Ring next to the Galaxy Ring to highlight thickness differences. (4) A hand is shown scrolling through health data on a tablet and then a smartphone, displaying charts for sleep, heart rate, and HRV. (5) The host reappears, talking with hand gestures, then the video shows a rotating display of the ring in black and rose gold versions. (6) The video ends with the host smiling and looking at the camera.",
+      "audio_narrative_log": "(1) Upbeat, energetic electronic background music starts immediately. A male voice speaks enthusiastically in Mandarin, introducing the topic. (2) The music continues at a consistent volume as the male narration provides details about the product's features and compatibility. (3) Subtle ambient noise from the exhibition environment, such as distant chatter and movement, is audible behind the voice and music. (4) The audio maintains this mix of high-energy music and clear, focused narration until the end of the clip.",
+      "text_narrative_log": "(1) '大家看我有戴Galaxy Ring' (Look at me wearing a Galaxy Ring) - Hook text used to introduce the comparison. (2) 'Acer也出了!' (Acer also released one!) - Decorative text with an excited tone. (3) 'Free Sense Ring' - Functional text identifying the product. (4) 'Acer Ring / Galaxy Ring' - Comparative labels for visual identification. (5) '利用chatgpt告訴你' (Using ChatGPT to tell you) - Functional text explaining AI integration. (6) '玫瑰金版本' (Rose Gold version) - Decorative text highlighting color options."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video follows a standard review flow: Intro -> Product Reveal -> Feature Breakdown/App Demo -> Comparison -> Conclusion."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male host; several passers-by in the background of the exhibition hall.",
+      "mainCharacterDescription": "A middle-aged man with glasses, wearing a dark newsboy cap and a patterned lanyard/shirt, presenting in a professional yet casual tech-vlogger style."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Exhibition Hall",
+          "Tech Booth"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The background consists of a bright, busy technology exhibition hall with booths (MSI logo visible), display screens, and other attendees walking by.",
+      "lightingStyle": "Intense studio-like exhibition lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smart Ring",
+        "Tablet",
+        "Smartphone",
+        "Display Screen"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Acer",
+        "MSI",
+        "Samsung"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and humorous",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Exhibition Hall"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Product Intro -> Feature Comparison -> Technical Demo -> Outro",
+      "mainPurpose": "The video serves as a promotional tech review for the Acer FreeSense Ring. It highlights the device's slim profile relative to competitors like the Galaxy Ring, its cross-platform compatibility (iOS and Android), and its advanced AI-driven health monitoring features via ChatGPT. The goal is to inform tech-savvy viewers about a new wearable option.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The host provides a detailed hands-on review of a specific new product (Acer Ring) at an exhibition booth, focusing on its unique selling points.",
+      "endorsementObject": [
+        "Acer"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host's signature newsboy cap and glasses, tech-focused reporting style with '3ctim' branding.",
+      "freeDescribe": "The video uses fast-paced editing and text hooks common in short-form tech journalism to maintain high engagement."
+    }
+  }
+}

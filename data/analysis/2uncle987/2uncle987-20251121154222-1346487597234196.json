@@ -1,0 +1,188 @@
+{
+  "videoName": "2uncle987-20251121154222-1346487597234196.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 83.67,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Review",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Seoul"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a female host standing on a bright city street in Korea, gesturing towards a purple electric scooter on the sidewalk. (2) The scene cuts between daytime and nighttime exterior views of the Hongdae area and the guesthouse entrance. (3) The host enters the apartment, showing a minimalist dining area with a long wooden table and then a living room with a green circular rug and a large flat-screen TV. (4) She guides the camera through a clean bathroom, pointing out neatly folded purple towels and various toiletries on a shelf. (5) The tour continues into three separate bedrooms; two rooms feature both a double and a single bed, while the third is a smaller double room. (6) Finally, she showcases the kitchen area, which includes a refrigerator, microwave, and an integrated washing machine, ending with a positive hand gesture.",
+      "audio_narrative_log": "(1) Upbeat, energetic electronic pop music with a steady rhythm begins. A young female voice speaks in a friendly, enthusiastic tone in Mandarin Chinese, introducing the location. (2) The music continues as the primary audio layer while the host provides a continuous descriptive narration of the apartment's interior features and proximity to the subway. (3) There are very few ambient sounds; the focus remains on the BGM and the clear, studio-like quality of the voiceover. (4) The audio maintains a consistent volume and pace until the video concludes with a final energetic remark.",
+      "text_narrative_log": "(1) Functional Text: '韓國弘大民宿' (Korea Hongdae Guesthouse) appearing as a colorful title at the start. (2) Functional Text: '弘大7號出口B1' (Hongdae Exit 7 B1) indicating the specific location. (3) Functional Text: 'RODEM HOUSE' identifying the guesthouse name. (4) Functional Text: Multiple section labels like '餐廳' (Dining Room), '客廳' (Living Room), '浴室' (Bathroom), '第一間(3人房)' (First Room - 3 people), and '廚房' (Kitchen) appear chronologically to guide the tour. (5) Hook Text: 'CP值超高' (Extremely high CP value) at the end to emphasize the value for money."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 38,
+      "averageSceneDuration": 2.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Location Context -> Interior Room-by-Room Tour -> Utility Overview -> Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female host/creator throughout the video.",
+      "mainCharacterDescription": "A young Asian woman wearing an Adidas baseball cap, a Ganni beanie in some scenes, a blue and white striped cardigan, and a black Adidas tracksuit in others."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Indoor Apartment",
+          "Kitchen",
+          "Bedroom",
+          "Bathroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern urban street in Seoul followed by a clean, minimalist, and well-lit residential interior with white walls, wooden furniture, and modern appliances.",
+      "lightingStyle": "Bright natural daylight and warm indoor studio-style lighting.",
+      "weather": "Sunny",
+      "season": "Autumn",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Electric Scooter"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "TV",
+        "Washing Machine",
+        "Refrigerator",
+        "Microwave",
+        "Digital Door Lock"
+      ],
+      "landmark": [
+        "Hongdae District"
+      ],
+      "brandLogos": [
+        "Adidas",
+        "Ganni",
+        "Nard",
+        "LG",
+        "Prada"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with continuous music bed",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, high-pitched, and excited",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Geographic Location -> Feature-by-Feature Tour -> Conclusion",
+      "mainPurpose": "To promote a specific guesthouse named Rodem House in the Hongdae area of Seoul by demonstrating its extreme proximity to the subway and its clean, spacious, and fully-equipped interior, aimed at potential tourists looking for high-value accommodation.",
+      "visualEmotion": "Energetic, Welcoming, and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The host provides a detailed room tour, mentions the specific brand name multiple times, and explicitly recommends the location based on 'CP value'.",
+      "endorsementObject": [
+        "Rodem House"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin narration combined with fast-cut room tours and bold, colorful Chinese text overlays.",
+      "freeDescribe": "The video uses a very standard travel influencer template: emphasizing convenience (10 seconds from exit) and cleanliness to appeal to budget-conscious but quality-seeking independent travelers."
+    }
+  }
+}

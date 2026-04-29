@@ -1,0 +1,176 @@
+{
+  "videoName": "3ctim-20251017195946-1481156210102696.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 66,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Vlog",
+        "Hotel Tour",
+        "Unboxing"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "Shanghai"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Live-action video. A hand is seen opening a heavy door to enter a bright, modern hotel room. A small circular overlay in the top-right corner shows a man with glasses and a hat smiling and speaking to the camera. (2) The camera pans left to right, revealing a dining table with several items, floor-to-ceiling windows with curtains, a large TV on a stand, and a king-sized bed with white sheets. (3) The hand points to and picks up various items on the table, including a card with a colorful ring logo, a white tote bag, and a green gift bag. The man in the overlay continues to talk with animated expressions. (4) The camera moves toward the bathroom area, showing a large white bathtub and tiled floors, then pans back toward the room's entrance where a large white suitcase is positioned next to a bench.",
+      "audio_narrative_log": "(1) A man's voice is heard speaking Chinese in a cheerful and energetic tone. The faint sound of a door handle clicking and a door opening is audible. (2) The narration remains constant as the man describes his arrival and the room. Background noise is minimal, consisting of slight shuffling sounds from the person moving. (3) Sound of paper rustling and light thuds as the hand interacts with the gift bags and cards on the table. No background music is present. (4) The man's voice continues at a steady pace, concluding with a tour of the bathroom and a final comment on his luggage.",
+      "text_narrative_log": "(1) 'vivo', 'Brave New Origin', '2025 vivo originOS Global Launch Event' on a card, functional and promotional. (2) 'Enjoy A Relaxed Life :)' on a white tote bag, decorative. (3) 'vivo 22.5W ... A1' on a power bank box, functional. (4) '上海' (Shanghai) on a green gift bag, identifying the location."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 66.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Hotel Room Tour -> Unboxing Gifts -> Bathroom Tour -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male in the reaction window, hands visible in the main POV frame.",
+      "mainCharacterDescription": "Male, wearing a dark cap, glasses, and a light-colored t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Hotel Room",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A luxury hotel room with high-end furniture, including a grey armchair, a marble-top table, a large flat-screen TV, and a bed with white linens. Large windows provide bright natural light.",
+      "lightingStyle": "Natural daylight mixed with soft indoor ambient lighting.",
+      "weather": "Sunny",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and Warm",
+      "cameraWork": [
+        "POV",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Water bottle"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "TV",
+        "Power bank"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "vivo"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "None",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Indoor room silence",
+        "Footsteps",
+        "Rustling"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Environment Tour -> Brand Gifting -> Facility Tour",
+      "mainPurpose": "To document and share the experience of attending a vivo brand event in Shanghai, showcasing the luxury accommodation and gifts provided by the brand to its invited creators.",
+      "visualEmotion": "Energetic and Positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The creator shows a vivo event invitation card and several vivo-branded gift items while expressing excitement about the event.",
+      "endorsementObject": [
+        "vivo"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Circular face-cam overlay in a POV tour video.",
+      "freeDescribe": "The video highlights the influencer's status through an exclusive event invitation and professional room tour style."
+    }
+  }
+}

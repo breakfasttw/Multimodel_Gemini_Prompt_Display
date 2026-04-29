@@ -1,0 +1,182 @@
+{
+  "videoName": "cocowine0205-20250826124506-1431030542017008.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 28,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman wearing a blue off-the-shoulder top and a black beret stands in a supermarket aisle, holding a box of Castello whipped dip and smiling at the camera. (2) The scene shifts to close-ups of the product packaging and price tags on the shelf, followed by shots of the woman pointing at the product with excitement. (3) The scene transitions to an indoor room where the woman, now joined by another woman in a purple top, sits at a marble table; they open the dip containers and taste them with crackers, reacting with wide eyes and expressive gestures of enjoyment.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music begins immediately with a high-pitched, energetic female voice speaking rapidly in Mandarin. (2) High-frequency sound effects (SFX) like 'dings' and 'pops' punctuate the speech as text appears on screen. (3) The soundscape becomes more crowded as a second female voice joins in, laughing and exclaiming loudly; the BGM maintains a consistent high tempo throughout.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo at the top. (2) Decorative Hook Text: '神之抹醬' (God's spread) and '最紅的是什麼?' (What's the most popular?). (3) Functional Text: Price details '$329' and product name 'CASTELLO WHIPPED DIP'. (4) Decorative Effect Text: '太美味了' (So delicious) and '休想打發我' (Don't try to brush me off/pun on 'whipped')."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 1.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro in store -> Product details -> Home tasting and reaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "Two main female creators appear throughout the video, first one in the store, then both at home.",
+      "mainCharacterDescription": "One woman wears a black beret and a blue off-the-shoulder denim-style top; the other wears a purple short-sleeved top with a decorative neckline."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Supermarket",
+          "Indoor Dining Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First half is in a Costco warehouse with industrial shelving and refrigerated units; second half is a domestic interior with a marble table and plush toys in the background.",
+      "lightingStyle": "Bright studio-like lighting and fluorescent store lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Whipped Dip",
+        "Crackers",
+        "Cheese"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Castello",
+        "Arla Foods"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Pop",
+        "Sparkle SFX"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Information -> Reaction",
+      "mainPurpose": "The video serves as an enthusiastic product recommendation for 'Castello Whipped Dip' found at Costco. It aims to capture the viewer's attention with a trending product 'hook', provide specific purchasing information (price/brand), and validate the recommendation through a high-energy taste test and positive reaction.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of product, brand names, price, and a positive taste review.",
+      "endorsementObject": [
+        "Castello",
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Variety-show style text overlays, fast-paced 'talking head' combined with product close-ups.",
+      "freeDescribe": "The video follows the 'viral find' format popular on social media, using hyperbolic language and fast editing to maintain high engagement."
+    }
+  }
+}

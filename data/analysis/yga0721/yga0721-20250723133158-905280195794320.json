@@ -1,0 +1,177 @@
+{
+  "videoName": "yga0721-20250723133158-905280195794320.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Product Promotion",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A male creator in a black shirt and white headphones sits behind a microphone, holding a paper list and gesturing enthusiastically. (2) Chronological sequence showing various dried fruit snacks on wooden trays, followed by the creator holding up 'EATON' branded snack packaging. (3) A female co-host in a striped shirt appears, holding a pair of novelty hand-shaped food tongs. (4) The man displays a woven picnic basket and a numbered oil painting kit. (5) The man holds multiple bags of snacks toward the camera while talking.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music plays. A male voice speaks with high energy, rhythmically listing fruit names in Mandarin. (2) Sound effects like 'pop' and 'ting' occur during text overlays, followed by a burst of canned applause SFX. (3) A female voice enters with a bright tone, interacting with the male speaker about gift items. (4) The music and vocals continue at a high-density pace until the end.",
+      "text_narrative_log": "(1) Functional Text: Mandarin subtitles translate the spoken content throughout. (2) Decorative Text: '可嘎 543' branding in the corner; large colorful labels for fruit types like '蘋果', '蔓越莓', '草莓'. (3) Promotional Text: '台灣在地小農' (Taiwan local farmers), '$1799 一起走走野餐組' (Picnic set price), and tiered gift labels like '消費滿1000 贈小手食物夾' (Gift for $1000 spend)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Product Listing -> Bundle Promotion -> Tiered Gift Reveal"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male creator, 1 female co-host",
+      "mainCharacterDescription": "The male creator is wearing a black polo shirt and white AirPods Max. The female co-host wears a black and white horizontal striped long-sleeve shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A studio setting with an 'ON AIR' sign, shelves filled with numerous figurines and collectibles (Funko Pops, etc.).",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Static",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Dried Fruit",
+        "Nuts",
+        "Snacks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "Headphones",
+        "Laptop"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "EATON",
+        "Apple"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and persuasive",
+        "pitch": "Moderate-high",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Applause",
+        "Pop sounds"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence/Product Listing -> Value Proposition -> Call to Action via Incentives",
+      "mainPurpose": "The video aims to drive sales for a limited edition snack bundle '嘎哥限定組合' from the brand EATON. It utilizes the creator's high energy to showcase the variety of Taiwanese-sourced dried fruits and builds purchase motivation through a tiered gift system including novelty tongs, a painting kit, and extra snack packs.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of EATON branded packaging, explicit pricing mention, and specific gift incentives for total purchase amounts.",
+      "endorsementObject": [
+        "EATON"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy variety show style editing, variety-show style text pop-ups, 'Ga Ge' branding.",
+      "freeDescribe": "Typical influencer marketing in Taiwan, focusing on high CP (Cost-Performance) value and limited-time bundles to create urgency."
+    }
+  }
+}

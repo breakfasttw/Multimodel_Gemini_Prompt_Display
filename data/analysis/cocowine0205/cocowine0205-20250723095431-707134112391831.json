@@ -1,0 +1,181 @@
+{
+  "videoName": "cocowine0205-20250723095431-707134112391831.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 53,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman in a black zip-up top is in a Costco warehouse, excitedly picking up the last box of Cheese Butterfly Crisps from a pallet. (2) The camera focuses on a close-up of the pastries inside the box, showcasing their golden-brown, cheesy texture. (3) The scene transitions to an indoor studio setting where the woman and her friend (wearing a blue beret) are sitting at a table, holding the pastry and pointing at its features. (4) They break the pastry to show the interior, gesturing with their hands to emphasize its puffiness and crunchiness while making expressive facial expressions of delight.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced electronic background music starts immediately. A high-pitched, excited female voice speaks in Mandarin, exclaiming about finding the last box. (2) The music continues as the primary speaker describes the price and quantity, accompanied by 'ping' and 'shimmer' sound effects (SFX) when key points are made. (3) In the studio section, two female voices are heard in a conversational tone. There is a distinct 'crunch' SFX when they discuss the texture. (4) The audio ends with a humorous interaction between the two women about serving the pastry with soup, maintaining a high-energy and friendly vocal tone.",
+      "text_narrative_log": "(1) Functional Text: '最後一盒哦' (The last box), '6個是399元' (6 pieces for 399 dollars), '一個66.5' (66.5 per piece). (2) Decorative/Hook Text: '搶到最後一盒！' (Grabbed the last box!), '起司蝴蝶酥' (Cheese Butterfly Crisps), '非常酥脆' (Very crispy), '起司的陣陣香氣' (Bursting aroma of cheese). (3) Content & Tone: The text is colorful, using pink and yellow highlights to emphasize the excitement of the find and the deliciousness of the product."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook (Store Discovery) -> Product Detail (Close-ups) -> Review (Studio Tasting) -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, at least 2 female shoppers visible in the background of the Costco warehouse.",
+      "mainCharacterDescription": "One woman has long dark hair and wears a black zip-up top; the second woman wears a white lace top and a blue Kangol-style beret."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The first half is shot inside a Costco warehouse with high industrial shelving, pallets of goods, and other shoppers. The second half is in a domestic studio/living room setting with a table, snacks, and plush toys in the background.",
+      "lightingStyle": "Bright studio lighting and industrial warehouse lighting.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pastry",
+        "Cheese Butterfly Crisps",
+        "Bread"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "KIRKLAND SIGNATURE"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade and Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop/Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Sparkle SFX",
+        "Crunching"
+      ],
+      "ambientNoise": [
+        "Warehouse echo"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Price/Specs -> Sensory Review -> Recommendation",
+      "mainPurpose": "To provide an enthusiastic review and recommendation of the 'Cheese Butterfly Crisps' from Costco, highlighting their scarcity ('last box'), value for money, and desirable texture/flavor to encourage viewers to purchase them.",
+      "visualEmotion": "Energetic and positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed price breakdown, brand logos prominently displayed, and highly positive review of the product's quality.",
+      "endorsementObject": [
+        "COSTCO",
+        "KIRKLAND SIGNATURE"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy variety show style editing with colorful floating text and reaction sound effects.",
+      "freeDescribe": "The video uses FOMO (fear of missing out) by emphasizing it was the 'last box' to grab viewer attention immediately."
+    }
+  }
+}

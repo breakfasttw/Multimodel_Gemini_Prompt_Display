@@ -1,0 +1,178 @@
+{
+  "videoName": "cocowine0205-20251204205507-886859451073449.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 61,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a young woman wearing a blue bucket hat and a blue fuzzy dress standing in a Costco warehouse aisle. She is holding a large yellow box of Pokémon-themed toothpaste and smiling brightly at the camera. Large, colorful text overlays appear around her. (2) She brings the box closer to the camera to show the two pumping-style toothpaste containers inside, which are shaped like Pokéballs (one red, one blue). She turns the box around to show the back, pointing at the diagrams explaining the pumping mechanism and the fluoride content. (3) She then moves to the side to pick up another large package, this one containing a set of seven Pokémon-themed toothbrushes. She shows the individual toothbrush designs featuring Pikachu, Squirtle, Bulbasaur, Charmander, and Eevee. The camera zooms in on the toothbrushes. (4) Finally, she poses with both the toothpaste and the toothbrush set, giving a thumbs up and smiling as the video concludes.",
+      "audio_narrative_log": "(1) Upbeat and energetic pop music plays in the background throughout the video. A high-pitched, enthusiastic female voice greets the audience and introduces the 'Pokémon' products found at 'Costco'. (2) As she shows the toothpaste box, a friendly male voice is heard off-screen, reacting with excitement ('Wow!', 'So cute!') and engaging in a brief dialogue about the 'pumping' feature. The female voice explains the benefits for kids, such as the fun factor and correct fluoride levels. (3) When the toothbrushes are shown, both voices continue to comment on the different characters and the suction cup feature of the brushes. There are subtle sound effects like 'ting' sounds when certain text overlays appear. (4) The audio ends with a cheerful sign-off from both voices over the fading music.",
+      "text_narrative_log": "(1) Functional Text: Subtitles translate the spoken dialogue throughout the video, such as '讓你刷牙更有趣' (Make brushing your teeth more fun) and '專門給小孩子使用的' (Specially for kids to use). (2) Decorative/Hook Text: At the start, large titles read 'Costco WHOLESALE', '小孩子的最愛' (Kids' favorite), and '寶可夢 精靈球牙膏' (Pokémon Pokéball Toothpaste) in bold, colorful characters. (3) Content & Tone: The text is highly enthusiastic and promotional, highlighting features like '按壓式' (Pumping type), '250g大容量' (250g large capacity), and '有效預防蛀牙' (Effectively prevent cavities)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 4.3,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Hook -> Product Feature Demo (Toothpaste) -> Product Feature Demo (Toothbrush) -> Summary/Pose"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main creator onscreen; 1 male voice heard offscreen.",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a light blue bucket hat, a white long-sleeved shirt, and a blue textured/fuzzy pinafore dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The interior of a Costco warehouse, featuring high metal shelves stacked with boxes of goods, brightly lit with industrial lighting. Other shoppers are occasionally visible in the far background.",
+      "lightingStyle": "Bright industrial warehouse lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco WHOLESALE",
+        "LG 生活健康",
+        "REACH KIDS",
+        "Pokémon"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful, energetic, and promotional",
+        "pitch": "High (Female), Medium (Male)",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature 1 (Toothpaste) -> Feature 2 (Toothbrushes) -> Recommendation",
+      "mainPurpose": "The video is a promotional review aimed at parents and Pokémon fans, showcasing specific children's dental care products available at Costco. It uses a high-energy vlog style to highlight the fun and functional aspects of the Pokémon-themed pumping toothpaste and suction-cup toothbrushes.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator is directly holding and promoting specific products, detailing their features and price/availability at a specific retailer.",
+      "endorsementObject": [
+        "LG REACH KIDS Pokémon Toothpaste",
+        "LG REACH KIDS Pokémon Toothbrush"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-show style text overlays and enthusiastic dual-gender dialogue.",
+      "freeDescribe": "The video effectively leverages the Pokémon IP to target a specific consumer demographic (parents of young children) through a familiar 'Costco finds' vlog format."
+    }
+  }
+}

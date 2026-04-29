@@ -1,0 +1,181 @@
+{
+  "videoName": "3ctim-20250522082326-890707130495249.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 75,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Unboxing",
+        "Tech Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) This is a live-action video featuring a middle-aged man in a green t-shirt and a matching flat cap sitting at a wooden table. He holds up a black rectangular box and rotates it to show different angles. (2) He opens the box to reveal a silver/white smartphone, pointing at its back and camera lenses with visible enthusiasm. (3) The camera zooms in on the textured black box and the side of the box showing model information. (4) He takes out a black charging cable and a SIM ejector tool from a smaller inner box. (5) On the table, he places a black smart ring next to the side of the smartphone to compare their thickness. (6) He moves to a window, holding the phone up against the glass to show its metallic frame and reflective back. (7) He extends his arm out of the window, rotating the phone to catch the direct sunlight, showcasing the 'Titanium Light Blue' finish.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic music with a steady drum beat begins. A male voice speaks in a friendly, high-pitched, and excited tone, introducing himself and the product. (2) Sound effects of cardboard rustling and plastic tearing are heard clearly as the box is opened. (3) The music continues at a steady volume as the male voice describes the design features. (4) A female voice briefly speaks from off-screen, sounding curious and interactive. (5) Short 'whoosh' and shimmering synthesizer sound effects are layered over the music during close-up visual transitions. (6) As the scene moves, ambient street noise including distant vehicle engines and wind becomes audible. (7) The male narrator's voice becomes more emphatic and cautious as he describes the phone's appearance in the light.",
+      "text_narrative_log": "(1) Functional Text: '大家好Tim哥' (Hi everyone, I'm Tim), introducing the creator. (2) Functional Text: 'Galaxy S25 Edge', '盒裝版' (Boxed version), '鈦輕藍' (Titanium Light Blue), identifying the product model and color. (3) Decorative/Effect Text: '超好看' (Super good looking), '超薄極致工藝' (Ultra-thin extreme craftsmanship), highlighting product features with an enthusiastic tone. (4) Decorative/Effect Text: '小心不要掉下去' (Be careful not to drop it), adding a humorous and cautious tone during the outdoor lighting test."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.68,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Unboxing -> Accessory check -> Comparative thickness test -> Lighting/Exterior showcase"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main creator visible throughout the video; 1 female voice is heard off-screen but not counted visually.",
+      "mainCharacterDescription": "A middle-aged man wearing a green t-shirt, a green flat cap, glasses, a black smart ring, and multiple bracelets/beads on his left wrist."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Window side"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Initially a wooden table in a brightly lit room with a white wall; later transitions to a window view overlooking a city street with brick buildings and parked vehicles.",
+      "lightingStyle": "Bright studio lighting transitioning to natural direct sunlight by the window.",
+      "weather": "Sunny",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and High Brightness",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Motorcycle"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Smart ring",
+        "Charging Cable"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "SAMSUNG",
+        "Galaxy"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, professional, and enthusiastic",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Whoosh",
+        "Rustling",
+        "Digital chime"
+      ],
+      "ambientNoise": [
+        "Traffic",
+        "Wind"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Product Reveal -> Detail Inspection -> Comparison -> Lighting Test",
+      "mainPurpose": "The video is a tech unboxing and first-look review intended to generate excitement and inform viewers about the design, physical build, and aesthetics of the Samsung Galaxy S25 Edge. It emphasizes the device's slim profile and 'Titanium Light Blue' color through direct physical comparison and varied lighting conditions.",
+      "visualEmotion": "Energetic and Bright"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator unboxes the product, mentions the specific brand and model multiple times, and highlights its premium design features in a positive light.",
+      "endorsementObject": [
+        "Samsung Galaxy S25 Edge"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Opening greeting '大家好我是Tim哥', consistent use of Traditional Chinese variety-show style captions.",
+      "freeDescribe": "The video uses high-frequency cuts and sound effects typical of short-form social media content to maintain high viewer engagement during the technical unboxing process."
+    }
+  }
+}

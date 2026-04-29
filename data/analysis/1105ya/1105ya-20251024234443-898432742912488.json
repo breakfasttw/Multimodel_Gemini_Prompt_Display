@@ -1,0 +1,181 @@
+{
+  "videoName": "1105ya-20251024234443-898432742912488.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 58.0,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Concert",
+        "Music",
+        "Fan-cam"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Kaohsiung"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Live-action concert footage. Jennie performs on stage wearing a white puffer jacket and shorts with fire pyrotechnics erupting behind her. (2) Scene shifts to Jennie in a black and white corset outfit, performing a choreographed sequence along a metal railing. (3) Transitions to Jennie in a black leather outfit, smiling and waving to the audience while performing. (4) Shows Jennie and Lisa together on stage in casual black outfits, performing a synchronized dance. (5) Jennie is seen in a maroon fringed top and leather shorts, dancing energetically with male and female backup dancers. (6) The final phase shows Jennie in a white graphic t-shirt and mini-skirt, performing a closing song and then bowing deeply toward the camera.",
+      "audio_narrative_log": "(1) High-energy electronic pop music begins with prominent synth melodies and a heavy drum beat. Female vocals are heard rapping and singing with an excited, rhythmic tone. (2) The music shifts to a melodic pop chorus with layered vocal harmonies and a steady bassline. (3) A dance break occurs with a heavy focus on percussion and bass beats. (4) The soundscape changes to a more vocal-driven pop track with clear, high-pitched singing over a lighter accompaniment. (5) Ends with high-tempo pop music integrated with loud crowd cheering and applause.",
+      "text_narrative_log": "(1) Functional Text: 'Jennie 2025 高雄場' - Identifies the artist and event location. (2) Hook Text: '這首每次都超辣!' - Expresses enthusiastic praise for the performance. (3) Decorative Text: '根本是仙女下凡' - Admirational comment comparing the artist to a fairy. (4) Decorative Text: '好頑皮好可愛' - Playful observation of the artist's stage persona. (5) Functional Text: 'Nini 愛心光波' and '大愛心!' - Labels for fan-service gestures made by the artist. (6) Decorative Text: '笑起來也太像水豚了' - A humorous, endearing comparison of the artist's smile. (7) Hook Text: '真的太好聽...' and '這段好好看!' - Explicit expressions of appreciation for the audio and visuals. (8) Functional Text: '下次見... 我會想你的' - A warm, final farewell message."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.2,
+      "isNarrativeShift": false,
+      "mainActionFlow": "A fast-paced montage of concert performance highlights and fan interactions."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 15,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 11,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main artist (Jennie), 3 other group members (Lisa, Rosé, Jisoo), approx. 10 backup dancers, and a large crowd in the background.",
+      "mainCharacterDescription": "Jennie, a woman with long dark hair, wearing various stylish stage outfits including puffer jackets, corsets, fringe tops, and graphic t-shirts, often accessorized with sunglasses."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor Stadium"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A massive concert stage with professional lighting arrays, large LED screens displaying graphics, pyrotechnic fire effects, and a sea of fans holding lightsticks.",
+      "lightingStyle": "Intense studio lights, neon pink/red hues, and spotlights.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Follow shot",
+        "Static",
+        "Close-up",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Microphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "BLACKPINK",
+        "MOWALOLA"
+      ],
+      "instrumentsVisible": [
+        "Microphone"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 3,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 4,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "English",
+          "Korean"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Pop",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Highlights -> Outro",
+      "mainPurpose": "This video serves as a celebratory highlight reel of Jennie's solo and group performance during a concert in Kaohsiung. It aims to capture the high-energy atmosphere of the event, showcase her versatile fashion and stage presence, and share intimate fan-service moments with a wider social media audience.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "The video features the artist wearing clothing with brand logos and performing at a major branded tour event.",
+      "endorsementObject": [
+        "BLACKPINK",
+        "Jennie",
+        "MOWALOLA"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-fashion stage wear combined with signature K-pop idol fan interactions (heart gestures).",
+      "freeDescribe": "The video utilizes fan-captured footage (fan-cam) style which enhances the sense of authenticity and closeness to the artist."
+    }
+  }
+}

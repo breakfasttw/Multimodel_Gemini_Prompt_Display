@@ -1,0 +1,180 @@
+{
+  "videoName": "2uncle987-20251109223801-26479977044960491.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 68,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy Skit",
+        "Advertisement",
+        "Beauty & Health"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man in a blue and yellow traditional costume and a woman in a pink floral dress argue intensely in an outdoor garden area. (2) A second, younger-looking woman in a pink and white dress appears; the man embraces her happily while the first woman watches with an annoyed expression. (3) The first woman points at the younger woman, revealing a secret that causes the man to look shocked. (4) The younger woman poses cutely and points to her face, then holds up a pink sachet. (5) Transition to a product montage: pink boxes of 'hahababy' collagen jelly are shown on a table, followed by a close-up of the jelly being squeezed out of a sachet. (6) A white suitcase is shown being packed with various colorful boxes of health supplements (green, blue, pink). (7) The three actors from the beginning reunite on screen, posing and waving in front of the garden background.",
+      "audio_narrative_log": "(1) Fast-paced, high-pitched dialogue in Hokkien (Taiwanese) between a man and a woman, accompanied by light, rhythmic background music. (2) A sharp sound effect (SFX) plays when a secret is revealed, followed by more animated dialogue. (3) At approximately 46 seconds, the audio shifts to a professional male narrator speaking Mandarin in an upbeat, promotional tone. (4) The background music changes to a bright, energetic pop track with a steady electronic beat. (5) Sound effects of items being placed in a suitcase (thuds) and soft rustling are heard during the product showcase.",
+      "text_narrative_log": "(1) Functional white subtitles appear at the bottom to translate the Hokkien dialogue into standard Chinese characters. (2) Functional text 'hahababy 膠原冰晶凍' (Collagen Jelly) appears in a stylized font. (3) 'hahababy 全新推出' (New Launch) appears as a title card. (4) Nutritional benefit text: '內含專利魚膠原蛋白' (Contains patented fish collagen), '冰晶番茄萃取物' (Crystal tomato extract), '玻尿酸與維生素C' (Hyaluronic acid and Vitamin C). (5) List-based text for the 'Health Supplement Set': '酵素凍' (Enzyme jelly), '益生菌' (Probiotics), 'GABA', 'DHA'. (6) '陪你輕鬆美一天' (Accompaniment for a beautiful day) appears at the end as a closing hook."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Comedy Skit Hook -> Secret Reveal -> Product Explanation & Demo -> Group Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male in blue costume, 1 female in floral dress, 1 female in pink/white dress.",
+      "mainCharacterDescription": "The actors wear stylized traditional Chinese 'costumes' (Guzhuang style) with exaggerated wigs and makeup for comedic effect."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Garden",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "An outdoor area with white walls and green shrubbery (skit), and a clean indoor studio setting with a light wood floor for product shots.",
+      "lightingStyle": "Bright studio lighting mixed with natural outdoor light.",
+      "weather": "Sunny",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Top-down shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Collagen Jelly",
+        "Health Supplements"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "hahababy"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut between the narrative skit and the commercial narration.",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and theatrical in the skit; professional and persuasive in the narration.",
+        "pitch": "Varied (High for comedy, Medium for narration)",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Hokkien",
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Alert sound",
+        "Whoosh",
+        "Thud"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Conflict -> Revelation -> Product Solution -> CTA",
+      "mainPurpose": "To promote the 'hahababy' health supplement line, specifically their collagen jelly. It uses a comedic 'Guzhuang' skit where a woman's youthful appearance is attributed to the product, followed by a detailed showcase of product ingredients and a value-bundle offer (the suitcase set).",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct demonstration of the product, detailed ingredient listing, and a call to purchase a specific bundle.",
+      "endorsementObject": [
+        "hahababy"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of local Taiwanese dialect (Hokkien) in a comedy format for brand building.",
+      "freeDescribe": "The video blends local cultural humor with standard direct-response marketing techniques. The inclusion of a branded suitcase as a gift with purchase is a strong conversion hook."
+    }
+  }
+}

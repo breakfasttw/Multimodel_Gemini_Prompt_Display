@@ -1,0 +1,177 @@
+{
+  "videoName": "2uncle987-20250807011614-1991052871474912.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 67,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Tutorial",
+        "Cooking"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A piece of braised pork trotter is held up with chopsticks over a pot of dark sauce. (2) A beige pot with colorful dots is placed on a black stove; water is boiling inside. (3) Raw pork trotters are added to the boiling water for blanching. (4) The pork trotters are blanched, and then scooped out into a bowl. (5) The blanched pork trotters are rinsed under running water in a sink. (6) A person chops ginger and green onions on a black cutting board. (7) The pork trotters are placed back into the pot, and a bottle of cola is poured over them. (8) Water is added to cover the pork trotters. (9) Soy sauce, pepper, and the chopped ginger and green onions are added to the pot. (10) The pot is covered with a lid and the contents are simmered. (11) The lid is removed to reveal the cooked braised pork trotters in a bubbling dark sauce. (12) A piece of the final cooked pork trotter is held up with chopsticks.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo music starts with a clear drum beat and synth melodies. No vocals are detected. (2) Sounds of water boiling and splashing follow as meat is added to a pot. (3) Rhythmic chopping sounds of a knife on a cutting board are heard clearly. (4) The sound of a bottle being opened and liquid being poured occurs. (5) A lid is heard being placed on a pot, followed by the continuous bubbling sound of a stew. (6) The upbeat music continues throughout the entire video as the primary soundscape.",
+      "text_narrative_log": "(1) \"可樂豬腳\" (Cola Pork Trotter): Decorative title to hook viewers with the dish name. (2) \"煮水\" (Boil water): Functional instruction for the first step. (3) \"下豬腳\" (Add pork trotter): Functional instruction. (4) \"川燙\" (Blanch): Functional term for the cooking process. (5) \"撈起\" (Scoop out): Functional instruction. (6) \"清洗\" (Wash/Clean): Functional instruction. (7) \"備料 蔥 薑\" (Prepare ingredients: green onion, ginger): Functional instruction. (8) \"一瓶可樂\" (One bottle of cola): Functional label for the key ingredient. (9) \"加水（醃過豬腳）\" (Add water (to cover pork trotters)): Functional instructional tip. (10) \"適量醬油\" (Appropriate amount of soy sauce): Functional seasoning label. (11) \"適量胡椒\" (Appropriate amount of pepper): Functional seasoning label. (12) \"蔥薑下鍋\" (Add green onion and ginger to the pot): Functional instruction. (13) \"煮熟即可\" (Cook until done): Functional final instruction."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 15,
+      "averageSceneDuration": 4.46,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Prep -> Cooking -> Result"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Arms"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "One person's hands and arms are visible performing the cooking tasks throughout.",
+      "mainCharacterDescription": "A person with light-colored nail polish, wearing a blue shirt with a pattern, is seen cooking."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern kitchen with a white countertop, a black stove, a sink, and various kitchen utensils.",
+      "lightingStyle": "Bright, even indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural, slightly warm",
+      "cameraWork": [
+        "POV",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pork Trotter",
+        "Ginger",
+        "Green Onion",
+        "Cola",
+        "Soy Sauce"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Stove"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Coca-Cola",
+        "萬家香"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 110,
+      "instrumentFamiliesAudible": [
+        "Percussion",
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Drums",
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Chopping sound",
+        "Liquid pouring sound",
+        "Bubbling sound"
+      ],
+      "ambientNoise": [
+        "Kitchen sounds"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Preparation -> Process -> Result",
+      "mainPurpose": "This video serves as a step-by-step cooking tutorial for making 'Cola Pork Trotter'. It aims to demonstrate the simplicity and appetizing result of the recipe, encouraging viewers to try it at home by showing the accessibility of ingredients like cola for flavor and texture.",
+      "visualEmotion": "Inviting, homey, and appetising"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "While brands like Coca-Cola and a soy sauce brand are visible, they are used as common ingredients in a tutorial context without explicit promotion or promotional language.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Clean, square-format cooking videos with clear instructional text overlays and upbeat background music.",
+      "freeDescribe": "The video aligns with popular short-form culinary content trends on social media, prioritizing visual clarity and quick pacing to maintain viewer engagement."
+    }
+  }
+}

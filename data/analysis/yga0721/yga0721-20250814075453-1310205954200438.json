@@ -1,0 +1,182 @@
+{
+  "videoName": "yga0721-20250814075453-1310205954200438.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 81,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Family"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Chiba"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man in a white t-shirt, blue shorts, and a cap stands with a young boy in a grey shirt in front of a colorful amusement park entrance; the man makes peace signs and looks excited. (2) A woman with long brown hair and sunglasses joins the man near the entrance as they talk to the camera. (3) The scene shifts to an indoor playground where the boy is crawling through blue and yellow tube structures. (4) The boy is then seen on various outdoor attractions: a small blue train ride and a rope-swing zip line where he glides across a wood-chip floor. (5) The boy changes into swimwear and plays at a water park area, sliding down a yellow and blue inflatable slide into a pool and standing under a water-dumping bucket. (6) The video ends with the man standing outdoors near the pool area, gesturing and smiling at the camera.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic pop music with a fast tempo starts immediately. The man's voice is high-pitched, loud, and very enthusiastic as he introduces the location. (2) The music continues at a slightly lower volume, serving as a background for a conversational dialogue between a man and a woman discussing prices and features of the park. (3) Ambient sounds of an indoor playground are heard, including echoes and the boy's joyful shouting. (4) Various cartoon-style sound effects (SFX) such as dings and slides are layered over the music during the ride sequences. (5) The soundscape is dominated by water splashes, rushing water from the bucket, and children laughing. (6) The man provides a concluding remark with a friendly and satisfied tone as the music reaches its peak and fades out.",
+      "text_narrative_log": "(1) Functional Text: '千葉 兒童王國' (Chiba Children's Kingdom) serves as the main title at the top of the screen. (2) Functional Text: Traditional Chinese subtitles throughout the video translate the spoken dialogue. (3) Decorative/Effect Text: Price labels like '大人 ¥900' and '小朋友 ¥200' appear in large, bold fonts to emphasize affordability. (4) Decorative/Effect Text: Emotional labels such as '很Chill', '好冰哦', and '厲害' appear near the boy to highlight his reactions and the atmosphere."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 38,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Price and Logistics Discussion -> Indoor Playground Demo -> Outdoor Rides Demo -> Water Park Fun -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male creator, 1 female companion, 1 main child, and roughly 5 other park visitors in the background.",
+      "mainCharacterDescription": "A male adult in a white oversized t-shirt, blue Nike shorts, and a black cap; a female adult in a white lace vest and sunglasses; a young boy in a grey t-shirt/green shorts and later a blue/white swimsuit."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Amusement Park",
+          "Indoor Playground",
+          "Water Park"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The background transitions from a brick-walled park entrance to a brightly colored indoor jungle gym, outdoor green areas with trees and playground equipment, and finally an outdoor pool area with inflatable slides.",
+      "lightingStyle": "Natural daylight and bright indoor utility lighting.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Japanese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Park Train"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Nike",
+        "Prada"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and humorous",
+        "pitch": "Varied (sharp for child, medium for adults)",
+        "loudness": "High",
+        "speed": "Normal to fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Sizzling",
+        "Water Splash"
+      ],
+      "ambientNoise": [
+        "Crowd",
+        "Water play"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Location Intro -> Feature Breakdown -> Activity Montage -> Outro",
+      "mainPurpose": "The video is a family travel vlog intended to promote the 'Chiba Children's Kingdom' as a fun and cost-effective destination for families. It uses high-energy presentation, clear price information, and a montage of activities (playground, rides, water park) to showcase the variety of entertainment available for children.",
+      "visualEmotion": "Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed mention of ticket prices, positive recommendation phrases ('推薦給大家'), and highlighting specific park features.",
+      "endorsementObject": [
+        "千葉 兒童王國"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing with colorful 'variety-show' style captions and a high-energy 'talking-head' introduction typical of Asian lifestyle influencers.",
+      "freeDescribe": "The video effectively bridges the gap between a personal family memory and a travel guide by providing practical financial information alongside candid play footage."
+    }
+  }
+}

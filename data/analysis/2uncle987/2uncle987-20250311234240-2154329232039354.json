@@ -1,0 +1,169 @@
+{
+  "videoName": "2uncle987-20250311234240-2154329232039354.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 4,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Fashion",
+        "Showcase"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A female character wearing a long light-green dress and a blue cap enters from the right, walks toward the left, and exits. (2) A second character wearing a white sweater, cream-colored pants, and a red beret enters from the right, smiles, and exits to the left. (3) A third character wearing a white sweater, black skirt, and a black beret enters from the right, walks past a grey sofa, and exits to the left. (4) A fourth character in a grey sweater and black skirt walks from the right to left. (5) A fifth character wearing a black and white striped long-sleeve shirt, blue jeans, and a black beanie walks from the right to left, smiling at the camera.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic dance music starts immediately with a strong rhythmic beat. (2) The music continues at a consistent volume and pace throughout the short duration, featuring a prominent bassline and synthesized melodies. (3) No human vocals, ambient noise, or additional sound effects are audible.",
+      "text_narrative_log": "(1) Functional Text: '營業中' (In business) appearing on a digital screen in the background, signifying the setting context. (2) Functional Text: 'kiki hebe' on the same background screen, likely representing a brand or store name."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 0.8,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Consecutive Walk-throughs -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 5,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "5 different female models walking across the frame sequentially.",
+      "mainCharacterDescription": "Multiple female models showcasing various casual and trendy outfits including dresses, sweaters, berets, and beanies."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A minimalist indoor studio with a grey sofa, a round jute rug, a small white shelf, and a digital sign board.",
+      "lightingStyle": "Bright studio lights",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Digital Signage"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Demo -> Outro",
+      "mainPurpose": "To showcase a variety of seasonal clothing items and styling options in a quick, engaging manner, typical of fashion retail promotion or social media 'lookbooks'.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "The presence of a brand name 'kiki hebe' on a screen and the structured runway-style presentation of multiple outfits.",
+      "endorsementObject": [
+        "kiki hebe"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Sequential walking entry and exit style with beat-matched transitions.",
+      "freeDescribe": "The video uses fast editing and high-energy music to maintain viewer attention during a repetitive product showcase."
+    }
+  }
+}

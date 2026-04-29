@@ -1,0 +1,174 @@
+{
+  "videoName": "yga0721-20250430125733-1359100772656550.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 57,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Talk Show",
+        "Podcast",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a man in a blue sweatshirt sitting on a brown leather sofa, holding papers and speaking with an amused expression. (2) At 00:09, the scene cuts to a woman with long black hair wearing headphones and a grey sweatshirt, laughing heartily while sitting on another section of the sofa. (3) At 00:11, a man in a red sweater appears, gesturing while talking. (4) From 00:14 to 00:30, the camera cuts between the man in blue telling a story and the woman's reactions; at 00:30, a comedic visual effect shows multiple transparent layers of the man's face as he acts out a scream. (5) At 00:32, a person with short curly hair and glasses in a black turtleneck sweater takes over the narrative, speaking expressively with hand gestures. (6) The video concludes with a white end screen containing text and an animated mask icon covering the speaker's face.",
+      "audio_narrative_log": "(1) The audio begins with a male voice describing a long-term struggle with skin issues (folliculitis) affecting a person named 'Adan'. (2) Frequent bursts of high-pitched female laughter are heard in the background. (3) A second male voice asks a clarifying question about physical discomfort. (4) The first male voice recounts a painful experience of riding a bike with the condition, accompanied by exaggerated sound effects and a loud, comical scream at 00:30. (5) A third voice (female, slightly deep) begins a new anecdote about a hospital visit, recounting a confusing dialogue with a doctor regarding their identity and an awkward medical examination request. (6) The soundscape is dense with overlapping speech, laughter, and studio-quality vocal clarity.",
+      "text_narrative_log": "(1) Functional subtitles in Traditional Chinese appear at the bottom center, tracking the spoken dialogue. (2) At 00:09 and 00:11, decorative captions like '就是釘子戶' (just a nail house/stubborn resident) and '阿丹走走會磨到嗎' (Will Adan's walking cause friction?) appear for emphasis. (3) From 00:54 to the end, full-screen text appears: '完整影片請上大頭佛工作室頻道收看' (Watch the full video on the Big Head Buddha Studio channel), functioning as a Call to Action."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 4.07,
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video follows an 'Interview/Talk Show' flow where speakers recount humorous personal anecdotes followed by group laughter and a promotional outro."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 4,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male in blue, 1 male in red, 1 female with headphones, 1 female with glasses.",
+      "mainCharacterDescription": "The primary narrators are a male in a blue 'Let's Play' sweatshirt and a female with glasses in a black turtleneck."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A cozy studio setting with a brown leather sofa, teal curtains, and shelves filled with collectible figures and toys (e.g., Mario, anime characters).",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Multi-cam switching"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "Headphones"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, humorous, and energetic",
+        "pitch": "Varied (high-pitched laughter to deep masculine tones)",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese",
+          "Hokkien"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Scream sound effect",
+        "Comedic accent sounds"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Story A (Skin Condition) -> Story B (Hospital Confusion) -> CTA",
+      "mainPurpose": "The video aims to entertain the audience through humorous, relatable, and slightly embarrassing personal stories shared in a podcast/talk-show format. It serves as a teaser or highlight reel to drive traffic to the full version of the content on their YouTube channel.",
+      "visualEmotion": "Cheerful and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct textual call to action at the end of the video.",
+      "endorsementObject": [
+        "大頭佛工作室"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of variety-show style text pop-ups and the 'Big Head Buddha' mask mascot at the end.",
+      "freeDescribe": "High engagement level between hosts/guests; fast-paced editing typical of Taiwanese social media content."
+    }
+  }
+}

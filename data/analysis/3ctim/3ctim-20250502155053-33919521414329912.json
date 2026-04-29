@@ -1,0 +1,191 @@
+{
+  "videoName": "3ctim-20250502155053-33919521414329912.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 82,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Spain"
+        ],
+        "city": [
+          "Barcelona"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing a distinctive checkered flat cap and glasses is talking on his phone in an outdoor setting. He reacts with exaggerated surprise. (2) He transitions to showing a small black external SSD (AGI EDM38) and demonstrates its magnetic attachment to the back of an iPhone. (3) The scene shifts to the man walking through the bustling MWC exhibition halls in Barcelona, showcasing the scale of the event. (4) Back in a more controlled environment, he demonstrates the SSD's light weight and how it can be used with non-MagSafe phones like a Sony Xperia by using an adhesive magnetic ring. (5) He introduces a white 3-in-1 charger (AGI AP138) while sitting at a table with a laptop, demonstrating its multi-device charging capabilities.",
+      "audio_narrative_log": "(1) The video starts with a simulated phone call; a male voice speaks in Mandarin with a tone of shocked disbelief over energetic, fast-paced electronic background music. (2) The music continues as the speaker shifts to a clear, enthusiastic presentation tone, explaining the technical features of the SSD. (3) Ambient noise of a large crowd and exhibition hall chatter becomes audible during the MWC walk-through scenes, layered under the narration. (4) The audio maintains a high speech density as he details the weights and compatibility of the devices. (5) A final transition occurs where the vocal focus shifts to the charging speeds of the second product before a quick sign-off.",
+      "text_narrative_log": "(1) Hook text: \"什麼!?\" (What!?) and \"你要我拍現場所有的樣品!?\" (You want me to film all the samples!?) appear with exclamation marks. (2) Product identification: \"AGI EDM38\" and \"外接式磁吸隨身硬碟\" (External magnetic portable hard drive). (3) Emphasis text: \"即拍即存!\" (Shoot and save instantly!) and \"8個南港展覽館那麼大!!\" (As big as 8 Nangang Exhibition Centers!!). (4) Specification text: \"才56克而已!\" (Only 56 grams!) and \"比巧克力還輕!\" (Lighter than chocolate!). (5) Second product text: \"AGI 三合一充電器 AP138\" and charging stats like \"67W快充\" and \"45分鐘筆電可以充55%\"."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Surprise Hook -> Product 1 Demo -> Event Context -> Product 1 USPs -> Product 2 Intro -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 25,
+      "maleDetectAmount": 15,
+      "femaleDetectAmount": 10,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Upper body",
+        "Face close-up"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main creator (3cTim), and at least 20+ passers-by clearly visible in the MWC exhibition hall background shots.",
+      "mainCharacterDescription": "Adult male wearing a checkered ivy cap, round glasses, a blue sweatshirt with 'ROOTS' branding, and a navy bomber jacket with tan sleeves. He wears a wooden bead bracelet on his right wrist."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Exhibition Hall",
+          "Studio"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Transitions between an outdoor urban walkway, a high-tech international exhibition hall (MWC) with various corporate booths (Xiaomi, China Mobile), and an indoor desk setup with a laptop.",
+      "lightingStyle": "Natural daylight outdoors and bright, even fluorescent lighting within the exhibition hall.",
+      "weather": "Sunny",
+      "season": "Spring",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and Natural",
+      "cameraWork": [
+        "Follow shot",
+        "Static",
+        "Handheld",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Dog (cartoon sticker)"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "iPhone",
+        "Sony Xperia",
+        "External SSD",
+        "Laptop",
+        "USB Charger",
+        "Magnetic Ring"
+      ],
+      "landmark": [
+        "MWC Barcelona Venue"
+      ],
+      "brandLogos": [
+        "AGI",
+        "Apple",
+        "Sony",
+        "Xiaomi",
+        "China Mobile",
+        "Qualcomm",
+        "Roots"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with beat-syncing",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 5,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, high-energy, and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic Tech",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Phone ringtone",
+        "Swoosh transitions"
+      ],
+      "ambientNoise": [
+        "Exhibition hall murmur",
+        "Wind noise"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Product Demo -> Geographic Validation -> Feature Deep-dive -> Secondary Product Upsell -> CTA/Sign-off",
+      "mainPurpose": "This video serves as a dual-product endorsement for AGI. It uses the stressful environment of filming at a major tech conference (MWC) to highlight the storage and power needs of creators, positioning the AGI EDM38 SSD and AP138 charger as essential solutions for mobile professionals.",
+      "visualEmotion": "Energetic and Efficient"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct presentation of products to camera, naming of specific model numbers, verbal listing of technical specifications, and clear brand logo visibility.",
+      "endorsementObject": [
+        "AGI (亞奇科技)"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3cTim's signature checkered flat cap and his high-speed, conversational review style directed at tech-savvy consumers.",
+      "freeDescribe": "The video effectively bridges consumer electronics and professional workflow needs by demonstrating cross-platform compatibility (iPhone and Android) for the SSD."
+    }
+  }
+}

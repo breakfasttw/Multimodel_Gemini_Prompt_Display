@@ -1,0 +1,188 @@
+{
+  "videoName": "cocowine0205-20250928011147-2043463839546206.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Promotion",
+        "Shopping Guide"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a graphic title card featuring the Costco logo and a cartoon character, overlaying a shot of a busy warehouse store aisle with shoppers. (2) A rapid series of jump cuts follows, showing various consumer products on warehouse shelves or inside refrigerated displays. The products include diapers, chocolates, snacks, detergents, and alcohol. (3) Hand gestures are occasionally visible as someone moves or points to a product, while shoppers with face masks walk in the background across different sections of the store. (4) The video maintains this fast-paced product showcase until the end, covering dozens of individual items in quick succession.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music starts immediately with a driving beat. (2) A male voice-over enters, speaking very rapidly in Traditional Chinese, listing the names of products and their discounted prices. (3) The music and high-speed narration continue without interruption, maintaining an energetic tone as it transitions through many items. (4) Subtle ambient warehouse sounds, such as the hum of refrigerators and distant chatter, are faintly audible behind the main audio track.",
+      "text_narrative_log": "(1) Title text: \"好市多 每週特價速報 04/14-04/20 記得追蹤我們\" (Costco Weekly Special Report 04/14-04/20 Remember to follow us). (2) Functional text appears on every shot, listing brand and product names like \"MamyPoko\", \"KINDER\", \"Disney\", and \"Quaker\". (3) Price information is highlighted for each item: \"原價\" (Original Price), followed by a minus sign for the discount, and \"特價\" (Special Price) in a larger font. (4) Occasional decorative text like \"New\" or specific date constraints like \"特價至 4/17\" appear next to certain items."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 68,
+      "averageSceneDuration": 1.3,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Rapid-fire product list -> End"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 15,
+      "maleDetectAmount": 7,
+      "femaleDetectAmount": 8,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 0,
+      "bodyPartVisibility": [
+        "Full body",
+        "Back view",
+        "Hands only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "Multiple shoppers are visible in the background of most shots, moving through the warehouse aisles; no single person is the focus.",
+      "mainCharacterDescription": "None"
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Interior of a large Costco warehouse with high industrial shelving, large quantities of bulk-packaged goods, refrigerated aisles, and fluorescent lighting.",
+      "lightingStyle": "Bright warehouse lighting",
+      "weather": "Indoor",
+      "season": "Spring",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Pan"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Diapers",
+        "Chocolate",
+        "Beef Jerky",
+        "Cookies",
+        "Crackers",
+        "Wine",
+        "Seafood",
+        "Pastries",
+        "Chicken Soup"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "MamyPoko",
+        "Kinder",
+        "Disney",
+        "Quaker",
+        "Moccona",
+        "Kirkland Signature",
+        "Strongbow"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and promotional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Extremely fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Warehouse ambient"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Title Card -> Rapid Product Exhibition -> Continuous Loop",
+      "mainPurpose": "The video serves as a promotional shopping guide for Costco members in Taiwan, utilizing high-speed editing and rapid-fire narration to communicate a large volume of weekly discount information. It aims to create a sense of urgency and value by showing dozens of diverse items—from baby care to high-end alcohol—with their specific price reductions clearly displayed.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The video is entirely dedicated to promoting products and prices available at a specific retailer (Costco).",
+      "endorsementObject": [
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Ultra-fast product cycling and price-focused text overlays.",
+      "freeDescribe": "The video mimics the style of short-form social media deals/couponing content, designed for quick consumption."
+    }
+  }
+}

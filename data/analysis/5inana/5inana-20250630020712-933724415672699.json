@@ -1,0 +1,172 @@
+{
+  "videoName": "5inana-20250630020712-933724415672699.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 5.0,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Beauty"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a person with messy dark hair sitting in front of a white AMIRO makeup mirror. They are wearing a black high-neck sweatshirt. (2) The person looks into the mirror and uses both hands to fluff and style their hair, moving it around to create volume. (3) A smartphone is visible mounted on the mirror's stand, and several makeup bags and skincare bottles are scattered on the white table in the foreground.",
+      "audio_narrative_log": "(1) Upbeat, rhythmic background music with a bouncy, electronic feel starts. No vocals are present. (2) The music continues at a consistent tempo throughout the clip. (3) No ambient noise or specific sound effects are audible over the music.",
+      "text_narrative_log": "(1) Functional Text: 'AMIRO' logo visible on the top center of the white circular mirror, indicating the brand of the vanity mirror."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 5.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Continuous hair styling"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body (upper half)",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main character appearing in the frame",
+      "mainCharacterDescription": "A young female with short, dark, messy/curly hair wearing a black long-sleeved sweatshirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Bedroom",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A bright indoor setting with a window on the left, white walls, and a white kitchen or vanity counter in the background. White minimalist appliances are visible behind the person.",
+      "lightingStyle": "Natural light from the side and soft front lighting from the mirror ring light.",
+      "weather": "Sunny (inferred from window light)",
+      "season": "Unknown",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Smart Mirror"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "AMIRO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Action -> Process",
+      "mainPurpose": "To showcase a personal grooming routine or to subtly highlight the use of the AMIRO smart mirror and ring light system in a daily vlog context.",
+      "visualEmotion": "Calm, Casual"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The AMIRO brand logo is clearly visible and centered in the shot, which is framed as a get-ready-with-me style video.",
+      "endorsementObject": [
+        "AMIRO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Close-up vanity framing common in beauty vlogs.",
+      "freeDescribe": "The video focuses on the aesthetic of preparation, emphasizing the brand of the mirror and the process of hair styling without any spoken word."
+    }
+  }
+}

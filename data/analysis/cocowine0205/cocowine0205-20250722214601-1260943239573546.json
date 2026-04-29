@@ -1,0 +1,184 @@
+{
+  "videoName": "cocowine0205-20250722214601-1260943239573546.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 71,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Food"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens in a brightly lit Costco warehouse; a young woman with long dark hair, wearing a gray coat, stands in front of a glass-door freezer aisle. (2) She gestures towards bags of frozen food and pulls out a large green and white package of Pulmuone Kimchi & Vegetable Dumplings. (3) Close-up shots show the price tag with a discount mark and the product's packaging details. (4) The scene transitions to a home kitchen where a white Philips air fryer is opened, revealing the dumplings inside on foil. (5) A hand presses the timer on the air fryer. (6) Two women are then shown sitting at a dining table; one wears a black sheer top and the other wears a white sweater and a black beret. They use chopsticks to pick up the cooked, golden-brown dumplings and eat them, reacting with wide eyes and thumbs-up gestures.",
+      "audio_narrative_log": "(1) Upbeat, energetic pop-style background music plays throughout. A female voice speaks enthusiastically, introducing her 'repurchase king' item at Costco. (2) Subtle sounds of the freezer door opening and the rustling of plastic bags are audible over the speech. (3) The narrator continues with a friendly, fast-paced tone, explaining how many times she has bought the product. (4) In the second half, the sound of the air fryer's operation and a faint 'click' or 'ding' signifies cooking. (5) Two female voices are heard talking simultaneously, making appreciative sounds like 'Mmm' and 'Oh my god' as they taste the food.",
+      "text_narrative_log": "(1) Functional Text: '回購之王 我要買餃子' (King of Repurchase, I want to buy dumplings) appears in a variety-show style bubble. (2) Functional Text: '你已經買很多次 你回購了第四次' (You've bought it many times, this is your 4th repurchase) providing context. (3) Decorative Text: '很好吃' (Very delicious) appears in colorful font. (4) Functional Text: '399元 超常折80' (399 yuan, often discounted by 80) highlights the price. (5) Functional Text: '180度 10分鐘' (180 degrees, 10 minutes) provides cooking instructions. (6) Decorative Text: '味道非常的香濃' (The flavor is very fragrant and rich) appears during the tasting segment."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 3.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at retail store -> Product close-up -> Cooking demonstration -> Two-person tasting review."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators are shown together in the final segment.",
+      "mainCharacterDescription": "One woman has long dark hair wearing a gray coat/black blouse; the other wears a white top and a Kangol-style black beret."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Indoor Kitchen",
+          "Dining Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Costco freezer aisles with various frozen goods (Kimbap, Rice Balls); a modern home kitchen with a dining table and neutral-colored walls.",
+      "lightingStyle": "Bright indoor lighting, consistent and clear.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Vibrant",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Dumplings",
+        "Kimchi",
+        "Vegetables"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Air Fryer"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Pulmuone",
+        "Philips",
+        "Zwilling",
+        "Kangol"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and high-pitched",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Meme sounds",
+        "Transition swoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Discovery -> Purchase -> Preparation -> Experience",
+      "mainPurpose": "To promote a specific brand of frozen dumplings available at Costco by highlighting its discount price, ease of cooking via air fryer, and positive taste experience shared by two friends.",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of product packaging, price highlighting, and explicit verbal recommendation to 'stock up' during sales.",
+      "endorsementObject": [
+        "Pulmuone"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Variety-show style captions with vibrant colors and bubble backgrounds.",
+      "freeDescribe": "The video targets Costco members looking for high-value food recommendations. The use of a Philips air fryer adds a 'lifestyle hack' element to the food review."
+    }
+  }
+}

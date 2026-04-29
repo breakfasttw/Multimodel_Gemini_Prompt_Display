@@ -1,0 +1,190 @@
+{
+  "videoName": "yga0721-20250430073059-878353441487241.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 60,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Recommendation"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Tokyo"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with an Asian male wearing a black patterned hoodie standing near a subway station entrance, gesturing toward the camera. (2) Scene shifts to a restaurant exterior with the sign 'YAYOI KEN', followed by close-ups of crispy fried pork chops and a man eating rice. (3) The man, now in a yellow striped shirt, stands in front of a 'Tenya' restaurant; close-ups show tempura prawns and him biting into one. (4) Footage of grilled eel being cooked over charcoal is shown with the 'Unatoto' logo. (5) Transitions to 'Matsunoya' and 'Renge Shokudo Toshu' signs, featuring montages of fried chicken, gyoza, and fried rice. (6) A woman sits in a restaurant showing a menu, and the main male character reacts with wide-eyed excitement to a tray of food.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo background music with electronic beats begins immediately. A male voice speaks rapidly and enthusiastically in Mandarin. (2) Sizzling sound effects accompany close-up shots of food. The narrator's tone is energetic as he introduces different restaurants. (3) Music continues at a consistent volume; a second, deeper male voice provides a brief comment during the tempura section. (4) A female voice enters towards the end, speaking in a friendly, conversational tone while discussing a menu. (5) The primary male speaker returns with a high-pitched exclamation of surprise at the final price mentioned.",
+      "text_narrative_log": "(1) Decorative Hook: '絕對不會踩雷 好吃又便宜' (Definitely won't fail, delicious and cheap). (2) Functional: 'やよい軒', '續飯不用錢' (Rice refills for free). (3) Functional: '天丼てんや', '招牌炸蝦' (Signature fried shrimp). (4) Functional: Price labels such as '約台幣NT$230' and '鰻魚飯正常碗¥1100'. (5) Functional: '松乃家', 'れんけ食堂'. (6) Effect Text: '太誇張了' (Too exaggerated/incredible) appearing with a stylized border."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Rapid-fire series of five restaurant recommendations -> Closing reaction."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male host, 1 male friend eating tempura, 1 female friend sitting in the final restaurant.",
+      "mainCharacterDescription": "An Asian male with reddish-brown hair, wearing a black hoodie with colorful patterns and later a yellow and white striped long-sleeve shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Indoor Restaurant"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Public urban spaces in Tokyo including subway exits and the interiors of various casual chain restaurants featuring wooden tables and bright lighting.",
+      "lightingStyle": "Natural daylight and bright indoor studio-style lighting.",
+      "weather": "Sunny",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Handheld",
+        "POV",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Fried Pork Chop",
+        "Tempura",
+        "Grilled Eel",
+        "Fried Rice",
+        "Noodles",
+        "Fried Chicken"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Nishi-ojima Station"
+      ],
+      "brandLogos": [
+        "やよい軒",
+        "天丼てんや",
+        "名代宇奈とと",
+        "松のや",
+        "れんげ食堂"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and persuasive",
+        "pitch": "Sharp",
+        "loudness": "Clear",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Sizzling",
+        "Pop Up"
+      ],
+      "ambientNoise": [
+        "Street noise",
+        "Restaurant chatter"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence (5 stages) -> Reaction",
+      "mainPurpose": "The video serves as a high-speed travel guide aimed at budget-conscious tourists in Japan. By listing specific, recognizable chain restaurants and showing the actual food and prices (converted to local currency), it aims to provide practical utility and encourage viewers to visit these locations.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "The host explicitly highlights the benefits (price and taste) of specific branded restaurant chains.",
+      "endorsementObject": [
+        "やよい軒",
+        "天丼てんや",
+        "名代宇奈とと",
+        "松のや",
+        "れんげ食堂"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-pitched enthusiastic delivery and fast-cut food montages typical of Taiwan-based travel vloggers.",
+      "freeDescribe": "The focus on 'CP value' (cost-performance ratio) is a strong cultural marker for the target audience."
+    }
+  }
+}

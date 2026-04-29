@@ -1,0 +1,175 @@
+{
+  "videoName": "yga0721-20251024170605-2324710218035497.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 50,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Entertainment",
+        "Trivia"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a man in a white t-shirt and studio headphones sitting in front of a microphone, gesturing while talking. Behind him is a shelf filled with various anime figurines, notably Vegeta from Dragon Ball. (2) A close-up graphic of a 'Uni-President Café Milk' carton appears, illustrating a design detail. (3) The camera cuts back to the man, then to two other individuals sitting across from him—a woman and a person wearing a large, orange-faced traditional mask. (4) Close-up graphics of 'Mine Shine' (麥香) beverage cartons (Green Tea, Black Tea, Milk Tea) are shown sequentially. (5) A specific detail on the Milk Tea carton, a small cow illustration, is highlighted. (6) The video concludes with the group laughing and reacting with exaggerated 'Ooh' expressions while the host points at the camera.",
+      "audio_narrative_log": "(1) A male voice begins speaking in an energetic, inquisitive tone, asking the others if they know a specific fact. Upbeat, fast-paced background music starts. (2) The host explains a detail about the 'Ka' and 'Fei' characters on a milk carton. (3) A female voice and another male voice provide brief responses and reactions. (4) The host continues with a second piece of trivia about the 'Mine Shine' brand, his voice rising in excitement. (5) As the revelation is made, multiple voices are heard shouting 'Ooh!' and 'Wow!' in a synchronized, variety-show style reaction. (6) The audio ends with a mix of laughter and the host repeating the trivia point over the fading music.",
+      "text_narrative_log": "(1) Functional Text: '你知道嗎' (Do you know?), '瑞穗咖啡牛奶' (Ruisui Coffee Milk) - Hooking the audience with a question and topic. (2) Decorative Text: '咖啡兩個字' (The two words for coffee) - Emphasizing the linguistic trivia. (3) Functional Text: '麥香不是有紅茶、綠茶、奶茶' (Doesn't Mine Shine have black, green, and milk tea?) - Setting up the next fact. (4) Hook Text: '只有奶茶的包裝上面有牛' (Only the milk tea packaging has a cow) - Delivering the 'punchline' of the trivia. (5) Decorative Text: '好無聊喔' (So boring/pointless) - Humorous variety-style reaction text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.57,
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video follows a fast-paced 'Hook -> Trivia -> Reaction' cycle repeated twice."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male host in headphones, 1 female guest, 1 male guest wearing an orange mask.",
+      "mainCharacterDescription": "The main host has short brown hair, wears a white t-shirt with a striped collar, and professional studio headphones."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A podcast-style studio with a grey wall and a metal shelving unit displaying a collection of anime figurines.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up shots of products"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Cow (on packaging)"
+      ],
+      "foodsDetect": [
+        "Milk Tea",
+        "Coffee Milk"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "Headphones"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "統一",
+        "瑞穗",
+        "麥香"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, humorous, and energetic",
+        "pitch": "Medium-high",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ooh/Aah audience reactions"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence 1 -> Reaction -> Evidence 2 -> Reaction.",
+      "mainPurpose": "The video aims to entertain the audience by sharing obscure and 'useless' trivia about popular Taiwanese beverage brands (Uni-President). By using a podcast format with exaggerated reactions, it encourages viewers to verify these small design details themselves, fostering engagement and a sense of shared cultural nostalgia.",
+      "visualEmotion": "Humorous and Surprising"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed focus on brand packaging and positive/surprised reactions to brand details.",
+      "endorsementObject": [
+        "統一 (Uni-President)"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Exaggerated 'Ooh' reaction sound effect, host in studio headphones, anime figurine background.",
+      "freeDescribe": "The use of 'useless facts' (冷知識) is a common content trope in Taiwanese social media to drive high comment engagement as users debate or confirm the facts."
+    }
+  }
+}

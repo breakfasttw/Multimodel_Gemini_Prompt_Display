@@ -1,0 +1,176 @@
+{
+  "videoName": "3ctim-20250218131707-2873351462850420.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 50,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Educational",
+        "Health Tips",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a male host wearing a checkered flat cap, glasses, and a light blue sweatshirt, gesturing emphatically while speaking. (2) At 0:04, the scene cuts to a woman lying in bed in a dark room, using her smartphone. (3) From 0:10 to 0:25, various informational graphics appear, including a cartoon scientist, microscopic views of bacteria, and a toilet seat under blue light with dark stains. (4) The host reappears, interspersed with stock footage of a sweaty face, a sunlit bedroom, and 3D bacterial animations. (5) The final segment shows the woman again, sleeping with her phone placed next to a teddy bear, while the host concludes with a warning gesture.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced electronic background music starts immediately. A male voice speaks in a clear, energetic, and professional tone. (2) The music remains constant as the male voice explains scientific findings about phone bacteria. (3) Subtle 'pop' sound effects occur when text overlays or graphics transition on screen. (4) The music and vocal track continue seamlessly until the end of the video, maintaining a steady instructional pace.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles translate the host's speech throughout the video. (2) Decorative/Hook Text: Large, colorful captions such as '睡前手機千萬不能這樣做' (Don't do this with your phone before bed) and '蟑螂病菌' (Cockroach bacteria) appear with emphasis. (3) Variety-show style stickers like a shocked cartoon dog appear briefly at 0:02."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Evidence Presentation -> Scientific Explanation -> Health Risks -> Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator (host), 1 female model in bed scenes.",
+      "mainCharacterDescription": "Adult male, wearing a grey and black checkered flat cap, glasses, a light blue long-sleeved sweatshirt, and a watch on his left wrist."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Bedroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A professional studio setting with soft lighting behind the host, and a domestic bedroom setting with pillows, blankets, and a plush teddy bear.",
+      "lightingStyle": "Studio lighting for the host; low-key ambient lighting for the bedroom scenes.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "miko"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> Explanation -> Risk -> Warning",
+      "mainPurpose": "The video aims to raise health awareness regarding the hygiene of mobile phones used in bed. By citing scientific reports and using vivid visual comparisons (like toilets and cockroach bacteria), it warns viewers that the warm, moist environment of a bed promotes bacterial growth on phones, potentially leading to skin issues or respiratory infections.",
+      "visualEmotion": "Urgent and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "A persistent 'miko' brand logo is visible in the top left corner, suggesting a brand collaboration or sponsorship for the content.",
+      "endorsementObject": [
+        "miko"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host's signature flat cap and high-energy delivery style.",
+      "freeDescribe": "The use of contrasting imagery (clean studio vs. dirty toilet) effectively communicates the hidden dangers of an everyday habit."
+    }
+  }
+}

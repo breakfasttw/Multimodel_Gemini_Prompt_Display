@@ -1,0 +1,178 @@
+{
+  "videoName": "cocowine0205-20250420202504-1184591693527664.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 38.64,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping Discovery",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a young woman standing in a Costco aisle, holding a large plastic bag containing two smaller vacuum-sealed packs; she gestures toward the camera while talking. (2) Close-up shots follow, showing the individual packs labeled 'STEAMED PEANUT' and 'STEAMED CHESTNUT IN SHELL' against a background of stacked boxes. (3) The woman holds both packs up to her face, smiling and pointing out specific features on the labels. (4) The scene transitions to a static shot of the supermarket shelf labels showing the prices for both products.",
+      "audio_narrative_log": "(1) The audio begins with an upbeat, playful BGM featuring electronic percussion. A female voice speaks in a friendly, high-pitched tone, expressing excitement about new finds at Costco. (2) A male voice briefly responds off-camera with affirmative sounds. (3) The female continues describing the product features over the same consistent BGM. (4) Subtle sound effects like a digital 'ping' are heard when text highlights appear. (5) The background has a low hum typical of a large retail environment but no distinct ambient noise is prominent.",
+      "text_narrative_log": "(1) Functional Text: Subtitles translating the dialogue: 'I noticed many new things at Costco recently...', 'It has steamed peanuts and cooked chestnuts.', 'They both need to be refrigerated.', 'The price is not bad...'. (2) Decorative/Hook Text: Large permanent 'COSTCO WHOLESALE' logo at the top; '新品!' (New Product!) in a yellow bubble; variety-show style captions like '我發現最近好事多' (I discovered Costco lately) and price displays '$175' and '$269' at the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 3.51,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Product Close-up -> Personal Review -> Price Reveal"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator visible on screen; no other people in background.",
+      "mainCharacterDescription": "A young woman with long dark hair, wearing a white textured fleece-style jacket over a black shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Supermarket",
+          "Indoor Warehouse"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A warehouse-style shopping environment with high metal shelves and stacks of cardboard product boxes labeled 'Yumei Farm'.",
+      "lightingStyle": "Bright indoor warehouse lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Peanuts",
+        "Chestnuts"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "玉美"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and Humorous",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Digital ping"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> Comparison -> Price CTA",
+      "mainPurpose": "The video aims to inform viewers about a new food product arrival (steamed peanuts and chestnuts) at Costco in Taiwan. It combines personal review (mentioning the quality of vacuum packaging) with practical consumer information (price and storage requirements) to encourage similar purchases.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct display of the product, naming the brand '玉美' (Yumei), and showing the price tag in a warehouse setting.",
+      "endorsementObject": [
+        "Costco Wholesale",
+        "玉美"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Heavy use of variety-show style decorative text and emojis integrated with store-specific logos.",
+      "freeDescribe": "The video follows a standard social media format for retail 'finds' where the creator acts as a relatable shopping guide."
+    }
+  }
+}

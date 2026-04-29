@@ -1,0 +1,182 @@
+{
+  "videoName": "2uncle987-20250311234240-1427070938973651.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 27.0,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Cooking Tutorial",
+        "Vlog",
+        "Lifestyle"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with her hair in a bun stands in a bright kitchen, smiling and presenting a finished plate of curry rice with broccoli and carrots. (2) She begins preparing the ingredients: peeling a large carrot, slicing it into thin rounds, and then further cutting those rounds into small heart shapes. She also chops a head of broccoli into small florets. (3) The scene shifts to the stove where she boils the broccoli and heart-shaped carrots in a small pan of water. (4) She opens a colorful pre-packaged curry sauce bag and pours the contents into another pan. (5) Using a water dispenser, she adds water to a cup of white powder (starch) and stirs it before pouring the mixture into the simmering curry sauce to thicken it. (6) Finally, she plates a mound of white rice, pours the rich brown curry sauce over one side, and carefully arranges the boiled broccoli and heart-shaped carrots on top. She picks up a piece of meat with chopsticks to show the texture and then presents the completed dish again.",
+      "audio_narrative_log": "(1) Upbeat and energetic electronic background music with a fast tempo starts immediately. (2) As the visuals transition to food prep, rhythmic sound effects (SFX) of a peeler scraping and a knife hitting a wooden cutting board are layered over the music. (3) Sound effects of water bubbling and the sauce packet being torn open are clearly audible. (4) The music remains consistent in volume and tempo throughout the entire process, with no human vocals detected at any point. (5) The video ends with a final musical flourish synchronized with the presentation of the dish.",
+      "text_narrative_log": "(1) Functional/Hook Text: '沉浸式' (Immersive) appears at the start in a stylized font, setting a relaxing tone. (2) Action Text: '切' (Cut) and '切切切' (Chop chop chop) appear in pink and white during the vegetable preparation phase. (3) Process Text: '丢' (Throw), '川烫' (Blanch), '撕' (Tear), '倒' (Pour), '好多料' (Lots of ingredients), '太白粉' (Starch), '搅拌' (Stir), '勾芡' (Thicken), '适量' (Moderate amount), and '摆' (Arrange) appear sequentially to label her actions. (4) Outcome Text: '夾夾夾' (Pick up) and '完成' (Finished) appear at the end to signal completion."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 1.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Ingredient Prep -> Cooking Process -> Plating -> Final Result"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator performing the cooking and presenting the dish.",
+      "mainCharacterDescription": "A young Asian woman with her hair tied in a bun, wearing a cream-colored textured sweatshirt and a black skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A clean, modern white kitchen with a minimalist aesthetic, featuring white tiled walls, a black induction cooktop, and a white refrigerator in the background.",
+      "lightingStyle": "Bright, even studio-style lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and Muted",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Top-down"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Rice",
+        "Curry",
+        "Carrot",
+        "Broccoli",
+        "Beef"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Induction Cooktop",
+        "Water Dispenser"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "HAMA YUMMY"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut transitions between scenes, with a continuous music bed.",
+      "vocalRatio": "None"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Chopping",
+        "Sizzling",
+        "Tearing",
+        "Water Boiling"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Prep -> Action -> Result",
+      "mainPurpose": "To provide a visually satisfying and easy-to-follow cooking tutorial that showcases the preparation of a meal using a specific pre-packaged curry sauce, targeting viewers interested in quick home recipes and ASMR-style food presentation.",
+      "visualEmotion": "Cheerful and Productive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The creator prominently shows the 'HAMA YUMMY' brand packaging while pouring the sauce and demonstrates the final appetizing result using that specific product.",
+      "endorsementObject": [
+        "HAMA YUMMY"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Heavy use of on-screen pink action text and high-frequency ASMR sound effects syncopated with fast cuts.",
+      "freeDescribe": "The video utilizes a popular 'immersive' (chenjinshi) format typical of short-form social media content, focusing on the sensory experience of food preparation without spoken dialogue."
+    }
+  }
+}

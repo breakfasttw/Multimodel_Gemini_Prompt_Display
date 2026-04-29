@@ -1,0 +1,173 @@
+{
+  "videoName": "1105ya-20251020235725-1648246206533094.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 30,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Performance",
+        "Concert"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video captures a live stage performance where a female singer in a dark, patterned short outfit is dancing and singing into a handheld microphone. She is surrounded by several male dancers dressed in white tank tops and baggy white pants. (2) As the performance progresses, the choreography becomes more intense, involving synchronized movements and interaction between the singer and the dancers. The background LED screen cycles through vibrant pink, orange, and red hues, displaying oversized, stylized visuals of the singer's legs and body. (3) The scene concludes with a dynamic group pose as stage lights flare and the background visuals shift to a bright orange-pink gradient.",
+      "audio_narrative_log": "(1) High-energy pop music with a driving electronic beat begins, accompanied by loud cheering and screaming from a large crowd. A female vocalist starts singing in a rhythmic, energetic tone. (2) The vocal intensity increases during the chorus, with the music maintaining a steady, upbeat tempo dominated by synthesizers and percussion. (3) The music continues at a consistent volume until the end of the clip, with the ambient crowd noise remaining audible throughout.",
+      "text_narrative_log": "(1) Functional Text: White subtitles appear at the bottom of the frame corresponding to the lyrics: '...THANK YOU CALL ME I'M ALREADY GONE'. Tone is declarative and emotional. (2) Decorative/Effect Text: Large, stylized pink and white text briefly appears on the background LED screen reading 'I'M ALR...', reflecting a snippet of the song's hook."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 1.6,
+      "isNarrativeShift": false,
+      "mainActionFlow": "The video follows a continuous flow of a dance-heavy musical performance from start to finish."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 6,
+      "maleDetectAmount": 5,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female performer and 5 male backup dancers on stage.",
+      "mainCharacterDescription": "A young woman with dark hair, wearing a dark green/black patterned mini dress with a belt and matching boots."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Stage",
+          "Concert Venue"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A large concert stage with high-definition LED screens in the background showing colorful, magnified visuals of the performer. Stage monitors and lighting equipment are visible in the foreground.",
+      "lightingStyle": "Intense, multi-colored stage lighting including backlights and spotlights.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Follow shot",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "LED Screen",
+        "Stage Speakers"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 100,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Live",
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Action -> Climax",
+      "mainPurpose": "The video serves as a promotional or fan-recorded highlight of a live concert performance, showcasing the artist's vocal talent, stage presence, and the professional choreography of the show to engage an audience.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-saturation pink-themed visuals, synchronized group choreography with male dancers flanking a female lead.",
+      "freeDescribe": "The video capture quality and audio profile suggest a handheld mobile recording from the audience, providing an immersive 'fan-view' experience of the event."
+    }
+  }
+}

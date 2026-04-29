@@ -1,0 +1,174 @@
+{
+  "videoName": "cocowine0205-20250911175505-1844079342954065.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 40,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Food Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman wearing a black beret and a black mesh top stands in front of a Costco refrigerated shelf, holding a boxed cake. (2) The camera focuses on a close-up of the cake through the box's transparent window and then shows a slice of the cake on a plate, emphasizing the white peach pieces inside. (3) The setting changes to an indoor room where two women (the first woman and another in a patterned bucket hat) are seated at a table, discussing and tasting the cake.",
+      "audio_narrative_log": "(1) Enthusiastic female vocals introduce the product over upbeat, rhythmic background music. (2) The music continues as the scene transitions to an indoor conversation where two female voices discuss the taste and ingredients of the cake. (3) Ambient store noise is present in the beginning, fading into a cleaner indoor recording for the discussion.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE', '8吋白桃優格生乳蛋糕' (8-inch White Peach Yogurt Fresh Cream Cake) - informative and clear. (2) Hook Text: '499元 竟然滿滿桃子' (499 Yuan, unexpectedly full of peaches) - exciting tone to attract attention. (3) Decorative Text: '白桃罐頭' (Canned white peaches), '好多好多果肉' (Lots and lots of fruit pulp), '有一點甜' (A bit sweet) - variety-show style commentary on specific features."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Store introduction -> Product close-up -> Home tasting and review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators appearing on screen.",
+      "mainCharacterDescription": "One woman wears a black beret and a black mesh top; the second woman wears a black and white patterned bucket hat and a white top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Retail Store",
+          "Home Interior"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Costco grocery aisles and refrigerated shelves; a domestic dining table with household items in the background.",
+      "lightingStyle": "Bright retail lighting and warm indoor lighting.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Cake",
+        "Peach"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and descriptive",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Store hum"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Review -> CTA",
+      "mainPurpose": "The video is a consumer review of a Costco product (White Peach Yogurt Cake). It aims to provide potential buyers with information regarding the product's price, visual appeal, and taste profile through an unboxing and tasting format.",
+      "visualEmotion": "Cheerful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "Personal vlog review format without explicit sponsorship disclosure.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing with variety-show style text stickers.",
+      "freeDescribe": "Typical high-engagement food influencer style in Taiwan, focusing on 'CP value' (cost-performance ratio)."
+    }
+  }
+}

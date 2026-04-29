@@ -1,0 +1,175 @@
+{
+  "videoName": "cocowine0205-20251231004506-1864600790905686.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 67.0,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Tainan"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with two female hosts sitting at a restaurant table, smiling and gesturing towards bowls of beef soup and rice. (2) There is a brief cut to the restaurant interior, showing staff in yellow uniforms and simple dining tables. (3) The camera returns to the hosts; the woman on the left speaks excitedly with exaggerated hand gestures while the woman on the right prepares to eat. (4) Close-up shots show steam rising from a large metal bowl of beef soup as a spoon lifts thin slices of pinkish-brown meat. (5) Another close-up features two bowls of rice topped with a generous amount of braised beef. (6) The hosts are shown tasting the soup and rice, displaying expressions of intense satisfaction and delight, such as wide eyes and nodding. (7) Detailed close-ups of specific beef textures and the broth's clarity are interspersed with the hosts' reactions. (8) The video concludes with the hosts continuing their meal and speaking to the camera.",
+      "audio_narrative_log": "(1) Upbeat, energetic pop music with a moderate tempo starts immediately. A high-pitched, enthusiastic female voice begins narrating in Mandarin. (2) The narration remains continuous, with the primary speaker's tone staying excited and friendly. Occasional background laughter and short affirmative responses from a second female voice are heard. (3) Subtle ambient sounds of a busy restaurant, including the clinking of metal spoons against bowls and distant chatter, are layered under the voices and music. (4) Short, sharp sound effects (SFX) like a 'ding' or 'pop' occur in synchronization with the appearance of colorful text overlays. (5) The music continues at a steady volume until the end, providing a cheerful backdrop to the food descriptions.",
+      "text_narrative_log": "(1) '台南私藏' (Tainan Private Collection) - Hook text with a bold, decorative style indicating a secret or favorite spot. (2) '心中第一牛肉湯' (Number one beef soup in my heart) - Emotional hook expressing a personal ranking. (3) '500塊特選牛肉湯' (500 yuan special beef soup) - Functional text identifying a specific menu item and its price. (4) '滿滿肉的肉燥飯' (Braised meat rice full of meat) - Descriptive text emphasizing portion size with a hungry or excited tone. (5) '牛肉燥飯' (Beef braised meat rice) - Functional text labeling the dish. (6) Subtitles follow the speech, such as '我在台南最近很喜歡的旗哥牛肉湯' (The Qige Beef Soup I've liked recently in Tainan) and '肉超級嫩的' (The meat is super tender)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Restaurant tour -> Dish presentation -> Comparison and Tasting -> Final Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 6,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Hands",
+        "Head",
+        "Torso"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female hosts, 2 staff members in yellow uniforms in the background, and approximately 2 other customers visible in distant shots.",
+      "mainCharacterDescription": "Two young women; one with black hair and bangs wearing a white lace-trimmed black top, the other with long dark hair wearing a black top with a choker."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Restaurant"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A typical Taiwanese 'snack' restaurant or 're chao' style eatery. Features include stainless steel tables, plastic chairs, open kitchen areas, and walls adorned with menu posters and red traditional decorations.",
+      "lightingStyle": "Bright, even indoor lighting from overhead fixtures.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Bright",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Beef Soup",
+        "Braised Beef Rice",
+        "Ginger Strips"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "旗哥牛肉湯"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX"
+      ],
+      "ambientNoise": [
+        "Cafe/Restaurant ambience"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature 1 (Venue/AC) -> Feature 2 (Premium Soup) -> Feature 3 (Value Comparison) -> Feature 4 (Side Dishes) -> Review/Reaction.",
+      "mainPurpose": "The video serves as a commercial food recommendation or restaurant review. It aims to drive traffic to 'Qige Beef Soup' in Tainan by emphasizing the quality and tenderness of the special beef, the generous portions of free beef rice, and the comfortable indoor environment with air conditioning, which is presented as a significant upgrade for traditional eateries.",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct naming of the restaurant, showing the storefront, and highly positive, persuasive language regarding the food's taste and value.",
+      "endorsementObject": [
+        "旗哥牛肉湯"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy dual hosting with synchronous reactions; heavy use of animated 'variety show' style captions.",
+      "freeDescribe": "The video effectively utilizes the high demand for local delicacies in Tainan, positioning a well-known local brand as a 'private collection' to create a sense of exclusivity and expertise."
+    }
+  }
+}

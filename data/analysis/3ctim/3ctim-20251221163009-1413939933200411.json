@@ -1,0 +1,180 @@
+{
+  "videoName": "3ctim-20251221163009-1413939933200411.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 57,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Product Showcase"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) An Asian man wearing a grey flat cap and a white sweatshirt stands in front of a mirror, holding a large black tri-fold smartphone. Large yellow text 'Samsung Galaxy Z TriFold' appears. (2) Close-up shots show the phone folding in a G-shape. The man demonstrates the triple-fold mechanism. (3) The phone is laid flat on a stand to show its 10-inch screen size, then compared to a 10-yuan coin to illustrate its 3.9mm thickness. (4) The camera lenses are shown in close-up, followed by the man demonstrating a video call/selfie feature with a woman visible on the screen. (5) The man demonstrates the Samsung DeX interface on the large screen. (6) Finally, the man folds the phone and slides it into his back jeans pocket, walking away from the camera.",
+      "audio_narrative_log": "(1) Energetic, upbeat electronic background music starts immediately. A male voice enthusiastically introduces the Samsung Galaxy Z TriFold. (2) As the phone folds, a subtle clicking sound effect is layered over the music. The narrator explains the 'G-shaped' design. (3) The music maintains a steady tempo as the narrator lists technical specifications like weight (309g) and camera resolution (200MP). (4) Sound effects like 'dings' and 'shimmers' highlight key text overlays on screen. (5) The music reaches a conclusion as the narrator says he is taking the phone with him, followed by a final confirmation 'ding' when the phone fits in the pocket.",
+      "text_narrative_log": "(1) 'Samsung Galaxy Z TriFold' - Large hook title. (2) '在我手上 看起來超狂' - Emotional hook ('In my hand, looks super crazy'). (3) 'G型設計' - Functional text identifying the design. (4) '10吋大小' - Functional text for screen size. (5) '309g 非常輕巧!', '3.9mm 而且超薄!' - Decorative specs with emphasis. (6) '2億畫素的主鏡頭 (CP值超高)' - Functional and opinionated text about camera specs. (7) 'UHD 60 前鏡頭' - Functional technical spec. (8) 'Samsung DeX 直接就可使用' - Functional feature name. (9) '(放口袋OK)' - Functional confirmation of portability."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.16,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook/Intro -> Design Demo -> Technical Specs Breakdown -> Software Demo -> Portability Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator; 1 female visible on the smartphone screen during the camera demo.",
+      "mainCharacterDescription": "Middle-aged Asian male, wearing glasses, a grey patterned flat cap, and a white sweatshirt with a 'Roots' logo."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Showroom",
+          "Hotel Bathroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A luxurious indoor setting with a marble countertop, large mirrors with round vanity lights, and 'Galaxy' promotional signs visible in the background.",
+      "lightingStyle": "Bright, even studio-style lighting.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and vibrant",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Foldable Phone",
+        "Tablet"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Samsung",
+        "Roots"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with cross-faded BGM",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and professional",
+        "pitch": "Normal",
+        "loudness": "Clear and audible",
+        "speed": "Fast/Energetic",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Click",
+        "Ding",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Feature Highlight -> Technical Deep-dive -> Practical Demonstration",
+      "mainPurpose": "To create hype and provide an initial hands-on review of the Samsung Galaxy Z TriFold, emphasizing its innovative folding design, thinness, and powerful camera specs to a tech-savvy audience.",
+      "visualEmotion": "Energetic and futuristic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct presentation of the product, detailed listing of specifications, and branding visible in the background.",
+      "endorsementObject": [
+        "Samsung Galaxy Z TriFold"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Creator's signature flat cap and the '3c有意思tim哥' social media watermarks.",
+      "freeDescribe": "Typical short-form tech influencer content designed for high engagement on platforms like TikTok or Instagram Reels, utilizing fast cuts and informative text overlays."
+    }
+  }
+}

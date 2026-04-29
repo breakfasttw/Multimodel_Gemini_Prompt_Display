@@ -1,0 +1,173 @@
+{
+  "videoName": "yga0721-20250910111103-1431321738604586.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 30,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Fashion",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man with brown hair wearing a purple T-shirt stands in a well-lit indoor room, holding a grey and white striped shirt. A large green text box covers the bottom half of the screen. (2) A still image of actor Greg Han (Kuang-Han Hsu) in a Uniqlo ad appears briefly, showing him in a similar striped shirt. (3) The man in the purple shirt returns to center frame, looking intensely at the camera before dropping his head slightly as large black text reading '不可能' (Impossible) appears over him. (4) Another man wearing the striped shirt walks into the frame from the right, standing next to the first man and adjusting the shirt while looking at the camera. The background remains a domestic interior with a wall clock and shelves.",
+      "audio_narrative_log": "(1) Fast-paced male vocals speaking enthusiastically in Mandarin over an upbeat, rhythmic electronic BGM. (2) The music continues as the speaker asks a question with a rising tone. (3) A sharp, comical impact sound effect plays as the man says 'Impossible' and the tone shifts to a more deadpan delivery. (4) The music transitions into a lighthearted, slightly mocking comedic melody as a second voice is briefly heard and the first man makes a final comment.",
+      "text_narrative_log": "(1) Functional Text: '最近很多人看了許光漢代言UNIQLO 的形象照片覺得很帥' (Context about Greg Han's Uniqlo ad). (2) Functional Text: '紛紛敲碗嘎哥 想要嘎哥教大家 怎樣用一件簡單的襯衫 就可以穿搭出許光漢的帥氣感？' (Request for a fashion tutorial). (3) Decorative/Hook Text: '如何穿上Uniqlo就跟許光漢一樣帥' (Main title hook). (4) Decorative Text: '不可能' (Humorous punchline). (5) Decorative Text: '你再怎麼穿，還是蔡宗翰' (Personalized joke referencing the individual on screen)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 5,
+      "averageSceneDuration": 6.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Setup -> Celebrity Reference -> Subversion/Punchline -> Reality Reveal"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Torso"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 primary host/speaker, 1 friend appearing for the punchline.",
+      "mainCharacterDescription": "The first man has dyed brown hair and wears a purple pocket T-shirt. The second man has short black hair and wears a striped Uniqlo shirt over a white T-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern indoor room with cream-colored walls, a simple wall clock, and a shelf with decorative items like a vase.",
+      "lightingStyle": "Bright, even indoor lighting.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "UNIQLO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and energetic",
+        "pitch": "Medium",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Comedic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Impact SFX",
+        "Cartoon SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Comparison -> Subversion",
+      "mainPurpose": "The video is a comedic sketch designed to subvert the expectation that purchasing celebrity-endorsed clothing will result in looking like the celebrity. It uses the specific example of Greg Han's Uniqlo campaign to deliver a self-deprecating joke about 'real-world' fashion results versus advertising imagery.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video is a parody/satire of an endorsement rather than a promotion of the brand.",
+      "endorsementObject": [
+        "UNIQLO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin narration common in Taiwanese influencer 'Ga Ge' (蔡阿嘎) videos.",
+      "freeDescribe": "The video targets social media users familiar with current fashion trends and celebrity brand ambassadors in the Chinese-speaking world."
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "videoName": "alephant_0427-20250121164817-1972183333707918.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 57,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Promotion"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Tokyo",
+          "Narita"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a view of an airport tarmac at sunset, followed by shots of terminal direction signs. (2) A man is seen pulling a suitcase and a smaller cart toward a black luxury van. A woman wearing a black mask, glasses, and a grey blazer stands in front of the open door of the van, gesturing with her arms wide and then dancing. (3) The scene shifts to night at Senso-ji Temple with a large crowd. The woman is shown holding a candied fruit skewer and smiling. (4) Inside the van, the woman demonstrates the reclining leather seats and electronic controls. (5) A montage follows showing various Japanese street scenes, a shop window with many Maneki-neko figurines, a sushi chef preparing food, and a crow perched on a pine tree. (6) The woman is shown getting into the van at night, laughing and looking comfortable. The video concludes with the driver placing bags into the back of the van and a final shot of contact information.",
+      "audio_narrative_log": "(1) Upbeat, electronic pop music begins immediately and continues throughout the video. (2) A female voice speaks in an excited, high-pitched tone in Mandarin. (3) Ambient sounds of a car door sliding open and a luggage handle clicking are heard. (4) The woman's voice continues with a steady pace as she narrates her experience. (5) A brief sound effect of a crow cawing is heard around the 46-second mark. (6) The music ends with a bright chime as the vocals stop.",
+      "text_narrative_log": "(1) Functional Text: '第1ターミナル行き To Terminal 1' appearing on an airport sign. (2) Hook Text: '啊 這個太豪華了' (Oh, this is too luxurious) and '豪華機場接送' (Luxury airport transfer) reflecting the woman's excitement. (3) Decorative Text: '女明星般的規格' (Movie star standards) and '要去Tokyo' (Going to Tokyo) in a playful font. (4) Functional Text: '熊本旅遊-日本包車' (Kumamoto Travel - Japan Chartered Car) identifying the service. (5) Decorative Text: '坐包車到機場完全不用拖行李搭地鐵' (Taking a chartered car to the airport means no need to drag luggage on the subway) explaining benefits. (6) Promotional Text: 'IG: kumatrip.tw', 'LINE: @235vqogm' providing contact details at the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at airport -> Service demonstration -> Travel montage -> Comfort benefits -> CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main female creator, 1 driver, 1 sushi chef, and at least 5 people in the background at the temple.",
+      "mainCharacterDescription": "A young woman with long black hair, wearing glasses and a black mask initially, then seen in a denim jacket and light-colored skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Airport",
+          "Outdoor Street",
+          "Temple",
+          "Car Interior",
+          "Restaurant"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Features an airport runway, a modern luxury vehicle interior, the iconic red gate of Senso-ji, urban Japanese streets, and a traditional sushi bar.",
+      "lightingStyle": "Mixed: Natural sunset, bright street lights at night, and soft indoor restaurant lighting.",
+      "weather": "Clear",
+      "season": "Winter",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and warm",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Bird",
+        "Cat"
+      ],
+      "foodsDetect": [
+        "Sushi",
+        "Candied fruit"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Airplane"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Senso-ji Temple"
+      ],
+      "brandLogos": [
+        "Toyota",
+        "Natural Lawson"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and cheerful",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Crow caw"
+      ],
+      "ambientNoise": [
+        "Airport rumble",
+        "Car door sliding"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Experience -> Feature -> CTA",
+      "mainPurpose": "The video is a promotional travel vlog designed to market a luxury chartered car service in Japan. It uses a first-person perspective to highlight the comfort and convenience of being picked up in a high-end van, contrasting it with the difficulty of carrying luggage on public transport. By showing various attractions and high-quality dining, it positions the service as an essential part of a high-end, stress-free Japanese holiday.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The video explicitly names '熊本旅遊-日本包車' and provides contact information for booking the service.",
+      "endorsementObject": [
+        "熊本旅遊-日本包車"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin narration and the use of 'movie star standard' as a hook.",
+      "freeDescribe": "The video targets affluent Chinese-speaking travelers looking for comfort and 'Instagrammable' experiences in Tokyo."
+    }
+  }
+}

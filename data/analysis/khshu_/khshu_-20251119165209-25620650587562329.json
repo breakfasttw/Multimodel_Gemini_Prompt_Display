@@ -1,0 +1,184 @@
+{
+  "videoName": "khshu_-20251119165209-25620650587562329.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 67,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Malaysia"
+        ],
+        "city": [
+          "Kuala Lumpur"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a live-action shot of a female creator sitting in a bright indoor restaurant, holding and showing a sandwich to the camera with an excited expression. (2) Cut to an exterior shot of 'Village Park Restaurant' showing the signage and a busy street front. (3) Transition to close-up shots of Nasi Lemak with fried chicken being mixed with sambal, followed by the creator eating and reacting with wide eyes and a smile. (4) Transition to the second location, 'Thong Kee Cafe', showing Hainan toast and a cup of coffee; the creator is seen dipping the toast into a soft-boiled egg. (5) The final segment shows a chef stir-frying Hokkien Mee in a large wok with steam rising, followed by the creator eating the dark noodles and giving a thumbs up.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic music begins and continues throughout the video. A young female voice speaks enthusiastically and continuously. (2) Sounds of eating, such as crunching and slurping, are layered over the music during food close-ups. (3) Ambient noise of a bustling restaurant, including the clinking of plates and faint background chatter, is audible. (4) Cooking sounds, specifically the sizzle of a wok and the scraping of a spatula, are heard during the noodle preparation scene.",
+      "text_narrative_log": "(1) Functional Text: Chinese subtitles at the bottom of the screen translate the creator's narration about the food quality and her experiences. (2) Decorative/Hook Text: '吉隆坡初體驗' (Kuala Lumpur First Experience) appears as a title with a Malaysian flag icon. (3) Hook Text: 'village park', '炸雞椰漿飯' (Fried Chicken Nasi Lemak), '唐記海南茶餐廳' (Thong Kee Hainan Cafe), and '福建麵' (Hokkien Mee) appear as colorful labels to identify the food and locations."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 38,
+      "averageSceneDuration": 1.76,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Restaurant 1 (Nasi Lemak) -> Restaurant 2 (Toast & Coffee) -> Restaurant 3 (Hokkien Mee) -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 15,
+      "maleDetectAmount": 7,
+      "femaleDetectAmount": 8,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Face",
+        "Hands only",
+        "Full body"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 female main creator, approximately 6 kitchen staff members (mostly male), and around 8 diners in the background.",
+      "mainCharacterDescription": "A young Asian woman with fair skin, wearing a pale yellow floral-patterned strap dress, with her hair styled up with small black clips."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Restaurant",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Traditional and busy Malaysian coffee shops (kopitiams) featuring red plastic chairs, stainless steel kitchen equipment, and crowded indoor/outdoor seating areas.",
+      "lightingStyle": "Mix of natural outdoor light and bright indoor fluorescent lighting.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm and Vibrant",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Nasi Lemak",
+        "Fried Chicken",
+        "Hainan Toast",
+        "Soft-boiled Egg",
+        "Kopi",
+        "Hokkien Mee"
+      ],
+      "trafficDetect": [
+        "Motorcycle"
+      ],
+      "techDetect": [
+        "Lavalier Microphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Village Park Restaurant",
+        "Thong Kee Cafe"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 5,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Eating sounds",
+        "Crunching",
+        "Slurping"
+      ],
+      "ambientNoise": [
+        "Cafe chatter",
+        "Cooking sounds"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Recommendation 1 -> Recommendation 2 -> Recommendation 3 -> Summary",
+      "mainPurpose": "The video serves as a travel food guide aimed at tourists visiting Kuala Lumpur. By showcasing a 'first-time experience' through the eyes of a relatable creator, it provides visual and descriptive endorsements of famous local eateries. The fast-paced editing and enthusiastic vocal delivery are designed to build excitement and offer high-utility information for food enthusiasts.",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "While specific restaurants are named and praised, the format adheres to personal travel vlog recommendations rather than a sponsored advertisement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Close-up reactions to first bites, fast-cut food preparation shots, and energetic opening hooks.",
+      "freeDescribe": "The video uses beat-syncing techniques where cuts happen on the musical accents, enhancing the viewer's engagement and perceived pace."
+    }
+  }
+}

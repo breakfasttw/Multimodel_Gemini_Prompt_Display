@@ -1,0 +1,174 @@
+{
+  "videoName": "1105ya-20250824224925-1445514200610592.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 7,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Social Media Skit"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The camera pans across a restaurant interior, showing a production crew filming a man (Joeman) in a brown shirt and hat sitting at a table with food. (2) The camera continues panning right to reveal another young man in a black t-shirt sitting at a different table, who looks surprised and points towards the first man. (3) The second man smiles broadly at the camera while gesturing, with a restaurant counter and staff visible in the background.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic music begins as a male voice speaks a hook in Mandarin. (2) The male voice shifts to an excited tone, expressing surprise at seeing someone famous, while the BGM continues at a steady volume. (3) The BGM sustains its energy until the end of the clip, with faint indoor ambient sounds underneath.",
+      "text_narrative_log": "(1) Decorative Hook: \"當你來買便當 遇到就是要對決\" (When you come to buy a bento and encounter [him], you must have a showdown) - Exciting and humorous tone. (2) Functional Subtitles: \"嘿！這是那個嗎？我都有追蹤你\" (Hey! Is that him? I follow you) - Surprised and fan-like tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 7.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro/Hook -> Surprise Encounter -> Reaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main man in black, 1 famous creator (Joeman), 3 staff/customers in background.",
+      "mainCharacterDescription": "A young male with short black hair, wearing a casual black t-shirt, appearing very excited."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Restaurant"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern restaurant with wooden furniture, a service counter, and wall decorations featuring Chinese text '人生如戲 全靠演技'.",
+      "lightingStyle": "Mixed: Bright indoor lighting combined with professional video production lights.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Pan",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Bento",
+        "Drinks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Professional Camera",
+        "Lighting Equipment",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drum"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Discovery -> Reaction",
+      "mainPurpose": "To document and share a chance encounter with a famous internet celebrity (Joeman) while he is filming on location. The video uses a 'reaction' format to leverage the fame of the subject for engagement.",
+      "visualEmotion": "Energetic and Surprised"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video features a well-known influencer (Joeman) in a restaurant setting, which functions as cross-promotion or hype for his presence.",
+      "endorsementObject": [
+        "Joeman"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Uses the 'Showdown' (對決) keyword associated with Joeman's content series.",
+      "freeDescribe": "The video captures the meta-moment of a production happening inside a casual environment, typical of modern influencer culture."
+    }
+  }
+}

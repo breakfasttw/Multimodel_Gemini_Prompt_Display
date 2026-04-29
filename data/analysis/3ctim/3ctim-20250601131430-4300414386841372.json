@@ -1,0 +1,185 @@
+{
+  "videoName": "3ctim-20250601131430-4300414386841372.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 51,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Vlog",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Tokyo"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a close-up of a high-tech black autonomous wheelchair in an airport, followed by the host Tim sitting in it and gesturing excitedly. (2) Tim uses a side-mounted tablet interface to select 'Traditional Chinese' and sets 'Gate 21' as his destination. (3) The wheelchair begins moving automatically through the terminal; Tim waves to the camera while passing luxury shops like Chanel and SK-II. (4) A second man (A-Hui) walks in front of the moving wheelchair to test the sensors, and the chair stops immediately. (5) The camera shows a storage basket behind the seat and close-ups of the specialized omni-directional front wheels. (6) The video ends with Tim laughing as A-Hui points out he forgot his seatbelt.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music starts immediately and continues throughout. (2) Tim's voice is high-pitched and enthusiastic, narrating the machine's functions in Mandarin. (3) Functional sound effects include a digital countdown beep ('3, 2, 1') and UI confirmation tones. (4) Ambient airport noise is audible but kept low, including the sound of footsteps and distant terminal echoes.",
+      "text_narrative_log": "(1) Functional subtitles appear at the bottom translating Tim's speech. (2) Decorative 'Hook' text appears: '這機器 很厲害喔' (This machine is very powerful), '第一件事' (The first thing). (3) Informational overlays show 'Gate 21', '7分 30秒' (7 mins 30 secs), and humorous labels like '阿輝擋路' (A-Hui blocking the way) and '慢走不送' (Goodbye and take care)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 21,
+      "averageSceneDuration": 2.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Interface Setup -> Autonomous Motion Demo -> Safety Testing -> Hardware Details"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 7,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Upper body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main host (Tim), 1 companion (A-Hui), and approximately 5 passers-by in the background of the airport.",
+      "mainCharacterDescription": "Tim is a middle-aged male wearing a red 'Roots' sweatshirt, a plaid flat cap, glasses, and a grey backpack."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Airport Terminal"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern, bright airport terminal with polished marble floors, digital signage, boarding gate signs, and high-end duty-free stores.",
+      "lightingStyle": "Bright indoor terminal lighting",
+      "weather": "Unknown",
+      "season": "Spring",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Follow shot",
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Autonomous Mobility Device"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Tablet",
+        "Autonomous Wheelchair"
+      ],
+      "landmark": [
+        "Narita Airport",
+        "Haneda Airport"
+      ],
+      "brandLogos": [
+        "miko",
+        "Roots",
+        "WHILL",
+        "SK-II",
+        "Chanel"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, excited, and humorous",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 126,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Beep",
+        "Digital Countdown"
+      ],
+      "ambientNoise": [
+        "Airport Terminal Hum"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature 1 (Interface) -> Feature 2 (Demo) -> Feature 3 (Safety) -> Outro",
+      "mainPurpose": "To showcase and demonstrate the features and convenience of the WHILL autonomous personal mobility service available at Japanese airports, aimed at tech-interested travelers and those needing mobility assistance.",
+      "visualEmotion": "Energetic and Curious"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed demonstration of the service's ease of use and safety features within an airport setting.",
+      "endorsementObject": [
+        "WHILL",
+        "miko"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced vlog editing with variety-show style text overlays and Tim's signature enthusiastic hosting style.",
+      "freeDescribe": "The video effectively uses humor (the 'A-Hui' obstacle test) to demonstrate technical safety features like LiDAR or ultrasonic sensors without being overly technical."
+    }
+  }
+}

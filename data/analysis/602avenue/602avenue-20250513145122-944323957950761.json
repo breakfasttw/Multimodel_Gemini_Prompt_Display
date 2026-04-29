@@ -1,0 +1,176 @@
+{
+  "videoName": "602avenue-20250513145122-944323957950761.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 19,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Short Video"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a young Korean man in a black jacket and a black scarf standing on a sidewalk at night. He is looking at the camera with a curious expression. (2) As he speaks, a pop-up image of soy milk and fried dough sticks appears at the bottom of the screen, followed by his transition into a wide smile. (3) A second man wearing a blue puffer jacket enters the frame from the left. Both men stand together, putting their hands together in a prayer-like gesture of gratitude. (4) The two men laugh, wave at the camera, and repeatedly bow slightly while continuing to smile brightly against the backdrop of a brightly lit storefront.",
+      "audio_narrative_log": "(1) A male voice starts speaking in a mix of Korean and Mandarin with a friendly tone. There is light ambient street noise. (2) An upbeat, medium-tempo electronic background music track enters as the man says 'Toh-sia' (Hokkien for thank you). (3) Sound effects like a subtle 'ding' occur when text/images appear. (4) Two male voices are heard laughing and repeating the phrase 'Toh-sia' several times until the audio fades out.",
+      "text_narrative_log": "(1) Hook text at the top: 'POV 剛學台語的韓國歐巴' (POV: Korean Oppa who just learned Taiwanese Hokkien) with a South Korean flag emoji. (2) Functional subtitles: '你說說剛學到的台語吧！' (Tell me the Taiwanese you just learned!) and '我可是有學到一句！' (I actually learned one sentence!). (3) Decorative/Pun text: '豆漿？...' (Soy milk?...) with a food image, followed by '原來是「多謝」' (Turns out it was 'thank you'). (4) Closing hook: '如果在台北看到韓國男人講多謝的話就是他們兩個囉' (If you see Korean men saying thank you in Taipei, it's these two)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 3.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Language Demo -> Pun reveal -> Duo interaction/Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Waist up",
+        "Hands"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main creator in black, 1 friend in blue joining later.",
+      "mainCharacterDescription": "Two stylish young Korean men; one in a black leather jacket and scarf, the other in a bright blue puffer jacket."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A nighttime city street in Taipei with illuminated storefronts, a red poster on a glass door, and a street light casting a warm glow.",
+      "lightingStyle": "Natural night lighting with artificial store lights",
+      "weather": "Clear",
+      "season": "Winter/Spring (based on heavy jackets)",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Korean"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Soy milk",
+        "You tiao"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Fade-in BGM",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and humorous",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Korean",
+          "Taiwanese Hokkien"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Street noise"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Interaction",
+      "mainPurpose": "The video is a lighthearted cultural vlog intended to entertain by showing the humorous side of Korean people learning Taiwanese Hokkien. It uses a phonetic pun between 'Toh-sia' (thank you) and 'Dou-jiang' (soy milk) to create a comedic moment, followed by a wholesome interaction between friends.",
+      "visualEmotion": "Humorous and Warm"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Korean-accented Taiwanese, POV style",
+      "freeDescribe": "The use of 'Oppa' in the title and the focus on linguistic puns makes this highly relatable to a Taiwanese audience interested in Korean culture."
+    }
+  }
+}

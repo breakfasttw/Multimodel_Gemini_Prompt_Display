@@ -1,0 +1,174 @@
+{
+  "videoName": "602avenue-20250806184752-806158188446842.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 43,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Reaction"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Live-action footage shows a woman with long brown hair standing in an indoor setting with white cabinets. She is wearing a grey t-shirt that features a design that looks like sweat stains. (2) She gestures towards the shirt and her face, showing expressions of mock outrage and surprise. She then holds up a smartphone to the camera. (3) The screen of the smartphone displays a social media comment and a like count. She points at the screen while continuing to speak with animated facial expressions.",
+      "audio_narrative_log": "(1) A playful and upbeat electronic BGM track plays throughout. A female voice speaks in Mandarin with a high-pitched, energetic, and slightly comedic tone. (2) The speaker's volume increases slightly as she emphasizes her points about the shirt. No significant ambient noise is present. (3) The music maintains a consistent tempo and volume until the end, concluding with the woman's final spoken words.",
+      "text_narrative_log": "(1) Functional Text: '這灰色衣服的圖案一直讓我以為是汗' (This grey shirt's pattern always makes me think it's sweat). (2) Decorative/Effect Text: '這不是汗!!!!!' (This isn't sweat!!!!!), '委屈' (Aggrieved), and '(氣)' (Angry) appear to emphasize her mock indignation. (3) Hook Text: '1800個人' (1800 people) and '笑死' (Laughing to death) appear to highlight the irony of the comment's popularity."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Reacting to the shirt comment -> Showing proof of likes -> Humorous outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Upper body",
+        "Hands",
+        "Face"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female creator speaking directly to the camera.",
+      "mainCharacterDescription": "A young Asian woman with long brown hair, wearing a stylish grey tie-front t-shirt and white shorts."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Home"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A clean, minimalist indoor room with white built-in cupboards or shelves.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Korean"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "MUSINSA"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, humorous, and expressive",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Reaction -> Outro",
+      "mainPurpose": "The video is a humorous reaction vlog where the creator addresses a specific viewer comment claiming her grey shirt looks like it's soaked in sweat. She uses comedy and high energy to clarify it's a design from a Korean brand (Musinsa) while expressing humorous disbelief that over 1,800 people agreed with the comment.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The mention of the brand Musinsa is contextual to the anecdote about the shirt's design rather than a promotional placement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced Mandarin delivery with heavy use of variety-show style text overlays and expressive facial reactions.",
+      "freeDescribe": "The video relies heavily on the 'relatability' factor and the irony of fashion choices being misinterpreted by a large audience."
+    }
+  }
+}

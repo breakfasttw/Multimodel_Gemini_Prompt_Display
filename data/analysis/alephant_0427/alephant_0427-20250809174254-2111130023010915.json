@@ -1,0 +1,188 @@
+{
+  "videoName": "alephant_0427-20250809174254-2111130023010915.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 64,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Endorsement"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Vietnam"
+        ],
+        "city": [
+          "Phu Quoc"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young Asian woman with reddish-brown hair is sitting in a safari shuttle, smiling and pointing at her phone; she is wearing a white top and sunglasses. (2) The scene shifts to her spinning on a beach in a white crochet top and a blue patterned skirt, followed by a montage of her looking at animals (kangaroos, monkeys, and elephants). (3) She is seen snorkeling underwater in a yellow long-sleeve swimsuit, eating noodles at an outdoor night market, and riding a water slide. (4) On a beach with palm trees and a wooden structure, she holds up DJB eSIM packaging and cards, gesturing toward them enthusiastically. (5) She is shown lying face down on a massage table at 'Black Spa', followed by a shot of the spa's exterior. (6) Finally, she sits in a purple beanbag on the beach, waving with her arms wide open.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic pop music with a steady drum beat begins. A high-pitched, enthusiastic female voice speaks continuously in Mandarin. (2) Ambient sounds of wind and water splashing are heard during the beach and snorkeling segments. (3) The music maintains its energetic tempo as the vocal delivery remains rapid and promotional in tone. (4) Brief ambient chatter is audible during the night market scene. (5) The music concludes with a final upbeat note as the female voice says a closing remark.",
+      "text_narrative_log": "(1) Decorative text: '富國島' (Phu Quoc), '跟我像的完全不一樣!' (Completely different from what I thought!). (2) Hook text: '$25000 就！有！找！' (Change left from $25000!). (3) Sequence of activities: '滑水滑了' (Did water sliding), '潛水潛了' (Did diving), '船也坐了' (Took a boat), '美食吃了' (Ate delicious food). (4) Endorsement text: '多虧了 DJB eSIM' (Thanks to DJB eSIM), '不用寄送！不用換卡！' (No shipping! No swapping cards!), '完全不限速、不限制流量' (No speed limit, no data limit). (5) Final recommendations: '最後~ 按摩按了', '超便宜！' (Super cheap!), '大家一定要來玩!' (Everyone must come and play!)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Activity Montage -> Product Feature Pitch -> Final Recommendations -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 1 male staff on boat, approximately 3 female passers-by at the night market and safari.",
+      "mainCharacterDescription": "A young Asian woman with long reddish-brown hair, wearing several outfits including a white sleeveless top, a yellow long-sleeve swimsuit, and a white long-sleeve shirt with a heart graphic."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Beach",
+          "Zoo",
+          "Restaurant",
+          "Spa",
+          "Water Park"
+        ],
+        "topography": [
+          "Coastline",
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Scenes transition between a moving safari vehicle, a sandy tropical beach with palm trees, underwater coral areas, a vibrant night market with food stalls, and a modern spa interior.",
+      "lightingStyle": "Natural daylight in outdoor scenes; warm, ambient lighting in the restaurant and spa.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "POV",
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Kangaroo",
+        "Elephant",
+        "Monkey",
+        "Flamingo"
+      ],
+      "foodsDetect": [
+        "Noodles"
+      ],
+      "trafficDetect": [
+        "Bus",
+        "Boat"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "DJB",
+        "Vinpearl Safari",
+        "Black Spa"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic/Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Water Splash"
+      ],
+      "ambientNoise": [
+        "Wind",
+        "Crowd"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Experience Montage -> Product Endorsement -> Service Details -> CTA",
+      "mainPurpose": "The video aims to promote Phu Quoc, Vietnam as an affordable and fun travel destination while specifically endorsing DJB eSIM as the ideal connectivity solution. It uses the narrative of a budget-friendly trip ($25k TWD) to showcase various high-value experiences, framing the product as the key tool that enabled such a smooth journey through its ease of use and high-speed data.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator holds the DJB eSIM packaging, explicitly names the brand, and spends a significant portion of the video explaining its benefits like 'no card swapping' and 'unlimited data'.",
+      "endorsementObject": [
+        "DJB eSIM"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin voiceover combined with colorful, large Traditional Chinese text overlays typical of Taiwanese travel vloggers.",
+      "freeDescribe": "The video follows the 'Short-form Travel Guide' format, maximizing information density through fast cuts and overlaid text to appeal to viewers with short attention spans."
+    }
+  }
+}

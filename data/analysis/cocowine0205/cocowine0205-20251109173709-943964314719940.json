@@ -1,0 +1,175 @@
+{
+  "videoName": "cocowine0205-20251109173709-943964314719940.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 63,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts in a brightly lit supermarket environment. A young woman with long dark hair, wearing a white long-sleeved top and a black skirt, holds a plastic bag containing four roasted chicken legs. She points at the product, gestures with her hand to show the size of a single chicken leg compared to her palm, and looks directly at the camera with an excited expression. (2) The scene shifts to an indoor setting with a table. Two women are present; the main character from the first part and another woman wearing a blue hat. They are both wearing disposable plastic gloves and are eating the chicken legs. The main character takes a large bite out of a chicken leg while the other woman gestures and speaks. They hold up the chicken to the camera to show the texture and the juices.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop background music begins immediately. A young woman's voice speaks in an energetic and high-pitched tone, introducing a new 4-pack roasted chicken leg product at a store. (2) The music continues at a steady volume as the dialogue shifts to a detailed review of the product's price, quantity, and taste. Occasional cartoon-style sound effects (SFX) like bells and sparkle sounds are heard coinciding with on-screen text highlights. (3) The audio remains consistent as the two women discuss the food while eating, with the music fading slightly under their dialogue.",
+      "text_narrative_log": "(1) \"小家庭必買 4入新\" (Hook: Recommendation for small families, indicating a new 4-pack product). (2) \"4入正式來了\" (Functional: Stating the product is officially available). (3) \"不用200元\" (Functional: Price highlight). (4) \"它好香!\" (Decorative: Expressing excitement about the smell). (5) \"198元\" (Functional: Specifying the price). (6) \"兩個人剛剛好!\" (Decorative: Suggesting the portion size is perfect for two). (7) \"雞油給得滿滿\" (Decorative: Describing the juiciness of the meat). (8) \"太值得買了\" (Hook: Strong purchase recommendation)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at supermarket -> Product demonstration -> Taste test and review at home"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, 1 child in background, 2 male passers-by in the supermarket background.",
+      "mainCharacterDescription": "One woman has long dark hair and wears a white top with a black skirt; the second woman wears a blue denim hat and a white top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Supermarket",
+          "Indoor Dining Area"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The first half shows a Costco-style supermarket with refrigerated shelves full of food. The second half shows a domestic kitchen or dining area with a counter and kitchen appliances in the background.",
+      "lightingStyle": "Bright artificial supermarket lighting and warm domestic indoor lighting.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Roasted Chicken Legs"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "KIRKLAND Signature"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Demo -> Review",
+      "mainPurpose": "The video is a promotional food review aimed at small families or couples, highlighting the value and convenience of a new 4-pack roasted chicken leg product from Costco (Kirkland Signature). It uses high-energy delivery and close-up 'mukbang' style eating shots to appeal to viewers' appetites and price consciousness.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct recommendation of the product, display of brand packaging, and price-to-value analysis.",
+      "endorsementObject": [
+        "KIRKLAND Signature"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density colorful text overlays and variety-show style sound effects.",
+      "freeDescribe": "The video follows a popular social media trend of 'Costco hauls' and food reviews, focusing on practical buying advice for urban dwellers."
+    }
+  }
+}

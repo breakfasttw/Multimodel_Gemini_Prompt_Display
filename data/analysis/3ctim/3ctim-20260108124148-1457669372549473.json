@@ -1,0 +1,185 @@
+{
+  "videoName": "3ctim-20260108124148-1457669372549473.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 72,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Product Review",
+        "Tech Gadgets"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged male host wearing a patterned cap and a grey Roots t-shirt sits on wooden indoor steps, holding an iPhone and gesturing with a confused expression. (2) Close-up shot of an AGI ED138 Pro SSD product box and the small grey device. (3) The host holds the small SSD between his fingers to demonstrate its compact size relative to his thumb. (4) The host rotates the SSD to show its dual USB-C and USB-A interfaces. (5) Handheld POV shot shows the SSD being plugged into a laptop, then into an iPhone 15 Pro. (6) On-screen footage of the iPhone's camera settings menu, specifically toggling ProRes 4K options and a system prompt appearing. (7) Close-up of the host's hand plugging the SSD into the bottom of the iPhone. (8) Screen recording of the iOS 'Files' app showing a folder named 'AGI' and recorded video files inside. (9) The host returns to a talking-head shot, explaining technical specs like USB 3.2 Gen 2 speeds. (10) The camera pans across a retail shelf filled with AGI SSD boxes in a store named 'mika', ending with the host pointing at the products.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music begins immediately with a high-energy male voice speaking Mandarin. (2) Short 'pop' and 'ding' sound effects punctuate the appearance of graphic text on screen. (3) The music maintains a steady, rhythmic tempo as the vocal explains the cost-benefit of external storage versus internal iPhone storage. (4) Subtle ambient room tone is audible during pauses in speech. (5) The music volume dips slightly when technical details about read/write speeds are being listed, then swells for the final call to action.",
+      "text_narrative_log": "(1) '3c有意思tim哥' and '3ctim' (Functional: Host social handles). (2) '還在糾結要買多大的 iPhone 15 Pro?' (Decorative Hook: Expressing worry about iPhone storage choices). (3) '多一倍要多5-6千' (Functional: Explaining the high cost of upgrading storage). (4) 'AGI ED138 Pro 外接SSD' (Functional: Product name). (5) '容量呢?? 1TB' (Decorative: Questioning and answering capacity). (6) '好方便!!' (Decorative: Emphasizing convenience). (7) '不支援 ProRes' (Functional: System prompt text). (8) '傳輸速度超快' (Functional: Highlighting speed). (9) '米可價 $1599' (Functional: Specific retailer pricing). (10) '更多資訊在資訊欄' (Functional: Call to action)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Problem Hook -> Solution Introduction -> Feature/Size Demo -> Functional Proof (iPhone/PC) -> Pricing/Store CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main host; 1 blurred staff member visible in the background background of the store scene.",
+      "mainCharacterDescription": "A middle-aged man with glasses, wearing a grey 'Roots' t-shirt, a patterned flat cap, and a beaded bracelet on his right wrist."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Retail Store",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern retail environment with wooden stairs, product display boxes for 'Winix Master', tech gadgets on shelves, and a computer desk setup.",
+      "lightingStyle": "Bright, even indoor retail lighting.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld POV",
+        "Macro Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "SSD",
+        "Laptop",
+        "Monitor"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple",
+        "Roots",
+        "AGI",
+        "Winix",
+        "mika"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and persuasive",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Corporate Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Problem -> Solution -> Demo -> CTA",
+      "mainPurpose": "To demonstrate the AGI ED138 Pro external SSD as an essential and affordable accessory for iPhone users who need high storage capacity for video recording, specifically targeting the high cost of Apple's internal storage upgrades.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct presentation of the product name, price listing, and filming inside the 'mika' store.",
+      "endorsementObject": [
+        "AGI",
+        "mika"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of '3c有意思tim哥' logo and the host's signature patterned cap.",
+      "freeDescribe": "The video utilizes fast-paced editing and colorful text overlays typical of tech influencers on TikTok/Reels to maintain viewer engagement during a technical review."
+    }
+  }
+}

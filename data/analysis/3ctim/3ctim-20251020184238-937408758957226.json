@@ -1,0 +1,175 @@
+{
+  "videoName": "3ctim-20251020184238-937408758957226.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 51,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Tutorial",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a middle-aged male host wearing a grey flat cap and a green t-shirt, holding a vivo smartphone and gesturing excitedly towards the camera. (2) The camera transitions to a series of close-up shots of the smartphone screen as the host navigates through the settings menu, specifically selecting 'Shortcuts and Assistance' and then 'AI Subtitles'. (3) A demonstration follows, showing the AI Subtitles feature active over a YouTube video of a person speaking English. (4) The host then demonstrates the 'AI Summary' feature, which extracts key points from the video content into a note-taking app. (5) The final sequence shows a side-by-side comparison of an iPhone and the vivo phone, demonstrating a wireless data transfer process between the two devices.",
+      "audio_narrative_log": "(1) The audio begins with a male voice speaking Mandarin in an enthusiastic and fast-paced tone, accompanied by upbeat, high-tempo electronic background music. (2) As the host begins the technical demonstration, the music continues at a steady volume while he explains each step clearly. (3) During the AI Subtitles demo, a brief segment of a different male voice speaking English is heard from the video being played on the phone. (4) Digital sound effects (SFX) such as 'clicks' and 'swooshes' are heard during screen transitions and feature activations. (5) The music reaches a slight crescendo and then fades out as the video concludes with the host's final remarks.",
+      "text_narrative_log": "(1) Decorative: 'vivo OriginOS 4' appears in large yellow stylized text at the bottom of the screen. (2) Decorative: '(大聲歡呼)' (Cheering loudly) appears as a variety-show style caption. (3) Functional: '終於在台灣 可以使用啦' (Finally available in Taiwan) appears to emphasize the host's speech. (4) Functional: '快點更新' (Update quickly) appears as a call to action. (5) Decorative: '(AI 字幕辨識中)' (AI Subtitles identifying) and '(無痛傳送)' (Painless transfer) appear during specific feature demonstrations to explain the action."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Feature 1 (AI Subtitles) -> Feature 2 (AI Summary) -> Feature 3 (Cross-device Transfer) -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator acting as the host.",
+      "mainCharacterDescription": "Middle-aged male with glasses, wearing a grey patterned flat cap, a light green t-shirt with 'ATHLETIC ROOTS' text, and multiple beaded bracelets on both wrists."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A simple, clean indoor environment with a plain white or light grey wall, suggesting a professional studio or office setting.",
+      "lightingStyle": "Bright, even studio lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "vivo",
+        "Facebook",
+        "Instagram"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Transition swoosh",
+        "Interface click"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature Demo -> Evidence -> CTA",
+      "mainPurpose": "The video serves as a promotional tutorial to inform users in Taiwan about the localized availability of vivo's OriginOS 4. It specifically highlights high-value AI features like real-time subtitle translation and automated summaries, as well as the ease of migrating data from an iPhone to a vivo device, aiming to lower the barrier for potential switchers.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The host specifically calls out the brand 'vivo' and the software version 'OriginOS 4', demonstrating its unique selling points.",
+      "endorsementObject": [
+        "vivo OriginOS 4"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The host's signature flat cap and the use of '3cTim哥' social media handles in the top-left corner.",
+      "freeDescribe": "The video uses typical 'tech influencer' editing tropes, including fast cuts, beat-synced music, and colorful variety-show captions to maintain high viewer engagement throughout the technical demo."
+    }
+  }
+}

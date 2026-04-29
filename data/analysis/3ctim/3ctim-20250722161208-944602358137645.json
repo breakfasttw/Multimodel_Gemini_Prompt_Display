@@ -1,0 +1,180 @@
+{
+  "videoName": "3ctim-20250722161208-944602358137645.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 36,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tech News"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with a cap and glasses speaks directly to the camera in a crowded exhibition hall. (2) The scene shifts to a blue four-legged robot dog named 'Simba' at a booth labeled Pegatron. (3) The camera zooms in on the robot's head, showing its camera lens and LiDAR sensors. (4) A close-up reveals a golden signature on the blue metal casing of the robot. (5) The man demonstrates the robot's movement; it crouches and stands back up while people in the background watch. (6) The man laughs and admits staff are helping control it while the robot continues to walk and turn.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced electronic background music starts. A male voice speaks enthusiastically in Mandarin. Ambient background noise of a large crowd and mechanical hums. (2) The vocal continues as sound effects (SFX) like pops and whooshes punctuate text overlays. (3) The sound of the robot's motor is audible during close-up shots. (4) The host's voice remains the dominant sound through the end, maintaining a high energy level.",
+      "text_narrative_log": "(1) '我來和碩 COMPUTEX' (I'm at Pegatron COMPUTEX) - Functional/Hook. (2) '第一個就是他們的 Simba' (The first one is their Simba) - Functional. (3) 'LiDAR 在這裡' (LiDAR is here) - Functional. (4) '這是黃仁勳的簽名' (This is Jensen Huang's signature) - Hook/Informative. (5) '我可以聲控喔' (I can voice control) - Decorative/Playful. (6) '是工作人員幫我的啦' (It's the staff helping me) - Humorous/Correction."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 16,
+      "averageSceneDuration": 2.25,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Product Reveal -> Feature Highlights -> Humorous Demo -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 12,
+      "maleDetectAmount": 8,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Chest up"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main host, approximately 5 Pegatron staff members, and several exhibition attendees in the background.",
+      "mainCharacterDescription": "Adult male wearing a black flat cap, clear-framed glasses, a white patterned t-shirt, a black ring on his finger, and a bead bracelet."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Exhibition Booth"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A large technology exhibition booth for Pegatron at COMPUTEX, featuring blue neon lighting, digital screens, and 'E-Mobility & Car Computing' signage.",
+      "lightingStyle": "Bright studio-style exhibition lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Robot Dog",
+        "LiDAR Sensor",
+        "Camera",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "PEGATRON",
+        "MSI"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 5,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Medium",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Vlog Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Crowd chatter",
+        "Mechanical motor hum"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Intro -> Point of Interest (Simba) -> Prestige Hook (Signature) -> Practical Demo -> Conclusion",
+      "mainPurpose": "The video serves as a promotional tech vlog highlighting Pegatron's presence at COMPUTEX. It focuses on 'Simba', a robotic dog, using the 'hook' of Jensen Huang's signature to add prestige and social proof to the product. The overall intent is to generate excitement and showcase innovation through an energetic, fast-paced demonstration.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Host directly showcases and praises a specific brand's product at a major industry event.",
+      "endorsementObject": [
+        "PEGATRON"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Energetic Mandarin vlog style with high-frequency variety-show style captions.",
+      "freeDescribe": "The mention and visual proof of Jensen Huang's signature is a high-value signal for tech clustering, linking the content to NVIDIA and current AI/Robotics trends."
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "videoName": "cocowine0205-20250726175345-1329740125618048.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 35,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Shopping Vlog",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a young woman in a warehouse-style store, holding a box of USii Produce Zipper Bags and gesturing enthusiastically. (2) The scene cuts to a close-up of the price tag on the shelf, followed by the woman showing the large and extra-large bag sizes on the packaging. (3) She continues to explain the product's benefits while holding the box in front of her. (4) The camera focuses on the graphic on the box illustrating how long different vegetables and fruits stay fresh.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music plays throughout. A female voice speaks in a friendly, high-pitched, and excited tone about restocking a favorite item. (2) As the music continues, a male voice joins the conversation, discussing the price and size of the bags. (3) A 'cha-ching' cash register sound effect is heard when the price is highlighted. (4) The audio maintains a steady mix of voices and music until the end.",
+      "text_narrative_log": "(1) '妹妹又來補貨了' (Sister is back for more restocking) - Hook/Introductory tone. (2) '無限回購' (Infinite repurchases) - Enthusiastic endorsement. (3) '高效鎖鮮蔬果袋' (High-efficiency freshness-locking fruit and vegetable bags) - Functional product title. (4) '一個只要 5.95' (Only 5.95 each) - Informative pricing. (5) '重複使用' (Reuse) - Highlighted feature. (6) '比較耐放' (Lasts longer) - Benefit statement."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 10,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Hook -> Product Introduction -> Price Detail -> Feature Explanation -> Usage Scenarios"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female presenter is visible; a male voice is heard but not seen.",
+      "mainCharacterDescription": "A young female with long dark hair, wearing a black long-sleeved top with puff shoulders and a black skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The background consists of high warehouse shelves stocked with various cardboard boxes and a price tag for the USii bags.",
+      "lightingStyle": "Bright indoor warehouse lighting",
+      "weather": "None",
+      "season": "Summer",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Vegetables",
+        "Fruits",
+        "Sweet Potato"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "USii"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, energetic, and persuasive",
+        "pitch": "Normal",
+        "loudness": "Clear and balanced",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Cash register bell",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Intro -> Value Proposition -> Cost Analysis -> Durability -> Outro",
+      "mainPurpose": "The video aims to promote and recommend USii Produce Zipper Bags available at Costco by highlighting their economic value, reusability, and effectiveness in preserving food freshness, specifically for sweet potatoes and summer produce.",
+      "visualEmotion": "Energetic and Positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The presenter explicitly names the brand, shows the packaging, discusses the price at a specific retailer, and recommends it based on personal use.",
+      "endorsementObject": [
+        "USii",
+        "COSTCO WHOLESALE"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-contrast colorful text overlays with variety-show style icons.",
+      "freeDescribe": "Typical lifestyle recommendation content aimed at budget-conscious and health-conscious shoppers."
+    }
+  }
+}

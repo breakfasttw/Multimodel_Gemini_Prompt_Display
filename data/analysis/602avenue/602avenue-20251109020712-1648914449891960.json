@@ -1,0 +1,182 @@
+{
+  "videoName": "602avenue-20251109020712-1648914449891960.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 73,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comparison",
+        "Promotion"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea",
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a female character in a retail store setting representing South Korea, she is dressed in black and holding a credit card while interacting with an unseen cashier. (2) The scene cuts to her in a different outfit (pink striped shirt) representing Taiwan, holding a paper receipt and speaking to the camera. (3) A series of quick cuts follows, showing her reacting to delivery times in Korea (overnight) versus Taiwan (longer wait times) while holding shipping boxes. (4) The narrative shifts as she discusses a mobile app interface on her smartphone, looking puzzled then excited. (5) Screen recordings of the Shopee app are shown, detailing a commission program with various product listings like DHC vitamins. (6) The video concludes with the female character back in the pink shirt, making heart gestures and pointing to the screen with a referral code overlay.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music plays throughout. (2) A female voice starts by speaking Korean in an polite service-oriented tone, followed by a switch to Mandarin Chinese for the rest of the video. (3) Sound effects include a cash register 'ding', a 'pop' sound for text appearances, and a 'huh?' sound effect to emphasize confusion. (4) In the middle section, a male voiceover enters, speaking Mandarin in a clear, instructional, and enthusiastic manner to explain the app features. (5) The music volume stays consistent, providing a energetic and commercial-like atmosphere.",
+      "text_narrative_log": "(1) '買東西的時候 韓國 VS 台灣' (When buying things: Korea vs Taiwan) - Hook title in a variety-show style bubble. (2) Functional subtitles translate the Korean and Mandarin dialogue. (3) '有統編 & 載具' (Have business tax ID & carrier) - Informational text. (4) '15%以上的分潤' (Over 15% commission) - Promotional hook in bold yellow/red text. (5) '快使用我的推薦碼 6W5YV5E' (Quickly use my referral code 6W5YV5E) - Call to action text at the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.73,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook (Cultural Comparison) -> Pivot (Introducing Shopee Video) -> Demo (App Interface) -> Outro (Call to Action)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Waist up",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female creator playing multiple roles through costume changes.",
+      "mainCharacterDescription": "A young East Asian woman with long dark hair, wearing a black top in the 'Korea' scenes and a pink/red striped polo shirt in the 'Taiwan' scenes."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Retail Store",
+          "Studio",
+          "Bedroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A pharmacy or convenience store shelf filled with various products; a simple domestic room with a door and white walls; a studio set with a colorful abstract background for the promotional segment.",
+      "lightingStyle": "Bright studio lighting, even and high-key.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Korean",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and High Saturation",
+      "cameraWork": [
+        "Static",
+        "Screen Recording"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "蝦皮 (Shopee)",
+        "DHC"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, persuasive, and humorous",
+        "pitch": "Moderate to High",
+        "loudness": "Normal",
+        "speed": "Normal to Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Korean",
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cash Register Ding",
+        "Cartoon Pop",
+        "Success Chime"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Comparison Hook -> Problem/Solution -> Informational Demo -> CTA",
+      "mainPurpose": "The video serves as a promotional advertisement for the 'Shopee Affiliate/Video Program' (蝦皮分潤計畫). It uses a relatable cultural comparison between South Korea and Taiwan regarding shopping habits and delivery expectations to capture attention, then transitions into a tutorial on how users can earn passive income by uploading short videos to Shopee.",
+      "visualEmotion": "Energetic and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed explanation of commission percentages, screen-by-screen app tutorial, and the provision of a personal referral code.",
+      "endorsementObject": [
+        "蝦皮 (Shopee)"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Switching between Korean and Mandarin to emphasize her dual-cultural identity; use of high-energy variety show editing.",
+      "freeDescribe": "The video effectively bridges 'lifestyle content' and 'affiliate marketing' by leveraging the creator's personal brand as a bridge between Korean and Taiwanese cultures."
+    }
+  }
+}

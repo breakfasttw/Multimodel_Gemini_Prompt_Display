@@ -1,0 +1,173 @@
+{
+  "videoName": "yga0721-20251025113734-930454055982757.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 18,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Skit",
+        "Meme"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman in a white skirt and patterned top is bent over a dining table, extending her arms to hold a smartphone. A man in a white oversized t-shirt and blue shorts walks into the background, stops, and looks at her. (2) The man's face is shown in a close-up with a confused and then realization-filled expression. This is followed by a rapid montage of clips featuring various men (including famous actors) smiling, nodding, or tipping their hats knowingly. (3) The scene returns to the original room; the man smiles mischievously, adjusts his shorts, and sneaks behind the woman to take a photo of her from a low squatting position.",
+      "audio_narrative_log": "(1) Upbeat, rhythmic string and percussion music starts immediately at a moderate tempo. (2) The music continues consistently through the sequence; no spoken vocals or dialogue are detected. (3) The audio remains constant with no significant ambient noise or sound effects during the transition to the montage or the final action.",
+      "text_narrative_log": "(1) None"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 1.63,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Reaction Montage -> Action Outcome"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 7,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male, 1 main female, and approximately 6 different men in the movie montage clips.",
+      "mainCharacterDescription": "A young woman in a summer outfit (white skirt) and a young man in casual streetwear (white t-shirt, blue shorts)."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern, minimalist apartment with light wood floors, white walls, a dining table with chairs, and an air conditioning unit. Montage scenes show various cinematic backgrounds.",
+      "lightingStyle": "Bright, even indoor lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Air Conditioner"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "None"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Unknown"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Observation -> Collective Reaction -> Mischievous Action",
+      "mainPurpose": "To create a humorous social media skit using the 'men of culture' meme trope. The video suggests a shared, silent understanding between men when seeing a woman in a specific pose, highlighted by the montage of approving cinematic figures, leading to the man taking a cheeky photo.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of popular reaction memes (Gatsby, etc.)",
+      "freeDescribe": "The video relies heavily on intertextuality, referencing existing internet meme culture to convey its punchline without dialogue."
+    }
+  }
+}

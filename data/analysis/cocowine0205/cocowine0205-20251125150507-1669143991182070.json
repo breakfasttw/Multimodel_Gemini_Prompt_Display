@@ -1,0 +1,176 @@
+{
+  "videoName": "cocowine0205-20251125150507-1669143991182070.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 58,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in a blue bucket hat and fuzzy blue dress stands in a Costco refrigerated section. She holds a large bag of chicken breast and gestures enthusiastically. (2) The scene transitions to an indoor room where the same woman and a female companion sit at a table. They are surrounded by individual packs of the chicken and a cutting board. (3) They slice the chicken and perform tasting actions, using hand signs to signal their opinion. (4) The woman in the hat gives a thumbs up and a wave while holding the packaging.",
+      "audio_narrative_log": "(1) A high-pitched, energetic female voice speaks in Mandarin over an upbeat, poppy background track. Ambient noises of a busy store are audible. (2) The soundscape transitions to a multi-voice conversation between two females on screen and an occasional male voice off-screen. The tone is casual and analytical. (3) Sound effects like a 'pop' and 'cartoon chime' accentuate specific movements or text reveals. (4) The upbeat music continues to play as the speakers conclude their discussion and sign off.",
+      "text_narrative_log": "(1) Functional text includes the Costco Wholesale logo at the top and a price tag of '$ 299'. (2) Decorative hook text in large, colorful fonts reads: 'Open and eat', 'Dachan Sous-vide method', and 'Original Tender Chicken Breast'. (3) Traditional Chinese subtitles appear at the bottom to translate all spoken dialogue. (4) A large graphical stamp with '可以路過' (Can pass by) appears near the end to indicate the final verdict."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 4.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Store introduction -> Home unboxing -> Tasting and Comparison -> Final Verdict"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, 1 male voice off-camera, and at least 1 shopper in the background of the Costco scene.",
+      "mainCharacterDescription": "One woman wears a blue knit bucket hat and a fuzzy blue dress over a white shirt; the second woman has long dark hair and wears a maroon top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Indoor Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A Costco warehouse with refrigerated shelves and shoppers, followed by a domestic indoor setting with a white table and shelves of toys in the background.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Chicken breast"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco",
+        "Dachan (大成)",
+        "Kangaroo (logo on hat)"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and conversational",
+        "pitch": "Medium-High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Warehouse hum",
+        "Room tone"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Investigation -> Evaluation -> Verdict",
+      "mainPurpose": "The video serves as a critical food review for a new 'Original' flavor of Dachan chicken breast sold at Costco. The creators compare its sweetness profile to other convenience store versions and conclude that it is too sweet for their preference, recommending that shoppers skip this specific item.",
+      "visualEmotion": "Energetic and Cheerful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The reviewers provide a negative recommendation ('can pass by'), which typically indicates an independent review rather than a paid endorsement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density text overlays and a specific 'stamp of approval/disapproval' visual trope.",
+      "freeDescribe": "The video follows the 'unboxing and honest review' format popular on Asian social media platforms like TikTok or Reels."
+    }
+  }
+}

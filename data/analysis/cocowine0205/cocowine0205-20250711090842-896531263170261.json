@@ -1,0 +1,189 @@
+{
+  "videoName": "cocowine0205-20250711090842-896531263170261.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Shopping Guide",
+        "Promotion"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a shot of a large grey plush cat in a warehouse setting, overlaid with the Costco logo and promotional text. (2) A series of rapid-fire cuts show various products on shelves or in boxes: stacks of Kirkland toilet paper, bags of Fuji apples, boxes of Pampers diapers, snacks, coffee, biscuits, and chips. (3) The sequence continues through clothing items like PUMA socks and underwear, followed by household essentials, refrigerated foods, drinks, and personal care products like toothbrushes and laundry pods. (4) The final shots feature small appliances like vacuum cleaners and ice makers, ending with health supplements and a vanity mirror.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music starts immediately with a high-pitched, energetic male voice introducing the weekly specials. (2) The male voice continues a rapid-fire narration throughout the video, naming each product and its discounted price in synchronization with the visual cuts. (3) There are no significant ambient noises from the store; the audio is a clean mix of studio-recorded narration and BGM. (4) The music and vocal delivery maintain a consistent high energy until the video ends.",
+      "text_narrative_log": "(1) Hook text: 'Costco Wholesale 好市多 每週特價速報 06/23-06/29 記得追蹤我們' (Weekly Special Report, remember to follow us). (2) Functional text appears for every product, displaying the brand name, product description, '原價' (Original Price), discount amount (e.g., -110), and '特價' (Special Price). (3) Examples of product text: 'KIRKLAND SIGNATURE 捲筒衛生紙', 'PUMA 男短襪8入組', 'TIDE 汰漬 洗衣膠囊'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 52,
+      "averageSceneDuration": 1.7,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Rapid-fire list of products and prices -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male creator appears briefly at the start; hands are visible holding or pointing at products later.",
+      "mainCharacterDescription": "A male creator wearing casual clothing, appearing energetic at the beginning."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Various aisles and refrigerated sections of a Costco warehouse store, filled with bulk products, pallets, and price tags.",
+      "lightingStyle": "Intense studio-style warehouse lighting",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Apples",
+        "Biscuits",
+        "Bread",
+        "Chips",
+        "Noodles",
+        "Snacks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Electric Toothbrush",
+        "Vacuum Cleaner",
+        "Ice Maker"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco",
+        "Kirkland Signature",
+        "Pampers",
+        "PUMA",
+        "Nautica",
+        "Quaker",
+        "KIRIN",
+        "Glico",
+        "Philips",
+        "Tide",
+        "Schick",
+        "Electrolux"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Normal",
+        "loudness": "High",
+        "speed": "Extremely fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Enumeration -> CTA",
+      "mainPurpose": "To provide a rapid and information-dense overview of weekly discounts at Costco Taiwan, utilizing a fast-paced 'shouting' style narration to create urgency and encourage immediate shopping visits.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The video explicitly lists prices and discounts for specific brands available at Costco.",
+      "endorsementObject": [
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-speed price narration style common in Taiwanese promotional short videos.",
+      "freeDescribe": "The video functions as a digital flyer, optimized for short-form video platforms where speed and density of information are key to engagement."
+    }
+  }
+}

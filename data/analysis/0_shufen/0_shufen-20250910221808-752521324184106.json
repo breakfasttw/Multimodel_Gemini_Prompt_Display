@@ -1,0 +1,167 @@
+{
+  "videoName": "0_shufen-20250910221808-752521324184106.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 5.16,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Humor"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a static close-up shot of a young woman with long dark hair lying on a bed with her eyes closed, appearing to try to sleep. She is wearing a pink camisole. (2) She slightly moves her lips and shifts her head minutely against the white pillow. (3) The camera remains fixed on her face and upper torso until the end of the clip.",
+      "audio_narrative_log": "(1) A heavy, continuous sound of falling rain begins immediately. (2) There are no vocals, music, or other sound effects detected. (3) The rain sound maintains a consistent intensity and texture, which resembles a sizzling or frying noise, until the clip ends.",
+      "text_narrative_log": "(1) Decorative Text: \"睡不著所以打開下雨白噪音\" (Can't sleep so turned on rain white noise) appears at the center, setting the context in a neutral tone. (2) Decorative Text: \"但太像炸雞聲\" (But sounds too much like fried chicken) appears below, shifting to a humorous tone. (3) Decorative Text: \"現在越聽越餓睡不著\" (Now getting hungrier the more I listen and can't sleep) appears with yellow highlighting on specific characters to emphasize the humorous frustration."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 5.16,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Static shot of a person lying down with ambient sound and text overlays."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full face",
+        "Upper body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main character visible in a close-up shot.",
+      "mainCharacterDescription": "A young woman with long dark hair, wearing a pink tank top, lying in bed."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Bedroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A simple indoor setting showing a white pillow and a portion of a light-colored wall or headboard.",
+      "lightingStyle": "Soft indoor natural or ambient light.",
+      "weather": "None",
+      "season": "Unknown",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "No Music",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Rain"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Status -> Conflict -> Result",
+      "mainPurpose": "The video aims to share a humorous and relatable struggle with insomnia. It juxtaposes the visual of someone trying to rest with a 'white noise' track that sounds like frying food, leading to the comedic irony that the sleep aid is actually making the person hungry and keeping them awake.",
+      "visualEmotion": "Calm"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Close-up 'trying to sleep' pose with observational text overlays.",
+      "freeDescribe": "The effectiveness of the humor relies heavily on the audio-visual synthesis where the sound of rain is re-interpreted as fried chicken sizzling, a common internet meme trope."
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "videoName": "cocowine0205-20251202082507-1686924949138697.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 90,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Shopping Guide",
+        "Promotion",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Two young women wave excitedly to the camera in the aisle of a large warehouse-style store. One wears a white bucket hat and a white long-sleeve shirt; the other has long dark hair and a similar white top. (2) The scene shifts to a rapid sequence of product shots on store shelves. Items include speakers, clothing, heaters, and skincare products, each accompanied by large text overlays showing prices. (3) The product showcase continues with kitchenware, electronics, and pet supplies, moving at a very fast pace with hard cuts between each item. (4) The video maintains this focus on displaying different discounted goods until the end.",
+      "audio_narrative_log": "(1) Upbeat, energetic pop music starts immediately. A high-pitched, enthusiastic female voice speaks in Mandarin, introducing the sale. (2) A male narrator takes over with a steady, professional tone, listing product names and their discounted prices in rapid succession. The BGM remains consistent and rhythmic throughout the listing. (3) The audio consists of clean voiceover work with very little ambient noise from the store environment audible.",
+      "text_narrative_log": "(1) Decorative: \"絕對超級便宜\" (Absolutely super cheap), \"好市多\" (Costco), \"500件超殺特價\" (500 items super kill special price), \"11/24 ~ 11/30\", \"黑五特報第二彈\" (Black Friday Special Report Part 2). (2) Functional: Detailed product names such as \"JBL CLIP 5\", \"LEVI'S 男圓領短袖上衣\", \"DKNY 女無痕內褲\", and \"PHILIPS 兒童音波電動牙刷\". (3) Functional: Price information showing \"原價\" (Original price), a minus sign with the discount amount, and \"特價\" (Sale price) for each item displayed."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Rapid-fire product discount showcase -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators in the intro; hands visible holding products in later shots.",
+      "mainCharacterDescription": "Two young women; one wearing a white bucket hat and white long-sleeved shirt, the other with long black hair and a white top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The interior of a Costco warehouse featuring high metal shelving units, bulk product packaging, and bright industrial lighting.",
+      "lightingStyle": "Bright studio-like lighting or warehouse industrial lighting",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Cat (on packaging)"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Speaker",
+        "Heater",
+        "Coffee Machine",
+        "Electric Toothbrush",
+        "Monitor"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "JBL",
+        "LEVI'S",
+        "PUMA",
+        "DKNY",
+        "AIRMATE",
+        "KAO",
+        "HADA LABO",
+        "ACER",
+        "STEELSERIES",
+        "PANASONIC",
+        "UAG",
+        "TESCOM",
+        "PHILIPS",
+        "UCC",
+        "TEFAL"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and enthusiastic in the intro; informative and steady during the product roll.",
+        "pitch": "Mixed",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Commercial Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Catalog -> Outro",
+      "mainPurpose": "This video is a promotional shopping guide for Costco's Black Friday event. It uses a high-energy introduction to capture attention and follows up with a rapid-fire catalog of various product discounts across electronics, home goods, and apparel to drive consumer interest and store visits.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of store logo, product prices, and a specific promotional timeframe (Black Friday).",
+      "endorsementObject": [
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-intensity price comparison overlays and fast-paced product montage.",
+      "freeDescribe": "The video follows a standard 'deal-hunting' social media format popular in East Asian retail marketing, emphasizing maximum value and FOMO (Fear Of Missing Out) during the Black Friday window."
+    }
+  }
+}

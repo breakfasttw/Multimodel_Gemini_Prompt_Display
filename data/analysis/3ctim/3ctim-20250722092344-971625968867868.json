@@ -1,0 +1,182 @@
+{
+  "videoName": "3ctim-20250722092344-971625968867868.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 134,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Product Showcase"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man wearing a yellow t-shirt and a grey cap is talking to the camera in an indoor setting with a bookshelf and curtains behind him. (2) He holds up a very small, grey electronic device (an SSD) and points to it. (3) Transitions to close-up shots of the device sitting on a wooden mannequin hand, then shows the device being plugged into the USB-C port of an iPhone. (4) Screen recordings and hands-on footage show the user navigating the iOS Files app and transferring videos to the external drive. (5) The device is then shown being plugged into an Android phone and a Windows laptop to demonstrate cross-platform compatibility. (6) A finger is shown touching a small sensor on the device to demonstrate the fingerprint encryption feature. (7) The man returns to the screen, gesturing emphatically while speaking, and finally points towards the product.",
+      "audio_narrative_log": "(1) Male vocals start immediately with an energetic and conversational tone. (2) Upbeat, fast-paced background music (BGM) with an electronic feel enters as he reveals the product. (3) Sound effects (SFX) like a 'ding' and a 'whoosh' are heard during text overlays and scene transitions. (4) During the phone demo, ambient UI sounds from the phone (clicks) are audible. (5) The BGM remains consistent throughout the video, maintaining a high energy level, while the man's voice remains the dominant audio layer.",
+      "text_narrative_log": "(1) '我昨天跟客戶開會的時候' (Hook/Functional: Narrative start). (2) '拿到一個好東西' (Hook: Excitement). (3) 'ADAM elements iKlips S USB-C 超微型指紋加密 SSD' (Decorative: Product name). (4) '全球最小的 USB-C SSD' (Decorative: Key feature). (5) '大概跟 Airwaves 口香糖一樣小' (Decorative: Size comparison). (6) '檔案太大' (Functional: Problem statement). (7) '無敵快 / 傳完了！' (Decorative: Speed emphasis). (8) '450MB/s / 400MB/s' (Functional: Specs). (9) '指紋辨識加密 / 隱私保障' (Decorative: Feature highlight). (10) '3年保固 / 趕快去買吧！' (Decorative/CTA: Closing and warranty)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 38,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Talking head intro -> Product reveal -> Practical demo (iOS/Android/PC) -> Security feature highlight -> Historical context & Brand legacy -> Final recommendation."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Hands only",
+        "Full body (mannequin)"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator presenting the product.",
+      "mainCharacterDescription": "A middle-aged male with glasses, a grey flat cap, and a bright yellow t-shirt. He wears a multi-colored wristband and a beaded bracelet."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Home Office"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The primary background is a room with soft lighting, curtains, and a hint of furniture. Secondary backgrounds include close-ups of a wooden mannequin, various electronic device screens, and a laptop.",
+      "lightingStyle": "Bright, soft studio lighting with natural light from a window.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and warm",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Handheld demo shots"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Airwaves (Packaging)"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "SSD",
+        "Laptop",
+        "Tablet"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "ADAM elements",
+        "Apple",
+        "Airwaves"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade and hard cuts between speaking and demo segments.",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, persuasive, and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Whoosh",
+        "Click"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Problem/Solution -> Feature Deep Dive -> Brand Trust -> CTA",
+      "mainPurpose": "To promote the ADAM elements iKlips S USB-C SSD by highlighting its portability (comparable to gum), high-speed data transfer (450MB/s), cross-platform utility, and unique fingerprint security, leveraging the brand's long history and design awards to build consumer trust.",
+      "visualEmotion": "Energetic and Tech-savvy"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product presentation, detailed feature explanation, inclusion of brand history, and a clear call to action to buy the product.",
+      "endorsementObject": [
+        "ADAM elements"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-talking tech reviewer style with high-density kinetic typography.",
+      "freeDescribe": "The video effectively uses visual comparisons (the gum packet) to communicate abstract tech specs like 'size' to a general audience. The emphasis on 'no additional app required' for Android addresses a common pain point for mobile storage users."
+    }
+  }
+}

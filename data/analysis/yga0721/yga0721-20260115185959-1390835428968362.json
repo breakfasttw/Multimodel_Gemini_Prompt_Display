@@ -1,0 +1,180 @@
+{
+  "videoName": "yga0721-20260115185959-1390835428968362.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 91,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Promotion",
+        "Music Video",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a skit where two men in red tops are looking at a smartphone; the man with brown hair and glasses seems dismissive of the content on the phone. (2) Suddenly, the scene shifts to a high-energy dance sequence featuring the man in the red cardigan, a woman in a red track jacket, and several performers in large 'God of Wealth' mascot costumes. (3) The main character demonstrates the use of a purple SupaMop and bucket while dancing synchronously with the mascots. (4) Close-up shots show collaborative product packaging featuring 'SupaMop' and the 'Kuai Kuai' snack brand. (5) The final segment features the main character standing in front of stacks of product boxes, gesturing excitedly while speaking directly to the camera.",
+      "audio_narrative_log": "(1) The audio starts with casual male dialogue between two speakers over a quiet room background. (2) An upbeat, fast-tempo pop music track with festive electronic arrangements begins. (3) A male vocalist (the main character) sings lyrics about luck, wealth, and the 'SupaMop' product. (4) Sound effects of the mop spinning in the bucket are audible over the music. (5) The music continues at a lower volume while the main character delivers a fast-paced promotional speech about prizes and website links, ending with a collective cheer.",
+      "text_narrative_log": "(1) Dialogue subtitles translate the opening skit into Traditional Chinese. (2) Large, stylized lyrics appear on screen in red and white fonts, emphasizing key phrases like 'Good luck' and 'SupaMop'. (3) Functional text overlays describe product features such as 'Clean/Dirty water separation' and 'Triangular mop head'. (4) Promotional text lists prizes including 'iPhone 17 Pro' and 'Dyson Air Purifier'. (5) Closing text provides instructions to 'Log in receipts' and a call to action to visit the Instagram bio link."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 62,
+      "averageSceneDuration": 1.47,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Skit Intro -> Musical Product Performance -> Direct Promotional Appeal"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 6,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main creator, 1 female lead, 1 male support, and 5 mascot performers.",
+      "mainCharacterDescription": "A male influencer with reddish-brown hair and glasses, wearing a white shirt under a red knitted cardigan and white textured cargo pants."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Initially a minimalist living room with a pink sofa; later shifts to a brightly lit studio filled with product boxes, festive Lunar New Year decorations, and a green curtain.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Unknown",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Kuai Kuai Snacks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "SupaMop",
+        "乖乖"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut from dialogue to music",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 5,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, energetic, and humorous",
+        "pitch": "High-pitched",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking and singing",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Dance Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock",
+        "Original Jingle"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cheering",
+        "Sizzling",
+        "Spinning sound"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Musical Performance -> Feature Demo -> CTA",
+      "mainPurpose": "To promote a cross-brand collaboration between SupaMop and the snack brand Kuai Kuai. It uses a festive Lunar New Year theme to market a specific mop product and a concurrent lucky draw campaign offering high-value prizes like iPhones and Dyson products.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product demonstration, verbal promotion of brand names, and display of specific marketing slogans and prize information.",
+      "endorsementObject": [
+        "SupaMop",
+        "乖乖"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The high-speed comedic delivery and over-the-top expressive style characteristic of influencer Cai Aga.",
+      "freeDescribe": "The video effectively utilizes traditional Taiwanese cultural symbols (God of Wealth, Kuai Kuai snacks) to create a sense of nostalgia and festivity, which is then pivoted into a modern commercial promotion."
+    }
+  }
+}

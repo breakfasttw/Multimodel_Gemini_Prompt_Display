@@ -1,0 +1,169 @@
+{
+  "videoName": "1105ya-20250903053214-1229684089111072.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 23,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Dance",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts in a hotel room. A woman wearing a white 'CHANEL' beanie and white long-sleeved shirt is leaning over a bed, trying to wake up another woman who is sleeping under a white duvet. (2) The sleeping woman, wearing a blue and white polka-dot pajama set, sits up and looks confused. (3) The scene shifts slightly to the center of the hotel room where the same woman in pajamas stands in white slippers and performs a rhythmic, choreographed '32-step' dance routine, moving her legs and arms in sync with a beat. (4) The video ends with her completing the dance and striking a final pose looking towards the camera.",
+      "audio_narrative_log": "(1) The video begins with the sound of a female voice in Mandarin speaking excitedly, accompanied by some rustling sounds of bedding. (2) As the dance begins, an upbeat, high-tempo electronic dance music (EDM) track with a strong, repetitive bass beat starts playing. (3) The music continues at a consistent volume throughout the dance sequence until the video ends.",
+      "text_narrative_log": "(1) '當你睡到一半被妹妹叫醒' - Hook text at the top, humorous tone. (2) '欸，姐！', '起來', '你不是要跳32步嗎？', '32步？' - Functional subtitles translating the conversation between the two women. (3) '(直接穿睡衣跳)' - Hook/Decorative text explaining the situation of dancing in pajamas."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 11.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro skit waking up -> Main dance performance"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main dancer, 1 person waking her up in the intro",
+      "mainCharacterDescription": "An East Asian woman with long brown hair, wearing a blue two-piece pajama set with white polka dots and bows, and white hotel slippers."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Hotel Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A typical hotel room with a large bed, white linens, a wooden desk with a TV, luggage, and a doorway leading to a hall.",
+      "lightingStyle": "Natural indoor lighting from a window or warm hotel lamps",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "CHANEL"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut from dialogue to music",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and playful",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Occasional narration at the start",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat EDM",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Action",
+      "mainPurpose": "To create an entertaining short-form video that combines a humorous relatable skit (being woken up) with a display of a popular rhythmic dance challenge, intended for social media engagement.",
+      "visualEmotion": "Humorous and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No clear product placement; the beanie is a common fashion item.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Rhythmic 32-step dance challenge",
+      "freeDescribe": "The video leverages the 'challenge' culture of platforms like TikTok/Douyin, where creators perform specific dances in unusual contexts (e.g., in pajamas immediately after waking up) to garner views."
+    }
+  }
+}

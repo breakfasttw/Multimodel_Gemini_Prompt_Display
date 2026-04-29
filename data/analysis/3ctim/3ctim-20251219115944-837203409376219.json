@@ -1,0 +1,171 @@
+{
+  "videoName": "3ctim-20251219115944-837203409376219.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 20,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Tech Tips"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing a grey flat cap and a blue t-shirt with 'ROOTS TAIWAN' sits on a beige couch, holding an iPhone and looking at the camera with a friendly expression. (2) The camera zooms in to a close-up of the iPhone screen as the man uses his thumb to navigate the lock screen customization menu, tapping on the clock and swiping through color options. (3) The clock font changes to a rainbow gradient, and the man taps 'Done' in the top right corner, then smiles at the camera showing the final result.",
+      "audio_narrative_log": "(1) An energetic male voice begins speaking in Mandarin with a friendly and inviting tone, accompanied by upbeat, mid-tempo electronic background music. (2) The narration becomes instructional, explaining step-by-step how to access the customization settings, with the music maintaining a steady pace. (3) The speaker's tone rises in excitement as he highlights the 'colorful' result, concluding the tutorial as the music fades.",
+      "text_narrative_log": "(1) '嘿 教你如何' (Hey, let me teach you how) appears in yellow text as an energetic hook. (2) '把桌面的時鐘變彩色的' (Change the desktop clock to colorful) appears to state the objective. (3) '來選擇自訂桌布' (Select customize wallpaper) and '自訂' (Customize) appear as functional instructions. (4) '你看彩色就出現了' (Look, colorful appears) and '我的彩色字就出現啦' (My colorful words appeared) serve as enthusiastic captions for the result. (5) '完成' (Done) indicates the end of the process."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 5.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Step-by-step Demo -> Result Reveal"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator presenting the tutorial",
+      "mainCharacterDescription": "A middle-aged man with glasses, wearing a grey flat cap and a blue 'ROOTS TAIWAN' t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A simple indoor setting with a light-colored fabric couch and a plain wall.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "ROOTS",
+        "Apple"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and humorous",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Result",
+      "mainPurpose": "The video is a short-form tech tutorial designed to provide iPhone users with a quick 'life hack' or personalization tip. By demonstrating a specific UI customization feature (changing lock screen clock colors to a gradient), the creator aims to engage tech-curious viewers and provide immediate, actionable value.",
+      "visualEmotion": "Helpful and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video focuses on a software feature of the iPhone rather than promoting a specific third-party product or service for sale.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of '3ctim' branding and a consistent instructional style common to the influencer.",
+      "freeDescribe": "The focus on a specific aesthetic customization (rainbow colors) suggests targeting a demographic interested in personalizing their technology."
+    }
+  }
+}

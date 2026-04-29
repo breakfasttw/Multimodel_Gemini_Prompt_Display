@@ -1,0 +1,180 @@
+{
+  "videoName": "cocowine0205-20250222183505-913773734953549.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 76,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a purple sweater and a grey fluffy hat, stands in a crowded Costco warehouse holding a large yellow box of 'TTL Aged Shaoxing Wine Chicken Noodles'. She is smiling and gesturing towards the product. (2) Close-up shots show the product's price tag and stacked boxes on industrial shelving. (3) The scene transitions to an indoor apartment setting where the woman, now wearing a black beret and white sweater, opens the box and removes a package of noodles. (4) Close-up shots of hands opening seasoning packets and pouring them into a pan on a stove. (5) The noodles are seen simmering in a dark brown broth in a frying pan. Tongs are used to stir and lift small chunks of chicken. (6) Two women sit at a table, each holding a bowl of noodles, using chopsticks to eat and talking directly to the camera with expressive facial reactions.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop music begins immediately. A high-pitched, energetic female voice speaks rapidly in Mandarin, describing her discovery at the warehouse. (2) Intermittent sound effects, including a cash register ding and a 'pop' sound, occur during text transitions. (3) The acoustic environment shifts to a cleaner, studio-like recording as the same female voice narrates the cooking process. (4) Sounds of plastic crinkling and the bubbling of boiling water are audible. (5) In the final segment, two female voices are heard in conversation, maintaining a lively and humorous tone, accompanied by soft slurping sounds.",
+      "text_narrative_log": "(1) 'COSTCO WHOLESALE' and '能贏花雕雞麵?' (Hook: 'Can it beat Hua Diao Chicken Noodles?') appear in bold colors. (2) '台酒 陳紹雞肉麵' (Functional: 'TTL Shaoxing Chicken Noodles'). (3) '$255元' and '每包42.5' (Functional: Price details). (4) '窯藏20年' (Hook: 'Cellar aged 20 years'). (5) Variety-show style captions like '小塊小塊的' (Descriptive: 'Small pieces') and '加7塊錢吃花雕雞' (Opinion: 'Spend 7 more dollars to eat Hua Diao Chicken') appear with emotional emphasis."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Product Discovery -> Preparation/Cooking -> Tasting Review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main female creator throughout, 1 female friend appearing in the final tasting segment.",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a trendy purple sweater and various hats (grey fluffy hat and black beret)."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse",
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Industrial warehouse shelves filled with bulk goods (Costco); a modern home kitchen and dining area with warm lighting.",
+      "lightingStyle": "Bright indoor lighting and overhead warehouse lights.",
+      "weather": "Indoor",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Handheld",
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Instant Noodles",
+        "Chicken Broth"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Induction Stove"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "TTL",
+        "KANGOL"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and conversational",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cash Register Ding",
+        "Pop Sound"
+      ],
+      "ambientNoise": [
+        "Warehouse echo",
+        "Boiling water"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Experience -> Verdict",
+      "mainPurpose": "The video serves as a consumer food review, specifically evaluating a new bulk instant noodle product from Costco Taiwan. It aims to inform viewers about the product's price, contents, preparation ease, and taste compared to a well-known competitor (Hua Diao Chicken Noodles) to help them decide if it is worth the purchase.",
+      "visualEmotion": "Energetic and Curious"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed product demonstration, price callouts, and brand logo visibility (TTL and Costco).",
+      "endorsementObject": [
+        "TTL",
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-show style text overlays and fast-paced editing commonly found in Taiwanese social media lifestyle content.",
+      "freeDescribe": "The comparison between the price point and the quantity of chicken pieces is a key factor likely to resonate with budget-conscious food enthusiasts, affecting the clustering as 'Product Review' and 'Value Analysis'."
+    }
+  }
+}

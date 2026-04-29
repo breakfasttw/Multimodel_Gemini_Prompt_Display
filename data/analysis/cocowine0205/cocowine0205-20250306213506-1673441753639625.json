@@ -1,0 +1,177 @@
+{
+  "videoName": "cocowine0205-20250306213506-1673441753639625.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 39,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping Guide",
+        "Promotion"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taoyuan"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a close-up of a Costco price tag for 'Alaskan Smoked Sockeye' priced at $500, with a woman's hand pointing at the figure. (2) A young woman with long dark hair, wearing a white blouse and a black vest, picks up two vacuum-sealed packs of smoked salmon and shows them excitedly to the camera. (3) She holds the salmon close to her face while talking and gesturing with her hands. (4) Another hand enters the frame from the left to point at the expiration date on the package. (5) The woman puts the salmon back on the shelf and then points at other products in the refrigerated section of the warehouse club.",
+      "audio_narrative_log": "(1) A female voice asks a question off-camera, followed by another female voice (the main character) responding with a high-pitched, excited tone about the discount from $799 to $500. (2) Upbeat, rhythmic pop-style background music with a steady beat begins. (3) The main character continues to speak rapidly about the value of the product, with audible sounds of plastic packaging being handled. (4) A second female voice joins the conversation briefly to ask about the expiration date. (5) The audio concludes with the main speaker giving a location recommendation over the music and ambient hum of a commercial refrigerator.",
+      "text_narrative_log": "(1) '限時特價 超便宜燻鮭魚' (Limited time special, super cheap smoked salmon) - Hook text with a bold, colorful style. (2) '你是銷售人員嗎' (Are you a sales person?) - Functional dialogue text. (3) '原價799現在只要500塊' (Original price 799 now only 500) - Functional price information. (4) '折了299元' (Discounted by 299 yuan) - Emphasis text. (5) '太便宜了吧' (Too cheap!) - Decorative emotional hook. (6) '我們在桃園南崁店' (We are at the Taoyuan Nankan store) - Functional location information."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.25,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook (Price reveal) -> Product demonstration -> Comparison/Value proof -> Location CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main female creator on screen, 1 female hand/voice interacting off-camera",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a light-colored long-sleeve blouse under a dark sleeveless vest, featuring light makeup and an energetic expression."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Club",
+          "Supermarket"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The interior of a Costco warehouse, specifically the refrigerated food aisle with shelves stocked with Kirkland Signature packaged meats and smoked salmon.",
+      "lightingStyle": "Bright, uniform industrial fluorescent lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Smoked Salmon",
+        "Packaged Meat"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "Kirkland Signature"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with synced BGM",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Refrigerator hum"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Information -> Validation -> Recommendation",
+      "mainPurpose": "The video serves as a shopping recommendation and promotion for a specific discount on Kirkland Signature Smoked Salmon at Costco's Taoyuan Nankan branch. It uses high-energy delivery and price comparisons to convince the audience of the product's value and urgency.",
+      "visualEmotion": "Energetic and Enthusiastic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed focus on brand name, price savings, and specific store location.",
+      "endorsementObject": [
+        "Kirkland Signature",
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-frequency text overlays and fast-paced conversational style typical of Taiwanese lifestyle influencers.",
+      "freeDescribe": "The video leverages the 'treasure hunting' aspect of Costco shopping to engage viewers interested in discounts and grocery deals."
+    }
+  }
+}

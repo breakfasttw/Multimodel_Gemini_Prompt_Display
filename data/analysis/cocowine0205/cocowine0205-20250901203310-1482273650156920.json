@@ -1,0 +1,180 @@
+{
+  "videoName": "cocowine0205-20250901203310-1482273650156920.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 30,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Promotional",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a young woman wearing a black beret and a black off-the-shoulder top standing in a Costco warehouse. She is looking into a refrigerated display case filled with round containers of spread. (2) Close-up shots show rows of 'Maple Walnut Cheese Spread' priced at 191 NTD. (3) The camera pans across the large stock of spreads in the freezer. (4) The woman gestures towards the freezer, looks at the camera with an expressive face, and gives a thumbs-up at the end.",
+      "audio_narrative_log": "(1) A high-pitched, enthusiastic male voice begins narrating immediately about a sale at Costco. (2) Upbeat, fast-tempo background music starts and continues throughout the video. (3) The male narrator describes the specific discount (48 dollars off) and the versatility of the spreads (for pasta or risotto). (4) Faint ambient noise of a busy supermarket and shopping carts can be heard in the background.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles translate the male narrator's speech throughout. (2) Decorative/Hook Text: Large, colorful text overlays appear saying '限時優惠趕快搶' (Limited time offer, grab it now) with an energetic tone. (3) '所有抹醬都8折' (All spreads 20% off) and '所有抹醬都折48元' (All spreads discounted by 48 dollars) appear in yellow and red to emphasize the value. (4) '存量超多的' (Massive stock) appears over shots of the full freezer."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Product Close-up -> Explanation of Deal -> Usage Suggestions -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 6,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female character, approximately 5 passers-by visible in the background of the warehouse.",
+      "mainCharacterDescription": "A young Asian woman with long dark hair wearing a black Kangol beret and a black off-the-shoulder top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Supermarket"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The interior of a Costco Wholesale warehouse, showing high metal shelving, shopping carts, refrigerated display cases, and other shoppers.",
+      "lightingStyle": "Bright, even industrial lighting typical of a warehouse.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Cheese Spread",
+        "Bagels",
+        "Walnuts"
+      ],
+      "trafficDetect": [
+        "Shopping Cart"
+      ],
+      "techDetect": [
+        "Refrigerated Display Case"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "KANGOL"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Warehouse quiet",
+        "Chatter"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Information -> Demonstration -> Social Proof",
+      "mainPurpose": "The video serves as a promotional shopping guide intended to alert Costco members in Taiwan about a significant limited-time discount on popular cheese spreads. By combining enthusiastic off-screen narration with on-screen visual confirmation of stock and price, it aims to drive immediate foot traffic to the store.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video focuses entirely on a specific product deal at a named retailer (Costco) and uses promotional language and graphics.",
+      "endorsementObject": [
+        "Costco Wholesale",
+        "Maple Walnut Cheese Spread"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy male 'hype' narration paired with a female 'silent' model on screen.",
+      "freeDescribe": "Typical social media 'bargain hunter' content style prevalent in Asian markets, emphasizing speed and savings."
+    }
+  }
+}

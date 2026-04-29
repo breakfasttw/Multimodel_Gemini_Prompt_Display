@@ -1,0 +1,173 @@
+{
+  "videoName": "yga0721-20250806214413-1408898277454591.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 28,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping",
+        "Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Chiba"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man wearing a white t-shirt, white cap, and a purple crossbody bag stands in a convenience store aisle holding Lawson-branded merchandise. (2) The scene cuts between the man showing a blue and white pouch and a night light, and close-up shots of the products on the store shelves. (3) The man picks up a large rectangular box containing a blue cushion shaped like a Lawson sign, expressing high excitement through wide eyes and a beaming smile. (4) A woman's hand occasionally enters the frame, pointing at the products as the man continues to showcase the anniversary collection.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced background music begins immediately alongside an energetic male voice speaking Mandarin. (2) As the male voice continues to describe the items enthusiastically, faint ambient noise from the convenience store and occasional female laughter can be heard in the background. (3) The vocal intensity remains high until the end of the recording, with the music maintaining a steady, poppy rhythm throughout.",
+      "text_narrative_log": "(1) Decorative/Hook Text: \"Lawson50週年紀念商品 快傳給現在在日本的家人朋友\" (Lawson 50th Anniversary Commemorative Products, quickly send to family and friends in Japan) appears in a blue banner at the top. (2) Functional Text: Subtitles appear at the bottom, translating the narrator's enthusiastic speech about where to find the items and what they are. (3) Functional Text: Price tags and product names like \"BIGサイズ\", \"ルームライト\", and \"2990円\" are visible on the product packaging."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Product Demonstration -> Store Context -> Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 1 female camera person (hands and voice), 1 male passerby in the background aisle.",
+      "mainCharacterDescription": "The main character is a young adult male with a white cap, a white t-shirt, and a purple crossbody bag. He is highly expressive and energetic."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Convenience Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A typical Japanese convenience store interior with shelves stocked with magazines, books, snacks, and various household goods. Fluorescent lighting illuminates the aisles.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and Saturated",
+      "cameraWork": [
+        "POV",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Lawson"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Product Demo -> Geographic Context -> Call to Action",
+      "mainPurpose": "The video is a promotional vlog meant to generate 'FOMO' (fear of missing out) regarding limited-edition Lawson 50th-anniversary merchandise. The creator uses a high-energy, persuasive persona to showcase the variety and aesthetic appeal of the items (pouch, light, cushion) while providing specific geographical tips (finding them in Chiba versus major cities) to encourage immediate purchase or social sharing.",
+      "visualEmotion": "Energetic and Enthusiastic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct verbal recommendation, close-up shots of brand logos, and enthusiastic display of products.",
+      "endorsementObject": [
+        "Lawson"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy variety-show style presentation, use of 'hook' text overlays to drive engagement.",
+      "freeDescribe": "The video effectively utilizes the creator's personality to make a standard product showcase feel like an urgent travel discovery, likely targeting Taiwanese tourists or residents in Japan."
+    }
+  }
+}

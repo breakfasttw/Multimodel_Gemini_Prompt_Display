@@ -1,0 +1,167 @@
+{
+  "videoName": "0_shufen-20251208135743-2660784704301085.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 10,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Tainan"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair and sunglasses on her head smiles and looks into the camera, wearing a floral dress and black jacket in an outdoor setting. (2) The scene cuts to a black and white cat crouching under the chassis of a parked vehicle on a brick-patterned ground. (3) The cat opens its mouth wide, making exaggerated facial expressions as if responding to a question, while the camera remains static on the animal.",
+      "audio_narrative_log": "(1) Upbeat electronic BGM starts with a high-pitched female voice saying 'Meow meow' in a rhythmic manner. (2) The same female voice asks a question in Mandarin with a cheerful, curious tone. (3) A distorted, screechy cat sound effect plays as a meme-style SFX, followed by the female voice speaking again with a slightly disappointed or humorous questioning tone.",
+      "text_narrative_log": "(1) '喵喵' (Meow meow) - Decorative text mimicking a cat sound. (2) '(衝三小)' - Humorous variety-style caption expressing 'What on earth?'. (3) '我的姻緣在台南嗎?' - Functional subtitle asking 'Is my fate/marriage in Tainan?'. (4) '(靠邀喔)' - Humorous decorative text using Taiwanese slang for exclamation. (5) '沒有啊..?' - Functional subtitle translating the final spoken response 'None..?'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 5.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Questioning the cat for a humorous response"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator visible at the start",
+      "mainCharacterDescription": "A young woman with long dark hair, wearing sunglasses on her head, a black jacket, and a floral dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene shows a building facade; second scene shows the undercarriage and tire of a car parked on red brick pavement.",
+      "lightingStyle": "Natural light",
+      "weather": "Sunny",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Cat"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and humorous",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Meme sounds"
+      ],
+      "ambientNoise": [
+        "Street"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Question -> Reaction",
+      "mainPurpose": "The video is a short comedy vlog intended for social media engagement. It uses a relatable theme of seeking romantic guidance from an unlikely source (a stray cat). The humor is derived from the anthropomorphic interpretation of the cat's expressions through text and sound effects.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of Taiwanese slang and variety-show style animated captions.",
+      "freeDescribe": "The video leverages the popularity of animal content combined with personal storytelling to create a lighthearted, shareable clip."
+    }
+  }
+}

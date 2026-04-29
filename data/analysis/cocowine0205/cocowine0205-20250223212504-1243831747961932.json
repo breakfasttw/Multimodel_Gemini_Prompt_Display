@@ -1,0 +1,192 @@
+{
+  "videoName": "cocowine0205-20250223212504-1243831747961932.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 90,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Promotion",
+        "Shopping Guide"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a product showcase format with non-live action graphic overlays; it opens with a title card featuring a cartoon character and the Costco logo. (2) A rapid series of shots follows, each displaying a specific food or household product on store shelves or in refrigerators at Costco. (3) Each shot transition is a quick cut, showing items like beef, seafood, snacks, coffee, detergent, and wine, with a consistent text overlay indicating price drops. (4) The video concludes with a sequence of dairy and prepared food items before ending abruptly.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic background music plays continuously throughout the video. (2) A solo male voice provides a fast-paced narration, speaking in Mandarin to announce each product name and its discounted price in synchronization with the visual cuts. (3) The audio remains consistent in its promotional tone, with no significant ambient noise or sound effects detected beyond the voice-over and music.",
+      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese that translate the narrator's announcements of product names and price changes. (2) Decorative/Effect Text: A prominent title card at the start says 'Costco Wholesale 好市多 每週特價速報 02/17-02/23' (Costco Weekly Special Report). (3) Hooks: On-screen text like '記得追蹤我們' (Remember to follow us) appears periodically to encourage engagement. (4) Price Overlays: Each product features text showing '原價' (Original Price), a minus sign with the discount, and '特價' (Special Price) in bold colors."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 46,
+      "averageSceneDuration": 1.95,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Rapid List of Discounted Products -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 0,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 0,
+      "bodyPartVisibility": [
+        "None"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "No humans are visible in the frame; only products and graphics are shown.",
+      "mainCharacterDescription": "None"
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The backgrounds consist of various aisles within a Costco warehouse, including refrigerated meat sections, snack shelves, and beverage stacks.",
+      "lightingStyle": "Bright indoor commercial lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Cat (on packaging)"
+      ],
+      "foodsDetect": [
+        "Beef",
+        "Chicken",
+        "Fish",
+        "Lamb",
+        "Oatmeal",
+        "Chocolate",
+        "Candy",
+        "Seaweed",
+        "Pork Jerky",
+        "Fruit",
+        "Noodles",
+        "Bread"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Quaker",
+        "Artisanal Treats",
+        "Bodygoals",
+        "Kirkland Signature",
+        "Starbucks",
+        "Arm & Hammer",
+        "Aixia",
+        "Binggrae",
+        "Tseng Noodle",
+        "Ottogi",
+        "Klim"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Itemized Product List -> Call to Action",
+      "mainPurpose": "The video serves as a weekly promotional guide for Costco Taiwan, aiming to inform customers of specific time-limited discounts on groceries and household items to drive foot traffic and social media engagement.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed display of specific brand-name products alongside their sale prices within the store environment.",
+      "endorsementObject": [
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of 'Wreck-It Ralph' avatar graphic and a consistent fast-paced '速報' (bulletin) narration style.",
+      "freeDescribe": "This is a typical short-form 'shopping hack' video designed for high information density and rapid consumption on platforms like TikTok or Instagram Reels."
+    }
+  }
+}

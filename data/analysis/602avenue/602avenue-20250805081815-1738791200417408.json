@@ -1,0 +1,179 @@
+{
+  "videoName": "602avenue-20250805081815-1738791200417408.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 15,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Daily Life",
+        "Professional Life"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Seoul"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman wakes up in a white hotel bed, stretching her arms and yawning. (2) She is in a bathroom, carefully using an eyelash curler while looking into the mirror. (3) She sits in a restaurant wearing a green apron, holding up a piece of meat with chopsticks. (4) She drinks a liquid vitamin from a small pouch. (5) She stands in a large hall holding a tablet, looking focused as if rehearsing. (6) A series of quick cuts shows different Korean celebrities (Nana, Lee Min-ho, Lee Seung-gi, and others) posing for photos at a press event wall. (7) The woman collapses face-down onto her hotel bed, fully dressed, showing fatigue.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic/hip-hop music begins immediately with a consistent rhythmic beat. (2) As the visuals transition to the celebrity press event, distinct camera shutter sound effects (SFX) are layered over the music. (3) The music remains at a steady volume and tempo throughout the entire duration without any spoken vocals or dialogue.",
+      "text_narrative_log": "(1) 'POV 韓星採訪者的24小時' (POV: 24 Hours of a Korean Celebrity Interviewer) - Hook/Main Title. (2) '08:00AM 在江南飯店起床' (Waking up at a Gangnam hotel) - Informational/Context. (3) '09:00AM 上鏡頭前打扮' (Dressing up before going on camera) - Informational. (4) '11:00AM 採訪前吃韓式菜白肉' (Eating Korean pork before interview) - Informational. (5) '12:00PM 吃維他命' (Taking vitamins) - Informational. (6) '13:00PM 韓星採訪彩排' (Rehearsal for Korean celebrity interview) - Informational. (7) '14:00PM 韓星採訪 & 參與記者會' (Korean celebrity interview & attending press conference) - Informational. (8) '16:00PM 收工後廢在床上' (Lying in bed after finishing work) - Humorous/Relatable Tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 1.25,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro (waking up) -> Preparation -> Work (Interviews/Event) -> Outro (exhaustion)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 10,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 6,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female main character, at least 6 distinct celebrities at the photo wall, and a few blurred staff in the background.",
+      "mainCharacterDescription": "A young Asian woman with long brown hair, wearing a white blouse during the day and grey trousers."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Hotel Room",
+          "Indoor Bathroom",
+          "Indoor Restaurant",
+          "Event Hall"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern hotel room with white linens; a bathroom with a mirror and marble-like walls; a traditional Korean restaurant with wooden tables; an event hall with a large white backdrop featuring Korean text.",
+      "lightingStyle": "Mixed: Soft indoor lighting in the hotel, bright fluorescent light in the restaurant, and harsh camera flashes at the event.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Korean Pork",
+        "Side dishes"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Tablet"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "TERRA"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "None"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Electronic Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Camera Shutter"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Morning routine -> Work -> Evening exhaustion",
+      "mainPurpose": "To provide a highly stylized and fast-paced look into the professional life of a Korean entertainment journalist, contrasting the glamorous celebrity-filled work environment with the mundane and tiring aspects of the job.",
+      "visualEmotion": "Energetic and Professional"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "While a 'Terra' apron is visible, it appears as part of a standard restaurant setting rather than a focused product placement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-frequency timestamp text overlays to track a full day's activities.",
+      "freeDescribe": "The video utilizes popular 'POV' and 'A Day in the Life' formats to build engagement through relatability and access to celebrity culture."
+    }
+  }
+}

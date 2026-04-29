@@ -1,0 +1,184 @@
+{
+  "videoName": "3ctim-20250919225243-1449076027006992.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 41,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Unboxing",
+        "Commercial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a close-up of a hand holding a metallic orange phone with a large triple-lens camera module, followed by an orange leather wallet. (2) A male presenter wearing a blue hat and glasses appears, unboxing the phone from its white packaging and holding it up to show the camera lenses and the back of the device. (3) A series of three outdoor photographs are displayed rapidly, demonstrating 1X, 2X, and 4X zoom capabilities. (4) The scene shifts to the presenter demonstrating a face-tracking camera feature with three other people in the background; the camera framing automatically adjusts as they move. (5) The presenter returns to a medium shot, showing the phone's front screen and back, then proceeds to snap an orange case and a MagSafe wallet onto the phone. (6) The video concludes with a shot of the presenter behind a glass display case filled with various smartphone boxes inside a retail store.",
+      "audio_narrative_log": "(1) Energetic, upbeat electronic background music plays. A male voice speaks with an enthusiastic, professional tone, describing the launch of the new phone, its 48-megapixel camera, and MagSafe charging specs. (2) A sharp camera shutter sound effect plays three times during the photo montage. (3) The male voice continues explaining front camera updates, accompanied by ambient indoor noise and light laughter/chatter from other people during the camera tracking demo. (4) The audio features rhythmic snapping sounds as plastic and magnetic accessories are attached to the phone. (5) The music continues at a steady pace as the speaker concludes with a call to action recommending a specific mobile shop.",
+      "text_narrative_log": "(1) Functional Text: 'iPhone 17 Pro Max 全系列' (iPhone 17 Pro Max full series) and '含配件開箱' (Includes accessory unboxing) appearing as main titles. (2) Functional Text: Bullet points for specs including '4800萬畫素' (48 million pixels), 'MagSafe 25W', '有線充電 40W'. (3) Functional Text: Zoom indicators '1X', '2X', '4X' during photo samples. (4) Decorative/Hook Text: '前鏡頭大更新!' (Front lens major update!) in a bold yellow variety-show style. (5) Functional Text: 'A19 Pro 處理器' and '電池續航 39小時'. (6) Decorative Text: '超搭!' (Super matching!) with star emojis. (7) Hook Text: '推薦大家買手機到miko' (Recommend everyone to buy phones at miko) at the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Feature Breakdown -> Camera Demo -> Accessories -> Store CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male host, 1 male and 2 female friends appearing during the camera demo.",
+      "mainCharacterDescription": "Adult male wearing a grey flat cap, glasses, a green jacket over a pink t-shirt, and wooden bead bracelets."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Outdoor Park",
+          "Mobile Phone Store"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The video moves between a neutral grey studio background, an outdoor path with trees and pedestrians for photo tests, and a bright retail store with glass counters and phone boxes.",
+      "lightingStyle": "Bright studio lighting and natural outdoor daylight.",
+      "weather": "Sunny",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Smartphone Case",
+        "MagSafe Wallet"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple",
+        "vivo",
+        "realme",
+        "miko"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX synchronization",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 3,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Medium",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Camera shutter",
+        "Magnetic click"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Outdoor chatter"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Spec Listing -> Practical Demo -> Cross-promotion",
+      "mainPurpose": "The video aims to provide a fast-paced review of the iPhone 17 Pro Max's new features (camera, battery, MagSafe) while simultaneously acting as a commercial endorsement for the 'miko' mobile phone retail chain to drive sales.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct verbal recommendation and on-screen text recommending the store at the end of the video.",
+      "endorsementObject": [
+        "miko 米可手機館"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host 'Tim' wearing a signature blue hat and glasses; '3c有意思tim哥' brand watermark.",
+      "freeDescribe": "The video uses a high-energy variety show editing style typical of Taiwanese tech influencers to maintain engagement."
+    }
+  }
+}

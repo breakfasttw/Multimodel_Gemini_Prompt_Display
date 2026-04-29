@@ -1,0 +1,174 @@
+{
+  "videoName": "602avenue-20251004223902-1452990086411173.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 8,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Reaction",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Chiayi"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a close-up of a young woman with long dark hair, looking off-camera with a surprised and curious facial expression. (2) The scene cuts to a POV perspective of a traffic light at a city intersection; the pedestrian signal shows a red figure performing a 'scolding' or animated gesture, which then transitions to a green figure that begins walking and eventually runs at high speed as the timer counts down. (3) The scene cuts back to the woman, who covers her mouth with her hand, laughing and showing a delighted reaction to the unique traffic signal.",
+      "audio_narrative_log": "(1) A playful, upbeat lo-fi swing track with a steady percussion beat and woodwind melody starts immediately. No vocals are detected. (2) The music continues as the primary sound; faint ambient noise of motorcycle engines and urban traffic is audible in the background. (3) The background music maintains a constant volume and tempo until the video ends; no speech or sound effects are present.",
+      "text_narrative_log": "(1) 'POV' - Decorative hook positioned at the top of the frame. (2) '韓國人第一次看到嘉義紅綠燈 🚦' and 'First Reaction to Chiayi's Traffic Light' - Central hook text providing context in Traditional Chinese and English. (3) '???' - Decorative text used to emphasize the woman's initial confusion at the red light's animation."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 2.66,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Reaction -> Subject Reveal -> Reaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Head and shoulders",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, at least 2 passers-by on motorcycles visible in the street background.",
+      "mainCharacterDescription": "A young Asian woman with long black hair, wearing a white t-shirt with a My Melody cartoon graphic and a white scrunchie on her wrist."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "An urban street in Chiayi with multi-story buildings, traffic lights, and motorcycles passing through the intersection.",
+      "lightingStyle": "Natural daylight",
+      "weather": "Clear",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Motorcycle",
+        "Traffic Light"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "My Melody"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "None"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Swing/Lo-fi",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Percussion",
+        "Woodwind"
+      ],
+      "instrumentsAudible": [
+        "Drums",
+        "Clarinet"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Traffic"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Observation -> Reaction",
+      "mainPurpose": "The video aims to entertain the audience by showcasing a unique and humorous local feature of Chiayi, Taiwan—the animated pedestrian traffic signals—through the lens of a foreign tourist's genuine surprise and delight.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Korean tourist perspective on Taiwanese culture.",
+      "freeDescribe": "The video relies heavily on visual humor and the juxtaposition of the woman's reaction with the quirky animation of the traffic light."
+    }
+  }
+}

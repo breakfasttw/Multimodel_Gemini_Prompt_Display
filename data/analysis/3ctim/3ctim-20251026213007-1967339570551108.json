@@ -1,0 +1,175 @@
+{
+  "videoName": "3ctim-20251026213007-1967339570551108.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 42,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing a grey flat cap and glasses is seated in the driver's seat of a modern car, speaking directly to the camera with expressive hand gestures. (2) The scene cuts to a close-up of the car's central infotainment screen where a finger navigates through 'System Settings' and 'Reset Vehicle Data' menus. (3) The view shifts to the center console where the man's finger presses and holds the silver volume knob button. (4) The infotainment screen is shown turning black (rebooting) and then displaying the startup map interface. (5) The man returns to the frame, gesturing with both hands while explaining the outcome.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music starts immediately. A male voice speaks enthusiastically in Mandarin. (2) Brief, high-pitched digital sound effects (SFX) play whenever variety-show style text pops up on screen. (3) The background music remains consistent in volume as the male narration explains the technical steps. (4) The audio concludes with a final summary sentence from the male speaker as the music fades.",
+      "text_narrative_log": "(1) Hook: '當你開心出遊結果呢...' (When you go out happily but...) in a playful tone. (2) Functional: '藍牙無法與車子連線' (Bluetooth cannot connect with the car) and '車子系統整個都當掉' (The car system is completely frozen). (3) Decorative: '該抓' (Should fix/Check this out) and '錯' (Wrong) appear in large, bold font. (4) Instructional: '長按音量鍵超過30秒' (Long press the volume button for over 30 seconds) and '重新開關機' (Reboot)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Problem Hook -> Menu Navigation Error -> Correct Hardware Solution Demo -> Final Success Summary"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator presenting the content.",
+      "mainCharacterDescription": "Middle-aged male wearing a grey flat cap, glasses, a black t-shirt with a white graphic, and a yellow wristband."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Car"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Interior of a modern BMW vehicle, showing the driver's seat, steering wheel, large curved digital infotainment screen, and center console.",
+      "lightingStyle": "Natural daylight through car windows and sunroof.",
+      "weather": "Clear",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Infotainment Screen",
+        "Smartphone",
+        "Digital Dashboard"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "BMW"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and educational",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Digital Pops",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Car interior"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Problem -> Misconception Correction -> Direct Demo -> Result",
+      "mainPurpose": "To instruct BMW car owners on the correct method to force-reboot the iDrive system using the physical volume knob when the software interface freezes or Bluetooth fails to connect, emphasizing hardware shortcuts over menu settings.",
+      "visualEmotion": "Informative, energetic, and practical."
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "Content is presented as a helpful tech tip/life hack for existing car owners rather than a product promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-show style text overlays and a trademark '3c' themed intro/branding.",
+      "freeDescribe": "The video follows a standard social media 'short-form tutorial' format with a fast pace and high visual information density to maintain user attention."
+    }
+  }
+}

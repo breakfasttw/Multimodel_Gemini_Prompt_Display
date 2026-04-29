@@ -1,0 +1,192 @@
+{
+  "videoName": "602avenue-20260219004708-3415625351910325.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 61,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taichung"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a young female creator expressing surprise, followed by shots of a seafood buffet featuring crab and mussels. (2) She transitions to an outdoor courtyard and then a restaurant setting, where she enjoys roast chicken and soup. (3) The scene shifts to the creator relaxing in various hot springs, including a public outdoor pool and a private indoor tub. (4) Night shots show her enjoying a luxury hotel room and a night-view balcony. (5) The next day, she visits a beer factory with colorful murals and then eats at a Cantonese restaurant, showing close-ups of crispy roast pork. (6) Finally, she walks through a scenic park with a red bridge and spots black swans in a pond, ending with a tourism logo animation.",
+      "audio_narrative_log": "(1) Energetic, upbeat pop-style background music plays throughout. (2) A female voice speaks in an enthusiastic and friendly tone, narrating her experiences. (3) Occasional male voiceover provides context and transition details. (4) Ambient sounds are minimal, but there are crisp sound effects (SFX) such as a 'crunch' sound when eating crispy pork and 'bling' sounds for text appearing. (5) The music maintains a high tempo with a consistent beat that matches the fast-paced editing.",
+      "text_narrative_log": "(1) Hook text: '韓國人首次體驗!! 臺中溫泉吃到飽buffet' (Korean's first experience! Taichung hot spring buffet) in an excited tone. (2) Functional text: Locations are labeled such as '麒麟峰溫泉料理', '日光溫泉會館', and '清新溫泉飯店'. (3) Descriptive text: '口感Q嫩! 肉汁爆發!' (Q-tender texture! Juice explosion!) and '超豐富!' (Super rich!) used to emphasize food quality. (4) Decorative text: '2024-2025 TAIWAN 臺灣好湯' logo at the end for branding."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.45,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Food Montage -> Hot Spring Experience -> Hotel Stay -> Sightseeing -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 1 female staff member visible briefly, 2 male/female passers-by in the park background.",
+      "mainCharacterDescription": "A young Asian woman with long brown hair, wearing a brown ribbed sweater, a grey hoodie with shorts, and a floral dress at different stages."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Outdoor Street",
+          "Hotel Room",
+          "Hot Spring",
+          "Park"
+        ],
+        "topography": [
+          "Plain",
+          "Urban Garden"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Diverse locations including a seafood buffet station, a traditional styled restaurant, modern hot spring facilities, a luxury hotel room with a city view, a beer factory with giant murals, and a green park with a pond.",
+      "lightingStyle": "Bright, natural daylight for outdoors and warm, soft lighting for indoor hotel/restaurant scenes.",
+      "weather": "Sunny",
+      "season": "Winter/Spring (based on clothing and text referencing winter supplements)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English",
+          "Korean"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and High Saturation",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Follow shot",
+        "Panning"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Swan"
+      ],
+      "foodsDetect": [
+        "Crab",
+        "Mussels",
+        "Chicken",
+        "Pork",
+        "Soup",
+        "Beer"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Autumn Red Valley (Maple Garden)"
+      ],
+      "brandLogos": [
+        "Taiwan Beer",
+        "Seven-Eleven",
+        "TAIWAN 臺灣好湯"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "Moderate-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Bling",
+        "Eating crunch",
+        "Transition swish"
+      ],
+      "ambientNoise": [
+        "Water splashing",
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Sequence of recommended spots (Eat -> Soak -> Stay -> Visit) -> Conclusion",
+      "mainPurpose": "To promote tourism in Taichung, specifically highlighting its hot spring resorts and diverse culinary scene through a vlog-style 'first-person' experience recommendation, likely targeting food and travel enthusiasts.",
+      "visualEmotion": "Energetic and relaxing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct mention of various hotel and restaurant names, ending with the official 'Taiwan Hot Spring' logo and timeframes.",
+      "endorsementObject": [
+        "Taiwan Hot Spring (臺灣好湯)"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Korean-perspective hook for Taiwanese content, fast-paced 'variety show' style text overlays.",
+      "freeDescribe": "The video utilizes a high density of visual cuts and text to maintain viewer engagement. It blends food reviews with travel accommodation showcases."
+    }
+  }
+}

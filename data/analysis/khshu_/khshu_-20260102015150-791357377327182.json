@@ -1,0 +1,178 @@
+{
+  "videoName": "khshu_-20260102015150-791357377327182.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 32,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Life Hack"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a reaction-style split screen: the top shows a man demonstrating how to untie a plastic bag knot easily, while the bottom left shows a man in glasses reacting with surprise. (2) A young woman in a blue shirt appears, holding a plastic bag tied in a knot. She mimics the man's technique by twisting the knot tightly. Her expression changes from curiosity to confusion and then to frustration as the knot refuses to budge. (3) Graphic fire effects appear behind her as she looks angry. She tries twisting it even harder and more rapidly, but it remains stuck. (4) Finally, she laughs at her failure, picks up a pair of large scissors, cuts the bag open with a satisfied smile, and gives a thumbs up to the camera.",
+      "audio_narrative_log": "(1) Upbeat, synthesized cartoon-style music begins. A 'ding' sound effect plays when a lightbulb icon appears. (2) A female voice speaks in an excited and curious tone in Mandarin. Sound effects include a 'swoosh' and a 'poof' sound during the fire transition. (3) The woman's voice becomes more strained and frustrated as she struggles with the bag. A 'clock ticking' sound effect builds suspense, followed by a 'wah-wah-wah' comical failure sound. (4) The woman laughs heartily. A crisp 'snip' sound effect is heard as she uses the scissors, ending with a cheerful final jingle.",
+      "text_narrative_log": "(1) Functional Text: 'Pesky knot? This is the easy way...' (2) Decorative Text: '千千好吃驚?!' (Qianqian is surprised?! - excited tone), '好像沒用?' (Seems useless? - skeptical tone), '再轉一遍' (Turn it again - determined tone), '(生氣)' (Angry - frustrated tone), '騙人吧' (Liar/Scam - humorous tone), '好像 並沒有' (Seems like... not at all - resigned tone), '千千挑戰失敗' (Qianqian challenge failed - defeatist tone), '拿傢伙' (Get the tools/weapon - decisive tone), '剪開' (Cut open), '解開' (Untie/Resolve), '千千不吃驚' (Qianqian is not surprised - confident tone)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Demo -> Attempt -> Struggle -> Failure -> Alternative Solution"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator, 1 man in demonstration video (top), 1 man in reaction frame (bottom left)",
+      "mainCharacterDescription": "A young woman with long dark hair, wearing a white tank top under a light blue button-up shirt and denim shorts."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern indoor kitchen featuring white cabinets, a black countertop, a sink, and a refrigerator with magnets.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "English",
+          "Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Unknown (Inside the plastic bag)"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Refrigerator"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched, excited, and humorous",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Cartoonish",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Swoosh",
+        "Fire crackle",
+        "Clock ticking",
+        "Comical fail sound",
+        "Scissors snip"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Outcome",
+      "mainPurpose": "The video is a humorous 'fail' vlog where the creator attempts to replicate a popular life hack for untying knots. The objective is entertainment through relatable frustration when a seemingly simple trick doesn't work, ultimately concluding with a comedic 'brute force' solution using scissors.",
+      "visualEmotion": "Humorous and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Qianqian's personal branding through variety-show text overlays and expressive comedic reactions.",
+      "freeDescribe": "The video uses typical social media editing tropes like high-saturation text and sound-bite SFX to maintain engagement."
+    }
+  }
+}

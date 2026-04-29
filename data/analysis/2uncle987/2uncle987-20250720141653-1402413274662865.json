@@ -1,0 +1,189 @@
+{
+  "videoName": "2uncle987-20250720141653-1402413274662865.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 35,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping",
+        "Humor"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman in a black and white striped shirt with black overalls stands in a crowded retail aisle, speaking excitedly and gesturing with her hands. (2) A transition screen appears with the text '2000 YEARS LATER' against a floral background. (3) A fast-paced montage follows, showing the woman crouching to pick items, browsing shelves of snacks, toys, and cosmetics. Close-up shots feature specific products like rice seasoning with Doraemon branding, Lululun facial masks, and Dragon Ball collectible boxes. (4) The woman is seen walking through the store with a shopping basket that progressively fills up. (5) In the final scene, she is outside at night, smiling and holding a very large, full shopping bag while making a pinching gesture with her fingers to indicate 'just a little bit'.",
+      "audio_narrative_log": "(1) A female voice speaks rapidly in a cheerful tone, accompanied by upbeat, mid-tempo BGM and the low hum of a busy retail store. A male voice briefly asks a question off-camera. (2) A humorous, low-pitched musical sting plays during the text transition. (3) The upbeat BGM continues with high-frequency sound effects (clicks and pings) synchronized with the appearance of on-screen text and product cuts. (4) The audio concludes with the female voice laughing and speaking over the same energetic music track.",
+      "text_narrative_log": "(1) '又來唐吉訶德了' (Back to Don Quijote again) - Functional, setting the scene. (2) '2000 YEARS LATER' - Decorative hook, humorous exaggeration of time spent. (3) Product titles including '日本丸美屋 拌飯香鬆', 'Lululun 爽膚棉片', '我兒愛的七龍珠', 'VISEE 身體打亮珠光粉', 'My Boostars 頭髮精華噴霧' - Functional descriptions of items. (4) '啊不是說沒什麼好買' (Didn't you say there's nothing much to buy?) - Humorous hook, highlighting the irony of the large purchase."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 1.9,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro (declaring no purchases) -> Time Jump -> Shopping Montage -> Outro (showing large haul)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 1 male passer-by in white vest, 1 female passer-by in background",
+      "mainCharacterDescription": "An adult female with her hair in two braids, wearing a black and white horizontal striped t-shirt and black overalls."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Retail Store",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Brightly lit, dense retail aisles filled with Japanese snacks, toys, and cosmetics; night-time urban exterior with store signage.",
+      "lightingStyle": "Fluorescent store lighting and night-time street lighting.",
+      "weather": "Clear",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "POV",
+        "Handheld",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Rice seasoning",
+        "Snacks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "唐吉訶德",
+        "丸美屋",
+        "Lululun",
+        "VISEE",
+        "My Boostars"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "High (Female), Medium (Male)",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Pings",
+        "Humorous sting"
+      ],
+      "ambientNoise": [
+        "Store quiet",
+        "Passer-by chatter"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Transition -> Process -> Payoff",
+      "mainPurpose": "To entertain viewers with a relatable 'shopping fail' story where the creator initially claims there is nothing to buy at Don Quijote, but ends up purchasing a large haul. It serves as both a lifestyle vlog and a soft recommendation of various Japanese products.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed close-ups of specific products with labels and favorable descriptions.",
+      "endorsementObject": [
+        "唐吉訶德",
+        "丸美屋",
+        "Lululun",
+        "VISEE",
+        "My Boostars"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy fast-cut montage with self-deprecating humor.",
+      "freeDescribe": "The video utilizes popular internet tropes (like the SpongeBob '2000 years later' card) to enhance the comedic effect of impulsive shopping."
+    }
+  }
+}

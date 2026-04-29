@@ -1,0 +1,199 @@
+{
+  "videoName": "cocowine0205-20250325054400-903620289129021.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 86,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Shopping Guide",
+        "Vlog",
+        "Promotional"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a POV shot of a shopping cart moving through a Costco warehouse, overlaid with a large title card featuring a cartoon character and the text 'Costco Weekly Special Report'. (2) A rapid-fire montage follows, where the camera cuts every 1.5 to 2 seconds to a different product on a shelf, in a refrigerator, or in a display bin. The items shown include stacks of toilet paper, packaged beef, frozen fish, boxes of snacks (Pocky, Meiji), bottles of wine and whiskey, crates of apples, boxes of beer, and various household items like laundry detergent and skincare products. (3) The camera remains in a handheld POV style, often moving slightly towards the products as they are presented, with shoppers and warehouse aisles visible in the background of most shots. (4) The video concludes with a final shot of a laundry detergent product.",
+      "audio_narrative_log": "(1) An upbeat, fast-paced electronic background music track with a strong, rhythmic beat starts immediately and continues throughout the video. (2) A male narrator begins speaking in a high-energy, enthusiastic tone, introducing the Costco specials. (3) As the visual montage of products plays, the narrator announces the name and the discounted price of each specific item in a rapid-fire, rhythmic manner that synchronizes with the visual cuts. (4) Ambient warehouse sounds like distant chatter and the rolling of carts are audible in the background but are heavily masked by the music and the prominent narration. (5) No sound effects (SFX) are used beyond the background music and vocals.",
+      "text_narrative_log": "(1) Decorative Text: '好市多 每週特價速報 03/10~03/16 記得追蹤我們' (Costco Weekly Special Report 03/10~03/16 Remember to follow us) appears at the start in a variety-show style with a cartoon avatar. (2) Functional Text: For every product shown, a large text block appears in the center of the screen listing the brand name, product name, original price, discount amount, and the final 'Special Price' in Traditional Chinese. (3) Emotional Tone: The text is large, colorful (often yellow and pink), and designed to create a sense of urgency and excitement about the deals."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 45,
+      "averageSceneDuration": 1.9,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Rapid-fire product discount list -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Back view",
+        "Full body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main creator (POV perspective), at least 7 shoppers visible in the background of various aisles.",
+      "mainCharacterDescription": "The main character is the camera operator pushing the cart; only their hands are occasionally visible."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Costco"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Different sections of a Costco warehouse, including the paper goods aisle, meat refrigerators, snack aisles, liquor section, and household chemical aisles, featuring high industrial shelving.",
+      "lightingStyle": "Intense studio-style warehouse lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "POV",
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Beef",
+        "Fish",
+        "Apples",
+        "Snacks",
+        "Noodles",
+        "Cookies",
+        "Pancakes",
+        "Kimchi"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco",
+        "Kirkland Signature",
+        "Pocky",
+        "Meiji",
+        "Corona",
+        "Quaker",
+        "Strongbow",
+        "Chesdale",
+        "Swiss Miss",
+        "UCC",
+        "Tide",
+        "Calvin Klein",
+        "Milkis"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut sync with visuals",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "Normal",
+        "loudness": "Loud",
+        "speed": "Extremely fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Warehouse background noise"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Enumeration of Deals -> Outro",
+      "mainPurpose": "The primary objective of the video is to act as a digital flyer or shopping guide, informing viewers of specific time-limited discounts (March 10 to March 16) at Costco in Taiwan. By using high-energy narration, fast-paced editing, and bold on-screen price tags, it aims to drive immediate consumer interest and foot traffic to the store.",
+      "visualEmotion": "Energetic and Productive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video explicitly lists prices and discounts for a wide variety of specific brands, functioning as a promotional catalogue.",
+      "endorsementObject": [
+        "Costco",
+        "Kirkland Signature",
+        "Pocky",
+        "Meiji",
+        "Tide"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-speed price narration synchronized with POV warehouse shots.",
+      "freeDescribe": "The video utilizes a 'bargain hunter' aesthetic, common in social media shopping subcultures, where speed and information density are prioritized over cinematic storytelling."
+    }
+  }
+}

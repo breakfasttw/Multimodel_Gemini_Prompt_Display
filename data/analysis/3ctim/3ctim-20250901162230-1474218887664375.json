@@ -1,0 +1,187 @@
+{
+  "videoName": "3ctim-20250901162230-1474218887664375.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 86,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Unboxing",
+        "Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a flat cap stands against a plain white wall, holding a small black DJI Mic 2. (2) He introduces a smaller version, the DJI Mic mini, and then presents the full box for the DJI Mic 3. (3) He opens the box to display a charging case, USB cables, and fuzzy windscreens. (4) Close-up shots show him placing a single square transmitter on a digital scale, which reads 16.4g. (5) He demonstrates the magnetic back clip by detaching and re-attaching it to the unit. (6) The camera focuses on the receiver's touchscreen as he navigates through menus for gain adjustment, EQ presets (Bright, Regular, Rich), and channel settings. (7) He connects the mic system to an Osmo Pocket 3 device. (8) The scene shifts to an outdoor sidewalk; the man walks away from the camera toward a distant building while signaling with his hands.",
+      "audio_narrative_log": "(1) A male voice speaks enthusiastically in Mandarin; upbeat, fast-tempo electronic music begins in the background. (2) The music continues at a steady volume as the speaker's voice remains the dominant audio element, describing product features. (3) Subtle 'click' and 'whoosh' sound effects are used during graphic transitions and scene cuts. (4) The environment changes to an outdoor setting; loud traffic noise and wind become audible, but the vocal remains exceptionally clear and front-centered. (5) As the speaker moves further away, the vocal consistency is maintained, demonstrating long-range transmission without degradation.",
+      "text_narrative_log": "(1) Functional Text: 'DJI Mic 2', 'DJI Mic mini', 'DJI Mic 3' used for product identification. (2) Decorative/Hook Text: '兩個結合' (Two combined) with a surprised tone; '重量只有16克' (Weight only 16g) emphasizing portability. (3) Functional Text: List of technical features: '自動增益調節' (Auto gain adjustment), '三檔音色' (Three-stage tone), '4發8收' (4 transmit 8 receive), '32-bt 浮點內錄' (32-bit float internal recording). (4) Hook Text: '到外面實測' (Real test outside) to create anticipation for the performance demo."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 3.58,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Product Unboxing -> Feature Demonstration -> Technical Settings Deep-dive -> Outdoor Range Test"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Hands only",
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator throughout; 1 male runner briefly visible in the background at 01:10 during the outdoor scene.",
+      "mainCharacterDescription": "Middle-aged male with glasses, wearing a grey flat cap, a blue T-shirt with 'ROOTS TAIWAN' logo, a yellow digital watch, and a wooden bead bracelet."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Starts in a clean white studio environment; transitions to a modern city sidewalk with tall office buildings, trees, and a busy road with traffic.",
+      "lightingStyle": "Bright studio lighting followed by natural direct sunlight.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Motorcycle",
+        "Bus"
+      ],
+      "techDetect": [
+        "Wireless Microphone",
+        "Charging Case",
+        "Digital Scale",
+        "Osmo Pocket 3",
+        "Action Camera"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "DJI",
+        "ROOTS",
+        "matrix"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Ding",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Traffic",
+        "Wind",
+        "City ambience"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Product Evolution -> Physical Specs -> Technical UI Demo -> Performance Validation",
+      "mainPurpose": "The video is a comprehensive product review and promotional demonstration for the DJI Mic 3. By contrasting it with previous models and providing objective data (weight) alongside subjective testing (outdoor range/noise test), it aims to position the device as a professional-grade, highly portable solution for vloggers and livestreamers.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator provides an in-depth, positive review of the DJI Mic 3, showcasing all its features and performing a live test to validate the brand's claims.",
+      "endorsementObject": [
+        "DJI"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3C有意思tim哥 watermark and signature flat cap styling.",
+      "freeDescribe": "The use of high-density text overlays and fast-paced editing is characteristic of the '3C' (Computer, Communication, Consumer Electronics) review culture in Taiwan."
+    }
+  }
+}

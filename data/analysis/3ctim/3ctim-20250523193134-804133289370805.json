@@ -1,0 +1,183 @@
+{
+  "videoName": "3ctim-20250523193134-804133289370805.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 80,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tech Review",
+        "Event Coverage"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A male host wearing a grey flat cap and glasses stands in a crowded exhibition hall, gesturing enthusiastically towards the camera. (2) The scene transitions to the host walking through the COMPUTEX event, showing various booths and an inset image of Jensen Huang. (3) He arrives at the AGI booth, pointing to and handling several storage products including portable SSDs and microSD cards on display tables. (4) Close-up shots show the details of the AGI EDM38 Pro, TF338 MicroSD Express Card, and Gen5 SSDs in different colors. (5) The host points to his wrist and gestures 'calling' while standing in front of an AGI sign. (6) The video ends with a screenshot of the 'agi_technology' Instagram page.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music begins immediately and continues throughout the video. (2) An adult male voice speaks in an energetic and high-pitched tone in Mandarin Chinese. (3) Ambient noise of a large crowd and exhibition hall chatter is audible but kept at a lower volume than the music and vocals. (4) Occasional 'whoosh' and 'pop' sound effects are used to synchronize with text overlays appearing on screen.",
+      "text_narrative_log": "(1) 'COMPUTEX 逛什麼?' (What to see at COMPUTEX?) appears as a primary hook. (2) Functional text identifies brands and products: 'AGI', 'EDM38 Pro', 'TF338', 'Gen5 SSD'. (3) Technical specifications: 'USB4 Gen3x2', 'Speed up to 4000 MB/s', '4 TB', '512G'. (4) Gaming-related text: 'Compatible with Switch 2'. (5) Decorative/Hook text: '更快' (Faster), '容量更大' (Larger capacity), '完全支援' (Full support), '沒有問題' (No problem). (6) Call to action: '追蹤AGI IG抽PS5+SSD' (Follow AGI IG to win PS5 + SSD)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 32,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at event -> Product demonstration at booth -> Giveaway announcement and Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 25,
+      "maleDetectAmount": 15,
+      "femaleDetectAmount": 10,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main creator, approximately 20-30 passers-by in the background of the exhibition hall.",
+      "mainCharacterDescription": "An adult male wearing a white t-shirt, a grey flat cap, glasses, and a beaded bracelet on his right wrist."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Exhibition Hall",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A large, bright exhibition hall (COMPUTEX) filled with company booths, promotional banners (MSI, AGI, Rextron), and many visitors.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Follow shot",
+        "POV",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "SSD",
+        "MicroSD Card",
+        "Monitor"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "AGI",
+        "COMPUTEX",
+        "MSI",
+        "NVIDIA"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 10,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "Sharp",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "Crowd"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Location Intro -> Brand/Product Showcase -> Feature Breakdown -> Call to Action",
+      "mainPurpose": "The video serves as a promotional vlog for the brand AGI during the COMPUTEX exhibition. It aims to showcase the host's visit to the AGI booth, highlight the high-performance and high-capacity storage solutions (portable SSDs and microSD cards) AGI offers, and drive traffic to the brand's Instagram account through a giveaway incentive.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The host spends the majority of the video specifically at the AGI booth, demonstrating their products and encouraging viewers to follow their social media for a giveaway.",
+      "endorsementObject": [
+        "AGI"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin narration, variety-show style text overlays, tech influencer persona.",
+      "freeDescribe": "The video uses fast-paced editing and beat-syncing to maintain viewer attention, typical of short-form social media marketing for tech products."
+    }
+  }
+}

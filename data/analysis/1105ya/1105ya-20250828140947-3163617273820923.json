@@ -1,0 +1,168 @@
+{
+  "videoName": "1105ya-20250828140947-3163617273820923.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 15,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Dance",
+        "Short Video"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a young woman in a red sweater and black skirt facing away from the camera in an outdoor architectural courtyard. She starts dancing with rhythmic hip and arm movements. (2) She turns around to face the camera, revealing a cheerful expression and pigtail hairstyle, continuing her dance. (3) A man in a grey t-shirt is seen in the background, partially hidden, peeking around a white pillar to watch her. (4) The woman continues her dance with energetic movements and smiles, while the camera momentarily focuses on the peeking man before returning to her.",
+      "audio_narrative_log": "(1) High-energy electronic dance music starts immediately with a driving bassline and melodic synth patterns. (2) No human vocals, ambient noises, or sound effects are audible, as the music dominates the entire soundscape. (3) The tempo remains consistent and upbeat until the video ends.",
+      "text_narrative_log": "(1) Decorative Text: \"當跳到一半有人在偷看\" (When someone peeks while dancing halfway through) appears at the top, establishing a humorous context. (2) Decorative Text: \"(?)\" appears near the man in the background to highlight his curious or sneaky behavior."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 7.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro dance -> Turn around -> Peeking bystander revealed -> Continued dance"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 female main dancer, 1 male bystander peeking in the background",
+      "mainCharacterDescription": "Young woman with pigtails wearing a bright red long-sleeved sweater and a short black pleated skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Courtyard"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern outdoor area with white pillars, glass-walled buildings, a shallow water feature, and grey pavement.",
+      "lightingStyle": "Natural daylight",
+      "weather": "Bright",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Bright and Natural",
+      "cameraWork": [
+        "Static",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "None"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Action -> Reaction/Discovery",
+      "mainPurpose": "The video is designed for social media entertainment, combining a popular dance trend with a staged or accidental humorous moment involving a 'peeker' in the background to increase engagement and relatability.",
+      "visualEmotion": "Cheerful and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-contrast red sweater, specific pigtail hairstyle, outdoor architectural setting.",
+      "freeDescribe": "The video utilizes a common short-video trope of 'unexpected' background interruptions to create a narrative hook for viewers."
+    }
+  }
+}

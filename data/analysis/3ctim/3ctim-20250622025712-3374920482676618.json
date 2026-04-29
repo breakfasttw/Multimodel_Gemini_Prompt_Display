@@ -1,0 +1,185 @@
+{
+  "videoName": "3ctim-20250622025712-3374920482676618.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 55,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Tech"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing a blue patterned cap and glasses speaks to the camera in a modern indoor hallway with escalators. He pulls out a Sony product box and gestures with it. (2) Close-up shots transition to a white, sleek electronic device (Sony Reon Pocket Pro) placed on green grass outdoors. (3) A woman is seen from the back wearing the device tucked into the collar of her shirt on her neck while standing outdoors. (4) A smartphone screen displays an app interface named 'SMART COOL' being used to adjust temperature settings. (5) The man is shown wearing the device while eating at a Japanese-style restaurant and walking through a public space. (6) The video concludes with the product box being shown again followed by the man giving a thumbs-up to the camera.",
+      "audio_narrative_log": "(1) Upbeat, energetic electronic background music with a steady beat starts immediately. A male voice speaks with an enthusiastic and fast-paced tone about the fluctuating weather. Another male voice is heard briefly off-camera responding. (2) The music continues as the main speaker describes the technical specifications of the Sony device. (3) Subtle digital sound effects like 'whooshes' and 'dings' occur when text appears on screen. (4) Ambient sounds of a restaurant, including the light clinking of bowls and low background chatter, become audible during the indoor eating scene. (5) The speaker's tone remains consistent as he announces the price and concludes with a recommendation, ending with the music fading out.",
+      "text_narrative_log": "(1) Decorative text: '30-something degrees' (with sun emoji) and '20-something degrees' (with shivering emoji) appear to highlight weather changes. (2) Functional text: 'SONY REON POCKET PRO' and 'Wearable Cooling/Heating Temperature Control Device'. (3) Technical feature text: 'Cooling contact area 2x larger', 'Fan upgrade, performance stronger', 'Operating noise reduced by 50%'. (4) Functional text: 'Price 6990 Yuan'. (5) Hook text: 'Summer Essential'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 26,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Product Demonstration -> Feature Breakdown -> Real-world Scenarios -> Conclusion and Pricing"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator presenting, 1 woman seen from behind for product demonstration, and blurred people in the restaurant background.",
+      "mainCharacterDescription": "A middle-aged man with black-rimmed glasses, a blue and grey patterned flat cap, and a white T-shirt with a 'Canada Roots 1973' logo."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Mall",
+          "Outdoor Garden",
+          "Restaurant"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern building interiors with white lighting, a bright outdoor garden with green foliage, and a wooden-toned Japanese restaurant interior.",
+      "lightingStyle": "Mix of bright natural sunlight and even indoor studio-like lighting.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and High Saturation",
+      "cameraWork": [
+        "Handheld",
+        "POV",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Salad",
+        "Japanese Cuisine"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Wearable Device"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Sony",
+        "Roots"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, professional, and enthusiastic",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop/Electronic",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Digital Notification",
+        "Chime"
+      ],
+      "ambientNoise": [
+        "Restaurant chatter",
+        "Wind",
+        "Indoor HVAC hum"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Solution Introduction -> Feature Verification -> Practical Usage -> Call to Action/Price",
+      "mainPurpose": "The video serves as a promotional review for the Sony Reon Pocket Pro. It uses the relatable problem of unpredictable summer weather as a hook to introduce the device. The creator provides a detailed look at the product's physical improvements, app integration, and lifestyle versatility to persuade the audience of its value as a tech-forward summer essential.",
+      "visualEmotion": "Energetic, bright, and helpful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of the product packaging, recitation of technical specs, listing of the retail price, and a thumbs-up recommendation.",
+      "endorsementObject": [
+        "Sony"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The creator (3C Tim) consistently uses a specific patterned flat cap and a fast-paced, high-energy Mandarin delivery common among tech influencers.",
+      "freeDescribe": "The video utilizes high-density variety-show text overlays to keep viewers engaged in a fast-paced vertical format typical of TikTok or Instagram Reels."
+    }
+  }
+}

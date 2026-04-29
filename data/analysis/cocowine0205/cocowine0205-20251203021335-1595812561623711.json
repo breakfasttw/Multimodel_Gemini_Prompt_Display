@@ -1,0 +1,181 @@
+{
+  "videoName": "cocowine0205-20251203021335-1595812561623711.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 69,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Promotion",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Two young women stand in a warehouse-style store aisle behind a shopping cart, gesturing excitedly toward the camera. (2) They move to a display of stacked red and black protein powder tubs; one woman picks up a tub and displays it. (3) Transitions to close-ups of product labels, price tags, and shelves stocked with protein tubs. (4) The scene shifts to an indoor kitchen where hands are seen scooping powder into a shaker bottle, shaking it, and pouring a beige-colored liquid into glass cups. (5) A brief cutaway shows a person in a gym environment performing a heavy barbell deadlift. (6) Back in the kitchen, the two women toast with their glasses, take sips, and react with wide eyes and enthusiastic facial expressions, pointing to the tubs on the table.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic pop music starts immediately. A high-pitched, energetic female voice begins speaking rapidly in Mandarin. (2) The music continues as the primary sound bed. The female narrator's tone remains cheerful and persuasive, with occasional secondary female vocal interjections. (3) Clear foley sounds of a plastic container being opened, a spoon scooping powder, and the rhythmic sound of a shaker bottle being shaken are audible. (4) The narration continues with high speech density, concluding with an enthusiastic closing remark as the music fades.",
+      "text_narrative_log": "(1) Decorative: '好市多 黑五的秘密' (Costco's Black Friday Secrets) appears in bold yellow and blue characters. (2) Functional: '11/24-11/30 連續七天' (November 24-30 for seven consecutive days) provides sale timing. (3) Functional: '紅牛 聰勁 乳清蛋白' (Red Cow Cong Jing Whey Protein) identifies the product. (4) Functional: '黑五折扣 400元' and '1399元' (Black Friday discount 400 NTD, final price 1399) details the offer. (5) Hook: '珍珠奶茶風味' (Pearl Milk Tea Flavor) and '28g 蛋白質' (28g protein) highlight product features. (6) Decorative: '全年度最低價' (Lowest price of the year) and '買三罐直接省一千' (Save 1000 by buying three tubs) act as promotional hooks."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 32,
+      "averageSceneDuration": 2.15,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at store -> Product discovery -> Price/Deal breakdown -> Consumption/Taste test -> Functional benefits -> Call to action."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, 1 male figure in gym B-roll.",
+      "mainCharacterDescription": "Two Asian females; one wears a white 'NY' bucket hat and black top, the other has long dark hair and a beige jacket."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse Store",
+          "Indoor Kitchen",
+          "Gym"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Starts in a Costco warehouse with high industrial shelving. Shifts to a modern home kitchen with a marble-patterned counter and a gym with weightlifting equipment.",
+      "lightingStyle": "Bright studio-like lighting and industrial warehouse lighting.",
+      "weather": "Unknown",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Saturated and Vibrant",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Protein Powder",
+        "Milk Tea"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "RED COW"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Shaker sound",
+        "Pouring sound"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Price Analysis -> Trial/Taste -> Utility -> CTA",
+      "mainPurpose": "To promote a specific brand of whey protein (Red Cow) during the Costco Black Friday sale by emphasizing significant cost savings and the appealing 'Pearl Milk Tea' flavor, targeting fitness enthusiasts and health-conscious shoppers in Taiwan.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct recommendation, showing price tags, demonstrating product usage, and calling for immediate purchase during a specific sale event.",
+      "endorsementObject": [
+        "RED COW",
+        "COSTCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy dual-host format with frequent text overlays and beat-synced editing typical of modern short-form commerce vlogs.",
+      "freeDescribe": "The video effectively uses the 'Black Friday' seasonal hook to drive urgency, combining warehouse footage with domestic 'proof of taste' scenes to build credibility."
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "videoName": "yga0721-20251130232208-902750299379297.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 64,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Podcast",
+        "Commentary",
+        "Interview"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man with reddish-brown hair in a beige vest and headphones speaks into a microphone in a studio setting, with a coffee cup on the table; the scene alternates to a woman in a red shirt responding. (2) A person wearing a large 'Big Head Buddha' mask and a black hoodie with 'HAHABABY' printed on it appears, speaking and gesturing towards the microphone. (3) The camera cuts rapidly between the man, the woman in red, and another woman in a plaid shirt as they all erupt into intense laughter, leaning back and covering their mouths.",
+      "audio_narrative_log": "(1) A male voice speaks in a conversational, humorous Mandarin tone, followed by a female voice responding. (2) A second male voice, slightly muffled by a mask, speaks with a confident and punchy delivery. (3) The soundscape is filled with loud, multi-layered group laughter and high-pitched vocal reactions as the speakers exchange jokes about working conditions, with the first male voice shouting emphatically about how tiring the work is.",
+      "text_narrative_log": "(1) Traditional Chinese subtitles appear at the bottom, translating the conversation about work choices and brand departments. (2) Variety-show style laughing emojis (😂) appear across the middle of the screen during the laughter phase. (3) Functional text in the end frame prompts viewers to watch the full video on the '蔡阿嘎543' (Tsai Aga 543) channel."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 32,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Discussion -> Comedic Reveal -> Group Laughter"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male host, 2 female guests/staff, 1 person in a mask",
+      "mainCharacterDescription": "Male host has reddish-brown hair, wearing a white long-sleeve shirt under a beige puffer-style vest and white headphones."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A podcast studio with sound-absorbing curtains, shelves with various collectibles and figurines, professional microphones on boom arms, and warm interior lighting.",
+      "lightingStyle": "Studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Coffee"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "Headphones",
+        "Laptop"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "HAHABABY"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and high-pitched",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Hokkien"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Discussion -> Observation -> Collective Reaction",
+      "mainPurpose": "To promote a podcast episode by showcasing a humorous highlight where the host jokingly critiques the intensity of work within one of their brand departments (HAHABABY), resulting in infectious laughter among the team.",
+      "visualEmotion": "Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The brand HAHABABY is featured on clothing and is the central subject of the discussion.",
+      "endorsementObject": [
+        "HAHABABY"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Tsai Aga's signature energetic laughing style and use of the Big Head Buddha mask.",
+      "freeDescribe": "The video utilizes fast-paced editing and social media tropes (emojis) to maximize engagement for a vertical short-form audience."
+    }
+  }
+}

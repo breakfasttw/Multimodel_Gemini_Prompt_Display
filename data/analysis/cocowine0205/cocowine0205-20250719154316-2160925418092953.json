@@ -1,0 +1,174 @@
+{
+  "videoName": "cocowine0205-20250719154316-2160925418092953.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 16,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman wearing a zebra-patterned bucket hat and a light-colored dress stands in a warehouse store aisle, specifically in the pet section. She is holding a plush dog toy and looking at the camera with a smile. (2) The camera zooms in on a price tag and a shelf containing 'ZEUS Fitness Dog Toys'. The woman's hand points to the discounted price. (3) The woman holds a larger retail box of dog toys, displaying the product while gesturing and speaking enthusiastically. She remains in front of the tall warehouse shelving throughout.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music plays. A young woman's voice begins speaking in Mandarin with an excited and friendly tone. (2) The music continues at a steady volume as the speaking continues. Background warehouse noise like distant echoes and muffled movement is audible. (3) The voice reaches a higher pitch when emphasizing the price discount. The music loops smoothly as the video ends.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo and '寵物玩具' (Pet Toys) appear as a header. (2) Functional Text: '這個買完之後啊' (After buying this...), '旁邊這個從429元折扣到197元' (This one next to it is discounted from 429 to 197). Decorative Text: '半價半價' (Half price, half price) in yellow and red. (3) Functional Text: '你讓大狗狗把飛盤丟到水裡' (You let the big dog throw the frisbee into the water), '它們會超嗨的' (They will be super high), '夏天夏天很多大狗狗會去玩游泳池' (In summer many big dogs go to the swimming pool). Decorative Text: '完美組合' (Perfect combination) with star emojis."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 4.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Product Highlight -> Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator presenting the product",
+      "mainCharacterDescription": "A young woman with long dark hair wearing a zebra-print bucket hat and a beige puff-sleeve dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "Costco warehouse interior with industrial shelving, wooden pallets, and bulk-packaged items stacked high.",
+      "lightingStyle": "Bright industrial overhead lighting",
+      "weather": "Indoor",
+      "season": "Summer (inferred from text)",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "ZEUS"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> CTA",
+      "mainPurpose": "The video aims to inform viewers about a specific discount on dog toys at Costco, leveraging a 'deal-finding' vlog style to encourage shopping. By highlighting the price drop and seasonal utility (floating toys for summer), it acts as a purchase incentive.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct display of price tags and product branding in a shopping environment.",
+      "endorsementObject": [
+        "Costco",
+        "ZEUS"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-contrast colorful variety-show style subtitles.",
+      "freeDescribe": "Typical of micro-influencer content focused on bargain hunting or warehouse store finds."
+    }
+  }
+}

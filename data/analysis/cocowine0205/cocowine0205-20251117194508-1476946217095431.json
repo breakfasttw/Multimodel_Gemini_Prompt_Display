@@ -1,0 +1,180 @@
+{
+  "videoName": "cocowine0205-20251117194508-1476946217095431.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 46,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman with long dark hair, wearing a white top and a silver handbag, stands in a crowded Costco warehouse holding a large plastic container of blueberries. (2) The camera cuts between the woman talking and close-up shots of the price labels and the blueberries, showing the brand 'Fruitist'. (3) The woman points at the fruit through the plastic packaging, showing their size and freshness. (4) The setting changes to an indoor domestic space where the first woman and another woman wearing a red Kangol hat sit at a table with a small plate of blueberries. (5) Both women pick up the fruit, show them to the camera for size comparison, eat them, and react with excited facial expressions and hand gestures.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic pop music starts immediately and continues throughout. (2) A female voice speaks in an enthusiastic, high-pitched tone, introducing the product and comparing prices. (3) Short sound effects (pop/chime) occur when text overlays or price tags appear. (4) The audio transitions to two female voices during the taste test, expressing delight with 'Mmm' sounds and verbal praise. (5) Background ambient noise of a busy store is faintly heard in the first half.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo and 'Super Cheap' in large, stylized Traditional Chinese characters. (2) Hook Text: 'Huge Blueberries' in purple text. (3) Functional Text: Subtitles throughout translating the speech, including price details like '510g only 269 yuan'. (4) Decorative Text: 'Super Value' with a watermelon emoji and 'Even Sweeter!' inside a yellow explosion graphic bubble."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 13,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Store discovery -> Price/Product comparison -> Home taste test -> Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 6,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, at least 2 male and 2 female shoppers visible in the warehouse background.",
+      "mainCharacterDescription": "One woman has long black hair and wears a white/beige off-the-shoulder top; the second woman wears a bright red Kangol bucket hat and a yellow striped shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First half: A warehouse store with stacks of fruit boxes (Grapes, Blueberries) and shoppers. Second half: A home interior with a marble-patterned table, a couch, and soft toys in the background.",
+      "lightingStyle": "Mixed: Bright warehouse lighting and warm indoor domestic lighting.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and Saturated",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Blueberries",
+        "Grapes"
+      ],
+      "trafficDetect": [
+        "Shopping cart"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Fruitist",
+        "Kangol"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Price Comparison -> Product Inspection -> Experiential Proof -> Recommendation.",
+      "mainPurpose": "The video aims to provide a bargain shopping tip for Costco members, specifically highlighting a high-value deal on large Peruvian blueberries. By showing the price difference compared to other origins and performing a live taste test with positive reactions, the creator validates the product's quality and 'super cheap' status to influence viewers' purchasing decisions.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed price comparison, close-up of brand packaging, and high-enthusiasm tasting results.",
+      "endorsementObject": [
+        "Costco",
+        "Fruitist"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-speed Mandarin narration, frequent use of variety-show style colorful text overlays.",
+      "freeDescribe": "The video leverages the popular 'Costco find' trend, using side-by-side price comparisons to establish a logical value proposition before moving to emotional/sensory satisfaction in the second half."
+    }
+  }
+}

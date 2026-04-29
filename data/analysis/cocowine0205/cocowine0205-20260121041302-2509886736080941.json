@@ -1,0 +1,182 @@
+{
+  "videoName": "cocowine0205-20260121041302-2509886736080941.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tutorial",
+        "Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Two women stand in a parking lot in front of a white building with a Costco logo, gesturing toward the camera with energetic expressions. (2) The scene shifts indoors where they sit at a table, holding a pink Philips epilator box and pointing to graphics showing price drops. (3) A series of close-ups show the epilator device, its rotating tweezer head, and various plastic attachments spread on a table. (4) The device is shown being used on different body parts: an arm, a leg being rinsed under a faucet, and a male cheek. (5) A split-screen comparison shows a person's legs, one side visibly smoother than the other with 'before/after' style text. (6) Both women reappear at the table, holding the device and giving a thumbs up to the camera.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop/electronic background music starts immediately. Two high-pitched female voices speak excitedly in Mandarin. (2) A clear, professional male voice-over enters, narrating product features while the original female voices are heard as faint background chatter and reactions. (3) Sharp sound effects (SFX) such as 'ding', 'pop', and 'camera shutter' clicks punctuate transitions and the appearance of text on screen. (4) The audio maintains a high-energy mix of narration and music, concluding with the music fading out after a final enthusiastic exclamation from the female hosts.",
+      "text_narrative_log": "(1) Functional Text: 'Costco Wholesale' logo at the top. (2) Hook Text: '夏天快到了 姐妹們 不要錯過' (Summer is coming, sisters, don't miss out!) in vibrant colors. (3) Functional Text: '好市多獨家販售' (Costco exclusive) and '限時特價 -800元' (Limited time offer -$800). (4) Decorative Text: '完全不會痛' (Doesn't hurt at all) and '省時又輕鬆' (Save time and easy) with emoji decorations to emphasize ease of use."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at Costco -> Feature breakdown in studio -> Practical demo -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Legs",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female hosts, 1 male visible during a 1-second facial shaving demonstration",
+      "mainCharacterDescription": "Two young women, one wearing a purple top and the other in a black off-the-shoulder top with a bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Studio",
+          "Bathroom"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Starts outside a Costco warehouse, transitions to a well-lit indoor living/studio space with a marble table, and a modern bathroom setting.",
+      "lightingStyle": "Bright studio lighting and natural daylight",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Epilator",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco",
+        "Philips"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and persuasive",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop",
+        "Chimes",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Price/Promo -> Feature List -> Usage Demo -> Recommendation",
+      "mainPurpose": "The video is a promotional review and tutorial for the Philips Wet and Dry Epilator, specifically highlighting a limited-time discount available at Costco. It uses a high-energy vlog format to appeal to women preparing for summer, demonstrating the product's versatility through various attachments and its gentle, effective hair removal on different skin areas.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct mention of a Costco exclusive sale, brand-labeled packaging, and clear calls to action to buy the product.",
+      "endorsementObject": [
+        "Philips",
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Variety-show style vibrant text overlays and high-pitched, enthusiastic group commentary.",
+      "freeDescribe": "The video uses typical 'KOL' (Key Opinion Leader) marketing tactics common in Taiwanese social media, combining lifestyle vlogging with a hard-sell retail promotion."
+    }
+  }
+}

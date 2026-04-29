@@ -1,0 +1,180 @@
+{
+  "videoName": "yga0721-20251007120219-1463066038564887.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Prank",
+        "Surprise"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Two women, one in a blue denim outfit and cap and the other in a grey jacket, stand in a brightly lit airport terminal discussing a plan. (2) A shot of an airport security monitor shows a group of travelers with luggage. (3) The women begin walking and then running through the terminal hallways. (4) They approach a woman from behind and quickly pull a large, colorful polka-dot bag over her head, effectively 'kidnapping' her. (5) The group leads the person in the bag through the airport, passing various travelers and security personnel. (6) They arrive at an indoor location and enter a hallway with several paintings of animals. (7) The target person is led into a room where a group of people wearing paper masks of a man's face are waiting. (8) The bag is removed, revealing a happy and surprised woman; celebrations ensue with cheering and laughter. (9) A man hiding behind the door reveals himself at the end.",
+      "audio_narrative_log": "(1) Upbeat, fast-tempo electronic background music plays as female voices speak in an excited, energetic tone. (2) Rapid footsteps and ambient airport noises are heard over the music. (3) Dramatic sound effects like 'whooshes' and a fake heartbeat sound are layered during the 'ambush'. (4) The audio transitions to loud laughter, screaming, and cheerful shouting as the target is 'captured'. (5) In the room, a large group of people cheer in unison, shouting 'Happy Birthday' and other celebratory phrases. (6) A male voice speaks humorously toward the end, accompanied by studio-style crowd laughter SFX.",
+      "text_narrative_log": "(1) '我們今天的計畫就是' (Friendly hook explaining the plan). (2) '就把...打包走!!' (Humorous text implying they will pack someone up). (3) '(目標出現!!)' (Dramatic cue marking the target's arrival). (4) '抓到壽星啦' (Celebratory text announcing they caught the birthday girl). (5) '佩潔公主生日快樂' (Warm birthday greeting). (6) '人海帥哥祝賀' (Humorous caption about the crowd of 'handsome' masked men). (7) '我左臉健!!!' (Self-deprecating humor from the male character)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Planning -> Airport Ambush -> Kidnapping March -> Surprise Reveal -> Celebration."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 15,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 9,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "2 female planners, 1 female target, at least 10 people in the surprise room, plus several airport passers-by.",
+      "mainCharacterDescription": "A woman in a blue denim set and yellow cap, a woman with black hair in a grey jacket and white lace top, and a target woman in a light blue shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Airport",
+          "Indoor Hallway",
+          "Studio"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern airport terminal with check-in counters and monitors, followed by a modern indoor hallway with colorful pop-art paintings of monkeys and dogs.",
+      "lightingStyle": "Bright artificial studio/airport lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Bright",
+      "cameraWork": [
+        "Follow shot",
+        "Handheld",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "CCTV Monitor"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut and SFX layering",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 10,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 5,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Heartbeat",
+        "Laughter track",
+        "Meme sounds"
+      ],
+      "ambientNoise": [
+        "Airport chatter",
+        "Footsteps"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Mission Start -> Execution -> Climax -> Resolution",
+      "mainPurpose": "To create a high-energy, entertaining vlog documenting a surprise birthday prank. The video uses the 'kidnapping' trope for comedic effect before pivoting to a heartwarming celebration with friends and family, aiming to share a joyous personal milestone with an audience.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Heavy use of variety-show style dynamic captions and reaction SFX.",
+      "freeDescribe": "The video follows a typical Taiwanese YouTube vlog style characterized by fast editing, high-frequency text overlays, and an emphasis on group dynamics and pranks."
+    }
+  }
+}

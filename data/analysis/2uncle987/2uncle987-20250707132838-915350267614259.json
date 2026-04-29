@@ -1,0 +1,172 @@
+{
+  "videoName": "2uncle987-20250707132838-915350267614259.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 8,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Product Showcase",
+        "Fashion"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A hand places a series of shoes (loafers and sneakers) onto a light-colored carpet in a modern living room setting, one by one. (2) A woman wearing a short black dress walks into the background and poses with her hands on her waist, showcasing the height effect. (3) The scene shifts to a close-up of a white sneaker with a thick air-cushioned sole, where a finger points to the heel height on a wooden shelf.",
+      "audio_narrative_log": "(1) Upbeat, quirky electronic background music starts with a steady tempo. (2) Rhythmic sound effects (SFX) of shoes being placed on a soft surface are synchronized with the visuals. (3) A brief, high-pitched female giggle is heard as the woman enters the frame. (4) The playful music continues through the close-up product shots.",
+      "text_narrative_log": "(1) Functional text '2公分', '3公分', '4公分', '5公分', '6公分' appear sequentially to label the height of each shoe. (2) '7公分?' appears with an inquisitive tone as the woman enters. (3) '真的有5公分' appears in the final close-up as an emphatic hook to confirm the product's feature."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 3,
+      "averageSceneDuration": 2.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Comparison Demo -> Human Result -> Detailed Proof"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main character posing in the background; 1 set of hands seen placing the shoes.",
+      "mainCharacterDescription": "A young woman with long dark hair wearing a short, sleeveless black maternity or loose-fitting dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room",
+          "Shoe Rack"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A minimalist modern apartment with large windows showing a blue sky, a white sofa, and a light-colored shag carpet. Later, a wooden shoe shelf.",
+      "lightingStyle": "Bright natural daylight",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and Bright",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and playful",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Occasional exclamations",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Quirky Upbeat Electronic",
+      "bgmBPM": 118,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Thud sounds for shoe placement"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Comparison -> Demonstration -> Close-up Evidence",
+      "mainPurpose": "To promote height-increasing footwear by visually comparing various heel heights and providing a direct close-up measurement to prove the product's effectiveness and physical attributes to potential buyers.",
+      "visualEmotion": "Energetic and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The video focuses entirely on demonstrating the specific height-increasing features of the footwear and includes a 'proof of measurement' shot.",
+      "endorsementObject": [
+        "Height-increasing sneakers and loafers"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Beat-synced item placement with matching height-count text overlays.",
+      "freeDescribe": "The video targets consumers interested in height-increasing fashion, using a clean, minimalist aesthetic and playful editing to make the product appear approachable and effective."
+    }
+  }
+}

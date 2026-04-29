@@ -1,0 +1,175 @@
+{
+  "videoName": "3ctim-20250327192147-2480578109050739.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 37,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Commentary",
+        "News"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a close-up of a robotic arm grasping a green-trimmed steering wheel in a car interior, with a circular insert showing a middle-aged man in a blue hat speaking. (2) The scene cuts to the man (the host) in a studio setting, wearing a white t-shirt and blue hat, gesturing with his hands as informative graphics about 'Musashi' robot and autonomous driving appear beside him. (3) Interspersed is footage of a white-faced humanoid robot with large eyes sitting in a driver's seat, moving its head and hands realistically while holding a steering wheel. (4) Technical diagrams and graphs illustrating 'Benefits of Nonlinear Elastic Unit' and 'Dynamic Task Control' are shown as overlays. (5) The host continues his explanation with expressive facial expressions and concludes by pointing at the camera.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music starts immediately. A male voice speaks enthusiastically in Mandarin. (2) The vocal remains the primary focus (high vocal ratio) as he explains technical details; the BGM continues at a steady volume with a consistent rhythm. (3) Occasional 'ping' and 'swish' sound effects accompany the appearance of text and graphics on the screen. (4) The audio concludes with a final encouraging statement from the speaker and a sharp cut in the music.",
+      "text_narrative_log": "(1) Functional Text: '你家的舊車加上這東西也能變自動駕駛哦！' (Your old car can also become autonomous with this!) - Excited tone. (2) Functional Text: '「武藏」人形機器人' (Musashi humanoid robot) - Informative tone. (3) Functional Text: '39個關節 74個模擬肌肉' (39 joints, 74 simulated muscles) - Technical tone. (4) Decorative Text: '最高時速只有5km/hr' (Max speed only 5km/hr) - Informative tone. (5) Hook Text: '加油！(指日可待)' (Keep it up! (Just around the corner)) - Encouraging tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.05,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook with robot footage -> Host technical explanation -> Data/Diagram support -> Limitation reveal -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male host present throughout the studio segments.",
+      "mainCharacterDescription": "A middle-aged man with glasses, wearing a blue patterned cap and a white t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Car Interior"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A clean studio background with gray acoustic panels and a wooden desk, occasionally shifting to the interior of a car and technical presentation slides.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and bright",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Humanoid Robot",
+        "Steering Wheel"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "3c有意思tim哥",
+        "mika"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and professional",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drum"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Digital Pop",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Introduction -> Technical Breakdown -> Current Limitation -> Conclusion",
+      "mainPurpose": "To introduce viewers to a humanoid robot named 'Musashi' developed by the University of Tokyo that can drive manual cars. The video aims to share interesting tech news while clarifying that it is currently limited by speed and turning capabilities.",
+      "visualEmotion": "Curiosity and optimism"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host's signature blue hat and the '3c有意思tim哥' logo overlay.",
+      "freeDescribe": "The video uses a high volume of text overlays and infographics typical of Taiwanese social media tech vloggers to keep the audience engaged."
+    }
+  }
+}

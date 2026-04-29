@@ -1,0 +1,179 @@
+{
+  "videoName": "achusan0817-20251103180233-2073119686811894.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 60,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Animation",
+        "Comedy",
+        "Short Film"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Non-live action video: 2D animation. A bald male character with thick eyebrows is looking at a small rectangular box or phone with a serious expression. (2) A sequence shows him imagining himself with medical bandages on his eye, nose, and cheek; the background changes to a swirling purple pattern. (3) He poses as a hero with a sword and cape against a background of fire. (4) The character stands at a counter in a pharmacy-like setting, talking to a shopkeeper wearing a white coat. (5) After buying a box, he applies a large white gauze bandage over his right eye. (6) He takes multiple selfies with an old green digital camera, striking various poses and looking intensely into the lens. (7) In a fantasy sequence, he walks into a classroom where several classmates are shown screaming with heart-shaped eyes and exaggerated expressions of awe.",
+      "audio_narrative_log": "(1) High-pitched, energetic male voice begins a fast-paced monologue. Upbeat, heroic orchestral music with strong brass and percussion elements starts in the background. (2) Sudden 'whoosh' and fire sound effects (SFX) play as he imagines becoming a manga hero. (3) The music stops briefly for dialogue; a second, calmer male voice (shopkeeper) is heard asking a question. (4) Intense, suspenseful violin-led music starts as he puts on the eye bandage. (5) Repeated mechanical 'click-clack' camera shutter SFX play as he takes selfies. (6) A chorus of loud, high-pitched female and male screams of 'A Chiu so handsome!' (阿啾好帥) and general cheering fills the audio track.",
+      "text_narrative_log": "(1) Decorative: '阿啾小劇場' (A Chiu Mini-Theater) appears at the top in a playful font. (2) Hook: '眼睛貼布帥到哭==' (Eye bandage is handsome enough to cry) is fixed in the middle, expressing humorous exaggeration. (3) Functional: '完整影片在Youtube' (Full video on YouTube) at the bottom. (4) Functional: Subtitles throughout translate the dialogue, including phrases like 'Cover your eyes with gauze', 'Legendary band-aid positions', and 'Shonen manga protagonist'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 16,
+      "averageSceneDuration": 3.75,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Internal monologue/Hook -> Dialogue/Purchase -> Narcissistic Montage -> Fantasy Result"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main character (A Chiu), 1 male shopkeeper, 1 male classmate, 2 female classmates in the background.",
+      "mainCharacterDescription": "A bald male cartoon character wearing a simple black t-shirt, known for exaggerated facial expressions and thick black eyebrows."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor",
+          "Classroom",
+          "Pharmacy"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Varies between a plain dark room, a pharmacy counter with shelves of medicine, and a bright classroom setting.",
+      "lightingStyle": "Flat cartoon lighting",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Digital Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Digital Camera"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cuts and SFX transitions",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 3,
+        "vocal_demographics": {
+          "male_vocal_count": 3,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, humorous, and dramatic",
+        "pitch": "Medium-High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat anime-style orchestral",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Brass",
+        "Strings",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Trumpet",
+        "Violin",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Camera shutter",
+        "Flame swoosh",
+        "Magical chime"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based -> Hook -> Story -> Punchline",
+      "mainPurpose": "To entertain the audience through a comedic animation about 'Chuunibyou' tendencies—specifically the desire to wear medical accessories like bandages solely to look like a cool anime character, and the narcissistic fantasy that follows.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-speed Mandarin narration, 'A Chiu' bald character design, and variety-show style static text overlays.",
+      "freeDescribe": "The video uses exaggerated anime tropes (eye bandages, dark power effects) to create a relatable comedic situation regarding vanity and youth culture."
+    }
+  }
+}

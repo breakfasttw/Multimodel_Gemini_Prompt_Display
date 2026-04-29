@@ -1,0 +1,176 @@
+{
+  "videoName": "cocowine0205-20250216054206-3801744510132824.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 55,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is live-action. A woman with long dark hair, wearing a white blouse and black skirt, stands in a Costco warehouse aisle holding a large red triceratops plush toy. She smiles and talks to the camera. (2) The camera zooms in on her as she holds the toy close, then switches to a close-up of her face as she continues speaking and smiling. (3) The shot changes to show the woman standing back in the aisle, gesturing towards the toy. (4) A male hand enters the frame, pointing at various plush toys on a shelf, including brown and grey teddy bears. (5) The woman holds the red triceratops and compares its softness to the other toys. (6) Finally, she picks up two more red triceratops toys and walks away from the camera down the aisle, waving goodbye.",
+      "audio_narrative_log": "(1) Light, upbeat, and bouncy acoustic background music starts immediately. A female voice is heard laughing and speaking in a playful, high-pitched tone. (2) A male voice responds off-camera with a friendly and conversational tone. The two engage in a dialogue with overlapping laughter. (3) The acoustic BGM continues at a steady tempo throughout the conversation. (4) Minimal ambient warehouse noise is present but heavily suppressed by the dialogue and music. (5) The music stays consistent until the end of the video.",
+      "text_narrative_log": "(1) 妹妹想買的玩具 (Functional: The toy sister wants to buy; Tone: Informative). (2) 你要幾次 (Functional: How many times do you want?; Tone: Questioning). (3) 到成功為止 (Functional: Until I succeed; Tone: Determined/Playful). (4) 哈哈哈 你問我能不能買 (Functional: Hahaha, you ask me if I can buy it; Tone: Humorous). (5) 他會跟我說不行 (Functional: He will tell me no; Tone: Explanatory). (6) 對啊 你也知道答案的 (Functional: Right, you know the answer too; Tone: Teasing). (7) 對啊 太大了 (Functional: Right, it's too big; Tone: Reasoning). (8) 你是要帶上床自己用是不是 (Functional: Are you taking it to bed for yourself?; Tone: Joking). (9) 尺寸太尷尬 (Functional: The size is too awkward; Tone: Critique). (10) 而且牙齒都很軟 (Functional: And the teeth are very soft; Tone: Pointing out a feature). (11) 你信不信 我跟你賭 (Functional: Believe it or not, I'll bet you; Tone: Challenging). (12) 再見 拜拜 (Functional: Goodbye, bye-bye; Tone: Closing)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.9,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Dialogue/Hook -> Comparing products on shelves -> Decision/Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main female creator onscreen; 1 male photographer's hand and voice detected.",
+      "mainCharacterDescription": "A young Asian woman with long black hair, wearing a white long-sleeved textured blouse and a long black skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Costco"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "Large industrial warehouse shelves stacked high with various boxed goods and pallets of products typical of a Costco layout.",
+      "lightingStyle": "Bright, even industrial overhead lighting.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Handheld",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "HUGFUN"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, humorous, and playful",
+        "pitch": "Medium-high (female), Medium (male)",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Acoustic",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Acoustic Guitar",
+        "Shaker"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Debate/Interaction -> Resolution",
+      "mainPurpose": "The video serves as a lifestyle vlog documenting a humorous interaction between a couple or friends at Costco. The primary goal is entertainment through a relatable 'shopping debate' about whether a toy is appropriate or too large, while implicitly showcasing products available at the retailer.",
+      "visualEmotion": "Cheerful and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Clear visibility of Costco branding and specific toy brands (Hugfun) during a shopping trip.",
+      "endorsementObject": [
+        "Costco",
+        "HUGFUN"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-show style colorful captions.",
+      "freeDescribe": "The video uses a very common TikTok/Reels vlog style with fast-paced dialogue and large text overlays to maintain engagement."
+    }
+  }
+}

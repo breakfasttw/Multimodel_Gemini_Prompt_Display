@@ -1,0 +1,189 @@
+{
+  "videoName": "cocowine0205-20250910235315-1455287069559402.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 90,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Shopping",
+        "Promotion",
+        "Price Report"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a title card featuring the Costco Wholesale logo, an illustration of Wreck-it-Ralph, and text indicating a weekly special report. (2) A rapid series of cuts follows, showing various products in a warehouse environment: Kleenex toilet paper stacks, vacuum-sealed beef, boxes of MamyPoko diapers, Orange House detergent, and shelves of snacks. Each shot is centered on the product packaging and price tag. (3) The sequence continues through rows of beverages, including juices, milk tea, and alcoholic bottles, interspersed with shots of refrigerated meats like salmon and chicken. (4) The final segment features household goods like Disney rugs, soy sauce, olive oil, and personal care items such as Biore wipes and mosquito repellent, ending with shelves of wine bottles.",
+      "audio_narrative_log": "(1) High-energy electronic background music with a steady, upbeat tempo starts immediately. (2) A male voice speaks rapidly and continuously, announcing the name of each product and its discounted price in Mandarin Chinese. The vocal delivery is energetic and promotional. (3) The audio remains consistent throughout, with the music maintaining the pace behind the dominant vocal track. (4) There is no detectable ambient store noise or sound effects, suggesting a post-produced studio voiceover.",
+      "text_narrative_log": "(1) Functional and Hook Text: 'Costco Wholesale Weekly Special Report 09/08-09/14' and 'Remember to follow us' in large, colorful fonts. (2) Functional Text: Each product shot is overlaid with large yellow and white text including product names like 'Kleenex Three-layer Toilet Paper', 'US Choice NY Strip Steak', and 'MamyPoko Night Pants'. (3) Functional Text: Below product names, price information is listed as 'Original Price', 'Discount Amount', and 'Special Price' in a consistent vertical layout for every item."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 46,
+      "averageSceneDuration": 1.9,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Continuous rapid sequence of product deals -> Outro (implicitly ends on final product)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 0,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Background only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "Occasional blurred shoppers seen in the background aisles; a hand is briefly visible moving a product.",
+      "mainCharacterDescription": "None"
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Supermarket"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Costco warehouse interior featuring high industrial metal shelving, pallet-stacked products, and large refrigerated display cases.",
+      "lightingStyle": "Bright indoor warehouse lighting",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Dog (on packaging)"
+      ],
+      "foodsDetect": [
+        "Beef",
+        "Chicken",
+        "Salmon",
+        "Juice",
+        "Milk Tea",
+        "Crackers",
+        "Chocolate",
+        "Noodles",
+        "Kimchi"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Kleenex",
+        "MamyPoko",
+        "Orange House",
+        "M&M's",
+        "Disney",
+        "Kikkoman",
+        "Biore",
+        "Tree Top"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut (synchronized with visual transitions)",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "Normal",
+        "loudness": "High",
+        "speed": "Extremely fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> Evidence (Extended sequence)",
+      "mainPurpose": "The video is a promotional catalog designed to inform consumers of specific weekly discounts at Costco Taiwan. By using rapid visual cuts and high-speed narration, it conveys a sense of urgency and abundance, aiming to drive store traffic during the specified dates (09/08-09/14).",
+      "visualEmotion": "Energetic and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed price reduction figures and direct encouragement to 'follow' for more deal updates.",
+      "endorsementObject": [
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-speed price narration style similar to traditional market shouting, standardized colorful text overlay templates.",
+      "freeDescribe": "The video uses Wreck-it-Ralph and Doraemon imagery on packaging/titles to capture attention, suggesting a target audience of families and bargain seekers."
+    }
+  }
+}

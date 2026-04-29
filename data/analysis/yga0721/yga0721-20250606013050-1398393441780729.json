@@ -1,0 +1,175 @@
+{
+  "videoName": "yga0721-20250606013050-1398393441780729.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 14,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Skit",
+        "Family"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman in a green jacket stands at a dining table filled with bowls of food, looking frustrated and questioning someone off-camera. A young girl with curly hair sits at the table. (2) Close-up shots alternate between the girl and the woman's hands as they offer food with chopsticks. The girl shakes her head and pushes the food away. (3) The girl stands up and walks away from the table with a determined expression while gesturing. (4) The woman in the green jacket looks stunned, while a second woman in a black shirt appears in the frame, celebrating with a fist pump and a large grin.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic music plays. A female voice speaks in a conversational yet slightly annoyed tone. (2) The sound of a child repeatedly saying 'Bu yao' (No) in a high-pitched, melodic, and defiant tone, interspersed with adult female laughter. (3) A sudden cartoonish 'boing' sound effect followed by a laugh track. (4) High-energy female cheering and a loud, excited exclamation at the end as the music peaks.",
+      "text_narrative_log": "(1) Functional Text: 'POV：當你煮了一桌菜' (POV: When you've cooked a table of dishes) - setting the comedic hook. (2) Decorative Text: '哪一個 你想吃哪一個' (Which one, which one do you want to eat?) - expressing the mother's question. (3) Effect Text: '不要 x1', '不要 x2', '窩不要 x3' (No) - emphasizing the child's repeated refusal. (4) Effect Text: '(高歌離席)' (Leaving while singing loudly) - describing the child's dramatic exit. (5) Functional Text: '今天開始 回家不用煮飯了' (Starting today, don't need to cook when coming home) and '計畫通!' (Plan successful!) - revealing the hidden motive and the humorous twist."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 1.75,
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video flows from a scene of parenting frustration to a humorous realization and celebration."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "Two adult females (full body), one young girl (full body), and one male (hands visible holding chopsticks).",
+      "mainCharacterDescription": "One woman wears a green military-style jacket over a white shirt; another woman wears a black t-shirt with text; the child has curly hair and wears a light-colored top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Dining Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A domestic indoor setting with a white dining table, light-colored walls, and various food dishes (greens, noodles, soup).",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Noodles",
+        "Vegetables",
+        "Soup"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with sound effects",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and high-pitched",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon Boing",
+        "Laugh Track"
+      ],
+      "ambientNoise": [
+        "Indoor quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Complication -> Climax -> Twist",
+      "mainPurpose": "To create a relatable comedy skit for parents. It uses the common struggle of a child being a picky eater as a setup for a humorous twist where the parent celebrates the child's refusal because it gives them a legitimate excuse to stop cooking.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of 'Plan successful' (計畫通) meme reference and high-energy editing style typical of Taiwanese comedy creators.",
+      "freeDescribe": "The video relies heavily on text overlays to convey internal thoughts and comedic timing."
+    }
+  }
+}

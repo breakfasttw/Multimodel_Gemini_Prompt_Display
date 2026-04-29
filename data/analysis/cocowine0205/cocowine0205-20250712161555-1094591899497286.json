@@ -1,0 +1,178 @@
+{
+  "videoName": "cocowine0205-20250712161555-1094591899497286.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 43,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman wearing a zebra-patterned bucket hat and a white ruffled dress stands in a warehouse-style store, holding a pink rectangular box with 'Nagasaki Castella' text. (2) She gestures towards stacks of the same pink boxes behind her. (3) The scene shifts to a display shelf where more pink boxes are stacked, followed by a close-up of a single box. (4) Indoors at a marble table, a pair of hands pulls the cake out of its white cardboard sleeve and peels back a protective paper layer to reveal a sliced, golden-brown honey cake. (5) A single slice is lifted, and a dog-head figurine is playfully moved towards the cake as if taking a bite next to a glass of green latte.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music begins. (2) An energetic female voice speaks in Chinese, introducing the product with enthusiasm. (3) Faint warehouse ambient noise is heard in the background. (4) The sound of cardboard sliding and paper rustling occurs as the box is opened. (5) A male voice joins/takes over the narration with a friendly and descriptive tone while describing the flavor of the cake.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo at the top. (2) Hook Text: '久世福 現在最新的 草莓蜂蜜蛋糕' (Kuzefuku's latest strawberry honey cake) and '趕快買' (Buy it quickly!). (3) Decorative Text: '期間限定' (Limited time) and '特別口味' (Special flavor). (4) Functional Text: '329元' indicating the price. (5) Hook Text: '超級草莓' (Super strawberry) and '好吃' (Delicious) with sparkling effects."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook/Intro at store -> Product Close-up -> Unboxing/Tasting review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator; hands opening the box are likely the same person or an assistant.",
+      "mainCharacterDescription": "A woman with long dark hair, wearing a black-and-white zebra-print bucket hat and a white off-the-shoulder ruffled dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Home Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First half: Warehouse shelves filled with pink cake boxes at Costco. Second half: A marble coffee table with a green drink, a white sofa, and a TV in the background.",
+      "lightingStyle": "Bright, even indoor lighting.",
+      "weather": "None",
+      "season": "Spring",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Cake",
+        "Castella",
+        "Matcha Latte"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "TV"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "久世福商店"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and friendly",
+        "pitch": "Normal",
+        "loudness": "Clear",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Digital Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop transition sounds",
+        "Eating SFX"
+      ],
+      "ambientNoise": [
+        "Warehouse quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Product Showcase -> Experience/Review",
+      "mainPurpose": "To promote a limited-edition 'Kuzefuku Strawberry Honey Cake' sold at Costco, using a mix of on-site discovery and at-home unboxing to provide a comprehensive review and drive sales.",
+      "visualEmotion": "Cheerful and appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct recommendation of the brand and store location with price information.",
+      "endorsementObject": [
+        "久世福商店",
+        "COSTCO WHOLESALE"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Variety-show style captioning and playful use of a dog figurine for the tasting segment.",
+      "freeDescribe": "The video follows a high-energy 'short-video shopping guide' format popular in East Asian social media, emphasizing seasonal availability and price."
+    }
+  }
+}

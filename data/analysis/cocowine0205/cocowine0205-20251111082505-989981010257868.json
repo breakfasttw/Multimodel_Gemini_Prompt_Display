@@ -1,0 +1,179 @@
+{
+  "videoName": "cocowine0205-20251111082505-989981010257868.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 90,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Review",
+        "Food"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair in a white top stands in a Costco store, pointing excitedly at boxes of ice cream in a freezer. (2) The scene transitions to an indoor domestic setting where two women are seated at a table covered with boxes of Häagen-Dazs Matcha & Berry crispy sandwiches. (3) They proceed to unbox, slice open, and eat the product, displaying the green matcha filling and pink berry layers while making exaggerated expressions of delight and satisfaction.",
+      "audio_narrative_log": "(1) Upbeat, energetic background music starts immediately with the sound of a female voice speaking enthusiastically in a shopping environment. (2) The music continues as two female voices engage in a rapid-fire conversation, featuring loud laughter and high-pitched tones. (3) Occasional cartoon-style sound effects (SFX) are used to punctuate the women's reactions and the appearance of text on the screen.",
+      "text_narrative_log": "(1) Functional Text: '999元 特價200元' indicating a price drop. (2) Decorative/Effect Text: '哈根達斯 抹茶莓果雪酥' (Häagen-Dazs Matcha Berry Crispy Sandwich) in colorful, stylized fonts. (3) Hook Text: '邊哭邊笑' and '濃抹甜莓 雙享奢華雪酥' describing the intense flavor and the emotional reaction to the deal."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 5.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at store -> Transition to home -> Detailed unboxing and tasting review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "Two main female hosts are visible throughout the majority of the video.",
+      "mainCharacterDescription": "One woman with long dark hair in a white blouse; another woman in a yellow and white striped shirt wearing a red bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Costco",
+          "Studio",
+          "Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Starts with the glass doors of a commercial walk-in freezer at a warehouse store; moves to a home interior with tables, boxes of products, and domestic furniture.",
+      "lightingStyle": "Bright studio-like indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and Warm",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Ice cream sandwich",
+        "Matcha"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Häagen-Dazs"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, humorous, and high-pitched",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat and Cheerful",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Laughter"
+      ],
+      "ambientNoise": [
+        "Shopping center hum"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Discovery -> Demonstration -> Recommendation",
+      "mainPurpose": "The video is a promotional food review aimed at showcasing a bargain found at Costco for Häagen-Dazs ice cream sandwiches. It uses an energetic 'sisterly' dynamic to build rapport with the audience while providing a detailed taste test to justify the purchase, even if the original price was high.",
+      "visualEmotion": "Energetic and Enthusiastic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed focus on brand packaging, price discussion, and a direct taste test with positive commentary.",
+      "endorsementObject": [
+        "Häagen-Dazs",
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy female duo, variety-show caption style, Costco bargain hunting theme.",
+      "freeDescribe": "The video effectively utilizes local shopping culture (Costco obsession) in Taiwan to create viral-style food content."
+    }
+  }
+}

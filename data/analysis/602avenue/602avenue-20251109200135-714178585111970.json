@@ -1,0 +1,186 @@
+{
+  "videoName": "602avenue-20251109200135-714178585111970.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 64,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Promotion"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a woman in a black t-shirt holding up two pairs of white cargo pants, one stained with a large brown spill. (2) She transitions to wearing the clean white pants, performing squats in a bedroom with a large wooden wardrobe. (3) The scene shifts to an indoor squash court where she plays, showing her athletic movements and a smartwatch on her wrist. (4) She is then seen eating a steaming bowl of noodles in a restaurant and walking through a supermarket aisle filled with rice cookers. (5) Returning to a home setting, she displays a pack of 'Icon' sanitary pads and demonstrates their absorption capacity by pouring a reddish liquid onto one. (6) She changes into yellow-striped pajamas and demonstrates a pants-type sanitary pad, showing its elasticity and side guards. (7) Finally, she speaks directly to the camera in a brightly lit room, gesturing towards text overlays describing a promotional event.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat pop music begins immediately. A young woman's voice is heard speaking in Mandarin with an energetic and friendly tone. (2) The sound of a squash ball hitting a wall is clearly audible over the music during the sports segment. (3) Ambient restaurant noise and the sound of slurping noodles accompany the eating scenes. (4) The music continues at a steady volume as the woman provides detailed product information, including the sound of liquid being poured onto the pad. (5) The video ends with a high-pitched, enthusiastic invitation to check out a sale, followed by a slight fade-out of the background music.",
+      "text_narrative_log": "(1) Functional Text: '女生的禁忌' (Girls' taboo), '就是「白褲」' (is 'white pants'). Tone: Hook/Intriguing. (2) Decorative Text: '打破這個禁忌！' (Break this taboo!). Tone: Determined. (3) Functional Text: '只貼一片衛生棉' (Only wearing one pad). Tone: Informative. (4) Decorative Text: 'GARMIN Venu 4 很好看吧' (Isn't the GARMIN Venu 4 pretty?). Tone: Casual. (5) Functional Text: '愛康超引力涼感棉' (Icon Super Gravity Cooling Pad). Tone: Product Branding. (6) Functional Text: 'avenue100' (Coupon code). Tone: Promotional."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook (taboo challenge) -> Lifestyle Montage (testing) -> Product Demonstration (evidence) -> Outro (promotion)."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Torso"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 female main creator, 1 blurred male companion in background.",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a black shirt and white pants, later transitioning to yellow striped pajamas."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Indoor Gym",
+          "Restaurant",
+          "Bedroom",
+          "Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Features a bedroom with light wood furniture, a white-walled squash court with wooden floors, a typical restaurant interior, and a supermarket electronics aisle.",
+      "lightingStyle": "Bright, even indoor lighting throughout.",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV",
+        "Handheld",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Noodles",
+        "Beef"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartwatch",
+        "Rice Cooker"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "愛康",
+        "GARMIN"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Steady and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Sizzling",
+        "Ball impact"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Cafe"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Real-world Test -> Product Demonstration -> CTA",
+      "mainPurpose": "The video is a lifestyle-based advertisement for 'Icon' (爱康) sanitary pads. It uses the visual challenge of wearing white pants during menstruation to demonstrate the product's reliability and absorption power. By integrating daily activities like sports, dining, and shopping, it aims to prove that the product allows for a worry-free period, ultimately driving sales via a 'Double 11' promotional event.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product demonstration, mention of a promotional discount code 'avenue100', and specific mention of the brand name and event.",
+      "endorsementObject": [
+        "愛康",
+        "GARMIN"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-speed editing synchronized with BGM beats and high-density emotional text overlays.",
+      "freeDescribe": "The video effectively bridges lifestyle vlogging with commercial endorsement, leveraging the creator's personal credibility to market feminine hygiene products."
+    }
+  }
+}

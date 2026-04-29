@@ -1,0 +1,180 @@
+{
+  "videoName": "2uncle987-20251214151258-4472655649723698.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 59,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Entertainment",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins in a brightly lit airport terminal. A group of friends is standing near a check-in counter; one woman is carrying a massive pink plush toy shaped like Crayon Shin-chan. A man in a grey hat gestures and talks excitedly to her. (2) The scene shifts to an indoor arcade (Mint Play). A chronological montage shows several different friends (Kiki, Anita, +0, KID, etc.) attempting a skill game where they must stop a digital timer exactly at 10.00 seconds. They press a large orange button, and the screen displays their near-misses (e.g., 10.04, 9.68). (3) A woman named Amy takes her turn and stops the clock. The glass door of the prize cabinet suddenly swings open. The group reacts with shock and intense joy, jumping and screaming. A man reaches in and pulls out the giant pink plush toy. The video ends with the group posing for a commemorative photo with the prize.",
+      "audio_narrative_log": "(1) The audio starts with lively Mandarin Chinese dialogue, laughing, and the ambient noise of a busy airport. A light, upbeat, and whimsical BGM plays in the background. (2) As the setting changes to the arcade, the soundscape is filled with electronic arcade BGM, mechanical button clicks, and digital beeps from the game timer. Each failed attempt is accompanied by the group groaning or shouting in disappointment. (3) When the prize door opens, there is a sudden burst of high-pitched screaming and cheering. A triumphant, high-energy BGM takes over as the group celebrates loudly with laughter and clapping until the end.",
+      "text_narrative_log": "(1) Functional Text: \"我要申請機位\" (I want to apply for a seat) appears as a variety-style caption. (2) Decorative/Effect Text: Player labels like \"選手1號：Kiki\" and \"選手10號：Amy\" appear to track the game. Result overlays like \"失敗 10.04\" (Failed 10.04) and \"差一點點\" (So close) emphasize the tension. (3) Hook/Conclusion Text: \"門開了!\" (The door opened!) appears in large yellow letters. Final text reads \"謝謝蔡宗翰\" (Thank you Cai Zonghan) and \"此次遊戲金主\" (The sponsor of this game) to credit the friend who paid."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.68,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at airport -> Montage of failed game attempts -> Successful prize win -> Celebration and group photo."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 12,
+      "maleDetectAmount": 5,
+      "femaleDetectAmount": 7,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 4,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "Approximately 5-6 core friends appearing in the arcade shots, with several travelers and children visible in the airport and arcade background.",
+      "mainCharacterDescription": "A group of young adults in casual travel attire; one man wears a grey trapper hat and a black sweater, one woman wears a white sweater with blue floral patterns, and another wears a green bomber jacket and a beanie."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Airport",
+          "Arcade"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The first scene is a modern airport terminal with check-in desks and baggage carts. The second scene is a vibrant arcade filled with glowing claw machines and neon lights.",
+      "lightingStyle": "Bright indoor artificial lighting",
+      "weather": "Indoor",
+      "season": "Winter (based on heavy coats and trapper hats)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and High Saturation",
+      "cameraWork": [
+        "Handheld",
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Game Machine",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Mint Play",
+        "Crayon Shin-chan"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut between airport and arcade; cross-fade music tracks.",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 4,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, playful, and chaotic",
+        "pitch": "High-pitched during celebration",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking and cheering",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Pop",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Digital Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Game beeps",
+        "Prize notification sound",
+        "Cheering crowd"
+      ],
+      "ambientNoise": [
+        "Arcade atmosphere",
+        "Airport terminal noise"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Repeated Challenge -> Final Success -> Climax Celebration.",
+      "mainPurpose": "The video is a lifestyle travel vlog intended to share a lucky and highly emotional moment with the audience. It documents a group of friends succeeding at a difficult arcade game in South Korea and winning a large prize, emphasizing their shared joy and friendship.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video appears to be a personal vlog rather than a paid promotion, though the arcade 'Mint Play' is clearly visible.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing with variety-show style text annotations and group reactions typical of Taiwanese travel influencers.",
+      "freeDescribe": "The presence of Crayon Shin-chan merchandise suggests the travel location or arcade has a focus on popular Japanese IP, which is very common in East Asian tourism."
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "videoName": "cocowine0205-20251222151507-876200725392034.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 60,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair and a white blouse stands in a Costco aisle holding a large white bag of Ika Ten Daio squid snacks. She smiles and gestures toward the stacked boxes of snacks behind her. (2) The camera zooms into the product packaging, showing Japanese text and imagery of tempura squid. A hand enters the frame to point at the price tag on the shelf. (3) The scene transitions to an indoor setting where the woman and another female companion in a red hat sit at a table with the opened snack bag. They taste the product, show a close-up of a single piece of snack, and then react with disappointed facial expressions, eventually crossing their arms and shaking their heads.",
+      "audio_narrative_log": "(1) Upbeat and high-tempo electronic background music plays throughout. A female voice speaks with high energy, introducing the snack found at Costco. (2) A male voice (off-camera) joins the conversation, discussing the price breakdown of the large pack and comparing it to other products. (3) The background music continues as the two female voices provide a critique during a taste test, with their tone shifting from curious to disappointed as they describe the texture. Sound effects (bings/dings) punctuate the text overlays.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo appears at the top. (2) Hook Text: '不要再去日本扛！魷魚天婦羅大王' (Don't go to Japan to lug it back! Squid Tempura King) in large bold characters. (3) Functional Text: '449元 裡面有10包' (449 NTD, 10 packs inside) and '一包44.9元' (44.9 NTD per pack). (4) Decorative Text: '裹太厚' (Coating too thick) with an explosion graphic during the taste test. (5) Functional Text: '台灣也不用扛了' (No need to lug it back in Taiwan either) appearing at the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 4.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at retail store -> Product detail zoom -> Home taste test -> Negative verdict"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female main creator in store, 1 female companion at home, 1 male hand/voice off-camera.",
+      "mainCharacterDescription": "A young woman with long black hair wearing a white puffed-sleeve blouse."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Retail Store",
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The first half is set in a warehouse-style Costco store with tall shelves and bulk products. The second half is a domestic indoor setting with a table, a yellow plush toy, and home decor.",
+      "lightingStyle": "Bright fluorescent store lighting followed by warm interior lighting.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Japanese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Squid Snacks",
+        "Tempura",
+        "Seaweed"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "MARUESU"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and conversational, turning critical",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Notification ding",
+        "Explosion sound"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Price/Specs -> Taste Test -> Negative Recommendation",
+      "mainPurpose": "To provide a honest review of a specific Japanese snack sold at Costco Taiwan. The video starts as a 'must-buy' recommendation but ends with a negative verdict, advising viewers that the coating is too thick and the taste is inferior to traditional dried shredded squid snacks.",
+      "visualEmotion": "Energetic yet disappointed"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The reviewers give a negative verdict, discouraging purchase due to quality issues.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced vlog style with high-density variety-show text overlays.",
+      "freeDescribe": "The contrast between the initial excitement of finding the product and the eventual disappointment creates a relatable 'anti-recommendation' content style."
+    }
+  }
+}

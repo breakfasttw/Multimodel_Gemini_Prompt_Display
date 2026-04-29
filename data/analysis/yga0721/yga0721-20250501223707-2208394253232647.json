@@ -1,0 +1,183 @@
+{
+  "videoName": "yga0721-20250501223707-2208394253232647.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Ad",
+        "Comedy",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A male creator in a green t-shirt enters the frame holding chopsticks, excitedly challenging a female creator in an olive hoodie. (2) Three small white bowls containing different types of cooked cephalopods (squid, neritic squid, and squid) are lined up on a white counter. (3) The female creator uses chopsticks to taste from the bowls while the male creator gestures wildly, shouting and pointing at his watch. (4) The male creator shifts to a promotional stance, giving a thumbs up and pointing towards the camera as graphic overlays appear. (5) A smartphone screen is shown, scrolling through the 'Taiwan Mobile' website highlighting 5G and fiber optic plans. (6) The male creator holds the phone while the female creator eats in the background. (7) Both creators stand together in the kitchen setting, performing a synchronized dance with finger hearts and thumbs-up gestures as the video ends.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop music starts immediately as a male voice shouts excitedly with a high-pitched, energetic tone. (2) The male voice explains a game involving identifying squid while the female voice responds with brief, curious inquiries. (3) As the game begins, the male voice increases in speed and volume, shouting 'Faster!' repeatedly, accompanied by a ticking clock sound effect. (4) The audio transitions to a more structured promotional tone as the male voice describes telecom benefits, with 'cha-ching' cash register sound effects interspersed. (5) Background music remains energetic but slightly lower in volume to favor the clear, professional narration about data plans. (6) The video concludes with the male voice shouting a brand slogan followed by both characters making light vocalizations of excitement.",
+      "text_narrative_log": "(1) 'Zhang Ta-ke is here' - Hook text indicating the start of a character bit. (2) 'Play an octopus game with you' - Functional text explaining the premise. (3) 'Squid, Neritic Squid, Squid' - Functional labels for the three bowls. (4) '10 Seconds' - Effect text emphasizing the time limit. (5) 'Taiwan Mobile \"Good Speed Double\" is fastest' - Promotional hook text. (6) '5G Mobile + Fiber Wi-Fi 6' - Functional text describing the product. (7) 'Netflix + Disney+ + MyVideo Max' - Branding text for included services. (8) '$500/month' - Price information. (9) 'Taiwan Mobile - Great Possibilities' - Brand slogan."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 4.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Game Challenge -> High-Pace Tasting -> Transition to Telecom Ad -> Detailed Plan Explanation -> Outro Celebration."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Torso"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male creator (Cai Age) and 1 female creator (Er Gu Ma) are consistently in frame.",
+      "mainCharacterDescription": "The male creator wears a teal t-shirt over a white long-sleeve shirt and denim jeans. The female creator wears an olive green oversized hoodie with a daisy graphic."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern kitchen or studio setting with minimalist grey cabinetry and a clean white countertop.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Squid",
+        "Seafood"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "台灣大哥大",
+        "Netflix",
+        "Disney+",
+        "MyVideo",
+        "Max",
+        "HBO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "Sharp/high",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Clock ticking",
+        "Cha-ching",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Transition -> Info -> CTA",
+      "mainPurpose": "The video utilizes a high-energy, comedic challenge ('Squid identification game') as a narrative hook to capture attention before pivoting into an explicit endorsement for Taiwan Mobile's telecom and streaming bundle plans. The purpose is to demonstrate the speed and value of the 'Good Speed Double' plan by associating it with the 'speed' required for the game and the savings available for leisure activities.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct address to camera, display of brand logos (Taiwan Mobile), screen recording of service features, and promotional pricing details.",
+      "endorsementObject": [
+        "台灣大哥大 (Taiwan Mobile)"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Cai Age's signature loud, exaggerated comedic delivery and the presence of 'Er Gu Ma'.",
+      "freeDescribe": "The video successfully blends local Taiwanese food culture (seafood/squid) with a modern digital lifestyle pitch. The high editing density and frequent text overlays are characteristic of top-tier Taiwanese social media influencers."
+    }
+  }
+}

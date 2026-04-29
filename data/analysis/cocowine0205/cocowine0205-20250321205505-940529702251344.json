@@ -1,0 +1,180 @@
+{
+  "videoName": "cocowine0205-20250321205505-940529702251344.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 54,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Food"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman wearing a blue beret and white vest stands in an aisle at Costco, gesturing towards a large green bag of snacks. Behind her are stacked boxes of the same product. (2) The scene shifts to an indoor living room setting where the same woman, now with pigtails, sits at a table. She picks up a large bag of snacks, takes out a small triangular packet, and opens it. (3) She shows a single green-coated pistachio to the camera, breaks it in half to show the inside, and then eats it while smiling and giving a thumbs-up. (4) Close-up shots show the cross-section of the snack and its crispy texture.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop music begins playing. A high-pitched, energetic female voice speaks in Chinese about finding a specific snack at Costco. (2) The music continues at a consistent volume. The speaker's tone remains enthusiastic as she describes the packaging and the taste of the snack. (3) A distinct 'crunch' sound effect (SFX) is heard when the woman bites into the snack. (4) The audio ends with her final enthusiastic remarks and the music fading out.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo at the top. (2) Hook Text: '不用在日本買了' (No need to buy in Japan anymore), '千成堂綠色酥脆開心果' (Sennarido Green Crispy Pistachio) in large, colorful variety-show style font. (3) Functional Text: '279元 小袋包裝' (279 dollars, small bag packaging), '行李的空間又可以省一些' (Save some luggage space). (4) Decorative Text: '這個 好好吃哦' (This is so delicious), '超級香' (Super fragrant), '非常清脆' (Very crispy) appearing with stars or impact graphics."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at retail store -> Transition to home demo -> Close-up product tasting -> Outro recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main creator throughout the video.",
+      "mainCharacterDescription": "A young woman with dark hair, initially wearing a blue beret and white vest, later appearing in a teal sweater with hair in pigtails."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Supermarket",
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene is a warehouse-style supermarket (Costco) with shelves and palletized goods. Second scene is a cozy home environment with a wooden table and soft furniture visible.",
+      "lightingStyle": "Bright indoor lighting / Natural light",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pistachios",
+        "Snack bag"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "千成堂"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Crunching",
+        "Pop sound"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Location Intro -> Product Demonstration -> Recommendation",
+      "mainPurpose": "The video serves as a product recommendation and 'shopping hack' for Costco members. It informs viewers that a popular Japanese snack brand (Sennarido) is now available at Costco, suggesting they no longer need to travel to Japan or use luggage space to bring it home. The creator demonstrates the product's quality and taste to validate the recommendation.",
+      "visualEmotion": "Energetic and Positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct product showcase, mention of price, and specific brand focus.",
+      "endorsementObject": [
+        "千成堂",
+        "COSTCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Heavy use of colorful, oversized Chinese captions and high-energy vocal delivery.",
+      "freeDescribe": "Typical short-form social media review style popular in East Asian markets, focusing on convenience and 'life hacks'."
+    }
+  }
+}

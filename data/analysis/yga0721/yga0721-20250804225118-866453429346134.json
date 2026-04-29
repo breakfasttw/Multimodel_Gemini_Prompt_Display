@@ -1,0 +1,177 @@
+{
+  "videoName": "yga0721-20250804225118-866453429346134.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 53,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Reaction",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Kamogawa"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a massive orca leaping from a pool and crashing back down, sending a huge wave of water toward the audience. (2) The scene cuts to an indoor aquarium setting where a person is calmly pointing at a beluga whale swimming behind glass. (3) The footage shifts back to the outdoor stadium reality, where multiple orcas take turns splashing the crowd. People in the front rows are wearing blue raincoats and are getting completely drenched. (4) A young boy is shown in a close-up, screaming with his eyes closed as water pours over him. (5) A woman in a blue raincoat is seen laughing and wiping water from her face while holding a smartphone. (6) The camera pans to show the orca swimming near the glass, seemingly observing the wet crowd, followed by shots of people trying to dry off and laughing at their soaked state.",
+      "audio_narrative_log": "(1) The audio starts with loud, thunderous splashing sounds followed by immediate, high-pitched screams and cheers from a large crowd. (2) A calm, melodic J-pop song with soft piano and male vocals plays briefly during the 'expectation' segment. (3) The audio cuts back to the intense roar of water and chaotic crowd noise. A male voice (off-screen) is heard shouting in Mandarin, laughing and saying phrases like 'Alright, alright!', 'Too much!', and 'Tsunami!'. (4) The sounds of wet plastic raincoats rustling and water slapping against the seats are prominent. (5) The video ends with continued laughter and the sound of the orca surfacing.",
+      "text_narrative_log": "(1) 'POV：實際上的海生館' (POV: Reality of the aquarium) - Hook text, informative tone. (2) 'POV：我以為的海生館' (POV: What I thought the aquarium was like) - Hook text, contrasting tone. (3) Blue banners at the top remain constant throughout most of the video."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.9,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Reality (Chaos) -> Expectation (Calm) -> Reality (Intense Splashing & Reaction)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 50,
+      "maleDetectAmount": 20,
+      "femaleDetectAmount": 20,
+      "kidsDetectAmount": 10,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Facial close-ups"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "A full stadium of audience members, 1 main male narrator (POV), 1 female friend, and 1 young boy in focus.",
+      "mainCharacterDescription": "The main visible characters are a woman in a blue SeaWorld-branded raincoat laughing and a young boy in a similar raincoat screaming excitedly."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Aquarium",
+          "Outdoor Stadium"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "An outdoor aquatic stadium with a large deep-blue pool and tiered seating filled with people. A brief shot of an indoor, brightly lit beluga whale tank.",
+      "lightingStyle": "Overcast natural light (outdoor) and artificial cool lighting (indoor).",
+      "weather": "Overcast",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural, dominated by blues and greys.",
+      "cameraWork": [
+        "POV",
+        "Handheld",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Orca",
+        "Beluga Whale"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "SeaWorld"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 50,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 10,
+          "kids_vocal_count": 5
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, shocked, and humorous.",
+        "pitch": "Varied (High-pitched screams, deep male commentary).",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Mandarin",
+          "Japanese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "J-pop Ballad",
+      "bgmBPM": 75,
+      "instrumentFamiliesAudible": [
+        "Keyboard",
+        "Strings"
+      ],
+      "instrumentsAudible": [
+        "Piano"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Water splashing",
+        "Crowd cheering",
+        "Wind"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Comparison: Reality -> Expectation -> Reality",
+      "mainPurpose": "To humorously highlight the physical intensity of an orca 'splash show' by contrasting the popular expectation of a peaceful aquarium visit with the chaotic, wet reality of the front-row experience.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "While SeaWorld branding is visible on the raincoats, the video is formatted as a personal travel reaction vlog.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "POV camera angle combined with 'Expectation vs. Reality' text overlays.",
+      "freeDescribe": "The video captures a highly viral and relatable moment of being overwhelmed by nature in a controlled environment, emphasizing crowd camaraderie through shared discomfort."
+    }
+  }
+}

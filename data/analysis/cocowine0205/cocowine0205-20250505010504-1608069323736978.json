@@ -1,0 +1,185 @@
+{
+  "videoName": "cocowine0205-20250505010504-1608069323736978.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Shopping Guide",
+        "Promotional"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a graphic title card featuring the Costco Wholesale logo, a cartoon character, and text indicating a weekly special report for 04/28-05/04. (2) A rapid series of cuts follows, showing various products stacked on warehouse shelves: Ariel laundry detergent, Mayflower kitchen towels, Philips epilators, Starbucks coffee beans, and various candies like M&Ms and Maltesers. (3) The sequence continues through dozens of items including nuts, mints, snacks like Cheetos, wine, frozen fish, and household goods, each appearing for about 1-2 seconds with prominent price and discount text overlays.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic background music starts immediately. (2) A male voice speaks at a very high speed, rhythmically announcing the name of each product followed by its discounted price in Mandarin. (3) The vocal delivery is continuous and synchronized with the rapid visual cuts, maintaining a consistent high-tempo soundscape of excitement and urgency throughout the entire duration.",
+      "text_narrative_log": "(1) Functional Text: Subtitles display product names such as 'ARIEL 補充包' and price calculations like '原價859 -180 特價679'. (2) Decorative/Hook Text: The intro features '好市多 每週特價速報' (Costco Weekly Special Report) and '記得追蹤我們哦' (Remember to follow us). (3) Content & Tone: The text is highly informative, focusing on brand names and financial savings with a direct and promotional tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 45,
+      "averageSceneDuration": 1.9,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Rapid-fire product list -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 0,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Background figures"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "Occasional hands moving products and blurry shoppers in the background of the warehouse aisles.",
+      "mainCharacterDescription": "None"
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse",
+          "Retail Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The background consists of high-density warehouse shelving units, cardboard shipping boxes, and the interior of a Costco retail store.",
+      "lightingStyle": "Bright studio-like warehouse lighting",
+      "weather": "Indoor",
+      "season": "Spring",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and Saturated",
+      "cameraWork": [
+        "POV",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Coffee",
+        "Chocolate",
+        "Nuts",
+        "Wine",
+        "Ramen",
+        "Beef",
+        "Mango Popsicles"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Epilator"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "ARIEL",
+        "PHILIPS",
+        "STARBUCKS",
+        "M&M'S",
+        "CHEETOS",
+        "NESTLE"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and urgent",
+        "pitch": "Medium",
+        "loudness": "High",
+        "speed": "Extremely fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Intro -> Catalog Presentation -> Repetition",
+      "mainPurpose": "To provide a rapid and efficient summary of current sales and discounts at Costco Taiwan, serving as a 'shopping guide' for bargain hunters during the specified week.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct listing of product prices and specific discounts at a named retail chain.",
+      "endorsementObject": [
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-speed rhythmic price narration over rapid warehouse footage.",
+      "freeDescribe": "The video is clearly optimized for short-form video consumption (TikTok/Reels), focusing on information density rather than cinematic aesthetics."
+    }
+  }
+}

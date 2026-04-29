@@ -1,0 +1,180 @@
+{
+  "videoName": "2uncle987-20251230003533-1429458425637877.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 50,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Promotional",
+        "Lifestyle",
+        "Health & Wellness"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with two young women in a modern white kitchen; one wears a black off-the-shoulder top and holds a jar and spoon, while the other in a black t-shirt holds a phone. (2) A quick cut shows a third woman in black gym wear looking concerned while touching her chin, then she walks toward a white water dispenser in the background. (3) Back to the first two women who look surprised or excited at their phones. (4) Close-up shots of the 'Geng Yuan' black sesame powder jar and a spoon lifting the fine grey powder into a double-walled glass. (5) The main woman is seen tasting the mixture with a smile. (6) Detailed shots show the powder being mixed with hot water to create a thick paste and whole black sesame seeds on a small plate. (7) The video concludes with all three women standing together in the kitchen, presenting stacks of the sesame powder jars toward the camera with enthusiastic expressions.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop-style BGM starts immediately with the sound of female voices chatting enthusiastically. (2) At 0:05, the distinct sound of a water dispenser filling a cup is heard over the music. (3) A female narrator (one of the on-screen women) begins a fast-paced, high-pitched, and friendly promotional pitch, describing the texture and benefits of the sesame powder. (4) Subtle sound effects of clinking spoons and stirring are layered under the narration. (5) The music continues at a consistent volume as the narrator discusses calcium and fat content. (6) The video ends with a synchronized group cheer/tagline from all three women as the music reaches a final beat.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles appear throughout the video translating the spoken dialogue. (2) Decorative/Effect Text: '耕沅 94細高鈣芝麻粉' appears as a large title identifying the brand and product. (3) Decorative Text: '粉末細緻', '冷水或冰水都好沖泡', '不容易沉澱' highlighting product features. (4) Data Comparison Text: '鈣質每100g 1800mg vs 1400mg' and '脂肪每100g 35mg vs 53mg' comparing the product to others. (5) Hook Text: '老人小孩 補充鈣質' and '真的很好喝' appear at the end to appeal to target audiences."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Product Introduction -> Technical Comparison -> Usage Demo -> Group Endorsement"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "3 main female presenters appearing in the kitchen scene.",
+      "mainCharacterDescription": "Young Asian woman with long dark hair, wearing a black off-the-shoulder top with hair clips."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A clean, modern kitchen with white cabinets, a black induction cooktop, and wooden accents. A white water dispenser is visible in a side area.",
+      "lightingStyle": "Bright, even studio lighting simulating daylight.",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation, Bright",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Black Sesame Powder",
+        "Whole Black Sesame Seeds",
+        "Liquid/Water"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Induction Cooktop",
+        "Water Dispenser"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "耕沅"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 3,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, friendly, and persuasive",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Water pouring",
+        "Spoon clinking"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Product Feature Demo -> Data Comparison -> CTA",
+      "mainPurpose": "The video is a commercial endorsement for 'Geng Yuan' black sesame powder. It uses a relatable kitchen setting and enthusiastic female influencers to demonstrate the product's superior solubility (fine powder) and nutritional value (high calcium, low fat) compared to competitors. The ultimate goal is to drive sales by showcasing the product as a healthy, easy-to-use supplement for the whole family.",
+      "visualEmotion": "Energetic and positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of the product, comparison charts of nutritional data, and a group call-to-action at the end.",
+      "endorsementObject": [
+        "耕沅"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing with informative text overlays commonly used by Taiwanese lifestyle influencers.",
+      "freeDescribe": "The video effectively targets health-conscious consumers by focusing on 'calcium' and 'low fat', which are high-interest keywords in the wellness niche."
+    }
+  }
+}

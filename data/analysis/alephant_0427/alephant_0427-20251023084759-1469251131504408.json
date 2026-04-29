@@ -1,0 +1,169 @@
+{
+  "videoName": "alephant_0427-20251023084759-1469251131504408.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 46,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Dance",
+        "Pole Dance"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman stands in a dance studio wearing a yellow top and white leggings, positioned next to a silver vertical dance pole. (2) She begins a pole dance routine, performing fluid spins, inversions, and leg extensions while gripping the pole. (3) The dancer executes a series of graceful, athletic movements, including a split while suspended and several high-speed spins. (4) She gracefully transitions back to the floor, performing a backbend before standing up and smiling at the camera to conclude the performance.",
+      "audio_narrative_log": "(1) A pop song with a steady beat and melodic female vocals begins as the video starts. (2) The music maintains a constant tempo and energy throughout the performance, with the vocals following a lyrical structure. (3) The song continues until the end of the video, fading out slightly as the dance concludes. No ambient studio noise or speech is audible.",
+      "text_narrative_log": "(1) 'PANPOLE STUDIO' is visible as functional text on the background wall, identifying the location in a professional and stationary manner."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 46.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Pole dance performance -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female dancer performing in the center.",
+      "mainCharacterDescription": "A young woman with long dark hair wearing a yellow crop top, tight white leggings, and high-heeled white platform boots."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Dance Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A clean, modern dance studio with light wooden floors, beige walls, and a large golden logo for 'PANPOLE STUDIO'. The ceiling features exposed white pipes and studio lighting.",
+      "lightingStyle": "Bright, even studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Warm, clean, and bright",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "PANPOLE STUDIO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Melodic and smooth",
+        "pitch": "Medium",
+        "loudness": "Medium",
+        "speed": "Normal",
+        "speechDensity": "Continuous singing",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Pop",
+      "bgmBPM": 105,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Performance -> Outro",
+      "mainPurpose": "To showcase the physical skill, flexibility, and artistic expression of a pole dance performance within a professional studio environment.",
+      "visualEmotion": "Graceful and athletic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "The video is set in a branded studio with the logo prominently displayed throughout the entire performance.",
+      "endorsementObject": [
+        "PANPOLE STUDIO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-heeled platform dance boots, professional studio backdrop.",
+      "freeDescribe": "The video focuses on the aesthetic and technical execution of pole dance, serving as a talent showcase or promotional content for the studio."
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "videoName": "3ctim-20250806224914-1220129623651118.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 38,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Vlog",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Tokyo"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man with glasses and a plaid flat cap stands in an airport terminal, speaking directly to the camera and gesturing with his right hand. (2) Transition to a close-up of a tablet on a stand performing facial recognition on the man, followed by screen recordings of a web-based ticket booking interface on a mobile device showing dates and ticket options. (3) The man holds up two printed tickets in front of a station ticket gate, pointing to the details on the paper. (4) A white and blue Keisei Skyliner train pulls into a platform. (5) The man is shown sitting inside the train car, speaking softly to the camera. (6) He walks towards a manual ticket gate at a station and hands his ticket to a uniformed staff member for verification.",
+      "audio_narrative_log": "(1) Upbeat, high-energy electronic background music starts immediately along with a high-pitched, enthusiastic male voice speaking Mandarin. Background airport noise is present. (2) Music continues at a steady tempo; sound effects like a digital 'ding' and a 'shimmer' sound occur during the ticket demonstration. (3) The rhythmic sound of a train moving on tracks is heard briefly, followed by the muffled interior ambience of a train cabin. (4) Sound of a ticket gate beeping and station ambient chatter as the man exits.",
+      "text_narrative_log": "(1) \"教你怎麼樣從 成田機場\" (Hook: Teaching you how to from Narita Airport, Enthusiastic). (2) \"到東京市區 最快的方法\" (Hook: Fastest way to Tokyo city center, Informative). (3) \"選擇單程Skyliner購票\" (Functional: Select one-way Skyliner ticket, Neutral). (4) \"填寫資料\" (Functional: Fill in information, Neutral). (5) \"出站成功\" (Decorative: Successfully exited the station, Celebratory/Informative)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Digital Ticket Demo -> Boarding Train -> Reaching Destination"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 6,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male host, 1 male station staff, approximately 4 other passengers/passers-by in the background.",
+      "mainCharacterDescription": "Adult male wearing a black-and-white checkered flat cap, wire-rimmed glasses, a beige jacket over a black zip-up sweater, and a white t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Airport",
+          "Indoor Train",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Narita Airport terminal with signage, the interior of a modern Japanese express train, and the ticket gate area of a train station.",
+      "lightingStyle": "Bright artificial indoor lighting",
+      "weather": "Unknown",
+      "season": "Spring/Autumn",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Train"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Tablet",
+        "Ticket Scanner"
+      ],
+      "landmark": [
+        "Narita Airport"
+      ],
+      "brandLogos": [
+        "Keisei Skyliner",
+        "JR Line"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched, excited, and helpful",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Beep",
+        "Meme sounds"
+      ],
+      "ambientNoise": [
+        "Airport chatter",
+        "Train station noise"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Problem -> Digital Solution -> Real-world Validation",
+      "mainPurpose": "The video serves as a practical travel tutorial aimed at Chinese-speaking tourists visiting Tokyo. It highlights a specific, modern ticketing method (facial recognition/online booking) for the Keisei Skyliner to simplify the journey from Narita Airport to the city center, focusing on efficiency and ease of use.",
+      "visualEmotion": "Energetic and Optimistic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "While the video features the Keisei Skyliner, it is framed as a travel tip rather than a paid advertisement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3C Tim's characteristic flat cap and energetic tech-expert persona.",
+      "freeDescribe": "The video uses typical social media editing styles common in tech/travel vlogs, such as fast cuts and large descriptive text overlays to keep viewers engaged."
+    }
+  }
+}

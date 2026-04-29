@@ -1,0 +1,178 @@
+{
+  "videoName": "cocowine0205-20250419125505-2322674868244386.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 87,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Promotional"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) In a Costco warehouse setting, a young woman wearing a blue beret and white sweater holds a multi-pack of Red Seal Propolis toothpaste. She gestures excitedly toward the stacked boxes of the product behind her. (2) The scene shifts to a bright indoor home setting where the same woman and another woman are seated at a white table. They hold the toothpaste boxes and tubes, pointing at details on the packaging. (3) A close-up shot focuses on the 'Silver Fern' certification and the 'Made in New Zealand' label on the box. (4) Both women are seen in a bathroom setting, looking into the mirror while brushing their teeth with electric toothbrushes, smiling throughout. (5) They return to the table, showing the individual tubes and performing heart-shaped hand gestures. (6) The video ends with them holding the product and waving at the camera.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic music begins immediately. A high-pitched, energetic female voice speaks quickly in Mandarin, expressing surprise at the price of toothpaste at Costco. (2) Music continues at a steady volume as two female voices engage in a conversation. They alternate between explaining the product's natural ingredients and its lack of chemical additives. (3) Occasional high-pitched sound effects (ding, pop) are synced with text overlays. (4) The sound of electric toothbrushes humming is briefly audible during the bathroom scene. (5) The voices maintain a friendly, enthusiastic tone until the end, concluding with a call for comments.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo appears at the top. Subtitles translate the Mandarin speech throughout. (2) Decorative Text: '超扯' (Unbelievable), '比在紐西蘭買還要便宜' (Cheaper than buying in New Zealand) in large, colorful fonts. (3) Product Info: 'red seal 紅印 蜂膠牙膏' (Red Seal Propolis Toothpaste), '6入649元' (6-pack for 649 NTD). (4) Hook Text: '大容量' (Large capacity), '不含氟化物/防腐劑' (No fluoride/preservatives), '全家安心使用' (Safe for the whole family). (5) CTA: '留言 我愛刷牙牙齒好 抽三個人讓你免費試用' (Comment 'I love brushing my teeth' to win one of three free trials)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 3.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at store -> Detailed product breakdown at home -> Usage demo -> Promotional giveaway outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators are shown together throughout the review and demo.",
+      "mainCharacterDescription": "Two young Asian women; one wears a blue beret and a white cable-knit vest over a sweater; the other wears a cream-colored top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse",
+          "Home Interior",
+          "Bathroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Starts in a Costco warehouse aisle with high shelves and boxes. Moves to a minimalist modern home with a white table and a well-lit bathroom with a mirror.",
+      "lightingStyle": "Bright, even indoor lighting with a slight studio-lit feel in the home scenes.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Electric Toothbrush"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco",
+        "red seal"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with cross-faded music",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and persuasive",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Price Comparison -> Ingredient/Safety Breakdown -> Practical Demo -> Giveaway CTA",
+      "mainPurpose": "To promote the 'red seal' Propolis toothpaste available at Costco. The content focuses on the cost-effectiveness of buying it in Taiwan versus its origin country (New Zealand), emphasizes its natural health benefits (no chemicals, suitable for pregnant women/children), and uses a giveaway to drive user engagement and comments.",
+      "visualEmotion": "Energetic and Positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The entire video is centered on the specific brand's features, pricing at a specific retailer, and includes a clear giveaway of the product.",
+      "endorsementObject": [
+        "red seal"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy female duo presentation style, heavy use of colorful pop-up captions common in Taiwanese lifestyle vlogs.",
+      "freeDescribe": "The video leverages the 'Costco shopping find' trend to establish credibility and perceived value. The emphasis on 'Silver Fern' certification appeals to consumers seeking authentic international health products."
+    }
+  }
+}

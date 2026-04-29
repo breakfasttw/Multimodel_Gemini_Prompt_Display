@@ -1,0 +1,175 @@
+{
+  "videoName": "3ctim-20250218131707-1449066426911182.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 35,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Information"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a male host in a grey sweatshirt and a patterned cap talking to the camera with expressive hand gestures. A cartoon cat appears on the left side of the frame with floating hook text. (2) The scene transitions to a graphic-heavy layout showing 'Application Instructions' and a numbered list of three conditions while the host continues to speak in a small frame at the bottom. (3) A series of screen animations and UI recordings follow, demonstrating the website for the Bureau of Consular Affairs, login methods using MyData, email verification, and uploading photos. (4) The final phase shows a cartoon animation of different office buildings followed by a physical Taiwan passport being displayed.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music starts immediately. A male voice speaks enthusiastically and rapidly in Mandarin. (2) Short 'ding' and 'pop' sound effects play periodically to highlight points appearing on screen. (3) The background music maintains its pace while the male narration explains the step-by-step online process. (4) The music continues until the end of the clip as the vocal concludes.",
+      "text_narrative_log": "(1) Decorative Hook: 'Passport expired' and 'Are you still going to queue like a fool?' appears in large, colorful characters with an emotional tone. (2) Functional Text: 'Starting 2025' and 'Online renewal available' providing temporal context. (3) Numbered instructions: (1) Permanent resident status (2) Passport already expired (3) No changes to personal data. (4) Functional UI text: 'Search BOCA', 'MyData', 'Verification', and 'Online Payment NT.1300'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 1.59,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Explanation of Conditions -> Step-by-step UI Tutorial -> Completion result"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male host seen throughout the video.",
+      "mainCharacterDescription": "A middle-aged man wearing a grey long-sleeved sweatshirt, a blue-and-white patterned newsboy cap, and glasses."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Initially a plain grey studio wall, transitioning into various graphic backgrounds, website UI mockups, and cartoon-style illustrations of government buildings.",
+      "lightingStyle": "Bright, even studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Vibrant",
+      "cameraWork": [
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Cartoon Cat",
+        "Cartoon Dog",
+        "Cartoon Bird"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Laptop Screen"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "BOCA"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Pop",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Conditions -> Process -> CTA",
+      "mainPurpose": "The video serves as an educational tutorial to inform the public about the new online passport renewal system launched by the Taiwan Ministry of Foreign Affairs (BOCA) starting in 2025. It aims to demonstrate the convenience of the digital process compared to traditional in-person queuing, providing a step-by-step guide on eligibility and application procedures.",
+      "visualEmotion": "Energetic and helpful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of variety-show style text graphics and a recurring cartoon mascot (cat).",
+      "freeDescribe": "The video relies heavily on motion graphics and screen captures to convey complex government procedures in a digestible format for social media consumers."
+    }
+  }
+}

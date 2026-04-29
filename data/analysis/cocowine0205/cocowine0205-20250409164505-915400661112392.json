@@ -1,0 +1,184 @@
+{
+  "videoName": "cocowine0205-20250409164505-915400661112392.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in a white shrug stands in front of a Costco freezer, pointing at boxes of Milo ice cream. (2) The scene shifts to close-ups of the product packaging in the store. (3) Transition to an indoor home setting where two women sit at a table with the product box. (4) One woman holds up an ice cream bar, showing its texture and size compared to her fingers. (5) A close-up shows the ice cream bar bitten in half, with white liquid filling flowing out. (6) Both women eat the ice cream, nodding and showing enthusiastic facial expressions.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced electronic background music plays continuously throughout. (2) A male narrator provides a energetic voiceover, describing product details and price. (3) Occasional high-pitched female exclamations and laughter are heard from the onscreen creators. (4) Crisp sound effects (SFX) such as a 'crunch' sound when biting the ice cream and 'pop' sounds for text transitions are audible. (5) Sound of environmental hum at the beginning fades into clear studio-quality dialogue during the review phase.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo appears at the top throughout the intro. (2) Functional Text: '299元 每支24.92' indicates price. (3) Hook Text: '超級黑馬' (Super dark horse) and '冰淇淋' (Ice cream) in colorful floating bubbles. (4) Functional Text: '雀巢美祿的 牛奶流心雪糕' (Nestle Milo Milk Flowing Heart Ice Cream). (5) Descriptive Text: '口感很好' (Texture is good) and '很好吃' (Very delicious) emphasize the taste review. (6) '這是目前的 第三根' (This is our 3rd stick) indicates popularity."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 32,
+      "averageSceneDuration": 2.75,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at store -> Product demonstration -> Home tasting and detailed review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Upper body",
+        "Head"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 female creators visible on screen, 1 male voice heard off-screen",
+      "mainCharacterDescription": "Two young Asian women; one wears a brown layered dress with a white fuzzy shrug, the other wears a black top and a zebra-patterned bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Costco",
+          "Studio",
+          "Home"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A warehouse-style supermarket freezer aisle followed by a clean, modern home interior with a white dining table.",
+      "lightingStyle": "Bright, high-key studio and supermarket lighting.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and Saturated",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Macro Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Ice cream",
+        "Chocolate",
+        "Milk"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "Nestle",
+        "Milo",
+        "KitKat"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, persuasive, and friendly",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Crunch sound",
+        "Pop effects",
+        "Glitter sound"
+      ],
+      "ambientNoise": [
+        "Store hum"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Store Discovery -> Demo -> Tasting Reaction -> Recommendation",
+      "mainPurpose": "To provide an enthusiastic review of a specific food product (Milo ice cream bars) found at Costco, emphasizing its unique liquid center and good value for money to encourage viewers to purchase it.",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Positive review focusing entirely on a single brand's product with visible logos and price points.",
+      "endorsementObject": [
+        "雀巢美祿",
+        "COSTCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density colorful text overlays and a mix of male narration with female onscreen personality.",
+      "freeDescribe": "Typical high-energy social media food review format with strong visual hooks and beat-synced editing."
+    }
+  }
+}

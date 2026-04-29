@@ -1,0 +1,179 @@
+{
+  "videoName": "cocowine0205-20250311161505-851544001273017.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 40,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a close-up of a black safety net on a trampoline inside a warehouse store, featuring the Costco Wholesale logo and large yellow-and-red text. (2) The camera pans across the trampoline, showing a yellow ball inside, then cuts to a close-up of a price tag displaying '$34,999' for a Springfree 10ft trampoline. (3) A female character in a black dress and white shirt walks alongside the trampoline to demonstrate its immense size, gesturing with her hands. (4) A close-up shot shows a hand pulling the heavy-duty zipper of the trampoline's mesh enclosure. (5) The female character stands in a Costco aisle lined with various toy boxes, talking directly to the camera with a cheerful and playful expression.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo acoustic guitar and keyboard music begins. A young female voice speaks excitedly in Mandarin Chinese. (2) A sharp 'ding' sound effect plays as the price text appears. (3) The music continues at a steady volume as the female narrator describes the features of the trampoline. (4) Faint ambient sounds of a warehouse environment, including distant chatter and cart movements, are mixed with the music. (5) The female voice shifts to a more whining, playful tone as she expresses a desire to go inside the trampoline.",
+      "text_narrative_log": "(1) Decorative/Hook Text: 'Huge Trampoline' in large yellow characters with red outlines. (2) Functional Text: '34,999' indicating the price. (3) Functional Text: '10-foot jumping trampoline' and 'comes with basketball hoop' describing product specs. (4) Functional Text: Traditional Chinese subtitles throughout translating the spoken dialogue. (5) Decorative Text: 'I really want to go in' in pink and blue stylized text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 3.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Product close-up -> Feature/Price reveal -> Scale demonstration -> Personal reaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 1 male staff/shopper in background, 1 shopper pushing a cart, 1 child visible in background",
+      "mainCharacterDescription": "A young Asian woman with long black hair, wearing a white long-sleeved shirt under a black sleeveless midi-dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A Costco warehouse interior featuring high ceilings, industrial shelving, signage for 'Fresh Produce' and 'Pastries', and aisles filled with bulk-packaged goods and toys.",
+      "lightingStyle": "Bright, even industrial fluorescent lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Panning",
+        "Handheld",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Springfree"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful, excited, and slightly humorous",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Keyboard",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Acoustic Guitar",
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Ding",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Warehouse echo"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Observation -> Emotional Reaction",
+      "mainPurpose": "The video is a lighthearted lifestyle vlog intended to showcase an impressively large and expensive product (a Springfree trampoline) found at a Costco warehouse. It aims to entertain viewers by highlighting the contrast between the trampoline's scale/price and the creator's personal space constraints, fostering engagement through shared shopping experiences.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video prominently displays the Costco logo and focuses specifically on one brand of trampoline (Springfree) with pricing details.",
+      "endorsementObject": [
+        "Costco Wholesale",
+        "Springfree"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin narration with colorful, variety-show style text overlays.",
+      "freeDescribe": "The video utilizes classic influencer editing techniques like fast cuts and text stickers to maintain high engagement for a short-form mobile audience."
+    }
+  }
+}

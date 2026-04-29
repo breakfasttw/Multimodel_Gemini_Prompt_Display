@@ -1,0 +1,181 @@
+{
+  "videoName": "3ctim-20250710214604-922917733599455.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 67.2,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Vlog",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a main character, a middle-aged male with glasses and a hat, speaking to the camera in a brightly lit indoor space. He gestures with his hands and points his finger. (2) The scene cuts to a close-up of an Apple Watch with a metallic band. A finger taps the screen to cycle through different photo watch faces. (3) The camera shifts to an iPhone screen showing various icons and then the lock screen. The finger swipes to show different lock screen wallpapers with a depth effect where the subject overlaps the clock. (4) The scene transitions to an iPad showing a redesigned home screen with large widgets and icons. The hand interacts with the top left corner of the screen to show customization options. (5) A MacBook is shown, focusing on the bottom dock with colorful icons and then moving to the top right to show the new Control Center interface. (6) The video returns to the main character who waves to the camera and points towards the devices on a table behind him.",
+      "audio_narrative_log": "(1) Upbeat, energetic electronic background music starts. A male voice speaks in a friendly, enthusiastic tone in Mandarin. (2) The music continues at a steady volume while the male voice narrating the screen actions becomes the focus. Small clicking sound effects (SFX) are heard when the finger taps the watch and phone screens. (3) The ambient noise is minimal, suggesting a studio or quiet indoor environment. (4) The voice maintains a high energy level throughout, ending with a concluding remark as the music fades out.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles appear at the bottom, translating the spoken Mandarin. (2) Decorative/Hook Text: At the top right, a blue/purple gradient box reads '液態玻璃 全系列亮相' (Liquid Glass Full Series Debut). Social media handles '3c有意思tim哥' and '@3ctim' are visible in the top left. (3) Occasional emojis like a thinking face and a sunglasses face appear on screen to emphasize points. A 'Roots' brand name is visible on the speaker's shirt."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Multi-device feature demonstration (Watch, iPhone, iPad, Mac) -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator appearing in intro/outro and providing hand demonstrations.",
+      "mainCharacterDescription": "A middle-aged man wearing a dark denim-style hat, round green-rimmed glasses, a light green t-shirt with 'ROOTS' text, and a wooden beaded bracelet on his right wrist."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The intro/outro background is a clean, modern studio or office with shelves and soft lighting. The device demonstrations are filmed on a wooden table surface.",
+      "lightingStyle": "Bright, even studio lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Dog (on wallpaper)"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Smartwatch",
+        "Tablet",
+        "Laptop"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple",
+        "Roots",
+        "DJI"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, energetic, and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "UI clicking sounds"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Multi-device Demo -> Summary",
+      "mainPurpose": "The video serves as a technology showcase and review of the 'Liquid Glass' UI theme or software update across the Apple ecosystem (Watch, iPhone, iPad, Mac). The creator aims to demonstrate the visual appeal and new customization features of the interface to tech enthusiasts.",
+      "visualEmotion": "Energetic and polished"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed demonstration of specific product features and UI by a known tech influencer.",
+      "endorsementObject": [
+        "Apple"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Tim哥's signature glasses, hat, and energetic Mandarin greeting/narration style.",
+      "freeDescribe": "The video uses a high-production vlog style common in the Taiwanese tech community, focusing on aesthetics and user interface details."
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "videoName": "1105ya-20250628113358-1675954567111168.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 18,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "USA"
+        ],
+        "city": [
+          "Santa Monica"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Live-action video. Three young adults (one male, two females) are standing on a wooden pier with a large Ferris wheel in the background. The man on the right wears sunglasses and a black hoodie, maintaining a stoic facial expression. The women stand to his left, one in a brown top and cap, the other in a purple dress and black jacket. (2) The scene cuts to a large green swinging ship ride (Sea Dragon) in motion. (3) Close-up shots show the same three people on the ride; their facial expressions have shifted from calm to wide-eyed terror and excitement, with mouths open as they scream. (4) The ride continues to swing back and forth as the man grips his hat to keep it from flying off.",
+      "audio_narrative_log": "(1) Upbeat, mid-tempo electronic background music starts. A male voice speaks in a dismissive, confident tone in Mandarin, followed by shorter responses from two female voices. Ambient pier noise is faint. (2) The audio shifts abruptly as the music continues but is partially drowned out by loud, high-pitched group screaming and intense wind noise. (3) Rhythmic mechanical whooshing sounds from the ride are audible alongside the continuous screaming and the persistent background track.",
+      "text_narrative_log": "(1) Hook text: \"當你身邊有嘴硬朋友\" (When you have a friend who talks tough). (2) Functional subtitles: (1) \"怎樣敢玩嗎？\" (How's it? Dare to play?) (2) \"這個？\" (This?) (3) \"六福村的都比這個高好不好？\" (The ones at Leofoo Village are higher than this, okay?) (4) \"這很無聊呀\" (This is very boring). (3) Decorative/Hook text: During the screaming scene, previous lines like \"*確定要花這個錢？\" (Sure you want to spend this money?) and \"*誰都可以上去？\" (Anyone can go up?) reappear to mock the speaker's earlier confidence. (4) Three question marks \"？？？\" appear to emphasize the irony of the situation."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro (Talking tough) -> Action (Screaming on the ride) -> Outro (Humorous irony)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "3 main characters in foreground, 2-3 blurred passers-by in the background.",
+      "mainCharacterDescription": "One male in a black hoodie and sunglasses; one female in a brown tank top, jeans, and a black cap; one female in a purple dress and black leather jacket."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Amusement Park",
+          "Pier"
+        ],
+        "topography": [
+          "Coastline"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Santa Monica Pier with the Pacific Park Ferris wheel and the Sea Dragon swinging ship ride against an overcast sky.",
+      "lightingStyle": "Natural light",
+      "weather": "Cloudy",
+      "season": "Spring",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "Santa Monica Pier",
+        "Pacific Park"
+      ],
+      "brandLogos": [
+        "PACIFIC PARK"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Confident and dismissive at first, then panicked and screaming",
+        "pitch": "Medium to High",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Wind",
+        "Mechanical Ride Sounds"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Expectation (Talking Tough) -> Subversion (Reality Check) -> Irony",
+      "mainPurpose": "To create comedic content by contrasting a person's arrogant or 'tough' verbal claims with their actual, fearful reaction to a high-thrill amusement park ride. It uses the visual evidence of screaming to mock the earlier dialogue.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video is a personal vlog/comedy skit with no clear product placement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of variety-show style text overlays that mock the characters' own dialogue.",
+      "freeDescribe": "The location is clearly identifiable as Pacific Park at Santa Monica Pier, which adds a travel/vlog dimension to the comedy."
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "videoName": "khshu_-20251203131056-912855011676548.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 56,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tutorial",
+        "Beauty"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Kaohsiung",
+          "Tainan"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in a light blue sundress holds a small wireless microphone and speaks enthusiastically into the camera. (2) The scene shifts to an indoor studio where she is joined by two other women; they gesture excitedly towards each other. (3) Close-up shots show a Shiseido foundation being pumped onto a palette and applied to the first woman's face with a sponge. (4) A Clé de Peau Beauté highlighter palette is opened, and the product is applied to the nose and cheekbones. (5) A Homei gel nail kit is demonstrated, showing the application of polish and the use of a small white UV lamp. (6) The video concludes with the host standing in front of a mirror, smiling and waving goodbye.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo background music starts immediately. A female voice speaks with high energy and a friendly tone. (2) Two other female voices join in, introducing themselves and their location; the soundscape is filled with cheerful banter. (3) As products are demonstrated, the primary speaker provides detailed, rhythmic descriptions. Occasional sound effects like 'dings' or 'sparkles' accompany visual highlights. (4) Ambient sounds of brushes tapping and the clicking of makeup compacts are audible. (5) The music swells slightly towards the end as the speakers say their goodbyes.",
+      "text_narrative_log": "(1) '專業彩妝師 近期愛用三選' (Professional makeup artists' recent top 3 favorites) - Hook title with an energetic tone. (2) '資生堂 / 超聚光活膚粉底精華' - Functional product name for Shiseido foundation. (3) '(空空如也)' (Empty/Used up) - Decorative text indicating the product is a favorite. (4) '肌膚之鑰 / 精質光耀幻妍餅' - Functional product name for Clé de Peau Beauté highlighter. (5) 'Homei / 光療系列' - Functional product name for gel nail series. (6) '這支影片 下次見耶' - Friendly outro text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Product Demo 1 -> Product Demo 2 -> Product Demo 3 -> Wrap-up"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 host and 2 makeup artists present in the studio.",
+      "mainCharacterDescription": "A woman in a light blue sundress. Two professional makeup artists: one in a white top and blue apron, the other in a black-and-white patterned top with glasses."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A bright, clean professional makeup studio with mirrors, shelves filled with beauty products, wall art, and minimalist furniture.",
+      "lightingStyle": "Bright studio lights mixed with natural window light.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm, bright, and clean.",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Microphone",
+        "UV nail lamp"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "SHISEIDO",
+        "Clé de Peau Beauté",
+        "Homei"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 3,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, professional, and friendly",
+        "pitch": "Normal to high",
+        "loudness": "Clear and steady",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Sparkle SFX",
+        "Transition swoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Recommendation 1 -> Recommendation 2 -> Recommendation 3 -> Outro",
+      "mainPurpose": "The video aims to provide expert beauty recommendations by showcasing three specific products favored by professional makeup artists. It uses a tutorial-style demonstration to show product efficacy and finish, targeting viewers interested in high-quality cosmetics.",
+      "visualEmotion": "Energetic and Positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed display of product packaging and naming specific brands as 'favorites'.",
+      "endorsementObject": [
+        "SHISEIDO",
+        "Clé de Peau Beauté",
+        "Homei"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Energetic wireless mic handheld intro, variety-show style text highlights.",
+      "freeDescribe": "The video follows standard high-engagement beauty influencer formats, emphasizing 'pro' recommendations to build trust."
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "videoName": "3ctim-20251219120526-921182840383536.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 33,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Tech Tip"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video features a middle-aged male presenter wearing a brown sweater, a plaid flat cap, and green-rimmed glasses against a plain white background. He gestures dynamically, pointing at the camera and using hand signals to emphasize his points. (2) The scene transitions to a screen recording of an iPhone's settings menu. The presenter is still visible as a small, circular cutout in the lower corner, continuing his gestures while explaining the interface. (3) The video cuts back to the full-screen view of the presenter, who waves his hand and smiles to conclude the segment.",
+      "audio_narrative_log": "(1) A male voice speaks energetically in Mandarin Chinese. An upbeat, fast-tempo electronic BGM starts immediately. (2) The male voice continues explaining technical settings with a steady, enthusiastic tone. The background music remains consistent in volume and tempo. (3) The vocal narration concludes with a friendly sign-off, and the audio ends cleanly without lingering sound effects.",
+      "text_narrative_log": "(1) '更新iOS18' - Blue decorative hook text. (2) '結果打FaceTime 花了5700塊錢' - Purple hook text describing a problem. (3) '拿到了電話費的帳單' - Blue hook text. (4) '現在馬上教你怎麼設定' - Red hook text signaling the solution. (5) 'FaceTime', '預設通話 App', '行動網路通話' - Functional text within the iOS settings UI. (6) '這個時候 才可以 萬無一失啊各位' - Blue concluding hook text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 5,
+      "averageSceneDuration": 6.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Problem Hook -> Step-by-step Tutorial -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Waist up"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator presenting the content.",
+      "mainCharacterDescription": "Middle-aged Asian male, wearing a brown pullover sweater, a grey plaid flat cap, green-rimmed glasses, and a yellow smartwatch."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A clean, minimalist white wall with no additional decor, focusing attention on the presenter.",
+      "lightingStyle": "Bright studio lights",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple",
+        "Roots"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> Solution -> CTA",
+      "mainPurpose": "The video serves as an educational warning for iPhone users who have updated to iOS 18. It addresses a specific issue where FaceTime calls might default to cellular data (roaming) instead of WiFi, causing high phone bills. The presenter provides a visual guide on how to change the settings to ensure 'zero failure' and avoid unnecessary costs.",
+      "visualEmotion": "Energetic and helpful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy presentation style, 'Tim哥' branding in the corner, use of large, colorful Traditional Chinese text overlays.",
+      "freeDescribe": "The video targets Apple users in Taiwan, specifically those concerned with mobile data costs after system updates."
+    }
+  }
+}

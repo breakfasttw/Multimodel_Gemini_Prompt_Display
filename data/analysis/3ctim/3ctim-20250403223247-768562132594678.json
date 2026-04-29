@@ -1,0 +1,178 @@
+{
+  "videoName": "3ctim-20250403223247-768562132594678.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 41,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Commentary",
+        "Technology"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is live-action, featuring a male host wearing a plaid cap and glasses in a studio setting, gesturing towards the camera. (2) Visuals shift to screen recordings of the ChatGPT interface, showing queries for specific names and the system's inability to respond. (3) Transitions include stock footage of a woman covering her face, paparazzi at a red carpet event, and a barbed wire fence. (4) An archival black-and-white photograph of a large group of people (the Rothschild family) is displayed. (5) The host appears in a small inset window, continuing to explain the topic while various thematic images and text overlays are shown.",
+      "audio_narrative_log": "(1) A male voice speaks with an enthusiastic and informative tone over a light, upbeat, and rhythmic background music track. (2) As the host discusses specific names like David Mayer, the background music maintains a steady tempo without overriding the vocals. (3) Subtle digital transition sound effects (SFX) occur during scene changes. (4) The audio ends with the host's concluding remarks and the music fading out.",
+      "text_narrative_log": "(1) Top left corner displays social media handles for Facebook and Instagram with the text '3c有意思tim哥' and a red 'mika' logo. (2) Large central hook text: 'ChatGPT 陰謀論!?' (ChatGPT Conspiracy Theory!?) and '問它這些人名就會裝死!' (Ask it these names and it plays dead!). (3) Functional subtitles in Traditional Chinese translate the host's speech. (4) Specific names 'David Mayer', 'David Faber', and 'Brian Hood' appear on screen. (5) Text mentions '歐盟通用資料保護規則' (GDPR) and '羅斯柴爾德家族' (Rothschild Family)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.9,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Evidence via screen recording -> Thematic B-roll -> Legal Explanation -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 12,
+      "maleDetectAmount": 8,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main male host; approximately 10+ people in the historical group photograph; 1 female in stock footage.",
+      "mainCharacterDescription": "An adult male wearing a brown plaid flat cap, glasses, and a light-colored teal or blue hoodie."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The primary background is a professional studio with a neutral grey wall; secondary backgrounds include digital interfaces (ChatGPT) and various stock photo environments (Red carpet, barbed wire).",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Computer Interface"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "mika",
+        "Facebook",
+        "Instagram",
+        "ChatGPT"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Steady and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Digital transition sound"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Explanation",
+      "mainPurpose": "To debunk 'conspiracy theories' regarding why ChatGPT refuses to provide information on certain high-profile individuals by explaining the legal context of the 'Right to be Forgotten' and GDPR regulations in Europe.",
+      "visualEmotion": "Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The branding present (mika, 3ctim) refers to the content creator's own channel identity rather than a third-party product placement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Specific plaid hat and glasses worn by the creator '3c有意思tim哥'.",
+      "freeDescribe": "The video uses a clickbait-style hook (conspiracy theory) to deliver educational content about data privacy laws."
+    }
+  }
+}

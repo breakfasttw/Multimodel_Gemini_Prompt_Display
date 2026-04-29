@@ -1,0 +1,183 @@
+{
+  "videoName": "1105ya-20251121155633-744039228448548.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 45,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle",
+        "Event"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman stands in a hallway in front of a door labeled 'Glory 17', holding a flower-shaped light stick and smiling excitedly. (2) She opens the door and enters a dimly lit, modern luxury suite featuring a long counter with snacks and red lounge chairs. (3) She walks toward a glass wall and a balcony, revealing a massive, brightly lit indoor stadium filled with a dense crowd and a large stage. (4) The camera shows her posing with a friend in the box, then cuts to high-energy concert footage. (5) A male performer on stage, wearing a silver glittery jacket and hat, dances with backup dancers under vibrant pink and purple lights. (6) Subsequent clips show the performer in different outfits, including a purple robe and a colorful floral-patterned jacket, singing and interacting with the crowd while fireworks and intense stage lighting effects occur. (7) The video ends with a close-up of the performer singing emotionally.",
+      "audio_narrative_log": "(1) Music starts with upbeat, fast-tempo electronic pop. A high-pitched, excited female voice speaks enthusiastically in Mandarin. (2) Sound of a door opening followed by an audible 'Wow' from the female. (3) Music shifts to loud, live concert audio featuring a male vocalist singing in a mix of Korean and English. Heavy bass and electronic synthesizers are prominent. (4) Frequent transitions between the woman's excited commentary and the high-energy live performance audio. (5) Stadium-level crowd cheers and screams are heard in the background. (6) The video concludes with the male performer shouting 'I love you!' over the fading music and crowd noise.",
+      "text_narrative_log": "(1) '開箱一年要價700萬的包廂' (Opening a box that costs 7 million a year) - Hook text, excited tone. (2) '開箱大巨蛋的私人包廂' (Opening a private box at the Taipei Dome) - Functional description. (3) '今天來看GD的演唱會！！' (Watching GD's concert today!!) - Informative text. (4) 'Go!' and '哇～～' (Wow) - Emotional exclamations. (5) '太扯了啦' (Too crazy) - Decorative/Effect text. (6) '視野非常的好' (The view is very good) - Descriptive text. (7) '最喜歡這首歌' (Favorite song) and '我愛你們～' (I love you guys) - Emotional stickers."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at the door -> Luxury suite tour -> Concert performance highlights"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 15,
+      "maleDetectAmount": 8,
+      "femaleDetectAmount": 7,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face close-up",
+        "Hands only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 female main creator, 1 female friend, 1 male main performer, multiple backup dancers, and thousands in the stadium background.",
+      "mainCharacterDescription": "The main creator is a young woman with a long dark braid, wearing a white long-sleeved shirt and blue denim jeans. The performer is a male with short hair, wearing various stage costumes including a silver sequined suit and a purple velvet robe."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Stadium",
+          "Luxury Suite"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The video starts in a modern hallway, moves into a luxury suite with minimalist decor and red seating, and overlooks a vast stadium (Taipei Dome) with a grid ceiling and a massive concert stage with LED screens.",
+      "lightingStyle": "Intense studio lights and neon stage lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "POV",
+        "Follow shot",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Water bottles",
+        "Small snacks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Large LED screens",
+        "Stage microphones"
+      ],
+      "landmark": [
+        "Taipei Dome"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "Drums"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "High (female), Deep (male)",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese",
+          "Korean",
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "K-pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd roar",
+        "Echo"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Intro -> Experience Showcase -> Conclusion",
+      "mainPurpose": "The video is a luxury lifestyle vlog designed to showcase an exclusive concert-watching experience from an expensive private box at the Taipei Dome. It combines the curiosity of 'unboxing' a high-value space with the fan excitement of attending a major concert by G-Dragon.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-value hook price mention, specific flower light stick accessory",
+      "freeDescribe": "The video targets audiences interested in K-pop culture, luxury lifestyles, and exclusive access to major venues."
+    }
+  }
+}

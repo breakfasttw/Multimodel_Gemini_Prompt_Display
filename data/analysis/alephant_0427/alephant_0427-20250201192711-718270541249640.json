@@ -1,0 +1,180 @@
+{
+  "videoName": "alephant_0427-20250201192711-718270541249640.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 98,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Musical Performance",
+        "Street Challenge"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in a white 'Tony Hawk' hoodie stands on a busy street at night, holding a violin and bow; she smiles and makes a peace sign to the camera. (2) She begins playing the violin, drawing the bow across the strings while looking at the camera. (3) The scene cuts to her approaching two men in a pedestrian area; she plays a melody while they listen intently. (4) One of the men recognizes the song and starts singing; she gives them cash as a reward. (5) She interacts with two young girls in grey shirts, playing another tune; the girls look confused and shake their heads. (6) She approaches a group of men; one man identifies the song 'Sailor Moon' almost immediately, causing her to react with shock. (7) She finally interacts with two men in white business shirts, playing a song that they fail to guess correctly, resulting in shared laughter.",
+      "audio_narrative_log": "(1) Enthusiastic female vocals speaking Mandarin intro over ambient street noise. (2) High-pitched violin solo playing 'Mermaid Melody' theme music. (3) Male voices enter, laughing and singing along with the violin melody. (4) Violin transitions to 'Sailor Moon' theme; sound of crowd chatter and occasional surprised gasps. (5) Distinctive 'ding' sound effect when a correct answer is given. (6) Constant urban background noise including traffic and distant music throughout the interactions.",
+      "text_narrative_log": "(1) 《小提琴街頭猜歌挑戰》 (Violin Street Song Guessing Challenge) - Title hook. (2) 第三集 / 少女動漫系列 (Episode 3 / Anime Girl Series) - Functional context. (3) 我們是少女動漫 (We are Anime Girl) - Functional intro. (4) 我想要送很多錢哦 (I want to give away a lot of money) - Encouraging hook. (5) 珍珠美人魚 (Mermaid Melody) - Functional song title. (6) ( 高手在此 ) (An expert is here) - Decorative commentary. (7) ( 全場震驚 ) (The whole place is shocked) - Dramatic effect text. (8) ( 留言區 一起猜猜看 ) (Guess along in the comments) - Interactive CTA."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 5.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Song Challenge 1 -> Song Challenge 2 -> Song Challenge 3 -> Interaction Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 12,
+      "maleDetectAmount": 8,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 female main creator, 8 male participants/passers-by, 3 female participants/passers-by.",
+      "mainCharacterDescription": "A young woman with long brown hair, wearing an oversized white hoodie with a 'Tony Hawk' graphic and a cartoon bird, black shorts, and white knee-high socks."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Shopping District"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A busy urban shopping district (Ximending) at night with neon signs, shop windows (Swatch, Tatung, Levi's), and many pedestrians.",
+      "lightingStyle": "Mixed artificial street lighting and neon.",
+      "weather": "Clear Night",
+      "season": "Spring",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural with High Saturation",
+      "cameraWork": [
+        "Handheld",
+        "Follow shot",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Lavalier Microphone"
+      ],
+      "landmark": [
+        "Ximending"
+      ],
+      "brandLogos": [
+        "Tony Hawk",
+        "Swatch",
+        "Levi's",
+        "Tatung",
+        "Mi"
+      ],
+      "instrumentsVisible": [
+        "Violin"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut between different street interview segments.",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 6,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 5,
+        "vocal_demographics": {
+          "male_vocal_count": 6,
+          "female_vocal_count": 3,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, excited, and humorous",
+        "pitch": "Varied",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Live Violin Anime Covers",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Strings"
+      ],
+      "instrumentsAudible": [
+        "Violin"
+      ],
+      "musicSourceType": [
+        "Live"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Cash Register SFX",
+        "Ding",
+        "Cartoon Surprise Sound"
+      ],
+      "ambientNoise": [
+        "Traffic",
+        "Crowd chatter"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Interaction -> Interaction -> Interaction -> Conclusion.",
+      "mainPurpose": "The video aims to entertain and build a personal brand for the creator '少女動漫' by combining street performance (violin) with a interactive game format centered on anime nostalgia. The use of cash prizes acts as a 'hook' to maintain viewer interest while showcasing her musical talent.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Creator's 'Anime Girl' persona and signature violin street challenge format.",
+      "freeDescribe": "The video leverages ACG (Animation, Comics, and Games) culture to connect with locals, creating a sense of community nostalgia around classic anime theme songs."
+    }
+  }
+}

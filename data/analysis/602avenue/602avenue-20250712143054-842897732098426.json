@@ -1,0 +1,187 @@
+{
+  "videoName": "602avenue-20250712143054-842897732098426.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 47,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Promotion",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with dark hair, wearing a denim jacket and black skirt, poses in front of giant, smiling potato-shaped inflatables in an outdoor plaza. (2) She holds up her smartphone to take a selfie and then shows a red ticket numbered '001'. (3) The scene shifts indoors to a bright yellow kitchen where staff in yellow caps and aprons are frying sliced potatoes in large vats and plating gourmet appetizers. (4) The woman sits at a table and eats freshly fried potato chips, expressing delight through exaggerated facial expressions. (5) She then samples three distinct potato-based dishes served in small portions. (6) Finally, she is back outdoors holding a bag of Lay's potato chips, smiling at the camera.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic background music starts immediately. (2) A cheerful female voice begins speaking in Mandarin, introducing the event. (3) As the visual shows frying, a loud, crisp sizzling sound of oil is heard. (4) During the eating segments, amplified 'crunch' sounds (ASMR style) are prominently featured over the music as she bites into the chips. (5) The vocal tone remains excited and enthusiastic throughout, describing the flavors and textures of the food. (6) The music maintains its tempo until the video ends with a final promotional statement.",
+      "text_narrative_log": "(1) Functional text: '只要跟馬鈴薯合照' (Just take a photo with the potatoes) - Informative tone. (2) Hook text: '可以免費吃現炸洋芋片?' (Can eat freshly fried chips for free?) - Curiously inviting. (3) Functional text: '樂事24小時鮮採直送站' (Lay's 24h Fresh Pick Delivery Station) - Informative branding. (4) Decorative text: '超新鮮!' (Super fresh!) - Enthusiastic tone. (5) Content text: '英式松露嫩蛋脆薯' (English Truffle Tender Egg Crispy Potato), '黃金比例脆薯泥' (Golden Ratio Crispy Potato Mash), '柑橘優格薯片千層' (Citrus Yogurt Potato Chip Mille-feuille) - Descriptive menu items. (6) Hook text: '大家趕快來參加吧!!!' (Everyone come join quickly!!!) - Urging call to action."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 32,
+      "averageSceneDuration": 1.47,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro to the event location -> Explanation of participation rules -> Showcase of cooking process -> Tasting and reaction -> Final call to action."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 3 staff members (male) in the kitchen, and approximately 4 visible passers-by in the background.",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a light blue denim jacket over a black top and a short black skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Plaza",
+          "Studio",
+          "Pop-up Store"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Outdoor shots feature a historic stone building and large yellow inflatables. Indoor shots show a bright yellow-themed pop-up store with kitchen equipment and seating areas.",
+      "lightingStyle": "Natural daylight outdoors; bright, even studio-style lighting indoors.",
+      "weather": "Overcast",
+      "season": "Spring or Autumn",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Potato chips",
+        "Potato mash",
+        "Oranges",
+        "Truffles",
+        "Cream"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Kitchen fryer"
+      ],
+      "landmark": [
+        "Huashan 1914 Creative Park"
+      ],
+      "brandLogos": [
+        "Lay's",
+        "樂事",
+        "RODE"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and friendly",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Sizzling",
+        "Crunching",
+        "Camera shutter"
+      ],
+      "ambientNoise": [
+        "Outdoor crowd murmur"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Tutorial -> Experience -> CTA",
+      "mainPurpose": "The video aims to promote a specific Lay's brand pop-up event ('24h Fresh Pick Delivery Station') in Taipei by demonstrating how easy and rewarding it is to participate. It uses a popular vlog format, combining visual aesthetic appeal with ASMR-style eating sounds to create a sensory attraction to the product and the experience.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The entire video is centered around the Lay's brand event, featuring the logo, product preparation, and a direct call to action to visit the location.",
+      "endorsementObject": [
+        "Lay's",
+        "樂事"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-frequency use of 'Crunch' ASMR sounds and vibrant yellow color palette.",
+      "freeDescribe": "The video follows standard social media influencer marketing trends in Taiwan, focusing on 'limited-time' experiences and 'Instagrammable' locations to drive foot traffic."
+    }
+  }
+}

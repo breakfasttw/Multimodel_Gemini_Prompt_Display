@@ -1,0 +1,183 @@
+{
+  "videoName": "2uncle987-20251227224017-1409273524018586.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 56,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Vlog",
+        "Skincare"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a nighttime exterior shot of a Daiso department store building in Korea with its bright red logo. (2) A hand is shown holding various skincare products like 'Boncept Retinol Serum' and 'Medipeel Extra Super 9+' in front of store shelves. (3) A close-up split-screen comparison shows a nose with visible blackheads (Before) and a smooth, clean nose (After). (4) A young woman with her hair clipped back appears, holding the products to her face and pointing at her nose. (5) Close-up shots follow, demonstrating the texture of a white gauze strip. (6) The woman applies liquid from a white bottle onto the gauze and then presses the gauze onto her nose. (7) She is then seen applying a green mud mask specifically to the bridge and sides of her nose. (8) She massages the area and eventually washes her face with water. (9) She applies drops of a soothing serum using a pipette and then rubs a white cream onto her nose. (10) The video ends with a side-by-side product display of all items used: Medipeel, Mamonde, Madeca 21, and Boncept.",
+      "audio_narrative_log": "(1) An upbeat, fast-paced electronic pop track with a catchy melody begins immediately and continues throughout the video. (2) A male voice provides energetic Mandarin narration, introducing the 'Korea Daiso' finds and the 'nose care combination'. (3) The narrator's voice is high-pitched and enthusiastic, guiding the viewer through each step of the skincare routine. (4) Subtle sound effects like 'shimmers' or 'pops' occur during product transitions and text pop-ups. (5) The music stays at a consistent volume, supporting the instructional tone of the narration.",
+      "text_narrative_log": "(1) '韓國大創' (Korea Daiso) - Functional text identifying the location. (2) '超高CP值' (Super high CP value) - Decorative hook text emphasizing affordability. (3) '養鼻組合' (Nose care combo) - Functional title for the tutorial theme. (4) '臺幣400不到' (Less than 400 TWD) - Hook text highlighting the low price. (5) '使用前/使用後' (Before/After) - Functional labels for comparison shots. (6) '第一步' (Step 1), '接著用' (Then use), '3-5分鐘後' (After 3-5 mins) - Functional step-by-step instructions. (7) '貼心提示' (Warm tip) - Friendly hook for advice. (8) '趕快截圖!' (Take a screenshot now!) - Call to action hook at the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at store -> Product reveal -> Step-by-step skincare tutorial -> Results and summary"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Face",
+        "Upper body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator performing the tutorial; 1 off-screen male narrator.",
+      "mainCharacterDescription": "A young woman with light skin, dark hair held back by yellow clips, wearing a brown fuzzy fleece jacket."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Starts with an urban nighttime street scene featuring a large Daiso building. Shifts to a brightly lit indoor room with shelves and a mirror, typical of a home skincare setting.",
+      "lightingStyle": "Mixed: Nighttime street lights followed by bright, even indoor studio-like lighting.",
+      "weather": "Clear night",
+      "season": "Winter (implied by the creator's fuzzy jacket)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Daiso",
+        "MEDIPEEL",
+        "MAMONDE",
+        "Madeca 21",
+        "BONCEPT"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Transition shimmers",
+        "Pop sounds"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Step 1 -> Step 2 -> Step 3 -> Result -> Summary",
+      "mainPurpose": "The video is a practical shopping guide and skincare tutorial intended to promote specific affordable skincare products available at Daiso in South Korea. By showing immediate 'before and after' results and providing a clear, step-by-step demonstration of a blackhead removal routine, the content aims to convince viewers of the products' effectiveness and high value-for-money.",
+      "visualEmotion": "Energetic and helpful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed display of brand names, showing prices, and specifically encouraging viewers to 'screenshot' for shopping purposes.",
+      "endorsementObject": [
+        "Daiso",
+        "MEDIPEEL",
+        "MAMONDE",
+        "BONCEPT"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing synchronized with energetic male narration, consistent use of stylized Traditional Chinese overlays.",
+      "freeDescribe": "The video leverages the popularity of 'K-Beauty' and the trend of finding 'dupes' or high-quality cheap finds at Daiso, targeting budget-conscious skincare enthusiasts."
+    }
+  }
+}

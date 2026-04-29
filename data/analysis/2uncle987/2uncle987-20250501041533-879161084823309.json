@@ -1,0 +1,180 @@
+{
+  "videoName": "2uncle987-20250501041533-879161084823309.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 87,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Product Review",
+        "Comedy",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young man with short brown hair wearing a white and red striped polo shirt is seen folding and hanging clothes on a rack in a frustrated manner, gesturing wildly at the messy pile. (2) A young woman enters the frame wearing pink overalls, holding a sleek white handheld device; she begins demonstrating the device on a white dress shirt hanging on the rack. (3) The scene transitions rapidly between the woman using the device on various items: a yellow sweater, a patterned t-shirt, a grey sofa, and a yellow flower-shaped pillow. (4) The man reappears holding a green sweater and looks skeptical, pointing at the device while the woman explains features using the device's interface. (5) Close-up shots show a small brush cleaning a dust tray removed from the device, followed by the man and woman interacting playfully as she uses the suction feature on his shirt.",
+      "audio_narrative_log": "(1) Fast-paced, high-energy BGM starts immediately with a male voice speaking loudly and rapidly in a complaining tone. (2) The music continues at a steady upbeat tempo as a female voice takes over, speaking in a bright, persuasive, and informative tone. (3) Frequent sound effects are heard, including 'swish' sounds for transitions, a vacuum-like suction hum when the device is active, and a sharp 'ding' and 'buzzer' sound coinciding with on-screen graphics. (4) The male and female voices engage in a rapid back-and-forth dialogue with comedic timing. (5) The video ends with a final upbeat musical flourish and both voices laughing.",
+      "text_narrative_log": "(1) Decorative: '自己在疊衣服的' (Folding clothes myself) appears in bold yellow and red. (2) Decorative: '講不聽' (Won't listen) with cartoonish impact lines for emphasis. (3) Functional: 'Morus V6 手持式電子衣櫥' (Morus V6 Handheld Electronic Closet) titles the product. (4) Functional: '20秒快速預熱' (20-second fast preheat), '殺菌&護理' (Sterilization & Care), and '三段式超強吸力' (3-stage super suction) list product specifications. (5) Decorative: Large red 'X' graphics over words like '細菌' (Bacteria) and '塵蟎' (Dust mites)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.07,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Problem Setup -> Product Introduction -> Feature Demonstration -> Objection Handling -> Final Wrap-up"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Torso"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male creator and 1 female presenter throughout the video.",
+      "mainCharacterDescription": "The male character is wearing a white, navy, and red striped polo with denim jeans. The female character is wearing light pink/beige work overalls over a collared shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A brightly lit indoor space featuring a clothing rack with various colorful garments, a grey fabric sofa, and some cardboard boxes in the background.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Morus V6 Handheld Electronic Closet",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Morus"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and persuasive",
+        "pitch": "Moderate to High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Suction hum",
+        "Ding",
+        "Buzzer",
+        "Transition whoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Problem -> Solution -> Feature Breakdown -> FAQ",
+      "mainPurpose": "This video is a promotional advertisement for the Morus V6, designed to showcase how the product solves everyday chores like ironing and clothing maintenance. It uses a comedic 'man vs. woman' dynamic to highlight common frustrations with traditional ironing and positions the Morus V6 as a faster, safer, and more multifunctional alternative (including dust removal and sterilization).",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product demonstration, branding prominently displayed, and explicit callouts of product features and benefits.",
+      "endorsementObject": [
+        "Morus V6"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-show style text overlays and rapid-fire comedic dialogue common in Taiwanese influencer content.",
+      "freeDescribe": "The video uses fast editing and high-volume audio to maintain viewer engagement in a short-form format. The production quality is high, specifically targeting domestic chores and appliance-interested demographics."
+    }
+  }
+}

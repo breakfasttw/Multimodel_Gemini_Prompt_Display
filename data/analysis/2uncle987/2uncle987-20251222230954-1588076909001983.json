@@ -1,0 +1,189 @@
+{
+  "videoName": "2uncle987-20251222230954-1588076909001983.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 32,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Music Performance"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taichung"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A band is performing on an outdoor stage during daytime; members play electric guitar and bass in front of a large LED screen with colorful cartoon crab illustrations. (2) The scene shifts to a man in a white t-shirt with colorful patterns speaking into a microphone on stage, gesturing to a crowd. (3) A close-up series shows band members being interviewed off-stage; they make funny faces and gestures while talking about 'cheats'. (4) The video concludes with high-energy concert footage at night with dramatic stage lighting.",
+      "audio_narrative_log": "(1) Upbeat rock music with high-tempo drums and electric guitar starts as background audio while crowd chatter is audible. (2) A clear male voice speaks into a microphone with an excited, promotional tone, followed by snippets of a band's song. (3) The audio shifts to casual, dry conversational voices of multiple men laughing and joking in an outdoor environment with wind noise. (4) Loud, high-energy singing and instruments resume, ending with a final chord and cheering.",
+      "text_narrative_log": "(1) 七月半 (July Half) - Decorative branding text. (2) 活動站台 (Activity platform) - Functional text describing the event stage. (3) 自己打歌 (Promoting own song) - Decorative/Hook text. (4) 路跑變簽唱會 (Road run becomes signing event) - Narrative hook. (5) 七月半今年還需要貼小抄嗎？ (Does July Half still need cheats this year?) - Functional question for the interview. (6) 今晚一起High翻台中!!! (Let's get high together in Taichung tonight!!!) - High-energy hook text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Performance Teaser -> Event Interaction -> Humorous Interview -> Final Performance Hook"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 15,
+      "maleDetectAmount": 10,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 5,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "5 band members on stage, multiple staff and audience members visible in the background and interview shots.",
+      "mainCharacterDescription": "Adult males dressed in casual street wear, hoodies, and event-themed t-shirts; some holding musical instruments."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Stage",
+          "Event Plaza"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A large outdoor stage with professional lighting rigs, a huge LED screen displaying vibrant cartoons, and backstage areas with tents and technical equipment.",
+      "lightingStyle": "Natural daylight mixed with high-intensity stage LED lights.",
+      "weather": "Sunny",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Microphone",
+        "Stage Speakers"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Nord",
+        "Momo",
+        "Dazhou Group"
+      ],
+      "instrumentsVisible": [
+        "Electric Guitar",
+        "Bass Guitar",
+        "Drum Kit",
+        "Keyboard"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 4,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and high-pitched",
+        "pitch": "Normal",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop-Rock",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Percussion",
+        "Keyboard",
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Electric Guitar",
+        "Drums",
+        "Bass",
+        "Piano"
+      ],
+      "musicSourceType": [
+        "Live",
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Wind",
+        "Crowd",
+        "Outdoor atmosphere"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Snippets -> Humorous Interaction -> Performance Peak",
+      "mainPurpose": "The video serves as a promotional vlog for the band 'Seven Moon Half', documenting their appearance at a public event. It combines high-energy performance clips with lighthearted, humorous interview segments to showcase the band members' personalities and build excitement for their live shows in Taichung.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The band is appearing at a corporate-sponsored road run event (Momo, Dazhou Group logos in background).",
+      "endorsementObject": [
+        "Momo",
+        "Dazhou Group"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Self-deprecating humor about using cheat sheets and playing skill.",
+      "freeDescribe": "The video targets a youthful demographic familiar with Taiwanese internet celebrities and the specific 'Seven Moon Half' band identity."
+    }
+  }
+}

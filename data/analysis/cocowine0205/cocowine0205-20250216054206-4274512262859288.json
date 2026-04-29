@@ -1,0 +1,192 @@
+{
+  "videoName": "cocowine0205-20250216054206-4274512262859288.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 85,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Food Review",
+        "Vlog",
+        "Promotion"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman wearing a fuzzy checkered hat and a purple sweater is inside a Costco warehouse, holding a box of Vedan Buddha's Casserole. She gestures excitedly towards the product. (2) She is joined by another woman in a black top; they look at the nutritional information on the back of the box together. (3) The scene shifts to an indoor kitchen/dining area where both women show the product's internal vacuum-sealed bag. (4) Close-up shots show the bag being cut open with scissors and the frozen ingredients being poured into a black pot on a stovetop. (5) As the soup boils, close-up shots highlight specific ingredients like mushrooms, taro, and red dates being stirred with a spoon. (6) Both women are seated at a table, tasting the soup from bowls and giving enthusiastic thumbs-up gestures and smiles.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music begins. Two high-pitched female voices speak excitedly, discussing the product's price (379 yuan) and low calories. (2) Music continues as a steady, professional male voiceover provides a narration about the specific ingredients and health benefits of lion's mane mushrooms. (3) Sound effects including the snip of scissors, the sound of liquid pouring, and the bubbling of the soup are heard clearly. (4) The women are heard slurping the soup followed by vocalizations of satisfaction (e.g., 'Mm!', 'So warm!') as the music swells for the recommendation segment.",
+      "text_narrative_log": "(1) Functional Text: 'Costco Wholesale' logo at the top; subtitles throughout translating the dialogue. (2) Decorative Text: '隨緣新出的佛跳牆' (New Buddha's Casserole) in large green/yellow font; '熱量超低 379元' (Super low calorie, 379 yuan) in a red bubble. (3) Effect Text: '料超多' (Lots of ingredients) and '5-10分鐘可以吃' (Ready in 5-10 mins) with starburst graphics; '推薦' (Recommend) in a bold red seal-like style at the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Shopping discovery -> Product unboxing/cooking -> Detailed ingredient showcase -> Tasting review and final recommendation."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Shoulders up",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators/hosts throughout the video; 0 males visible on screen.",
+      "mainCharacterDescription": "One woman has long dark hair, a fuzzy hat, and a purple knit sweater. The second woman has long dark hair and wears a black top with decorative cutouts."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Costco Warehouse",
+          "Indoor Kitchen",
+          "Dining Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The first half is set against high industrial shelves filled with bulk goods in a warehouse club. The second half is a modern home interior with a clean kitchen counter, stove, and a simple dining table.",
+      "lightingStyle": "Bright, even indoor lighting, likely supplemented by studio lights in the kitchen scenes.",
+      "weather": "Indoor",
+      "season": "Winter (inferred from clothing and New Year theme)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, saturated, and warm.",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Buddha Jumps Over the Wall",
+        "Mushroom",
+        "Taro",
+        "Red Dates",
+        "Lotus Seeds",
+        "Cabbage"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Stove",
+        "Kitchen Range Hood"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "隨緣",
+        "Vedan",
+        "STAUB"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with synced sound effects",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, energetic, and promotional (females); steady and informative (male narration)",
+        "pitch": "High (females); Medium-Low (male)",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Vlog Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Pop",
+        "Sizzling",
+        "Slurping"
+      ],
+      "ambientNoise": [
+        "Store hum"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Store Discovery -> Preparation Demo -> Tasting Review -> CTA",
+      "mainPurpose": "To promote the 'Vedan Buddha's Casserole' (vegetarian) sold at Costco. The video emphasizes its affordability, low calorie count, ease of preparation, and high-quality ingredients, positioning it as an ideal quick dish for the upcoming Chinese New Year celebrations.",
+      "visualEmotion": "Energetic, appetizing, and cheerful."
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of the product box, mention of the specific price at Costco, and a strong recommendation to buy it for the holidays.",
+      "endorsementObject": [
+        "隨緣",
+        "Vedan",
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy duo hosting style, rapid text pop-ups, and beat-synced food close-ups.",
+      "freeDescribe": "The video effectively targets budget-conscious and health-conscious consumers looking for convenient traditional holiday food options."
+    }
+  }
+}

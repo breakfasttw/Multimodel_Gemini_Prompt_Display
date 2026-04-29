@@ -1,0 +1,175 @@
+{
+  "videoName": "3ctim-20251013181132-1561305481618827.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 44,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Commentary",
+        "News"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man with glasses, a brown flat cap, and a yellow t-shirt is speaking directly to the camera in a room. (2) Graphics of a warning sign and the Coinbase logo appear as he gestures with his hands. (3) Cartoon illustrations of a girl, a car, and a wrench appear to visualize a kidnapping scenario. (4) A red arrow and a price chart appear to show a rising trend. (5) The speaker leans in slightly towards the end for a final advice statement.",
+      "audio_narrative_log": "(1) A male voice speaks energetically in Mandarin with a clear, professional tone. Upbeat, rhythmic electronic background music starts immediately. (2) Sound effects like 'pops' and 'whooshes' are heard as graphics flash on the screen. (3) The speaker's voice maintains a consistent volume and pace throughout, with the music looping in the background until the end.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles at the bottom translating the narration. (2) Decorative Text: '3c有意思tim哥' and social media handles in the top-left corner. (3) Hook Text: '加密貨幣交易所自爆' (Crypto exchange self-detonation), 'wrench attacks', and '風險也跟著上升' (Risk increases accordingly) appear in bold styles."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 44.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Talking head with continuous graphical overlays and transitions."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main creator visible in the frame.",
+      "mainCharacterDescription": "Male with glasses, a brown patterned flat cap, and a yellow t-shirt with 'ROOTS' text."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A blurred indoor room with light-colored walls and curtains in the background.",
+      "lightingStyle": "Soft studio lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Coinbase",
+        "Roots",
+        "Facebook",
+        "Instagram"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence/Case Study -> Analysis -> Conclusion/Warning",
+      "mainPurpose": "To educate and warn cryptocurrency holders about physical security risks known as 'wrench attacks' where criminals target individuals for their digital assets.",
+      "visualEmotion": "Energetic and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "Educational content focusing on security news rather than promoting a product.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Signature yellow t-shirt and flat cap style of influencer Tim哥.",
+      "freeDescribe": "Typical high-pace tech commentary format common in Taiwan's social media landscape."
+    }
+  }
+}

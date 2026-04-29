@@ -1,0 +1,177 @@
+{
+  "videoName": "yga0721-20250502043812-1447665770324166.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 27,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Event"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) An elderly man in a white polo shirt and blue slacks is enthusiastically singing into a microphone and dancing on a stage with several children. The background is a dark curtain with decorative lights. (2) The scene cuts to a dining table where a young man in a black shirt is laughing hysterically, followed by a woman in a black hat covering her face in mock embarrassment while laughing. (3) The video returns to the elderly man on stage, with a digital meter labeled 'E-person index' appearing on screen, indicating a high level of extroversion. (4) A young man in a black suit enters the stage to try and lead the elderly man away, but the man playfully shakes him off and continues his performance. (5) The camera returns to the group at the table, where the woman in the black hat speaks directly to the camera with a playful and humorous expression.",
+      "audio_narrative_log": "(1) Energetic and upbeat music plays loudly as a male voice sings enthusiastically in Mandarin. The sound of children's voices and general crowd chatter is present in the background. (2) Loud, high-pitched laughter from a male and female speaker overlays the music. (3) The singing continues, accompanied by rhythmic beats and electronic instrumentation. (4) Dialogue in Mandarin is heard as people at a table comment on the scene, with tones ranging from amused to mockingly concerned. (5) The audio concludes with a final humorous remark and fading music.",
+      "text_narrative_log": "(1) '我每天趴踢啊' - Functional text reflecting the lyrics about partying every day. (2) '趴 趴 趴踢啊' - Decorative hook text emphasizing the 'party' theme. (3) '尊重' - Decorative text appearing when people react, indicating mock respect or irony. (4) 'E人指數' - Functional text referring to the 'Extrovert' personality type index, showing it reaching 200. (5) '(看不下去)' - Functional text describing the reaction of the young man in the suit. (6) '(嘗試帶回阿公)' - Functional text explaining the action of trying to lead the grandfather away. (7) '哈哈哈哈' - Decorative text representing laughter. (8) '難怪小舅舅都不結婚' - Functional text recording a dialogue line about an uncle not getting married. (9) '可不可以接受' - Functional text recording the question 'Can she accept it?'"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 2.45,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Grandpa performs on stage -> Influencers react at the table -> Young man attempts to stop the performance -> Conclusion with table commentary."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 15,
+      "maleDetectAmount": 8,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 3,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 elderly man on stage, 1 young man in suit, 2-3 influencers at table, several kids on stage, many guests in the background.",
+      "mainCharacterDescription": "Elderly man: white polo shirt, dark slacks, energetic. Young man: black suit, formal. Woman: black long-sleeve top, black wide-brimmed hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Banquet Hall",
+          "Event Stage"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A banquet hall with a stage, dark curtains, dining tables, wedding-style decorations, and a large screen displaying images.",
+      "lightingStyle": "Mixed lighting with stage spotlights and indoor hall lighting.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Mandarin Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm and Vibrant",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Banquet dishes"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "Monitor Screen",
+        "Large Projection Screen"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "Microphone"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 10,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 2
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched, excited, and humorous",
+        "pitch": "Varied",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop / Karaoke",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Live / Karaoke"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd chatter",
+        "Banquet sounds"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Reaction -> Interaction -> Conclusion",
+      "mainPurpose": "The video aims to entertain by capturing a humorous and spontaneous moment at a family or social gathering. It juxtaposes the extreme extroversion of an elderly man performing on stage with the embarrassed yet amused reactions of his younger family members or friends, utilizing popular internet slang like 'E-person' to characterize his behavior.",
+      "visualEmotion": "Humorous, energetic, and festive."
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of personality type memes (MBTI - E/I), variety-show style bold subtitles, and reaction-based editing typical of Taiwanese YouTubers.",
+      "freeDescribe": "The video captures a cross-generational dynamic, showing the 'unfiltered' energy of an older generation in a modern social media vlog format."
+    }
+  }
+}

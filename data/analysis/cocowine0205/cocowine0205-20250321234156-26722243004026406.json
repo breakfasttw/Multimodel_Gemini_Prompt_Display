@@ -1,0 +1,179 @@
+{
+  "videoName": "cocowine0205-20250321234156-26722243004026406.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 64,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping Haul"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman stands in a warehouse store aisle, holding a Donald Duck plushie that has an angry expression. (2) She demonstrates that the plushie has a hidden pocket on its back, pulling out a blue hot water bottle. (3) A close-up shot shows a price tag on the shelf for the 'Disney Donald Duck Hot Water Bottle' at $549. (4) The woman hugs the plushie and jokingly mimics an angry face to match it, then pretends to splash water from the bottle. (5) She places the plushie back on the shelf among other Disney and Care Bear merchandise.",
+      "audio_narrative_log": "(1) A female voice asks why she wants to buy such an angry Donald Duck. (2) A male voice explains that it is a 'period miracle tool' (hot water bottle) and that it's natural to be angry during a period. (3) Upbeat, medium-tempo BGM plays throughout. (4) The male and female voices continue to chat playfully about the product's price ($549) and capacity (600ml). (5) They joke about using the hot water to 'scald' someone they dislike at the office.",
+      "text_narrative_log": "(1) '小朋友你為什麼要買那麼生氣的唐老鴨' (Curious tone). (2) '生理期神器唐老鴨暖水袋' (Functional/Hook). (3) '熱水' (Focusing on the function). (4) '復仇神器' (Humorous tone). (5) '$549 很值得哎' (Informative tone). (6) '帶我回家' (Emotional plea)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 4.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Product Feature Reveal -> Price/Detail Analysis -> Humorous Use Case -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Half body",
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female presenter visible on camera; 1 male heard off-camera.",
+      "mainCharacterDescription": "A young Asian woman with long black hair, wearing a white puffed-sleeve blouse under a black vest."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Costco"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A warehouse-style retail environment with high ceilings, industrial shelving, and numerous plush toys including pink Care Bears.",
+      "lightingStyle": "Bright industrial overhead lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Duck (Plush)",
+        "Bear (Plush)"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Bicycle"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "DISNEY",
+        "Care Bears"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Playful, enthusiastic, and humorous",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Vlog",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Meme sounds",
+        "Laughter"
+      ],
+      "ambientNoise": [
+        "Store quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Intro -> Feature Reveal -> Price -> Value Proposition",
+      "mainPurpose": "The video serves as a shopping recommendation/vlog showcasing a specific Disney-themed product at Costco. It combines product features (hot water bottle for menstrual relief) with humorous commentary to drive engagement and highlight the item's value for money.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed focus on a specific product, showing its price tag at a specific retailer (Costco), and positive verbal commentary on its value.",
+      "endorsementObject": [
+        "DISNEY 趴趴熱水袋",
+        "COSTCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "On-screen variety-show style captions and banter between the camera person and the subject.",
+      "freeDescribe": "The video targets young women by focusing on 'period relief' while using the recognizable Disney brand and the appeal of 'treasure hunting' at Costco."
+    }
+  }
+}

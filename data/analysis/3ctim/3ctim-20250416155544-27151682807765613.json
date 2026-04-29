@@ -1,0 +1,173 @@
+{
+  "videoName": "3ctim-20250416155544-27151682807765613.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 48,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Commentary",
+        "Tech News"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is live-action. A male creator wearing a grey 'Roots' hoodie, glasses, and a flat cap holds a smartphone showing a Ghibli-style illustration. (2) A screen recording shows a chat interface (ChatGPT) converting a photo into a cartoon style. (3) The creator returns to the screen, gesturing with his hands while speaking excitedly. (4) A digital news article is displayed as an overlay, discussing Ghibli Studio's response to the AI trend. (5) The creator ends the video looking directly at the camera with a questioning expression.",
+      "audio_narrative_log": "(1) Upbeat, mid-tempo lo-fi electronic music begins. A male voice speaks in Mandarin with a clear, energetic, and professional tone. (2) The music continues as a background layer while the host describes the viral AI image trend and the rumors of a legal warning. (3) Brief 'pop' and 'ding' sound effects (SFX) occur when text and images appear on the screen. (4) The host's voice concludes the narrative with a slightly inquisitive inflection as the music fades out.",
+      "text_narrative_log": "(1) Decorative Text: '吉卜力風格圖片' (Ghibli style picture) - Bold yellow text used as a hook. (2) Functional Text: '侵害著作權' (Copyright infringement) - Red text highlighting the central conflict. (3) Functional Text: Continuous subtitles in Traditional Chinese tracking the spoken dialogue. (4) Decorative Text: '然而吉卜力工作室' (However, Ghibli Studio) - Transitioning the narrative to the official response."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video follows a sequence: Intro hook -> Explanation of trend -> Discussion of controversy -> Debunking rumors -> Outro question."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator presenting to the camera.",
+      "mainCharacterDescription": "A middle-aged man with glasses, a flat cap, and a grey 'Roots' brand hoodie."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A neutral, out-of-focus indoor studio or home office setting with soft vertical blinds or panels.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Roots",
+        "miko",
+        "Facebook",
+        "Instagram"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Lo-fi Upbeat",
+      "bgmBPM": 105,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Cartoon SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Explanation -> Conflict -> Resolution -> Question",
+      "mainPurpose": "The video is a tech-focused commentary piece designed to inform the audience about a viral AI image trend (Ghibli style) and address rumors concerning copyright warnings from Studio Ghibli. It uses a rumor-and-fact-check structure to maintain engagement and provide clarity on a trending topic.",
+      "visualEmotion": "Energetic and informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The creator uses a consistent studio setup with social media handle overlays and a specific 'miko' logo.",
+      "freeDescribe": "The video leverages high-contrast text overlays to highlight keywords, which is a common visual strategy in short-form Chinese-language commentary vlogs."
+    }
+  }
+}

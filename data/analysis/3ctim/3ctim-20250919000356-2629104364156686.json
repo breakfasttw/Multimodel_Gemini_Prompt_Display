@@ -1,0 +1,176 @@
+{
+  "videoName": "3ctim-20250919000356-2629104364156686.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 58,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Unboxing"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing a green t-shirt, glasses, and a grey flat cap is sitting at a table with a white Apple Watch box. He opens the box and shows the watch to the camera. (2) The video cuts to a close-up comparison of two Apple Watches (Ultra 3 and Ultra 2) side-by-side on a textured surface. (3) Transitions to shots of watch bands (blue and green) being held up and then worn on the wrist. (4) Close-ups follow showing a charging cable being attached to the watch and various health data screens displayed on a smartphone and the watch itself.",
+      "audio_narrative_log": "(1) A male voice begins speaking in an enthusiastic and fast-paced tone, accompanied by upbeat, high-tempo electronic background music. (2) The music remains constant as the narrator provides a detailed comparison of the watch models, with slight volume ducking to prioritize the vocals. (3) Soft digital sound effects (swooshes and pings) occur during text overlays and scene transitions.",
+      "text_narrative_log": "(1) '我的 Apple Watch Ultra 3' - Hook text indicating the subject. (2) '1.98吋 vs 1.92吋' - Functional text providing screen size measurements. (3) '0~80% Ultra 3 只要45分鐘' - Functional text explaining charging speed. (4) '呼吸中止症' - Decorative hook text highlighting a specific health feature."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro/Unboxing -> Feature-by-Feature Comparison -> Health App Demo -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male creator acting as the presenter throughout the video.",
+      "mainCharacterDescription": "A middle-aged man wearing a green Roots Athletics t-shirt, a grey flat cap, and circular glasses."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A professional studio setting with soundproofing foam panels on the wall and a textured tabletop for product shots.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartwatch",
+        "Smartphone",
+        "Charging Cable"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple",
+        "Roots"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Meme sounds",
+        "UI clicks"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Intro -> Specs Comparison -> Conclusion",
+      "mainPurpose": "To review and promote the Apple Watch Ultra 3 by highlighting its hardware upgrades (screen size, charging speed) and software capabilities (health tracking) in direct comparison to the previous generation.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct presentation and review of a specific tech product with brand logo clearly visible.",
+      "endorsementObject": [
+        "Apple"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Creator's signature flat cap and '3c Tim' logo in the corner.",
+      "freeDescribe": "Professional tech influencer content characterized by fast editing and dense information delivery."
+    }
+  }
+}

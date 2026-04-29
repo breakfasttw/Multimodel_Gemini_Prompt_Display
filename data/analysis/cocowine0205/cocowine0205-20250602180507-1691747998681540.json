@@ -1,0 +1,180 @@
+{
+  "videoName": "cocowine0205-20250602180507-1691747998681540.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 82,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Food Review",
+        "Shopping Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in a black dress with white sleeves stands in front of a Costco freezer, pointing excitedly at boxes of ice cream. (2) The camera zooms in on price tags and different brands of matcha ice cream bars (TSUJIRI and Kenji). (3) The woman picks up a box of 'Kyoto Uji Matcha' ice cream bars. (4) The scene transitions to an indoor setting where two women sit at a table; they unwrap the ice cream bars and begin eating them. (5) They show the internal texture of the ice cream and gesture with their hands while discussing the flavor.",
+      "audio_narrative_log": "(1) Upbeat, rhythmic BGM starts as a high-pitched, energetic female voice introduces the new product. (2) A male voice joins off-camera, engaging in a conversational dialogue about the brand differences and pricing. (3) The sound of the freezer door opening and closing is heard. (4) Transition to the tasting phase where two female voices discuss the taste profile, mentioning 'milkiness' and 'matcha aroma' with continuous upbeat background music. (5) Occasional sound effects (pings and pops) accompany the appearance of text on screen.",
+      "text_narrative_log": "(1) Hook text: '京都抹茶冰棒' (Kyoto Matcha Ice Cream Bar) with a large Costco logo at the top. (2) Comparison text: '辻利抹茶' (Tsujiri Matcha) vs '京都抹茶' (Kyoto Matcha). (3) Pricing info: '$469', '19.5元'. (4) Role title: '新品特派員' (New Product Special Correspondent). (5) Descriptive captions: '健司京都抹茶冰棒' (Kenji Kyoto Matcha Ice Cream Bar) and full-video dialogue subtitles in Traditional Chinese."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 3.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook/Product Discovery in store -> Price comparison -> Indoor tasting and scoring"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "Two women appear on screen during the tasting section; the male is only heard.",
+      "mainCharacterDescription": "One woman has long dark hair, wearing a black dress with white puffy shoulders. The second woman wears a light-colored top and a black beret."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Retail",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First half is in the frozen food aisle of a Costco warehouse with shelves and freezers; second half is an indoor room with a table, plush toys, and snack boxes.",
+      "lightingStyle": "Bright studio lighting and retail fluorescent light",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Ice cream bars",
+        "Matcha"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "TSUJIRI",
+        "Kenji 健司",
+        "Kangol"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and persuasive",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Comparison -> Tasting -> Evaluation",
+      "mainPurpose": "The video aims to review a new 'Kyoto Uji Matcha' ice cream bar found at Costco. It informs viewers of a brand change from the previous year's 'Tsujiri' version, highlights a slight price reduction, and provides a detailed taste test (scoring it 9/10) to encourage purchase among matcha lovers.",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit Integrated"
+      ],
+      "endorsementCues": "Detailed product presentation, price comparison, and a high score rating (9/10).",
+      "endorsementObject": [
+        "Kenji 健司",
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety show captions and split-screen comparisons.",
+      "freeDescribe": "The video follows a typical short-form 'Costco haul' or 'new find' template popular on social media to drive FOMO (fear of missing out) on limited-time products."
+    }
+  }
+}

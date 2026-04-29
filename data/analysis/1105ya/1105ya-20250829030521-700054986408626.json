@@ -1,0 +1,174 @@
+{
+  "videoName": "1105ya-20250829030521-700054986408626.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 5,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Transition"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Thailand"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Two young women stand in a modern airport terminal; one with black hair in a white shirt adjusts her hair while a companion with brown hair in a light blue shirt stands next to her. (2) The woman in the white shirt moves her hand across the lens in a wiping motion. (3) The scene instantly cuts to the same two women standing on a tropical beach; they are now wearing bikinis (green and pink) and denim shorts, smiling and posing with flowers in their hair as the camera zooms in slightly.",
+      "audio_narrative_log": "(1) High-energy electronic music begins with sharp percussive hits. (2) A series of heavy, rhythmic bass beats occur, synchronized with a visual transition. (3) A male vocal track enters rapping the line 'The type of shit I'm on you wouldn't understand' over a continuous trap-style beat.",
+      "text_narrative_log": "(1) Functional Text: A backlit sign overhead reads 'AOT บริษัท ท่าอากาศยานไทย จำกัด (มหาชน) Airports of Thailand Public Company Limited' in white and blue lettering."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Airport arrival -> Swipe transition -> Beach reveal"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female characters, 1 male passer-by visible in the airport background",
+      "mainCharacterDescription": "Two young women; one has long brown hair and wears a light blue shirt over a pink top, later appearing in a green bikini; the other has long black hair and wears a white shirt, later appearing in a pink bikini."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Airport",
+          "Beach"
+        ],
+        "topography": [
+          "Coastline"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene is an airport terminal with metallic structures and AOT signage; second scene is a sandy beach with blue water, small waves, and city buildings in the far distance.",
+      "lightingStyle": "Natural bright light",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Thai",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Zoom",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "AOT"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Confident and rhythmic",
+        "pitch": "Deep",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Trap",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Percussion",
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Drum Machine",
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Transition -> Result",
+      "mainPurpose": "To create a visually satisfying 'glow-up' or 'destination arrival' transition, contrasting the mundane setting of an airport with the idealized aesthetic of a tropical beach vacation to engage viewers interested in travel and fashion.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The airport logo is incidental to the location; no specific product is being promoted.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Hand-wipe camera transition synchronized with a bass drop.",
+      "freeDescribe": "The video follows a high-engagement short-video trend (transition video) using music with a strong beat to punctuate a change in environment and attire."
+    }
+  }
+}

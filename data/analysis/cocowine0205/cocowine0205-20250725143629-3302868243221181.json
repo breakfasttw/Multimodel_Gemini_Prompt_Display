@@ -1,0 +1,181 @@
+{
+  "videoName": "cocowine0205-20250725143629-3302868243221181.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 35.43,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping Review",
+        "Product Demo"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a close-up of an electric mahjong table shuffling tiles, with a large Costco logo and pricing text overlay. (2) A male hand interacts with the tiles as they are sucked into the center hole. (3) The camera zooms into a price tag showing 19,999. (4) Hands are seen gesturing over the table as the tiles rise vertically in rows. (5) The scene shifts to another price tag showing 25,999. (6) A second table with a blue-lit center console is shown; tiles rise diagonally. (7) The camera pans to show side features: a sliding drawer for chips, a fold-out cup holder, and a USB charging port on the side of the table frame.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music starts immediately. (2) Male and female voices are heard discussing the product features in an excited, conversational tone. (3) The rhythmic, mechanical sound of mahjong tiles clicking and shuffling is prominent throughout. (4) The whirring sound of a motor is heard as the table mechanisms move. (5) Ambient warehouse noise and distant chatter are audible in the background.",
+      "text_narrative_log": "(1) \"COSTCO 過年神器 電動麻將桌 19,999\" - Hook text in bright colors. (2) \"很大聲 所以這個是便宜\" - Descriptive text about noise level. (3) \"19,999\" - Large price display. (4) \"直上直下的!\" - Decorative text highlighting tile movement. (5) \"也太快了吧 怎麼這麼快\" - Emotional reaction text. (6) \"高級的\" - Descriptive tag for the more expensive model. (7) \"25,999\" - Price display for the high-end model. (8) \"我們來看看 聲音差別\" - Functional subtitle. (9) \"是斜著上來耶\" - Descriptive text about tile movement. (10) \"還有USB充電\" - Functional text pointing out features."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.53,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Entry-level product demo -> Mid-video transition to high-end product -> Feature detail showcase"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Torso",
+        "Legs"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male in a grey/patterned sweater, 1 female in a pink sweater, and 1 camera operator whose hands/shoes are partially visible.",
+      "mainCharacterDescription": "A male wearing a grey patterned sweater and a female wearing a pink knit sweater."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Retail Store"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A typical Costco warehouse interior with high ceilings, industrial shelving units (orange and blue), and concrete floors.",
+      "lightingStyle": "Intense studio-style warehouse lighting",
+      "weather": "Indoor",
+      "season": "Winter (inferred from 'Lunar New Year' text and sweaters)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Electric Mahjong Table",
+        "USB Port"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "EASTKING"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and informal",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Mahjong tile clicking",
+        "Mechanical whirring"
+      ],
+      "ambientNoise": [
+        "Warehouse echo",
+        "Background chatter"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Comparison -> Feature Highlight",
+      "mainPurpose": "The video serves as a shopping guide and product demonstration to inform viewers about the features and price differences between two models of electric mahjong tables sold at Costco, specifically targeting shoppers preparing for the Lunar New Year holiday.",
+      "visualEmotion": "Energetic and helpful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed filming of price tags and specific brand names while highlighting convenient features.",
+      "endorsementObject": [
+        "COSTCO",
+        "EASTKING"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced vlog style with colorful, large variety-show captions and on-screen price stamps.",
+      "freeDescribe": "The video uses typical social media hooks to capture attention, focusing on seasonal 'must-buy' items."
+    }
+  }
+}

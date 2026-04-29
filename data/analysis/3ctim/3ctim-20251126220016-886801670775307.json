@@ -1,0 +1,170 @@
+{
+  "videoName": "3ctim-20251126220016-886801670775307.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 4,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Fan-cam",
+        "Event Coverage"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Thailand"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a close-up of a middle-aged man in a black suit and tie, looking downward with a neutral expression in front of a classical building with white pillars. (2) The camera pans to the right to reveal a younger man with dark hair, wearing a pink turtleneck sweater and a grey textured blazer, who is smiling and speaking to someone off-camera. (3) A woman in black enters from the left and touches the younger man's arm as he continues to smile and look toward his left, with greenery and event lighting visible in the background.",
+      "audio_narrative_log": "(1) The audio begins with the sound of a crowded environment featuring multiple overlapping voices and general chatter. (2) A clear male voice is heard speaking in Thai, maintaining a friendly and conversational tone. (3) Ambient noise of movement and muffled distant conversations continues until the clip ends.",
+      "text_narrative_log": "(1) None"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 4.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Camera pans from a man in a suit to a smiling male celebrity interacting with people at an event."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male subject in a grey blazer, 1 man in a black suit, 1 woman in black, and at least 5 blurred figures in the background.",
+      "mainCharacterDescription": "A young man with dark hair, wearing a pink turtleneck and a grey blazer with a decorative pin."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Event",
+          "Building Entrance"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A historical-style building with white columns and brickwork, illuminated by warm artificial light, with trees and a crowd in the distance.",
+      "lightingStyle": "Artificial night lighting",
+      "weather": "Clear",
+      "season": "Unknown",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Pan",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 5,
+        "vocal_demographics": {
+          "male_vocal_count": 3,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and casual",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Thai"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd chatter"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Reveal -> Interaction",
+      "mainPurpose": "To capture a candid social moment of a public figure at a high-profile evening event, showcasing his interaction with staff or fans.",
+      "visualEmotion": "Cheerful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Handheld fan-captured footage of a celebrity.",
+      "freeDescribe": "The video appears to be shot by a bystander or fan during a red carpet or social event in Thailand, given the language and the formal attire of the subjects."
+    }
+  }
+}

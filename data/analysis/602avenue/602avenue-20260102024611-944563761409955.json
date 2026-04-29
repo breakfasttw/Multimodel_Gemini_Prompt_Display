@@ -1,0 +1,171 @@
+{
+  "videoName": "602avenue-20260102024611-944563761409955.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 8.0,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Life Sharing"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a close-up shot of a white wall featuring a prominent, jagged vertical crack. (2) A hand enters the frame from the bottom, holding a white tissue, and wipes away white plaster debris from the grey-beige patterned floor mat near the wall's base. (3) The hand then knocks on the wall surface and gestures with three fingers spread in front of the crack, suggesting the scale of the damage or expressing shock.",
+      "audio_narrative_log": "(1) An upbeat Mandarin pop song with a fast tempo and male vocals plays continuously from the start. (2) Subtle shuffling and tapping sounds are heard as the hand cleans the floor and knocks on the wall. (3) No spoken dialogue or narration is detected throughout the clip.",
+      "text_narrative_log": "(1) Decorative/Hook Text: '剛剛地震做的😱 (已經有跟房東聯絡)' appears at the bottom, conveying shock about earthquake damage and providing status on landlord contact. (2) Decorative/Hook Text: '感覺我今天會睡不著🫠' appears later, expressing anxiety and a worried emotional tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 8.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Cleaning Damage -> Expressing Anxiety"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main character visible only by their hand.",
+      "mainCharacterDescription": "A person with fair skin and well-maintained nails, appearing to be female based on hand characteristics."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Residential"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A plain white interior wall with a significant crack, adjacent to a beige window blind or frame and a textured floor mat.",
+      "lightingStyle": "Natural indoor lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and rhythmic (singing)",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "None",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Mandarin Pop",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion",
+        "Strings"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums",
+        "Electric Guitar"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Shuffling"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Observation -> Action -> Emotion",
+      "mainPurpose": "The video serves as a personal update or 'story' documenting the immediate physical damage caused by a recent earthquake. By showing the crack and the cleaning of debris while expressing anxiety through text, the creator seeks to share a moment of personal distress and vulnerability with their audience.",
+      "visualEmotion": "Anxious"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of emotional emojis and text overlays to describe personal feelings about a current event.",
+      "freeDescribe": "Typical short-form user-generated content focusing on a 'point of interest' in daily life."
+    }
+  }
+}

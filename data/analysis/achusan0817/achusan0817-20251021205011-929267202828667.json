@@ -1,0 +1,178 @@
+{
+  "videoName": "achusan0817-20251021205011-929267202828667.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 26,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Skit",
+        "Promotional"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a large blue mascot character with yellow eyes standing in a laboratory-like setting, looking at a laptop screen which displays an animation. (2) The mascot turns around and gestures excitedly as if talking to people off-screen. (3) Scene cuts to a sepate-toned (brownish) close-up where a man wearing a white lab coat, mask, and glasses uses a stethoscope to 'examine' the blue mascot's body. (4) The scene transitions back to full color, showing the mascot standing in front of stacks of boxed merchandise in what appears to be a warehouse or store. (5) Finally, a 2D animated graphic appears showing two cartoon characters and text promoting the 'Achusan Shop' grand opening.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced electronic background music starts. A high-pitched, energetic male voice speaks in Mandarin, followed by multiple overlapping voices that sound like they are ordering food and drinks (milk tea, fried chicken). (2) The music continues as the voices list various snacks excitedly. (3) The audio shifts to a calmer, sepia-toned sequence where a steady, professional-sounding male voice (the doctor) lists medical issues like high cholesterol and blood sugar. (4) A quick 'ding' sound effect plays. (5) The upbeat music returns with a jingle-like quality as the main male voice enthusiastically announces the store opening.",
+      "text_narrative_log": "(1) Functional Text: '有人要叫東西吃嗎' (Anyone want to order something to eat?), '老闆請客喔' (Boss's treat). (2) Decorative/Effect Text: '我要珍奶跟雞排' (I want pearl milk tea and chicken fillet) and other food orders appear as colorful captions. (3) Functional Text: '最近膽固醇超標' (Cholesterol has exceeded the limit recently) and other health warnings appear in a vintage font. (4) Hook Text: '三十歲的叛逆仙子' (30-year-old rebellious fairy) appears above the mascot. (5) Promotional Text: '阿啾小賣店 正式開張!' (Achusan Shop Officially Open!) with website URL 'ACHUSAN.COM'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 3.25,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro skit -> Medical checkup flashback -> Store reveal -> Call to action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male actor dressed as a doctor; 1 large mascot costume.",
+      "mainCharacterDescription": "A male doctor wearing a white coat, surgical mask, glasses, and using a stethoscope."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Office",
+          "Laboratory",
+          "Warehouse"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "White cabinets and scientific equipment in the first scene; a room filled with boxes of 'Achusan' branded merchandise in the second.",
+      "lightingStyle": "Bright indoor studio lighting; sepia filter used for the checkup scene.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant / Sepia mix",
+      "cameraWork": [
+        "Static",
+        "Medium Shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Laptop",
+        "Microscope"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "阿啾小賣店"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 3,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 4,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "High-pitched mascot voice vs. steady doctor voice",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat / Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Scribble"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Complication -> Solution -> CTA",
+      "mainPurpose": "To announce and promote the grand opening of the 'Achusan Shop' online store. The video uses a humorous skit where a doctor warns the mascot character about health risks from overeating (ordering food), leading to a pivot where the 'rebellious' character focuses on selling merchandise instead.",
+      "visualEmotion": "Humorous, Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of the store name, URL, and boxed merchandise.",
+      "endorsementObject": [
+        "阿啾小賣店"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Blue mascot character (Achusan), high-pitched vocal delivery, variety-show style text captions.",
+      "freeDescribe": "The video blends real-life acting with mascot costumes and 2D animation, a common style for Taiwanese social media content creators."
+    }
+  }
+}

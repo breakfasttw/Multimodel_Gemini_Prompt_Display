@@ -1,0 +1,168 @@
+{
+  "videoName": "1105ya-20251003214727-1345314554292480.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 6,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Fitness",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman is hanging from ab straps on a red and black power rack in a gym, performing leg raises. She has a focused and slightly strained expression. (2) She continues to lift her legs toward her chest while a male coach off-camera encourages her. (3) After completing several repetitions, she lowers her legs, looks directly at the camera, and smiles, showing a mix of exhaustion and satisfaction.",
+      "audio_narrative_log": "(1) Upbeat electronic dance music starts immediately. An off-screen male voice shouts encouragement in Mandarin, saying '慢一點' (slower) and '再一個' (one more). (2) The music continues at a steady tempo as the male voice repeats '再一個' and '慢一點' with high energy. (3) The woman exhales and gives a short, light laugh as she finishes the set, with the background music continuing until the clip ends.",
+      "text_narrative_log": "(1) Decorative/Hook Text: '當教練說再一個…' (When the coach says 'one more'...) appears at the top center. The tone is humorous and relatable to fitness enthusiasts."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 6.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro (starting exercise) -> Action (performing reps) -> Outro (finishing and smiling)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main character performing exercises.",
+      "mainCharacterDescription": "A young woman with long brown hair, wearing a black sports bra with white text on the band, black high-waisted cycling shorts, white crew socks, and black and white sneakers."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Gym"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern indoor gym featuring a red and black power rack, a shelf with various colored kettlebells, medicine balls on the floor, and a large window in the background showing a city view with an elevated highway.",
+      "lightingStyle": "Bright indoor lighting combined with natural daylight from the window.",
+      "weather": "Clear",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "ZIVA",
+        "MATRIX"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Encouraging and loud",
+        "pitch": "Medium",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Electronic",
+      "bgmBPM": 126,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Gym noise"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Action -> Climax/Relief",
+      "mainPurpose": "The video captures a relatable moment for gym-goers: the struggle of pushing through extra repetitions when instructed by a coach. It aims to demonstrate physical fitness effort while maintaining a lighthearted and positive tone through the woman's final smile.",
+      "visualEmotion": "Energetic and Determined"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Uses Traditional Chinese situational hook text common in Taiwanese social media fitness vlogs.",
+      "freeDescribe": "Typical short-form fitness content focused on personal achievement and trainer-trainee dynamics."
+    }
+  }
+}

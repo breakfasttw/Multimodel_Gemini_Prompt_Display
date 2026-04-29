@@ -1,0 +1,175 @@
+{
+  "videoName": "achusan0817-20251018190031-25647401174887427.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 46,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Skit",
+        "Animation",
+        "Advertisement"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A large blue plush character representing 'A-Chiu' is lying on a bed with a gray sheet, snoring loudly. A smartphone is placed next to it. (2) The character wakes up, showing expressive yellow eyes and a wide mouth; it rolls around on the bed, performing exaggerated movements to show its reluctance to get up. (3) The character decide to fake an illness, and the scene shows a close-up of a smartphone placed on its 'face' as it dials a contact labeled 'Boss'. (4) A text notification pops up on the phone screen showing an overdue credit card bill of 69,000 NTD. (5) The character's expression shifts, and it is suddenly seen standing upright in a storage room filled with merchandise boxes. (6) The final phase transitions to 2D graphic illustrations of characters shopping, followed by a screen displaying social media links and a website address.",
+      "audio_narrative_log": "(1) Loud, heavy snoring sounds dominate the audio landscape. (2) A repetitive alarm voice says 'Get up, Rebel' in Mandarin. (3) A deep male voice (A-Chiu) speaks in a whiny, sluggish tone, complaining about lack of sleep and wanting to stay in bed. (4) The sound of a phone dialing is followed by another male voice (Boss) answering with 'Hello? What's up?'. (5) A-Chiu's voice changes to a weak, raspy, fake-sick tone asking for leave. (6) A message notification chime rings, followed by a calm female voice reading a text message about a credit card debt. (7) A-Chiu's voice suddenly becomes loud and energetic, shouting that he is fully recovered. (8) Upbeat, fast-paced electronic background music starts as a narrator introduces the grand opening of the store.",
+      "text_narrative_log": "(1) '(地獄打呼聲)': Descriptive caption for 'Hellish snoring'. (2) '起床嘍叛逆': Functional text meaning 'Wake up, Rebel'. (3) '可惡昨天失眠沒睡飽', '好想睡覺', '好不想上班喔': Series of captions expressing exhaustion and desire to skip work. (4) '對了今天就裝病好了': Narrative text meaning 'By the way, I'll just fake being sick today'. (5) '老闆：喂？怎麼了': Dialogue identifying the speaker as the boss. (6) '您本期信用卡卡費已逾期...繳納69000元': A mock iMessage showing a heavy credit card debt. (7) '沒事了我康復了': Hook text meaning 'I'm fine, I've recovered'. (8) '三十歲的叛逆仙子 奮力上班中', '阿啾小賣店 正式開張！': Promotional text for the store opening with a humorous title."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Waking up -> Faking illness -> Financial shock -> Work scene -> Store Promotion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 0,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main character represented by a plush suit mascot",
+      "mainCharacterDescription": "A round blue plush mascot with yellow angry-looking eyes and a wide, mischievous mouth."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Bedroom",
+          "Retail Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Initially a simple bedroom with white walls and a gray bed; later a retail storage area with cardboard boxes of merchandise.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "阿啾小賣店",
+        "ACHUSAN.COM"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Comedic, whiny, then energetic",
+        "pitch": "Medium-low",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Snoring",
+        "Alarm",
+        "Notification sound"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Conflict -> Twist -> CTA",
+      "mainPurpose": "The video uses a relatable comedy skit about adulting and the struggle to go to work to promote the opening of the creator's merchandise store (阿啾小賣店). The 'rebellion' against work is resolved by the harsh reality of financial debt, driving the character (and the audience) to the store.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct promotion of the store grand opening, website URL, and Instagram link display.",
+      "endorsementObject": [
+        "阿啾小賣店"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "A-Chiu (阿啾) character IP and specific voice acting style.",
+      "freeDescribe": "High-quality IP-based marketing that leverages emotional connection to the character to drive commercial traffic."
+    }
+  }
+}

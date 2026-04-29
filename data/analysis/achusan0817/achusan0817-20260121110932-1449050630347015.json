@@ -1,0 +1,179 @@
+{
+  "videoName": "achusan0817-20260121110932-1449050630347015.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 84,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Animation",
+        "Comedy",
+        "Storytelling"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Hsinchu"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) This is a 2D animation video. A bald male character is lying in bed, staring at the ceiling with a wide-eyed, thoughtful expression, then touches his chest. (2) He stands up, looking conflicted, then moves to a computer desk to search for dating advice. (3) The screen shows a blog titled 'Xiao Ye's Love Consultation Room'. (4) He attempts to type a romantic message on his smartphone, but his facial expression turns to shock as he realizes an autocorrect error. (5) He calls his partner, appearing increasingly agitated and sweaty as the conversation progresses. (6) In a final twist, a black-haired male character appears behind him with a smug expression, holding a phone.",
+      "audio_narrative_log": "(1) Light, upbeat Lo-fi background music plays. A male voice (A Chuo) narrates his inner monologue in a soft, contemplative tone. (2) Sound of rapid keyboard typing. (3) A second, calmer male voice (Xiao Ye) is heard reading blog text in a professional, almost satirical 'expert' tone. (4) A digital notification sound triggers as a text message is sent. (5) A phone conversation ensues; the partner's voice is gentle and romantic, contrasting with A Chuo's loud, frantic, and high-pitched responses. (6) Music swells into a dramatic sting, followed by a loud, realization-filled shout from the main character.",
+      "text_narrative_log": "(1) Functional subtitles appear throughout, tracking the dialogue and internal thoughts. (2) '歡迎來到情場高手小葉的戀愛諮詢室' (Welcome to Love Expert Xiao Ye's Love Consultation Room) - decorative title on a webpage. (3) '學長寶雅生活館' (Senior BoYa Living Mart) - large, bold decorative text used for comedic emphasis on an autocorrect fail. (4) '到底在聊什麼' (What on earth are we talking about?) - variety-show style emotional sticker."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro (Inner thoughts) -> Action (Searching for advice) -> Conflict (Typo/Phone call) -> Climax (The Reveal)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 bald main creator, 1 black-haired partner character",
+      "mainCharacterDescription": "A bald male wearing a black t-shirt and blue pants; a black-haired male wearing a red t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Bedroom",
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Simple animated interiors including a bed with blue sheets, a computer desk with a monitor, and a generic room with brown walls.",
+      "lightingStyle": "Bright, even animated lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and vibrant animated colors",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Bus"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Computer Monitor",
+        "Keyboard"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "寶雅"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous, ranging from contemplative to frantic",
+        "pitch": "Medium-high",
+        "loudness": "Variable (Normal to Loud)",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Lo-fi Upbeat",
+      "bgmBPM": 95,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electric Piano"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Typing",
+        "Notification Sound",
+        "Dramatic Sting"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Development -> Climax -> Twist",
+      "mainPurpose": "The video is a comedic animation intended for entertainment, chronicling the protagonist's anxiety and lack of experience in a new relationship. It uses a relatable 'autocorrect' mishap to build tension, culminating in a ironic plot twist where the person giving advice online turns out to be the protagonist's own boyfriend.",
+      "visualEmotion": "Humorous and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The brand '寶雅' (Poya) is integrated into the comedic climax and mentioned repeatedly in text and dialogue as a central plot point.",
+      "endorsementObject": [
+        "寶雅"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Signature 2D minimalist animation style of 'A Chuo' (阿啾).",
+      "freeDescribe": "The video effectively utilizes Taiwanese cultural references (Poya stores, Hsinchu location) to ground its comedy for a local audience."
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "videoName": "3ctim-20250702175215-3366914950152492.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 71,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Product Review",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man wearing a light blue hat, glasses, and a white t-shirt sits at a desk in a room filled with figurines, including a large Gundam head. (2) The scene cuts to a close-up of a teleprompter device attached to a monitor, displaying a script in Chinese. (3) The man demonstrates a macro keyboard with multiple LCD buttons, showing various app icons. (4) A small LED light panel is shown, then its light output is adjusted on camera. (5) A high-definition webcam is displayed on top of a monitor. (6) The man picks up and demonstrates a black metal smartphone clamp, stretching the spring-loaded jaw with his thumb. (7) Finally, the man gestures towards the camera while summarizing the utility of the devices shown.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music starts immediately and continues throughout the video. (2) A male voice speaks enthusiastically and professionally in Mandarin, introducing the '5 useful accessories'. (3) Brief 'whoosh' and 'click' sound effects occur during scene transitions and when products are highlighted. (4) The speaker's voice remains dominant and clear over the background music, which maintains a steady rhythm.",
+      "text_narrative_log": "(1) '打造高質感影音內容!?' - Hook text in bold white letters with a black outline, meaning 'Create high-quality video content!?'. (2) '5款實用配件' - Functional text indicating '5 useful accessories'. (3) 'Elgato Prompter', 'Stream Deck XL', 'Key Light Mini', 'Facecam Pro' - Functional labels for the specific products being reviewed. (4) Subtitles at the bottom of the screen translate the spoken Mandarin narration throughout the video."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.9,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Itemized Product Showcase -> Summary and CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main creator appearing in the intro and outro scenes.",
+      "mainCharacterDescription": "Middle-aged male creator wearing a blue newsboy cap, rectangular glasses, and a white t-shirt with a 'ROOTS ATHLETICS' logo."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Home Office"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A professional desk setup featuring a monitor, keyboard, and various Elgato streaming equipment. In the background, there is a shelving unit with a large Gundam head, Mario figurines, and other toys.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Monitor",
+        "Keyboard",
+        "Webcam",
+        "Teleprompter",
+        "LED Light"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Elgato",
+        "Roots",
+        "Sony"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Steady and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Meme sounds",
+        "Click"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Categorized Demonstration -> Conclusion",
+      "mainPurpose": "To provide a structured review of streaming and video production hardware, specifically showcasing the Elgato ecosystem to help content creators improve their production value.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator systematically reviews five products from the same brand, demonstrating their features and encouraging viewers to upgrade their equipment.",
+      "endorsementObject": [
+        "Elgato"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Creator's signature blue cap and high-energy Mandarin delivery.",
+      "freeDescribe": "The video follows a standard 'tech review' format optimized for short-form social media platforms like TikTok or Reels, utilizing fast cuts and clear text hooks."
+    }
+  }
+}

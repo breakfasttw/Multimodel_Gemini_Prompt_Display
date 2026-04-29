@@ -1,0 +1,176 @@
+{
+  "videoName": "3ctim-20250413102133-2100774964055637.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 54,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Talk Show"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a live-action vlog. An adult male wearing a red polo shirt, glasses, and a gray checkered newsboy cap is sitting in the driver's seat of a moving car, speaking and gesturing toward the camera. (2) He continues his story, occasionally glancing at the road and the passenger side, with various colorful text overlays and animated dog icons appearing on the screen. (3) The car moves through an urban environment with trees and other red vehicles visible through the windows as the speaker maintains an expressive facial expression.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music starts and remains continuous. (2) A male voice speaks in Mandarin with a storyteller's tone, which is high-pitched and excited at times. (3) Various sound effects like pings, pops, and cash register sounds (SFX) occur intermittently, coinciding with the appearance of on-screen text.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles throughout the video translate the speaker's words about business losses and factory visits. (2) Decorative/Effect Text: Variety-show style hooks such as '又賠了50萬' (Lost another 500k) and '我認賠' (I admit my loss) appear in large, stylized fonts with a frustrated or dramatic tone. (3) Branding Text: Social media icons and IDs for Facebook and Instagram are visible in the top left corner."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.25,
+      "isNarrativeShift": false,
+      "mainActionFlow": "The speaker tells a continuous story about business failures while driving, with frequent jump cuts to keep the pace fast."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head",
+        "Torso",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main creator identified as the driver.",
+      "mainCharacterDescription": "Middle-aged Asian male, wearing a red Roots polo shirt, glasses, and a gray-black checkered newsboy cap."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Inside Car"
+        ],
+        "topography": [
+          "Urban Street"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "Interior of a car with a black ceiling and dashboard; outside the windows, green trees and urban road traffic are visible.",
+      "lightingStyle": "Natural daylight",
+      "weather": "Overcast",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Car Dashboard"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Roots",
+        "Facebook",
+        "Instagram"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Lively and storytelling",
+        "pitch": "Medium-high",
+        "loudness": "Clear",
+        "speed": "Brisk",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop sounds",
+        "Cash register sound"
+      ],
+      "ambientNoise": [
+        "Road noise"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Narrative -> Conclusion",
+      "mainPurpose": "The video aims to share personal entrepreneurial hardships and the high costs of entering new business fields, serving as both advice for aspiring business owners and engaging storytelling for his audience.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The content is a personal narrative about business experience without promoting a specific third-party product.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Driving-and-talking vlog style with high-density variety-show text and stylized character stickers.",
+      "freeDescribe": "The creator uses high production value in editing (beat-sync, SFX) to make a simple talking-head car vlog more engaging for short-form video platforms."
+    }
+  }
+}

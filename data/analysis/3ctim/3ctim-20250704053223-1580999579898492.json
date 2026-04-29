@@ -1,0 +1,184 @@
+{
+  "videoName": "3ctim-20250704053223-1580999579898492.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 67,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a middle-aged man wearing a denim cap and smart glasses speaking enthusiastically to the camera in a studio setting with green backlighting. (2) A close-up shot shows a pair of black-framed smart glasses sitting on a textured grey surface. (3) The scene shifts to an exhibition booth (Computex) where the man demonstrates the glasses to another male individual; green AR-style overlays appear on screen to simulate the glasses' interface. (4) Close-up views highlight the camera lens on the bridge of the glasses and the internal display. (5) The man points to the temple of the glasses to demonstrate touch controls. (6) The video ends with the man speaking back in the studio setting with heart-shaped stickers overlaying his face.",
+      "audio_narrative_log": "(1) Upbeat, rhythmic electronic background music begins. A male voice speaks in a high-pitched, excited, and clear tone in Mandarin. (2) The music continues at a steady volume as the primary speaker's narration dominates. Sound effects like soft 'beeps' occur when tech features are highlighted. (3) The audio environment transitions to include muffled background chatter and exhibition hall noise during the live demo segments, while the main vocal remains clear. (4) The music remains consistent in tempo through the end of the clip.",
+      "text_narrative_log": "(1) Decorative Text: '3c有意思tim哥' and '@3ctim' appear at the top left as branding. (2) Functional Text: White and yellow subtitles at the bottom center translate the spoken dialogue. (3) Hook Text: '各位有沒有看到我的新眼鏡' (Have you seen my new glasses?) appears in large yellow text. (4) Feature Highlights: '即時翻譯' (Real-time translation), '5000萬像素' (50 million pixels), and 'Meta的智慧眼鏡' (Meta smart glasses) appear as topical labels."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Product Close-ups -> Feature Demonstration at Exhibition -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main creator (Tim), 1 interviewee/assistant at the booth, 2 visible passers-by in the exhibition background.",
+      "mainCharacterDescription": "Middle-aged male with glasses, wearing a denim newsboy cap, a white t-shirt with graphics, and a black lanyard from 'AI NEXT'."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Exhibition Hall"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The studio background features a desk, a monitor, and vibrant green/blue LED lighting. The exhibition background shows the TECNO booth with MSI, NVIDIA, and Computex branding, including display screens and other tech products.",
+      "lightingStyle": "Mixed: Professional studio lighting and overhead exhibition lighting.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Vibrant",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Coffee"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smart Glasses",
+        "Smartphone",
+        "Monitor",
+        "Laptop"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "TECNO",
+        "MSI",
+        "NVIDIA",
+        "Meta",
+        "Computex"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and friendly",
+        "pitch": "Normal",
+        "loudness": "Clear",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Beep"
+      ],
+      "ambientNoise": [
+        "Exhibition Hall Chatter"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature Showcase -> Practical Demo -> Conclusion",
+      "mainPurpose": "The video is a promotional tech review intended to generate interest in the TECNO Pocket Go/G1 smart glasses. It leverages the host's influencer status to explain technical features like real-time translation and camera quality in an accessible, high-energy format designed for social media consumption.",
+      "visualEmotion": "Energetic and Tech-forward"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The host provides a detailed review of a specific product, highlights its unique selling points, and shows the brand logo prominently while demonstrating the device at a trade show.",
+      "endorsementObject": [
+        "TECNO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host's signature newsboy cap and enthusiastic greeting '各位有沒有看到...'.",
+      "freeDescribe": "High-quality vertical video production optimized for mobile platforms, using variety-show style text to keep audience engagement high."
+    }
+  }
+}

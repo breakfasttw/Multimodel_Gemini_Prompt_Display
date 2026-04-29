@@ -1,0 +1,188 @@
+{
+  "videoName": "khshu_-20251008185326-1217204217167707.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 79,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Interactive Drama",
+        "Commercial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a live-action scene of a young woman named Chien Chien in a yellow-walled office, using a handheld fan that blows her hair. An interactive 'Dating Sim' style menu appears with three choices. (2) The scene transitions to an outdoor park area with Taipei 101 visible in the background; she is sitting by a pond checking a digital camera. Another interactive menu appears. (3) The setting shifts to a restaurant (ABV) where Chien Chien is served a massive tower of pork ribs. She eats heartily with her hands and chopsticks. (4) Realizing her breath might smell, she looks concerned, and a third choice menu appears. She then takes out a purple Listerine portable packet, uses it, and smiles confidently. (5) The video ends showing a display of the same product in a restaurant's restroom area.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo background music plays throughout. A male narrator provides a steady voice-over, describing the woman's actions in a playful, observant tone. (2) Interactive sound effects (a 'ding' or selection sound) play whenever the purple menu boxes appear on screen. (3) Chien Chien's voice is heard briefly, laughing and saying 'Thank you' and 'So thoughtful' in a high-pitched, friendly tone. (4) Ambient noise from the restaurant (clinking plates) and sound effects for eating are audible in the third phase. (5) The narrator's voice becomes more authoritative and promotional towards the end while describing the mouthwash benefits.",
+      "text_narrative_log": "(1) Functional Text: Subtitles translating the narrator's commentary about seeing the coworker once a month. (2) Decorative Text: Captions like '(自带仙女风?!)' and '(原来是吹风机啊)' appear to add humor. (3) Functional Text: Three interactive menus with questions like 'Your choice?' and options in purple boxes. (4) Hook Text: '开会前来一包, 漱走开口不安感' (Take a pack before a meeting, rinse away breath anxiety). (5) Branding: 'LISTERINE TOTAL CARE' and '李施德霖' appear on the product packaging."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 32,
+      "averageSceneDuration": 2.47,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro/Office Scenario -> Outdoor Trip Scenario -> Restaurant Meal Scenario -> Product Solution/CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator (Chien Chien) appears throughout the video.",
+      "mainCharacterDescription": "A young woman with dark hair tied in a bun, wearing a white tank top over a purple checkered dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Office",
+          "Outdoor Park",
+          "Restaurant"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A yellow office wall with a monitor; a park with a traditional pavilion, pond, and Taipei 101 in the distance; a rustic-style restaurant interior with wooden decor and large meat platters.",
+      "lightingStyle": "Natural light outdoors, bright studio-like lighting in office, warm ambient lighting in restaurant.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "POV",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pork ribs",
+        "Salad",
+        "Seafood",
+        "Fish"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Monitor",
+        "Digital Camera",
+        "Handheld Fan"
+      ],
+      "landmark": [
+        "Taipei 101"
+      ],
+      "brandLogos": [
+        "LISTERINE",
+        "李施德霖",
+        "ABV"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade with SFX",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, playful, and persuasive",
+        "pitch": "Narrator: Deep/Steady; Character: High-pitched",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Meme sounds",
+        "Ding",
+        "Selection SFX",
+        "Eating sounds"
+      ],
+      "ambientNoise": [
+        "Restaurant",
+        "Outdoor quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Scenario A -> Scenario B -> Scenario C -> Unified Solution",
+      "mainPurpose": "The video uses a gamified interactive narrative (simulating a dating or life-choice game) to demonstrate the social necessity of fresh breath. It places the creator in common situations—work meetings, outdoor trips, and heavy meals—to show that Listerine portable mouthwash is the convenient solution for maintaining confidence and oral hygiene in any setting.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The entire narrative arc leads to the use of the product, with close-ups of the packaging and a final call-to-action regarding where the product is available (ABV restaurants).",
+      "endorsementObject": [
+        "LISTERINE"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of interactive choice overlays resembling dating simulator games; Chien Chien's signature high-energy eating vlog style.",
+      "freeDescribe": "The video effectively bridges the gap between entertainment content (vlog/gaming) and commercial advertising through high production value and relatable 'embarrassing' scenarios."
+    }
+  }
+}

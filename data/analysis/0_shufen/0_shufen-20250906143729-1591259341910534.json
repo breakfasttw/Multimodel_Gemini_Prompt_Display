@@ -1,0 +1,169 @@
+{
+  "videoName": "0_shufen-20250906143729-1591259341910534.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 14,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a live-action recording of a young woman sitting inside a car. She is wearing a bright pink scoop-neck top and has a pink rabbit-ear filter with a large bow overlaid on her head. (2) She looks directly into the camera, using her right hand to gesture with one, two, and then three fingers as she lists points. (3) She maintains an expressive and playful facial expression, frequently tilting her head and pouting her lips while speaking.",
+      "audio_narrative_log": "(1) A young female voice speaks in Mandarin Chinese with a playful and energetic tone. (2) The speech is continuous throughout the video without any background music. (3) The soundscape is clean, with very minimal ambient car interior noise and no sound effects (SFX) detected.",
+      "text_narrative_log": "(1) Functional Text: \"據我所知\" (As far as I know) and \"男人一共有分三種\" (There are three types of men). (2) Functional Text: \"第一種很虛榮 一定要找胸大的\" (The first type is vain; they must find a big-chested woman) and \"第二種很單純 只要胸大的就可以了\" (The second type is simple; as long as she is big-chested, it's fine). (3) Functional Text: \"第三種很現實 什麼都不要 只要胸大的\" (The third type is realistic; they want nothing else, only a big-chested woman)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 14.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> List of humorous points -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Face",
+        "Chest up",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female main character speaking directly to camera.",
+      "mainCharacterDescription": "A young woman with long dark hair, wearing a low-cut pink shirt and a digital rabbit ear filter."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Car"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The interior of a car, showing the car seat headrest and a hint of the window.",
+      "lightingStyle": "Natural light coming from the car windows.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Playful and humorous",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Point 1 -> Point 2 -> Point 3",
+      "mainPurpose": "The video is a humorous short clip designed for social media entertainment. The creator uses a repetitive list format to make a joke about her own physical features (large chest), claiming that all types of men—vain, simple, or realistic—are only interested in that one attribute. The primary goal is to engage viewers through humor and visual appeal.",
+      "visualEmotion": "Playful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Self-deprecating humor centered on physical appearance and the use of cute, stylized facial filters.",
+      "freeDescribe": "The video is likely part of a trend or common content style where creators use physical attributes as a comedic hook to drive engagement and views."
+    }
+  }
+}

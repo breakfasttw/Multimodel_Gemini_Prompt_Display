@@ -1,0 +1,200 @@
+{
+  "videoName": "cocowine0205-20250216054206-1814692689083801.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 87,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Shopping Guide",
+        "Vlog"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a title screen featuring the Costco Wholesale logo and text overlay indicating a weekly special report for Feb 3rd to Feb 9th over a pile of Sanrio plush toys. (2) A rapid montage follows, showcasing various products on store shelves, each with a text box displaying the product name, original price, discount amount, and final sale price. Products range from household items like Kleenex toilet paper and Tide pods to snacks like Nestle cereal, Pringles, and Snickers. (3) The sequence continues through a wide variety of grocery items including milk, chocolate, seafood, meat, and fresh fruit like mangoes and grapes. (4) The video concludes after showing several more health supplements and food products, maintaining the same fast-paced display style throughout.",
+      "audio_narrative_log": "(1) Upbeat, energetic electronic music with a steady rhythmic beat begins immediately. A high-pitched, enthusiastic male voice introduces the Costco weekly special report. (2) As the visuals cut between products, the narrator rapidly speaks in Mandarin, reading out the names of the products and their discounted prices. (3) The music remains at a consistent volume and tempo, providing a high-energy backdrop to the fast-paced narration. (4) The narration and music continue without interruption until the end of the video, maintaining a sense of urgency and excitement.",
+      "text_narrative_log": "(1) COSTCO WHOLESALE 好市多 每週特價速報 02/03-02/09 記得追蹤我們 - Title and date info (Excited hook). (2) SANRIO 18吋趴趴絨毛玩偶 原價789 -190 特價599 - Product name and price (Functional). (3) 舒潔三層抽取式衛生紙 原價419 -84 特價335 - Product name and price (Functional). (4) 限時特價桃園南崁店 - Location specific tag for certain items (Functional). (5) Numerous other product names including Nestlé, Glico, Pringles, Snickers, Philips, Tide, Starbucks, etc., with their respective prices (Functional)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 48,
+      "averageSceneDuration": 1.8,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Rapid Itemized Product Showcase -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 0,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 0,
+      "bodyPartVisibility": [
+        "None"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "No humans are visible on screen; the video focuses entirely on products and shelves.",
+      "mainCharacterDescription": "None"
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The backgrounds consist of various aisles and refrigerated sections within a large warehouse retail store, showing shelves stacked with bulk goods.",
+      "lightingStyle": "Bright, even indoor warehouse lighting.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and vibrant",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Cereal",
+        "Cookies",
+        "Chips",
+        "Chocolate",
+        "Sweet Potato",
+        "Mango",
+        "Grapes",
+        "Milk",
+        "Bread",
+        "Seafood",
+        "Noodles"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Electric Toothbrush",
+        "Charger"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "SANRIO",
+        "Kleenex",
+        "Nestle",
+        "GLICO",
+        "Pringles",
+        "SNICKERS",
+        "HAMLET",
+        "HAVANNA",
+        "BRUST",
+        "PHILIPS",
+        "SOODATEK",
+        "Ruffles",
+        "TIDE",
+        "JEZBBEL",
+        "STARBUCKS",
+        "Kirkland Signature",
+        "BIBIGO",
+        "QUAKER",
+        "Häagen-Dazs"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and enthusiastic",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Very fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Itemized Price List -> End",
+      "mainPurpose": "The video serves as a promotional shopping guide to inform viewers about current weekly discounts at Costco stores in Taiwan, specifically designed for quick social media consumption to drive foot traffic to the store.",
+      "visualEmotion": "Energetic and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The entire video is a curated list of discounted products at a specific retailer with price comparisons.",
+      "endorsementObject": [
+        "COSTCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Ultra-fast narration style, specific pink/yellow text overlay format for prices, use of the 'Weekly Special Report' branding.",
+      "freeDescribe": "High-density information delivery optimized for TikTok/Reels style scrolling, focusing on high-value price drops to grab attention."
+    }
+  }
+}

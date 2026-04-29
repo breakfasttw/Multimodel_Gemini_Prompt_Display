@@ -1,0 +1,182 @@
+{
+  "videoName": "3ctim-20250909034239-1447610416711576.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 40,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Tokyo"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a low-angle shot of a street in Tokyo with the Tokyo Tower visible in the background, followed by a cut to a man in a pink shirt speaking enthusiastically in a park-like setting. (2) A transition shows a digital map overlay identifying 'Akabanebashi Station' followed by photos and short clips of the tower from that viewpoint. (3) The scene shifts to night, showing the man standing near a parking lot with a clear view of the illuminated Tokyo Tower, accompanied by text overlays and map details for 'Times Parking'. (4) A third location is introduced at night, showing the man pointing towards the tower from a street corner in Azabu-juban. (5) The scene shifts indoors to a luxury hotel room where a woman sits by a floor-to-ceiling window showcasing a panoramic night view of the tower; the camera then pans to show the view through the curtains. (6) The video concludes with a rapid montage of high-quality photos featuring the main characters at the various locations mentioned.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop music begins immediately. A high-pitched, enthusiastic male voice speaks in Mandarin, introducing the topic of Tokyo Tower photo spots. (2) The music continues as the male voice describes different locations; occasional ambient street noise is audible but very low. (3) A female voice enters briefly, speaking in a friendly and clear tone, describing the hotel room view. (4) Sound effects (SFX) of a camera shutter clicking are heard repeatedly during the final photo montage as the music reaches its peak before cutting out.",
+      "text_narrative_log": "(1) Hook text: '來東京必拍東京鐵塔' (Must-take photos of Tokyo Tower when in Tokyo) appears in bold white. (2) Functional text identifies locations: '#1 赤羽橋地鐵站', '#2 Times Parking', and '#3 Tokyo Tower Photo Spot'. (3) Descriptive 'Pros and Cons' appear for each spot, such as '優點: 整根東京鐵塔入鏡!' (Pro: Whole tower in frame!) and '缺: 人有點多...' (Con: A bit crowded...). (4) Highlight text: '百萬拍照景點' (Million-dollar photo spot) and '百萬夜景' (Million-dollar night view). (5) Commercial text: '贊助商廣告: HOTEL THE CELESTINE TOKYO SHIBA'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 1.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Location 1 -> Location 2 -> Location 3 -> Hotel Reveal -> Photo Montage"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 6,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator (Tim), 1 main female presenter, at least 4 distinct passers-by or other tourists visible in street/station shots.",
+      "mainCharacterDescription": "A middle-aged man wearing a pink 'Roots' t-shirt, a grey cap, and glasses. A young woman with long dark hair wearing a pink t-shirt and dark pants."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Hotel Room",
+          "Park",
+          "Metro Station"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Various vantage points of the Tokyo Tower in Minato City, ranging from street intersections and parking lots to a high-rise luxury hotel interior.",
+      "lightingStyle": "Mixed: Bright natural daylight in the first half; vibrant neon and artificial city lights in the second half.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Pan",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Bicycle",
+        "Truck"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Tokyo Tower"
+      ],
+      "brandLogos": [
+        "Roots",
+        "Hotel The Celestine Tokyo Shiba"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Camera Shutter"
+      ],
+      "ambientNoise": [
+        "Traffic"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Enumeration -> Peak Reward -> Summary",
+      "mainPurpose": "The video serves as a travel guide and lifestyle recommendation, teaching viewers the best spots to photograph the Tokyo Tower. It utilizes a 'top list' format to maintain engagement before concluding with an implicit promotion of a specific hotel for its superior view.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Text explicitly labels the hotel segment as '贊助商廣告' (Sponsor Advertisement).",
+      "endorsementObject": [
+        "Hotel The Celestine Tokyo Shiba"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin vlog style typical of 3ctim, frequent use of colorful variety-show style text overlays.",
+      "freeDescribe": "The video effectively bridges the gap between a useful travel tip video and a commercial endorsement by placing the 'sponsored' location as the final, most desirable 'million-dollar' spot."
+    }
+  }
+}

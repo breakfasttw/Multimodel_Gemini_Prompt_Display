@@ -1,0 +1,178 @@
+{
+  "videoName": "cocowine0205-20250530020216-1273358411524691.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 57.34,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins in a Costco warehouse; a young woman in a purple blouse and black vest stands before a display of nectarines, gesturing enthusiastically while looking at the camera. (2) She picks up a bag of nectarines, holds it close to the camera to show the label and the fruit's condition, pointing out a small bruise. (3) The setting shifts to a home interior where the woman and a friend sit at a dining table; they handle and eat slices of the fruit, using hand gestures to emphasize their points while maintaining expressive facial expressions.",
+      "audio_narrative_log": "(1) (A) A female voice, high-pitched and vibrant, speaks in Mandarin. (B) Upbeat, medium-tempo pop electronic BGM plays in the background. (C) Faint ambient noise of a supermarket is present. (D) Minimal SFX. (2) (A) The female vocal continues with a focus on price and weight details. (B) BGM remains steady. (C) Ambient noise decreases. (D) Short 'pop' or 'ding' sound effects occur when text overlays appear. (3) (A) Two female voices engage in an enthusiastic dialogue about the fruit's taste. (B) Cheerful BGM continues. (C) Quiet indoor room ambiance. (D) Subtle SFX emphasize key descriptive words.",
+      "text_narrative_log": "(1) Functional text '在幹嘛' (What are you doing?) appears as an opening hook. (2) Hook text '智力買甜桃' (Buying Chilean sweet nectarines) and '1顆30元' (30 NTD per piece) provide immediate context and value. (3) Descriptive captions such as '口感非常的清脆' (The texture is very crunchy) and '超級無敵香' (Super fragrant) are used to highlight specific features. (4) Concluding functional text '推薦這一批' (Recommend this batch) serves as a final endorsement."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.18,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Store introduction -> Product inspection -> Home tasting and review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 6,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Waist up",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, at least 2 male and 2 female shoppers in the background at Costco.",
+      "mainCharacterDescription": "Two young Asian women; one wears a lavender puff-sleeve blouse with a black vest, the other wears a dark teal long-sleeved top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Supermarket"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First half is in a bright Costco warehouse with shelves and other shoppers; second half is in a cozy home dining area with a wooden table and a sofa in the background.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and Natural",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Nectarines",
+        "Sliced fruit"
+      ],
+      "trafficDetect": [
+        "Shopping cart"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "WHOLESALE"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and humorous",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Supermarket noise"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Store Discovery -> Detailed Review -> Recommendation",
+      "mainPurpose": "The video aims to provide a positive review of Chilean White Nectarines purchased at Costco, highlighting their affordability, texture, and flavor to encourage viewers to purchase them. It uses a relatable vlog format to build trust with the audience.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed pricing, weight information, and a clear verbal recommendation to buy the product.",
+      "endorsementObject": [
+        "Costco Chilean White Nectarines"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-show style text overlays and fast-paced editing.",
+      "freeDescribe": "The video leverages typical 'life-hack' or 'shopping-find' tropes common in Taiwanese social media content to drive engagement."
+    }
+  }
+}

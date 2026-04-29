@@ -1,0 +1,174 @@
+{
+  "videoName": "3ctim-20250812105151-1659401605070990.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 44,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech News",
+        "Vlog",
+        "Commentary"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing glasses and a checkered cap faces the camera, speaking with animated expressions. (2) He gestures with both hands as if holding an invisible controller. (3) A technical patent drawing (Fig. 5) is shown, illustrating a user with a VR headset and a controller interacting with a screen. (4) The man continues talking to the camera, with variety-show style text bubbles and graphics appearing around him. (5) On-screen graphics show emotional states like 'nervous' and 'relaxed' alongside emojis. (6) The man looks directly at the camera, pointing slightly with his index finger as he asks a concluding question.",
+      "audio_narrative_log": "(1) A mature male voice speaks in Mandarin with an enthusiastic and professional tone. Background music is a rhythmic, medium-tempo electronic lo-fi track. (2) The narration remains continuous and clear, while the background music maintains a steady volume throughout the technical explanation. (3) No significant ambient noise is detected; the recording quality is crisp, suggesting a studio or quiet indoor environment.",
+      "text_narrative_log": "(1) '下一代 PS6 能讀心嗎？' - Decorative/Hook Text, Tone: Curious. (2) 'SONY 最新專利曝光' - Functional Text, Tone: Informative. (3) '搭載生物感應技術' - Functional Text, Tone: Explanatory. (4) '壓力跟情緒' - Functional Text, Tone: Neutral. (5) '自動調整遊戲難度' - Decorative/Hook Text, Tone: Exciting. (6) '很緊張?' and '很放鬆' - Decorative/Effect Text, Tone: Playful. (7) '超級的個人化體驗' - Decorative/Hook Text, Tone: Impressed. (8) '環境的冷熱變化' - Functional Text, Tone: Neutral. (9) '你期待嗎?' - Decorative/Hook Text, Tone: Engaging."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.6,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Host introduction -> Patent explanation with visual aids -> Feature breakdown -> Closing viewer engagement"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male host present as the sole main character throughout the video.",
+      "mainCharacterDescription": "A middle-aged man wearing an ivy cap with a checkered pattern, round glasses, and a black t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A simple indoor studio background, slightly out of focus, featuring gray curtains or walls.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Gaming Controller",
+        "VR Headset",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Sony",
+        "PlayStation",
+        "3C有意思tim哥"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Professional, friendly, and energetic",
+        "pitch": "Medium-low",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Lo-fi Electronic",
+      "bgmBPM": 95,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence (Patent) -> Benefit Explanation -> Closing CTA",
+      "mainPurpose": "The video informs the audience about a newly surfaced Sony patent for a PlayStation controller. It details how the controller might use bio-sensing technology to track player stress, heart rate, and temperature to dynamically adjust game difficulty and environmental effects, aiming to heighten immersion in future consoles like the PS6.",
+      "visualEmotion": "Informative and Curious"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The content is structured as a technology news commentary and analysis by a well-known influencer, rather than a paid promotional advertisement for a specific product currently for sale.",
+      "endorsementObject": [
+        "Sony"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host's signature checkered cap and glasses; '3C有意思Tim哥' social media branding in the top corner.",
+      "freeDescribe": "The video effectively uses technical diagrams to provide visual proof for the tech rumors, maintaining a high level of credibility for short-form social media content."
+    }
+  }
+}

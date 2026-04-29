@@ -1,0 +1,180 @@
+{
+  "videoName": "cocowine0205-20250722194712-919615340931962.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 57,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman wearing a bucket hat and a white lace-trimmed top stands inside a Costco store holding a packaged sushi platter. She smiles excitedly and gestures towards the product. (2) The camera cuts to close-up shots of the sushi platter, highlighting the sea urchin, sweet shrimp, and salmon roe on a bed of rice. (3) Transitions to an indoor home setting where the woman and a friend are seated at a dining table. (4) The woman is shown portioning the sushi onto individual plates. (5) Both women use chopsticks to taste the food, nodding and making appreciative facial expressions as they discuss the flavors.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic background music plays throughout. A female voice with a high-pitched, enthusiastic tone speaks in Mandarin. (2) Frequent use of 'pop' and 'ding' sound effects synchronized with the appearance of text overlays. (3) The audio shifts to a conversational tone as two female voices discuss the taste and texture of the sushi components, with the background music continuing at a moderate volume.",
+      "text_narrative_log": "(1) '好事多最新的 甜蝦海膽散壽司 New' (Costco's newest Sweet Shrimp Uni Chirashi Sushi New) - Hook text, excited tone. (2) '5個海膽' (5 pieces of sea urchin) - Informational text. (3) '299' - Functional text indicating price. (4) '滑順不會重口' (Smooth not heavy) - Descriptive text, evaluative tone. (5) '性價比蠻高' (High cost-performance ratio) - Decorative text, recommendation tone. (6) '誠意十足' (Full of sincerity/Generous) - Effect text, appreciative tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at store -> Close-up product demo -> Home tasting and review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 female creator in hat, 1 female friend at home",
+      "mainCharacterDescription": "One woman wears a grey bucket hat and a white lace dress over a black mesh shirt. The second woman has long dark hair and wears a black long-sleeved top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Costco",
+          "Indoor Home"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene shows commercial warehouse shelves at Costco; second scene is a modern apartment interior with a dining table and kitchen elements visible.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Sushi",
+        "Sea Urchin",
+        "Shrimp",
+        "Salmon Roe",
+        "Rice"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and humorous",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Meme sounds"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Evaluation -> Conclusion",
+      "mainPurpose": "The video aims to review a new seafood product from Costco, emphasizing its value for money and ingredient quality to encourage viewers to try it.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Directly showing the brand logo, product packaging, and discussing the specific price and taste characteristics.",
+      "endorsementObject": [
+        "COSTCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-frequency use of variety-show style emotional captions and upbeat, rhythmic editing.",
+      "freeDescribe": "The video follows the standard format of a micro-influencer food review, focusing on 'CP value' (cost-performance) which is a popular metric in Taiwanese consumer culture."
+    }
+  }
+}

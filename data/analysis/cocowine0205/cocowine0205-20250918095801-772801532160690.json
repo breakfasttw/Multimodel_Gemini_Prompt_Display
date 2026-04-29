@@ -1,0 +1,185 @@
+{
+  "videoName": "cocowine0205-20250918095801-772801532160690.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 78,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with a black beret and a sheer black top stands in a warehouse aisle holding a large clear container of beef wraps, speaking energetically to the camera. (2) The scene cuts to extreme close-ups of the wraps inside the container, highlighting the layers of beef, tomatoes, cheese, and greens. (3) The setting shifts to a home kitchen where the same woman and another woman in a patterned bucket hat are seated at a table with the wraps, gesturing enthusiastically while talking. (4) A hand is shown placing a wrap into a white Philips air fryer, adjusting the temperature dial to 180 degrees and the timer to 3 minutes. (5) The two women taste the heated wraps, displaying exaggerated facial expressions of delight and giving thumbs-up gestures.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music plays throughout. A high-pitched, energetic female voice speaks rapidly in Mandarin Chinese. (2) Sound effects like 'ding' and 'sparkle' chimes are interspersed to highlight specific text overlays. (3) The vocals transition to a more resonant environment (indoor kitchen) as two female voices engage in an excited dialogue. (4) Mechanical clicking and a low hum are heard as the air fryer is operated. (5) Audible sounds of chewing and 'Mmm' vocalizations follow the tasting segment, accompanied by continued fast-paced narration.",
+      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese translating the creators' speech. (2) Decorative/Hook Text: '最後一盒' (Last box) in bright pink/yellow colors with a shocked tone. (3) Hook Text: '不浪費年費！鮮蔬牛肉捲' (Don't waste the membership fee! Fresh Veggie Beef Wraps) appearing as a large title. (4) Effect Text: '肉多菜也多' (Lots of meat and veggies) and '世界好吃' (World's delicious) accompanied by heart symbols to emphasize excitement."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 26,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Store discovery -> Product detail -> Home preparation -> Tasting and endorsement"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 6,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, approximately 6 blurred shoppers in the warehouse background.",
+      "mainCharacterDescription": "One woman wears a black beret and sheer off-the-shoulder top; the second woman wears a black and white patterned bucket hat and a white top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The first half is set in a Costco warehouse with refrigerated shelves and shoppers; the second half is in a domestic kitchen with a wooden table and shelving.",
+      "lightingStyle": "Mixed: Bright warehouse fluorescent lighting followed by warm, soft indoor residential lighting.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Vibrant",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Beef Wrap",
+        "Beef",
+        "Tomato",
+        "Cheese",
+        "Lettuce"
+      ],
+      "trafficDetect": [
+        "Shopping Cart"
+      ],
+      "techDetect": [
+        "Air Fryer",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "Kirkland Signature",
+        "PHILIPS"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, persuasive, and high-pitched",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Sparkle",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "Warehouse hum",
+        "Kitchen sounds"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> Instruction -> Result",
+      "mainPurpose": "To showcase and review a specific Costco food product, providing a 'life hack' on how to prepare it using an air fryer to maximize its flavor and value, ultimately encouraging viewers to purchase it.",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed praise for a specific store-brand food item and clear branding of the appliance used for preparation.",
+      "endorsementObject": [
+        "COSTCO",
+        "PHILIPS"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Taiwanese 'Variety Show' style editing with heavy use of colorful kinetic typography.",
+      "freeDescribe": "The video targets a consumer audience looking for value and convenience, utilizing the popularity of 'Costco hauls' as a narrative frame."
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "videoName": "602avenue-20251204121217-34000951892853627.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 16,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Miaoli"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman sits in a car, looking surprised and wide-eyed while holding a large, unusually shaped strawberry that resembles a tulip or flower. (2) The scene cuts to a close-up of a strawberry farm, showing strawberries with irregular, fan-like shapes growing on the vine. (3) The woman is seen outdoors at the farm, holding a strawberry and smiling brightly at the camera with the field in the background. (4) Back inside the car, she takes a large bite out of the strawberry, showing the juicy red interior and nodding with satisfaction.",
+      "audio_narrative_log": "(1) An upbeat, high-tempo J-pop style song with female vocals and electronic accompaniment begins. A female voice speaks in an excited, high-pitched tone in Korean and some Mandarin. (2) The music continues at a steady volume as the narration explains the location and the unique shape of the fruit. (3) Sound effects of biting/chewing are heard as the woman eats, followed by an expressive 'Mmm' vocalization to signify enjoyment.",
+      "text_narrative_log": "(1) '為什麼' (Why?) - Inquisitive tone. (2) '草莓' (Strawberry) and '是鬱金香樣子？' (Is it tulip-shaped?) - Decorative/Hook text. (3) '台灣一般草莓都長這樣？' (Do regular strawberries in Taiwan look like this?) - Curious hook. (4) '我是人生第一次來苗栗採草莓啦！' (First time in my life picking strawberries in Miaoli!) - Informative/Excited. (5) '超級新鮮！！！' (Super fresh!!!) - Emotional emphasis. (6) '雖然沒有韓國草莓那麼甜... 主要是汁多多這點我超喜歡' (Although not as sweet as Korean strawberries... I love how juicy it is) - Functional review text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 7,
+      "averageSceneDuration": 2.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook (Unique shape) -> Location Reveal (Farm) -> Sensory Review (Eating)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Face",
+        "Hands",
+        "Full body",
+        "Upper body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main female creator appearing throughout; 1 female worker visible in the background at the farm around 0:07.",
+      "mainCharacterDescription": "Young woman with long dark hair, wearing a white turtleneck and a dark grey fleece vest."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Car Interior",
+          "Outdoor Farm"
+        ],
+        "topography": [
+          "Hill"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The interior of a modern car with black seats and a visible seatbelt; an outdoor strawberry farm with elevated growing rows under a bright sky with hills in the background.",
+      "lightingStyle": "Natural light",
+      "weather": "Sunny",
+      "season": "Winter",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and Bright",
+      "cameraWork": [
+        "POV",
+        "Handheld",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Strawberry"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Korean",
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat J-pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine",
+        "Piano"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Squelching/Biting sound"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Discovery -> Evaluation",
+      "mainPurpose": "The video serves as a travel and food vlog designed to share a novel discovery in Taiwan—unusually shaped strawberries in Miaoli. The creator uses her surprised reaction and a comparison with Korean strawberries to provide a cross-cultural perspective and a review of the fruit's texture and taste, ultimately recommending the experience for its freshness and juiciness.",
+      "visualEmotion": "Energetic and Enthusiastic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video appears to be personal travel content without specific brand placement, though it mentions the location Miaoli.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing with colorful Traditional Chinese captions and a bilingual (Korean/Mandarin) vocal style.",
+      "freeDescribe": "The video captures a niche 'travel-foodie' segment, focusing on visual anomalies in food to drive engagement."
+    }
+  }
+}

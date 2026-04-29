@@ -1,0 +1,184 @@
+{
+  "videoName": "2uncle987-20250530001632-1262838199072225.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 60,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Commercial",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman with long dark hair in a denim jacket stands in a white kitchen, holding a plate with a single piece of boiled chicken. (2) She moves to a stovetop and uses tongs to place the meat in a pan. (3) Suddenly, she is holding a large piece of golden-brown fried chicken; she takes a large bite, appearing satisfied. (4) She holds a glass of iced tea and opens a white refrigerator. (5) She is seen pouring dark boba pearls into the tea glass instead of ice. (6) A second woman wearing a yellow sweater enters the kitchen and gestures toward the food. (7) The second woman presents an orange and white box labeled 'AB-LipiGO'. (8) Close-up shots show a sachet being opened and the contents poured into a glass of water, followed by the second woman drinking it. (9) Both women stand together, holding sachets and pointing at the product box on the table.",
+      "audio_narrative_log": "(1) Upbeat and energetic electronic pop music plays continuously. A high-pitched female voice speaks in an enthusiastic, narrative tone about her diet. (2) A sharp 'crunch' sound effect is heard as the woman bites the food. (3) The first voice continues in a humorous, self-deprecating tone. (4) A second female voice enters, sounding helpful and informative, speaking with a faster cadence. (5) Brief sound effects like chimes or 'pings' occur when the product box is shown. (6) The music remains steady in tempo and volume throughout the second half. (7) Both voices speak together in a high-energy, synchronized manner for the final promotional statement.",
+      "text_narrative_log": "(1) '飲控秘笈' (Diet control secret) - A hook establishing the theme of weight management. (2) Functional text explains the struggle of eating cold chicken breast for breakfast and the 'mistake' of adding too much oil. (3) 'CC脆' - Decorative text emphasizing the texture of the fried chicken. (4) Functional text describes adding pearls to tea instead of ice as a jaw exercise. (5) 'AB-LipiGO 科懋利脂受' - Clearly identifies the endorsed brand and product name. (6) Marketing claims such as '7天有感' (Feel results in 7 days) and '歐洲最佳營養品' (Best nutritional product in Europe) appear. (7) '趕快買起來' (Buy it now) - A direct call-to-action hook at the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.14,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro comedy about diet failures -> Product introduction as a solution -> Benefits demonstration -> Call to action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Waist up",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 female main creator in denim, 1 female guest/friend in yellow sweater",
+      "mainCharacterDescription": "The main woman has long dark hair and wears a blue denim jacket; the second woman has her hair tied up and wears a yellow sweatshirt with 'HAHABABY' text."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern, well-lit indoor kitchen with white cabinetry, a stovetop, a white refrigerator, and wooden shelves decorated with small potted plants.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm, High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Chicken breast",
+        "Fried chicken",
+        "Black tea",
+        "Boba pearls"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Refrigerator",
+        "Electric stove"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "AB-LipiGO",
+        "科懋",
+        "HAHABABY"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous, Energetic, and Persuasive",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Crunching",
+        "Ding",
+        "Sparkle SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Comedic Failure -> Product Solution -> CTA",
+      "mainPurpose": "The video uses a humorous skit about the difficulties of maintaining a strict diet (accidentally eating fried chicken and pearl milk tea) to seamlessly transition into an endorsement for the AB-LipiGO supplement. It aims to persuade viewers that they can manage their metabolism and enjoy food by using the product before meals.",
+      "visualEmotion": "Energetic and Lighthearted"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of the product box, demonstration of consumption, and listing of specific benefits and awards.",
+      "endorsementObject": [
+        "AB-LipiGO",
+        "科懋"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced comedy-to-ad transition",
+      "freeDescribe": "The video targets young urban office workers who eat out frequently ('外食者') and struggle with weight management, using a relatable 'diet failure' scenario."
+    }
+  }
+}

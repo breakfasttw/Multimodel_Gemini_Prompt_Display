@@ -1,0 +1,172 @@
+{
+  "videoName": "1105ya-20250706092930-904139819014014.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 26,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Music Performance",
+        "Concert Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A female performer with long brown hair, wearing a grey sleeveless oversized top and white thigh-high boots, is dancing and interacting with a crowd on a large stage. She points her finger upward and smiles. In the foreground, hands are seen holding heart-shaped pink lightsticks and smartphones recording. (2) The scene cuts to another female performer with blonde hair and a black mini skirt dancing. She is joined by another performer in a denim jacket. (3) The entire group of four female performers is shown dancing in synchronization on a dark stage illuminated by intense, crisscrossing green laser beams. The background LED screen shows abstract pink patterns.",
+      "audio_narrative_log": "(1) Loud, high-energy electronic dance music (EDM) with a heavy bassline plays. A female voice is heard shouting \"Let's go!\" and \"Come on!\" enthusiastically over the music. (2) The music continues with a rhythmic synth melody and heavy percussion. The sound of a large crowd cheering and screaming is audible in the background with stadium-like reverb. (3) The audio remains a continuous, upbeat music track with occasional muffled vocal ad-libs from the performers and background noise from the audience.",
+      "text_narrative_log": "(1) \"當演唱會變成party\" - Decorative Hook Text: A phrase in traditional Chinese suggesting the concert has turned into a party, conveying an excited and celebratory tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro solo performance -> Group member interactions -> Full group synchronized dance highlight."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 20,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 4,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "4 main female performers on stage; numerous hands and heads of fans in the foreground crowd.",
+      "mainCharacterDescription": "Female pop stars wearing stylish stage outfits including grey sleeveless tops, white boots, black crop tops, and mini skirts."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Concert Stadium"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Large LED screens displaying shifting pink and purple abstract patterns, professional stage lighting rigs, and green laser beam arrays.",
+      "lightingStyle": "Intense concert lighting with vibrant neon colors and laser effects.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "POV",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "LED Screen"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "Microphone"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 50,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 4,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "EDM",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd cheering",
+        "Stadium reverb"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> High-energy performance highlights -> Climactic group dance.",
+      "mainPurpose": "The video aims to capture the electric and immersive atmosphere of a BLACKPINK concert, specifically highlighting how the energy of the performance transforms the stadium into a giant party. By using fast-paced cuts and beat-synced highlights, it appeals to fans' desire to relive or experience the group's charismatic live stage presence.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Signature BLACKPINK pink heart lightsticks (Hammer Bong) are prominently visible.",
+      "freeDescribe": "The video uses a common social media trend of showing concert highlights with a 'party' hook to drive engagement from the artist's fanbase."
+    }
+  }
+}

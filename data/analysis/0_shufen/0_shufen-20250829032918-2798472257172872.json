@@ -1,0 +1,169 @@
+{
+  "videoName": "0_shufen-20250829032918-2798472257172872.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 8,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Street Interview"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a black mask and a revealing beige top under a black jacket, stands on a city sidewalk at night with buildings in the background. (2) She looks slightly away then back at the camera as if listening to someone off-camera, maintaining a questioning facial expression. (3) She leans closer to the camera and speaks, ending with a slight head tilt and a zoom-in effect on her face.",
+      "audio_narrative_log": "(1) A male voice speaks in Mandarin with a friendly tone, asking the woman if she is Taiwanese, accompanied by muffled city ambient noise. (2) The woman responds in Mandarin with a curious, slightly defensive tone. (3) The male voice explains he is sad and asks for comfort in the Taiwanese Hokkien dialect. (4) The woman speaks a short phrase in Hokkien followed by a playful slang remark as an upbeat, rhythmic electronic BGM starts abruptly to emphasize the punchline.",
+      "text_narrative_log": "(1) \"哈肉\" (Halo) - Greeting hook. (2) \"妳是台灣人嗎？\" (Are you Taiwanese?) - Functional question. (3) \"是啊 幹嘛？\" (Yes, why?) - Functional response. (4) \"現在我很傷心... 妳可以用 台語 安慰我一下嗎？\" (I'm sad... can you comfort me in Taiwanese?) - Functional setup. (5) \"開心點❤️\" (Be happy) - Decorative/Emotional text. (6) \"暔泥泥你要充三小\" (What on earth are you doing?) - Functional/Humorous slang."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Greeting -> Interaction -> Humorous Payoff"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Upper body",
+        "Full body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator; 3 passers-by visible in the background street scene.",
+      "mainCharacterDescription": "A young woman with long black hair, wearing a black face mask, a low-cut beige top, and a black skirt/jacket ensemble."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A city street or square at night featuring modern office buildings and street lights.",
+      "lightingStyle": "Night street lighting with soft glow.",
+      "weather": "Clear",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Cinematic",
+      "cameraWork": [
+        "Static",
+        "Digital Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Playful and humorous",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Taiwanese Hokkien"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Traffic"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Payoff",
+      "mainPurpose": "To entertain viewers through a scripted 'random' street encounter that ends in a humorous linguistic punchline involving a switch from Mandarin to a blunt Taiwanese Hokkien phrase.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Street interview style with humorous dialect usage.",
+      "freeDescribe": "The video leverages local cultural nuances (Taiwanese dialect) and visual appeal of the main character to generate engagement."
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "videoName": "2uncle987-20250930163118-821846233709728.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 32,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Norway"
+        ],
+        "city": [
+          "Tromsø"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) This is a live-action video. A man in a yellow plaid jacket and green beanie holds a hot dog with red toppings toward the camera with an excited expression. (2) Cut to another man in a black jacket tasting the hot dog and expressing delight. (3) A young woman in a beige sweater and white skirt walks toward a yellow octagonal kiosk labeled 'Raketten Bar & Pølse'. (4) Close-ups inside the kiosk show a vendor in a black shirt preparing hot dogs and adding various toppings like onions and red cabbage from stainless steel containers. (5) Two hot dogs are held up side-by-side against the background of the kiosk. (6) The woman drinks from a paper cup while sitting on a wooden bench. (7) Close-up of a cup containing red liquid and almonds, followed by a wide shot of the couple sitting together outside the kiosk enjoying their meal.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic pop music begins. A male voice exclaims 'Wa~' and 'Aiyo' with high-pitched excitement. (2) Music continues at a consistent volume as a female voice with a Nordic accent asks in English, 'Which toppings do you like?' and 'The same?', followed by 'Ok! Perfect'. (3) The male narrator's voice returns, speaking in Mandarin with a friendly, casual tone over the steady background music. Subtle outdoor ambient noise of a public square is audible in the background.",
+      "text_narrative_log": "(1) Decorative text appears: '哇～～～' and '哎唷，好香！' (Aiyo, so fragrant!). (2) Title text: 'Raketten Bar & Pølse (全世界最小巧可愛的熱狗堡攤)' (The world's smallest and cutest hot dog stand). (3) Functional subtitles: 'Which toppings do you like?', 'The same?', 'Ok! Perfect'. (4) Hook text: '大種配料可以選' (Many kinds of toppings to choose). (5) Descriptive labels: '豬肉+牛肉' (Pork + Beef) and '鹿肉+牛肉' (Reindeer + Beef). (6) Decorative label: '杏仁熱紅酒' (Almond Mulled Wine) with wine glass emojis."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 1.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro reaction -> Location reveal -> Preparation process -> Food comparison -> Final tasting and atmosphere."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male creator, 1 female partner, 1 male friend tasting, 1 female vendor.",
+      "mainCharacterDescription": "The main male creator wears a yellow and black plaid jacket, a green HH beanie, and grey trousers. The main female character wears a beige turtleneck sweater and a white skirt with her hair in braids."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Kiosk"
+        ],
+        "topography": [
+          "Urban"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A historical wooden octagonal kiosk painted yellow with a red dome, a wooden deck with benches, and a small outdoor fire pit. Traditional European buildings and trees with autumn leaves are visible in the background.",
+      "lightingStyle": "Natural bright sunlight",
+      "weather": "Sunny",
+      "season": "Autumn",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "English",
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm, High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Hot Dog",
+        "Mulled Wine",
+        "Red Cabbage",
+        "Onions"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Tromsø Historic Center"
+      ],
+      "brandLogos": [
+        "Helly Hansen",
+        "The North Face",
+        "Solo"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and enthusiastic",
+        "pitch": "Normal to high-pitched (excitement)",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "English",
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic Pop",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Outdoor street quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Location Intro -> Detail Demo -> Experience Wrap-up",
+      "mainPurpose": "The video serves as a travel and culinary guide, specifically reviewing a famous hot dog kiosk in Tromsø, Norway. It uses high-energy visual reactions and detailed process shots to recommend the unique meat options (reindeer) and the cozy outdoor atmosphere of the location.",
+      "visualEmotion": "Joyful and inviting"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video provides detailed information about the shop name, menu items, and pricing while showing high satisfaction during consumption.",
+      "endorsementObject": [
+        "Raketten Bar & Pølse"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-pitched 'wa' opening, variety-show style text stickers, first-person food presentation.",
+      "freeDescribe": "The video utilizes high-saturation editing and fast cuts to maintain viewer engagement, typical of lifestyle travel content on platforms like Instagram Reels or TikTok."
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "videoName": "602avenue-20251004225403-1509824430504308.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 7,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Humor"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Close-up of a young woman in the passenger seat of a car, eyes wide and mouth open in surprise, looking out the window. (2) Shot through the car window of a glass building reflecting trees, featuring large Korean text and a circular green and white logo. (3) The camera returns to the woman, who now looks at the camera with a skeptical expression, points toward the building, and shakes her head slightly. (4) A final shot of the building sign is shown followed by the woman looking directly at the camera with a deadpan facial expression.",
+      "audio_narrative_log": "(1) A short, upbeat electronic synthesizer melody plays as a high-pitched female voice asks, \"Olive Young?\" in an inquisitive tone. (2) The music continues as the scene cuts to the building, with minor ambient car interior noise. (3) The same female voice says, \"Nope...\" in a flat, slightly disappointed tone as the music stops abruptly.",
+      "text_narrative_log": "(1) Decorative/Hook Text: \"POV 我真的以為找到Olive Young\" (I really thought I found Olive Young), providing context for the character's mistake. (2) Decorative Text: \"Nope....\", expressing the realization of the error. (3) Functional Text: \"(是完全不同的組織)\" (It is a completely different organization), explaining that the logo belongs to a different entity."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 1.75,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro expectation -> Visual evidence -> Reality check realization."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator in the car.",
+      "mainCharacterDescription": "Young Asian woman with long brown hair, wearing a white off-the-shoulder ruffled blouse and heavy makeup including prominent pink blush."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Car",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The interior of a modern car with black leather seats and a seatbelt; the exterior background features a large glass-fronted commercial building in a Korean city environment.",
+      "lightingStyle": "Natural daylight coming through the car window.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English",
+          "Korean"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "밀알복지재단"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Curious then flat/humorous",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Humorous",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Visual Evidence -> Subversion",
+      "mainPurpose": "To entertain the audience by sharing a relatable and humorous mistake made while traveling in South Korea, where a charity organization's logo was mistaken for the popular retail store 'Olive Young' due to visual similarity.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video highlights a mistake regarding a brand logo rather than promoting a product.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Heavy use of blush makeup and self-deprecating travel humor.",
+      "freeDescribe": "The video targets viewers familiar with South Korean culture or beauty shopping, leveraging the high recognition of the Olive Young brand."
+    }
+  }
+}

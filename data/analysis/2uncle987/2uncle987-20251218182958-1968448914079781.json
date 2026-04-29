@@ -1,0 +1,178 @@
+{
+  "videoName": "2uncle987-20251218182958-1968448914079781.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 168.0,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair sits at a desk in front of a white closet, speaking directly to the camera with an energetic expression. (2) She begins a makeup tutorial, applying wet cotton pads to her cheeks and forehead for skin preparation. (3) The scene cuts rapidly through 22 distinct steps, including trimming eyebrows with a small razor, applying lip balm, color-correcting base, concealer, several shades of eye shadow using different brushes, eyeliner, mascara, foundation dots blended with fingers, blush applied under the eyes, contouring stick on the nose, and setting powder. (4) In the final phase, she applies lipstick and setting spray before appearing in a series of quick outdoor montages showing her finished look in different outfits, including a colorful polka-dot jacket and a school-style blazer.",
+      "audio_narrative_log": "(1) High-pitched, cheerful female vocals speak in a fast-paced, enthusiastic tone throughout the entire video. (2) Upbeat, medium-tempo electronic background music with a steady drum beat starts immediately and continues through all phases. (3) Brief foley sounds such as the 'pssh' of a setting spray are heard during the tutorial. (4) The music remains constant into the final montage, maintaining a lighthearted and fashion-focused atmosphere.",
+      "text_narrative_log": "(1) Functional Text: Chronological numbering from 'STEP 1' to 'STEP 22' appears at the top center to label each makeup stage. (2) Decorative Text: Yellow '小撇步' (Small Tip) text with sparkles appears multiple times to introduce specific application advice. (3) Hook Text: Opening captions '我之前化妝都是五分鐘' (I used to do my makeup in five minutes) set up a contrast for the current detailed routine. (4) Functional Text: Descriptions of product purposes like '校正面部暗沈' (Correct facial dullness) appear under step titles in a clean, sans-serif font."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 54,
+      "averageSceneDuration": 3.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook Intro -> Highly detailed 22-step makeup tutorial -> Final aesthetic result showcase"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head",
+        "Shoulders",
+        "Hands",
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator performing the tutorial.",
+      "mainCharacterDescription": "A young Asian woman with long, straight dark hair, wearing a black strap top over a beige base during the tutorial, switching to a white t-shirt with a colorful polka-dot jacket in the finale."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Bedroom",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Primarily a bright, minimalist indoor room with white cabinets and a light wood table; later shifts to a car interior and a brick wall with posters outdoors.",
+      "lightingStyle": "Bright, soft-diffused indoor lighting; natural daylight in outdoor scenes.",
+      "weather": "Sunny",
+      "season": "Spring/Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, high saturation, warm-toned",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Coffee"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Ring Light"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and professional",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Digital Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Spray",
+        "Transition cues"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Step-by-Step Sequence -> Result Montage",
+      "mainPurpose": "The video serves as a comprehensive educational guide for a multi-layered makeup routine. It aims to demonstrate sophisticated cosmetic techniques through a structured, numbered format, providing both the 'how-to' and 'why' for each step while maintaining an engaging, personal vlog aesthetic.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed display and use of specific makeup palettes, brushes, and setting sprays within a tutorial context.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Frequent 'Small Tip' overlays, structured 22-step progress tracking.",
+      "freeDescribe": "The video follows the high-density information style popular in Short Video Beauty content, prioritizing efficiency and visual clarity over long-form storytelling."
+    }
+  }
+}

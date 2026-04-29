@@ -1,0 +1,171 @@
+{
+  "videoName": "0_shufen-20250904152353-729899526658069.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 13,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Storytelling",
+        "Humorous"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a live-action recording of a young woman with long dark hair, wearing a pink camisole and a cream lace cardigan, smiling and talking directly to the camera. (2) As she speaks, the camera digitally zooms in closer to her face, capturing her expressive smiles and wide-eyed looks of feigned embarrassment. (3) The shot remains centered on her face and upper chest throughout the duration, with her occasionally glancing off-camera as if recounting a funny memory.",
+      "audio_narrative_log": "(1) A female voice begins speaking in a high-pitched, energetic, and humorous tone in Mandarin, accompanied by a light, upbeat background music track. (2) The music maintains a consistent tempo while the speaker's voice rises in excitement during the climax of her story. (3) A subtle impact sound effect occurs when the punchline text appears, and the audio concludes with the speaker laughing and the music fading.",
+      "text_narrative_log": "(1) \"今天去商场买了内裤\" (Functional): \"Today I went to the mall and bought underwear.\" (2) \"洗完头出来\" (Functional): \"Came out after washing my hair.\" (3) \"妳的内裤忘了拿\" (Decorative/Hook): \"You forgot to take your underwear!\" - written in large, emphasized yellow and red characters to signal the punchline. (4) \"害我尴尬死\" (Functional): \"It made me so embarrassed.\" (5) \"OMG...\" (Decorative): Expression of shock/humor."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 13.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Storytelling -> Climax -> Reaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Face",
+        "Shoulders",
+        "Upper chest"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female creator visible throughout the video.",
+      "mainCharacterDescription": "A young woman with long, straight dark hair, wearing a pink tank top and a light-colored lace cardigan."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A plain, off-white wall providing a neutral backdrop for the speaker.",
+      "lightingStyle": "Bright, even lighting, likely from a ring light or soft indoor source.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm, high saturation, soft skin tones.",
+      "cameraWork": [
+        "Static",
+        "Digital Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Pop",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Impact SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Story Progression -> Climax -> Reaction",
+      "mainPurpose": "The video is intended for entertainment through personal storytelling. The creator shares a humorous and self-deprecating anecdote about an embarrassing encounter at a hair salon to build rapport and engage her social media audience.",
+      "visualEmotion": "Cheerful and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Close-up talking head with dynamic text overlays.",
+      "freeDescribe": "Typical short-form video content format designed for high engagement on platforms like Douyin or TikTok."
+    }
+  }
+}

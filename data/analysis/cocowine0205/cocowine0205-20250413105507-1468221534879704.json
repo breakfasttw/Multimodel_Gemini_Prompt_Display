@@ -1,0 +1,178 @@
+{
+  "videoName": "cocowine0205-20250413105507-1468221534879704.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 77,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Product Unboxing"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long black hair, wearing a white fluffy jacket over a brown tiered dress, stands in a large warehouse store. She excitedly gestures toward a stack of green and yellow Doritos Dinamita boxes. (2) She picks up a box, turns it around to show the labeling, and points at the shelves. A quick shot shows a shelf price tag for the product. (3) The scene shifts to an indoor room with warmer lighting. Two women sit at a table; the first woman is joined by a friend wearing a zebra-patterned bucket hat. (4) They hold a single bag of the snacks, open it to show the rolled chips inside, and begin eating. They use expressive hand gestures and facial expressions, such as wide eyes and nodding, while holding the chips and the bag up to the camera. (5) They continue the tasting, showing a small plate with the chips and pointing at the packaging details.",
+      "audio_narrative_log": "(1) An energetic, high-pitched female voice speaks in Mandarin Chinese. Upbeat, rhythmic pop music with a steady electronic beat plays in the background. Subtle ambient warehouse noise like distant chatter and cart sounds are heard. (2) The sound of plastic crinkling is heard clearly as a snack bag is opened. (3) Loud, crisp crunching sound effects accompany the women biting into the chips. (4) Two female voices engage in a fast-paced, enthusiastic conversation, alternating between speaking and reacting. The music remains consistent in tempo and volume until the end.",
+      "text_narrative_log": "(1) Functional Text: 'Costco Wholesale' logo at the top. (2) Hook Text: '7小時前新上的' (Just arrived 7 hours ago) in yellow. (3) Decorative Text: '多力多滋迷們出動了' (Doritos fans, let's go) with pink heart stickers. (4) Descriptive Text: '超麻超爽 青花椒風味' (Super numbing and cool, Green Peppercorn flavor). (5) Functional Text: '259元', '裡面有8包' (Price: 259, 8 bags inside) describing product details. (6) Subtitles: Chronological transcription of the spoken review focusing on the spicy and numbing taste sensations."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 3.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Store Discovery -> Price/Packaging Reveal -> Home Unboxing -> Tasting Reaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female main creator in the store, 1 male shopper in background, 2 female main characters in the tasting segment",
+      "mainCharacterDescription": "One woman with long dark hair in a white textured jacket and brown dress; another woman with a black and white zebra-striped bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene is a Costco warehouse with high shelves and stacks of bulk products. Second scene is a modern living room with a couch, a table, and home decor.",
+      "lightingStyle": "Bright indoor lighting in the store; soft, warm domestic lighting at home",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Bright",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Chips",
+        "Snacks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Doritos"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Crunching",
+        "Pop sound"
+      ],
+      "ambientNoise": [
+        "Warehouse ambient"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Discovery -> Demo -> Verdict",
+      "mainPurpose": "The video aims to review a newly released, store-exclusive snack (Doritos Dinamita Green Peppercorn) from Costco. It combines the 'treasure hunt' excitement of finding new products with a detailed tasting test to inform viewers whether the purchase is worth the cost.",
+      "visualEmotion": "Energetic and Enthusiastic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of packaging, price discussion, and a dedicated tasting session with a final recommendation.",
+      "endorsementObject": [
+        "Doritos Dinamita Green Peppercorn"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin narration with variety-show style text bubbles and coordinated crunching sound effects.",
+      "freeDescribe": "The video targets younger consumers and 'Costco hunters' looking for the latest trends in the Taiwanese snacks market."
+    }
+  }
+}

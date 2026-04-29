@@ -1,0 +1,179 @@
+{
+  "videoName": "2uncle987-20250430190712-1216105426721999.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 73,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Product Demo",
+        "Lifestyle",
+        "Commercial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with a messy bun enters a room filled with scattered toys; she looks frustrated and trips over a toy, hitting her head against a cabinet. She continues into a hallway, trips again while picking up a small green item, and bumps her head on a table. (2) She looks in a bathroom mirror, pulls her hair back, and discovers grey hairs near her roots, looking shocked and distressed. (3) She presents a red and gold box of hair dye; the scene cuts to her wearing gloves and squeezing a two-colored cream from a pressurized canister onto a special comb attachment. She brushes the cream onto her grey roots and then through the rest of her hair. (4) The woman appears again with neatly styled, shiny dark hair; she smiles and gestures towards the product boxes on a white table, showing various color options and finally holding the product up with a thumbs-up gesture.",
+      "audio_narrative_log": "(1) Starts with the woman's voice sounding annoyed followed by exaggerated thumping and sliding sound effects (SFX) as she clumsy moves. (2) A transition sound leads into a bright, upbeat, medium-tempo pop background music (BGM). (3) A professional male voiceover enters, narrating the product benefits with a clear and energetic tone, while occasional 'ting' or 'shimmer' SFX highlight product features. (4) The woman's voice returns at the end, sounding cheerful and satisfied, accompanied by a final energetic musical flourish.",
+      "text_narrative_log": "(1) Hook text: '吼！超亂內！' (Ugh! So messy!) in a variety-show style font. (2) Action labels: '(滑)' (Slip), '(撞)' (Bump), '(又撞)' (Bump again). (3) Functional product text: '日本原裝進口 宣若EX染髮霜' (Imported from Japan, CIELO EX Hair Dye Cream). (4) Benefit hooks: '操作簡單' (Simple operation), '不需要攪拌' (No mixing required), '妥善保存 分次使用' (Safe storage for multiple uses), '完勝頑固白髮' (Defeat stubborn grey hair). (5) Conclusion text: '完成啦' (Done!), '全新亮麗秀髮' (Brand new beautiful hair). (6) Call to Action: '優惠連結點起來!' (Click the discount link!) with an arrow pointing down."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 38,
+      "averageSceneDuration": 1.9,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Problem (clumsy/grey hair) -> Solution (product application) -> Positive Result & CTA."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator performing all actions.",
+      "mainCharacterDescription": "A young woman with dark hair; initially wearing a green and white striped oversized shirt and denim shorts, later wearing a beige sweatshirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room",
+          "Bathroom",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern, clean home interior with white cabinetry, a bathroom with a large mirror and marble-tiled walls, and a neutral studio-like background with a white table.",
+      "lightingStyle": "Bright, even studio lighting with natural light elements.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "CIELO",
+        "宣若"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade and Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful, energetic, and professional",
+        "pitch": "Medium-high (female), Medium (male)",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Thud",
+        "Shimmer"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Problem -> Demonstration -> Result -> CTA",
+      "mainPurpose": "To advertise CIELO EX Hair Dye by highlighting its convenience and effectiveness for busy women who need a quick and easy solution for covering grey hair at home without the need for a salon visit.",
+      "visualEmotion": "Energetic and Relatable"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product demonstration, verbal recommendation by the creator, and multiple brand logo appearances.",
+      "endorsementObject": [
+        "CIELO 宣若"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy variety-show style editing with large text overlays and physical comedy.",
+      "freeDescribe": "The video uses a relatable 'clumsy mom/housewife' persona to build rapport before transitioning into a professional-quality product demonstration."
+    }
+  }
+}

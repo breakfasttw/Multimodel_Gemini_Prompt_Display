@@ -1,0 +1,182 @@
+{
+  "videoName": "yga0721-20250503031533-912992564455620.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 64,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Challenge",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Tokyo"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man in a purple camouflage vest stands on a city street in Japan with a woman and a young boy, talking excitedly to the camera. (2) Transition to a close-up of a massive, multi-layered 4kg hamburger tower topped with an egg, served on a platter with salad. (3) A man in a black long-sleeved shirt begins eating the burger in an indoor restaurant setting while the first man narrates. (4) The man eating continues to consume several patties, then shows signs of being full, eventually standing up to stretch his stomach. (5) The young boy from the intro reappears, smiling and holding a small snack.",
+      "audio_narrative_log": "(1) Mandarin speech begins with an excited and fast-paced tone, accompanied by faint city ambient noise and an upbeat background track. (2) A group of people sing 'Happy Birthday' in English as the large meal is presented, followed by the sound of utensils and chewing. (3) Continuous commentary from the main narrator with occasional humorous sound effects (SFX) such as 'boing' sounds and cartoonish laughter. (4) The audio ends with the high-pitched voice of a child and more upbeat BGM.",
+      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese translating the dialogue about the 4kg burger challenge. (2) Decorative/Hook Text: Large bold yellow and pink captions such as '4kg Hamburger Meat + Rice' and '35 Minutes Challenge'. (3) Effect Text: Variety-show style stickers like 'Super Huge', 'Not Defeated', and 'Time remaining 16 minutes'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.9,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro on street -> Presentation of food -> Eating challenge progress -> Struggle and conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male creator in purple vest, 1 female companion, 1 male child, 1 male challenger eating.",
+      "mainCharacterDescription": "A man wearing a purple camouflage puffer vest over a white sweatshirt and a man in a black long-sleeved 'National Geographic' shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Indoor Restaurant"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A narrow Japanese city street with urban buildings and signs, followed by a wooden-themed indoor restaurant interior.",
+      "lightingStyle": "Natural daylight outdoors and warm, slightly dim indoor lighting.",
+      "weather": "Clear",
+      "season": "Autumn/Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Hamburger",
+        "Rice",
+        "Salad",
+        "Egg"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Watch"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "National Geographic"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "Normal to High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Bell ding"
+      ],
+      "ambientNoise": [
+        "Street noise",
+        "Restaurant chatter"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Challenge Introduction -> Process -> Climax/Struggle -> Outro",
+      "mainPurpose": "This video is an entertainment-focused food challenge vlog intended to showcase a massive 4kg hamburger eating competition in Japan, utilizing high-energy narration and variety-show editing to engage the audience.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density colorful text overlays and fast-paced comedic commentary characteristic of Taiwanese vlogging style.",
+      "freeDescribe": "The video uses exaggerated reactions and visual stickers to emphasize the difficulty and humor of the food challenge."
+    }
+  }
+}

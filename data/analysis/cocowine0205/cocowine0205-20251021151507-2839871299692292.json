@@ -1,0 +1,182 @@
+{
+  "videoName": "cocowine0205-20251021151507-2839871299692292.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 63,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair wearing a brown off-the-shoulder top stands in a Costco warehouse, pointing at a refrigerated display filled with strawberry and blueberry tarts. (2) She picks up a large tart in a transparent plastic container and smiles at the camera while variety-show style text overlays appear. (3) The scene shifts to an indoor kitchen/living room where two women (the first woman and another in a grey hat) sit behind a table. (4) A close-up shot follows, showing a slice of the tart on a blue plate, highlighting a thick white cheesecake layer topped with red strawberry glaze and whole berries. (5) The two women taste the tart, making exaggerated facial expressions of enjoyment and giving double thumbs-up gestures.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic pop music plays throughout. A young woman's voice is heard speaking in an excited, high-pitched tone, accompanied by the muffled ambient hum of a warehouse store. (2) A male narrator's voice joins, delivering a high-energy commentary with a professional yet enthusiastic tone. (3) Frequent sound effects (SFX) like 'pops', 'dings', and 'sparkle' sounds occur whenever text or stickers appear on the screen. (4) The ambient noise shifts from a busy store to a quiet indoor environment as the scene transitions to the home setting.",
+      "text_narrative_log": "(1) COSTCO WHOLESALE logo (Decorative: Brand identification). (2) \"不輸飯店口感\" (Decorative: Hook - Not inferior to hotel taste). (3) \"草莓藍莓乳酪塔 10月黑馬\" (Decorative: Product Title - Strawberry Blueberry Cheese Tart, October Dark Horse). (4) \"$549\" (Functional: Price). (5) \"簡直太便宜\" (Decorative: Conclusion - Simply too cheap) with animated sparkles."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Shopping discovery -> Product close-up -> Home tasting and review -> Final verdict"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, blurred shoppers in the Costco background.",
+      "mainCharacterDescription": "Two young women; one has long dark hair in a brown off-the-shoulder top, the other wears a silver/grey bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse Store",
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First half is inside a Costco warehouse with shelves of products and shoppers; second half is a home kitchen with a counter, plates, and household items.",
+      "lightingStyle": "Bright indoor lighting / Studio-style lighting",
+      "weather": "Indoor",
+      "season": "Autumn",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Strawberry",
+        "Blueberry",
+        "Cheese Tart",
+        "Cake"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "Kirkland Signature"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Pop",
+        "Sparkle"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Warehouse ambient"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> Review -> CTA",
+      "mainPurpose": "The video serves as a high-energy product review and recommendation for a specific seasonal dessert at Costco. It combines a 'treasure hunt' shopping experience with a detailed home taste-test to validate the product's value and quality to the audience.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Prominent display of Costco logo and direct praise for the product's price and taste.",
+      "endorsementObject": [
+        "COSTCO WHOLESALE"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Variety-show style captions and high-energy dual-vocal narration.",
+      "freeDescribe": "The video utilizes fast-paced editing and beat-synced visuals to maintain high viewer retention, typical of short-form food influencers."
+    }
+  }
+}

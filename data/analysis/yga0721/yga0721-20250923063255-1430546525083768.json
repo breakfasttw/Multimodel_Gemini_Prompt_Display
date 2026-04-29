@@ -1,0 +1,175 @@
+{
+  "videoName": "yga0721-20250923063255-1430546525083768.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 87,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Promotion",
+        "Short Drama"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens in an indoor studio with four people (one male, three females) sitting on a blue bench. The male, wearing a brown utility vest, is the central figure. (2) They participate in a game where they must provide incorrect answers to questions. When someone accidentally gives a correct answer, they are hit with colored foam sticks. The male protagonist shows exaggerated expressions of pain and frustration. (3) The scene shifts to the male protagonist standing alone, looking distressed about always thinking of coffee. He then pulls out a green can of 'Everyday Coffee' and begins a direct-to-camera pitch. (4) Product-focused shots follow: the black coffee is poured into a glass with ice, surrounded by roasted coffee beans and product cans. (5) The whole group reunites, now all holding the coffee product, smiling and gesturing towards it. (6) The male protagonist concludes the video by excitedly pointing to the product and waving a foam stick while announcing promotional details.",
+      "audio_narrative_log": "(1) High-energy, fast-tempo electronic background music plays immediately. A male voice off-screen asks questions in a loud, variety-show style tone. (2) Frequent sound effects are heard: a buzzer for 'wrong' (correct) answers, a 'thud' SFX whenever someone is hit with a foam stick, and loud group laughter and shouting. (3) The music continues as the male lead switches to a clear, persuasive narration style to introduce the product. (4) He speaks rapidly about 'catechins' and 'metabolism' with a professional yet energetic marketing tone. (5) Sounds of a can opening and liquid pouring are layered over the speech. (6) The video ends with the group shouting enthusiastically in unison about the price and brand.",
+      "text_narrative_log": "(1) Functional Text: 'POV：只能回答錯的答案' (POV: Only allowed to answer wrong answers). (2) Functional Text: '題目：早餐店點到的東西' (Topic: Things you'd order at a breakfast shop). (3) Decorative/Effect Text: '⚠️答錯' (⚠️Answered wrong - used ironically when the answer was actually correct) with a warning icon. (4) Functional Text: '每朝咖啡 EX黑咖啡' (Everyday Coffee EX Black Coffee), '添加機能兒茶素與膳食纖維' (Added functional catechins and dietary fiber). (5) Functional Text: '限時3天72小時' (Limited to 3 days, 72 hours), '一箱只要 $499' (One case for only $499). (6) Subtitles transcribe the dialogue in Traditional Chinese throughout."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 32,
+      "averageSceneDuration": 2.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook (Game) -> Problem/Shift -> Product Solution -> Demo -> CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 3 female co-stars onscreen, 1 male voice/helper appearing briefly or offscreen.",
+      "mainCharacterDescription": "Male (Cai A-ga), wearing a brown utility vest over a brown t-shirt, brown pleated trousers, very expressive and energetic."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A studio wall covered in magazine clippings and posters, a blue bench, and a wooden table set up for the product demonstration.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "None",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural / Bright",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Coffee"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "每朝健康"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 3,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched, excited, humorous",
+        "pitch": "Sharp",
+        "loudness": "Loud",
+        "speed": "Extremely fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Variety Show Style",
+      "bgmBPM": 132,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Buzzer",
+        "Thud SFX",
+        "Ding-dong"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage -> Linear: Hook -> Evidence -> Problem -> Solution -> CTA",
+      "mainPurpose": "The video leverages a humorous game-show hook to capture viewers' attention before pivoting to an explicit product endorsement. It uses the trope of 'brain fog' during the game to transition into a pitch for 'Everyday Coffee,' highlighting its health benefits (catechins) and a time-limited promotional price to drive immediate sales.",
+      "visualEmotion": "Humorous, Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The male protagonist directly addresses the camera to describe the product's functional benefits, displays the packaging clearly, and provides a specific discount price with a call to action.",
+      "endorsementObject": [
+        "每朝健康 - 每朝咖啡"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Cai A-ga's characteristic high-energy hosting style and the use of his team in a variety-show format.",
+      "freeDescribe": "The fast pacing and high density of text overlays are typical of Taiwanese social media influencer content designed for high engagement."
+    }
+  }
+}

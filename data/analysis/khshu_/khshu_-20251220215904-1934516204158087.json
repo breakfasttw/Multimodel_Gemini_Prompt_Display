@@ -1,0 +1,191 @@
+{
+  "videoName": "khshu_-20251220215904-1934516204158087.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 58,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Fukuoka"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a close-up of a young woman outdoors in a park, biting into a mentaiko baguette with a satisfied expression. (2) It transitions to an indoor bakery where she picks out bread, followed by close-ups of the bread's interior and her enjoying it. (3) The scene shifts to an indoor restaurant where she eats beef intestine hot pot (motsunabe); she uses chopsticks to pick up food and shows the simmering pot. (4) The final food segment shows her at another restaurant eating chicken mizutaki, focusing on her drinking broth and eating chicken with chopsticks. (5) The video ends with her in a brightly lit transport terminal, waving cheerfully at the camera.",
+      "audio_narrative_log": "(1) Upbeat, rhythmic pop-style background music plays continuously throughout. (2) A clear, energetic female voice provides Mandarin narration, describing the food and her experiences. (3) Environmental sounds include the crunch of bread, the bubbling of hot pot, and the clinking of dishes in a restaurant. (4) There is slight background chatter and ambient noise from the restaurants and the final transport terminal scene.",
+      "text_narrative_log": "(1) '福岡私心三選' (Fukuoka personal top 3) appears as a main hook with a Japanese flag icon. (2) 'Pain Stock' and '¥457 明太子麵包' (Mentaiko bread) provide restaurant and price details. (3) '前田屋' (Maeda-ya) and '¥1780 牛腸鍋' (Beef intestine pot) mark the second recommendation. (4) '博多水炊 - 橙' and '¥4150 水炊鍋' (Mizutaki pot) mark the third. (5) Functional subtitles in Mandarin Chinese track the spoken narration throughout."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 32,
+      "averageSceneDuration": 1.8,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Hook -> Recommendation 1 -> Recommendation 2 -> Recommendation 3 -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 6,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female main creator, several background diners and staff in restaurants, and passersby in the airport.",
+      "mainCharacterDescription": "Young Asian woman with black hair tied back, wearing a white casual jacket."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Restaurant",
+          "Outdoor Park",
+          "Airport"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Outdoor park with trees, a modern bakery interior, traditional-style Japanese restaurants with wooden furniture, and a bright airport terminal with signage.",
+      "lightingStyle": "Natural daylight outdoors and warm, atmospheric indoor lighting in restaurants.",
+      "weather": "Sunny",
+      "season": "Autumn",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "Japanese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Baguette",
+        "Mentaiko",
+        "Beef intestine",
+        "Cabbage",
+        "Chives",
+        "Chicken soup",
+        "Noodles",
+        "Rice"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Pain Stock",
+        "前田屋",
+        "橙"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and enthusiastic",
+        "pitch": "Normal",
+        "loudness": "Clear",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Restaurant chatter",
+        "Street noise"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Recommendation 1 -> Recommendation 2 -> Recommendation 3 -> Outro",
+      "mainPurpose": "The video is a travel and food guide designed to recommend three specific local delicacies in Fukuoka. It combines personal tasting experiences, restaurant names, and pricing to serve as a practical reference for tourists visiting the city.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed mention of restaurant names, specific dish names, and exact pricing suggests a promotion or highly structured recommendation.",
+      "endorsementObject": [
+        "Pain Stock",
+        "前田屋",
+        "博多水炊 - 橙"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy eating shots with 'Ohhh' sound effects and price overlays.",
+      "freeDescribe": "The fast editing and clear price information make this highly shareable for travel planning."
+    }
+  }
+}

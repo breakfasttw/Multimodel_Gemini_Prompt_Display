@@ -1,0 +1,182 @@
+{
+  "videoName": "602avenue-20250808084326-1976796079894900.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 38,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Entertainment",
+        "Interview",
+        "Variety Show"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a close-up of Korean actor Ahn Hyo-seop looking at a large pink 'Shoutao' (longevity peach) gift with a curious expression. (2) The scene transitions to a wider shot of a press conference stage featuring actors Ahn Hyo-seop, Lee Min-ho, Nana, and Chae Soo-bin sitting in chairs. (3) A female host enters the frame, presenting the large peach gift to Ahn Hyo-seop; he takes it carefully, looking intrigued. (4) The camera cuts between the actors' reactions—Lee Min-ho smiling and repeating the word, Nana looking surprised, and Chae Soo-bin listening intently. (5) Close-up shots show Ahn Hyo-seop examining the food gift while the host explains it. (6) The video ends with the cast members laughing as the host makes a joke, with several variety-show style emojis and text overlays appearing.",
+      "audio_narrative_log": "(1) An upbeat, medium-tempo pop-style BGM starts immediately. A high-pitched, enthusiastic female voice (vocal) begins speaking in Korean. (2) Male voices join in, sounding polite and curious as they interact with the host. (3) Sound effects (SFX) like sparkles and 'ping' sounds are heard when text overlays appear. (4) The audio concludes with a mixture of collective laughter from the actors and the host, while the music maintains a cheerful tone.",
+      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese and English provide a translation of the Korean dialogue regarding the gift. (2) Hook Text: '讓安孝燮變好奇的台灣伴手禮？' (The Taiwanese souvenir that made Ahn Hyo-seop curious?) appears at the start. (3) Decorative/Effect Text: Variety-show captions like '壽桃' (Shoutao), '貼心暖男安孝燮' (Thoughtful warm man Ahn Hyo-seop), and '一本正經講幹話' (Talking nonsense seriously) appear with emojis to highlight humor. (4) CTA Text: '更多有趣完整採訪內容在有璟嘿呦Youtube上!' (More interesting full interviews on Youjing Heiyou Youtube!) appears at the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 1.58,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Cast Introduction -> Gift Presentation -> Explanation -> Reaction/Humor"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 4,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "4 main actors (2 male, 2 female) and 1 female host.",
+      "mainCharacterDescription": "Ahn Hyo-seop in a black suit and striped tie; Lee Min-ho in a black jacket and jeans; Nana in a polka-dot dress; Chae Soo-bin in a beige dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Event Space"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A clean, white studio background with 'OMNISCIENT READER' movie/project branding and 'THE PROPHECY' text visible.",
+      "lightingStyle": "Bright studio lights",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English",
+          "Korean"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Cinematic",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Cat (Sticker)"
+      ],
+      "foodsDetect": [
+        "Shoutao (Longevity Peach)",
+        "Bread"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "OMNISCIENT READER",
+        "全知讀者視角"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 5,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 3,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and Humorous",
+        "pitch": "Moderate",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Korean"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Meme sounds",
+        "Glitter sound",
+        "Laughter"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage -> Hook -> Presentation -> Interaction",
+      "mainPurpose": "This video serves as promotional content for the movie/project 'Omniscient Reader,' focusing on a charming cultural exchange between the Korean cast and a Taiwanese host. By presenting the actors with a traditional Taiwanese gift (Shoutao), the content aims to humanize the stars, show their friendly reactions to local customs, and drive traffic to a full interview on YouTube.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "Promotion of the movie 'Omniscient Reader' and the channel '有璟嘿呦'.",
+      "endorsementObject": [
+        "Omniscient Reader",
+        "有璟嘿呦"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Variety-show editing style with large Chinese text overlays and peach-themed stickers.",
+      "freeDescribe": "The video leverages the popularity of the Korean stars to appeal to a Chinese-speaking audience through localized cultural references."
+    }
+  }
+}

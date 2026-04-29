@@ -1,0 +1,180 @@
+{
+  "videoName": "yga0721-20250706123635-2100026870760104.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 60,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Music Cover",
+        "Humor",
+        "Parody"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video uses a split-screen format: the top shows a high-quality music video of a girl in a residential alley and parks, while the bottom shows a low-budget recreation in an indoor office environment. (2) Chronological replication: the bottom character uses a red handbag and a clear umbrella to mimic the top character's joyful walk. (3) Rain simulation: in the bottom frame, a person uses a blue watering can to pour water on the character's umbrella to mimic the rain in the top frame. (4) Object substitution: the creator in the bottom frame uses a household mop to simulate playing an electric bass and pets a person lying on the floor to simulate petting a dog. (5) Closing scenes: both characters are shown crying while holding stacks of banknotes and photos, with the bottom version using exaggerated expressions.",
+      "audio_narrative_log": "(1) Upbeat Mandopop/Rock music begins immediately, featuring high-pitched and energetic female vocals. (2) The acoustic environment is dominated by studio-recorded music with clear electric guitar riffs and a steady drum beat. (3) No ambient noise or significant sound effects are heard; the audio is a continuous, high-quality music track. (4) The vocals remain consistent in tone, expressing a bright and emotional theme throughout the clip.",
+      "text_narrative_log": "(1) Hook Text: \"低成本 COVER 愛是什麼 MV\" (Low-cost cover of the 'Love is What' music video) appears at the top. (2) Call-to-action: \"還沒看正片嗎 快去看哦!\" (Haven't seen the full video yet? Go watch it now!) appears in the center. (3) Functional Text: Traditional Chinese subtitles for the song lyrics are displayed in the middle of the split-screen throughout the video."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 38,
+      "averageSceneDuration": 1.5,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Synchronized parallel comparison between a professional MV and a low-cost parody."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female artist in the top frame, 1 female creator in the bottom frame, 1 person acting as a dog on the floor, and 1 person holding a watering can/mop in the background.",
+      "mainCharacterDescription": "A young woman with dark hair, wearing a white t-shirt and plaid skirt in the top; a similar woman in the bottom wearing a black t-shirt or white dress depending on the scene."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Office",
+          "Outdoor Street",
+          "Park"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Top frame shows Japanese-style residential streets and green parks. Bottom frame shows a modern office with white walls, green curtains, and a large red mascot statue.",
+      "lightingStyle": "Natural daylight (top), Studio/Fluorescent indoor lighting (bottom)",
+      "weather": "Sunny/Raining (simulated)",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Muted (top), Bright and High Saturation (bottom)",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Dog"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Bicycle"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Kaka Baby"
+      ],
+      "instrumentsVisible": [
+        "Electric Bass",
+        "Mop (as prop)"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut (synchronized with music beats)",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and melodic",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous singing",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Pop Rock",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Percussion",
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Electric Guitar",
+        "Drums",
+        "Bass Guitar"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Parallel Comparison -> Call-to-action",
+      "mainPurpose": "The video serves as a humorous promotional teaser for a full-length music video cover. By using the 'Expectation vs. Reality' trope, it showcases the creator's ingenuity in replicating high-production scenes with low-cost household items, aiming to entertain the audience and drive traffic to the main video through relatable humor.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Frequent appearance of the 'Kaka Baby' mascot in the background suggests a brand partnership or creator-owned brand placement.",
+      "endorsementObject": [
+        "Kaka Baby"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Split-screen comparison format, low-cost prop substitution.",
+      "freeDescribe": "The video leverages the popularity of the 'Low Cost Cosplay' style aesthetic applied to a music video context, which is highly effective for viral engagement on social platforms."
+    }
+  }
+}

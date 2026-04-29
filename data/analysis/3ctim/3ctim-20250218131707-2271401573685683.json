@@ -1,0 +1,180 @@
+{
+  "videoName": "3ctim-20250218131707-2271401573685683.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 40,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech News",
+        "Commentary",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "USA",
+          "Taiwan"
+        ],
+        "city": [
+          "Los Angeles",
+          "Detroit"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a grey plaid newsboy cap, wearing a red sweater, is centered in the frame against a grey studio background, speaking and gesturing with his hands. (2) The scene cuts to a 3D animation of a blue electric car in a garage with technical diagrams showing wireless power transfer from the floor. (3) Visuals shift to a brick academic building (UCLA) and then an Olympic logo 'LA 28' with a picture of the Eiffel Tower for transition. (4) Aerial footage shows cars driving on a road with superimposed green glowing rings beneath them to illustrate wireless charging. (5) A screen inside a car displays 'Wireless Charging' progress and a green battery icon. (6) The video returns to the man in the red sweater concluding his talk.",
+      "audio_narrative_log": "(1) A male voice speaks clearly in Mandarin with an informative and energetic tone. An upbeat, mid-tempo electronic background track starts simultaneously. (2) The music remains steady as the narrator describes technical features of wireless charging. (3) Subtle mechanical whirring sound effects are audible during the animation of the car charging. (4) The narration continues with the same pace and volume through to the end, finishing with an enthusiastic closing remark.",
+      "text_narrative_log": "(1) Decorative Text: '電動車也能無線充電?!' (Electric cars can also be wirelessly charged?!) with a white cat emoji in a blue/orange stylized font. (2) Functional Text: '將充電設備鋪在道路底下' (Laying charging equipment under the road). (3) Functional Text: '加州大學洛杉磯分校' (University of California, Los Angeles). (4) Functional Text: '作為2028年洛杉磯奧運選手村的一個接駁設施' (As a shuttle facility for the 2028 Los Angeles Olympics athlete village). (5) Functional Text: '實現塞車中也可以充電理想!' (Realizing the ideal of charging during traffic jams!)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.85,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Host Intro -> Tech Animation -> News Case Studies (LA/Detroit) -> UI/UX Demo -> Host Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main host visible in the studio segments.",
+      "mainCharacterDescription": "A middle-aged man wearing a red long-sleeved sweater, a grey plaid newsboy cap, and rectangular glasses."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Outdoor Street",
+          "University Campus"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A professional studio with grey acoustic panels; outdoor b-roll of UCLA campus and Detroit city streets.",
+      "lightingStyle": "Bright studio lighting for the host; natural daylight for outdoor B-roll.",
+      "weather": "Sunny",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and high contrast",
+      "cameraWork": [
+        "Static",
+        "POV",
+        "Aerial"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Electric Car"
+      ],
+      "techDetect": [
+        "EV Wireless Charger",
+        "Car Infotainment Screen"
+      ],
+      "landmark": [
+        "UCLA"
+      ],
+      "brandLogos": [
+        "3c有意思tim哥",
+        "mika",
+        "LA28"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and professional",
+        "pitch": "Medium-low",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Corporate Electronic",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drum"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Transition swoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Technical Explanation -> Real-world Implementation -> Future Vision -> CTA",
+      "mainPurpose": "To report on the advancement of wireless charging technology for electric vehicles, highlighting its deployment in Detroit and its planned use for the 2028 Los Angeles Olympics as a solution for range anxiety and charging convenience during traffic.",
+      "visualEmotion": "Optimistic and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video focuses on news reporting rather than a specific product review or paid promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host's trademark newsboy cap and red sweater combination; '3c有意思' logo brand identity.",
+      "freeDescribe": "Professional tech journalism style targeting early adopters and EV enthusiasts."
+    }
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "videoName": "602avenue-20251206010102-766051776558537.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 86,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Event Coverage",
+        "Celebrity Interview"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Seoul"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a close-up hook of the female creator interacting with actress Park Gyu-young in a crowded, dimly lit event space; they are holding hands and smiling. (2) Transition to daytime outdoor and indoor scenes where the creator participates in activities resembling the 'Squid Game' series, including a 'Red Light, Green Light' setup and a playground area. (3) Scene shifts to a formal press/VIP event stage where actors Kang Ha-neul, Park Gyu-young, and Park Sung-hoon are interviewed and interact with the crowd. (4) The creator approaches the actors for personal photos and signatures during a mingle session. (5) The final segment shows the creator in a hotel room, looking at her laptop screen and reacting with shock and joy to the footage she just filmed.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic pop music starts immediately. A female voice speaks in fast-paced Mandarin with an excited and cheerful tone. (2) Ambient sounds of a crowd cheering and the 'Red Light, Green Light' mechanical doll voice are heard during the game montage. (3) Transitions to professional audio from a microphone where a male actor (Kang Ha-neul) speaks in English ('Hello... how are you?') followed by a female actress (Park Gyu-young) speaking fluent English about her appreciation for the fans. (4) A male actor (Park Sung-hoon) speaks in Korean, translated by subtitles. (5) The music volume increases during the photo session, mixed with overlapping crowd chatter. (6) Ends with the creator's high-pitched gasps and excited shouting in a hotel room over soft background music.",
+      "text_narrative_log": "(1) Hook text at the top: '跟《魷魚遊戲3》朴圭瑛說「我從台灣來」的話，反應是？' (2) Functional subtitles translate the spoken Mandarin, Korean, and English dialogue throughout. (3) Decorative variety-show style text overlays include: '抓抓手臂' (Grabbing the arm), '卡司們登場' (The cast appears), '英文很流利!!!' (English is very fluent!!!), and '昏倒' (Fainting) during the ending reaction."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 68,
+      "averageSceneDuration": 1.26,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Event Montage -> Celebrity Interaction -> Post-event Reflection/Reaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 45,
+      "maleDetectAmount": 20,
+      "femaleDetectAmount": 25,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 4,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face close-up",
+        "Hands only",
+        "Shoulder up"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 female creator, 3 main actors, and approximately 40 fans/staff in the background of the event shots.",
+      "mainCharacterDescription": "The female creator has long dark hair and wears a green event t-shirt and black skirt. Park Gyu-young wears a Gucci patterned short-sleeved shirt. Kang Ha-neul wears a black and white bowling shirt. Park Sung-hoon wears a black jacket."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Playground",
+          "Indoor Event Hall",
+          "Hotel Room",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The locations include a replica of the 'Squid Game' set with colorful walls and a giant doll, a professional event stage with 'SQUID GAME 3' branding and pink/purple lighting, and a modern hotel room with a desk and laptop.",
+      "lightingStyle": "Mixed: Bright natural daylight outdoors, vibrant pink/purple neon studio lighting at the event, and warm indoor lighting in the hotel.",
+      "weather": "Clear",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English",
+          "Korean",
+          "Emojis"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "POV",
+        "Handheld",
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Cocktail",
+        "Pink Drink"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Laptop",
+        "Microphone",
+        "Professional Camera"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Netflix",
+        "Gucci",
+        "Squid Game"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut and Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 10,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, high-pitched, fan-focused, professional",
+        "pitch": "Varied from deep (male actors) to high (female creator)",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "English",
+          "Korean"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat K-pop style",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Camera shutter sound",
+        "Sparkle SFX"
+      ],
+      "ambientNoise": [
+        "Crowd cheering",
+        "Cafe noise",
+        "Event chatter"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Experience -> Climax -> Reaction",
+      "mainPurpose": "To document and share the creator's personal experience attending a Netflix VIP event for 'Squid Game 3,' focusing on the emotional highlight of interacting closely with the main cast members and proving their friendliness to her audience.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The entire video centers around a Netflix-sponsored event for the promotion of 'Squid Game 3.'",
+      "endorsementObject": [
+        "Netflix",
+        "Squid Game 3"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy reaction shots, fast-cut editing style, and interactive text overlays that engage the viewer as if they are part of the journey.",
+      "freeDescribe": "The video effectively uses 'parasocial' elements by showing a relatable fan experience with high-profile celebrities, which is a highly successful format for social media engagement."
+    }
+  }
+}

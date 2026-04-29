@@ -1,0 +1,189 @@
+{
+  "videoName": "cocowine0205-20250901200507-1594278568289548.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Cooking"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Live-action video. A young woman wearing a dark beret and a blue off-the-shoulder top stands in a Costco, holding a large container of Garlic Seafood Spaghetti. (2) Close-ups show the deli price tag of 455 TWD/kg and the product label. (3) In a kitchen, the pasta is removed from the kit and weighed on a digital scale, displaying 408g. (4) Hands use tongs to stir-fry garlic slices, chili, and seafood (squid, shrimp, clams) in a stainless steel pan. (5) The noodles are added to the pan and seasoned with an electric pepper mill and salt. (6) A woman in a purple top tosses the pasta. (7) The finished dish is plated. (8) Two women sit at a table in a home setting with plush toys behind them, tasting the food and giving a negative review using hand gestures and facial expressions of disappointment.",
+      "audio_narrative_log": "(1) Upbeat, mid-tempo electronic background music plays throughout. A female voice speaks with high energy about finding the pasta at Costco. (2) Sizzling sounds of stir-frying and the mechanical whirring of an electric pepper mill are heard. A male voice (off-screen) provides encouraging commentary like \"Smells so good\" and \"It's served!\". (3) The audio shifts to two female voices at a dining table, their tone becoming more analytical and critical as they describe the texture and lack of flavor. (4) Ambient kitchen and dining room noises are present throughout.",
+      "text_narrative_log": "(1) Functional Text: Subtitles translate the spoken Mandarin dialogue. (2) Decorative/Hook Text: \"455元值得?\" (Is 455 yuan worth it?) and \"香蒜海鮮義大利麵\" (Garlic Seafood Spaghetti) serve as hooks. (3) Emotional/Variety Text: \"哇給超多料\" (Wow, so many ingredients), \"有妹妹真好!\" (Good to have a sister!), and \"可以路過\" (You can pass/skip this) which conveys their final verdict."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 32,
+      "averageSceneDuration": 2.75,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Shopping discovery -> Home cooking process -> Final tasting and critical review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 female creators visible; 1 off-camera male voice heard but not seen.",
+      "mainCharacterDescription": "One woman has a dark Kangol beret and a blue top; the second woman wears a purple top and later appears with the first woman during the review."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Supermarket",
+          "Dining Room"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Costco deli section with refrigerated shelves; a modern kitchen with an induction cooktop and stainless steel cookware; a home dining area with various plush toys and a 'BT21' pillow.",
+      "lightingStyle": "Bright indoor lighting, likely natural mixed with home/store overhead lights.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Bright",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pasta",
+        "Shrimp",
+        "Clams",
+        "Squid",
+        "Garlic",
+        "Chili"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Digital scale",
+        "Electric pepper mill",
+        "Induction stove"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco",
+        "Kirkland",
+        "Tanita",
+        "Russell Hobbs",
+        "Kangol"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and curious initially, shifting to critical and unimpressed",
+        "pitch": "Mixed (High for females, Deep for male)",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Vlog Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Sizzling",
+        "Kitchen tool clinking"
+      ],
+      "ambientNoise": [
+        "Kitchen noise",
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence (Cooking) -> Result (Taste Review)",
+      "mainPurpose": "The video is a consumer-focused food review intended to evaluate the value-for-money of a Costco prepared meal kit. By showing the actual weight, the preparation steps, and the final taste results, the creators provide a 'buyer beware' message, ultimately advising viewers that the product is mediocre and not worth the high price.",
+      "visualEmotion": "Curiosity followed by Disappointment"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The review is overwhelmingly negative, recommending that viewers 'pass' on the product.",
+      "endorsementObject": [
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of variety-show style dynamic captions and a multi-speaker narrative (onscreen sisters + offscreen male voice).",
+      "freeDescribe": "The video follows the 'expectation vs. reality' trope common in influencer food reviews, using empirical evidence (weighing the food) to support their critique."
+    }
+  }
+}

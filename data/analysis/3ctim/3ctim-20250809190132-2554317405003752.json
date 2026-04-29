@@ -1,0 +1,177 @@
+{
+  "videoName": "3ctim-20250809190132-2554317405003752.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 59,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Commentary",
+        "Vlog",
+        "Technology"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a checkered cap, wearing a green polo shirt, speaks directly to the camera with active hand gestures. (2) The screen transitions to a music player interface showing the song 'Dust on the Wind' by 'The Velvet Sundown' with scrolling lyrics over a sunset background. (3) The man returns to the frame, explaining the origin of the band while icons for Spotify and AI-generated content appear around him. (4) A brief clip of a rock band in silhouette against a smoky blue light is shown. (5) The man continues his explanation, accompanied by various graphic overlays: a 'verified' stamp, music note icons, a 'thief' cartoon sticker, and a red 'X' mark. (6) The video concludes with the man pointing his finger toward the camera as if asking a question.",
+      "audio_narrative_log": "(1) A middle-aged male voice speaks with an enthusiastic and steady tone. (2) A rock song begins, featuring deep male vocals, distorted electric guitar, and steady drums. (3) The song fades out as the male narrator resumes his fast-paced, informative speech. (4) Occasional subtle sound effects accompany the appearance of on-screen graphics, while the main audio remains the narrator's voice with minimal ambient studio noise.",
+      "text_narrative_log": "(1) '你聽過這首 Spotify 上爆紅的歌嗎' - Hook asking if the viewer has heard a viral song. (2) 'The Velvet Sundown - Dust on the Wind' - Functional text identifying the song and artist. (3) '出自 AI 之手！' - Hook highlighting that the music was made by AI. (4) '音樂、歌詞、甚至於視覺內容都是由 AI 所生成的' - Functional description explaining all content is AI-generated. (5) '未經同意' - Hook emphasizing lack of consent. (6) '是對原創音樂的盜竊' - Hook labeling the act as theft of original music. (7) '那你怎麼認為呢？' - Functional call to action asking for viewer opinions."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 5.36,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Song Demonstration -> Revelation of AI Origin -> Ethical Discussion -> Outro/Question"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator (3c Tim) on screen throughout most of the video.",
+      "mainCharacterDescription": "A middle-aged Asian man with short hair, wearing a green polo shirt, a tan/orange/white checkered newsboy cap, and thick-rimmed glasses."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A blurred indoor domestic setting with a neutral-colored wall and a glimpse of a grey curtain.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Microphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Spotify",
+        "Roots",
+        "3c有意思tim哥"
+      ],
+      "instrumentsVisible": [
+        "Electric Guitar",
+        "Drums"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade and Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Steady and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Rock",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Percussion",
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Electric Guitar",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Cartoon SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Investigation -> Controversy -> CTA",
+      "mainPurpose": "The video aims to inform the audience about a specific viral band on Spotify that was discovered to be entirely AI-generated. It explores the controversy surrounding AI mimicking real artists without consent and questions whether such content constitutes music 'theft' or a lack of soul, ultimately seeking viewer engagement on the ethics of AI in the creative industry.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video is a commentary piece; though brands like Spotify are mentioned, it is for topical context rather than promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The creator uses a distinctive checkered cap and '3ctim' branding icons in the top corners.",
+      "freeDescribe": "The high density of variety-show style stickers and text overlays suggests this is targeted at a social media audience (like Reels or TikTok) used to fast-paced information delivery."
+    }
+  }
+}

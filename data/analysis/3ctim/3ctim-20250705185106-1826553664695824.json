@@ -1,0 +1,172 @@
+{
+  "videoName": "3ctim-20250705185106-1826553664695824.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 50,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech News",
+        "Vlog",
+        "Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a newsboy cap speaks directly to the camera against a soft-focus indoor background. (2) Graphics of the Nothing Phone (3) and over-ear headphones are overlayed on the screen while he gestures. (3) Close-up images of a square-shaped headphone cup with transparent elements and mechanical details are shown as he continues to explain the features.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music begins immediately with a high-pitched, enthusiastic male voice speaking Mandarin. (2) The vocal remains the primary audio focus, maintaining a steady, informative speed, while subtle swoosh sound effects play during graphic transitions. (3) The upbeat BGM continues at a consistent volume throughout the video without interruptions from ambient noise.",
+      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese translating the host's spoken commentary on product leaks. (2) Decorative/Hook Text: 'Nothing要出頭戴式耳機啦！' (Nothing is releasing over-ear headphones!) appearing in a bold font to create excitement. (3) Decorative Text: '實體照！' (Physical photo!) and '感覺可以期待一下？！' (Feeling like we can look forward to it?!) used to hook viewers' attention."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Product Leak Reveal -> Feature Commentary -> Viewer Question"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator appearing on screen.",
+      "mainCharacterDescription": "Middle-aged male host wearing a grey newsboy cap, round-framed glasses, a purple t-shirt, and several bracelets."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A blurred indoor room, possibly a home office or studio, with shelves and electronic equipment visible in the distance.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Digital Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Headphones"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Nothing"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and fast-paced",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Swoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Evidence -> CTA",
+      "mainPurpose": "To quickly inform the audience about the latest leaks and rumors surrounding the tech brand Nothing, specifically focusing on a new headphone design to generate interest and interaction.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video is presented as a tech news report rather than a direct advertisement or paid promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host's trademark newsboy cap, fast-talking tech reporting style, and 3C Tim logo in the corner.",
+      "freeDescribe": "Typical short-form tech influencer content designed for high engagement through rapid information delivery and visual overlays."
+    }
+  }
+}

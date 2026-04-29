@@ -1,0 +1,168 @@
+{
+  "videoName": "0_shufen-20251005004704-1312076044286364.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 4,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Social Media",
+        "Reaction"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair and heavy makeup, wearing a pink sequined top, is shown in a close-up shot. She is touching her right cheek with her index finger and looking into the camera with a slight smile. A social media comment overlay is centered on the screen. (2) She moves her hand away slightly and begins speaking or mouthing words to the camera with a playful, expressive facial movement, maintaining direct eye contact with the viewer.",
+      "audio_narrative_log": "(1) Upbeat and energetic electronic background music begins. (2) A female voice speaks a short, loud sentence in a sharp tone using a local dialect (Taiwanese Hokkien). (3) The audio cuts off along with the music as the video ends.",
+      "text_narrative_log": "(1) Decorative/Hook Text: A comment interface showing a user 'wang.12' saying '感冒聲音好好聽 XD' (The cold/hoarse voice sounds very good XD) accompanied by an orange mascot sticker. The tone is humorous and complimentary."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 4.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Posing -> Speaking/Reacting"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Face",
+        "Hands",
+        "Chest"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator visible in close-up.",
+      "mainCharacterDescription": "A young woman with long black hair, wearing a sparkly pink sequined top, featuring prominent facial makeup."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A plain, bright indoor wall background, slightly out of focus.",
+      "lightingStyle": "Bright indoor lighting/Ring light",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Sharp and energetic",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Min Nan Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Reaction",
+      "mainPurpose": "The creator is using a specific fan comment about her 'sick voice' as a prompt to record a short, sassy, or playful reaction video. It leverages her vocal quality (possibly hoarse due to a cold) to build engagement and showcase her personality.",
+      "visualEmotion": "Playful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Close-up selfie angle, sparkly outfit, use of local dialect slang.",
+      "freeDescribe": "Short-form vertical video optimized for social media platforms like TikTok or Instagram Reels, focusing on creator-fan interaction."
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "videoName": "yga0721-20251211180534-4151068018482156.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 26,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Comedy",
+        "Vlog",
+        "Challenge"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The scene opens in a white room where a man in a red sweater and a woman in a blue tracksuit are attempting a 'trust challenge'. The man leans back into the air, while a woman sitting in a chair supports him. They both laugh as they succeed. (2) They switch roles. The woman in blue prepares to lean back while the man sits in the chair. A third woman in a red hoodie records them on her phone. (3) The woman in blue leans back abruptly, but the man catches her with his feet instead of his hands. Her face is pushed directly against his white socks. (4) The woman reacts with a mix of shock and laughter while the screen fades to black and white with sad text overlays. (5) The video ends with a close-up of the man's white socks, which appear to have dirt or stains on them.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced electronic music plays as people talk and laugh loudly. (2) A sharp 'ding' sound effect plays when the first challenge succeeds. (3) A whistle sound effect signals the start of the second attempt, followed by a drum roll. (4) As the woman falls, a comical 'boing' sound effect is heard, followed by explosive laughter from multiple people. (5) The upbeat music is suddenly replaced by a slow, melancholic piano melody as the video turns black and white. (6) The video concludes with the sound of the woman jokingly complaining about the dirty socks amidst lingering laughter.",
+      "text_narrative_log": "(1) '夫妻信任挑戰' (Couple Trust Challenge) appears at the start in a bold, energetic font. (2) '攻守交換' (Switching Roles) appears when they swap positions, serving as a functional transition. (3) '(我是誰我在哪)' (Who am I, where am I?) appears as a humorous, decorative caption during the fall. (4) '這些年來的夫妻情...' (The couple's love all these years...) and '還有什麼信任可言...' (What trust is left...) appear in a stylized, dramatic font to emphasize the mock-sadness. (5) '只好把他的新襪子弄髒' (Had to get his new socks dirty) appears as a final humorous punchline."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 4.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Challenge -> Success -> Role Swap -> Comedic Failure -> Close-up Reveal"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands",
+        "Feet"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 man (main), 1 woman (main), 1 woman (filming/observer)",
+      "mainCharacterDescription": "The man wears a red textured sweater, white cargo-style pants, and a dark red beanie. The woman wears a blue athletic crop top and matching shorts/hoodie set with white socks."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A clean, white room featuring several framed cartoon-style family illustrations on the wall. There are wooden chairs with patterned cushions and a white marble-tiled floor.",
+      "lightingStyle": "Bright, even studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and natural, switching to Muted/Monochrome for comedic effect",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "adidas",
+        "Schott NYC"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "SFX-driven hard cuts and mood shifts",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched, energetic, and jovial",
+        "pitch": "Varied",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Occasional shouting and continuous laughter",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop and Melancholic Piano",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums",
+        "Piano"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Whistle",
+        "Drum roll",
+        "Cartoon Boing"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Subversion/Fail -> Comic Aftermath",
+      "mainPurpose": "The video is a comedic short intended to entertain viewers by subverting a popular social media trend. While it starts as a standard 'trust challenge' between a couple, the deliberate 'failure' in the second half—where the wife's face meets the husband's dirty socks—creates a humorous contrast. The use of dramatic music and filters at the end parodies the 'betrayal' for comedic effect.",
+      "visualEmotion": "Humorous and Lighthearted"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy laughter, variety-show style text graphics, and relatable couple dynamics.",
+      "freeDescribe": "The video leverages high-contrast editing techniques (color to B&W) and synchronized sound effects to maximize the comedic timing of the 'fail'."
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "videoName": "cocowine0205-20250816185506-1420006862563227.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 84,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Food Review",
+        "Vlog",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Yilan"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Two women, one in a white knit top and one in a black dress with a bucket hat, stand in a residential alley talking excitedly to the camera. Large text overlays introduce a 'hidden' dessert spot. (2) They enter a bakery workshop where staff are seen in the background with commercial ovens and mixers. A white paper bag with a cartoon cow logo ('ALL IN ROLL') is handed over. (3) The scene shifts to a living room setting where the woman in the zebra-patterned hat, now wearing a green Mickey Mouse cardigan, sits at a table. (4) A box of five different colored cake rolls is opened and displayed. (5) She proceeds to taste each roll one by one: a hojicha apple roll, a black tea roll, a thick matcha roll, and a black forest roll. She uses a fork to cut them, showing the cream filling, and displays exaggerated expressions of joy and approval.",
+      "audio_narrative_log": "(1) High-energy, fast-paced electronic background music plays. Two female voices talk simultaneously with high-pitched, excited tones. (2) Sounds of rustling bags and a brief male voice saying 'Thank you' in Mandarin are heard. (3) The music maintains a steady upbeat tempo as the main speaker describes the flavors. (4) Frequent sound effects (SFX) such as 'dings', 'pops', and cartoonish boings emphasize specific reactions and text appearances. (5) The speaker's voice remains the dominant audio layer, characterized by clear articulation and enthusiastic inflections.",
+      "text_narrative_log": "(1) Hook text: '超隱藏生乳捲' (Super hidden cream roll) and '私藏口袋名單' (Private pocket list) appear in bold, colorful fonts. (2) Variety-show style labels: '隱藏在私宅小巷內' (Hidden in a private alley), '人氣甜點店' (Popular dessert shop). (3) Functional text: '自選五種口味 340元' (Choose 5 flavors for 340 NTD). (4) Descriptive flavor tags: '焙茶蘋果' (Hojicha Apple), '茶味超濃' (Super strong tea flavor), '5倍濃厚抹茶' (5x thick matcha). (5) Emotional/Reaction text: '就是這個濃' (This is the thickness) with bright yellow emphasis."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Shop Visit/Purchase -> Product Reveal -> Detailed Tasting/Review -> Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female hosts, 1 male staff member in bakery, 1 female staff member briefly visible.",
+      "mainCharacterDescription": "One woman has long dark hair and wears a white knit top. The other wears a black dress, a zebra-patterned bucket hat, and later a green cardigan with Mickey Mouse graphics."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Bakery",
+          "Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Starts in a narrow urban alley with closed shutters; moves to a bright, industrial-style bakery kitchen with stainless steel tables and ovens; ends in a modern home interior with a couch and warm lighting.",
+      "lightingStyle": "Mixed (Natural outdoor light and bright indoor studio/domestic lighting)",
+      "weather": "Clear",
+      "season": "Spring/Autumn",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Handheld",
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Cake Rolls",
+        "Cream",
+        "Matcha",
+        "Chocolate"
+      ],
+      "trafficDetect": [
+        "Motorcycle"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "ALL IN ROLL",
+        "Kangol",
+        "Disney"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Cartoon SFX",
+        "Camera shutter"
+      ],
+      "ambientNoise": [
+        "Street noise",
+        "Kitchen hum"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Location Intro -> Product Reveal -> Comparative Review -> CTA",
+      "mainPurpose": "This video serves as a promotional food review intended to drive traffic to 'ALL IN ROLL', a bakery in Yilan. It utilizes the 'hidden gem' trope to create curiosity and uses detailed sensory descriptions of the cake rolls (texture, flavor intensity) to entice viewers into visiting or ordering the product.",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of the shop's brand logo, detailed mention of pricing, and focused tasting of their primary product line.",
+      "endorsementObject": [
+        "ALL IN ROLL"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-intensity subtitles, use of 'hidden shop' (私宅) terminology, and extremely expressive facial reactions during tasting.",
+      "freeDescribe": "The video follows a standard 'KOL recommendation' format, where the creator uses high energy and fast editing to maintain engagement. The emphasis on '5x thickness' and specific flavor profiles targets food enthusiasts seeking high-quality, artisanal desserts."
+    }
+  }
+}

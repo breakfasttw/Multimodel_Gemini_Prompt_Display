@@ -1,0 +1,181 @@
+{
+  "videoName": "3ctim-20250718170858-1234257538686620.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 31,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Product Showcase",
+        "Tech Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a female character sitting on a couch, smiling and gesturing towards a smartwatch on her wrist. (2) Transition to a male host in a cap and glasses standing in front of a 'Galaxy Unpacked' event backdrop, speaking energetically and pointing. (3) Chronological display of the Samsung Galaxy Watch8 Classic, Watch8, and Watch Ultra on rotating stands with high-end product lighting. (4) Close-up demonstration of software features including remote camera control via the watch, the Samsung Health running coach interface on a smartphone, and a blood vessel health metric. (5) Final montage showing various colorful watch bands and different watch faces being cycled through rapidly.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic pop music starts immediately. (2) A male voice enters with a professional and enthusiastic tone, speaking Mandarin Chinese. (3) Short sound effects ('bling' sounds) are synchronized with product reveals. (4) The music maintains a constant rhythm as the vocal narration explains technical features. (5) Music fades slightly at the very end with a clean cut.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles translate the spoken commentary about the Galaxy Watch features. (2) Decorative/Hook Text: '3c有意思tim哥' logo appears in the top left corner. (3) Descriptive titles: 'Galaxy Watch8 Classic', 'Galaxy Watch8', 'Galaxy Watch Ultra', '遠端控制控制拍照' (Remote control photography), '練跑教練' (Running coach), and '血管負荷' (Blood vessel load) appear to highlight specific features."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 21,
+      "averageSceneDuration": 1.47,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Host Introduction -> Product Showcase -> Feature Demonstrations -> Style Montage"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Torso",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 female model in the opening, 1 male tech influencer (Tim) as the main host.",
+      "mainCharacterDescription": "Male host (Tim) is wearing a dark cap, glasses, a black T-shirt with green '100%' text, and a wooden bead bracelet. The female character is wearing a sleeveless grey dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor Event Space"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A domestic living room setting with a sofa and city backdrop followed by a professional tech launch event space with 'Galaxy Unpacked' branding and product display stands.",
+      "lightingStyle": "Bright studio lighting with focused product illumination.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Pan"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartwatch",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Samsung",
+        "Galaxy"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and professional",
+        "pitch": "Medium",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Bling",
+        "Swoosh"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Intro -> Feature Breakdown -> Outro",
+      "mainPurpose": "This video serves as a promotional tech review to introduce the new Samsung Galaxy Watch8 series. It aims to generate excitement and inform viewers about new design variations and health-focused features like the blood vessel load metric through a high-energy, fast-paced vlog format.",
+      "visualEmotion": "Energetic and High-Tech"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product showcase at a brand-specific launch event (Galaxy Unpacked) by a known tech influencer.",
+      "endorsementObject": [
+        "Samsung",
+        "Galaxy Watch8",
+        "Galaxy Watch Ultra"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host Tim's signature cap and glasses look; '3c有意思tim哥' branding.",
+      "freeDescribe": "The video utilizes beat-synced editing and vibrant text overlays characteristic of modern social media tech reviews to maintain viewer retention."
+    }
+  }
+}

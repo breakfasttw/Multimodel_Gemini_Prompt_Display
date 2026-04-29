@@ -1,0 +1,178 @@
+{
+  "videoName": "3ctim-20251208041007-2159636701532809.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 54,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a male creator in a gray flat cap and glasses, standing in front of a yellow wall patterned with the 'BINANCE' logo. He holds an AirPods Pro case and gestures while speaking to the camera. (2) The scene cuts to a large, dimly lit conference auditorium where a speaker is presenting on a massive screen showing financial data and Bitcoin ETF charts. (3) The camera focuses on a smartphone held by the creator, showing a real-time translation app interface with English speech bubbles and their Chinese translations. A small round insert shows the creator listening with one earbud. (4) The video returns to the creator in the initial setting, who concludes by summarizing his experience and giving a thumbs-up gesture.",
+      "audio_narrative_log": "(1) A male voice (the creator) speaks in a clear, energetic, and professional tone in Chinese. (2) Ambient background noise from a large crowd and room reverb transitions as the audio captures a distant male voice speaking English through a PA system in a large hall. (3) A consistent, low-volume upbeat electronic background music track plays throughout the narration. (4) The creator's voice returns to a dominant volume to conclude the review.",
+      "text_narrative_log": "(1) Functional Text: '如果你要參加一場英文演講的話' (If you want to attend an English speech). (2) Decorative/Hook Text: 'AirPods Pro 3 雙向翻譯' (AirPods Pro 3 Two-way translation). (3) Functional Text: Real-time translation results on the smartphone screen translating financial English to Chinese. (4) Hook Text: '翻譯率有達到 85%' (Translation rate reached 85%)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 9.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Field Demonstration -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 50,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main creator, 1 speaker on stage, and a large crowd of attendees in the dark auditorium.",
+      "mainCharacterDescription": "A male wearing a gray newsboy cap, rectangular glasses, a white T-shirt with a Pikachu graphic, and a yellow 'BINANCE' lanyard."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Conference Hall"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A yellow studio-like background with repetitive Binance logos, and a dark large-scale auditorium with professional stage lighting and LED screens.",
+      "lightingStyle": "Mixed: Studio front-lighting and auditorium stage lighting.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm and Vibrant",
+      "cameraWork": [
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "AirPods Pro",
+        "LED Screen"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "BINANCE",
+        "Apple",
+        "Pokémon"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 10,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd"
+      ],
+      "audioQuality": "Mixed"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Demonstration -> Results Summary",
+      "mainPurpose": "The video is a practical tech review demonstrating the real-time translation capabilities of AirPods Pro during a live conference. The creator provides a 'field test' at a Binance event to show how the device effectively translates English speeches for Chinese-speaking users, concluding with a performance score of 85% accuracy.",
+      "visualEmotion": "Curious and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The creator demonstrates the specific utility of a branded product (AirPods Pro) in a high-value scenario and gives a positive recommendation based on a specific performance metric.",
+      "endorsementObject": [
+        "Apple",
+        "AirPods Pro"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The creator uses a signature casual-tech style, combining enthusiast gear (Binance lanyard) with a recognizable Pikachu T-shirt.",
+      "freeDescribe": "The video effectively utilizes Picture-in-Picture (PiP) to show the creator using the product while simultaneously showing the translation app results, increasing credibility."
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "videoName": "yga0721-20250806115252-1380261233365490.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 81.3,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Financial Commentary"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "New Taipei",
+          "Taichung"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a man sitting on a brown leather sofa in a studio setting, holding a stack of papers and speaking energetically. He wears a black t-shirt and white pants. (2) He gestures with his hands and claps them together while looking at the camera. (3) The scene cuts between him and a woman sitting next to him on the same sofa; she has long black hair and wears a grey overshirt, listening intently and occasionally speaking. (4) Close-up shots of the man's facial expressions show him transitioning from excitement to a humorous look of despair as he reveals financial figures. (5) Throughout the video, they are in a well-lit indoor space with bookshelves, Bearbrick figurines, and a Lawson Station sign in the background.",
+      "audio_narrative_log": "(1) A male voice speaks rapidly and with high energy, narrating a financial summary. Upbeat, rhythmic background music with a steady electronic beat plays throughout. (2) Frequent sound effects are heard, including rhythmic clapping, sharp 'ding' sounds coinciding with text appearances, and a 'boing' meme sound effect. (3) A female voice enters intermittently, providing supplementary information in a calm but engaged tone. (4) The overall audio is clear studio-quality recording with minimal ambient noise.",
+      "text_narrative_log": "(1) Functional and hook text appears in yellow and white boxes: '新北法拍獲得 101100元' (New Taipei auction gain 101100 yuan), expressing a factual reporting tone. (2) Followed by '新北鑑價費 103200元' (New Taipei valuation fee 103200 yuan). (3) Dramatic hook text '我們倒賠 2100元' (We lost 2100 yuan) appears with an emphasis on the loss. (4) A list of additional costs appears sequentially: '不包含 查封的費用' (Doesn't include seizure fees), '員警車馬費' (Police travel fees), '鎖匠的費用' (Locksmith fees), '律師費' (Lawyer fees), and '人力成本' (Labor costs). (5) Final summary text '負 4700塊' (Negative 4700 dollars) is shown prominently to highlight the final outcome."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.5,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro to financial breakdown -> Itemized cost listing -> Final loss summary and commentary"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Upper body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male creator holding papers, 1 female collaborator sitting beside him",
+      "mainCharacterDescription": "The man has short brown hair, wearing a black crew-neck t-shirt and white trousers. The woman has long dark hair, wearing a black inner shirt and a grey striped button-down shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern indoor studio with a brown leather sofa, white brick-patterned wall, a wooden table with papers and a phone, and shelves containing pop-culture collectibles like Bearbrick figures and a Lawson sign.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm and Vibrant",
+      "cameraWork": [
+        "Static",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "LAWSON STATION",
+        "BE@RBRICK"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "Moderate",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Vlog Style",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Clapping",
+        "Ding",
+        "Meme SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence (Cost Breakdown) -> Conclusion",
+      "mainPurpose": "The video serves as a comedic yet informative financial 'post-mortem' of a legal auction experience. It aims to entertain the audience by showing the discrepancy between the perceived gain of an auction and the actual net loss after accounting for various hidden administrative, legal, and labor costs, using a fast-paced vlog style to keep engagement high.",
+      "visualEmotion": "Energetic and Lighthearted"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The content focuses on personal financial experiences rather than promoting a specific product.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy fast talking, variety-show style text overlays, and visible 'Lawson' and 'Bearbrick' studio props.",
+      "freeDescribe": "The video uses typical 'variety show' editing techniques common in East Asian YouTube vlogs to make mundane financial data more engaging."
+    }
+  }
+}

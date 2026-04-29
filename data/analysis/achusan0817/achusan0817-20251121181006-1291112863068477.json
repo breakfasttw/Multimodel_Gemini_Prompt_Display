@@ -1,0 +1,180 @@
+{
+  "videoName": "achusan0817-20251121181006-1291112863068477.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 81.3,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Animation",
+        "Comedy",
+        "Short Film",
+        "Advertisement"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a 2D animation. A bald male animator character sits at a laptop, looking frustrated and rubbing his eyes while working. (2) He looks up to a small thought bubble containing his senior character, then prays with closed eyes to a decorated Christmas tree in the corner. (3) He wakes up the next morning and finds himself rendered as a minimalist stick figure with a huge head. (4) He interacts with his 'Senior' character, who has been reduced to a simple beige blob shape. (5) A 'Mom' character, depicted as a stick figure, brings a plate of small, colorful snacks. (6) The animation transitions to real-life footage of cream-filled cookies, with animated snack characters and the creator's stick figure overlaid to explain the product features. (7) Product packaging and a holiday-themed carrier are shown.",
+      "audio_narrative_log": "(1) Fast-paced, high-pitched male vocals speaking in a complaining tone, accompanied by bright, energetic MIDI-style background music. (2) A magical 'shimmer' sound effect occurs as the character prays. (3) Audio transitions to a silent morning scene followed by a loud 'yawn' and a sharp, sudden alarm-like sound effect. (4) The character's voice becomes exaggerated and high-pitched in shock. (5) Multiple high-pitched, squeaky voices representing the snacks speak in a chorus. (6) The music shifts to a rhythmic, commercial-style jingle as a clear, professional male voiceover describes product flavors and promotional offers.",
+      "text_narrative_log": "(1) '最近動畫越畫越慢' (Recently animation is getting slower and slower) - Functional. (2) '閉嘴啦!' (Shut up!) - Decorative/Humorous. (3) '隔天早上' (The next morning) - Functional/Transition. (4) '學長變成一團肉了' (Senior turned into a ball of meat) - Decorative. (5) '芙菲小圓餅聖誕限定新包裝' (Soufflé Small Round Cookies Christmas Limited New Packaging) - Functional/Promotion. (6) '小熊菓子' (Bear Bakery) - Functional/Brand Name."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 26,
+      "averageSceneDuration": 3.12,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Narrative intro -> Magical transformation -> Comedic interaction -> Product reveal and demonstration"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male animator, 1 male senior character, 1 female mom character (all animated).",
+      "mainCharacterDescription": "An animator character initially drawn with standard details, later transformed into a stick figure with a large oval head."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Bedroom",
+          "Indoor Study",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Minimalist domestic settings including a desk with a laptop, a bedroom floor, and a doorway, plus a clean studio background for product shots.",
+      "lightingStyle": "Flat, bright animated lighting; Studio lighting for product footage.",
+      "weather": "None",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Cookies",
+        "Dessert",
+        "Cream"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Laptop"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "小熊菓子",
+        "BEAR BAKERY"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut, Sound effect transitions",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 3,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Comedic, Excited, Promotional",
+        "pitch": "High-pitched",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Magic chime",
+        "Alarm",
+        "Meme sounds"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear -> Hook -> Product Integration: The story follows a chronological progression where an animator's wish for speed results in a stylistic simplification that conveniently mirrors the shape of the product being advertised.",
+      "mainPurpose": "The video is a humorous advertisement for 'Bear Bakery' (小熊菓子) Soufflé Small Round Cookies. It uses a self-deprecating narrative about the difficulties of animation production to segue into a promotion for a Christmas-themed snack package, emphasizing convenience and flavor.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct display of product packaging, brand logos, and a specific promotional call-to-action regarding Christmas packaging.",
+      "endorsementObject": [
+        "小熊菓子"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Self-caricatured animator character, fast-paced comedic dialogue, meta-commentary on animation.",
+      "freeDescribe": "The video leverages the influencer's established 2D animation style to create a seamless transition between entertainment and advertising."
+    }
+  }
+}

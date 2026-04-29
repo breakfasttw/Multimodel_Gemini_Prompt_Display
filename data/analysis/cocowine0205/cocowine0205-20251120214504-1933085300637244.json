@@ -1,0 +1,178 @@
+{
+  "videoName": "cocowine0205-20251120214504-1933085300637244.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 60,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens in a brightly lit Costco warehouse; a woman with long dark hair, wearing a white long-sleeved top and a black skirt, is browsing the bakery section. (2) She picks up a plastic container of large breads; a hand from an off-screen person appears to point at the product and then places a palm next to the bread to demonstrate its large size. (3) The scene transitions to an indoor apartment setting where two women are seated at a table; they hold up pieces of the bread, tearing them open to reveal the meat floss and cheese filling, and proceed to eat and react to the taste.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music plays throughout. An energetic male voice-over begins immediately, commenting on the woman looking at bread. (2) As the scene focuses on the product, the male narrator describes the combination of meat floss and cheese, mentioning the price and the size of the portion. (3) When the scene shifts indoors, the voices of two females are heard talking about the taste and texture (salty, fragrant), while the male narrator continues to provide a summarized commentary on their experience and the product's value.",
+      "text_narrative_log": "(1) Functional Text: \"又在看麵包\" (Looking at bread again) - Humorous observation. (2) Decorative Text: \"肉鬆加起司\" (Meat floss plus cheese) - Identification of ingredients. (3) Hook Text: \"罪惡組合 肉鬆起司麵包 3入299\" (Guilty combo, Meat floss cheese bread, 3 for 299) - Promoting the deal. (4) Effect Text: \"鹹鹹香香\" (Salty and fragrant) - Taste description. (5) Effect Text: \"太大份了!\" (Too big portion!) - Emphasis on the quantity."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 5.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro in store -> Product close-up and price check -> Indoor tasting and final review."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator in store, 1 male shopper in background, 2 females seated at table in second half, 1 off-screen hand.",
+      "mainCharacterDescription": "A woman with long black hair wearing a white puff-sleeve top and a black midi skirt; another woman in the second half wearing a yellow striped shirt and a red bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse Store",
+          "Indoor Dining Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A typical Costco warehouse with high shelves and shopping carts; later a home dining area with a table and soft interior lighting.",
+      "lightingStyle": "Bright commercial lighting and warm indoor lighting.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Follow shot",
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Bread",
+        "Meat Floss",
+        "Cheese"
+      ],
+      "trafficDetect": [
+        "Shopping cart"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "KANGOL"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with music sync",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and conversational",
+        "pitch": "Varied",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Store background chatter"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Detail -> Evidence -> Conclusion",
+      "mainPurpose": "The video aims to review a specific bakery item from Costco (Meat Floss and Cheese Bread) by showing its physical size, price point, and internal texture while providing a subjective taste test to inform viewers whether it is worth the purchase.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed display of product price, brand logo (Costco), and positive reaction to tasting.",
+      "endorsementObject": [
+        "COSTCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-speed Mandarin narration paired with fast-cut editing and colorful variety-show style text overlays.",
+      "freeDescribe": "The video follows a popular short-form 'shopping haul' or 'food find' format, leveraging the popularity of Costco products in East Asian markets."
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "videoName": "1105ya-20251120182503-1529386141498084.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 23,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle",
+        "Celebrity Encounter"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The scene opens in a crowded indoor commercial area with neon signage. A group of people is standing near a counter. (2) A woman in a denim jacket is seen talking excitedly with a friend in a black top and white skirt; they are gesturing towards a blonde woman standing behind the counter. (3) The woman in the white skirt interacts with the blonde woman, appearing very nervous yet happy, covering her mouth and laughing. They perform hand gestures like hearts and peace signs for photos. (4) The video concludes with a series of still photos showing the three women posing together, followed by a black screen with text.",
+      "audio_narrative_log": "(1) The audio begins with an upbeat pop song featuring female vocals and a steady beat; background noise includes muffled crowd chatter and distant echoes of a public space. (2) The sound of several females laughing and speaking in high-pitched, excited tones becomes more prominent. (3) The background music transitions to a softer, melodic piano-led arrangement while the sounds of laughter and expressive exclamations continue. (4) The volume of both the music and the ambient laughter gradually fades out towards the end.",
+      "text_narrative_log": "(1) \"當你朋友帶妳去追星\" - Hook title: When your friend takes you to meet a celebrity. (2) \"(緊張的小手手)\" - Decorative: Nervous little hands. (3) \"她很喜歡妳\" - Functional: She really likes you. (4) \"超級緊張！！！\" - Emotional: Super nervous!!! (5) \"從高中就喜歡到現在\" - Functional: Liked her since high school. (6) \"太幸福了我\" - Emotional: I'm so happy. (7) \"終於親口跟她說我一直都很喜歡她\" - Functional: Finally told her in person that I've always liked her. (8) \"謝謝咩豬豬帶我去合照\" - Functional: Thanks to Mie Zhu Zhu for taking me for a photo. (9) \"葛瑞瑞是我一直很喜歡的人\" - Functional: Grace is someone I've always liked. (10) \"真的超開心！！\" - Emotional: Really super happy!! (11) \"妳好漂亮 (忍不住告白)\" - Emotional: You are so beautiful (couldn't help but confess). (12) \"追星成功\" - Functional: Successful celebrity meeting."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro/Context -> Interaction/Meeting -> Emotional Climax -> Photo Montage"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 12,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 10,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "3 main women in focus, with at least 9 other individuals visible as staff or customers in the background.",
+      "mainCharacterDescription": "One woman wears a denim jacket; another wears a black long-sleeved top and a white ruffled mini-skirt; the third woman (the celebrity) has blonde hair and wears a black top and jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Bar",
+          "Shopping Mall",
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern indoor commercial venue with 'ATT 4 FUN' signage, neon lights, a counter area with drinks and menus, and various passers-by.",
+      "lightingStyle": "Mixed indoor lighting with neon accents and warm overhead lights.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Handheld",
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Cocktails",
+        "Drinks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "ATT 4 FUN"
+      ],
+      "brandLogos": [
+        "ATT 4 FUN",
+        "wps"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 5,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 4,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, high-pitched, giggly, and joyful",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking and laughter",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Pop and Melodic Piano",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Keyboard",
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Piano",
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd chatter",
+        "Indoor echo"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Build-up -> Climax -> Resolution",
+      "mainPurpose": "The video documents a fan's emotional and successful encounter with a Taiwanese celebrity/influencer named Grace (葛瑞瑞). It captures the journey from the nervous anticipation of meeting an idol to the joyful realization and final commemorative photos, emphasizing friendship and fan culture.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "While brands and locations are visible, the focus is entirely on the personal interaction between the fan and the celebrity.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Heavy use of variety-show style text overlays expressing inner thoughts; transition from video to still photos.",
+      "freeDescribe": "The video exemplifies 'stan culture' or 'fandom' in East Asian social media, where meeting an influencer is portrayed as a significant life milestone."
+    }
+  }
+}

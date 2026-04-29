@@ -1,0 +1,176 @@
+{
+  "videoName": "3ctim-20250628214411-913524181640893.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 34,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Tech Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a cap is talking directly to the camera in a studio setting. A large text overlay saying 'The Monkey Catching Tool is Back!' appears at the bottom. (2) Icons for 'Zenly' and 'Bump' apps appear as the man gestures. (3) The screen transitions to a recording of a mobile app showing a map with various profile icons indicating locations, followed by a demonstration of tracking history across different countries. (4) Close-ups of specific app features like battery percentage, speed monitoring, and address display are shown through screen captures. (5) The man returns to the full frame, continuing his enthusiastic speech and gesturing with his hands. (6) A final call to action screen appears with icons and text prompting downloads.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced electronic background music begins immediately. A male voice speaks in a friendly, high-pitched, and energetic tone. (2) Sound effects like 'pops' and 'dings' occur as visual icons and text overlays appear on the screen. (3) The music maintains a constant rhythm while the male narrator explains various features of the app with continuous speech. (4) A specific 'buzzing' notification sound effect is played to demonstrate an app feature. (5) The music fades slightly but continues until the end as the narrator gives a final instruction.",
+      "text_narrative_log": "(1) '抓猴神器回來了！' (The monkey-catching tool is back!) - Hook text with an excited tone. (2) '相信很多情侶啊' (I believe many couples...) - Functional subtitles. (3) 'Bump 這個名稱重新回歸' (The name Bump returns) - Functional subtitles. (4) '5個國家' (5 countries) - Decorative info text. (5) '完全免費 沒有廣告' (Totally free, no ads) - Hook/promotional text. (6) '下載吧' (Download it) - Call to action text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 3.09,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Contextual Background (Zenly) -> Product Introduction (Bump) -> Feature Demonstration -> CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male creator (Tim) is the only real person appearing on camera.",
+      "mainCharacterDescription": "A middle-aged man with short hair, wearing silver-rimmed glasses, a grey newsboy cap, a blue t-shirt, and a wooden bead bracelet on his right wrist."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A blurred indoor studio environment with soft backlighting, creating a clean focus on the main character.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and warm",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "miko",
+        "Zenly",
+        "Bump",
+        "Uber"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and persuasive",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Pop",
+        "Ding",
+        "Buzz"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> CTA",
+      "mainPurpose": "The video serves as a promotional review and tutorial for a location-sharing app called 'Bump'. It leverages the nostalgia of a former popular app (Zenly) to introduce 'Bump' as a superior, free alternative. The content details specific tracking features such as movement speed, battery life, and location history to convince users of its utility for couples or friends.",
+      "visualEmotion": "Energetic and helpful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The entire video is a focused demonstration and recommendation of the 'Bump' app by a tech influencer.",
+      "endorsementObject": [
+        "Bump"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Tim's signature newsboy cap and glasses, consistent '3ctim' and 'miko' branding in the corners.",
+      "freeDescribe": "The use of the term '抓猴' (catching a monkey/cheating partner) is a specific cultural hook in Taiwan used to grab attention for privacy or tracking tools."
+    }
+  }
+}

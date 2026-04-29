@@ -1,0 +1,178 @@
+{
+  "videoName": "602avenue-20250901215730-933534402456325.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 59,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Review",
+        "Mukbang"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman sits in the rear seat of a car, holding two fruit-shaped ice cream containers (lemon and strawberry) and speaking excitedly to the camera. (2) She introduces a second woman next to her who is holding a small white dog. (3) She opens the strawberry-shaped sorbet and takes several bites, showing a delighted facial expression. (4) She feeds a spoonful to the older woman beside her. (5) She switches to the lemon-shaped sorbet, biting into it and squinting her eyes due to the sourness. (6) The older woman tries the lemon sorbet as well. (7) The main creator continues eating and talking until the end of the clip.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop music begins immediately. A young female voice speaks in an energetic, high-pitched tone. Ambient sounds of a moving vehicle are audible but muffled. (2) Music continues as a second female voice enters briefly. Sound of rustling plastic packaging is heard as she opens the product. (3) Crunching and eating sounds are present alongside the constant BGM. Occasional 'ding' sound effects are used to punctuate specific text appearances. (4) The main female voice maintains a high speech density, concluding with an enthusiastic sign-off while the music fades out slightly.",
+      "text_narrative_log": "(1) '🇰🇷韓國便利商店爆紅的水果雪酪' - Hook: Popular fruit sorbet from Korean convenience stores. (2) '這是草莓口味🍓' - Functional: This is strawberry flavor. (3) '大家猜猜看一個多少錢？' - Hook: Guess how much for one? (4) '很好吃!!!' - Decorative: Very delicious! (5) '價格公開: 4000多韓幣, 107元台幣' - Functional: Price reveal: over 4000 KRW, 107 TWD. (6) '太貴了!' - Decorative: Too expensive! (7) '檸檬口味' - Functional: Lemon flavor. (8) '好酸' - Decorative: So sour. (9) '有人吃過這個嗎?!' - Hook: Has anyone eaten this?!"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.68,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Strawberry Tasting -> Pricing Discussion -> Lemon Tasting -> Final Review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Face",
+        "Hands",
+        "Upper body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main female creator and 1 female passenger (mother) in the back seat.",
+      "mainCharacterDescription": "Young woman with brown hair tied in a braid, wearing a pink floral pattern dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Car Interior"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The interior of a modern car with black leather seats and a seatbelt visible. Sunny outdoor scenery is visible through the window.",
+      "lightingStyle": "Natural daylight",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "Korean",
+          "Emojis"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Handheld",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Dog"
+      ],
+      "foodsDetect": [
+        "Sorbet",
+        "Ice Cream",
+        "Fruit-shaped dessert"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese",
+          "Korean"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Road Noise"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Product Intro -> Experience -> Pricing -> Secondary Product -> CTA",
+      "mainPurpose": "To provide a lifestyle-based product review of trendy Korean convenience store snacks, emphasizing personal reaction and value for money for a Chinese-speaking social media audience.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The creator discusses the difficulty of finding the product (sold out) and asks viewers to guess the price, which typically indicates an organic review rather than a paid placement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Heavy use of dynamic Chinese text overlays and emoji stickers characteristic of Taiwanese or Mainland Chinese short-form vlogs.",
+      "freeDescribe": "The presence of the mother and the pet dog adds a 'relatable' family-vlog element that likely increases audience engagement and trust in the review."
+    }
+  }
+}

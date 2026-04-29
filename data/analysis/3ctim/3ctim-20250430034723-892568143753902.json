@@ -1,0 +1,179 @@
+{
+  "videoName": "3ctim-20250430034723-892568143753902.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 33,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Relationship"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man in a blue puffer jacket and a flat cap stands next to a woman in a yellow jacket. She gestures to the camera while talking. (2) The man speaks with a suggestive expression, rubbing his hands together. (3) They attempt a static electricity challenge by rubbing their arms vigorously and then trying to touch index fingers. (4) They rub their backs against each other while standing in a living room area. (5) They attempt to touch fingers again but no reaction occurs. The woman walks away disappointed. (6) A different young woman in a grey cardigan enters a white-walled room, expressing surprise. (7) She and another individual (only arms visible) rub their backs against a wall and then touch fingers, resulting in a visual spark graphic.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo background music starts. A woman's voice is high-pitched and energetic, followed by a man's lower-toned, playful voice. (2) Rapid friction sounds (rubbing clothes) are heard over the music. (3) Sounds of laughter and playful exclamations. (4) A transition sound effect (swoosh) leads to a different female voice speaking excitedly. (5) Friction sounds repeat. (6) A sharp 'ding' or electricity spark sound effect plays at the end, accompanied by a final call to action in a female voice.",
+      "text_narrative_log": "(1) 想知道我們結婚10年 (Want to know our 10 years of marriage) - Hook text. (2) 都如何保持愛的火花嗎? (How to keep the spark of love?) - Hook text. (3) 用摩擦! (By friction!) - Suggestive joke text. (4) 18禁 (18+) - Humorously warning graphic. (5) (傻眼) (Dumbfounded) - Reaction sticker. (6) 沒有啊!? (Nothing!?) - Confused tone. (7) 10年了! 不來電了! (10 years! No more spark!) - Disappointed realization. (8) 怎麼可能!! 我們來試看看! (How is it possible!! Let's try!) - Transition hook. (9) 趕快來試試看吧! (Come and try it quickly!) - Call to action."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Failed Experiment (Long-term couple) -> Successful Experiment (Younger person) -> CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 man (Tim), 1 woman (Wife) in the first half; 1 young woman in the second half; 1 person with only back/arm visible during the successful spark.",
+      "mainCharacterDescription": "A middle-aged man with glasses and a grey flat cap; a woman with long hair in a bright yellow puffer jacket; a young woman with long hair in a grey cardigan."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene is a furnished interior with a green rug and modern art; second scene shows studio lighting equipment (softbox); third scene is a plain white wall.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Indoor",
+      "season": "Winter (inferred from heavy jackets)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Studio light",
+        "Tripod",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "3c有意思tim哥",
+        "NiceFoto"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, humorous, and high-pitched",
+        "pitch": "Varied (Low male, high female)",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Electricity spark",
+        "Swoosh",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Comedic Failure -> Proof of Concept -> CTA",
+      "mainPurpose": "This video is a lighthearted social media challenge designed to engage viewers through humor. It uses the metaphor of 'static electricity' to joke about the lack of 'spark' in a 10-year marriage compared to a younger person, ultimately encouraging viewers to try the static electricity experiment themselves.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "Watermarked social media handles for the creator's channel.",
+      "endorsementObject": [
+        "3c有意思tim哥"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Tim's energetic intro and the use of variety-show style subtitles.",
+      "freeDescribe": "The video leverages a trending physical challenge (static electricity) to create relatable relationship content."
+    }
+  }
+}

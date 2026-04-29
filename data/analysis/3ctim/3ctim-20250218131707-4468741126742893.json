@@ -1,0 +1,178 @@
+{
+  "videoName": "3ctim-20250218131707-4468741126742893.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 53,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Product Promotion"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A hand holds a mint green ASUS ZenFone 12 Ultra with a golden crown icon and 'CP Value King' text overlay. (2) Three phones in pink, black, and mint green are shown on a desk. (3) Close-ups of the camera module showing '50MP OIS' text. (4) A female model runs in a park at night to demonstrate camera stabilization. (5) Screen recordings show AI object removal on a teddy bear, AI bokeh, noise reduction demo, and AI-generated text summaries. (6) A technical specs page appears listing Snapdragon 8 Elite and 16GB RAM. (7) Final shot shows the three phones standing together.",
+      "audio_narrative_log": "(1) Upbeat, energetic electronic background music starts immediately with a male narrator speaking enthusiastically in Mandarin. (2) Ambient sounds of footsteps and night-time park noise are heard during the stabilization demo. (3) BGM continues with high-energy rhythm as technical specifications are listed. (4) Narrator's tone remains professional and persuasive throughout the video.",
+      "text_narrative_log": "(1) '3c有意思tim哥' (Brand Identity). (2) 'CP 值之王 ZenFone' (Hook text - Tone: Exciting). (3) '帶著 AI 回來嚕!' (Hook text - Tone: Enthusiastic). (4) 'Zenfone 12 Ultra 大改形象' (Functional - Informative). (5) '六軸防手震雲台 4.0' (Functional - Technical). (6) AI features labels: '智慧消除', '錄音筆記', '文章摘要' (Functional). (7) Specs: 'Snapdragon 8 Elite', '16GB', '5500mAh', '65W 快充' (Functional)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 1.89,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Visual Showcase -> Performance Demo -> Technical Specs -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Full body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male creator (hand only), 1 female model appearing in camera demos.",
+      "mainCharacterDescription": "Male creator shown only by his hands holding the product; female actress in park demo wearing a beige sweater and jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Outdoor Park"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "An indoor studio desk with soft purple/pink ambient lighting and an outdoor park environment at night with artificial lights.",
+      "lightingStyle": "Mixed: Professional studio lighting for product shots and natural/street lighting for outdoor night demos.",
+      "weather": "Clear",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Motorcycle"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "ASUS",
+        "ZenFone",
+        "Snapdragon"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and professional",
+        "pitch": "Medium-high",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Lo-fi",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Traffic",
+        "Outdoor night"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Feature Highlight -> Comparative Demo -> Spec Summary -> CTA",
+      "mainPurpose": "To showcase and promote the ASUS ZenFone 12 Ultra by highlighting its flagship specifications, particularly its AI-enhanced camera stabilization, noise reduction, and productivity tools, targeting consumers who value high performance-to-price ratios.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product feature review with branding and purchase-influencing hooks like 'CP Value King'.",
+      "endorsementObject": [
+        "ASUS"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3C Tim哥 (3c有意思tim哥) personal branding watermark and voice.",
+      "freeDescribe": "Professional tech influencer content with high density of technical jargon and rapid-fire feature demonstrations."
+    }
+  }
+}

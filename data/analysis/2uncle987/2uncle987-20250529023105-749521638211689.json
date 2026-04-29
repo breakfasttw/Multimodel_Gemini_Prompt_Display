@@ -1,0 +1,174 @@
+{
+  "videoName": "2uncle987-20250529023105-749521638211689.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 26,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Skit",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in her 20s enters through a wooden door into a brightly lit room. She carries a stylish transparent umbrella and a black crossbody bag, wearing a white crop top and a denim skirt. She looks confident and poses as if walking a runway. (2) A woman in her 30s enters wearing a colorful polka-dot raincoat. She frantically tries to take it off without getting the floor wet, looking stressed and checking herself in a mirror. (3) A man in his 40s enters carrying a helmet and a wet raincoat, looking disgruntled and messy. He tosses his gear aside with a look of annoyance. (4) An older man in his 50s/60s enters wearing a helmet and the same polka-dot raincoat, looking completely drenched and exhausted. He struggles with his wet clothing, and the video ends with a close-up of his miserable expression.",
+      "audio_narrative_log": "(1) Upbeat, energetic electronic background music plays. A female voice speaks in a lively, slightly mocking tone about being in one's 20s. (2) Music continues as a different female voice speaks with a more hurried and stressed tone, accompanied by the rustling sound of plastic fabric and objects being moved. (3) The music stays consistent but a male voice enters with a deeper, grumpier tone, expressing frustration. (4) The audio transitions to a mix of Mandarin and Hokkien. An older male voice complains about being wet, with the background music remaining at a steady, driving tempo.",
+      "text_narrative_log": "(1) Top center hook: 'States of different ages when it rains'. (2) Phase labels: 'Age in 20s', 'Age in 30s', 'Age in 40s', 'Age in 50s'. (3) Decorative/Effect text: 'Messy level 25%', 'Messy level 50%', 'Messy level 75%', 'Messy level 100%'. (4) Descriptive captions: 'Is the umbrella for decoration?', 'Must keep everything nice', 'Bad mood, don't want to care about anything', 'Wet but still won't take it off?'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 5,
+      "averageSceneDuration": 5.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> 20s fashion show -> 30s cleaning panic -> 40s grumpy arrival -> 50s total exhaustion/misery"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 4,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "Four distinct actors appearing sequentially to represent different age groups: one young woman, one mid-adult woman, one mid-adult man, and one older man.",
+      "mainCharacterDescription": "A variety of characters from a trendy 20s woman in fashion clothing to an older man in full rain gear and motorcycle helmet."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern indoor room featuring a large white chest of drawers, a wooden door, a clothes rack with various garments, and a light-colored wood-textured floor.",
+      "lightingStyle": "Bright, even indoor studio lighting.",
+      "weather": "Indoor (simulating post-rain conditions)",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Varied from cheerful/energetic to frustrated and tired",
+        "pitch": "Mixed",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Hokkien"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Rustling",
+        "Object Thud"
+      ],
+      "ambientNoise": [
+        "Indoor quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Intro -> Age 20 -> Age 30 -> Age 40 -> Age 50+",
+      "mainPurpose": "The video is a comedic skit designed to satirize how people's priorities and physical states change with age when dealing with rainy weather. It uses a progression of four characters to show a shift from 'fashion over function' in youth to 'exhausted survival' in older age. The core appeal lies in the relatable humor of aging and the deteriorating grace one has when coming home from the rain.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Progression based on age labels, use of 'messy level' percentages, mixing Mandarin and Hokkien for cultural resonance.",
+      "freeDescribe": "The video effectively uses visual archetypes and relatable domestic settings to create a quick, engaging piece of social media humor centered on common life experiences."
+    }
+  }
+}

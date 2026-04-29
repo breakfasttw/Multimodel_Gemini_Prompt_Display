@@ -1,0 +1,178 @@
+{
+  "videoName": "yga0721-20251019035212-914954481483519.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 243,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Music Cover",
+        "Podcast Reaction"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The screen is split horizontally into two main sections. The top section features a man and a woman in a room filled with figurines and professional podcast equipment, including microphones on boom arms. (2) The bottom section displays a music video featuring a blonde-haired man and a woman with pink hair in various cinematic settings: a room with moving boxes, a dark bedroom, and a brightly lit concert stage. (3) The man in the top section sings with eyes closed and expressive hand gestures, while the characters in the music video exhibit emotional interactions and solo performances on stage.",
+      "audio_narrative_log": "(1) The audio begins with a gentle piano intro followed immediately by a male voice singing in a breathy, emotional tone characteristic of Yoga Lin. (2) The soundscape expands with the addition of acoustic guitar strumming as the vocals become more powerful and reach higher pitches during the chorus. (3) Intermittent reactions, such as soft laughter or brief verbal cues from a female voice, occur over the music. (4) The song concludes with a slow piano fade and a brief spoken interaction.",
+      "text_narrative_log": "(1) Functional Text: Subtitles for the lyrics appear at the bottom center of the frame throughout the video. (2) Decorative/Hook Text: Top text 'POV：當你以為林宥嘉本人在唱？' sets a high expectation hook. (3) Decorative/Hook Text: Middle text '(其實是嘎哥在podcast直播時的模仿)' provides context and the 'twist'. (4) Functional Text: A sidebar on the right side of the top frame displays a vertical scrolling live chat feed with viewer comments."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 45,
+      "averageSceneDuration": 5.4,
+      "isNarrativeShift": false,
+      "mainActionFlow": "The video maintains a consistent split-screen presentation of a live vocal imitation synced with the original music video visuals."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Upper body",
+        "Full body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 people in the podcast frame, 2 actors in the music video frame.",
+      "mainCharacterDescription": "The main creator (top) wears glasses and a black and white baseball-style shirt. The character he is imitating (bottom) has dyed blonde hair and wears a white shirt or a dark suit depending on the scene."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor Apartment",
+          "Concert Stage"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A densely decorated studio with shelves of toys and figurines; an apartment interior with cardboard boxes and minimal furniture; a dark stage with multiple vertical spotlights.",
+      "lightingStyle": "Mixed: Bright studio lighting (top) and cinematic low-key lighting with spotlights (bottom).",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Emoji"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Cinematic and slightly muted in the music video section; natural and bright in the podcast section.",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "Headphones",
+        "Computer monitor"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "Acoustic Guitar",
+        "Microphone"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Smooth cross-fades between the live recording and the music track.",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Emotional, breathy, and imitative.",
+        "pitch": "Variable, including a strong falsetto and resonant chest voice.",
+        "loudness": "Dynamic",
+        "speed": "Normal",
+        "speechDensity": "Continuous singing",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Pop Ballad",
+      "bgmBPM": 75,
+      "instrumentFamiliesAudible": [
+        "Keyboard",
+        "Strings",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Piano",
+        "Acoustic Guitar"
+      ],
+      "musicSourceType": [
+        "Cover"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Vocal Demonstration -> Climax -> Outro",
+      "mainPurpose": "The video aims to entertain by demonstrating the impressive vocal imitation skills of a popular creator. By overlaying his live podcast performance on the original artist's music video, it invites the audience to compare the two and appreciate the accuracy of the cover.",
+      "visualEmotion": "Sentimental and Focus-driven"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of the creator's nickname 'Gaga' (嘎哥) and the signature podcast setup environment.",
+      "freeDescribe": "The video effectively uses the split-screen format to validate the audio imitation with high-production visual context from the original music video."
+    }
+  }
+}

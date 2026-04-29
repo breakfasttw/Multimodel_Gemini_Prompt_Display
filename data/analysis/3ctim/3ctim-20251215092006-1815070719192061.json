@@ -1,0 +1,181 @@
+{
+  "videoName": "3ctim-20251215092006-1815070719192061.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 63,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Product Comparison"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man (Tim) with glasses and a grey flat cap speaks directly to the camera in a studio setting. (2) Two action cameras are displayed side-by-side on a textured surface. (3) The screen splits horizontally to compare night-time footage of a city street and alleyway. (4) Split-screen footage shows a first-person perspective of running up outdoor stairs to demonstrate image stabilization. (5) Close-up shots show the screens and battery compartments of the DJI and Insta360 cameras on a wooden table. (6) A demonstration of pairing the camera with a wireless microphone is shown on a screen. (7) A woman in a black jacket and purple mask stands outdoors by a road, speaking and gesturing to test the audio quality.",
+      "audio_narrative_log": "(1) A male voice speaks clearly in Mandarin with an upbeat and professional tone. (2) A modern, rhythmic electronic background track begins and remains constant. (3) During field test clips, the male voice continues narration, but faint sounds of wind and outdoor city ambiance (traffic) are introduced. (4) A female voice enters the audio track during the outdoor test, comparing sound quality with and without a dedicated microphone. (5) The audio transitions between high-clarity studio recording and field recording with varying levels of wind noise.",
+      "text_narrative_log": "(1) '沒有比較，就沒有傷害' (No comparison, no harm) appears as a large hook title. (2) '3c有意思tim哥' and social media handles remain as a persistent watermark. (3) '(DJI Action 5)' and '(Insta360 Ace Pro 2)' appear as functional labels during split-screen comparisons. (4) '首款可調式光圈' (First adjustable aperture), '防手震能力' (Stabilization ability), and '電池續航力' (Battery life) appear as bold, decorative headers for different segments. (5) '有麥克風' (With mic) and '無麥克風' (Without mic) serve as functional labels during the audio test."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Studio Intro -> Night Quality Comparison -> Stabilization Test -> Battery & Feature Specs -> Audio Quality Demo -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Head and shoulders",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male host (Tim) in studio, 1 female assistant in outdoor demo segments.",
+      "mainCharacterDescription": "Middle-aged male with glasses, wearing a grey/black flat cap and a black cardigan over a white undershirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "Urban"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A clean, blue-grey studio background; a night-time city sidewalk with wet tiles; a set of outdoor concrete stairs; a light-colored wooden table with green plants.",
+      "lightingStyle": "Bright studio lighting and naturalistic night-time city lighting.",
+      "weather": "Night / Cloudy (Wet ground suggests recent rain)",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV",
+        "Split-screen"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Motorcycle"
+      ],
+      "techDetect": [
+        "Action Camera",
+        "Wireless Microphone",
+        "Screen"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "DJI",
+        "Insta360",
+        "Leica"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut between studio and field audio with some cross-fading BGM.",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and professional",
+        "pitch": "Mid-range",
+        "loudness": "Clear and balanced",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat / Techy Electronic",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Medium",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Traffic",
+        "Wind"
+      ],
+      "audioQuality": "Studio / Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature 1 -> Feature 2 -> Feature 3 -> Summary",
+      "mainPurpose": "To provide a direct, technical comparison between the DJI Action 5 and Insta360 Ace Pro 2 cameras, highlighting strengths in night recording, battery life, and audio connectivity to inform potential buyers.",
+      "visualEmotion": "Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct review and feature highlight of specific newly released brand products.",
+      "endorsementObject": [
+        "DJI",
+        "Insta360"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host's signature flat cap and '3c有意思' channel branding.",
+      "freeDescribe": "Typical high-production-value tech influencer content focusing on hardware specifications and real-world performance tests."
+    }
+  }
+}

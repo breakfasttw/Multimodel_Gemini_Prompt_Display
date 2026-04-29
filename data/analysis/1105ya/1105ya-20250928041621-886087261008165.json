@@ -1,0 +1,173 @@
+{
+  "videoName": "1105ya-20250928041621-886087261008165.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 10,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Interaction"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The camera pans past a blue shopping cart in an indoor food court, focusing on a young woman in a pink strapless dress sitting at a table and eating. (2) As the camera approaches her, she looks up from her food, holding a fork, and displays a surprised but polite expression. (3) She maintains eye contact with the camera/videographer and speaks with a slight smile and curious head tilt.",
+      "audio_narrative_log": "(1) A loud, high-pitched female exclamation 'Ah!' is heard, followed by upbeat, electronic background music. (2) A male voice speaks excitedly in Mandarin, asking if the person is 'Yuan Yuan' amidst a noisy public atmosphere. (3) The male voice asks if he can get to know her; a female voice responds with a gentle, questioning tone saying 'Ren shi?' (Get to know?).",
+      "text_narrative_log": "(1) '啊！！' (Ah!!) - Enthusiastic hook text. (2) '這個難道是元元嗎！！' (Could this be Yuan Yuan!!) - Decorative hook text expressing surprise. (3) '小姐妳好 請問可以認識一下嗎？' (Hello miss, may I get to know you?) - Functional text translating the speaker's request. (4) '認識？' (Get to know?) - Functional text translating the woman's response with a curious tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 10.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Discovery -> Approach -> Verbal Interaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main woman in pink, at least 3 other patrons visible at background tables, and a male hand briefly visible.",
+      "mainCharacterDescription": "A young woman with reddish-brown hair in a ponytail, wearing a pink strapless ruffled dress, sitting at a food court table."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Food Court",
+          "Warehouse Store"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A warehouse-style food court featuring white tables, metal chairs, and a blue plastic shopping cart, with blurry patrons in the distance.",
+      "lightingStyle": "Bright artificial indoor lighting",
+      "weather": "None",
+      "season": "Summer",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Fast food",
+        "Beverage"
+      ],
+      "trafficDetect": [
+        "Shopping cart"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Seamless",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 3,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited male, polite and soft-spoken female",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Exclamation"
+      ],
+      "ambientNoise": [
+        "Cafe chatter",
+        "Background noise"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Discovery -> Interaction",
+      "mainPurpose": "The video aims to create social media engagement by documenting a 'chance encounter' with a public figure (Yuan Yuan) in an everyday setting. It leverages the celebrity's charm and the creator's enthusiastic reaction to appeal to fans and curious viewers.",
+      "visualEmotion": "Energetic and Friendly"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No specific products or brands are explicitly promoted; the focus is on the personality and the social interaction.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of vibrant pink captions, first-person 'fan encounter' perspective.",
+      "freeDescribe": "The video likely targets a younger demographic interested in influencer culture and reality-style celebrity interactions."
+    }
+  }
+}

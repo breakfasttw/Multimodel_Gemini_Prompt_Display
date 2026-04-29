@@ -1,0 +1,176 @@
+{
+  "videoName": "3ctim-20260103235619-1971451643808436.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 53.0,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Concert",
+        "Performance",
+        "Music Video"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A female singer with long, wavy blonde hair and white-rimmed glasses stands on a stage in a large arena. She is dressed in a white corset-style outfit featuring fringe details, a long flowing white cape, and white lace-up boots. She holds a microphone and addresses the crowd with a calm expression. (2) Around the 0:23 mark, the singer raises her arms wide as purple and white confetti begins to rain down on the stage. She shifts from a standing position to more active movement, singing with an energetic and joyful expression. (3) As the performance continues, she turns her back to the camera, showcasing the length and flow of her cape while audience members in the background wave blue light sticks.",
+      "audio_narrative_log": "(1) A female voice speaks in Mandarin with a sincere and emotional tone. The soundscape is dominated by her voice with ambient arena noise and low-level crowd chatter in the background. No music is present. (2) At 0:23, high-energy pop-rock music begins abruptly with strong percussion and electric guitar riffs. The female speaker transitions to singing in a powerful, high-pitched tone. (3) The crowd's cheering and screaming significantly increase in volume, blending with the loud, upbeat music and the singer's vocals for the remainder of the clip.",
+      "text_narrative_log": "None"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 26.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Speech -> High-energy Musical Performance"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main female singer; a large crowd of fans is visible as light points in the background.",
+      "mainCharacterDescription": "Female with long wavy blonde hair, wearing white glasses, a white corset outfit with fringes, a long translucent white cape, and white thigh-high boots."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Arena",
+          "Stage"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A massive indoor arena filled with thousands of fans holding glowing blue light sticks. Large LED screens are visible in the distance.",
+      "lightingStyle": "Dramatic stage lighting with a follow spot on the performer and ambient blue light from the audience.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Cinematic with high contrast between the white stage outfit and the blue arena lighting.",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "LED Screens",
+        "Light sticks"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "vivo"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Emotional and sincere, then energetic and powerful",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking and singing",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Pop-rock",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Percussion",
+        "Electronic",
+        "Strings"
+      ],
+      "instrumentsAudible": [
+        "Drums",
+        "Electric Guitar",
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Live"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd cheering",
+        "Arena reverb"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Narrative -> Performance",
+      "mainPurpose": "To document and share a climactic moment from a live concert performance, emphasizing the emotional bond between the artist and her fans through a heartfelt speech followed by an energetic musical number.",
+      "visualEmotion": "Energetic and Inspiring"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Signature white stage costume and high-energy crowd interaction.",
+      "freeDescribe": "The video effectively captures the scale of the event through the use of blue light sticks in the background, creating a strong sense of atmosphere."
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "videoName": "yga0721-20250502134042-656422817530271.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 6,
+      "aspectRatio": "16:9",
+      "videoGenre": [
+        "Comedy",
+        "Parody",
+        "Short Skit"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Two men stand on an outdoor concrete platform with a fence and trees in the background; one wears a black shirt and pink patterned pants, the other an orange shirt and black patterned pants. They begin the Dragon Ball 'Fusion' dance, stepping towards each other and moving their arms in an arc. (2) They lean in with their index fingers touching as they complete the dance move. (3) A bright white visual flash effect centers on their point of contact, briefly obscuring the frame. (4) The flash clears to reveal a single man in the center of the frame dressed as a Buddhist monk in a yellow inner robe and red outer sash, holding a golden staff and striking a martial arts pose.",
+      "audio_narrative_log": "(1) Two energetic male voices shout 'Fu... sion...' in unison over quiet ambient outdoor noise. (2) The voices culminate in a loud, sharp shout of 'Ha!' accompanied by a 'whoosh' sound effect. (3) A magical, shimmering sound effect (SFX) plays during the visual transition flash. (4) The monk character makes a brief vocal grunt as he strikes his final pose, followed by the fading magical chime.",
+      "text_narrative_log": "(1) None"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Ritual performance -> Magical transition -> Reveal of the result"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 performers at the start, replaced by 1 monk performer after the edit.",
+      "mainCharacterDescription": "Two men in casual streetwear and masks initially; the final man is wearing a traditional red and yellow Buddhist monk robe and holding a monk's staff."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Platform"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "An elevated concrete platform or rooftop with a black railing, overlooking green trees and a building on a hillside in the distance under an overcast sky.",
+      "lightingStyle": "Natural light",
+      "weather": "Cloudy",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX overlap",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and shouting",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Normal",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Japanese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Whoosh",
+        "Magical shimmer",
+        "Flash bang sound"
+      ],
+      "ambientNoise": [
+        "Wind",
+        "Outdoor quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Action -> Result",
+      "mainPurpose": "A comedy parody of the Dragon Ball 'Fusion' technique where the 'fusion' results in an unexpected, humorous outcome (a Buddhist monk) instead of a powerful warrior.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Dragon Ball Z Fusion dance parody",
+      "freeDescribe": "Low-budget creative comedy using simple jump cuts and SFX to mimic anime tropes."
+    }
+  }
+}

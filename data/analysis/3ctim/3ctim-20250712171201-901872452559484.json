@@ -1,0 +1,177 @@
+{
+  "videoName": "3ctim-20250712171201-901872452559484.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 68,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a middle-aged male creator wearing a flat cap and glasses, enthusiastically holding and introducing the Samsung Galaxy Z Fold7. (2) The scene transitions to a series of product shots showcasing the phone in three specific colors: Silver (翠霧銀), Black (墨夜黑), and Blue (海影藍), with the device being rotated to show all sides and hinges. (3) The creator compares the Fold7 side-by-side with a Samsung S25 Ultra and a Fold6, physically aligning them to show differences in camera modules and body thickness. (4) A close-up shot focuses on the bottom edge of the Fold7, showing it is almost as thin as its USB-C port. (5) The creator demonstrates the unfolded 8-inch inner screen and uses a stylus/finger to showcase an AI-driven photo editing feature where objects are removed from an image on the screen.",
+      "audio_narrative_log": "(1) The audio begins with energetic, high-tempo electronic background music that continues throughout the video. (2) An enthusiastic male voice narrates in Mandarin, describing the technical specifications and tactile feel of the phone. (3) Sound effects such as 'whooshes' and 'pings' are synchronized with scene transitions and text pop-ups. (4) In sections showing the showroom, low-level ambient noise of a crowd and distant chatter can be heard, contrasting with the clear studio-quality narration.",
+      "text_narrative_log": "(1) Functional text: Traditional Chinese subtitles translate the spoken dialogue throughout the video. (2) Decorative/Hook text: Large colorful titles like \"Fold7真的\" (Fold7 really), \"Samsung Galaxy Fold7\", and \"升級到8吋\" (Upgraded to 8 inches) appear to highlight key features. (3) Descriptive labels: Specific color names like \"翠霧銀\", \"墨夜黑\", and \"海影藍\" appear as labels when the corresponding device is shown."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Product Color Showcase -> Specs Comparison -> Feature Demonstration -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator; 1 man and 1 woman seen as blurred passers-by in the showroom background.",
+      "mainCharacterDescription": "A middle-aged man with glasses, wearing a dark charcoal flat cap and a grey t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Showroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The video uses two main settings: a studio with a vibrant abstract patterned wall and a bright, minimalist showroom with shelves containing books and a globe.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Samsung"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Medium",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 126,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Ding",
+        "Click"
+      ],
+      "ambientNoise": [
+        "Crowd chatter"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Feature Highlight -> Comparison -> Function Demo",
+      "mainPurpose": "The video is a tech review and first-look showcase of the Samsung Galaxy Z Fold7, designed to inform potential buyers and tech enthusiasts about its new physical design, color options, and hardware improvements compared to previous generations.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The creator provides a detailed hands-on demonstration of a new commercial product, likely as part of a review or media event coverage.",
+      "endorsementObject": [
+        "Samsung Galaxy Z Fold7"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Creator's signature flat cap and fast-paced tech-enthusiast delivery style.",
+      "freeDescribe": "The use of variety-show style text and high-saturation colors target a young, tech-savvy audience interested in flagship mobile devices."
+    }
+  }
+}

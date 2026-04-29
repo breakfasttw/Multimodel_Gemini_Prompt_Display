@@ -1,0 +1,171 @@
+{
+  "videoName": "3ctim-20251019164330-1330326845518798.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 109,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Commentary"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing glasses, a grey newsboy cap, and a white \"HUMAN MADE\" t-shirt stands in front of the camera, speaking energetically and gesturing frequently with his hands. (2) He discusses technical specifications, pointing at the camera and using open-palm gestures to emphasize points about performance and chips. (3) The scene remains static with subtle zoom-ins and jump cuts to maintain a fast pace as he concludes his presentation.",
+      "audio_narrative_log": "(1) A male voice speaks enthusiastically and rapidly in Mandarin Chinese throughout the entire clip. (2) Upbeat, modern electronic background music plays continuously at a moderate volume, supporting the energetic tone. (3) Occasional slight shifts in volume occur as the speaker emphasizes specific tech terms, but no significant environmental noise or sound effects are present.",
+      "text_narrative_log": "(1) Functional Text: \"蘋果又出手了\" (Apple strikes again) appears at the beginning as a hook. (2) Decorative/Effect Text: Multiple floating text overlays appear chronologically detailing technical specs: \"全新M5晶片\", \"AI時代\", \"MacBook Pro\", \"iPad Pro\", \"10核心GPU\", \"提升4倍\", \"153GB/s\", \"Apple Intelligence\". (3) Emotional tone is informative and excited throughout."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 45,
+      "averageSceneDuration": 2.4,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Detailed Specs Analysis -> Comparative Benefits -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head",
+        "Torso",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male presenter visible in a medium shot.",
+      "mainCharacterDescription": "A male presenter wearing a grey newsboy cap, rectangular glasses, a white t-shirt with a hamburger graphic and 'HUMAN MADE' text, and a yellow smartwatch."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "An indoor room with warm lighting, neutral-colored curtains, and a soft-lit lamp in the background.",
+      "lightingStyle": "Warm indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Warm",
+      "cameraWork": [
+        "Static",
+        "Digital Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartwatch"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "HUMAN MADE"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and professional",
+        "pitch": "Medium",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Tech",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Technical Data Points -> Comparisons -> Summary",
+      "mainPurpose": "The video serves as a high-speed tech news update or commentary focused on the performance metrics of Apple's M5 series chips. The creator uses rapid-fire delivery and dense text overlays to convey significant technical improvements in GPU performance, AI processing, and hardware design for future MacBook and iPad models, aiming to inform and excite tech enthusiasts.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "Apple"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density floating text overlays, rapid Mandarin delivery, signature 'HUMAN MADE' attire.",
+      "freeDescribe": "Typical short-form tech news commentary format popular on platforms like TikTok or Reels, focusing on efficiency and information density."
+    }
+  }
+}

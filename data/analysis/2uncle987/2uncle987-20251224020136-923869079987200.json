@@ -1,0 +1,176 @@
+{
+  "videoName": "2uncle987-20251224020136-923869079987200.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 94,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Commentary",
+        "Podcast"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A female speaker with a pink hair clip and a blue-and-white patterned sweater is seated at a wooden table, speaking with animated hand gestures; a Starbucks cup and documents are in front of her. (2) The scene cuts to a male speaker in a black jacket who uses his hands to demonstrate 'stopping' or 'separating' motions while explaining a process. (3) Transitions show a third male speaker wearing white headphones and a brown shirt, listening and nodding. (4) Numbered text overlays (1, 2, 3, 4) appear as the male teacher explains steps for conflict resolution. (5) A brief split-screen segment shows the female speaker and an animated character with a large head mask. (6) The video concludes with a promotional screen featuring a QR code and channel information.",
+      "audio_narrative_log": "(1) Mandarin female vocals open the audio, speaking in a curious and conversational tone with a light, upbeat BGM playing in the background. (2) A mature male vocal takes over, speaking in a steady, instructional, and empathetic tone, occasionally using sound effects like a bell chime to mark the transition between points. (3) During the third point, the male speaker mimics the high-pitched, chaotic sounds of children arguing to illustrate a scenario. (4) Constant ambient 'studio quiet' is maintained, with occasional vocal affirmations (e.g., 'mm-hm', 'oh') from the other participants. (5) The music remains consistent in tempo until the final promotional segment.",
+      "text_narrative_log": "(1) '手足的衝突' (Sibling conflict) - Functional text setting the topic. (2) '1. 先分開' (1. Separate first) - Functional text for the first step. (3) '2. 輪流表達' (2. Express in turns) - Functional text for the second step. (4) '3. 同理感受' (3. Empathize with feelings) - Functional text for the third step. (5) '4. 討論解決方式' (4. Discuss solutions) - Functional text for the fourth step. (6) '完整影片請上蔡阿嘎543頻道收看' (Watch the full video on the Tsai Aga 543 channel) - Promotional/Call to action text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 3.9,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Step-by-step educational breakdown -> Promotional outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female main host, 1 male expert/teacher, 1 male host with headphones.",
+      "mainCharacterDescription": "The female host wears a cozy blue/white fuzzy sweater; the male expert wears a professional black button-down jacket."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A professional podcast studio environment with acoustic curtains, microphones on boom arms, and shelves containing figurines and collectibles.",
+      "lightingStyle": "Bright studio lights",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Switching angles"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "Headphones",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Starbucks"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Steady and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Bell chime",
+        "Transition whoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Instructional Steps -> CTA",
+      "mainPurpose": "To provide educational content regarding parenting strategies for sibling conflicts, specifically highlighting a 4-step '安定教養' (Stable Parenting) method to promote an online course.",
+      "visualEmotion": "Calm and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct mention of '老師的課程' (The teacher's course) with specific details about 47 units and a call to action to watch the full video.",
+      "endorsementObject": [
+        "羅寶鴻的安定教養課"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Tsai Aga (蔡阿嘎) channel branding and typical podcast studio setup.",
+      "freeDescribe": "The video uses a high-engagement 'highlight' format common in social media marketing to funnel viewers toward a paid or longer-form educational product."
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "videoName": "khshu_-20251101094125-2288995421597260.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 65,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Home Decor"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a woman sitting cross-legged on the floor in a modern living room, holding up three fingers to introduce the topic. (2) A transition shows her in a bathroom, demonstrating the use of a white plastic stool while using a shower head. (3) Back in a kitchen-like setting, she adjusts a white metal shelf unit placed over a microwave. (4) The scene shifts to a detailed showcase of LEGO sets, including a tropical aquarium with moving fish, various bonsai trees on a shelf, and vibrant Keith Haring dancing figure sculptures. (5) The woman mimics the poses of the dancing figures and concludes by sitting on the floor again, gesturing towards the camera.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic background music (BGM) starts immediately. A female voice speaks in Mandarin with a cheerful and fast-paced tone. (2) As the products are shown, the BGM remains consistent while the narration provides enthusiastic descriptions. (3) Occasional sparkling or 'ding' sound effects are used to highlight visual features or text overlays. (4) The audio concludes with a warm closing remark from the speaker while the music fades out.",
+      "text_narrative_log": "(1) '跟大家分享 3樣 超棒的居家小物' (Sharing 3 super great home items) - Hook text. (2) '1. 浴室椅' (1. Bathroom chair) and '2. 烤箱層架' (2. Oven shelf) - Functional category labels. (3) 'LEGO 10366 熱帶水族箱' and other LEGO model numbers - Explicit product identification. (4) '可愛小角落' (Cute little corner) and '心情真好' (Feeling really good) - Decorative/emotional captions. (5) '推推!!' (Recommend!!) - CTA/Recommendation text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Item 1 Demo -> Item 2 Demo -> Extensive LEGO Showcase -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "One main female creator presenting the content throughout.",
+      "mainCharacterDescription": "A young Asian woman with long black hair, wearing a black off-the-shoulder puff-sleeve top and light blue jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room",
+          "Bathroom",
+          "Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern, well-lit interior featuring a black slatted blind, a fish tank, shelves with various decor, and a Super Junior poster.",
+      "lightingStyle": "Bright studio lighting with soft shadows.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and Vibrant",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Fish (LEGO)"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microwave",
+        "Smartphone (Lapel Mic)"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "LEGO",
+        "Marshall"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade and Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and enthusiastic",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Sparkle SFX",
+        "Cartoon-style accents"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Recommendation 1 -> Recommendation 2 -> Thematic Highlight (LEGO) -> Outro/CTA",
+      "mainPurpose": "The video serves as a lifestyle product recommendation vlog, specifically endorsing LEGO sets as sophisticated home decor. It aims to persuade viewers that these items can enhance the aesthetic and emotional atmosphere of a living space, combining functional home tips with a focused brand endorsement.",
+      "visualEmotion": "Energetic and positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed display of LEGO packaging, model numbers, and specific feature demonstrations combined with a clear recommendation tone.",
+      "endorsementObject": [
+        "LEGO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy presentation style with expressive hand gestures and synchronized variety-show style text overlays.",
+      "freeDescribe": "The video utilizes a high editing density to maintain engagement, typical of short-form social media marketing. The inclusion of the Super Junior poster in the background suggests a specific fan-culture demographic (K-pop) for the creator."
+    }
+  }
+}

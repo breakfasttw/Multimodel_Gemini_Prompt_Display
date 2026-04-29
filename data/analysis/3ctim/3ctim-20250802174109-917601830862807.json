@@ -1,0 +1,168 @@
+{
+  "videoName": "3ctim-20250802174109-917601830862807.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 9,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Social Media Tips"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Non-live-action graphic video featuring multiple animated grey cat characters with yellow eyes and white hair-like patches on a green and blue gradient background. (2) Transition to a mobile screen recording of the Instagram Story sticker search interface; a keyboard appears and the text 'zonfriends' is typed into the search bar. (3) A grid of various animated stickers featuring the same grey cat and a pink character is displayed, scrolling down to show more options.",
+      "audio_narrative_log": "(1) Upbeat and high-pitched electronic background music begins immediately. (2) A female vocal in a friendly and energetic tone speaks in Mandarin, explaining how to find the stickers. (3) The music maintains a constant tempo while the narration continues until the end of the clip.",
+      "text_narrative_log": "(1) '想要擁有' (Want to have) - Hook text. (2) 'GD愛貓ZOA貼圖嗎' (GD's cat ZOA stickers?) - Hook text. (3) '只要在IG輸入zonfriends' (Just enter zonfriends on IG) - Functional instruction. (4) '超多可愛的ZOA,A&NE都在這' (So many cute ZOA and A&NE are here) - Descriptive hook."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 4.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Mobile Screen Search Tutorial -> Display of Results"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 0,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 0,
+      "bodyPartVisibility": [
+        "None"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "No real humans are present; the video uses animations and screen recordings.",
+      "mainCharacterDescription": "Animated grey cat characters with yellow eyes, often wearing blue collars or accessories."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "None"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Starts with a digital gradient background (green/blue) and switches to a mobile application interface (Instagram).",
+      "lightingStyle": "Uniform digital lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Vibrant",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Cat (Animated)"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone interface"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Instagram",
+        "GIPHY"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and helpful",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Instruction -> Result",
+      "mainPurpose": "The video aims to teach viewers how to access specific animated stickers (ZOA and A&NE) on Instagram by providing the exact search keyword 'zonfriends'. It uses the visual appeal of the characters and a simple screen tutorial to encourage users to use these stickers in their own content.",
+      "visualEmotion": "Cute and playful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Promoting the use of specific digital stickers by providing search terms.",
+      "endorsementObject": [
+        "Zonfriends"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of trendy animated characters associated with a celebrity (GD).",
+      "freeDescribe": "The video targets social media users who enjoy customizing their stories with cute aesthetic stickers."
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "videoName": "yga0721-20250812021958-1244855834282428.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 64,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Xiluo",
+          "Beigang"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A male host in a white t-shirt and green pants stands in front of a large green logistics truck, cupping his hands to shout. (2) The host walks along a roadside chain-link fence with a female companion, pointing towards the distance. (3) The duo walks through a park-like area with trees, carrying plastic bags of food towards a stone pavilion. (4) A split-screen visual shows two bento boxes being opened to reveal large pork chops, rice, and vegetables. (5) The host and his companion sit in the pavilion, eating from the bento boxes with chopsticks and showing animated facial expressions of enjoyment.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music starts with high-energy male vocals shouting excitedly. (2) Dialogue between the male host and female companion begins, characterized by a humorous and loud tone. (3) Comical sound effects (SFX) like a 'whistle' and 'slap' are interspersed during dialogue transitions. (4) The sound of rustling plastic bags and opening bento lids is heard as the music continues. (5) Conversational voices dominate the audio as they eat, including sounds of chewing and exclamations of satisfaction, over a consistent rhythmic BGM.",
+      "text_narrative_log": "(1) Functional text: '今天非常的特別' (Today is very special). (2) Hook text: '尋找交流道的老司機便當' (Searching for the old driver's bento at the interchange). (3) Decorative effect text: '打臉' (Slap in the face) appears with a graphic when a contradiction occurs. (4) Descriptive text: '老司機必備(?) 涼亭' (Old driver's must-have(?) Pavilion). (5) Subtitles: '這雞腿好好吃喔' (This chicken leg is so delicious) and '北港在地囝仔' (Local kid from Beigang)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Searching for the location -> Finding the spot -> Food Reveal -> Tasting and Review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-ups"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male host (Cai Aga), 1 female companion (Er Bo).",
+      "mainCharacterDescription": "Male host wearing a white t-shirt and green cargo pants; female companion wearing a checkered grey blouse and white pants."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Park",
+          "Pavilion"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A roadside with a large logistics truck, a chain-link fence bordering a field, and a public park with stone pavilions and green trees.",
+      "lightingStyle": "Natural daylight",
+      "weather": "Overcast",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Follow shot",
+        "Static",
+        "POV",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Bento",
+        "Pork chop",
+        "Chicken leg",
+        "Rice",
+        "Salted egg",
+        "Soup"
+      ],
+      "trafficDetect": [
+        "Truck",
+        "Car"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "Xiluo Service Area"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, humorous, and energetic",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Hokkien"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Slap sound",
+        "Whistle"
+      ],
+      "ambientNoise": [
+        "Traffic",
+        "Wind",
+        "Outdoor park ambience"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Exploration -> Discovery -> Tasting -> Evaluation",
+      "mainPurpose": "The video aims to entertain and inform viewers about a specific local food culture in Taiwan—bento boxes popular among truck drivers at highway interchanges. It uses a high-energy, comedic vlog format to review the quality and value of these meals while showcasing the chemistry between the hosts.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video appears to be a self-produced food review vlog without explicit paid placement indicators.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-pitched shouting intro, variety-show style text graphics, and a mix of Mandarin and Hokkien dialogue characteristic of the creator.",
+      "freeDescribe": "The video captures a niche aspect of Taiwanese transit culture, focusing on the 'Old Driver' (veteran truck driver) lifestyle and their preferred affordable meals."
+    }
+  }
+}

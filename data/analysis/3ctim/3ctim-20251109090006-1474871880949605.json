@@ -1,0 +1,177 @@
+{
+  "videoName": "3ctim-20251109090006-1474871880949605.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 40,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Commentary",
+        "Safety Awareness"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man (Tim) wearing a grey flat cap, glasses, and a white t-shirt is speaking directly to the camera in a studio setting. (2) A brief cut-away shows a display shelf in a mobile phone store with various phone models (Vivo, Oppo, Realme). (3) The video returns to the man in the studio; graphics showing the transition from LINE Pay to iPASS MONEY appear on screen, followed by illustrations of a scammer (masked figure) and a fake email notification. (4) The man uses hand gestures to emphasize points as red 'X' marks appear over text describing common scam tactics.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music starts immediately. A male voice begins speaking in a professional and clear tone. (2) The background music remains consistent in the background while the speaker's volume is high. Sound effects (ding) occur when important text graphics appear. (3) The speaker's tone shifts to a cautionary and advisory manner as he details the scam process and provides official contact information.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles throughout the video translating the spoken dialogue. (2) Decorative/Hook Text: '3c有意思tim哥' (Brand identity), 'miko 米可手機館' (Sponsor), '防詐提醒！' (Scam alert hook). (3) Content Text: 'iPASS MONEY', 'LINE Pay -> iPASS MONEY', '慘遭詐騙 6 萬' (Scammed 60,000), and official customer service phone numbers listed at the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 10.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Context Setting -> Scam Example -> Official Warning -> Contact Solution"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main creator (Tim) is the only person visible.",
+      "mainCharacterDescription": "Middle-aged Asian male, wearing a grey flat cap, round-framed glasses, and a white t-shirt with text graphics."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Mobile Phone Shop"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Primary background is a solid light blue/purple studio wall with some out-of-focus wooden shelves. Secondary background is a bright mobile phone retail display.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "miko 米可手機館",
+        "iPASS MONEY",
+        "LINE Pay",
+        "vivo",
+        "OPPO",
+        "realme"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Steady and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Cartoon SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> News Background -> Scam Mechanism -> Official Rebuttal -> CTA",
+      "mainPurpose": "The primary objective is to educate the audience about a specific phishing scam targeting iPASS MONEY users. It aims to prevent financial loss by clarifying that official entities do not request personal data updates via email or SMS, while also promoting the 'miko' mobile shop brand through integrated sponsorship.",
+      "visualEmotion": "Calm and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video features constant branding for 'miko 米可手機館' in the header and an explicit recommendation to buy phones there at the beginning.",
+      "endorsementObject": [
+        "miko 米可手機館"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Tim's signature flat cap and glasses, '3c有意思' branding logo.",
+      "freeDescribe": "The video uses a high amount of text overlays to ensure the message is clear even without sound, common in social media short-form content."
+    }
+  }
+}

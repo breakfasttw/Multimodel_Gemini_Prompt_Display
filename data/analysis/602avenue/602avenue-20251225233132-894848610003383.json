@@ -1,0 +1,173 @@
+{
+  "videoName": "602avenue-20251225233132-894848610003383.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 12,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Commentary"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Biei",
+          "Hokkaido"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a patterned grey sweater, a brown scarf, and white gloves, waves enthusiastically at the camera in a vast snowy field with a single pine tree in the distance. (2) The camera pans to the right, revealing a dense crowd of tourists and a long queue in the same snowy environment, with people standing around and taking photos. (3) The woman is shown again with a tired facial expression and a slight pout. (4) Subsequent shots alternate between the large crowd standing in the snow and the woman looking resigned to the wait.",
+      "audio_narrative_log": "(1) Bouncy, quirky, and slightly comedic instrumental music begins and continues throughout the video. (2) No vocals or spoken dialogue are detected during the recording. (3) Low-level ambient environmental noise is masked by the loud background music. (4) No distinct sound effects are present.",
+      "text_narrative_log": "(1) Functional Text: '美瑛聖誕樹的真相 The Real-Life Biei Lone Tree' (Informative hook). (2) Decorative Text: '????????' (Expressing confusion or shock at the crowd). (3) Decorative Text: '無限等待' (Infinite waiting - Frustrated tone). (4) Decorative Text: '無限排隊' (Infinite queuing - Tired tone). (5) Decorative Text: '(早就放棄)' (Gave up long ago - Humorous resignation)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 5,
+      "averageSceneDuration": 2.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Idealistic intro -> Reveal of crowd reality -> Reaction montage"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 20,
+      "maleDetectAmount": 8,
+      "femaleDetectAmount": 12,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main female creator in foreground, at least 19 tourists in the background crowd.",
+      "mainCharacterDescription": "A young woman wearing a grey and white Nordic-style patterned sweater, a brown knitted scarf, and white knitted gloves."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Snowy Field"
+        ],
+        "topography": [
+          "Plain",
+          "Hill"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A vast, open field completely covered in deep white snow under a blue sky with scattered clouds. A single, tall pine tree stands prominently on a hill in the distance.",
+      "lightingStyle": "Natural bright daylight",
+      "weather": "Sunny",
+      "season": "Winter",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Panning"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Biei Christmas Tree"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "None"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Quirky/Comedic",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Keyboard",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Contrast Reveal -> Emotional Reaction",
+      "mainPurpose": "To debunk the idealized 'lonely' image of the Biei Christmas Tree tourist spot by showing the reality of overtourism and the massive crowds/waiting times required to get a photo.",
+      "visualEmotion": "Humorous, Ironical, Realistic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Expectation vs Reality travel trope",
+      "freeDescribe": "The video uses humorous text overlays and a comedic music track to mock the trend of 'perfect' travel photos."
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "videoName": "yga0721-20250501223302-658580630647694.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 32,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young man with brown hair and a white sweatshirt stands in a white kitchen, pointing towards an open overhead cabinet that is crammed with numerous paper and plastic bags. (2) He begins to pull the bags out one by one, and a large quantity of them begins to cascade down, falling past the oven onto the floor. His facial expression is one of exaggerated shock and amusement. (3) He reaches into the higher shelves of the cabinet, causing even more bags from various retailers to tumble out in a continuous stream. (4) The man stands amidst the pile of bags covering the kitchen floor, gesturing towards the mess with his arms wide and a wide smile, as hands of an off-screen person are seen briefly near the cabinet.",
+      "audio_narrative_log": "(1) A high-pitched, loud male voice begins speaking in a Chinese dialect with an excited and mocking tone. Background laughter from at least two other individuals is audible. (2) The continuous rustling sound of paper and plastic bags being moved and falling is heard clearly. (3) The main male voice shouts phrases repeatedly with increasing volume and excitement, accompanied by loud bursts of laughter and cheering from the off-screen group. (4) The rustling sound stops as the bags finish falling, leaving only the man's continued loud speech and the fading sounds of laughter.",
+      "text_narrative_log": "None"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 32,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Emptying cabinet -> Pile on floor"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main male creator on screen, 1 person's hands visible assisting/filming.",
+      "mainCharacterDescription": "A young male with brown hair wearing an oversized white sweatshirt decorated with black sunflower prints and dark grey cargo pants."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern kitchen with minimalist white cabinetry, a built-in black microwave/oven, and various kitchen appliances like a rice cooker on the counter.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and bright",
+      "cameraWork": [
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Camera",
+        "Oven",
+        "Microwave"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Dior",
+        "Nike",
+        "Coca-Cola",
+        "IKEA",
+        "FamilyMart"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, high-pitched, and humorous",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Kitchen ambient",
+        "Rustling paper"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Action -> Result",
+      "mainPurpose": "The video is a comedic vlog piece intended to showcase and mock the excessive accumulation of paper and shopping bags by a friend or colleague. The creator uses the visual 'waterfall' of bags falling out of a cabinet to create a relatable domestic situation into a hyperbolic comedic event for audience entertainment.",
+      "visualEmotion": "Humorous and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The brand logos visible are on discarded shopping bags and the context is about domestic clutter rather than product promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Exaggerated vocal delivery and reactive group laughter typical of Taiwanese variety-show style digital content.",
+      "freeDescribe": "The video relies heavily on the organic mess and the energetic reaction of the creator to generate humor without the need for post-production editing or music."
+    }
+  }
+}

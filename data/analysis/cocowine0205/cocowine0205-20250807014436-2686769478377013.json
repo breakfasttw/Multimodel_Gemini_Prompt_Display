@@ -1,0 +1,180 @@
+{
+  "videoName": "cocowine0205-20250807014436-2686769478377013.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 22,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Lifestyle"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a close-up of a hand reaching into a 7-Eleven refrigerated shelf to pick up a packaged 'Mochi QQ' cake. (2) A young woman wearing a white off-the-shoulder top and a brown bucket hat stands outside the store at night, holding the package and smiling excitedly at the camera. (3) The shot cuts to a close-up of the package being torn open, revealing four pieces of light-yellow sponge cake rolls with cream filling. (4) A hand picks up one piece, squeezing it slightly to show the soft, elastic texture. (5) Two women are seen indoors sitting at a marble table; they take bites of the cake and look directly at the camera with expressive, surprised facial expressions.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced background music starts immediately. A high-pitched, energetic female voice says 'Look what I found!'. (2) The same woman continues speaking outside with a joyful tone, mentioning she bought the last one and no longer needs to fly to Japan. (3) Sound of plastic packaging crinkling as the product is opened. (4) Two female voices engage in a dialogue, discussing the 'QQ' (chewy) texture of the cake skin and comparing it to the version found in Japan. (5) One woman makes a loud gasp of mock-despair as the music reaches a peak.",
+      "text_narrative_log": "(1) '不用飛日本' (No need to fly to Japan) - Decorative Hook. (2) '好吃嗎？' (Is it delicious?) - Decorative Question. (3) '超紅711麻糬蛋糕' (Super popular 7-11 Mochi Cake) - Functional Title. (4) '買到了最後一個' (Bought the last one) - Decorative text. (5) '像麻糬一樣QQ的欸' (Chewy like mochi!) - Impact caption with variety show graphics. (6) Standard functional subtitles translate the spoken dialogue throughout the video."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 2.75,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Discovery at store -> Product reveal -> Tasting and comparison review."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Torso"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "Two women appearing as co-hosts/reviewers.",
+      "mainCharacterDescription": "One woman with a brown bucket hat and white top; the second woman with dark hair wearing a white ruffled top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Convenience Store",
+          "Outdoor Street",
+          "Indoor Dining Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Convenience store refrigerated shelves, night-time street with store lights, and a modern home interior with a marble table.",
+      "lightingStyle": "Mixed: Artificial store lighting and indoor home lighting.",
+      "weather": "Clear night",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Japanese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Mochi Cake",
+        "Cream Roll"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "7-ELEVEN",
+        "KANGOL"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut synced with visual transitions.",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and enthusiastic",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Packaging crinkle"
+      ],
+      "ambientNoise": [
+        "Outdoor street atmosphere"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Action -> Review -> Conclusion",
+      "mainPurpose": "The video aims to review a viral dessert from 7-Eleven, specifically comparing its texture to Japanese mochi cakes. It serves as a consumer recommendation, emphasizing the excitement of finding the 'last one' and the high quality of the product relative to its price and availability.",
+      "visualEmotion": "Energetic and Happy"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video features a specific product from a well-known brand (7-Eleven) prominently and provides a positive review.",
+      "endorsementObject": [
+        "7-ELEVEN"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing with variety show-style text effects and high-energy food tasting reactions.",
+      "freeDescribe": "Typical short-form food vlog content designed to trigger FOMO (Fear Of Missing Out) and encourage viewers to try a local convenience store product."
+    }
+  }
+}

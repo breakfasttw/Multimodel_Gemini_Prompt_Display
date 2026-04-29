@@ -1,0 +1,185 @@
+{
+  "videoName": "khshu_-20250625000317-1857528438223316.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 48,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Cooking",
+        "Tutorial",
+        "Food Review",
+        "Commercial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Live-action video begins with a close-up of a large knife slicing through a cereal bar on parchment paper, followed by a woman in a white tank top and denim overalls eating a piece and giving a double thumbs up with an enthusiastic facial expression. (2) The scene transitions to the creator pouring Kellogg's Granola into a glass bowl, followed by shots of her adding marshmallows and butter, then placing the bowl into a microwave. (3) After heating, she stirs the melted mixture vigorously, presses it into a rectangular tray while wearing black gloves, and places it in the refrigerator. (4) The video cuts to a presentation of three different plates of cereal bars alongside three product bags (Honey Almond, Fresh Strawberry, Hazelnut Cocoa). (5) The creator is then shown tasting the different flavors, pouring milk over a bowl, and dipping granola into yogurt. (6) The final shot shows her holding three bags of the product and holding a piece up to the camera with a smile.",
+      "audio_narrative_log": "(1) The video starts with loud, crisp foley sounds of a knife crunching through cereal and the sound of someone chewing, creating an ASMR effect. (2) Upbeat, high-tempo pop music with a bright synthesizer melody begins as a female voice with a friendly and excited tone starts narrating the recipe steps. (3) A professional-sounding male voice joins the audio track to provide detailed product descriptions and name the new flavors, creating a dual-narration style. (4) Ambient sound includes the beep of a microwave and the sound of a spoon clinking against a glass bowl during mixing. (5) The audio ends with both voices maintaining an energetic and inviting tone over the continuous background track.",
+      "text_narrative_log": "(1) Hook text: \"聽這聲音就知道多好吃\" (Listen to this sound to know how delicious it is) in a handwritten style. (2) Variety-show style caption: \"超讚\" (Super Great) with yellow radiating lines. (3) Functional recipe text: \"加入無鹽奶油\" (Add unsalted butter), \"微波 600w 1分鐘\" (Microwave 600w 1 minute), and \"攪拌攪拌\" (Stirring). (4) Brand and product titles: \"家樂氏日本纖穀脆系列\" (Kellogg's Japan Granola Series) and flavor names like \"蜂蜜杏仁\" (Honey Almond) and \"鮮摘草莓\" (Fresh Strawberry). (5) Decorative captions like \"手臂炸裂\" (Arms exploding - indicating hard stirring) and \"好吃一起吃\" (Good food, eat together!)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 1.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Recipe Tutorial -> Product Tasting -> Product Lineup Showcase"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-ups"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator appearing throughout the cooking and tasting segments.",
+      "mainCharacterDescription": "A young Asian woman with a bun hairstyle, wearing a white ribbed tank top and light blue denim overalls."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A clean, modern kitchen environment with light-colored cabinets, a stainless steel refrigerator, a microwave, and a wooden dining table.",
+      "lightingStyle": "Bright, even studio lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm and high saturation",
+      "cameraWork": [
+        "Static",
+        "Top-down",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Granola",
+        "Marshmallows",
+        "Butter",
+        "Milk",
+        "Yogurt",
+        "Cereal Bars"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microwave",
+        "Refrigerator"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Kellogg's",
+        "家樂氏",
+        "ARCOS"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut transitions synced with scene changes and beat-matching.",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and persuasive",
+        "pitch": "Medium-high (Female), Medium (Male)",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Crunching",
+        "Microwave Beep",
+        "Swoosh transitions"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Demonstration -> Flavor Review -> Product Showcase",
+      "mainPurpose": "This video serves as a creative commercial for Kellogg's Granola. It uses an ASMR hook and a simple DIY recipe (marshmallow cereal bars) to engage the audience, then transitions into a structured review of three different flavors. The ultimate goal is to promote the brand's product variety and versatility in different eating scenarios (as a bar, with milk, or with yogurt).",
+      "visualEmotion": "Cheerful and appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed display of product packaging, multiple flavor introductions, and explicit brand mentions in both audio and text.",
+      "endorsementObject": [
+        "家樂氏日本纖穀脆系列"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "ASMR opening hook, energetic reaction faces, clear step-by-step cooking graphics.",
+      "freeDescribe": "The video effectively combines the popular 'home cooking' vlog style with professional product placement, making the commercial feel like relatable influencer content."
+    }
+  }
+}

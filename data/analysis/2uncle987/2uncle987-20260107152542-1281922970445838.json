@@ -1,0 +1,178 @@
+{
+  "videoName": "2uncle987-20260107152542-1281922970445838.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 66,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Promotion"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman wearing oversized pink overalls walks down a white marble hallway and accidentally spills a large quantity of items from her pockets onto the floor. (2) Close-up shot shows a variety of items including pens, notebooks, small bags, and numerous pink supplement sachets scattered on the ground. (3) A woman in a white dress kneels and picks up a sachet, holding it up to show the camera while smiling. (4) The woman in pink takes the sachet back and begins an enthusiastic explanation, transitioning to product shots of 'EVOLSENSE' boxes and liquid being poured onto a plate. (5) The woman in pink is shown in a kitchen setting drinking from the sachet and then demonstrating a capsule supplement. (6) Graphic overlays appear showing SGS test reports and ingredient details. (7) The two women stand together in the hallway, chatting and laughing while holding the products. (8) The main character speaks directly to the camera with high-energy gestures for the final call to action.",
+      "audio_narrative_log": "(1) Upbeat, energetic pop background music starts immediately with a loud clattering sound effect as objects hit the floor. (2) A young female voice expresses surprise and curiosity, asking about the product found on the floor. (3) The main female voice responds with a friendly and excited tone, explaining the benefits of the beauty drink. (4) A professional male voice-over enters to provide technical details about ingredients (SGS, Omega-3, Lutein) while the BGM continues. (5) Sounds of a water glass being filled and a capsule being swallowed are audible. (6) The two female voices engage in a playful, fast-paced dialogue with occasional laughter. (7) The main female voice delivers a final loud, enthusiastic promotional message.",
+      "text_narrative_log": "(1) Decorative: '(?)' appears as items fall. (2) Functional: '瓔研司光之飲' (EVOLSENSE Light It Up Beauty Drink), '高效原料' (High-efficiency ingredients), 'SGS 檢驗食安有保障' (SGS tested food safety guarantee). (3) Functional: '采亮葉黃素' (I See You Lutein Capsule), '全素友善' (Vegan friendly). (4) Hook: '現在都有團購優惠' (Group buy discount available now), '快到首頁點選團購連結' (Go to homepage for group buy link)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook (Spill) -> Discovery -> Product Demo 1 -> Product Demo 2 -> Technical Proof -> Social Interaction -> CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main creator in pink, 1 friend in white dress, 1 male arm/torso visible in green shirt during the spill cleanup.",
+      "mainCharacterDescription": "A young woman with long dark wavy hair, wearing pink and light-purple denim overalls over a white top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Hallway",
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern, bright indoor hallway with white marble floors, glass walls, and wooden doors. Later, a clean white kitchen with a refrigerator and wooden shelving.",
+      "lightingStyle": "Bright, even studio lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation, Warm, Bright",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Supplement Liquid",
+        "Water"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "EVOLSENSE"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with sound effects",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, friendly, and professional",
+        "pitch": "Medium-High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Clatter",
+        "Sparkle/Ding",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Product Feature 1 -> Product Feature 2 -> Social Validation -> CTA",
+      "mainPurpose": "To promote and sell EVOLSENSE health and beauty supplements (Light It Up Beauty Drink and Lutein capsules). The video uses a relatable 'clumsy' hook to grab attention, followed by a detailed breakdown of product benefits, safety certifications, and a direct incentive via a group buy discount.",
+      "visualEmotion": "Energetic, Cheerful, Professional"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product demonstration, mention of group buy links, and focused brand display.",
+      "endorsementObject": [
+        "EVOLSENSE"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy comedic opening (spilling items) followed by technical narration.",
+      "freeDescribe": "The video blends lifestyle influencer aesthetics with professional technical narration to build both relatability and trust."
+    }
+  }
+}

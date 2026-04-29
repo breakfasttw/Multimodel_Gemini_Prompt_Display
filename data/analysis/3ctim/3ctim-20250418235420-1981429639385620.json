@@ -1,0 +1,177 @@
+{
+  "videoName": "3ctim-20250418235420-1981429639385620.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 47,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Educational",
+        "Social Awareness",
+        "Technology Commentary"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man wearing glasses and a grey flat cap is seen in a medium close-up, speaking directly to the camera against a blurred indoor background. Large yellow and white text \"詐騙新手法!\" (New scamming method!) appears over him. (2) The visual alternates between the man talking and various graphic overlays including the LINE app icon and screenshots of a mobile chat interface. (3) The man uses hand gestures to emphasize points as variety-show style text captions pop up describing the scam process. (4) Close-up shots of text warnings like \"注意再注意!\" (Attention!) and descriptions of bank detail theft appear prominently before the video concludes.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic background music begins immediately. A male voice speaks clearly and urgently in Mandarin Chinese. (2) As the speaker details the scam, intermittent sound effects (dings and swooshes) synchronize with text appearances and scene cuts. (3) The vocal performance remains at a high, consistent volume and fast pace throughout, with the music maintaining a steady rhythm until the end.",
+      "text_narrative_log": "(1) \"詐騙新手法!\" (Hook: New scamming method - Alarming). (2) \"結合LINE視訊 / 分享螢幕功能\" (Functional: Combined with LINE video call / screen sharing feature). (3) \"刑事局指出 / 假買家 / 賣家 / 詐騙案增多\" (Functional: Criminal Investigation Bureau points out / Fake buyer / Seller / Scam cases increasing). (4) \"我想買這個! / 托運認證 / 實名認證 / 開通金流服務\" (Functional: I want to buy this! / Shipping auth / Real-name auth / Activate payment service). (5) \"注意再注意! / 竊取網銀帳號密碼及OTP碼\" (Hook: Attention! / Stealing online bank accounts, passwords, and OTP codes - Warning tone)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.6,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro Hook -> Explanation of Scam Context -> Mechanics of the Scam -> Security Warning"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full face",
+        "Shoulders",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male speaker visible throughout.",
+      "mainCharacterDescription": "A middle-aged man with glasses, wearing a grey flat cap and a white/grey hoodie."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A blurred indoor room with soft lighting, possibly a home office or studio setup.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Warm",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone interface"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "LINE",
+        "Roots",
+        "Miko",
+        "YouTube"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Professional, cautionary, and informative",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Whoosh",
+        "Interface dings"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Scam Scenario -> Technical Explanation -> Warning Outcome",
+      "mainPurpose": "To raise public awareness about a specific new scamming tactic where perpetrators use LINE's screen-sharing feature to trick sellers into revealing sensitive online banking credentials and OTP codes under the guise of shipping or real-name authentication.",
+      "visualEmotion": "Informative and Vigilant"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "Content is focused on public safety and fraud prevention rather than product promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3C有意思Tim哥 (Channel branding and distinctive presenter)",
+      "freeDescribe": "The video utilizes high-density text overlays and fast-paced editing typical of Taiwanese 'variety-show style' social media content to ensure technical information remains engaging for a broad audience."
+    }
+  }
+}

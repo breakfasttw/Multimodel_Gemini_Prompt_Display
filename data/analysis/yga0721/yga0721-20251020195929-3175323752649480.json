@@ -1,0 +1,187 @@
+[
+  {
+    "videoName": "yga0721-20251020195929-3175323752649480.mp4",
+    "low_inference_observations": {
+      "basic_metadata": {
+        "videoDuration": 84,
+        "aspectRatio": "9:16",
+        "videoGenre": [
+          "Vlog",
+          "Event Promotion",
+          "Entertainment"
+        ],
+        "withRealPeople": true,
+        "location": {
+          "country": [
+            "Taiwan"
+          ],
+          "city": [
+            "Taipei"
+          ]
+        }
+      },
+      "perceptual_narrative_logs": {
+        "visual_narrative_log": "(1) The video starts with a male creator in a white '22' jersey and orange cap walking with a female companion in a blue striped set at an outdoor plaza near Taipei 101. They exhibit high energy with wide gestures and excited facial expressions. (2) They move into a tented area where several large screens are set up showing a video game; the man holds a Nintendo Switch controller and gestures excitedly at the screen. (3) A sequence shows the game being played on a large TV, featuring a white Pokemon creature. (4) The pair moves back outside to a green turf area where large inflatable Pokemon (Pikachu, Chikorita, etc.) are displayed. They encounter a person in a Pikachu mascot costume wearing a special green and black jacket and a hat, posing for photos with peace signs. (5) They move to carnival-style game booths, attempting challenges like tossing balls into a grid, sliding cups, and playing ring toss. (6) The video ends with them squatting on the grass, holding up commemorative stickers and a pamphlet, pointing towards the camera with enthusiastic smiles.",
+        "audio_narrative_log": "(1) Fast-paced, upbeat electronic pop music starts immediately. A male voice speaks loudly and excitedly, followed by a female voice responding with high-pitched enthusiasm. (2) Sound effects (SFX) like 'ding' and 'woosh' are heard during scene transitions. (3) During the game demo segment, the audio includes digital sound effects from the game (attacks, UI sounds). (4) The music remains consistent in tempo but varies slightly in volume to allow the vocal narration to be heard clearly. (5) In the game booth section, sounds of plastic cups sliding and balls hitting targets are audible over the BGM. (6) The video concludes with a final energetic vocal sign-off as the music reaches its peak volume.",
+        "text_narrative_log": "(1) Functional text appears at the bottom as white subtitles translating the dialogue. (2) Decorative hook text in large yellow and black fonts appears: '喜不喜歡寶可夢' (Do you like Pokemon?) and '喜不喜歡逛夜市' (Do you like visiting night markets?). (3) Event titles appear: '台北101水舞廣場', '《寶可夢傳說 Z-A》夜市祭'. (4) A humorous overlay reads: 'Nintendo Switch 2 Edition' (Note: likely a joke or variety show effect). (5) Game names like '九宮格' (Nine Squares) and '推杯子' (Cup Sliding) appear as they play. (6) Closing text: '活動到10月19號' (Event until October 19th)."
+      },
+      "temporal_pacing_summary": {
+        "sceneCutCount": 42,
+        "averageSceneDuration": 2.0,
+        "isNarrativeShift": true,
+        "mainActionFlow": "Intro -> Game Trial -> Mascot Interaction -> Carnival Games -> Outro/CTA"
+      },
+      "visual_human_presence": {
+        "totalHumanCount": 15,
+        "maleDetectAmount": 8,
+        "femaleDetectAmount": 7,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Hands only"
+        ],
+        "crowdLevel": "Crowd",
+        "countingEvidence": "1 male creator, 1 female companion, multiple staff members and passers-by in the background of Taipei 101 plaza.",
+        "mainCharacterDescription": "A male with dyed hair wearing an orange baseball cap and a white oversized jersey with '22' on it; a female with short hair in a blue and white striped two-piece outfit."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Outdoor Street",
+            "Studio",
+            "Plaza"
+          ],
+          "topography": [
+            "Plain"
+          ]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The exterior of Taipei 101 and surrounding skyscrapers are visible. The plaza is decorated with red lanterns and Pokemon-themed pillars. Inside the tent, there are gaming stations with large monitors and Nintendo logos.",
+        "lightingStyle": "Natural light (Daylight)",
+        "weather": "Clear",
+        "season": "Autumn",
+        "editingPace": "Fast",
+        "textOverlay": {
+          "density": "High",
+          "language": [
+            "Traditional Chinese",
+            "English"
+          ],
+          "isSubtitled": true
+        },
+        "colorTone": "High Saturation",
+        "cameraWork": [
+          "Follow shot",
+          "Static",
+          "POV"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Nintendo Switch",
+          "TV",
+          "Monitor"
+        ],
+        "landmark": [
+          "Taipei 101"
+        ],
+        "brandLogos": [
+          "Pokemon",
+          "Nintendo",
+          "Adidas"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      },
+      "audio_production_style": {
+        "audioContinuity": "Continuous",
+        "audioTransition": "Hard cut with SFX",
+        "vocalRatio": "High"
+      },
+      "audio_vocal_characterization": {
+        "speaker_inventory": {
+          "onscreen": 2,
+          "offscreen": 0,
+          "backgroundCrowdVoices": 2,
+          "vocal_demographics": {
+            "male_vocal_count": 1,
+            "female_vocal_count": 1,
+            "kids_vocal_count": 0
+          }
+        },
+        "vocal_qualities": {
+          "tone": "High-pitched and excited",
+          "pitch": "Medium-High",
+          "loudness": "Loud",
+          "speed": "Fast",
+          "speechDensity": "Continuous talking",
+          "language": [
+            "Mandarin"
+          ]
+        }
+      },
+      "audio_music_and_environment": {
+        "bgmPresence": true,
+        "bgmGenre": "Upbeat Electronic Pop",
+        "bgmBPM": 128,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Synthesizer",
+          "Drum Machine"
+        ],
+        "musicSourceType": [
+          "Stock"
+        ],
+        "rhythmSync": "High(Beat-sync)",
+        "soundEffects": [
+          "Meme sounds",
+          "Digital SFX",
+          "Whistle"
+        ],
+        "ambientNoise": [
+          "Crowd chatter"
+        ],
+        "audioQuality": "Studio"
+      }
+    },
+    "high_inference_interpretations": {
+      "narrative_and_purpose": {
+        "narrativeStructure": "List-based: Hook -> Experience 1 (Gaming) -> Experience 2 (Mascot) -> Experience 3 (Carnival) -> CTA",
+        "mainPurpose": "To promote the 'Pokemon Legends: Z-A Night Market Festival' at Taipei 101 by showcasing the various interactive activities, game trials, and exclusive merchandise (stickers) available to visitors.",
+        "visualEmotion": "Energetic"
+      },
+      "endorsement_analysis": {
+        "isEndorsement": true,
+        "endorsementMethod": [
+          "Explicit",
+          "Full"
+        ],
+        "endorsementCues": "The creators are specifically invited to tour and promote the event, showing how to play the games and win prizes.",
+        "endorsementObject": [
+          "Pokemon",
+          "Nintendo Switch"
+        ]
+      },
+      "social_sociology_tags": {
+        "uniqueSignatures": "High-energy variety show style editing with frequent text overlays and rapid speech.",
+        "freeDescribe": "The video targets young fans of gaming and Pokemon culture in Taiwan, leveraging the iconic Taipei 101 location for visual appeal."
+      }
+    }
+  }
+]

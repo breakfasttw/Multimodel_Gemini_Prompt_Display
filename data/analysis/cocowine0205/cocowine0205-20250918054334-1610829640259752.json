@@ -1,0 +1,185 @@
+{
+  "videoName": "cocowine0205-20250918054334-1610829640259752.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 85,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Cooking Tutorial",
+        "Vlog",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in a kitchen holds a large bag of Costco frozen headless white shrimp, picking one out and comparing its size to her palm. (2) She moves to prepare the shrimp, rinsing them in a bowl and adding salt and pepper. (3) She pours oil into a stainless steel pan and starts pan-frying the shrimp, which begin to steam and turn pink. (4) She holds a bottle of Bacardi rum, jokingly pours some into the pan while gesturing dramatically. (5) The scene shifts to a living room where she and another woman sit at a table, peeling the cooked shrimp and eating them with enthusiastic, satisfied facial expressions.",
+      "audio_narrative_log": "(1) Cheerful and upbeat electronic background music begins. An energetic female voice introduces the Costco shrimp. (2) Sounds of water running and the rhythmic clinking of a bowl as shrimp are seasoned. (3) A loud sizzling sound occurs as the shrimp are placed in the hot pan. (4) A deep, comedic male voice-over interjects, shouting playfully 'You idiot!' as the rum is added, followed by more sizzling. (5) Sounds of shrimp shells being peeled (crunching) and slurping noises while eating, ending with loud verbal affirmations like 'Mmm!' and 'So good!' in Mandarin.",
+      "text_narrative_log": "(1) Functional Text: 'Cooking frozen headless white shrimp' and 'Teaching everyone now' appear in colorful bubbles. (2) Decorative Text: A large 'COSTCO WHOLESALE' logo is at the top. 'Good Chef Atou serves dishes' appears as a variety-show style title. (3) Functional Text: 'Each one is almost as big as a palm', 'No need to defrost', and 'Flip when it turns red' provide cooking instructions. (4) Effect Text: 'Choke! You idiot' and 'Very juicy and fragrant!' appear with stickers to emphasize the humor and the taste review."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Preparation -> Cooking Demo -> Tasting and Review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Face",
+        "Hands only",
+        "Upper body",
+        "Full body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators onscreen; 1 male voice off-screen (not counted visually).",
+      "mainCharacterDescription": "The main host is an Asian woman with long dark hair wearing a white off-shoulder top and a brown apron. The second character wears a black dress and a grey bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The kitchen features a modern stove, stainless steel pans, and an oven. The living room has a coffee table, snacks in the background, and a cozy atmosphere.",
+      "lightingStyle": "Bright, even indoor lighting.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and warm",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Shrimp",
+        "Salt",
+        "Pepper",
+        "Cooking Oil",
+        "Rum"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Stove",
+        "Oven"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "BACARDI"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cuts synchronized with scene changes and music beats.",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic, humorous, and expressive",
+        "pitch": "Medium-high",
+        "loudness": "Normal to loud (exclamations)",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Sizzling",
+        "Crunching",
+        "Comedic accent sounds"
+      ],
+      "ambientNoise": [
+        "Kitchen quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Tutorial -> Review",
+      "mainPurpose": "This video serves as an engaging cooking tutorial and product promotion for Costco's frozen white shrimp. By demonstrating the simple preparation process and showcasing the large size and high quality of the ingredient, the creator uses humor and authentic reactions to persuade the audience of the product's value.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Prominent display of the Costco logo and the specific product packaging, along with a positive testimonial/tasting review.",
+      "endorsementObject": [
+        "COSTCO",
+        "BACARDI"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The host uses a catchphrase '好廚師阿頭上菜' and a comedic 'scolding' interaction with the ingredients.",
+      "freeDescribe": "The video utilizes a high-density text overlay style common in East Asian social media (like TikTok/Douyin or Instagram Reels) to maintain engagement and clarify instructions."
+    }
+  }
+}

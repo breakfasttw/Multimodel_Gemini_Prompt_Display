@@ -1,0 +1,180 @@
+{
+  "videoName": "cocowine0205-20250216054206-849725604739131.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 61,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman in a grey coat and black turtleneck is seen in a large warehouse-style supermarket, reaching for stacked boxes of 'Cadina' brand potato chips on a wooden pallet. (2) She examines a box closely, pointing at the 'Tainong No. 1 Potato' label, and then looks at a neighboring stack of green snack boxes. (3) The scene transitions to an indoor setting where the same woman and another woman in a white sweater and black beret sit at a table; they hold up a small snack bag and a single, thick yellow potato chip, demonstrating its thickness to the camera before eating it with enthusiastic expressions.",
+      "audio_narrative_log": "(1) An upbeat, mid-tempo electronic background track begins immediately. A female voice asks a question, followed by a deeper male voice-over that narrates product details in a professional, energetic tone. (2) Ambient supermarket sounds are muffled in the background. (3) The audio shifts to the two women speaking excitedly about the snack's texture and flavor, punctuated by cartoonish sound effects (SFX) that coincide with on-screen graphic appearances. The music continues consistently throughout.",
+      "text_narrative_log": "(1) Functional Text: \"你在拿什麼\" (What are you taking?) in a blue speech bubble. (2) Decorative/Hook Text: \"必買話題新品\" (Must-buy trending new product) in a red banner at the top of the frame. (3) Functional Text: \"台農1號馬鈴薯\" (Tainong No. 1 Potato) highlighting the ingredient source. (4) Pricing Text: \"$ 299\" shown on a Costco price tag and \"299元一箱\" (299 NTD per box) as a subtitle. (5) Decorative Text: \"喜馬拉雅玫瑰鹽\" (Himalayan Rose Salt) appearing with sparkle effects to describe the flavor profile."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video follows a Shopping -> Product Information -> Tasting/Review sequence."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Waist up",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female presenters; 1 female passer-by seen briefly in the background at the warehouse.",
+      "mainCharacterDescription": "One woman has long dark hair, wearing a grey coat; the other wears a white sweater and a black 'Kangaroo' brand beret."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The first half features high-ceiling warehouse aisles with industrial shelving and bulk pallets; the second half is a clean, modern home interior with a grey marble dining table.",
+      "lightingStyle": "Mixed: Bright overhead warehouse lighting followed by warm, soft indoor studio lighting.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Potato Chips"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "Cadina",
+        "卡迪娜",
+        "KANGOL"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and persuasive",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Sparkle sounds"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Discovery -> Feature Breakdown -> Tasting -> Recommendation",
+      "mainPurpose": "The video is a promotional product review intended to drive sales of Cadina Golden Potato Chips by highlighting their availability at Costco, their specific ingredient origin (Tainong No. 1), and their superior physical attributes (thickness and crunchiness) through a first-person tasting experience.",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed mention of price, quantity per box, specific brand name, and positive tasting feedback.",
+      "endorsementObject": [
+        "Cadina",
+        "卡迪娜"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density colorful variety-show style text overlays.",
+      "freeDescribe": "The video uses a high-production 'influencer review' style common in social commerce to make bulk warehouse shopping seem trendy and curated."
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "videoName": "cocowine0205-20250706125437-1648532132967962.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 68.0,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in a white fuzzy sweater stands inside a Costco store holding a large bag of 'Dashima Bugak Chips'. She smiles and speaks excitedly. (2) Close-up shots of the packaging showing the product name and images of seaweed chips. (3) Transition to an indoor home setting; the woman is now wearing a black mesh top and a zebra-patterned bucket hat. (4) She sits at a table, opens the bag, and pours the dark green, thin chips onto a small red and white decorative plate. (5) She picks up a chip to show its thinness and crisp texture, then eats it, gesturing with her hands to describe the flavor layers. (6) She points to the ingredient list on the back of the bag while continuing her verbal review.",
+      "audio_narrative_log": "(1) An energetic and friendly female voice begins speaking immediately, accompanied by upbeat, mid-tempo background music with a light electronic beat. (2) Frequent sound effects (SFX) such as 'dings', 'pops', and cartoonish slides occur whenever text overlays appear. (3) The vocal track is a continuous narration, edited with hard cuts between sentences to maintain a high information density. (4) The crunching sound of the snack being eaten is clearly audible during the tasting segment. (5) Ambient noise from the Costco store is barely audible, superseded by the studio-quality voiceover and BGM.",
+      "text_narrative_log": "(1) 'COSTCO WHOLESALE' logo appears at the top throughout the first half. (2) 'C-WEED 這個呢是' (This is seaweed...) - functional text. (3) '韓國海苔脆片 停不下來' (Korean seaweed chips, can't stop) - hook text with emotional emphasis. (4) '239元' - price information. (5) '毅然決然拿兩包' (Resolutely took two bags) - descriptive hook. (6) '蝦皮評價也很高' (Shopee reviews are also high) - decorative text for social proof. (7) '口感是非常好的' (The texture is very good) - review caption. (8) Detailed ingredient list: '昆布、糯米、葵花籽油、芝麻、糖、海鹽、洋蔥粉' - functional text. (9) '非常涮嘴的餅乾' (A very addictive cookie/snack) - summary hook."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 3.09,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at the store -> Motivation for purchase -> Home unboxing and tasting -> Detailed ingredient/flavor analysis -> Recommendation."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator is present throughout the video.",
+      "mainCharacterDescription": "An Asian woman with long black hair, initially wearing a white fuzzy cardigan, later changing into a black mesh top with a zebra-print bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The first half shows shelves of a Costco warehouse stocked with bulk items. The second half shows a home living room/dining area with a wooden table, a red plate, and a sofa visible in the background.",
+      "lightingStyle": "Bright indoor lighting (fluorescent in store, warm LED at home).",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and vibrant",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Seaweed Chips",
+        "Snack"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Dashima"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful, enthusiastic, and fast-paced",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop Instrumental",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Pop",
+        "Whoosh",
+        "Crunching"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Reason -> Evidence -> Review",
+      "mainPurpose": "The video aims to provide a positive review and recommendation for 'Dashima Bugak Chips' available at Costco. It uses a combination of social proof (noting others buying it) and sensory evidence (tasting and ingredient analysis) to persuade the viewer to purchase the product.",
+      "visualEmotion": "Energetic and positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The entire video is dedicated to reviewing a specific product, highlighting its price, availability at a major retailer (Costco), and positive attributes.",
+      "endorsementObject": [
+        "Dashima Bugak Chips",
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-cut narrative style, frequent use of variety-show style large text overlays, and high-energy delivery.",
+      "freeDescribe": "The video follows the 'viral product' trend where a creator reviews an item perceived as popular or a 'must-buy' from a specific retailer like Costco."
+    }
+  }
+}

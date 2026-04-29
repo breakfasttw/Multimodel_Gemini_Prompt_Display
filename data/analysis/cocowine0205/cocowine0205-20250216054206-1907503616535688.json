@@ -1,0 +1,179 @@
+{
+  "videoName": "cocowine0205-20250216054206-1907503616535688.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 50,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Two young women are in a brightly lit candy store, smiling and holding Kirby-themed gummy packages towards the camera. (2) Close-up shots of hands tearing open a pink Bandai Kirby gummy bag and pouring various pastel-colored gummies onto a pink, house-shaped plate. (3) Detailed close-ups of the gummies, showing shapes like Kirby with a wide mouth, stars, and bombs. A hand demonstrates placing a small star gummy inside a larger Kirby gummy's mouth. (4) The women are in a home/studio setting, holding the gummies, talking to the camera with cheerful expressions, and tasting them.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic pop music starts with high-pitched, excited female voices speaking in a store environment. (2) Music continues as clear foley sounds of plastic packaging crinkling and soft gummies hitting a ceramic plate are heard. (3) A calm, descriptive male voice-over enters, narrating the different shapes and colors of the candy over the background music. (4) The female voices return to describe the specific fruit flavors (peach, lemon, apple) and the chewy texture of the gummies while eating.",
+      "text_narrative_log": "(1) Decorative text: '卡比造型軟糖' (Kirby shaped soft candy) and '超級可愛的' (Super cute) with a cheerful tone. (2) Hook text: '13種不同圖案' (13 different patterns) to highlight variety. (3) Functional text: '四個嘴巴張大的卡比' (Four Kirby with wide-open mouths), '黃色是檸檬' (Yellow is lemon), '粉紅是蜜桃' (Pink is peach), '紅色是蘋果' (Red is apple). (4) Call-to-action text: '推薦你也 入手這卡比軟糖' (Recommend you also get this Kirby soft candy)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.27,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Shop Intro -> Product Unboxing & Detail -> Tasting & Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Upper body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators are presenting the product throughout the video.",
+      "mainCharacterDescription": "One woman has long dark hair wearing a grey top; the other has dark hair, wearing a white off-shoulder striped top and a grey bucket hat or pink beret."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Candy Shop",
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Starts in a shop filled with colorful snack shelves; transitions to a clean indoor room with a table and a pink house-shaped ceramic plate.",
+      "lightingStyle": "Bright, even indoor lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Gummy Candy"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Nintendo",
+        "Bandai",
+        "Le Creuset"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, cheerful, and descriptive",
+        "pitch": "Medium-high",
+        "loudness": "Clear",
+        "speed": "Normal",
+        "speechDensity": "Continuous",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Kawaii Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Plastic crinkling",
+        "Clinking"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> Review -> CTA",
+      "mainPurpose": "The video serves as an endorsement for Kirby-themed gummy candies by Bandai. It highlights the aesthetic appeal and 'interactive' gameplay of the candies (fitting pieces together) followed by a sensory review of the taste and texture to drive consumer interest.",
+      "visualEmotion": "Energetic and Whimsical"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of packaging, detailed product breakdown, and explicit recommendation to buy.",
+      "endorsementObject": [
+        "Bandai",
+        "Kirby"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-frequency variety-show style text stickers and high-pitched cheerful openings.",
+      "freeDescribe": "The video targets a youthful demographic interested in character merchandise (Kirby) and 'cute' snack trends."
+    }
+  }
+}

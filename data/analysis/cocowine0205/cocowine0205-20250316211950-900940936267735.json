@@ -1,0 +1,177 @@
+{
+  "videoName": "cocowine0205-20250316211950-900940936267735.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 37.0,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Live-action video begins with a female host in a warehouse store holding two animal-themed pillows; a Costco logo is overlaid at the top. (2) The camera transitions to close-up shots of a hand with a green ring pointing at embroidered dogs (Schnauzer, Dachshund, French Bulldog) on a blue pillow. (3) The host holds up a pink pillow featuring various cat breeds, smiling and speaking towards the camera while shifting the products. (4) Detailed close-ups highlight the texture of the embroidery on both pillows. (5) The host stands in the aisle holding both pillows simultaneously, looking at the camera with an enthusiastic expression as she compares the 'cat' and 'dog' versions. (6) The video concludes with her displaying the cat pillow while turning her body slightly.",
+      "audio_narrative_log": "(1) Upbeat, cheerful electronic pop music starts with a fast tempo. An energetic female voice begins speaking immediately, describing the items. (2) Ambient warehouse sounds including distant chatter and mechanical hums are present but kept low in the mix. (3) A calm, off-screen male voice enters the conversation, reacting to the product details and interacting with the female host. (4) The music remains consistent in volume as the dialogue between the two speakers continues through to the end.",
+      "text_narrative_log": "(1) Decorative: '刺繡的動物' (Embroidered animals) - informative tone. (2) Hook: '刺繡動物抱枕 399元' (Embroidered animal pillow 399 NTD) - promotional tone. (3) Hook: '你是貓控？還是狗控？' (Are you a cat person? Or a dog person?) - engaging tone. (4) Decorative: '好可愛喔' (So cute) - emotional tone. (5) Functional: '雪納瑞做的特別漂亮' (The Schnauzer is made particularly beautiful) - descriptive tone. (6) Hook: '貓派狗派一次滿足' (Cat/Dog factions satisfied at once) - persuasive tone. (7) Functional: '這個是橘貓 因為胖嘟嘟的' (This is an orange cat because it's chubby) - humorous tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.05,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Close-up product demonstration -> Dialogue-based comparison -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female host, 2 blurred shoppers in the background aisles",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a white long-sleeve shirt under a black sleeveless vest dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Retail Space"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A typical Costco warehouse interior with high ceilings, industrial lighting, and tall shelves stacked with clothing and household goods.",
+      "lightingStyle": "Intense studio-style overhead warehouse lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Cat",
+        "Dog"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, high-pitched and excited",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Warehouse hum",
+        "Distant chatter"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature Highlight -> Comparison -> CTA",
+      "mainPurpose": "To showcase a specific 'find' at Costco—embroidered animal pillows—and share the price and design details to inform and entertain followers who enjoy shopping or cute home decor. The video uses the 'cat person vs. dog person' trope to drive engagement.",
+      "visualEmotion": "Cheerful and energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Prominent display of the Costco logo, price reveal, and enthusiastic recommendation of the specific product features.",
+      "endorsementObject": [
+        "COSTCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy opening with product showcase, interactive 'this or that' questions in captions.",
+      "freeDescribe": "The video effectively targets a niche audience of bargain hunters and animal lovers through clear price callouts and high-quality close-ups of the product texture."
+    }
+  }
+}

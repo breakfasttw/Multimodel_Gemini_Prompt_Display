@@ -1,0 +1,185 @@
+{
+  "videoName": "2uncle987-20250802174157-2027702238094085.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 49,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Family"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Tokyo",
+          "Tokorozawa"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a hand holding four vintage-style tickets in front of the entrance to Seibuen Amusement Park. (2) A man in a bright red fleece jacket walks through a meticulously recreated Showa-era Japanese shopping street with retro storefronts and signs. Two young boys are seen interacting with a pink rotary telephone and looking at vintage snacks. (3) Performers dressed in mid-20th-century police and civilian costumes engage in street theater and dance. A small three-wheeled parade vehicle passes by. (4) A rapid montage follows showing children on various rides: driving green go-karts, riding a frog and ostrich on a carousel, traveling on a miniature steam train, and spinning on an octopus-themed ride. (5) The man runs up a grand stone staircase toward a building labeled 'Tasogare Cinema'. Inside, the group enters a dining area designed to look exactly like the interior of a luxury vintage train car. (6) A waitress in a formal uniform serves a plate of Japanese 'yoshoku' (western-style food) featuring hamburger steak, fried shrimp, and omelet rice. The video ends with a price list overlay.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop music with a strong percussion beat starts immediately. A male voice speaks in Mandarin, introducing the location and the nostalgic atmosphere. (2) Ambient sounds of a theme park are heard, including the chatter of crowds and children's excited voices. (3) During the parade segment, the music remains dominant, but the sounds of street performers shouting and cheering are audible. (4) On the rides, the children's high-pitched voices are heard shouting 'Bye bye!' and laughing. (5) In the restaurant, the soundscape shifts slightly to include the ambient chugging and whistle of a train, simulating a moving railcar environment. (6) The video concludes with the music fading out as the voiceover provides final comments.",
+      "text_narrative_log": "(1) '日本東京 西武園遊樂園' - Functional text identifying the location as Tokyo Seibuen Amusement Park. (2) '派出所', '商店街', '零食', '周邊' - Decorative/Functional labels identifying the police station, shopping street, snacks, and merchandise sections. (3) '隨機的表演' - Hook text indicating random street performances. (4) '遊行 15:30 每日一場' - Functional text giving parade times. (5) '超過20種遊樂設施' - Decorative hook emphasizing the variety of rides, followed by labels like '卡丁車' (Go-kart) and '旋轉木馬' (Carousel). (6) '入園門票' - Functional text showing ticket prices for adults (4400 yen) and children (3300 yen)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video follows a logical flow from park entry to street activities, ride montages, and finally dining and pricing information."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 adult male (the creator), 2 young boys (main travelers), and various background performers/passers-by.",
+      "mainCharacterDescription": "An adult male wearing a bright red textured fleece jacket and black pants; two young boys in casual jackets (yellow and beige)."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Theme Park",
+          "Retro Street",
+          "Restaurant"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The background transitions from a sunny outdoor amusement park gate to a sheltered, retro-styled Japanese shopping street with wooden buildings and paper lanterns, and finally into a dim, wood-paneled train-themed restaurant interior.",
+      "lightingStyle": "Natural bright sunlight outdoors; warm, atmospheric indoor lighting in the shopping street and restaurant.",
+      "weather": "Sunny",
+      "season": "Spring/Autumn",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "POV",
+        "Follow shot",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Hamburger Steak",
+        "Fried Shrimp",
+        "Omelet Rice",
+        "Broccoli"
+      ],
+      "trafficDetect": [
+        "Vintage Parade Vehicle",
+        "Miniature Train",
+        "Go-kart"
+      ],
+      "techDetect": [
+        "Pink Rotary Phone"
+      ],
+      "landmark": [
+        "Seibuen Amusement Park"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 5,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 2
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and informative",
+        "pitch": "Moderate",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion",
+        "Strings"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit",
+        "Bass guitar"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Train Whistle",
+        "Bell"
+      ],
+      "ambientNoise": [
+        "Crowd chatter",
+        "Theme park ambience"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Location Showcase -> Action Compilation -> Practical Utility",
+      "mainPurpose": "The video serves as a travel guide and recommendation for Seibuen Amusement Park in Tokyo. By combining visual proof of the unique Showa-era retro aesthetic, the variety of child-friendly rides, and the immersive themed dining experience, it aims to convince families that this is a high-value destination. The fast-paced editing and upbeat music create a sense of fun and excitement, while the final inclusion of ticket prices provides viewers with actionable planning information.",
+      "visualEmotion": "Energetic and Nostalgic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Family-centric travel perspective with a focus on immersive themed environments.",
+      "freeDescribe": "The video leverages heavy text overlays to guide the viewer through the specific attractions, making it highly suitable for social media consumption where audio might be muted initially."
+    }
+  }
+}

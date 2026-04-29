@@ -1,0 +1,185 @@
+{
+  "videoName": "cocowine0205-20250902173507-943093014723240.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 63,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts in a Costco warehouse; a young woman wearing a blue beret and a black off-shoulder top is holding a pre-packaged food box, smiling and pointing at it. (2) Close-up shots of the food label and other packaged meals on the refrigerated shelf follow. (3) The scene transitions to a kitchen where hands are shown using tongs to stir-fry noodles, meat, and vegetables in a black wok over a gas stove. (4) The final segment shows the woman and another female friend sitting at a dining table, eating the finished noodles from a blue plate and giving thumbs-up gestures.",
+      "audio_narrative_log": "(1) An upbeat, high-tempo electronic pop track begins immediately. A high-pitched, energetic female voice speaks in Mandarin, introducing the product with an excited tone. (2) During the cooking sequence, the sound of sizzling oil and a wok spatula clinking are clearly audible over the background music. (3) As the women taste the food, their voices sound friendly and appreciative, with 'Mmm' sounds and enthusiastic talking, while the upbeat music continues at a steady volume.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo appears at the top; Chinese subtitles translate the spoken dialogue throughout. (2) Decorative/Hook Text: '廣式叉燒炒麵' (Product Name) and '$269/KG' appear as titles. (3) Effect Text: Colorful, variety-show style captions like '好吃嗎' (Is it delicious?), '先拌炒配料' (Stir-fry ingredients first), '你月底的好朋友' (Your friend for the end of the month), and '會很飽' (Will be very full) emphasize the budget-friendly and filling nature of the meal."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Shopping Intro -> Cooking Demonstration -> Tasting and Review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Full body",
+        "Face"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main host in a blue beret and 1 female friend joined during the eating scene.",
+      "mainCharacterDescription": "The main host wears a dark blue beret with a kangaroo logo, a black off-shoulder top, and blue jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Supermarket",
+          "Kitchen",
+          "Dining Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The initial scene is a Costco cold storage aisle with many packaged salads and meals. The kitchen has a modern stovetop. The dining area features a table with plush toys visible in the background.",
+      "lightingStyle": "Bright, even indoor lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Cantonese Fried Noodles",
+        "Barbecue Pork",
+        "Bok Choy",
+        "Carrots",
+        "Mushrooms"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Induction Cooker",
+        "Gas Stove"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Kirkland Signature"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Sizzling",
+        "Pop sound"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Review",
+      "mainPurpose": "The video aims to promote a specific Costco pre-packaged meal ('Cantonese Fried Noodle with Barbecue Pork') by showcasing its ease of preparation, large portion size, and affordability, framing it as an ideal solution for budget-conscious consumers ('your friend at the end of the month').",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of product packaging, price labels, and brand logos coupled with a positive recommendation.",
+      "endorsementObject": [
+        "Costco Wholesale",
+        "廣式叉燒炒麵"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy variety-show style text overlays and a specific focus on cost-performance (CP value).",
+      "freeDescribe": "The video effectively targets students or young professionals looking for high-volume, low-cost meals, utilizing the popular 'Costco haul' format common in Taiwan social media."
+    }
+  }
+}

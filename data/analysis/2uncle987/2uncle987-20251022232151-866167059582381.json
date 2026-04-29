@@ -1,0 +1,182 @@
+{
+  "videoName": "2uncle987-20251022232151-866167059582381.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 14.5,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a POV shot of a hand with red nails reaching out over an airport moving walkway. (2) Consecutive quick cuts show the same hand gesturing towards an airport apron with buses and planes, a children's play area inside a lounge, a vending machine with beverages, and the interior of a crowded train. (3) The hand continues to gesture in a hotel room towards a TV and beds, then in an arcade over a gaming table. (4) The camera finally shifts from POV to show a female character sitting in the children's area with a bored expression, then later in the arcade, she is seen smiling and giving a thumbs up while playing a coin-pusher game.",
+      "audio_narrative_log": "(1) A female voice rhythmically hums \"mmm-mmm-mmm-mmm\" in a low, repetitive tone over a series of short clips. (2) As the scene transitions to the arcade, the humming stops and is replaced by upbeat, high-tempo electronic music. (3) The sound of arcade games, specifically the clinking of coins and digital sound effects from a coin-pusher machine, becomes the dominant background noise.",
+      "text_narrative_log": "(1) Functional text: \"POV: 去日本前的熱身準備\" (POV: Warm-up preparation before going to Japan) appears throughout the video as a hook, set in a bold, shadowed font with a humorous tone. (2) Functional text on the vending machine shows prices like \"190\" and brand names like \"PASMO\" and \"Coca-Cola\"."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 1.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Montage -> Destination Activity"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 12,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 3,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Full body",
+        "Face"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main female creator, 3 kids in the play area, 3 males on the train, 5 other adults in the arcade background.",
+      "mainCharacterDescription": "A young female with dark hair, wearing a black beanie, a grey oversized hoodie, blue jeans, and mustard-colored boots. She has red nail polish."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Airport",
+          "Train Station",
+          "Hotel Room",
+          "Arcade"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The background shifts rapidly from an airport moving walkway and tarmac to a colorful indoor playground, a Japanese vending machine, a subway train interior, a tidy hotel room with a TV, and a brightly lit arcade with neon lights and gaming machines.",
+      "lightingStyle": "Mixed: bright indoor lighting in the airport and arcade, natural light through train and hotel windows.",
+      "weather": "Clear",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Airplane",
+        "Bus",
+        "Train"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "TV",
+        "Vending Machine",
+        "Arcade Machine"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Coca-Cola",
+        "PASMO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and rhythmic",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Coin sounds",
+        "Arcade game effects"
+      ],
+      "ambientNoise": [
+        "Arcade chatter"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage -> Hook -> Evidence: The video uses a fast-paced POV montage of travel-related locations to build anticipation, leading to the actual 'warm-up' activity at an arcade.",
+      "mainPurpose": "To share a humorous and relatable travel vlog experience of visiting Japan, emphasizing the excitement and specific activities (like playing at an arcade) that constitute a traveler's preparation or 'warm-up' rituals.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "Brand logos like Coca-Cola and PASMO are incidental to the environment and not the focus of the content.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of POV hand gestures to frame travel locations; rhythmic humming audio.",
+      "freeDescribe": "The video leverages the 'POV' trend and uses fast-paced editing typical of short-form social media travel content to maintain engagement."
+    }
+  }
+}

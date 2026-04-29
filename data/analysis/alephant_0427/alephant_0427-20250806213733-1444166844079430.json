@@ -1,0 +1,172 @@
+{
+  "videoName": "alephant_0427-20250806213733-1444166844079430.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 19,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Humor"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) 0-4s: A young woman with red-tinted hair and a light grey cap is sitting in a car, smiling at the camera and adjusting her hair. (2) 4-10s: The scene cuts to her standing outside in torrential rain, wearing a black mask and a black t-shirt; her hair is drenched and messy, and she looks at the camera while laughing. (3) 10-19s: She continues to walk and run through the heavy rain, holding a cup, still looking at the camera with a playful and amused expression despite the chaos.",
+      "audio_narrative_log": "(1) 0-4s: Upbeat, electronic background music plays at a moderate volume; no vocals are detected. (2) 4-10s: A sudden hard cut to the loud, continuous white-noise-like sound of heavy rain falling; the music stops completely. (3) 10-19s: The loud rain noise continues as a high-pitched female voice shouts excitedly in Mandarin, laughing and commenting on the intensity of the storm.",
+      "text_narrative_log": "(1) 'POV: 台灣人的日常 Taiwanese Daily Life — Caught in the Rain!' is displayed at the top as a humorous hook. (2) '沾到噴出來的咖啡' appears as functional text explaining she spilled her coffee in the chaos. (3) Subtitles appear at the bottom translating her shouted speech, maintaining a self-deprecating and humorous tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 6.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro (Calm in car) -> Sudden Shift (Drenched in rain) -> Reaction (Running/Laughing)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator appearing throughout the video.",
+      "mainCharacterDescription": "A young woman with reddish hair, wearing a light grey baseball cap, a black t-shirt, and later a black protective mask."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Car",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene shows a standard car interior; subsequent scenes show a rain-swept urban street with blurred buildings and gray sky.",
+      "lightingStyle": "Natural light (overcast)",
+      "weather": "Heavy Rain",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Muted",
+      "cameraWork": [
+        "POV",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Coffee"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Heavy Rain",
+        "Wind"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Contrast -> Reaction",
+      "mainPurpose": "The video uses a dramatic sensory shift (from calm car interior to chaotic rain) to humorously document the relatable struggle of being caught in Taiwan's sudden heavy rain. It aims to entertain viewers through self-deprecating humor and a high-energy reaction to an unfortunate daily event.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Traditional Chinese and English dual titles, POV weather reaction",
+      "freeDescribe": "The sharp contrast between the upbeat BGM and the raw, noisy audio of the rain is a key comedic device in this video."
+    }
+  }
+}

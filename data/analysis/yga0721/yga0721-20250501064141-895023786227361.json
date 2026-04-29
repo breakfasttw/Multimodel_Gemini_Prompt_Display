@@ -1,0 +1,184 @@
+{
+  "videoName": "yga0721-20250501064141-895023786227361.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Challenge"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Okinawa"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a male creator in a white t-shirt standing on a street in Okinawa, Japan, excitedly introducing the goal of the trip. (2) Transitions to several team members attempting to put on tight black wetsuits by a pool; one female member struggles significantly, while others laugh and stretch. (3) On-screen interviews are conducted with various female team members and a male instructor wearing glasses, expressing their anxiety and determination. (4) The scene shifts underwater, showing the team diving in murky water, making hand signals and holding hands for safety. (5) Post-dive, members are seen back on land, still in wetsuits, drinking water and sharing their stressful but successful experiences.",
+      "audio_narrative_log": "(1) Energetic, fast-paced upbeat music plays as a high-pitched male voice introduces the setting with excitement. (2) Sounds of laughter and playful chatter are heard as people struggle with their wetsuits, accompanied by the constant background music. (3) Clear, direct vocal recordings of different female speakers and one male speaker during interview segments, with the BGM lowering slightly in volume. (4) Underwater muffled sounds, bubbles, and regulator breathing noises become prominent during the diving scenes. (5) The music swells back to a high volume as the group celebrates finishing their dive, with many overlapping voices expressing relief.",
+      "text_narrative_log": "(1) Functional Text: 'Japan OKINAWA' and '考潛水證照' (Taking diving certification) are shown to establish context. (2) Decorative Text: '這裡好像有困難...' (Looks like there's some difficulty...) and variety-show style stickers like '好夯喔' (So hot) appear to highlight funny moments. (3) Functional Text: '好像在演一場災難片' (Feels like acting in a disaster movie) and '對自己的空氣剩餘量感到焦慮' (Anxious about the remaining air) narrate the participants' internal states during the challenge."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Preparation and Struggle -> Underwater Action -> Post-challenge Interviews"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 6,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 7,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male host (Cai Aga), 1 male instructor, and 6 female team members.",
+      "mainCharacterDescription": "A male host in a white Human Made t-shirt and camo shorts; several females in black Aqualung wetsuits."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Poolside",
+          "Underwater",
+          "Diving Shop"
+        ],
+        "topography": [
+          "Coastline"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern urban street in Okinawa, a swimming pool area with diving equipment, and the sandy ocean floor.",
+      "lightingStyle": "Natural bright sunlight and murky underwater lighting.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Underwater POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Van"
+      ],
+      "techDetect": [
+        "Diving Computer",
+        "Underwater Camera"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "HUMAN MADE",
+        "AQUALUNG",
+        "BLUEVITA",
+        "Orion"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut between interview clips and action shots.",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 7,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 5,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, humorous, and occasionally anxious.",
+        "pitch": "Varied (high-pitched host, medium-pitched female team members).",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Whip-pan sound"
+      ],
+      "ambientNoise": [
+        "Street noise",
+        "Water splashing",
+        "Underwater bubbles"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Intro -> Series of struggles -> Climax (underwater) -> Conclusion.",
+      "mainPurpose": "To document and share the humorous and challenging journey of a group of friends attempting to earn their diving certifications in Okinawa, emphasizing teamwork and overcoming fear.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Prominent display of AQUALUNG wetsuits and diving gear throughout the certification process.",
+      "endorsementObject": [
+        "AQUALUNG"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy comedic editing style typical of Cai Aga's vlogs, featuring team banter and emotional text stickers.",
+      "freeDescribe": "The video uses a variety-show format to turn a standard tutorial/vlog into an entertaining narrative about group dynamics and physical challenges."
+    }
+  }
+}

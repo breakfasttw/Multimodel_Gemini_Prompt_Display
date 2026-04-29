@@ -1,0 +1,173 @@
+{
+  "videoName": "3ctim-20250607120137-1212212424403534.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 36,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Gaming",
+        "Tech Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a POV shot of a person's hands holding a handheld gaming console. On the screen, the game Mario Kart 8 Deluxe is being played. The character Mario is driving a red kart on a desert-themed track. (2) As the gameplay continues, the player navigates through the track, collecting gold coins and avoiding obstacles. A red banner with white text reading 'Nintendo Switch 2' is clearly visible in the background behind the console. (3) The camera remains static on the hands and console throughout, capturing the movement of the player's thumbs on the joysticks and buttons as the race progresses.",
+      "audio_narrative_log": "(1) A male voice speaks in Mandarin, providing an enthusiastic commentary on the handheld version of the game. The background sound is filled with game audio, including the high-pitched hum of kart engines and the metallic 'ping' of collecting coins. (2) The narrator mentions technical aspects like resolution and screen size, while ambient noise from a crowded exhibition or demo event is audible in the background. (3) Towards the end, a second male voice briefly intervenes with a question, and the primary narrator responds before the recording cuts off.",
+      "text_narrative_log": "(1) Functional Text: White subtitles with black outlines appear at the bottom center of the screen, providing a traditional Chinese translation of the spoken Mandarin narration. (2) Functional Text: In-game UI elements are visible on the console screen, such as the coin count (07), lap counter (3/3), and current position (12th)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 36.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Live Gameplay Demo -> Narrative Commentary"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Legs/Lap"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male subject holding the console, legs visible in the bottom frame.",
+      "mainCharacterDescription": "The main character is wearing a grey long-sleeved shirt, blue jeans, a bright yellow digital watch on the left wrist, and a wooden beaded bracelet on the right wrist."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Exhibition Hall",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A vibrant red background wall featuring a large white 'Nintendo Switch' logo. A black backpack is placed on a light-colored surface below the console.",
+      "lightingStyle": "Bright, direct indoor lighting typical of a commercial exhibition.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm and vibrant, dominated by the red background.",
+      "cameraWork": [
+        "POV",
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Go-kart (in-game)"
+      ],
+      "techDetect": [
+        "Handheld Gaming Console",
+        "Digital Watch"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Nintendo Switch"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Live"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Game Engine SFX",
+        "Coin Pickup SFX"
+      ],
+      "ambientNoise": [
+        "Crowd chatter",
+        "Exhibition Hall ambience"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Feature Highlight -> Performance Demonstration -> Real-time Reaction",
+      "mainPurpose": "The video serves as a first-person hardware demonstration and review of a handheld gaming device, specifically highlighting the visual fidelity and smooth performance of Mario Kart 8 Deluxe. The presence of the 'Nintendo Switch 2' banner suggests it is intended to generate hype or provide early impressions of a new console generation or prototype at a tech event.",
+      "visualEmotion": "Exciting, Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Reviewing a specific product (Nintendo Switch) at a branded booth with logos clearly visible.",
+      "endorsementObject": [
+        "Nintendo Switch"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Close-up POV handheld gaming style",
+      "freeDescribe": "The focus is heavily on the tactile experience and screen quality of the device. The background 'Nintendo Switch 2' banner is a significant hook for viewers interested in gaming news."
+    }
+  }
+}

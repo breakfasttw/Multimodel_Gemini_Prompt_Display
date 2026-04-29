@@ -1,0 +1,170 @@
+{
+  "videoName": "3ctim-20250803215320-2084553492391263.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 59,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Tech"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man with glasses and a blue cap talks directly to the camera while holding an iPhone. (2) The camera switches to a close-up of the iPhone screen showing a wallpaper of the man himself. (3) The man's hands demonstrate the step-by-step process of adding a new photo wallpaper from the gallery, scrolling through various images. (4) He clicks a specific button to generate a spatial/3D effect, then tilts the physical phone to show depth and movement of the subject against the background. (5) He adds a battery widget to the lock screen and saves the settings, finishing with the customized 3D wallpaper.",
+      "audio_narrative_log": "(1) A male voice speaks enthusiastically and at a fast pace in Mandarin, introducing the topic of 3D wallpapers. (2) A very subtle, low-volume lo-fi electronic background track plays throughout the duration. (3) Occasional soft tapping sounds are heard as the speaker interacts with the phone screen. (4) The speech density remains high throughout as he provides instructions until the final sign-off.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles translated as 'Teaching everyone how to quickly make 3D wallpaper'. (2) Decorative/Effect Text: Top-left headers '3C有意思Tim哥' along with Facebook and Instagram icons. (3) Content & Tone: The text content is instructional and direct, with a helpful and encouraging emotional tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 4.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Screen-based Tutorial -> Physical Demo of 3D Effect -> Saving Settings"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main creator visible in the intro and his hands in the tutorial segments.",
+      "mainCharacterDescription": "A middle-aged man wearing glasses, a blue denim-style cap, and a light green t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A plain grey studio wall for talking-head shots and a wooden surface/table for phone screen close-ups.",
+      "lightingStyle": "Bright indoor studio lights",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and friendly",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Lo-fi",
+      "bgmBPM": 88,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Tutorial -> Evidence -> Outro",
+      "mainPurpose": "A technical tutorial aimed at iPhone users to teach them how to utilize the iOS spatial depth effect on wallpapers, specifically how to turn 2D photos into 3D-like moving backgrounds through built-in software tools.",
+      "visualEmotion": "Informative and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "The video content is entirely focused on a specific feature of the iPhone and iOS operating system.",
+      "endorsementObject": [
+        "Apple"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Specific opening intro line and branding overlay '3C有意思Tim哥'.",
+      "freeDescribe": "The video utilizes efficient editing and clear on-screen visual prompts to make complex technical steps accessible for short-form video viewers."
+    }
+  }
+}

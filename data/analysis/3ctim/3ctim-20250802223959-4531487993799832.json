@@ -1,0 +1,178 @@
+{
+  "videoName": "3ctim-20250802223959-4531487993799832.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 42,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing a green t-shirt, glasses, and a multi-colored newsboy cap is talking to the camera with high energy. (2) The scene cuts to a close-up of two Vivo smartphones (V100 5G and V29 5G) on a display stand. (3) The man holds a clear plastic smartphone case, pointing specifically at a cutout on the side frame meant for the camera control button. (4) Close-up shots highlight the precision of the cutout on the case. (5) Throughout the video, various graphics representing iPhones and tech leaks appear on screen alongside the speaker.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music starts immediately and remains consistent. (2) A male voice speaks rapidly and enthusiastically in Mandarin, with clear articulation and professional tone. (3) Occasional 'pop' or 'ding' sound effects punctuate text appearances and scene transitions. (4) The audio concludes with a direct question asked to the audience.",
+      "text_narrative_log": "(1) Decorative: 'iPhone 17 全系列' (iPhone 17 Series) appears with a graphic. (2) Decorative: '指紋解鎖要回來了?!' (Fingerprint unlock is coming back?!) with an emotional, curious tone. (3) Functional: 'miko 米可手機館' (miko mobile phone store) remains as a persistent watermark/logo. (4) Functional: Subtitles at the bottom translate the speaker's Mandarin narration into Traditional Chinese text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Product Comparison -> Detailed Leak Evidence (Phone Case) -> Speculative Conclusion -> Question to Audience"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male creator (3C Tim) is the sole human subject visible.",
+      "mainCharacterDescription": "Middle-aged Asian male, wearing a green 'Roots' branded t-shirt, round glasses, a beige/yellow/grey newsboy cap, and a beaded bracelet on his right wrist."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A brightly lit indoor studio with a soft-focus background and a secondary shot showing a mobile phone retail display counter.",
+      "lightingStyle": "Studio lighting, bright and even.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Phone Case"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple",
+        "vivo",
+        "miko",
+        "realme",
+        "Roots"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Normal",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop SFX",
+        "Transition Swoosh"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Speculation based on physical object -> Call to Action",
+      "mainPurpose": "The video aims to build hype and engagement regarding the upcoming iPhone 16/17 design leaks. The creator uses a factory-leaked phone case to suggest that the new 'Camera Control' button cutout might actually be a return to Touch ID (fingerprint identification), concluding with a community question to drive comments.",
+      "visualEmotion": "Energetic and curious"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Persistent watermark for 'miko 米可手機館' and a direct verbal recommendation to buy phones there.",
+      "endorsementObject": [
+        "miko 米可手機館"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Signature newsboy cap and energetic '3C Tim' persona.",
+      "freeDescribe": "The video utilizes high-density text overlays and rapid-fire speech typical of Taiwanese tech-vloggers to maintain high retention rates on short-form platforms."
+    }
+  }
+}

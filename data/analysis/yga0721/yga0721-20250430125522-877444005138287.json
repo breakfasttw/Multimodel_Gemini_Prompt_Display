@@ -1,0 +1,172 @@
+{
+  "videoName": "yga0721-20250430125522-877444005138287.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 14,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Skit"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young man sits on a closed toilet seat in a bathroom, wearing a pink sweatshirt and dark pants, intently looking at his smartphone. Text at the top reads 'POV: When wife asks you to take care of the kids'. (2) He switches to playing an orange handheld gaming console, leaning forward with a focused expression. (3) He then switches to reading a book with a portrait on the cover. (4) Suddenly, he stands up and begins a frantic cleaning sequence: he wipes the toilet lid, scrubs the bathtub with a sponge, uses a squeegee on the wall tiles, and wipes the bathroom mirror with a cloth, moving with exaggerated speed and a panicked facial expression.",
+      "audio_narrative_log": "(1) Upbeat, slightly whimsical orchestral music begins with a steady tempo featuring piano and woodwinds. No vocals detected. (2) Short, rhythmic sound effects of scrubbing and wiping enter, synchronized with the man's cleaning movements. (3) The background music continues at a consistent pace until the video ends.",
+      "text_narrative_log": "(1) Decorative Text: 'POV：當老婆叫你顧小孩 / When wife asks you to take care of the kids' appears in a brown bar at the top, setting a relatable and humorous hook. (2) Functional Text: The book title on the cover is partially visible but primarily serves as a prop."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 2.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "The man transitions from idling on the toilet with various distractions to a frantic, high-speed cleaning montage."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male character performing all actions.",
+      "mainCharacterDescription": "A young Asian male with short dark hair, wearing a peach/pink sweatshirt with 'HH' branding and loose-fitting dark denim-like pants."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Bathroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A typical household bathroom with cream-colored wall tiles, a white toilet, a white bathtub, a laundry basket, and various toiletries on a shelf.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and warm",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Handheld Game Console"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Nintendo"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Smooth layering of SFX over BGM",
+      "vocalRatio": "None"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Orchestral",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Keyboard",
+        "Strings",
+        "Woodwind"
+      ],
+      "instrumentsAudible": [
+        "Piano",
+        "Violin"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Scrubbing sounds",
+        "Squeegee squeak"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Inaction -> Sudden Shift -> Hyperactive Task Completion",
+      "mainPurpose": "To create relatable comedic content focusing on domestic dynamics. It satirizes the behavior of avoiding responsibility (childcare) by hiding in the bathroom, and the subsequent panic to look productive when one's partner is presumably about to check on them.",
+      "visualEmotion": "Humorous and Frantic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "While a Nintendo Switch and branded clothing are visible, they appear as personal props rather than paid placements.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of 'POV' text overlay to frame the relatable scenario.",
+      "freeDescribe": "The video relies heavily on physical comedy and the 'relatable husband' trope common in short-form social media skits."
+    }
+  }
+}

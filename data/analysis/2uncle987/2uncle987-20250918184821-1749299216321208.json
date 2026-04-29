@@ -1,0 +1,179 @@
+{
+  "videoName": "2uncle987-20250918184821-1749299216321208.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 89,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Promotion",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts in a modern living room. A man in a brown sweater reaches for a bag of snacks on a light wood table, while a woman in a pink hoodie sitting on a white sofa watches him with a look of disapproval. (2) They engage in an animated conversation with exaggerated facial expressions. The man looks defensive, while the woman points and gestures to emphasize her point about hygiene. (3) The woman shows a white pump bottle (HygieneCare). Close-ups show her dispensing white foam into her hands and rubbing them together. (4) The scene shifts to a laundry room where a person pours a milky liquid from a large white bottle into the detergent drawer of a Whirlpool washing machine. (5) A split-screen comparison shows 'Before' (moldy bathroom silicone) and 'After' (clean silicone) transitions. (6) Another split-screen shows 'Before' (water-stained faucet) and 'After' (shiny faucet) transitions. (7) Finally, the couple returns to the sofa, holding the products and pointing toward the bottom of the screen with happy, smiling faces.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced electronic background music begins. A male voice speaks defensively in Mandarin, followed by a female voice with a slightly nagging, concerned tone. (2) As the conversation intensifies, the BGM maintains a consistent bouncy rhythm. (3) The female voice transitions into an informative voiceover (narration) style as the visual shows product use. (4) Subtle sound effects like 'pop' or 'ding' are heard when text overlays appear. (5) The male voice returns, sounding impressed and enthusiastic ('Bie-bai-ne!'). (6) The video concludes with both voices speaking energetically together to deliver the final call to action.",
+      "text_narrative_log": "(1) '不洗手喔!' (Not washing hands!) - Decorative text showing the woman's concern. (2) '家裡沒細菌就不髒嗎?' (Isn't it dirty if there are no germs at home?) - Functional text summarizing the debate. (3) '腸病毒 / 諾羅病毒 / 超級細菌' (Enterovirus / Norovirus / Superbug) - Alarming decorative text highlighting health risks. (4) '黃金盾 泡沫式乾洗手' (HygieneCare Foam Hand Sanitizer) - Functional product title. (5) '8小時長效護膜' (8-hour long-lasting protective film) - Key feature text. (6) 'Before / After' - Comparison labels in the bathroom scenes. (7) '團購優惠中' (Group buy discount in progress) - Call-to-action text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 3.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Problem Hook -> Debate/Information -> Product Demo -> Use Cases -> CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male in a brown sweater and 1 female in a pink hoodie act as the main hosts.",
+      "mainCharacterDescription": "The man wears a brown long-sleeved shirt and white pants. The woman has dark hair in pigtails and wears a pink oversized hoodie and shorts."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room",
+          "Laundry Room",
+          "Bathroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A clean, modern apartment with a large white sofa, minimalist shelves, a laundry area with a Whirlpool washer, and a bathroom with glass and metal fixtures.",
+      "lightingStyle": "Bright, even indoor lighting (Studio/Natural mix)",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Split-screen"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Snacks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Washing Machine"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "黃金盾",
+        "Whirlpool"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and persuasive",
+        "pitch": "Moderate",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drum"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Pop-up sounds"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Problem -> Solution -> Multi-product Demo -> CTA",
+      "mainPurpose": "To promote the 'HygieneCare' (黃金盾) brand's line of cleaning and antibacterial products. The video uses a relatable domestic conflict about hygiene to introduce the hand sanitizer, then expands into laundry and bathroom cleaning solutions to demonstrate the brand's versatility.",
+      "visualEmotion": "Energetic and Clean"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The characters explicitly name the brand, demonstrate the products, show before/after results, and provide a call to action for a group buy link.",
+      "endorsementObject": [
+        "黃金盾"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-show style text overlays and fast-paced conversational banter between the duo.",
+      "freeDescribe": "The video effectively uses the 'expert vs. skeptic' dynamic to deliver product information in an engaging way."
+    }
+  }
+}

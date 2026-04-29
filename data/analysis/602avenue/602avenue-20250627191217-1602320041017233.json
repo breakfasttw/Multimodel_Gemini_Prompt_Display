@@ -1,0 +1,181 @@
+{
+  "videoName": "602avenue-20250627191217-1602320041017233.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 41,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Interview",
+        "Reaction"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A female celebrity with long dark hair, wearing a yellow strawberry t-shirt and jeans, sits in a studio environment with 'CAPSULE' and 'YouTube' branding on the shelves behind her. An interviewer's hands are seen pulling items from a brown paper bag. (2) Two boxes that look like instant noodle packaging (labeled Beef Noodles) are presented to the woman. She looks at them with a confused and curious expression. (3) The woman realizes the items are actually facial masks; she reacts with intense laughter, wide eyes, and gestures toward her face. The camera cuts between her laughing and close-ups of the product packaging.",
+      "audio_narrative_log": "(1) Upbeat, energetic electronic background music begins. A high-pitched female voice (the interviewer) speaks excitedly in Mandarin. (2) The background music continues as the celebrity speaks in a mix of Korean and Mandarin, sounding confused and then surprised. (3) Loud, synchronous laughter from two women dominates the audio track. Occasional cartoon-style sound effects (SFX) such as pops and dings punctuate the reaction phases.",
+      "text_narrative_log": "(1) Functional Text: 'Taiwan Gifts for Korean star' and 'Solar' appear as recurring titles. (2) Hook Text: '頌樂女神' (Solar Goddess) with heart-eyes emoji, and '猜猜看是什麼呢？' (Guess what it is?). (3) Effect Text: '牛肉麵' (Beef Noodles), '是面膜！' (It's a mask!), and '笑到翻過去' (Laughing so hard I'm turning over)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.9,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Gifting/Guessing -> Reveal -> Reaction/Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main female celebrity sitting, 1 female interviewer partially visible/hands only.",
+      "mainCharacterDescription": "A female celebrity (Solar) with long dark hair, wearing a pale yellow t-shirt with a strawberry graphic, denim jeans, and silver jewelry."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern studio shelf with wooden compartments containing 'CAPSULE' branded bags, 'YouTube' pillows, and decorative books.",
+      "lightingStyle": "Bright studio lights",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English",
+          "Korean"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Zoom",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Cat (Meme overlay)"
+      ],
+      "foodsDetect": [
+        "Instant Noodles (Packaging)"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "CAPSULE",
+        "YouTube"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "High-pitched",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Korean"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop SFX",
+        "Ding",
+        "Cartoon shock sound"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Presentation -> Reveal -> Reaction",
+      "mainPurpose": "To entertain the audience by showing a famous Korean star's reaction to a unique and confusing Taiwanese gift (facial masks disguised as noodle boxes), while promoting the collaboration between the celebrity and the CAPSULE agency.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The prominent placement of 'CAPSULE' branding and the specific focus on the 'Beef Noodle' facial mask products.",
+      "endorsementObject": [
+        "CAPSULE",
+        "牛肉麵面膜"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Variety-show style captioning and rapid reaction editing common in Asian influencer content.",
+      "freeDescribe": "The video leverages the 'cultural shock' or 'novelty gift' trope to generate engagement through celebrity reaction."
+    }
+  }
+}

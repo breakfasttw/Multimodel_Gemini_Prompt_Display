@@ -1,0 +1,170 @@
+{
+  "videoName": "1105ya-20250902203355-1646219163214578.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 18,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Dance",
+        "Entertainment"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a live-action dance performance. A young woman wearing a grey crop top and a pleated mini-skirt stands in a modern hallway or studio featuring large mirrored panels and bright ceiling lights. She initiates a high-energy dance routine with synchronized arm swings and a point toward the camera. (2) She transitions into a series of leg kicks and rhythmic side-to-side steps, maintaining a cheerful smile and direct eye contact with the lens. Her movements are fluid and fast-paced. (3) The choreography continues with overhead arm gestures and more complex footwork. A second person is briefly visible in the background mirror reflection, also moving.",
+      "audio_narrative_log": "(1) High-energy electronic dance music starts immediately with a heavy bassline and fast-paced rhythm. (2) Female vocals enter, singing in English with an upbeat and high-pitched tone ('So come up with me, I'll take you high'). The tempo remains constant and driving. (3) The track continues with repetitive melodic loops and vocal harmonies through to the end of the clip. No environmental sounds or sound effects are audible over the music.",
+      "text_narrative_log": "(1) Functional Text: 'BLACKPINK JUMP' is displayed in bold white capital letters at the top of the frame, serving as a title for the dance challenge."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 18.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Continuous Dance Performance"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female dancer in foreground, 1 female appearing in mirror reflection/background.",
+      "mainCharacterDescription": "A young woman with long dark hair, wearing a light grey sports crop top, a dark grey pleated mini-skirt, white knee-high socks, and black shoes."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Hallway",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern indoor environment with large dark mirrored wall panels on one side and floor-to-ceiling glass windows on the other. The ceiling has recessed linear lighting.",
+      "lightingStyle": "Bright, even indoor lighting from ceiling fixtures.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and clear",
+      "cameraWork": [
+        "Static",
+        "Low-angle"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and pop-style",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous singing",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat K-pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Performance -> Pose",
+      "mainPurpose": "The video is created as a social media dance cover or challenge performance. It aims to showcase the dancer's skill and energy by performing a choreographed routine to a specific popular track, indicated by the text hook 'BLACKPINK JUMP'.",
+      "visualEmotion": "Energetic and Positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "K-pop dance challenge format, low-angle static camera setup.",
+      "freeDescribe": "The video aligns with popular short-form video trends where creators perform specific choreographies associated with music artists or groups."
+    }
+  }
+}

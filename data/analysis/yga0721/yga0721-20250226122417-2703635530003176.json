@@ -1,0 +1,180 @@
+{
+  "videoName": "yga0721-20250226122417-2703635530003176.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 89,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Promotion",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a woman sitting at her office desk. A man in a black sweater approaches her, shouting and waving papers. (2) The scene shifts to a bright showroom where the man, now in a blue and white striped shirt, and the woman are standing next to a mattress. (3) The man demonstrates the stability of the mattress by placing a candle and a glass of water on it while the woman jumps or rolls beside them. (4) Close-up shots show the internal structure of the foam and the man's hands pressing into the material. (5) The man points to various promotional texts on screen while the woman lies comfortably on the bed in different positions (back, side, stomach). (6) The video concludes by cutting back to the office setting where the woman appears to have been dreaming at her desk.",
+      "audio_narrative_log": "(1) The audio starts with a male voice shouting in a loud, comedic, and exaggerated tone. Upbeat and fast-paced background music begins immediately. (2) A female voice asks a question with a curious and clear tone. (3) The man transitions into a high-energy promotional narration style, explaining product benefits. (4) Various sound effects (SFX) are heard, including thumping sounds during the bed test and whooshing sounds for transitions. (5) The background music remains consistent in its energetic tempo throughout the demonstration. (6) The video ends with a return to the comedic shouting and office ambient sounds.",
+      "text_narrative_log": "(1) Functional Text: Names of characters and subtitles for the spoken dialogue. (2) Hook/Decorative Text: '懲罰你' (Punish you) and '兩倍薪水' (Double salary) appear in large, colorful fonts during the intro skit. (3) Brand Text: '日日居 ZEZE GOOD' and product names like '三眠制釋壓床墊' appear prominently. (4) Promotional Text: '10年保固', '150天安心試睡', '6期0利率', and '57折' highlight the sales offer."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 3.17,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Skit Hook -> Transition to Showroom -> Product Feature Demo -> Promotion Details -> Comedic Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main male creator and 1 female staff member acting as the subject.",
+      "mainCharacterDescription": "The male creator is wearing a black sweater in the intro and a blue/white striped polo shirt in the demo. The female staff is wearing a black sweatshirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Office",
+          "Showroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "An office with computers and papers, followed by a clean, minimalist mattress showroom with light gray walls and wooden accents.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Bright",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Computer",
+        "Monitor",
+        "Keyboard"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "日日居",
+        "ZEZE GOOD"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Whip",
+        "Splash"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Circular: Hook -> Demo -> Promotion -> Return to Hook",
+      "mainPurpose": "The video uses a humorous 'dream' scenario where a boss gives an employee a raise to grab attention, then pivots to endorse ZEZE GOOD mattresses. It highlights product stability and comfort through physical demonstrations and presents a significant limited-time discount to drive sales.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product demonstration, verbal praise of features, and detailed presentation of warranty and pricing offers.",
+      "endorsementObject": [
+        "日日居",
+        "ZEZE GOOD"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Exaggerated yelling delivery and rapid-fire subtitles typical of the creator's style.",
+      "freeDescribe": "This is a standard influencer commercial skit that blends entertainment with high-pressure sales tactics common in the Taiwanese digital market."
+    }
+  }
+}

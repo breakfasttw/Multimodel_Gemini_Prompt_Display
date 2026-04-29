@@ -1,0 +1,174 @@
+{
+  "videoName": "cocowine0205-20250816004508-1540814060313864.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 40,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman wearing a white frilly dress and a grey bucket hat stands in front of a restaurant entrance, gesturing enthusiastically toward the camera. (2) The scene cuts to multiple quick shots of the restaurant interior, showcasing a high-end buffet layout with various stations including a seafood ice bed, a sushi counter, and hot food areas with chefs working behind them. (3) The woman returns to the frame, making hand gestures like a phone call and pointing to her head while speaking directly to the camera. (4) A brief shot shows the restaurant reception counter with three staff members. (5) The final segment shows the woman giving a thumbs up and cheering with both hands raised in front of the restaurant logo.",
+      "audio_narrative_log": "(1) Upbeat and fast-paced electronic pop music starts immediately. A female voice speaks in Mandarin with a high-pitched, energetic, and excited tone. (2) As the visuals shift to the food stations, the music remains consistent while the vocal continues at a rapid pace. Muffled background clatter and low ambient chatter from a restaurant setting are audible. (3) The vocal remains dominant through the phone booking and on-site tips. (4) The music reaches a crescendo as the speaker's voice becomes even more enthusiastic during the call to action.",
+      "text_narrative_log": "(1) '無私分享 100% 預約方法' (Selfless sharing of 100% reservation methods) - Hook text. (2) '台灣最難訂 自助餐島語' (Taiwan's hardest-to-book buffet: Island) - Informative hook. (3) '每個月1號上午11點' (11 AM on the 1st of every month) - Functional text for online booking tip. (4) '不要自己掛掉' (Don't hang up on your own) - Functional text for phone booking tip. (5) '100%一定會插隊' (100% will definitely cut in line) - Decorative text emphasizing the effectiveness of the on-site booking tip. (6) '趕快分享給你' (Quickly share it with you) - Emotional call to action."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.85,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Listing specific booking tips with b-roll -> Final encouragement and Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 6,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 2 female receptionists, 1 male receptionist, 2 male chefs in background.",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a grey glittery bucket hat and a white frilly/textured dress over a black and white top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Restaurant"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The interior of a modern, luxury buffet restaurant with marble counters, warm wood accents, and various food preparation stations with neon signage.",
+      "lightingStyle": "Warm, bright indoor lighting typical of a commercial restaurant.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm and Bright",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Seafood",
+        "Sushi",
+        "Roasted Duck",
+        "Dessert"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "島語 ISLAND"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and helpful",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Restaurant chatter"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Method 1 (Online) -> Method 2 (Phone) -> Method 3 (On-site) -> CTA",
+      "mainPurpose": "The video aims to provide viewers with practical, 'insider' tips on how to book a table at the popular 'Island' buffet in Taiwan, which is notoriously difficult to reserve. It uses a helpful and energetic tone to build trust and engagement with the audience.",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed information on how to book and positive framing of the restaurant's popularity.",
+      "endorsementObject": [
+        "島語 ISLAND"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy presentation with exaggerated hand gestures and specific hat accessory.",
+      "freeDescribe": "The video leverages the 'scarcity' psychological trigger by focusing on how hard the restaurant is to book, making the tips feel more valuable."
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "videoName": "2uncle987-20250410233102-913680811068139.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel Review",
+        "Accommodation Tour"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Osaka"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a shot of the Nipponbashi Station Exit 8 entrance in Osaka. (2) A hand gestures toward a street, followed by shots of a walking route featuring a 7-Eleven store and the sign for 'Elizabeth Garden' guesthouse. (3) A woman in a blue and yellow patterned sweatshirt and a young boy with glasses enter a modern apartment. (4) They provide a room-by-room tour: a bedroom with a double bed, a modern toilet, a bathroom with a washing machine, and a spacious living/dining area where other adults are sitting on the floor. (5) They showcase a traditional Japanese-style room with tatami mats where the boy climbs into a storage cupboard, and a final bedroom with a dedicated workspace. (6) The video concludes with the woman summarizing the stay while interacting with the boy in the apartment.",
+      "audio_narrative_log": "(1) Upbeat, rhythmic pop background music starts and continues throughout the video. (2) A female voice speaks in an energetic, high-pitched tone, narrating the proximity to the station and describing the room features. (3) The young boy is heard making excited sounds and talking occasionally. (4) Background ambient city noise is briefly heard at the beginning, transitioning to a clean indoor environment soundscape for the tour. (5) The music volume remains steady as the narrator provides a price summary and final recommendation.",
+      "text_narrative_log": "(1) '地鐵 - 日本橋駅 八號出口' (Subway - Nipponbashi Station Exit 8) - Informative hook. (2) '步行大約 5 分鐘' (About 5 minutes walk) - Convenience hook. (3) '下樓就有 7-11' (7-11 just downstairs) - Convenience hook. (4) '民宿招牌 / 民宿大門' (Guesthouse Sign / Entrance) - Functional identification. (5) '雙人床', '免治馬桶', '提供洗衣機', '超大空間', '兩張單人床' (Double bed, Washlet, Washing machine provided, Huge space, Two single beds) - Functional room features. (6) '7,000 多台幣' (Over 7,000 TWD) - Price information. (7) '推' (Recommend) - Emotional closing endorsement."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 3.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Location Hook -> Neighborhood Walkthrough -> Comprehensive Room Tour -> Price & Logic Summary"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female host, 1 child (main), and 2 other adults sitting in the living room background.",
+      "mainCharacterDescription": "A woman with her hair in pigtail braids wearing a gray, blue, and yellow floral sweatshirt. A young boy wearing glasses and a cream sweatshirt with 'HAHABABY' text."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Indoor Apartment",
+          "Subway Station"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A typical Japanese urban street, a station exit with signs, and a multi-room modern apartment with wooden flooring, minimal furniture, and household appliances.",
+      "lightingStyle": "Bright daylight for outdoors and well-lit interior studio-quality lighting indoors.",
+      "weather": "Sunny",
+      "season": "Spring",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Follow shot",
+        "Static",
+        "Panning"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Bicycle"
+      ],
+      "techDetect": [
+        "Washing machine",
+        "Refrigerator",
+        "Induction cooker",
+        "Computer monitor",
+        "Air conditioner"
+      ],
+      "landmark": [
+        "Nipponbashi Station"
+      ],
+      "brandLogos": [
+        "7-Eleven",
+        "Elizabeth Garden"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Cheerful and enthusiastic",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic Pop",
+      "bgmBPM": 118,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "City traffic"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Proximity -> Amenities -> Pricing -> Recommendation",
+      "mainPurpose": "The video's primary objective is to recommend a family-friendly guesthouse in Osaka. It provides practical details on location, nearby convenience, interior space, and cost to help travelers make informed decisions.",
+      "visualEmotion": "Cheerful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of the guesthouse name, visual walkthrough of all amenities, and a verbal/textual recommendation with pricing.",
+      "endorsementObject": [
+        "Elizabeth Garden"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Family-centric vlog style featuring a signature child co-host wearing brand merchandise (HAHABABY).",
+      "freeDescribe": "The use of descriptive text overlays for every room feature turns a simple vlog into a practical travel guide, likely targeting families with young children given the emphasis on space and safety."
+    }
+  }
+}

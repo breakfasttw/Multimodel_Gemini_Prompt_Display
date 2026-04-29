@@ -1,0 +1,180 @@
+{
+  "videoName": "yga0721-20251216155007-1480388660174522.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 90,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Norway"
+        ],
+        "city": [
+          "Tromsø"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a man in a yellow cardigan and a red beanie walking on a snowy city street, gesturing excitedly towards a building. (2) The scene shifts to the exterior of a McDonald's with a sign reading 'The Northernmost McDonald's in the World'. (3) Close-up shots of McDonald's postcards and interior signage follow. (4) The main character and a female companion are then seen sitting inside the restaurant, unboxing and examining various food items like burgers and fries. (5) They taste the food, showing exaggerated facial expressions of surprise and analysis. (6) A third man joins them later to taste the fries, and the video concludes with them continuing their review at the table.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic background music starts immediately. A high-pitched, excited male voice speaks rapidly in Mandarin. (2) Ambient street noise is faintly audible under the music. (3) As the scene moves indoors, the music continues while a female voice joins the conversation, sounding curious and engaged. (4) Sounds of food packaging being opened, chewing, and liquid pouring are heard. (5) A second male voice with a deeper tone appears briefly to offer a critique. (6) The overall audio remains fast-paced with continuous dialogue and persistent BGM.",
+      "text_narrative_log": "(1) Functional Text: '來 蔡宗翰' (Come, Cai Zonghan), '這你的點啊' (This is your point). Decorative Hook: '全世界最北邊麥當勞' (The northernmost McDonald's in the world) in bold yellow text. (2) Functional Text: '最北麥當勞明信片 / NT$30' indicating price. Narrative text explaining the history: '這間麥當勞是在去年才變成最北的' (This McDonald's just became the northernmost last year). (3) Functional Text: '麥香魚堡 / NT$450', '地瓜薯條 / 加購價 NT$66', '辣味雞塊 四塊 / NT$170', '雙層牛肉堡 / NT$700'. (4) Effect Text: '(有請薯條大師評鑑)' (Inviting the fries master for evaluation) and '(確實)' (Indeed) used for comedic emphasis."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro on street -> Reveal location -> Food unboxing and tasting -> Group review and conclusion."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 1 female co-host, 1 male guest, and at least 2 passers-by in the background.",
+      "mainCharacterDescription": "A male with a red beanie and a bright yellow knit cardigan over a white shirt; a female with a blue Adidas sweatshirt and a light-colored cap."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Fast Food Restaurant"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Outdoor shots show a modern European street with snow on the ground and retail buildings. Indoor shots show a clean, wood-paneled McDonald's interior with standard tables and digital kiosks.",
+      "lightingStyle": "Natural daylight outdoors and bright, even commercial lighting indoors.",
+      "weather": "Overcast",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Handheld",
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Burger",
+        "French Fries",
+        "Chicken Nuggets",
+        "Soda"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "McDonald's",
+        "Adidas"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, humorous, and critical",
+        "pitch": "Medium-high",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Meme sounds"
+      ],
+      "ambientNoise": [
+        "Street noise",
+        "Restaurant chatter"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Intro -> Location Hook -> Price Reveal -> Taste Test -> Comparison.",
+      "mainPurpose": "The video aims to provide an entertaining and informative review of the world's northernmost McDonald's in Tromsø, Norway. It focuses on the novelty of the location, the significantly high prices compared to Taiwan, and a subjective taste comparison of standard menu items.",
+      "visualEmotion": "Energetic and Curious"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video appears to be independent travel content rather than a paid advertisement, as it critiques the high prices and compares the food to other regions objectively.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin commentary, fast-paced editing with variety-show style text overlays, and price comparisons to the creator's home currency (NTD).",
+      "freeDescribe": "The video leverages the 'northernmost' superlative to gain viewer interest and uses cost-of-living differences as a primary discussion point, which is a common trope in travel vlogging."
+    }
+  }
+}

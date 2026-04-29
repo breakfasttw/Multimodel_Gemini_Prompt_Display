@@ -1,0 +1,193 @@
+{
+  "videoName": "cocowine0205-20251211195142-4342576159346543.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 90,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Shopping Guide",
+        "Promotion",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a middle-aged male character with a mustache and glasses standing inside a Costco warehouse. He gestures energetically towards the camera while a large, multi-colored title card about Costco's weekly sales and Black Friday pre-deals appears on screen. (2) The scene shifts into a rapid-fire sequence of product shots within the warehouse. Each shot focuses on a specific item—such as frozen pork slices, milk powder, stewed beef soup, tiramisu, and various snacks—stacked on shelves or in refrigerated units. Large text overlays dominate the center of each frame, showing price reductions. (3) The fast-paced montage continues through dozens of items, including beverages, detergents, and household goods, before concluding with shots of wine and skincare products.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic background music starts immediately. A male voice speaks very rapidly and enthusiastically, introducing the 'Costco Weekly Sale Report' and telling viewers to follow for updates. (2) The male narrator continues to announce the names of various products and their discounted prices in a high-pitched, rhythmic tone that matches the speed of the visual cuts. There is minimal ambient noise, as the voice and music are the primary focus. (3) The narration and upbeat BGM maintain a consistent, fast tempo throughout the entire duration, creating a sense of urgency and excitement for the deals described.",
+      "text_narrative_log": "(1) Decorative Text: 'COSTCO WHOLESALE', '黑五前哨大特價' (Black Friday Pre-sale), '好市多 每週特價速報' (Costco Weekly Special Report), and '11/17-11/23 記得追蹤我們' (Remember to follow us). (2) Functional Text: For each product shown, text provides the product name and price details, e.g., '台灣冷凍豬梅花火鍋片' (Taiwan Frozen Pork Collar Hot Pot Slices), '原價415/KG' (Original price), '-86' (Discount), '特價329/KG' (Special price). (3) This pattern repeats for over 40 products including '豐力富奶粉', '提拉米蘇', 'Airwaves', and 'Quaker' oats, using clear, bold characters to emphasize the savings."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 46,
+      "averageSceneDuration": 1.95,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Rapid-fire Product Price Showcase -> Fast Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Upper body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, approx 4 shoppers blurred in the warehouse background",
+      "mainCharacterDescription": "A middle-aged man with a prominent mustache, wearing glasses and a light-colored shirt, appearing enthusiastic."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Costco"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The interior of a large Costco warehouse with high industrial ceilings, rows of metal shelving, refrigerated display cases, and pallets of bulk goods.",
+      "lightingStyle": "Intense studio lights / Industrial fluorescent",
+      "weather": "Indoor",
+      "season": "Autumn",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pork",
+        "Milk Powder",
+        "Beef Soup",
+        "Tiramisu",
+        "Egg Rolls",
+        "Chocolate",
+        "Chips",
+        "Oatmeal",
+        "Yogurt",
+        "Croissant",
+        "Cake"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco",
+        "Fernleaf",
+        "Airwaves",
+        "Meiji",
+        "Quaker",
+        "Nestle",
+        "Palmolive",
+        "Tresemme",
+        "Campbell's"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and persuasive",
+        "pitch": "Medium-high",
+        "loudness": "Loud",
+        "speed": "Extremely fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat / Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Information List -> CTA",
+      "mainPurpose": "The video serves as a rapid-fire promotional guide to inform Taiwanese consumers about current sales and Black Friday early-bird discounts at Costco Wholesale. By combining high-energy narration, fast-paced editing, and clear price-comparison text, it aims to drive foot traffic and encourage social media engagement.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video explicitly lists discounted prices for specific brands sold at Costco and encourages viewers to follow for more 'speed reports'.",
+      "endorsementObject": [
+        "Costco Wholesale Taiwan"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The 'mustache' persona and the 'Weekly Sale Speed Report' (每週特價速報) branding.",
+      "freeDescribe": "The video utilizes a 'bargain hunter' aesthetic typical of short-form social media marketing in Asia, prioritizing information density over cinematic quality."
+    }
+  }
+}

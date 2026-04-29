@@ -1,0 +1,172 @@
+{
+  "videoName": "3ctim-20250803085527-1638715790473885.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 21,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Demo",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman sits at a white table, adjusting an Apple Vision Pro headset over her eyes with the help of an assistant's hands. (2) She begins waving her hands in front of her face as if interacting with a virtual interface, smiling and showing a surprised facial expression. (3) A male assistant enters the frame partially to guide her hand movements; she points her fingers and gestures while continuing to wear the headset, with a game controller and tablet visible on the table.",
+      "audio_narrative_log": "(1) The audio begins with the ambient hum of a crowded indoor space and indistinct chatter. (2) A female voice says '開啟旅行模式' (Open travel mode) in a clear, excited tone, followed by several 'Hi' greetings and laughter. (3) A male voice enters, speaking in a calm, instructional tone about the device's functionality, with the female voice responding in short, affirmative phrases as she follows the guidance.",
+      "text_narrative_log": "None"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 21.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "The video follows a single continuous shot of a product demonstration from setup to interaction."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main female user, 1 male assistant guiding her, and 1 background passerby appearing briefly.",
+      "mainCharacterDescription": "A young woman wearing a white, floral-patterned crochet tank top and denim shorts."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Exhibition Hall",
+          "Tech Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A white minimalist table with a tablet and a PS5 controller, set against a backdrop of a lavender-colored wall and office chairs.",
+      "lightingStyle": "Bright, even studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Clean and Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Apple Vision Pro",
+        "Tablet",
+        "PS5 Controller"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 5,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and instructional",
+        "pitch": "Medium-high (female), Medium (male)",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Crowd chatter",
+        "Indoor room tone"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Interaction -> Demonstration",
+      "mainPurpose": "The video serves as an experiential demonstration of the Apple Vision Pro's spatial computing capabilities, specifically highlighting the user's reaction and physical interaction with the travel mode interface.",
+      "visualEmotion": "Curiosity and Excitement"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The subject is actively testing and demonstrating a specific identifiable high-tech consumer product.",
+      "endorsementObject": [
+        "Apple Vision Pro"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "None",
+      "freeDescribe": "The video captures the authentic physical awkwardness and wonder associated with first-time spatial computing usage."
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "videoName": "alephant_0427-20250809162027-2790654897944859.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 93,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Cosplay",
+        "Music Performance"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a female cosplayer dressed as Nezuko Kamado sitting in a traditional Japanese-style room, playing a pink electronic keyboard. (2) The scene transitions to a male cosplayer dressed as Tanjiro Kamado playing a violin in the same environment, featuring a red umbrella and autumn leaves. (3) Frequent cuts occur between the two performers, including close-ups of the violin strings and the keyboard keys being played. (4) The cosplayers maintain focused, serene expressions throughout the performance. (5) The video concludes with the female cosplayer finishing the song on the keyboard.",
+      "audio_narrative_log": "(1) A soft, melodic keyboard intro starts, setting a gentle and melancholic atmosphere. (2) A violin enters, playing a high-pitched, emotional lead melody that dominates the soundscape. (3) No vocals are detected; the audio is a purely instrumental cover of a recognizable theme. (4) The tempo is slow and steady, with the two instruments harmonizing throughout the middle section. (5) The piece ends with a soft fade-out of the keyboard notes.",
+      "text_narrative_log": "(1) Functional text at the start identifies the song as '竈門炭治郎のうた' (Kamado Tanjiro no Uta) from '鬼滅の刃' (Demon Slayer). (2) Decorative text credits the performer as '小提琴 Cover By 阿樂'. (3) Dual-language subtitles (Japanese and Traditional Chinese) appear chronologically at the bottom, translating the original song lyrics."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 5.1,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Instrumental Performance -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Side view"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 female cosplayer playing keyboard, 1 male cosplayer playing violin.",
+      "mainCharacterDescription": "One female in a pink kimono with a bamboo muzzle and long dark hair; one male in a green-and-black checkered haori with short dark hair and a hanafuda earring."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Japanese Style Room",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "Traditional Japanese interior with tatami mats, shoji screens, a red wagasa umbrella, and decorative maple branches with orange leaves.",
+      "lightingStyle": "Soft, warm indoor studio lighting",
+      "weather": "Indoor",
+      "season": "Autumn (thematic)",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Japanese",
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm and Cinematic",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Electronic Keyboard"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "Electronic Keyboard",
+        "Violin"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "None"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Classical / Anime OST Cover",
+      "bgmBPM": 75,
+      "instrumentFamiliesAudible": [
+        "Keyboard",
+        "Strings"
+      ],
+      "instrumentsAudible": [
+        "Piano",
+        "Violin"
+      ],
+      "musicSourceType": [
+        "Live"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Musical Performance -> Duet Integration -> Thematic Closure",
+      "mainPurpose": "To showcase an instrumental musical cover of the popular anime song 'Kamado Tanjiro no Uta' through a visually themed cosplay performance, targeting fans of 'Demon Slayer'.",
+      "visualEmotion": "Melancholic and Serene"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-quality cosplay combined with instrumental music covers.",
+      "freeDescribe": "The video focuses heavily on aesthetic accuracy to the source material (Demon Slayer) to enhance the emotional resonance of the music."
+    }
+  }
+}

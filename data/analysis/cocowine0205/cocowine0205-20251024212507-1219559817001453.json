@@ -1,0 +1,179 @@
+{
+  "videoName": "cocowine0205-20251024212507-1219559817001453.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 64,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Product Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins in a bright Costco warehouse. A female presenter holds a large purple and white bag of Sanritsu Heike-Pie snacks, gesturing toward stacks of the product on warehouse shelves. (2) The scene shifts to an indoor living room. The presenter, now wearing a gray bucket hat, carefully opens the individual packaging of a pie, showing its layers and the dark raisins on top to the camera. (3) She takes a bite of the snack, smiles, and holds half of the pie up for a macro close-up, demonstrating its flaky texture. (4) The video concludes with her continuing to eat and display the snack's details.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced electronic background music begins. A female voice excitedly introduces the snack and mentions its availability at Costco. (2) A male voice-over joins, providing a detailed description of the product's ingredients, such as raisins marinated in liquor, and the quality of the pastry. (3) Occasional 'crunching' sound effects are synced with the presenter's eating actions, and 'chime' SFX accompany the appearance of highlight text. (4) The music remains consistent in tempo as the female voice summarizes her positive experience.",
+      "text_narrative_log": "(1) Functional Text: '不用去日本 在好市多也可以買到的' (Don't need to go to Japan, you can get it at Costco too) - Informative and inviting. (2) Decorative Text: '三立葡萄派家庭包' (Sanritsu Raisin Pie Family Pack) and '殿堂級的點心' (Palace-level snack) - Enthusiastic and promotional. (3) Functional Text: '一大包不用300元呢' (A large pack is less than 300 TWD) - Value-oriented. (4) Hook Text: '一口接一口' (One bite after another) - Persuasive and appetizing tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.66,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Location intro at warehouse -> Product unboxing at home -> Close-up tasting and sensory review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female presenter; 1 male assistant's hand appears at 0:15 pointing at the product.",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a brown off-the-shoulder top and later adding a gray bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse",
+          "Indoor Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Initially a commercial warehouse environment with industrial shelves and bulk products; later a cozy indoor home setting with a sofa and dining table.",
+      "lightingStyle": "Bright, even lighting in both scenes, suggesting high-quality indoor light or studio assistance.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation, Warm",
+      "cameraWork": [
+        "Static",
+        "Macro Close-up",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Raisin Pie",
+        "Biscuits"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "SANRITSU"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, persuasive, and friendly",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Crunching",
+        "Chime",
+        "Sparkle"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Discovery Hook -> Contextual Proof -> Detailed Sensory Review -> Value Verdict",
+      "mainPurpose": "The video acts as a persuasive product review and endorsement for Sanritsu Heike-Pie snacks. By combining on-site verification at Costco with a home-based sensory demonstration, the content aims to highlight the product's Japanese pedigree, its unique flavor profile (brandy-soaked raisins), and its cost-effectiveness to encourage viewers to purchase.",
+      "visualEmotion": "Cheerful and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed positive review focusing exclusively on one product and its specific retailer (Costco).",
+      "endorsementObject": [
+        "SANRITSU",
+        "COSTCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy dual-gender narration combined with variety-show style text graphics and Foley-enhanced eating sounds.",
+      "freeDescribe": "The use of 'Costco' as a destination hook is a common tactic for lifestyle influencers to ground product reviews in a relatable, accessible shopping context."
+    }
+  }
+}

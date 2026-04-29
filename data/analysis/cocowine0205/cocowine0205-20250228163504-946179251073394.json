@@ -1,0 +1,181 @@
+{
+  "videoName": "cocowine0205-20250228163504-946179251073394.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 84,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in a pink fuzzy sweater and a grey/black patterned fluffy hat stands in a Costco warehouse, positioned in front of large red product display boxes. She talks enthusiastically to the camera, gesturing with her hands. (2) She picks up a large white and red bag of 'Bee Cheng Hiang Crispy Pulled Pork Twist' and shows both sides of the packaging to the camera. (3) The scene shifts to a home interior. The same woman is now seated at a counter with a friend, wearing a black beret and a white long-sleeved top. They hold the snack bag and smaller individual packets within it. (4) They open the packets and pour the contents onto a light blue plate, revealing thin, crispy pork strands and many small broken pieces. They pick up individual strands to examine and eat them, reacting with varying facial expressions.",
+      "audio_narrative_log": "(1) An upbeat, high-tempo pop/vlog background music starts. A high-pitched, energetic female voice narrates excitedly about being at Costco and finding a specific pork snack. (2) Ambient sounds of a retail environment are briefly audible but overshadowed by the music and narration. (3) The audio transitions to a quieter room setting with the same background music continuing. Two female voices are heard discussing the price (339 NTD) and the weight of the product. (4) Occasional 'pop' and 'chime' sound effects are used to punctuate the appearance of text on screen or actions like opening the bag. (5) The sound of plastic crinkling and the crunching of the snack is clearly audible during the tasting phase.",
+      "text_narrative_log": "(1) '豬肉大人來到了' - Hook text indicating the 'Pork Lord' has arrived. (2) '$339元 美珍香 脆烤豬肉絲' - Functional text showing the price and product name. (3) '妹妹特別把我拉過來...' - Functional narration about how they found the product. (4) '值得嗎?' - Hook text questioning if the product is worth the price. (5) '滿滿的空氣' - Decorative text humorously noting the air in the bag. (6) '碎片偏多' - Functional descriptive text noting the amount of broken pieces. (7) '渣渣的感覺' - Descriptive text about the texture."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at Costco -> Product Selection -> Home Unboxing -> Taste Test and Critique"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Half body"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 female hosts performing the review; occasional blurred shoppers in the store background.",
+      "mainCharacterDescription": "One woman is dressed in a pink fuzzy sweater and leopard hat (store) then a white top and black Kangol beret (home). The second woman is wearing a black mesh-sleeve top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Indoor Kitchen/Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A Costco warehouse with industrial shelving and bulk food displays, followed by a modern residential kitchen/living area with warm lighting.",
+      "lightingStyle": "Mixed: Bright warehouse lighting and warm home interior lighting.",
+      "weather": "Unknown",
+      "season": "Winter",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pork Snack",
+        "Crispy Pulled Pork"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "美珍香",
+        "KANGOL"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Vlog",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Meme sounds",
+        "Chimes",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Store background"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Intro -> Price/Product Detail -> Sensory Review -> Conclusion",
+      "mainPurpose": "The video serves as a critical consumer review of a specific Costco snack (Bee Cheng Hiang Crispy Pulled Pork Twist). The creators highlight that while the flavor is good, the packaging contains a lot of air and the product itself breaks into many small fragments, potentially diminishing the eating experience given its price point.",
+      "visualEmotion": "Cheerful but Critical"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct review and tasting of a branded product from a specific retailer.",
+      "endorsementObject": [
+        "美珍香",
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy opening, use of Variety-show style text overlays, and 'Costco haul' vlog format.",
+      "freeDescribe": "The video targets budget-conscious but quality-seeking foodies in the Taiwan region, utilizing a common unboxing contrast (expectation vs reality)."
+    }
+  }
+}

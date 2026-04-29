@@ -1,0 +1,174 @@
+{
+  "videoName": "5inana-20250302213505-25975104132174059.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 10,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Behind-the-scenes"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The scene begins with a side view of a person wearing a vibrant yellow jacket and a red checkered scarf, focused on filming a plate of food. They are holding a professional camera setup featuring a large white telephoto lens and a smartphone mounted as a monitor. (2) The person uses a single metal chopstick to gently poke and adjust a fried egg sitting atop a plate of noodles, ensuring the perfect shot for the camera which is positioned inches away. (3) In the background, other patrons are visible sitting at tables and eating in what appears to be a casual indoor eatery or small restaurant. The camera capturing this footage remains static throughout.",
+      "audio_narrative_log": "(1) The audio consists of a series of repetitive, sharp mechanical clicking sounds, resembling a high-speed camera shutter or a motorized device being triggered. (2) Beneath the clicking, there is a consistent layer of ambient restaurant noise, including the faint clatter of dishes and low-level background chatter. (3) No human vocals or music are present; the soundscape is dominated by the rhythmic mechanical clicks and environmental room tone.",
+      "text_narrative_log": "None"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 10.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "The video shows a single, continuous shot of a person meticulously arranging food while filming with professional equipment."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Hands only",
+        "Full body",
+        "Side view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main individual filming, 2 patrons sitting directly behind, and 1 person visible in the further background.",
+      "mainCharacterDescription": "A person with dark hair wearing a bright yellow raincoat or jacket and a red and white checkered scarf."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Eatery",
+          "Restaurant"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A casual indoor restaurant with wooden tables and chairs, fluorescent lighting, and other customers eating in the background.",
+      "lightingStyle": "Bright fluorescent indoor lighting",
+      "weather": "Unknown",
+      "season": "Winter",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Bright and saturated",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Fried Egg",
+        "Noodles"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Professional Camera",
+        "Telephoto Lens",
+        "Tripod",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "None"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Camera Shutter Clicks"
+      ],
+      "ambientNoise": [
+        "Restaurant Ambience",
+        "Dish Clinking"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Action",
+      "mainPurpose": "The video serves as a behind-the-scenes look at the professional effort required for high-quality food content creation. It highlights the contrast between the sophisticated camera gear and the humble, everyday setting of a local diner, emphasizing the 'craft' behind social media or commercial food imagery.",
+      "visualEmotion": "Focused and Industrious"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Juxtaposition of high-end cinematography gear with casual, everyday environments.",
+      "freeDescribe": "The use of a telephoto lens for macro-style food shots suggests a professional or high-level hobbyist approach to content creation."
+    }
+  }
+}

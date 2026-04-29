@@ -1,0 +1,181 @@
+{
+  "videoName": "3ctim-20250823164523-1450302350057977.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 77,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Tech News"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing a grey flat cap, glasses, and a green T-shirt stands outdoors in front of a white wall with 'Ask more' written on it, speaking energetically. (2) The scene shifts indoors to a product display area featuring multiple Google Pixel 10 phones in various colors (blue, purple, green, black) on rotating stands. (3) Close-ups of the camera modules for the Pixel 10, Pro, and Pro XL are shown, followed by a demonstration of the camera's zoom interface on the screen. (4) The Pixel 10 Pro Fold is displayed, highlighting its folding mechanism and IP68 water resistance. (5) An animation shows the Qi2 wireless charging feature with a magnetic puck attaching to the phone. (6) The video concludes with close-ups of several silicone keychain accessories shaped like Google-branded characters with Taiwanese cultural themes, such as a black bear and a pineapple cake.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced electronic pop music starts and continues throughout the video. A male voice speaks with an excited and professional tone, introducing the Pixel 10 series. (2) As the visuals move through different product models, the male voice provides a continuous narration of technical specifications and features. (3) The acoustic environment is clean, suggesting high-quality recording or post-production voiceover. (4) Towards the end, a female voice briefly exclaims 'Super cute!' in Mandarin during the keychain segment. (5) No significant ambient noise or distracting SFX are present.",
+      "text_narrative_log": "(1) 'Pixel 10 全系列新品' (New Pixel 10 Series Products) appears as a main hook. (2) Functional text labels identify 'Pixel 10', 'Pixel 10 Pro XL', 'Pixel 10 Pro Fold', 'Pixel Watch 4', and 'Pixel Buds 2a'. (3) Technical highlight text: '首次搭載三鏡頭' (First time equipped with three lenses), '生成式 AI' (Generative AI), '首度支援 IP68' (First support for IP68), '支援 Qi2' (Supports Qi2), '25W'. (4) Chipset info: 'Tensor G5 處理器' and '台積電 3奈米' (TSMC 3nm). (5) Promotional event text: '8/22~9/14 快閃店活動 抽可愛小物' (Pop-up store event, win cute items)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Host Intro -> Rapid Product Showcase -> Technical Feature Deep-dive -> Event CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator presenting; hands visible during product demonstrations.",
+      "mainCharacterDescription": "Middle-aged male, wearing a grey flat cap, spectacles, a green 'ROOTS' branded t-shirt, and an orange lanyard."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Electronics Store",
+          "Studio"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Starts with a white wall featuring 'Ask more' text; transitions to a polished product display area with wooden tables and glass stands; ends with a tabletop shot of colorful accessories.",
+      "lightingStyle": "Bright studio lighting mixed with natural outdoor light.",
+      "weather": "Sunny/Clear",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Smartwatch",
+        "Earbuds",
+        "Wireless Charger"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Google",
+        "TSMC",
+        "Roots"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Product Feature Listing -> Specific Demo -> Promotional Call-to-Action",
+      "mainPurpose": "To generate excitement and provide technical details for the newly launched Google Pixel 10 series in Taiwan, while promoting an upcoming pop-up store event where viewers can win themed accessories.",
+      "visualEmotion": "Energetic and Optimistic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product showcase, detailed spec readout, and promotion of a specific branded event.",
+      "endorsementObject": [
+        "Google Pixel 10 Series"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing style with dense Traditional Chinese keyword overlays; influencer style common in Taiwan tech reviews.",
+      "freeDescribe": "The video specifically highlights the connection between Google and TSMC, emphasizing local Taiwanese manufacturing pride (3nm process)."
+    }
+  }
+}

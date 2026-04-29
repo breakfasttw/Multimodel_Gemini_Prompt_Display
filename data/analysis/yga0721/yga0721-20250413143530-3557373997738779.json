@@ -1,0 +1,180 @@
+{
+  "videoName": "yga0721-20250413143530-3557373997738779.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 91,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Commercial",
+        "Lifestyle",
+        "Comedy"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man in a white t-shirt and a woman in a black sweatshirt are sitting across from each other at a white table, playing a fast-paced reaction game involving a bell and plastic cups. (2) The woman looks frustrated and gestures dismissively as the man stands up, brandishing a pink foam bat and speaking excitedly to the camera in a modern apartment setting. (3) The scene shifts to a montage of a white DIKE brand portable air cooler being used in various rooms: a kitchen where the woman is cooking, a living room where she is napping on a sofa, and a bedroom where she is sleeping in bed. (4) The man and woman then crouch next to the air cooler on the floor, the man points at the device's display panel and gestures toward the woman. (5) A lineup of four different white cooling appliances (portable AC, tower fan, handheld fan) is shown in a hallway. (6) The man holds a small light blue handheld fan, gesturing enthusiastically while the woman stands behind him, both looking directly at the camera.",
+      "audio_narrative_log": "(1) Rapid metallic ringing sounds of a service bell accompany high-pitched, playful arguing between a male and a female voice. (2) An upbeat, fast-tempo pop-style background music track fades in as the male voice becomes loud, energetic, and takes on a rhythmic, sales-pitch tone. (3) The male voice narrates product features with a professional but highly excited cadence, occasionally punctuated by subtle 'whoosh' sound effects during scene transitions. (4) A short dialogue segment occurs between the man and woman with a balanced vocal ratio over the music. (5) The male voice returns to a high-energy delivery for a final promotional offer, ending with a sharp, enthusiastic closing statement.",
+      "text_narrative_log": "(1) Functional white and yellow subtitles at the bottom of the screen translate the spoken Chinese dialogue throughout the video. (2) Large, stylized decorative hook text appears in the center-left: '天氣太熱' (The weather is too hot) and '真的有問題!' (There's really a problem!) in bold red and yellow fonts. (3) Product-specific labels and feature text appear during the montage: 'DIKE多功能移動式瞬涼水冷氣', '免安裝', '廚房', '客廳', '臥室', '250瓦', '優惠中'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 32,
+      "averageSceneDuration": 2.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Game -> Problem/Conflict (Heat) -> Solution (Product Showcase) -> Technical Details -> Group Buy Offer/CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Torso"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male creator in white t-shirt, 1 female co-star in black sweatshirt.",
+      "mainCharacterDescription": "The male has short brown hair, wearing a white t-shirt and light blue athletic pants. The female has black hair tied in pigtails, wearing an oversized black sweatshirt and black pants with cut-outs."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room",
+          "Indoor Kitchen",
+          "Indoor Bedroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A minimalist, modern apartment with light-colored wooden floors, white walls, built-in cabinetry, and large windows. Furniture includes a white dining table, a white sectional sofa, and a platform bed with pink floral sheets.",
+      "lightingStyle": "Bright, even studio-style lighting with some natural light from windows.",
+      "weather": "Sunny (inferred from context of heat and light)",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Portable Air Cooler",
+        "Tower Fan",
+        "Handheld Fan"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "DIKE"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, persuasive, and humorous",
+        "pitch": "High (male), Normal (female)",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Bell ring",
+        "Whoosh",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Problem -> Solution -> Demo -> CTA",
+      "mainPurpose": "The video is a promotional advertisement for DIKE brand cooling products. It uses a comedic opening 'game' to establish a high-energy mood, then pivots to the 'problem' of summer heat making people irritable. It systematically demonstrates the versatility of the DIKE air cooler in different home scenarios to show its portability and convenience, followed by technical reassurance about electricity costs, and ends with a time-sensitive group-buy discount to drive sales.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct address to camera, product demonstration, logo display, and mention of a group-buy offer.",
+      "endorsementObject": [
+        "DIKE"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-pitched enthusiastic delivery, variety-show style text graphics, and the presence of a known influencer (Cai Aga).",
+      "freeDescribe": "The video effectively blends variety-show entertainment with direct-response marketing. The pace is designed for short-form platforms (TikTok/Reels/Shorts) to maintain viewer attention through rapid visual changes."
+    }
+  }
+}

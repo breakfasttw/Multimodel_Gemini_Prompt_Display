@@ -1,0 +1,174 @@
+{
+  "videoName": "3ctim-20250511131241-1953867851875776.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 29,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tutorial",
+        "Vlog",
+        "Tech"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man wearing a checkered flat cap and glasses sits in the driver's seat of a car, holding an iPhone and speaking toward someone off-camera. (2) He maneuvers the iPhone to show the screen, displaying the Apple Wallet app with a Suica card interface; he proceeds to input a top-up amount of 5000 Yen while gesturing at the screen. (3) The phone displays a payment processing animation, after which the man holds the phone up to show a completed transaction checkmark.",
+      "audio_narrative_log": "(1) A female voice off-camera asks a question in a curious tone. A male voice responds enthusiastically, talking about the current low exchange rate of the Japanese Yen. (2) The male voice narrates his actions step-by-step as he uses his phone to top up a travel card, accompanied by faint street noise and the sound of finger taps on glass. (3) The man exclaims 'Success!' as the transaction completes, ending with a satisfied tone.",
+      "text_narrative_log": "(1) Functional Text: \"老闆你在衝沙毀\" (What are you doing, boss?) - Curious tone. (2) Functional Text: \"我跟你講... 超酷的... 現在日幣呢 0.209\" (I'm telling you... so cool... now the Yen is 0.209) - Informative and excited tone. (3) Decorative/Effect Text: \"太及時了吧\" (So timely!) - Surprised tone. (4) Functional Text: \"正在處理付款... 成功！\" (Processing payment... Success!) - Triumphant tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 7,
+      "averageSceneDuration": 4.14,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Explanation of Opportunity -> Practical Tech Demonstration -> Result"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head",
+        "Full body (seated)",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator visible in the driver's seat; 1 female voice audible but not visible.",
+      "mainCharacterDescription": "A middle-aged man wearing a black and white houndstooth flat cap, clear-framed glasses, and a white t-shirt with black graphic text. He has a wooden bead bracelet on his right wrist."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Car",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The interior of a vehicle with leather seats and a sunroof; through the window, a city street with a shop sign featuring the character '武' and a phone number is visible.",
+      "lightingStyle": "Natural light",
+      "weather": "Sunny",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "BMW",
+        "Apple",
+        "Suica"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and instructional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "No Music",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Car interior",
+        "Street traffic"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Explanation -> Demonstration -> Success",
+      "mainPurpose": "The video serves as a practical financial and travel tip for viewers, demonstrating the ease of reloading a digital Suica card via an iPhone's Apple Wallet. By capitalizing on a favorable exchange rate for the Japanese Yen (0.209), the creator provides a real-time example of how technology can be used to manage travel expenses efficiently, presenting the process as both simple and rewarding for tourists.",
+      "visualEmotion": "Informative and Upbeat"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "Personal tech tip vlog style without explicit promotional language for a third-party brand.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Casual car-side tech sharing style.",
+      "freeDescribe": "The video captures a spontaneous moment of sharing a useful travel/finance hack, common in influencer-led lifestyle content."
+    }
+  }
+}

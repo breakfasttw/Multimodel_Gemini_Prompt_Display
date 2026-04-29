@@ -1,0 +1,182 @@
+{
+  "videoName": "yga0721-20251203093825-1576670590043687.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 83,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man in a white oversized t-shirt and white pants stands in a living room with a person wearing a large, cartoonish orange head mask. They are gesturing and talking animatedly. (2) The man brings out a black Prada shopping bag and a jewelry box, opening it to reveal a black hair claw clip. (3) A digital graphic appears showing the product's price on a website. (4) The man, the masked character, and a young boy move through various rooms (bathroom, bedroom) picking up numerous plastic hair clips from different surfaces. (5) A woman in a white dress and denim jacket enters the kitchen area; the man presents her with the Prada clip. She looks surprised and smiles broadly. (6) The group interacts in the kitchen/dining area while the woman examines the gift and the boy plays with balloons.",
+      "audio_narrative_log": "(1) Upbeat, quirky, fast-paced electronic background music plays. A high-pitched, energetic male voice speaks rapidly in Mandarin. Occasional interjections from a second male voice. (2) The music continues as the man's voice becomes more dramatic and loud during the product reveal. (3) A 'Ding' sound effect and an 'Oh my god' vocal sample play when the price graphic appears. (4) Fast-paced music continues with sounds of objects being moved and children's laughter. (5) A female voice enters, sounding surprised with 'Huh?' and 'Wow' interjections. (6) Music fades slightly into the background as the male and female voices converse in a humorous, high-energy tone. Sounds of balloons popping or being hit are audible.",
+      "text_narrative_log": "(1) Functional Text: Mandarin subtitles translate the spoken dialogue throughout. (2) Decorative/Hook Text: Large, colorful, stylized captions like '買一堆!!' (Buy a bunch!!), '都亂丟!!' (Throwing them everywhere!!), and '不見' (Disappeared) appear to emphasize emotional points. (3) Product Info: 'Prada天價鯊魚夾' (Prada sky-high priced shark clip) and '要價$23500!!!' appear during the reveal. (4) Counter Text: '(客浴+1)', '(房間床頭+2)' track the number of hair clips found. (5) Outro Hook: '看二伯什麼時候就會不見' (See when Er Bo will lose it) appears at the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 38,
+      "averageSceneDuration": 2.18,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro/Problem Setup -> Product Reveal -> Search Montage -> Reaction/Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 1 adult female, 1 child boy, 1 adult male in a mascot mask.",
+      "mainCharacterDescription": "The man is wearing a cream-colored short-sleeved sweatshirt and matching trousers. The woman is wearing a long white dress with a blue denim jacket."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room",
+          "Bathroom",
+          "Bedroom",
+          "Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern, well-lit apartment interior with teal curtains, wooden furniture, a white bathroom, and a bright kitchen with a laptop on the table.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Mandarin",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Prada"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched, excited, and humorous",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Quirky Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Cartoon Boing",
+        "Crowd Cheering",
+        "Meme Vocals"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Problem -> Solution/Reveal -> Reaction -> CTA",
+      "mainPurpose": "The video serves as a comedic lifestyle vlog entry. The creator highlights his partner's habit of losing inexpensive hair clips and 'solves' the problem by buying an absurdly expensive Prada version as an experiment to see if its value will make her more careful. It blends entertainment, family interaction, and luxury brand curiosity.",
+      "visualEmotion": "Humorous and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed showing of the packaging, product, and price tag of a specific luxury item.",
+      "endorsementObject": [
+        "Prada"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-cut variety show editing style, use of large pop-up text, high-energy Mandarin narration common in Taiwanese YouTube culture.",
+      "freeDescribe": "The video uses exaggerated facial expressions and sound effects to drive engagement, typical of the creator's known style."
+    }
+  }
+}

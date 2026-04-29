@@ -1,0 +1,173 @@
+{
+  "videoName": "cocowine0205-20251220230507-1862468941064485.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 75,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A female host stands in a Costco warehouse, holding a large, colorful Snoopy floor mat. She is smiling and gesturing towards the product. (2) The scene cuts between various close-ups of different Snoopy rug designs, including one with Snoopy on a red doghouse, one with a rainbow, and another with Peanuts characters' faces. (3) The host demonstrates the thickness and texture of the mat by touching it and showing its anti-slip backing. (4) The host continues to showcase different designs while talking enthusiastically, ending with a triple-paneled Snoopy rug.",
+      "audio_narrative_log": "(1) High-energy, upbeat background music starts immediately. A female voice speaks with a cheerful and excited tone, introducing the product. (2) A male voice, presumably the cameraman, enters the conversation, providing humorous commentary and asking questions. (3) The audio consists of a steady stream of enthusiastic dialogue layered over the continuous BGM. (4) Subtle ambient sounds of a large warehouse environment are present but mostly masked by the vocals and music.",
+      "text_narrative_log": "(1) Decorative: The 'COSTCO WHOLESALE' logo is prominently displayed at the top of the frame throughout. (2) Functional: Large, bold text '699元' (699 dollars) appears as a hook, emphasizing the price. (3) Decorative: '史努比超美大地墊' (Snoopy super beautiful large floor mat) titles the video content. (4) Functional: Traditional Chinese subtitles translate the spoken dialogue between the host and the cameraman. (5) Hook: '高機率會在折扣' (High probability it will be on sale) suggests a shopping tip."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 5.3,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Product introduction -> Close-up feature demonstration -> Variety showcase -> Closing shopping advice."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 female host visible in full body; 1 male cameraman's hands visible periodically pointing at the products.",
+      "mainCharacterDescription": "A young Asian female with long black hair, wearing a light-colored top and a dark overall-style dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The background consists of Costco warehouse shelves filled with bulk goods, pallets of merchandise, and typical industrial warehouse lighting.",
+      "lightingStyle": "Intense studio-like warehouse lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Dog (Snoopy cartoon)"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco",
+        "Peanuts"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High (female) and Deep (male)",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature Highlight -> Product Variation List -> Final Recommendation",
+      "mainPurpose": "The video serves as a shopping guide and product recommendation for Snoopy-themed rugs sold at Costco. It aims to capture the attention of fans of the Peanuts franchise by highlighting the vibrant designs, large size, and affordable price point. Through a dynamic interaction between the host and the cameraman, it conveys a sense of discovery and urgency for viewers to purchase the item before it sells out or to wait for a potential upcoming discount.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video focuses entirely on a specific brand's products (Peanuts) within a specific retail chain (Costco), providing price and size details typical of influencer marketing.",
+      "endorsementObject": [
+        "Costco",
+        "Peanuts"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy interaction between an on-screen host and an off-screen narrator, common in 'Costco Finds' social media content.",
+      "freeDescribe": "The use of vibrant text overlays and direct-to-camera address is optimized for short-form video platforms like TikTok or Reels to drive consumer engagement."
+    }
+  }
+}

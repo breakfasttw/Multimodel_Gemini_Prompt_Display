@@ -1,0 +1,177 @@
+{
+  "videoName": "cocowine0205-20250413014505-806779211758090.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 58,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping Recommendation",
+        "Product Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman with long dark hair and a black top stands in a warehouse aisle, holding a red box containing three plush pet toys. A large Costco logo is overlaid at the top. (2) Close-up shots of the three toys: a yellow chicken, a white cow, and a green alligator. The toys have exaggerated facial expressions. Hands are shown squeezing the toys to demonstrate their softness and functionality. (3) The camera pans to a price tag on the shelf showing '$579'. (4) The woman holds the alligator toy, comparing it to the size of her hand. (5) Various close-ups of the packaging and the 'Squeaker inside' label are shown while hands interact with the toys. (6) The video ends with the woman holding the full box of toys, looking at the camera and smiling.",
+      "audio_narrative_log": "(1) Upbeat, rhythmic pop background music starts and continues throughout. (2) A female voice speaks enthusiastically in Mandarin, commenting on the funny faces of the toys. (3) An off-screen male voice joins in, discussing the price and sharing an anecdote about buying similar toys for a pet named 'A-mu'. (4) Frequent high-pitched squeaking sound effects (SFX) are heard whenever the toys are squeezed on screen. (5) The voices maintain a humorous and friendly tone until the end.",
+      "text_narrative_log": "(1) 'COSTCO WHOLESALE' logo remains at the top. (2) Functional subtitles translate the dialogue in Mandarin. (3) Decorative/Effect text appears throughout: '你那什麼臉' (What's with that face - humorous), '長得那麼可愛' (Looks so cute - admiring), '超便宜的' (Super cheap - hook), '落水雞' (Drowned chicken - humorous nickname), and '推薦' (Recommended - call to action)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.2,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Detailed Product Demo -> Price Information -> Personal Anecdote -> Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Face",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator on screen; 1 male voice heard off-screen.",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a black square-neck top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Supermarket"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "Costco warehouse shelves stocked with various household and pet products; large cardboard boxes on pallets are visible.",
+      "lightingStyle": "Bright indoor warehouse lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and bright",
+      "cameraWork": [
+        "Handheld",
+        "Close-up",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "KONG"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, enthusiastic, and humorous",
+        "pitch": "Moderate (female), Low (male)",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Squeaky toy sounds"
+      ],
+      "ambientNoise": [
+        "Warehouse hum"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature Highlight -> Value Proposition -> Social Proof -> CTA",
+      "mainPurpose": "The video serves as a shopping recommendation and product review for a set of KONG pet toys sold at Costco. It aims to persuade dog owners to purchase the product by highlighting its adorable design, low price (value for money), and durability/interactivity (squeakers), while using a personal anecdote to build trust.",
+      "visualEmotion": "Cheerful and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The creator specifically showcases a branded product (KONG) from a specific retailer (Costco), highlights the price, and gives a direct recommendation ('值得買').",
+      "endorsementObject": [
+        "COSTCO",
+        "KONG"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Dynamic variety-show style captions and collaborative banter between an on-screen host and an off-screen camera operator.",
+      "freeDescribe": "The video utilizes popular 'haul' or 'Costco finds' tropes to engage pet-owning audiences through high-energy presentation and clear price signaling."
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "videoName": "cocowine0205-20250719184959-4405120133143974.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Promotional",
+        "Shopping Guide"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a warehouse interior shot (Costco) featuring a large title overlay about weekly special prices. (2) A rapid series of shots follows, each showcasing a different product available for purchase: laundry detergent, snack boxes, hygiene products, pastries, chips, drinks, and pet food. (3) Each shot is either a static image or a very short pan across product packaging, featuring clear pricing information overlaid on the center of the frame. (4) The sequence continues through various departments including snacks, frozen foods, and household chemicals, ending with a shot of white wine bottles.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic background music begins and continues throughout the video. (2) A male narrator with a fast, enthusiastic tone speaks continuously, reading out the names of products and their discounted prices in Mandarin. (3) No significant ambient noise or sound effects are present, as the narration and BGM dominate the audio track.",
+      "text_narrative_log": "(1) Hook Text: 'COSTCO 好市多 每週特價速報 07/14 - 07/20 記得追蹤我們' (Costco Weekly Special Report 07/14-07/20, remember to follow us) appearing at the start with an excited tone. (2) Functional Text: For each product, the name is shown (e.g., '橘子工坊 除臭酵素洗衣精'), followed by price breakdowns: '原價' (Original Price), a minus figure for the discount, and '特價' (Special Price) in a bold red font to emphasize savings. (3) Various brand names are visible on screen text corresponding to the items shown."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 46,
+      "averageSceneDuration": 1.9,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Rapid-fire product list showcasing discounts -> End"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 0,
+      "bodyPartVisibility": [
+        "Full body",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "The creator filming (partially visible) and a few shoppers in the background of the warehouse at the start.",
+      "mainCharacterDescription": "None"
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Costco"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Different aisles and shelves within a Costco warehouse, showing bulk packaging and industrial shelving.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Cat (on packaging)"
+      ],
+      "foodsDetect": [
+        "Noodles",
+        "Milk",
+        "Snacks",
+        "Juice",
+        "Bread",
+        "Fish",
+        "Meat"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "Orange House",
+        "OREO",
+        "Kotex",
+        "Quaker",
+        "Kinder",
+        "Binggrae",
+        "Yakult",
+        "UCC",
+        "Nescafe",
+        "KitKat"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Extremely fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> Outro",
+      "mainPurpose": "To inform viewers of current sales and discounts available at Costco Taiwan for the specified dates, serving as a shopping guide to drive store traffic.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The video explicitly lists prices and promotional periods for specific products within a retail chain.",
+      "endorsementObject": [
+        "COSTCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced narration listing prices, red/yellow discount text overlays.",
+      "freeDescribe": "The video uses a high-information density format common in short-form shopping deal content."
+    }
+  }
+}

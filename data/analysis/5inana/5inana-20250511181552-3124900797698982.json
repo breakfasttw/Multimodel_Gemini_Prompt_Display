@@ -1,0 +1,168 @@
+{
+  "videoName": "5inana-20250511181552-3124900797698982.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 6,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video depicts a young woman with curly reddish-brown hair standing inside a moving train. She is wearing a plaid headscarf/visor combo, an off-white graphic T-shirt, and a patterned skirt. She holds the handle of a black suitcase. She stands still, looking out the train window with a neutral, contemplative expression. The scenery outside the window is blurred due to the train's speed.",
+      "audio_narrative_log": "(1) The audio consists entirely of the loud, rhythmic clattering of a train moving along tracks. There is a constant background rumble of machinery and wind. No vocals or musical elements are detected throughout the clip.",
+      "text_narrative_log": "(1) '星亮商務' appears as a watermark in the upper left corner. (2) On the train door glass, safety text is visible: '小心門開手' (Functional/Safety) and its English translation 'Please stay clear of doors' (Functional/Safety)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 6.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "A single static shot of a person observing the view from a moving train window."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main character in focus, and the partial view of a passenger's head on the far left edge of the frame.",
+      "mainCharacterDescription": "A young female with curly reddish hair, wearing a unique plaid headscarf, a graphic tee, and holding a suitcase."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Train Interior"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The interior of a modern train carriage with stainless steel handles and a large glass door showing a blurred outdoor landscape.",
+      "lightingStyle": "Natural daylight coming through the train window.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Train"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "None"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Train noise"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Observation -> Motion",
+      "mainPurpose": "To capture a fleeting, aesthetic moment of travel. The video relies on the visual contrast between the static character and the fast-moving background to evoke a sense of journey and introspection.",
+      "visualEmotion": "Calm"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Eclectic fashion sense (plaid headscarf).",
+      "freeDescribe": "The presence of Traditional Chinese text on the doors suggests the video was likely recorded on a Taiwan Railways or MRT train."
+    }
+  }
+}

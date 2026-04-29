@@ -1,0 +1,184 @@
+{
+  "videoName": "yga0721-20250807004046-1209805667525406.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 50,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with an exterior shot of a cafe/restaurant called 'Ya Kou' (牙口) in Beitou, Taipei, showing its signage and entrance with plants. (2) The scene shifts indoors to a group dining. A woman in a blue sweater and a man in a black 'Dodgers' t-shirt are seen tasting pasta and pizza, expressing enjoyment through wide eyes and thumbs-up gestures. (3) The setting transitions to an outdoor market stall named 'Little Swallow Underwear Shop' (小燕子內衣店). The same man and a woman in a black crop top interact with an older female shop owner. A character wearing a large traditional Taiwanese mask (Gongzi) stands nearby. (4) The group jokes around with a mannequin wearing black mesh underwear, with the older woman laughing and making playful gestures towards the man.",
+      "audio_narrative_log": "(1) High-energy Mandarin and Taiwanese vocals begin immediately, with a man and woman talking excitedly over a medium-tempo, upbeat pop BGM. (2) The sounds of a restaurant environment, including the clinking of forks and plates, are audible as the speakers comment on the food's taste. (3) The audio transitions to a bustling outdoor market atmosphere with louder, more chaotic overlapping voices, laughter, and high-pitched exclamations from the older woman. (4) Frequent sound effects (SFX) such as cartoon-style 'boing' sounds and emphasized laughter tracks are used to punctuate the humor.",
+      "text_narrative_log": "(1) Functional Text: '牙口 台北市北投區大興街9巷45號' (Address for Yakou Cafe). (2) Hook Text: '第一家先介紹我們Taco家啦' (First introducing Taco's home/place). (3) Decorative/Effect Text: '好脆好香喔!!' (So crispy and fragrant!!) used to emphasize the food reaction. (4) Functional Text: '小燕子內衣店' (Little Swallow Underwear Shop) identifying the second location. (5) Hook Text: '小燕子大爆料' (Little Swallow's big reveal) appearing during the humorous exchange."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Restaurant Food Tasting -> Market Shopping & Comedy interaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 6,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 1 female companion, 1 older female shop owner, 1 masked figure, and 2 blurred passers-by.",
+      "mainCharacterDescription": "A young man with dyed brown hair wearing a black Dodgers t-shirt and a young woman with long dark hair in a blue sweater and later a black crop top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Outdoor Street",
+          "Market"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The first half features a cozy, plant-filled cafe interior with wooden tables and bookshelves. The second half is a crowded traditional Taiwanese street market with hanging clothes and a yellow car parked nearby.",
+      "lightingStyle": "Natural daylight and warm indoor studio-style lighting.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Saturated",
+      "cameraWork": [
+        "Follow shot",
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pasta",
+        "Pizza",
+        "Iced Tea"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Bicycle"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Dodgers",
+        "牙口"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "Medium-high",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Taiwanese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Laughter track"
+      ],
+      "ambientNoise": [
+        "Cafe chatter",
+        "Market noise"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Humorous Climax",
+      "mainPurpose": "This is a lifestyle entertainment vlog designed to promote local businesses in Taipei while entertaining the audience through comedic interactions. It uses food recommendations as an initial hook to build trust, then shifts to a highly engaging and humorous interaction at a market to maintain viewer retention.",
+      "visualEmotion": "Humorous and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The video provides exact addresses and names of the establishments (Ya Kou Cafe and Little Swallow Underwear) and focuses on the positive experience at both locations.",
+      "endorsementObject": [
+        "牙口",
+        "小燕子內衣店"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Heavy use of variety-show style large captions and interactive humor with local shop owners.",
+      "freeDescribe": "The video relies heavily on the 'Gongzi' masked character and the creator's energetic personality to create a sense of community and fun, which is typical of Taiwanese entertainment vlogs."
+    }
+  }
+}

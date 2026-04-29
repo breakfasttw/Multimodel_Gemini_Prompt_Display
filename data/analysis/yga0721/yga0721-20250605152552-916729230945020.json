@@ -1,0 +1,183 @@
+{
+  "videoName": "yga0721-20250605152552-916729230945020.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 16,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Mukbang",
+        "Parenting"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young boy with black-framed glasses is seated in a restaurant, eating a seaweed-wrapped sushi roll. (2) He transitions through a series of fast cuts eating different items: a piece of tamagoyaki (egg sushi), plain seaweed sheets, a chicken nugget in a food court, and rice with a spoon. (3) The sequence continues showing him slurping noodles from a large bowl, eating yakitori (chicken skewers), and enjoying shrimp tempura. (4) Further shots show him eating a fried snack ball, a snack while sitting on a park bench, rice with a hamburger patty, and green vegetables. (5) He is then seen biting into a large steaming dumpling and another piece of tempura. (6) In the final scene, he sits back at a sushi restaurant table and waves his hands horizontally as if to say he is finished or cannot eat anymore.",
+      "audio_narrative_log": "(1) Upbeat, synthesized children's music starts with a repetitive electronic beat. A high-pitched female vocal sings a rhythmic rhyme, specifically repeating the word 'eat' in time with the percussion. (2) The music maintains a constant, high energy as the vocals continue to loop the 'I like to eat' lyrics. (3) The audio track is synchronized so that each 'eat' lyric aligns precisely with a visual cut of the boy taking a bite. (4) Very faint ambient restaurant chatter and the sound of dishes clinking can be heard in the background during quieter moments of the song.",
+      "text_narrative_log": "(1) 'POV: 養小孩的驚人伙食費 😨' - Decorative/Hook Text: This persists at the top of the frame, conveying a humorous and slightly overwhelmed tone regarding the high cost of feeding a child. (2) Japanese characters are visible on electronic ordering tablets and background signage in various restaurant scenes, serving as functional text indicating the setting."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 15,
+      "averageSceneDuration": 1.07,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Fast-paced montage of a child eating various meals synced to music."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Head and shoulders",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male child; 2-3 blurred adult patrons in the background of restaurant scenes.",
+      "mainCharacterDescription": "A young boy, approximately 7-9 years old, wearing black-rimmed glasses and various outfits including a blue/white striped shirt, a red/white striped shirt, and a colorful patterned jacket."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Restaurant",
+          "Outdoor Park",
+          "Food Court"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Varies between wooden Japanese restaurant interiors, a modern food court with bright lights, and an outdoor park with trees and a white bench.",
+      "lightingStyle": "Bright, natural indoor lighting and outdoor daylight.",
+      "weather": "Sunny",
+      "season": "Spring",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese",
+          "Japanese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Sushi",
+        "Noodles",
+        "Tempura",
+        "Chicken Nuggets",
+        "Rice",
+        "Dumplings",
+        "Fried Fries",
+        "Yakitori"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Tablet",
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Restaurant"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Outro",
+      "mainPurpose": "To showcase the variety and large quantity of food consumed by a child in a humorous way, supporting the caption's claim about 'shocking food expenses.' The use of beat-syncing creates a rhythmic, satisfying viewing experience that emphasizes the repetition of the eating action.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No specific product or service is singled out for promotion; rather, a variety of general food items and restaurant types are shown.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced eating montage perfectly synced to the word 'eat' in the background track.",
+      "freeDescribe": "The video relies heavily on the 'cuteness' factor of the child and the relatable parental experience of high food costs to drive engagement. The use of Japanese settings and food suggests an international or travel-focused vlog style."
+    }
+  }
+}

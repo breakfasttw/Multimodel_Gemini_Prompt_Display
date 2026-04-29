@@ -1,0 +1,179 @@
+{
+  "videoName": "cocowine0205-20250309085507-1430224778644875.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 47,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping Recommendation"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts in a Costco warehouse setting where a woman wearing a beret and a light-colored vest is holding and demonstrating a light blue hooded outdoor blanket. (2) She unfolds the blanket to show its large size and the hooded feature, wrapping it around herself. (3) She highlights the contrast between the waterproof outer layer and the soft, light-blue fleece interior. (4) She demonstrates how the blanket can be folded and stored into a built-in bag. (5) The camera pans to show shelves filled with the same product in various colors like dark green, purple-blue, and orange-red. (6) Close-ups of the packaging and price tags follow, showing the discount. (7) The woman concludes by posing with the product and a peace sign.",
+      "audio_narrative_log": "(1) Upbeat, cheerful acoustic background music with a steady rhythm begins. (2) A female voice speaks in an energetic and high-pitched tone, introducing the product and its features. (3) A male voice (off-screen) occasionally chimes in with supportive comments and reactions. (4) Ambient noise of a large retail warehouse (faint chatter, cart movements) is present in the background. (5) The music and dialogue continue throughout without significant shifts in the soundscape.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo at the top of the frame throughout. (2) Hook/Decorative Text: '露營神器！折扣200' (Camping tool! Discount 200) in large, colorful characters at the bottom. (3) Subtitles: '連帽絨毛的' (Hooded fleece), '超厚被被外套' (Super thick blanket jacket), '看起來好溫暖哦' (Looks so warm), '防水' (Waterproof), '刷絨' (Fleece-lined), '袋子可以收進去' (Bag can be tucked in), '折扣200' (Discount 200). (4) Prices '$499' and '$759' are visible on shelf labels."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.6,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Product Feature Demonstration -> Color Variation Showcase -> Price/Discount Reveal"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 1 male shopper in background, 1 female shopper in distance, 1 off-screen male voice (not counted in visual)",
+      "mainCharacterDescription": "A young woman wearing a black beret with a Kangol logo, a teal long-sleeved shirt, a light-colored puffer vest, a black ruffled skirt, and a small Louis Vuitton crossbody bag."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Costco"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The background consists of high-density warehouse shelving units at Costco, filled with various products like blankets, pillows, and stacked boxes. Shopping carts and other customers are visible in the aisles.",
+      "lightingStyle": "Bright indoor warehouse lighting",
+      "weather": "Indoor",
+      "season": "Winter/Autumn (inferred from clothing)",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Vibrant",
+      "cameraWork": [
+        "Handheld",
+        "Close-up",
+        "Pan"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "Weatherproof",
+        "Louis Vuitton",
+        "Kangol"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "Medium-high",
+        "loudness": "Clear and audible",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Acoustic",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Strings",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Acoustic Guitar",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Retail warehouse noise"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature Highlight -> Price Benefit -> CTA",
+      "mainPurpose": "The video aims to promote a specific 'Weatherproof' brand hooded outdoor blanket sold at Costco by demonstrating its versatility (use in camping vs. home), features (waterproof and fleece-lined), and limited-time discount of 200 units of currency. It targets budget-conscious shoppers and outdoor enthusiasts.",
+      "visualEmotion": "Energetic and helpful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator specifically focuses on one product, highlights a discount, shows the brand logo, and encourages viewers to buy it at Costco.",
+      "endorsementObject": [
+        "Weatherproof Hooded Outdoor Blanket",
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-show style subtitles and enthusiastic narration.",
+      "freeDescribe": "Typical lifestyle/shopping recommendation content format widely seen on platforms like Instagram Reels or TikTok."
+    }
+  }
+}

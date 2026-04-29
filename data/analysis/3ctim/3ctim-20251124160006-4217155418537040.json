@@ -1,0 +1,181 @@
+{
+  "videoName": "3ctim-20251124160006-4217155418537040.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 81,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Tech Review",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing a grey flat cap and glasses holds a blue plastic horn to his mouth, pretending to make an announcement. (2) The scene cuts to the man lying on a sofa with a dog-shaped pillow, eyes closed, pretending to sleep; animated 'Z' symbols float near his head. (3) He stands up, smiling, gesturing towards a black smartwatch on his left wrist. (4) Close-up shots show a Samsung smartphone screen with the Samsung Health Monitor app interface, followed by a close-up of the Samsung Galaxy Watch showing the Sleep Apnea detection feature. (5) The man is shown back on the sofa with a smartphone lying next to him. (6) He points to the watch again while standing. (7) Close-ups of the phone screen show the 'Antioxidant Index' feature and the Gemini AI interface on the watch. (8) Final shot of the man pointing downwards with an overlay of arrows.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic music begins immediately with a loud horn sound effect. A male voice speaks in an energetic, high-pitched, and professional tone. (2) The music continues at a lower volume as loud, exaggerated snoring sound effects are heard. (3) The male voice returns to a steady, enthusiastic pace, explaining product features over the continuous upbeat BGM. (4) Digital notification pings and clicking sound effects occur as UI elements are shown on screen. (5) The man is heard speaking to the watch, and a female AI voice responds with lunch suggestions. (6) The music maintains its tempo until the end, fading out as the man finishes his call to action.",
+      "text_narrative_log": "(1) Functional Text: 'Health Center Broadcast' - Tone: Informative. (2) Decorative Hook: 'Do you have sleep apnea? Come here now.' - Tone: Attention-grabbing. (3) Functional Text: 'How do I know if I have sleep apnea?' - Tone: Questioning. (4) Functional Text: 'Galaxy Watch' - Tone: Informative. (5) Functional Text: 'Samsung Health Monitor' and 'Sleep Apnea Detection' - Tone: Descriptive. (6) Decorative Hook: 'Remember to go to the hospital' - Tone: Cautionary. (7) Functional Text: 'Antioxidant Index' and 'Gemini' - Tone: Descriptive. (8) Functional Text: 'What to eat for lunch to be healthy' - Tone: Questioning. (9) Decorative Hook: 'Leave a comment below' - Tone: Engaging."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook (Announcement) -> Problem (Snoring) -> Solution (Watch Demo) -> Additional Features -> CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator appearing throughout the video.",
+      "mainCharacterDescription": "Adult male, wearing a white t-shirt, a grey patterned flat cap, glasses, and a wooden beaded bracelet."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor",
+          "Studio",
+          "Living room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A plain grey wall for talking head segments and a modern living room setting with a light-colored sofa and electronics in the background.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Smartwatch"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Samsung",
+        "Galaxy Watch",
+        "Gemini"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Horn",
+        "Snoring",
+        "UI Clicks"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Problem -> Evidence -> Feature Demo -> CTA",
+      "mainPurpose": "The video aims to promote the health monitoring features of the Samsung Galaxy Watch, specifically focusing on sleep apnea detection, snoring recording, and antioxidant measurement, while also highlighting the integration of Gemini AI for health advice.",
+      "visualEmotion": "Energetic and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator specifically names the brand and product, demonstrates its exclusive software features, and encourages user engagement regarding the product.",
+      "endorsementObject": [
+        "Samsung Galaxy Watch"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Creator's specific flat cap and 'Health Center' opening hook.",
+      "freeDescribe": "The video uses humor (snoring on the couch) to transition into a serious tech review, making health topics more accessible to a general audience."
+    }
+  }
+}

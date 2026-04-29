@@ -1,0 +1,168 @@
+{
+  "videoName": "0_shufen-20250903140356-1918596815532232.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 7,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Dance"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a young woman with long dark hair, wearing a peach-colored oversized hospital gown and a digital pink bow sticker, standing in a brightly lit hospital room. (2) She begins a rhythmic dance movement, swaying her body from side to side and smiling warmly at the camera. (3) She continues the gentle dance sequence, maintaining eye contact and a cheerful facial expression until the end of the clip.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic pop music with a prominent synthesized bassline begins immediately. (2) A processed, high-pitched vocal sample repeats a rhythmic phrase in synchronization with the beat. (3) The music maintains a constant energy level and rhythm throughout the duration without any ambient hospital noise detected.",
+      "text_narrative_log": "(1) None"
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 7.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Continuous Dance -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female character dancing in the center of the frame",
+      "mainCharacterDescription": "A young woman with long black hair, wearing a peach-colored hospital patient gown and pink slippers."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Hospital Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A typical hospital room with a white adjustable bed, a brown armchair, medical equipment on the wall, and a large window with blinds.",
+      "lightingStyle": "Bright, natural indoor lighting",
+      "weather": "Sunny (inferred from window)",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural, warm tones",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic Pop",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Continuous Action",
+      "mainPurpose": "The video serves as a short-form social media clip intended to show the creator's positive and resilient attitude while being in a hospital. By dancing in a hospital gown to upbeat music, the creator communicates a sense of cheerfulness despite the medical setting.",
+      "visualEmotion": "Cheerful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of a stylized digital bow filter and hospital-themed content.",
+      "freeDescribe": "The contrast between the sterile hospital environment and the joyful dance movement creates a strong emotional resonance common in 'recovery' or 'resilience' themed social media content."
+    }
+  }
+}

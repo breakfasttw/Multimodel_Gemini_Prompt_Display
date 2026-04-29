@@ -1,0 +1,193 @@
+{
+  "videoName": "1105ya-20251125132205-1246768887377193.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 63,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "Hong Kong"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a young woman standing on a busy Hong Kong street at night, smiling and gesturing towards the camera as she introduces the theme of the video. (2) The scene shifts to the interior of 'Red Tea Cafe' where she holds an 'Ice Fire Pineapple Bun', taking a large bite and expressing delight through wide eyes and nodding; close-ups show the steam and texture of the bun and noodles. (3) She is then seen outside 'Wasao Cafe' pointing at a long queue, then inside happily eating a sandwich and tomato noodles. (4) The creator stands in front of 'Cheung Hing Kee', showing a box of pan-fried buns to the camera, then eats one, revealing the soup inside. (5) Inside 'One Dim Sum', she uses chopsticks to pick up cheongfun and siumai, displaying them to the camera before eating. (6) Finally, at 'Luen Fat Tea Restaurant', she presents a plate of char siu rice with scrambled eggs, looking satisfied as she eats.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic pop BGM starts immediately. A high-pitched, excited female voice speaks in Mandarin, introducing the 'must-eat' foods. (2) As she eats, the music maintains its tempo, punctuated by occasional 'sparkle' or 'ding' sound effects (SFX) that coincide with her positive reactions. (3) Ambient restaurant noise is minimal, heavily suppressed by the continuous music and clear vocal narration. (4) The vocals remain fast-paced and enthusiastic throughout the transitions between different food locations.",
+      "text_narrative_log": "(1) '香港必吃的排隊美食' (Hong Kong's must-eat queueing delicacies) - Hook text at the top. (2) '我來香港啦' (I've come to Hong Kong) - Emotional variety caption. (3) '香港美食分享' (Hong Kong food sharing) - Functional category. (4) '紅茶冰室', '華嫂冰室', '祥興記', '一點心', '聯發茶餐廳' - Sequential location labels identifying the restaurants. (5) '超級無敵脆', '驚為天人', '無敵' - Emotional descriptors emphasizing the quality of the food."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Location-based Food Reviews -> Closing Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 6,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, several blurred customers and staff in the background of various restaurants.",
+      "mainCharacterDescription": "A young Asian woman with long brown hair, wearing a variety of summer outfits including a white camisole, a red top with a bandana, and a blue off-the-shoulder dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Cafe",
+          "Indoor Restaurant"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Vibrant night street scenes with neon signs and traffic; various 'Cha Chaan Teng' interiors with traditional seating and menus on walls.",
+      "lightingStyle": "Mixed: Bright fluorescent indoor lights and colorful outdoor street lighting.",
+      "weather": "Clear",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pineapple Bun",
+        "Noodles",
+        "Sandwich",
+        "Pan-fried Buns",
+        "Dim Sum",
+        "Char Siu Rice",
+        "Milk Tea"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Taxi"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "紅茶冰室",
+        "華嫂冰室",
+        "祥興記",
+        "一點心",
+        "聯發茶餐廳",
+        "MICHELIN"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Location A Review -> Location B Review -> Location C Review -> Location D Review -> Location E Review -> Summary",
+      "mainPurpose": "The video serves as a high-speed travel and culinary guide, aiming to influence viewers to visit specific popular eateries in Hong Kong. By combining sensory-focused close-ups of food with the creator's enthusiastic reactions, it builds a 'must-visit' narrative for tourists.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The creator specifically identifies and visits five different restaurants, showing their names clearly and providing positive reviews for specific dishes at each location.",
+      "endorsementObject": [
+        "紅茶冰室",
+        "華嫂冰室",
+        "祥興記",
+        "一點心",
+        "聯發茶餐廳"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density colorful text overlays and expressive facial reactions to food tasting.",
+      "freeDescribe": "The video uses typical variety-show editing techniques common in East Asian food vlogs to maintain high viewer engagement and create a sense of urgency regarding 'must-eat' trends."
+    }
+  }
+}

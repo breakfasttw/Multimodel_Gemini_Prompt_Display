@@ -1,0 +1,186 @@
+{
+  "videoName": "cocowine0205-20250823155509-920405300535618.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 67,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is live-action. A woman wearing a pink beret and a light-colored dress is shown stirring a cup of instant noodles vigorously. A large 'COSTCO WHOLESALE' logo is overlaid on top. (2) Scene shifts to a Costco warehouse where the woman holds a large pink box of 'MANTECARE' pasta, pointing to the shelves and then the price tag. (3) Back at home, she opens the box to reveal eight individual cups of pasta. (4) The camera focuses on the stirring process, showing the thin noodles and white sauce gradually thickening. (5) Two women are seated at a table, holding the cups and using chopsticks to lift the noodles, showing off the texture while talking excitedly with various facial expressions of enjoyment.",
+      "audio_narrative_log": "(1) High-energy female vocals enter immediately, speaking quickly and excitedly about the 'stir 100 times' challenge. Background music is upbeat, fast-tempo electronic pop. (2) The audio shifts to a descriptive tone as the female narrator explains the price per cup and the convenience of 3-minute microwaving, over muffled ambient warehouse sounds. (3) Sound effects of vigorous stirring 'shshsh' are prominent. (4) A second female voice joins in, and both women engage in a rhythmic dialogue, using words like 'QQ' to describe the chewiness. The BGM maintains a steady, happy rhythm throughout.",
+      "text_narrative_log": "(1) Functional Text: '是什麼泡面' (What instant noodle is this?), '竟然要自己攪拌100次' (Actually have to stir 100 times myself). (2) Decorative/Hook Text: '攪拌100次' (Stir 100 times) in a colorful burst font; '真香系列' (Really smells good series); '每碗61塊' (61 dollars per bowl) highlighted in yellow. (3) Functional Text: '微波3分鐘就可以吃' (Microwave for 3 minutes to eat). (4) Decorative Text: '乳化!' (Emulsify!) appearing during the stirring phase; '非常Q彈' (Very chewy) during the tasting phase."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook (Stirring) -> Origin (Store purchase) -> Unboxing -> Process (Emulsifying) -> Conclusion (Tasting review)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 primary creator in beret, joined by 1 female friend in the final segment.",
+      "mainCharacterDescription": "An Asian woman with long dark hair, wearing a pink beret, an ear cuff, and a light-colored puff-sleeve dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene is a bright kitchen/dining area with a marble-patterned table. The second scene is inside a Costco warehouse with tall industrial shelves and bulk products. Final scene returns to the indoor dining area.",
+      "lightingStyle": "Bright, even indoor lighting, possibly using studio ring lights.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English",
+          "Korean"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pasta",
+        "Instant Noodles",
+        "Cream Sauce"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Microwave (implied)"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "MANTECARE",
+        "BAEKJE"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Celebratory sounds",
+        "Cartoon pop"
+      ],
+      "ambientNoise": [
+        "Warehouse quiet",
+        "Stirring sounds"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Context -> Evaluation -> Evidence -> Consensus",
+      "mainPurpose": "The video is a product review and lifestyle recommendation aimed at Costco shoppers. It utilizes a high-energy 'challenge' hook (the necessity of stirring the pasta 100 times to achieve the correct texture) to engage viewers. It then provides practical consumer information including the price point ($61 TWD per cup) and cooking methods, ultimately validating the product through a two-person tasting test that highlights unique textures not found in standard convenience store food.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of product packaging, price analysis, and filming within the retail location.",
+      "endorsementObject": [
+        "MANTECARE",
+        "COSTCO WHOLESALE",
+        "BAEKJE TOOWOOMBA PASTA"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced variety-show editing style with prominent yellow and pink text overlays.",
+      "freeDescribe": "The video leans heavily into the 'Costco Hidden Gem' niche, focusing on international food products. The emphasis on the 'stirring' process acts as a unique selling point or 'ritual' for the product."
+    }
+  }
+}

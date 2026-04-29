@@ -1,0 +1,174 @@
+{
+  "videoName": "602avenue-20250807000837-889330870603128.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 10,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Dance",
+        "Music"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in a grey t-shirt holds a smartphone close to the camera lens, displaying a teaser video for the group BABYMONSTER. (2) She pulls the phone away to reveal herself and three other young women standing on a wooden outdoor boardwalk under a cloudy sky. (3) The four women perform a synchronized dance routine while a small video inlay at the top of the frame shows the original music video choreography for comparison.",
+      "audio_narrative_log": "(1) Upbeat K-pop music begins immediately featuring high-energy female vocals performing rhythmic lyrics ('A-B-C-D-E-F-G...'). (2) The music maintains a fast tempo with heavy electronic beats. (3) Slight ambient wind noise is audible in the background throughout the dance performance.",
+      "text_narrative_log": "(1) Decorative Text: 'Baby DONT Cry 妹妹們來了😍' (Baby DONT Cry sisters are here) appears in the center of the frame with a playful and excited tone. (2) Functional Text: 'BABYMONSTER' and 'COMING SOON' are visible on the screen of the handheld smartphone at the start."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 10.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro reveal -> Synchronized dance performance"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator in foreground, 3 female backup dancers/friends in midground.",
+      "mainCharacterDescription": "A young woman with long reddish-brown hair wearing a grey t-shirt and green cargo pants."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Boardwalk"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A wooden deck or boardwalk with a metal railing, overlooking an open area under an overcast, bright grey sky.",
+      "lightingStyle": "Natural daylight, overcast",
+      "weather": "Cloudy",
+      "season": "Summer",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "English",
+          "Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "BABYMONSTER"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 7,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 7,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and rhythmic",
+        "pitch": "High-pitched",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "English",
+          "Korean"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "K-pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Wind"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Action",
+      "mainPurpose": "The video is a dance cover and fan promotion for the K-pop group BABYMONSTER. It uses a 'reveal' hook by showing the group's teaser on a phone before transitioning into a coordinated dance performance by the creators to demonstrate skills and engagement with the music trend.",
+      "visualEmotion": "Energetic and Positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Prominent display of BABYMONSTER branding and performance of their choreography.",
+      "endorsementObject": [
+        "BABYMONSTER"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Split-screen comparison with original music video",
+      "freeDescribe": "The video aligns with common social media dance challenges where creators mimic K-pop choreography."
+    }
+  }
+}

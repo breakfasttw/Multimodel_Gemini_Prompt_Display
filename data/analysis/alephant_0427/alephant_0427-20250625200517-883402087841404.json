@@ -1,0 +1,177 @@
+{
+  "videoName": "alephant_0427-20250625200517-883402087841404.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 36,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "DIY",
+        "Costume",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A person wearing a large red cardboard costume shaped like a vintage rotary phone acts out a skit, with their face visible through the dial center. (2) A still image of an actual red classic rotary phone is shown. (3) A fast-paced montage shows raw materials: green and blue plastic basins, a cardboard box, and black spiral hair ties. (4) A young woman with pink hair and glasses is shown cutting cardboard and painting a background. (5) The woman applies red face paint as part of her costume makeup. (6) The finished costume is displayed; the person spins the dial, picks up the 'receiver' (made of red-painted basins), and poses with lights flashing inside the costume.",
+      "audio_narrative_log": "(1) High-pitched female vocals shouting 'Wei~' repeatedly followed by a question in Mandarin. (2) Upbeat, medium-tempo pop music enters with strong rhythmic percussion. (3) Sound effects of a classic telephone ringing and mechanical clicking from a rotary dial are heard. (4) Brief ambient sound of cardboard being moved and items being dropped on a floor. (5) Music continues with a consistent rhythm through the final reveal.",
+      "text_narrative_log": "(1) Functional Text: '喂~喂~喂~ 請問是中情局嗎?' (Hello, is this the CIA?) - humorous tone. (2) Functional Text: '你看過這種電話嗎?' (Have you seen this kind of phone?) - questioning tone. (3) Decorative Text: '#好' (Good) - small caption sticker."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook Skit -> DIY Construction Montage -> Final Costume Reveal"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator with pink hair",
+      "mainCharacterDescription": "A young woman with bright pink hair, glasses, wearing a black tank top during the construction phase and a large red cardboard phone costume for the result."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A simple indoor room with beige paper backdrops, a yellow wall clock, and various DIY tools/materials spread out.",
+      "lightingStyle": "Natural light supplemented by indoor ceiling lights",
+      "weather": "None",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Tablet",
+        "Rotary Phone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Occasional",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Telephone Ringing",
+        "Mechanical Clicking",
+        "Dropping objects"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Process -> CTA/Reveal",
+      "mainPurpose": "To showcase a creative and humorous DIY project where the creator builds an oversized, functional-looking vintage rotary phone costume from everyday items like plastic basins and cardboard.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Pink hair of the creator, elaborate cardboard craftsmanship",
+      "freeDescribe": "The video uses fast editing and beat-syncing to make the manual labor of DIY construction appear energetic and entertaining."
+    }
+  }
+}

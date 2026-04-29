@@ -1,0 +1,181 @@
+{
+  "videoName": "3ctim-20250218131707-1119024960324991.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 44,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Tutorial",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a patterned flat cap (Tim) speaks enthusiastically to the camera, wearing a Samsung-branded lanyard. (2) A close-up shot of a French menu is shown, followed by the man holding a grey Samsung S25 Ultra smartphone. (3) The man uses the phone's camera to capture the menu, and the interface switches to the Gemini AI tool. (4) The screen displays the AI analyzing the text and generating Chinese recommendations. (5) The man speaks to the phone, and the AI translates his request into spoken French, shown via waveform and text on screen.",
+      "audio_narrative_log": "(1) Upbeat, rhythmic background music plays throughout. A male voice (Tim) speaks Mandarin in a high-pitched, energetic tone. (2) A camera shutter sound effect is heard as the menu is photographed. (3) A female AI voice responds in a calm, helpful Mandarin tone, reading out food recommendations. (4) Short UI 'ding' and 'swish' sound effects accompany screen transitions. (5) A deep male voice speaks French, representing the AI's real-time translation of the user's order.",
+      "text_narrative_log": "(1) Functional Text: '去國外點菜 完全沒問題' (Ordering food abroad, no problem at all), '我們就靠 S25 Ultra' (We rely on S25 Ultra). (2) Decorative Text: '看不懂啊!!' (I don't understand!!), '直接實測' (Direct live test), '妥妥的出國救星!' (A definite travel lifesaver!). (3) Content Text: On-screen subtitles translate the French menu items and the Mandarin dialogue. 'Gemini' and 'Samsung' branding are visible."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.14,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Problem Identification (French menu) -> Tech Solution Demo (Gemini AI) -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main creator (Tim) appearing throughout the video.",
+      "mainCharacterDescription": "A middle-aged man with glasses, a grey patterned flat cap, a grey sweatshirt, and a Samsung lanyard."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Initially a blue/white abstract tech backdrop, then a close-up of a paper menu, then the digital interface of a smartphone.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "French",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "French Cuisine"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Samsung",
+        "Gemini"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, professional, and clear",
+        "pitch": "Medium",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "French"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Camera Shutter",
+        "UI Swish",
+        "Notification Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Challenge -> Demonstration -> Validation",
+      "mainPurpose": "To promote the Samsung S25 Ultra's AI capabilities, specifically the Gemini integration for real-time menu translation and travel assistance, targeting tech enthusiasts and frequent travelers.",
+      "visualEmotion": "Energetic and helpful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator explicitly names the phone model and demonstrates its specific software features while wearing brand merchandise.",
+      "endorsementObject": [
+        "Samsung S25 Ultra",
+        "Gemini AI"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Creator's signature flat cap and glasses, '3c有意思tim哥' branding overlay.",
+      "freeDescribe": "The video uses fast cuts and high-density text to maintain viewer engagement in a short-form vertical format."
+    }
+  }
+}

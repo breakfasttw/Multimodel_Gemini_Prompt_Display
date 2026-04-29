@@ -1,0 +1,172 @@
+{
+  "videoName": "yga0721-20251219132941-1395115728766267.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 34,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Music",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young man with curly hair and a black t-shirt is standing in a studio-like setting, wearing over-ear headphones and standing in front of a professional microphone. He starts singing with a focused expression. (2) As the song progresses, his expressions become more passionate; he closes his eyes and uses slight hand gestures to emphasize the lyrics. (3) He reaches the climax of the song, hitting a high note while smiling broadly, showing a sense of joy and accomplishment before the video ends.",
+      "audio_narrative_log": "(1) Pop ballad music begins with a piano melody. A clear male vocal starts singing in a steady, emotional tone. (2) The background music builds in intensity with added percussion. The singer's voice becomes louder and more high-pitched, conveying strong emotion. (3) The singer hits a sustained high note, followed by a brief joyful chuckle as the music fades out. No significant ambient noise is present.",
+      "text_narrative_log": "(1) '耶嫩THE FIRST TAKE - 我可以' (Decorative/Hook: Title indicating a singing performance, emotional and inviting). (2) Functional subtitles at the bottom display the lyrics of the song '我可以' as they are sung. (3) Functional UI elements like a progress bar, play/pause buttons, and volume icons are overlaid at the bottom to mimic a music player interface."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 8.5,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Emotional Singing -> Climax with High Note -> End"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Arms"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator performing the song.",
+      "mainCharacterDescription": "A young male with permed curly hair, wearing a black crew-neck t-shirt, a silver chain necklace, and professional Sony MDR-7506 headphones."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A simple indoor setting with a white vertical-striped curtain in the background, creating a clean studio look.",
+      "lightingStyle": "Bright studio lighting, soft and even.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Muted",
+      "cameraWork": [
+        "Static",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Headphones",
+        "Microphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "SONY"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Smooth",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Passionate and professional",
+        "pitch": "High-pitched during climax",
+        "loudness": "Normal to Loud",
+        "speed": "Normal",
+        "speechDensity": "Continuous singing",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Pop Ballad",
+      "bgmBPM": 72,
+      "instrumentFamiliesAudible": [
+        "Keyboard",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Piano",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Intro -> Emotional Development -> Climax -> Resolution",
+      "mainPurpose": "The video is a music performance cover intended to showcase the creator's vocal talent and emotional range. It mimics the style of 'The First Take' to emphasize the raw, high-quality production of the vocal performance.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "First Take style visual layout, specific high-note smile.",
+      "freeDescribe": "The video uses a simulated music player UI to enhance the professional feel of a music release or a high-quality cover."
+    }
+  }
+}

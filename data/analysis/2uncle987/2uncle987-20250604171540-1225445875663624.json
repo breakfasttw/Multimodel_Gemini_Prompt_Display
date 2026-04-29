@@ -1,0 +1,183 @@
+{
+  "videoName": "2uncle987-20250604171540-1225445875663624.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 45,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel Recommendation",
+        "Hotel Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Tokyo"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young female creator wearing a cartoon-print T-shirt smiles and gestures towards the camera in a hotel room; a man and a child are visible on beds behind her. (2) The scene transitions to an outdoor POV shot walking from Sugamo Station, passing a Burger King and pulling bright yellow and pink luggage. (3) Night shots of a FamilyMart convenience store and the hotel entrance featuring several green and white rental e-scooters; a small child runs into the building. (4) A rapid tour of the room interiors starts with a smart-lock door opening to reveal a toilet, then a wide vanity area with a large mirror, and a bathroom with a tub. (5) The main living area is shown, featuring multiple beds, a tatami seating area, a sofa, and a large TV. (6) The creator returns to the frame at the end, winking and holding up fingers representing the room's capacity.",
+      "audio_narrative_log": "(1) High-energy, upbeat synth-pop music begins immediately. A clear, friendly female voice narrates in Mandarin Chinese. (2) Subdued ambient sounds of rolling luggage wheels on pavement are heard over the music. (3) The electronic 'beep' of a smart door lock is clearly audible as the creator enters the room. (4) The narration continues with an excited tone, describing the room's layout and price, while the background music remains constant in tempo. (5) No other distinct vocals or significant background noise are detected.",
+      "text_narrative_log": "(1) Functional Text: '巢鴨車站北口出 走路約3分' (Sugamo Station North Exit, 3 min walk) - Informative and helpful. (2) Decorative/Hook Text: '一晚只要5000' (Only 5000 a night) and '可以睡4-6個人喔' (Can sleep 4-6 people) - Highlighting the value proposition with an excited tone. (3) Functional Text: Descriptions of room parts like '超大洗手台' (Huge sink) and '有浴缸' (Has bathtub) - Descriptive and clear."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.05,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Location/Amenities -> Room Tour -> Price/Capacity Summary"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 9,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 1 adult male on bed/walking, 1 young boy running, and 6 diverse passers-by visible in the station street scene.",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a white oversized T-shirt with yellow and brown teddy bear prints."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Hotel",
+          "Outdoor Street",
+          "Bathroom"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Features a modern Japanese hotel room with minimalist wood paneling, white bedding, a tatami washitsu corner, a standard Tokyo street at night, and a station entrance.",
+      "lightingStyle": "Mixed: Bright indoor LED lighting and nighttime street ambient light.",
+      "weather": "Night / Clear",
+      "season": "Winter (based on people's coats and 'New Year' mention)",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "E-scooter",
+        "Luggage"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "TV",
+        "Smart Lock"
+      ],
+      "landmark": [
+        "Sugamo Station"
+      ],
+      "brandLogos": [
+        "FamilyMart",
+        "Burger King",
+        "Rimowa",
+        "Luup"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and persuasive",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat J-pop Style",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Smart lock beep"
+      ],
+      "ambientNoise": [
+        "Street noise",
+        "Wheel rolling"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Proximity Advantage -> Exterior Services -> Interior Facility Tour -> Final Value Summary",
+      "mainPurpose": "The video serves as a high-value travel recommendation for a homestay/hotel in the Sugamo area of Tokyo. By showcasing the proximity to the station, nearby convenience stores (FamilyMart), and the spacious interior capable of housing 4-6 people for a low price even during peak travel seasons, the creator aims to provide practical, budget-saving advice to her audience.",
+      "visualEmotion": "Energetic and inviting"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed review of a specific accommodation including price, location, and interior facilities.",
+      "endorsementObject": [
+        "Unknown Tokyo Homestay"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin narration, variety-show style large text overlays, and a first-person POV walkthrough style.",
+      "freeDescribe": "The video effectively targets budget-conscious families or small groups traveling to Japan, focusing heavily on 'space' which is a premium in Tokyo accommodations."
+    }
+  }
+}

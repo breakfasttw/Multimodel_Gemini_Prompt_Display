@@ -1,0 +1,190 @@
+{
+  "videoName": "cocowine0205-20250821143305-1431467961154579.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 82,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping Recommendation",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Two young women appear in a Costco warehouse pushing a shopping cart, gesturing excitedly at the camera. The video then transitions to one of the women crouching in front of a shelf of green juice bottles. (2) The woman is shown at home pouring a green juice into a glass, drinking it, then mixing it with a white liquid (yogurt) and drinking it again. A shot shows her in a bathroom giving a thumbs up. (3) Back at Costco, she picks up a tray of large sandwiches from a refrigerated shelf. At home, she cuts one open to show the filling and takes a large bite, smiling. (4) The two women are back at Costco in front of shampoo displays, pointing at the products. They transition to a home setting where one woman's hair is being washed and lathered with shampoo. Before-and-after shots show her hair with more volume. (5) A shot shows hair on a patterned floor being compared to a cleaner floor. The women sit at a table presenting the shampoo bottles and wave goodbye.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop music begins immediately. A high-pitched, energetic female voice asks a question about what to buy at Costco. (2) The same upbeat BGM continues as a female narrator provides details about a juice product, including ingredients and price. Sounds of liquid pouring and glass clinking are heard. (3) The narration shifts to describing the food item, with rhythmic chewing sounds and satisfied 'mmm' vocalizations layered over the music. (4) The voice becomes more instructional and persuasive while discussing the shampoo, accompanied by the sound of running water and squelching soap suds. (5) The music reaches a peak during the 'before and after' reveal and then maintains a steady rhythm until the women say a final goodbye and the audio fades.",
+      "text_narrative_log": "(1) Functional Text: '如果來好事多，只能選三樣，你會買甚麼？' (If you come to Costco and can only choose 3 items, what would you buy?). Decorative Text: '跟我來' (Follow me!) in a bright yellow bubble. (2) Functional Text: '純在 雪梨酪梨 綜合果汁' (Natural Benefits Pear Avocado Mixed Juice) and '195元'. Hook Text: '超猛炸馬桶神器' (Extremely powerful toilet exploding tool) with a humorous, energetic tone. (3) Functional Text: '豪華蟹肉沙拉堡' (Deluxe Crab Meat Salad Bun) and '160元'. (4) Functional Text: 'Dr.FORHAIR 固髮煥活洗髮露' and '729元'. Effect Text: '洗前' (Before washing) and '洗後' (After washing) appearing during the hair comparison. (5) Hook Text: '強化髮根減少掉髮' (Strengthen hair roots and reduce hair loss) and '臭頭油頭說掰掰' (Say goodbye to smelly and oily hair)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.95,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Item 1 (Food) -> Item 2 (Food) -> Item 3 (Personal Care) -> Demo/Results -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up",
+        "Back of head"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators appearing together in the intro and outro.",
+      "mainCharacterDescription": "One woman has medium-length black hair, wearing a white off-the-shoulder dress and a zebra-patterned bucket hat. The second woman has long, straight black hair and wears a white lace dress."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Kitchen",
+          "Bathroom",
+          "Living Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The store scenes feature high metal shelves packed with bulk goods at Costco. The home scenes feature a clean white kitchen counter, a modern bathroom with patterned tiles, and a living room with a grey sofa and plush toys.",
+      "lightingStyle": "Bright, even commercial lighting in the store; soft natural and interior lighting at home.",
+      "weather": "Unknown (Indoor)",
+      "season": "Summer (based on sleeveless dresses)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up",
+        "Top-down"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Juice",
+        "Crab meat",
+        "Bread",
+        "Yogurt",
+        "Apple",
+        "Celery"
+      ],
+      "trafficDetect": [
+        "Shopping cart"
+      ],
+      "techDetect": [
+        "Hair dryer"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "Natural Benefits",
+        "Dr.FORHAIR"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, enthusiastic, and promotional",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pouring liquid",
+        "Chewing",
+        "Water splashing",
+        "Slide whistle"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Item Recommendation 1 -> Item Recommendation 2 -> Item Recommendation 3 -> Results/Proof -> CTA",
+      "mainPurpose": "To promote specific 'must-buy' products available at Costco (Taiwan) by demonstrating their practical use, taste, and effectiveness, specifically targeting young female consumers interested in health, food, and hair care.",
+      "visualEmotion": "Energetic and Positive"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed pricing, product demonstration, and before-and-after results for the shampoo and juice.",
+      "endorsementObject": [
+        "Dr.FORHAIR",
+        "Natural Benefits"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing with colorful variety-show style captions and a focus on 'life hacks' (e.g., mixing juice with yogurt for digestion).",
+      "freeDescribe": "The video uses a high-energy 'influencer' style typical of short-form commerce videos, blending personal lifestyle content with direct product marketing."
+    }
+  }
+}

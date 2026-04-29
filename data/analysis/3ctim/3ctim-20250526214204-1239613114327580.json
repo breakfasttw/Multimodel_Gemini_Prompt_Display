@@ -1,0 +1,179 @@
+{
+  "videoName": "3ctim-20250526214204-1239613114327580.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 43,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech News",
+        "Educational",
+        "Commentary"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a close-up of a middle-aged man wearing glasses and a patterned flat cap, pointing directly at the camera with a surprised/serious expression. (2) A graphic of the OpenAI logo appears, followed by a cut to Sam Altman speaking at a conference. (3) Transitions back to the man who uses hand gestures to explain technical concepts while animated icons of lightning (electricity), light bulbs, and water bottles appear as overlays. (4) The man continues speaking enthusiastically, occasionally leaning into the camera. (5) The final scene shows the man looking down at a device, typing with a playful expression, followed by an overlay of a ChatGPT chat bubble.",
+      "audio_narrative_log": "(1) Fast-paced, rhythmic electronic background music (BGM) starts immediately. A male voice speaks in an energetic, high-pitched, and fast-paced tone. (2) The music remains constant as the narrator explains data points; sound effects (SFX) like digital 'pops' and 'dings' occur simultaneously with the appearance of on-screen graphics. (3) The vocal intensity increases slightly during the 'revealing' parts of the explanation. (4) The audio concludes with a final SFX accompanying the closing text, with the BGM fading out.",
+      "text_narrative_log": "(1) '你知道嗎' (Did you know?) - Hook text with a curious tone. (2) '讓OpenAI多燒了數千萬美元' (Made OpenAI burn tens of millions of dollars) - Informative and shocking tone. (3) '請 謝謝' (Please, Thank you) - Functional text highlighting the core topic of politeness. (4) '大量GPU計算' (Massive GPU calculations) - Technical term for context. (5) '0.14度電' (0.14 kWh) and '14顆LED的燈' (14 LED bulbs) - Comparison data. (6) '三罐的瓶裝水' (Three bottles of bottled water) - Visual measurement text. (7) '辛苦你了' (You've worked hard) - Closing emotional hook/sticker."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.07,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Evidence/Data Presentation -> Real-world Analogy -> Personal Conclusion/Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Hands",
+        "Full body (partial in graphics)"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main host (Tim哥), 1 public figure (Sam Altman) in B-roll footage.",
+      "mainCharacterDescription": "Middle-aged male with glasses, wearing a grey/black patterned flat cap, a black T-shirt with white/green graphics, and a beaded bracelet on his right wrist."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A blurred, neutral indoor background, likely a studio or a home office with soft, warm lighting.",
+      "lightingStyle": "High-key studio lighting, bright and even.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Digital Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Server (icon)",
+        "GPU (text)"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "OpenAI",
+        "ChatGPT",
+        "X (formerly Twitter)"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with beat-sync",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and educational",
+        "pitch": "Medium-high",
+        "loudness": "Clear and projected",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop",
+        "Ding",
+        "Swoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Data Analysis -> Comparison -> Conclusion",
+      "mainPurpose": "The video aims to educate viewers about the high environmental and operational costs (electricity and water) associated with using AI like ChatGPT, specifically highlighting how unnecessary polite phrases like 'please' and 'thank you' increase computational load and resource consumption.",
+      "visualEmotion": "Energetic and Eye-opening"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "Content is presented as a technology news commentary rather than a paid promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy pointing at start, fast-paced 'talking head' style with dense infographic overlays, signature flat cap and glasses.",
+      "freeDescribe": "The video uses effective data visualization (bottled water, light bulbs) to translate abstract technical costs into relatable everyday concepts, typical of modern short-form educational content."
+    }
+  }
+}

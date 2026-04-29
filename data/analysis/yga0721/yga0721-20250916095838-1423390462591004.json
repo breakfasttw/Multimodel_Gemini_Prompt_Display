@@ -1,0 +1,185 @@
+[
+  {
+    "videoName": "yga0721-20250916095838-1423390462591004.mp4",
+    "low_inference_observations": {
+      "basic_metadata": {
+        "videoDuration": 70,
+        "aspectRatio": "9:16",
+        "videoGenre": [
+          "Vlog",
+          "Automotive Review",
+          "Lifestyle"
+        ],
+        "withRealPeople": true,
+        "location": {
+          "country": [
+            "Taiwan"
+          ],
+          "city": [
+            "Unknown"
+          ]
+        }
+      },
+      "perceptual_narrative_logs": {
+        "visual_narrative_log": "(1) Three people—a man in a red t-shirt, a man in a black t-shirt with sunglasses, and a woman in a white dress—stand next to a red Tesla Model Y in a parking lot; the man in red gestures excitedly at the front of the car. (2) The scene transitions to the interior, where the woman sits in the backseat, touching the white leather upholstery and pointing at the entertainment screen located behind the center console. (3) The video cuts to shots of the car driving on roads and highways; the camera alternates between the driver's face (man in red), the passengers' reactions, and exterior shots of the red car moving through traffic.",
+        "audio_narrative_log": "(1) Upbeat, energetic pop background music starts. Multiple male voices are heard speaking enthusiastically in Mandarin with high-pitched tones. (2) The music continues as the acoustic environment shifts to the interior of the car, where voices sound slightly more resonant; a female voice is heard expressing surprise and delight. (3) As the car begins to drive, muffled ambient road noise is heard, followed by several loud, synchronized shouts of 'Oh!!' and 'Woah!' from all speakers, indicating excitement.",
+        "text_narrative_log": "(1) Functional Text: '這台什麼行頭' (What is this outfit/style?), 'Model Y 煥新版' (Model Y Refreshed Edition). (2) Decorative Text: '白內裝' (White Interior), '還有電視' (And a TV), '你真的很騷' (You're really flashy/showy). (3) Hook Text: '隔音真的好蠻多的' (The soundproofing is really much better), '完全聽不到風切聲' (Can't hear the wind noise at all), '從地獄到天堂' (From hell to heaven)."
+      },
+      "temporal_pacing_summary": {
+        "sceneCutCount": 18,
+        "averageSceneDuration": 3.8,
+        "isNarrativeShift": true,
+        "mainActionFlow": "Intro/Exterior -> Interior Feature Walkthrough -> Driving Experience Test"
+      },
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Full body",
+          "Hands only",
+          "Torso"
+        ],
+        "crowdLevel": "Small Group",
+        "countingEvidence": "1 male in a red t-shirt, 1 male in a black t-shirt, 1 female in a white dress.",
+        "mainCharacterDescription": "The primary host wears a bright red oversized t-shirt and black techwear-style pants; the second male wears a black t-shirt, sunglasses, and baggy jeans; the female wears a white dress with puffed sleeves."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Outdoor Parking",
+            "Inside Car",
+            "Highway"
+          ],
+          "topography": [
+            "Plain"
+          ]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An outdoor asphalt parking lot with a stone wall and trees, followed by the high-tech white interior of a Tesla, and finally blurred highway scenery through the windows.",
+        "lightingStyle": "Natural daylight",
+        "weather": "Sunny",
+        "season": "Summer",
+        "editingPace": "Fast",
+        "textOverlay": {
+          "density": "High",
+          "language": [
+            "Traditional Chinese",
+            "English"
+          ],
+          "isSubtitled": true
+        },
+        "colorTone": "High Saturation",
+        "cameraWork": [
+          "Handheld",
+          "Follow shot",
+          "Static",
+          "POV"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Tesla Model Y",
+          "Car"
+        ],
+        "techDetect": [
+          "In-car touchscreen",
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Tesla",
+          "JOWUA"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      },
+      "audio_production_style": {
+        "audioContinuity": "Continuous",
+        "audioTransition": "Hard cut",
+        "vocalRatio": "High"
+      },
+      "audio_vocal_characterization": {
+        "speaker_inventory": {
+          "onscreen": 3,
+          "offscreen": 0,
+          "backgroundCrowdVoices": 0,
+          "vocal_demographics": {
+            "male_vocal_count": 2,
+            "female_vocal_count": 1,
+            "kids_vocal_count": 0
+          }
+        },
+        "vocal_qualities": {
+          "tone": "Excited and humorous",
+          "pitch": "High",
+          "loudness": "Loud",
+          "speed": "Fast",
+          "speechDensity": "Continuous talking",
+          "language": [
+            "Mandarin"
+          ]
+        }
+      },
+      "audio_music_and_environment": {
+        "bgmPresence": true,
+        "bgmGenre": "Upbeat Electronic",
+        "bgmBPM": 128,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Synthesizer",
+          "Drum Machine"
+        ],
+        "musicSourceType": [
+          "Stock"
+        ],
+        "rhythmSync": "High(Beat-sync)",
+        "soundEffects": [
+          "Meme sounds",
+          "Transition swoosh"
+        ],
+        "ambientNoise": [
+          "Road noise",
+          "Wind"
+        ],
+        "audioQuality": "Field"
+      }
+    },
+    "high_inference_interpretations": {
+      "narrative_and_purpose": {
+        "narrativeStructure": "Montage: Hook -> Demonstration -> Comparison -> CTA",
+        "mainPurpose": "The video aims to review and promote the updated 'refreshed' version of the Tesla Model Y. It focuses on highlighting the improvements over the older model, specifically the exterior lighting, the white interior aesthetics, the addition of a rear entertainment screen, and the significantly improved cabin noise insulation (NVH) during driving.",
+        "visualEmotion": "Energetic"
+      },
+      "endorsement_analysis": {
+        "isEndorsement": true,
+        "endorsementMethod": [
+          "Explicit/Full"
+        ],
+        "endorsementCues": "The video explicitly names the car model, showcases its unique features in detail, and displays branded accessories like 'JOWUA' headrests prominently.",
+        "endorsementObject": [
+          "Tesla",
+          "JOWUA"
+        ]
+      },
+      "social_sociology_tags": {
+        "uniqueSignatures": "Fast-talking Mandarin vlog style with high-energy reactions and bold variety-show style text overlays.",
+        "freeDescribe": "The video uses a high-energy group dynamic to make a car review feel like a lifestyle vlog, likely targeting a younger, tech-savvy audience in Taiwan."
+      }
+    }
+  }
+]

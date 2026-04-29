@@ -1,0 +1,177 @@
+{
+  "videoName": "cocowine0205-20250216054206-1588216349111274.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 16.5,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping",
+        "Product Showcase"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a shot of warehouse shelves stocked with large yellow and blue bags of Minions-themed gummy candy under a Costco logo overlay. (2) A woman with long dark hair, wearing a black top and a necklace, enters the frame and picks up one of the large bags. Suddenly, another bag is thrown at her from off-camera, hitting her in the head. (3) She reacts with a surprised expression and then smiles broadly, laughing while holding two large bags of candy against her chest. (4) The scene transitions to close-up shots of the individual small packets inside the large bag and a shot of the nutritional information label on the back, highlighting the '1kg' weight.",
+      "audio_narrative_log": "(1) Upbeat, high-pitched, and energetic background music starts immediately with rhythmic electronic beats. (2) A female voice begins speaking in an excited and fast-paced tone, narrating her discovery and reaction to the product. (3) Sound effects like a 'bonk' sound play when she is hit by the bag, followed by the sound of laughter and playful banter. (4) The music remains constant until the end, maintaining a fast and cheerful atmosphere.",
+      "text_narrative_log": "(1) 'COSTCO WHOLESALE' logo appears at the top. (2) '大包到受傷 小小兵軟糖' (So big it hurts, Minions gummy) - a humorous hook text in colorful font. (3) '哦妹妹' (Oh sister/little girl) - decorative text appearing during the interaction. (4) '買兩包 送你兩包' (Buy two, give you two) - promotional hook text. (5) '超多袋的小軟糖' (So many bags of small gummies) - functional description. (6) '重量竟然有 一公斤!' (The weight is actually one kilogram!) - emphatic text highlighting the product's size."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 2.06,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Humorous Interaction -> Product Detail Showcase"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator interacting with the product",
+      "mainCharacterDescription": "A young woman with long black hair, wearing a black V-neck top, a silver necklace, and a bright smile."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "Large warehouse shelving units packed with bulk food items, specifically Minion-branded gummy bags.",
+      "lightingStyle": "Bright indoor warehouse lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Gummy Candy"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "Minions",
+        "Got Fruit"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Bonk SFX",
+        "Cartoon sounds"
+      ],
+      "ambientNoise": [
+        "Store background hum"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Interaction -> Evidence",
+      "mainPurpose": "The video aims to enthusiastically recommend a bulk-sized Minion-themed gummy candy product available at Costco. It uses a humorous 'hook' (being hit by the large bag) to emphasize the product's substantial size and weight (1kg), followed by detailed shots of the packaging to prove the value for money.",
+      "visualEmotion": "Cheerful and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed showcase of product packaging, weight, and brand logo combined with a positive reaction.",
+      "endorsementObject": [
+        "Got Fruit Minions Gummy Mix"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-show style text overlays and playful interaction with products.",
+      "freeDescribe": "Typical short-form social media retail recommendation content characterized by fast cuts and high energy."
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "videoName": "3ctim-20250430084647-1947699392766993.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 44,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Lifestyle"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a grey sweater wearing a patterned flat cap is speaking directly to the camera in a studio setting. (2) A graphic icon for the app 'Lookus' appears in front of him. (3) A brief clip shows a woman with long hair looking at her smartphone. (4) The video cuts back to the man explaining the app's features using expressive hand gestures. (5) The man points directly at the camera with a playful expression during the final scene.",
+      "audio_narrative_log": "(1) Energetic male vocals in Mandarin begin immediately over an upbeat, medium-tempo electronic background track. (2) The vocal remains continuous as the speaker describes app features; occasional subtle sound effects (SFX) like UI clicks are heard. (3) The music stays consistent until the end, where a second off-screen male voice is heard briefly in a humorous exchange.",
+      "text_narrative_log": "(1) Functional Text: '超狂抓猴 -APP-' (Crazy monkey catching/cheating detection -APP-) with an energetic tone. (2) Decorative Text: '媲美美國軍方監控系統' (Comparable to US military surveillance) used as a hook. (3) Functional Text: Subtitles detailing features such as '手機螢幕使用時間' (Screen usage time) and '移動並停留到哪些地方' (Movement and stay locations)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> App introduction -> Feature detailed breakdown -> Humorous conclusion."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head and shoulders",
+        "Hands only",
+        "Side profile"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main male creator, 1 female appearing in a b-roll smartphone usage shot.",
+      "mainCharacterDescription": "Middle-aged man wearing a grey 'Roots' sweatshirt, a red and black plaid flat cap, and gold-rimmed glasses."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A plain, neutrally lit grey studio wall with digital overlays.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and clear",
+      "cameraWork": [
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "mika",
+        "3ctim",
+        "Roots"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, persuasive, and humorous",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "UI click sounds"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Demonstration -> Skit",
+      "mainPurpose": "The video aims to promote and explain the functionalities of a relationship-tracking app called 'Lookus'. By positioning it as a 'monkey catching' (cheating detection) tool with extreme surveillance capabilities, the creator uses humor and tech-review tropes to drive interest and downloads among couples.",
+      "visualEmotion": "Energetic and lighthearted"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of the app icon, name, and a detailed walkthrough of its unique selling points by a known influencer.",
+      "endorsementObject": [
+        "Lookus"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Signature plaid cap and '3ctim' intro graphics.",
+      "freeDescribe": "The use of variety-show style text and exaggerated claims about 'military-grade' tech is typical of Taiwanese tech-comedy short-form content."
+    }
+  }
+}

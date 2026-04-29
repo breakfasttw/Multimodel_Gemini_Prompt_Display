@@ -1,0 +1,183 @@
+{
+  "videoName": "khshu_-20250806161514-886058810876947.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 76,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Interview",
+        "Design Showcase"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Sweden"
+        ],
+        "city": [
+          "Älmhult"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young female host with a silver hair clip and a denim jacket opens the video in a large, brightly lit industrial exhibition hall, waving and pointing at the camera. (2) The scene shifts to rapid-fire interviews with four different designers (three female, one male) in various settings: a studio, a wooden cabin-like structure, and an exhibition floor. The designers smile and gesture as they speak. (3) Close-up shots of interior products follow, including a semi-circular pink and red textured rug, a triangular wooden coffee table, and an ergonomic shower chair. (4) The host transitions to exploring beautifully decorated home interiors featuring large windows with forest views, minimalist kitchens, and a bathroom with a large skylight. (5) The video concludes with the host inside a traditional wooden house, expressing excitement through wide-eyed facial expressions and holding a microphone.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music begins immediately and remains constant throughout the video. (2) The female host speaks in an energetic, high-pitched tone in Mandarin Chinese. (3) Transitions occur between the host's narration and interviews where different speakers (male and female) talk in English with professional yet friendly tones. (4) Occasional sounds of laughter and the 'thud' of objects being touched or moved are audible over the music. (5) The audio concludes with a final enthusiastic statement from the host and the music fading out.",
+      "text_narrative_log": "(1) Functional text appears at the top: '設計師的自介' (Designer's Introduction) and '最喜歡自己哪個作品?' (Which work do you like most?). (2) Hook text overlays include 'GO!!!' in large white letters and '最滿意的作品 最滿意的食物' (Most satisfying work, most satisfying food). (3) Designer names and titles appear: 'Sarah', 'Maria Vincke', 'Ilya', and series names like 'OMMJÄNGE' and 'FÄRGSÄTTARE'. (4) Humorously toned captions appear like '霜淇淋信徒' (Ice cream believer) and '瑞典肉丸 NO.1' (Swedish meatballs NO.1) accompanied by emojis. (5) Decorative captions such as '也太漂亮了吧' (So beautiful) and '好想住在這!!' (I want to live here!!) highlight the host's reactions."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Rapid-fire interviews with designers -> Detailed product/interior showcase -> Host's closing reaction."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 6,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female host, 4 featured designers, approximately 3-4 visible background staff/visitors.",
+      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a white crop top, a denim jacket, and a pink ID lanyard."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Exhibition Hall",
+          "Indoor Living Room",
+          "Kitchen"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern industrial exhibition spaces with exposed ceilings, followed by cozy, Scandinavian-style home interiors with wooden walls, large windows, and lush greenery outside.",
+      "lightingStyle": "Bright natural light and soft indoor studio lighting.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Follow shot",
+        "Static",
+        "POV",
+        "Pan"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Microphone",
+        "Headset"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "IKEA"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 5,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 4,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, professional, and cheerful",
+        "pitch": "Varied (host is high, designers are medium)",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese",
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Meme sounds",
+        "Transition swoosh"
+      ],
+      "ambientNoise": [
+        "Exhibition chatter"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Designer Interviews -> Product Showcase -> Conclusion",
+      "mainPurpose": "To provide an inside look at IKEA's design process and promote new collections through personality-driven interviews and lifestyle tours, aiming to connect viewers emotionally with the brand's designers and products.",
+      "visualEmotion": "Energetic and Inspiring"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The entire video is focused on IKEA products, designers, and events, with the host actively interviewing brand representatives.",
+      "endorsementObject": [
+        "IKEA"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing with variety-show style Chinese captions and emoji overlays.",
+      "freeDescribe": "The video effectively uses a high-energy host to bridge the gap between technical design information and general consumer interest, particularly targeting the Chinese-speaking market."
+    }
+  }
+}

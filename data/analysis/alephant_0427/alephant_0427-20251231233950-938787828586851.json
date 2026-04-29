@@ -1,0 +1,177 @@
+{
+  "videoName": "alephant_0427-20251231233950-938787828586851.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 40,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Short Skit"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a black title card, then cuts to a woman in a black shirt and white skirt jumping frantically while holding a Christmas tree during an earthquake; a man stands behind her holding the tree steady. (2) The scene transitions to a different woman lying in a large massage chair, holding her phone to record her own reaction while the room shakes visibly. (3) A third woman is shown crouching under a dining table, holding onto the table legs and looking around cautiously with her phone in hand. (4) The video returns to the first couple at the Christmas tree, followed by a final black screen with closing text.",
+      "audio_narrative_log": "(1) Upbeat and quirky background music with a steady rhythm begins. A male narrator's voice provides commentary in a deep, calm tone. High-pitched female laughter and excited shouting are heard as the earthquake effects occur. (2) Rumbling ambient noise mimicking an earthquake soundscape is layered with the music. (3) A female voice on-screen speaks enthusiastically about the 'massage intensity' while the BGM continues. (4) The narrator's voice returns to ask a final question, and the music fades out as the video ends.",
+      "text_narrative_log": "(1) Functional Text: '遇到大地震的各種反應' (Various reactions when encountering a big earthquake) - informative and catchy. (2) Hook: '你是哪一種' (Which kind are you?) - engaging the audience. (3) Decorative: '只要自己比地震還震，這地震就不震' (As long as you shake more than the earthquake, it doesn't shake) - humorous tone. (4) Decorative: '即便地震很大，還是會把東西扶住' (Even if the earthquake is huge, still holding things steady) - descriptive tone. (5) Decorative: '不管怎樣 先拍再說' (No matter what, record first) - social media irony tone. (6) Decorative: '突然之間閃現到桌子下，超認真避難' (Suddenly flashes under the table, super serious evacuation) - contrastive humor tone. (7) Hook: '這麼多種你是哪一種？' (Of these many types, which one are you?) (8) Functional: '希望大家都平安' (Hope everyone is safe) - warm and sincere tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 7,
+      "averageSceneDuration": 5.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Reaction Showcase 1 -> Reaction Showcase 2 -> Reaction Showcase 3 -> Outro CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 4,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male holding the tree, 1 female jumping near the tree, 1 female in the massage chair, 1 female under the table.",
+      "mainCharacterDescription": "A male in a dark long-sleeve shirt and white pants; a female in a black 'Snoopy' sweatshirt and white skirt; a female in a pink and white striped shirt; a female in a purple sweater."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room",
+          "Studio"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern apartment interior featuring a white sofa, a large Christmas tree decorated with plush toys, a wooden dining table with various snacks/drinks, and a high-end massage chair.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "Indoor",
+      "season": "Winter (Christmas decorations visible)",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Snacks",
+        "Drinks"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Television",
+        "Massage Chair"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Playful, dramatic, and humorous",
+        "pitch": "Mixed (Deep male narrator, high female reactions)",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Frequent",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Digital Piano"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Rumbling",
+        "Meme sounds"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Examples 1-4 -> CTA",
+      "mainPurpose": "The video is a comedic sketch designed to entertain and engage viewers by satirizing common behaviors during an earthquake. It uses the 'Which one are you?' format to encourage audience participation and comments by presenting exaggerated archetypes: the hyperactive jumper, the protective 'tree-saver', the influencer who records everything, and the serious safety-seeker.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "A specific high-end massage chair is featured prominently in a segment, showing it as a comfortable place even during an earthquake, which is a common placement strategy for lifestyle influencers.",
+      "endorsementObject": [
+        "Unknown Massage Chair"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Deep-voiced narrator providing satirical commentary over chaotic visuals.",
+      "freeDescribe": "The video effectively utilizes local cultural relevance (frequent earthquakes in Taiwan) to create relatable content while maintaining a light-hearted, safe-focused conclusion."
+    }
+  }
+}

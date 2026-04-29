@@ -1,0 +1,205 @@
+{
+  "videoName": "cocowine0205-20250414103505-1447999426983633.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Shopping Vlog",
+        "Promotional"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taoyuan"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a title overlay featuring a plush green dragon toy in a warehouse setting, with the Costco logo and text announcing a special report. (2) The scene cuts rapidly every 1-2 seconds between different product displays on shelves, including a green toy F1 car, Kleenex tissue bundles, and tins of Fernleaf milk powder. (3) The sequence continues through various aisles, showing boxes of Viva snacks, nougat bags, Hershey's chocolate, cheese crackers, and packages of Bee Cheng Hiang pork jerky. (4) Frozen and refrigerated sections are shown, featuring boxes of Cesar dog food, Kid-O biscuits, Oreo packs, and pre-packaged meals like curry and shrimp. (5) The final segments display rows of alcoholic beverages (red wine, beer), household products like Parodontax toothpaste and Alpecin shampoo, and large bottles of Nature Made supplements.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music begins immediately and remains constant. An energetic male voice provides an enthusiastic introduction. (2) As the visuals cut between products, the male voiceover chronologically lists each item's name and its special price in a rhythmic, sales-oriented tone. (3) The audio remains clear and professionally mixed, with no significant ambient store noise or sound effects, maintaining a consistent high-energy promotional atmosphere until the end.",
+      "text_narrative_log": "(1) Hook text appears at the start: \"Costco Weekly Special Report 04/07-04/13, Remember to follow us\". (2) Functional text overlays every product shot, listing identifying names such as \"F1 Children's Electric Toy Car\", \"Kleenex Three-layer Toilet Paper\", and \"Fernleaf New Zealand Top Grade Milk Powder\". (3) Specific pricing information is provided for every item: \"Original Price\", \"Discount Amount\", and \"Special Price\" (e.g., \"Original Price 6599, -1400, Special Price 5199\"). (4) Some products include regional functional text like \"Limited Special Price Taoyuan Nankan Store\"."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Rapid sequential display of discounted products with price overlays -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 0,
+      "bodyPartVisibility": [
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "Only the hands of the person filming are occasionally visible while holding or pointing at products.",
+      "mainCharacterDescription": "None"
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Various aisles of a Costco warehouse, featuring industrial metal shelving, wooden pallets, and bulk-packaged consumer goods.",
+      "lightingStyle": "Bright indoor warehouse lighting",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Point-and-shoot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Milk Powder",
+        "Nuts",
+        "Nougat",
+        "Chocolate",
+        "Crackers",
+        "Jerky",
+        "Oreo",
+        "Bread",
+        "Red Wine",
+        "Beer",
+        "Juice",
+        "Shrimp",
+        "Curry"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco",
+        "Kleenex",
+        "Fernleaf",
+        "Viva",
+        "Hershey's",
+        "Kenji",
+        "Bee Cheng Hiang",
+        "Cesar",
+        "Kid-O",
+        "Oreo",
+        "Doraemon",
+        "Calvin Klein",
+        "Crown",
+        "Cadina",
+        "Santa Margherita",
+        "Columbia Crest",
+        "Sunmai",
+        "Kellogg's",
+        "Weider",
+        "Swiss Miss",
+        "Campbell's",
+        "Parodontax",
+        "Alpecin",
+        "Nature Made"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut sync",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Enthusiastic and professional",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence Sequence",
+      "mainPurpose": "The video is a promotional catalog designed for Costco members in Taiwan. It uses a high-speed montage of discounted items across food, household, and personal care categories to create a sense of urgency and provide practical value (price comparisons) to viewers, encouraging them to visit the store between April 7th and April 13th.",
+      "visualEmotion": "Energetic and Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The video is branded with the Costco logo and focuses entirely on reporting store-specific discounts and pricing.",
+      "endorsementObject": [
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced rhythmic price reporting, specific Traditional Chinese font style for price tags.",
+      "freeDescribe": "The video adopts a popular 'short-form discount report' style common on social media platforms like TikTok or Reels to deliver maximum information in minimum time."
+    }
+  }
+}

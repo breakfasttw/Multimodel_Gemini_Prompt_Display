@@ -1,0 +1,175 @@
+{
+  "videoName": "3ctim-20250621185103-908145921798143.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 41.5,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Commentary",
+        "Finance News"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a grey flat cap stands in an indoor setting, gesturing towards the camera while a US flag and gold coin graphics appear below him. (2) As he speaks, portraits of Donald Trump and logos for Bitcoin, J.P. Morgan, Citi, and Wells Fargo appear sequentially as floating overlays. (3) The man continues his explanation, accompanied by graphics of US dollar bills and diagrams illustrating stablecoin concepts, ending with a question to the viewers.",
+      "audio_narrative_log": "(1) A male voice speaks in Mandarin with a clear, engaging, and professional tone. Background music is an upbeat, medium-tempo electronic lo-fi track. (2) The music continues at a steady volume as the speaker discusses banking and cryptocurrency news. Occasional subtle 'pop' sound effects play when visual overlays appear. (3) The vocal remains dominant through the end, concluding with a rising intonation for a question, followed by a short music outro fade.",
+      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese translate the narration about US banks and stablecoins. (2) Decorative/Hook Text: Header text at the top left showing social media handles '3c有意思tim哥' and '@3ctim'. (3) Content Text: Key terms like '聯合穩定幣??' (Joint Stablecoin??), '比特幣' (Bitcoin), '數位黃金' (Digital Gold), and brand names 'J.P. Morgan', 'Citigroup', 'Wells Fargo' appear as emphatic graphic titles."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.3,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Market Context -> Technical Explanation -> Future Outlook -> CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Upper body",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main creator speaking directly to camera.",
+      "mainCharacterDescription": "Middle-aged Asian male wearing a white t-shirt with a red/yellow graphic, a grey flat cap, and wire-frame glasses."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A simple indoor room with a soft-focus background featuring a plain wall and a hint of a houseplant or furniture.",
+      "lightingStyle": "Soft studio lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "J.P. Morgan",
+        "Citigroup",
+        "Wells Fargo",
+        "Bitcoin logo",
+        "Wall Street Journal (WSJ) logo"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut between narration points",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Steady and professional",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Lo-fi Upbeat",
+      "bgmBPM": 95,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Pop sounds for graphics"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> Explanation -> Outlook",
+      "mainPurpose": "To provide a concise news update and commentary on the potential for major US banks to issue stablecoins and how this relates to the changing political and crypto landscape.",
+      "visualEmotion": "Informative"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Channel watermarks at top left, signature flat cap look of the creator.",
+      "freeDescribe": "Typical tech/finance news vlog style common in the Chinese-speaking YouTube/TikTok community."
+    }
+  }
+}

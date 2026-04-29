@@ -1,0 +1,190 @@
+{
+  "videoName": "yga0721-20250710113531-1800633310644500.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Challenge"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Okinawa"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a live-action shot of a man and a woman standing in front of a scooter rental shop in Okinawa; the man wears a white cap and sunglasses, pointing enthusiastically at the camera. (2) A montage follows showing the pair riding scooters across a large bridge and along coastal roads under a bright blue sky. (3) An illustrated map of Okinawa appears with red pins marking their route progress around the island's perimeter. (4) The duo is seen riding through various landscapes including urban streets with palm trees and rural seaside roads. (5) A dramatic segment shows them reaching scenic points like Zanpa Cape and a white lighthouse. (6) A crisis occurs where they are shown pushing a scooter and reacting with exaggerated faces near a gas station. (7) The video concludes with the pair celebrating on a grassy cliff overlooking the ocean, cheering with their arms raised.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo pop-rock music with a strong drum beat begins immediately. A male voice speaks in an excited, high-pitched tone, announcing a 24-hour round-the-island challenge. (2) The music continues as a consistent backdrop while wind noise and the faint hum of scooter engines are heard during riding sequences. (3) Vocal interactions increase with the female voice laughing and the male voice shouting milestones. (4) During an emergency segment, a rhythmic alarm-like sound effect (SFX) is layered over the music. (5) The video ends with loud cheering, high-fives sounds, and a final enthusiastic summary from the male speaker as the music reaches a crescendo.",
+      "text_narrative_log": "(1) Functional Text: '我們今天要來挑戰 24 小時沖繩環島' (Today we are going to challenge a 24-hour round-the-island trip in Okinawa) appears in a bold font. (2) Functional Text: Various location names like '波上宮' (Naminoue Shrine) and '邊戶岬' (Cape Hedo) appear on a map graphic. (3) Decorative Text: '最南端 喜屋武岬' (Southernmost point, Cape Kiyan) and '最東端' (Easternmost point) mark milestones with an energetic tone. (4) Hook Text: '發生緊急狀況' (Emergency situation) and '機車沒油了!!!' (Out of gas!!!) appear in large, vibrating fonts to emphasize drama. (5) Functional Text: '我們騎快 300 公里了' (We've ridden nearly 300 km) appears at the end for factual summary."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Travel Montage -> Milestone Checkpoints -> Emergency/Crisis -> Successful Completion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main male creator, 1 main female companion, and approximately 3 passers-by visible in background street scenes.",
+      "mainCharacterDescription": "The man wears a white baseball cap, sunglasses, a white patterned button-down shirt over a black tee, and khaki shorts. The woman wears sunglasses, a white tank top, and pink overalls."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Coastal Road",
+          "Gas Station",
+          "Scenic Lookout"
+        ],
+        "topography": [
+          "Coastline",
+          "Plain",
+          "Hill"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The background shifts from a scooter rental shop at the start to various Okinawa landmarks, including the Kaichu-doro bridge, coastal cliffs, a white lighthouse, and a local Japanese gas station.",
+      "lightingStyle": "Natural daylight",
+      "weather": "Sunny with some clouds",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "POV",
+        "Follow shot",
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Scooter",
+        "Car",
+        "Truck"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Action Camera"
+      ],
+      "landmark": [
+        "Zanpa Cape Lighthouse",
+        "Cape Hedo"
+      ],
+      "brandLogos": [
+        "KYMCO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "Medium-high",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Rock",
+      "bgmBPM": 145,
+      "instrumentFamiliesAudible": [
+        "Percussion",
+        "Strings",
+        "Electronic"
+      ],
+      "instrumentsAudible": [
+        "Electric Guitar",
+        "Drums",
+        "Synthesizer"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Alarm",
+        "Whoosh",
+        "Cheering"
+      ],
+      "ambientNoise": [
+        "Wind",
+        "Engine noise"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Challenge Progress -> Conflict -> Resolution",
+      "mainPurpose": "To document a high-energy travel challenge where the creators attempt to ride around Okinawa in 24 hours, blending entertainment, tourism, and a sense of adventure through fast-paced editing and variety-show style presentation.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Prominent display of KYMCO scooters and their performance throughout the island-wide trip, though framed as a personal challenge.",
+      "endorsementObject": [
+        "KYMCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Energetic shouting, high-frequency variety-show text overlays, and the 'challenge' format common in Taiwanese influencer culture.",
+      "freeDescribe": "The video utilizes classic vlog tropes like the 'map progress' graphic and 'emergency' hook to maintain high viewer retention and engagement."
+    }
+  }
+}

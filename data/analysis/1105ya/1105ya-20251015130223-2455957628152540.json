@@ -1,0 +1,179 @@
+{
+  "videoName": "1105ya-20251015130223-2455957628152540.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 42,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy Skit",
+        "Tutorial",
+        "App Promotion"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Two young women sit in a modern indoor cafe setting; they are chatting and displaying luxury handbags (Chanel style). The woman on the left wears a black lace top, while the woman on the right wears a white tube top. (2) They engage in a competitive bragging interaction, showing off travel plans and luxury items. The woman on the left reveals a polaroid photo of herself with a celebrity (Jennie from Blackpink). (3) The camera focuses on the photo, then the woman on the left performs a hand gesture towards the camera, transitioning to a mobile screen recording. (4) The screen recording demonstrates the 'HiCut' app interface, showing how to select templates (e.g., 'Jennie composite') and upload photos to create fake celebrity photos. (5) The video returns to a live-action scene against a plain white wall where the two women stand together, looking at a phone, appearing friendly again.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic pop music plays throughout. Two female voices are heard in a fast-paced, high-pitched, and slightly exaggerated conversational tone, simulating a comedic 'bragging' battle. (2) At 0:23, a 'shutter' sound effect is heard as the photo is shown. (3) From 0:29, the music remains as a background layer while the main female voice provides a clear, instructional narration (voiceover) explaining the app's functions. (4) Digital 'click' or 'pop' sound effects accompany the UI interactions on screen. (5) The music reaches a concluding flourish as the final dialogue occurs.",
+      "text_narrative_log": "(1) Decorative Hook: '當你 有個 愛炫耀的 朋友' (When you have a friend who likes to show off) in bold white text. (2) Functional Text: Chronological subtitles reflecting the dialogue about bags, travel, and the celebrity photo. (3) Variety-style labels: '(不屑)' (disdain), '(不能輸)' (can't lose), '(嚇到)' (shocked), and '(超厲害)' (super impressive) appear to emphasize emotions. (4) Brand/Instructional Text: '打開 Hicut', '選擇模板', '選取照片' appear during the tutorial phase. (5) Outro: '跟周杰倫的合照 幫我做' (Make a photo with Jay Chou for me)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Comedy Skit -> Conflict/Climax (Photo reveal) -> Technical Tutorial -> Outro/Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators appearing throughout the skit and outro.",
+      "mainCharacterDescription": "One woman has long brown hair, wearing a black lace tank top and jeans. The second woman has long black hair with bangs, wearing a white tube top and light-colored shorts."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Cafe",
+          "Studio",
+          "App Interface"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene is an indoor cafe with stone-textured walls and modern seating. Second scene is a digital smartphone UI showing photo editing templates. Third scene is a plain white indoor wall.",
+      "lightingStyle": "Bright studio lighting, very clean and even.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation, Bright",
+      "cameraWork": [
+        "Static",
+        "Screen Recording"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Chanel",
+        "HiCut"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, humorous, and instructional",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Camera Shutter",
+        "UI Click",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Conflict -> Resolution/Demo -> CTA",
+      "mainPurpose": "The video uses a relatable comedic skit about competitive social posturing (showing off) to introduce and promote the 'HiCut' app. It demonstrates how users can create convincing composite photos with celebrities to increase their social status or for fun.",
+      "visualEmotion": "Humorous, Energetic, Commercial"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The entire second half of the video is a tutorial for a specific app (HiCut), and the creator encourages the viewer to use it.",
+      "endorsementObject": [
+        "HiCut"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Variety-show style emotional captions in parentheses.",
+      "freeDescribe": "Typical short-video marketing strategy in Asia where an emotional or funny hook leads directly into a product demonstration."
+    }
+  }
+}

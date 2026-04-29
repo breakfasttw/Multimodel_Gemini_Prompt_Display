@@ -1,0 +1,176 @@
+{
+  "videoName": "yga0721-20251110180226-1442817130533518.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 64,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Talk Show",
+        "Podcast",
+        "Educational"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The scene starts in a studio with a man wearing an orange mask and an orange shirt sitting next to a woman in a plaid shirt; they are both in front of microphones. (2) A static image of the Mao Gong Ding bronze tripod is shown. (3) The camera cuts to a man in a white t-shirt wearing large white headphones, gesturing with three fingers. (4) Close-up images of three different jade artifacts shaped like cabbages are shown sequentially: a large one with insects, a smaller pale green one, and a flower-vase style one. (5) The people in the studio react with expressive facial movements and laughter as they discuss the size of the artifacts, comparing them to smartphones using hand gestures.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo background music plays throughout. (2) A male voice explains that many people believe there is only one jadeite cabbage in the National Palace Museum. (3) A second male voice excitedly clarifies that there are actually three, followed by a woman's surprised reaction and loud laughter. (4) The discussion continues with the speakers describing the specific names and origins of the artifacts. (5) Ambient studio sound is clear, punctuated by intentional sound effects like a 'ding' for facts and recorded laughter tracks mixed with live reactions.",
+      "text_narrative_log": "(1) Functional Text: '很多人以為 故宮的翠玉白菜只有一顆' (Surprised tone). (2) Functional Text: '其實有三顆' (Surprising fact tone). (3) Decorative Text: '故宮三寶只有毛公鼎真的是國寶' (Informative tone). (4) Labels: '第一顆叫做翠玉白菜', '第二顆叫做翠玉小白菜', '第三顆叫做翠玉白菜花插' (Categorical tone). (5) Functional Text: '跟手機大小這樣而已吧' (Descriptive tone). (6) CTA: '完整影片請上 蔡阿嘎543頻道收看' (Prompting tone)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Fact Reveal with Images -> Humorous Discussion -> CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 man in a mask, 1 woman in plaid, 1 man in a white t-shirt",
+      "mainCharacterDescription": "One man wears a stylized orange mask with a blue headband; the woman wears a pink and black plaid shirt; the second man wears a white t-shirt and professional headphones."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A podcast studio with gray brick-patterned walls, a shelf filled with anime figurines (Dragon Ball Z), a modern floor lamp, and turquoise curtains.",
+      "lightingStyle": "Studio softbox lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Multi-cam"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone",
+        "Headphones",
+        "Smartphone"
+      ],
+      "landmark": [
+        "National Palace Museum"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "Varied",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Laughter track",
+        "Ding",
+        "Pop"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Fact Comparison -> Shared Anecdote -> Call to Action",
+      "mainPurpose": "To debunk common misconceptions about the National Palace Museum's artifacts (specifically the Jadeite Cabbage) using a humorous, conversational podcast format to engage and educate the audience.",
+      "visualEmotion": "Humorous and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video is a promotional clip for the creator's own YouTube channel (蔡阿嘎543).",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Masked character, high-energy laughing, specific variety-show style font overlays.",
+      "freeDescribe": "The video uses a 'Shorts/Reels' format with a square aspect ratio and heavy text overlays to optimize for mobile viewing and social media engagement."
+    }
+  }
+}

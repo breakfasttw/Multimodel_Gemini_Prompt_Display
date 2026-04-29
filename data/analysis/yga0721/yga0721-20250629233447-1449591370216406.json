@@ -1,0 +1,188 @@
+{
+  "videoName": "yga0721-20250629233447-1449591370216406.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 90,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Product Review",
+        "Comedy",
+        "Endorsement"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts in a bedroom where a man wakes up and gets out of bed, leaving a woman sleeping. (2) He moves to the kitchen, prepares coffee, and then enters a living room area where he begins clearing a messy table cluttered with wires. (3) He introduces a series of PHILIPS charging products, demonstrating a 3-in-1 foldable charging stand with a phone, watch, and earbuds. (4) He leaves the house and is seen inside a car, installing a magnetic car charger on the dashboard and attaching his phone. (5) He returns home carrying a bag of groceries, finds the woman on the sofa looking at her phone, and hands her a compact magnetic power bank. (6) The video concludes with the man sitting at a table filled with various PHILIPS charging accessories, gesturing enthusiastically towards the camera.",
+      "audio_narrative_log": "(1) Energetic, upbeat background music starts immediately. A male voice speaks in a fast, humorous, and slightly mock-serious tone. (2) Sound effects (SFX) of objects being moved, clicking sounds as devices snap magnetically onto chargers, and water running in the kitchen are heard. (3) The vocal performance remains high-energy throughout, describing product features with emphasis on speed and convenience. (4) The music continues at a steady, high BPM, maintaining a cheerful and promotional atmosphere. (5) In the final phase, the man's voice becomes more direct and persuasive, peaking in excitement during the call to action for a group buy.",
+      "text_narrative_log": "(1) Functional Text: 'POV：嘎式大男人主義' (POV: Gaga-style Male Chauvinism) sets the humorous tone. (2) Decorative Text: Large, bold blue captions appear such as '不用理她' (Don't mind her), 'PHILIPS 黑金剛 Qi2', 'Funcube', and '一秒收疊' (Fold in one second) to highlight product selling points. (3) Functional Text: Consistent subtitles at the bottom translate the spoken dialogue throughout the video. (4) Promotional Text: '保證全網最低價' (Guaranteed lowest price) and '連結點起來' (Click the link) appear at the end for the CTA."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 45,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro skit -> Product demonstrations in different life scenarios (home, car) -> Final promotion and call to action."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head/Shoulders"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main male creator and 1 female appearing in bed and on the sofa.",
+      "mainCharacterDescription": "A man with short brown hair, wearing a white t-shirt and dark trousers, acting in a high-energy, humorous manner."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Bedroom",
+          "Living Room",
+          "Car Interior"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern, well-lit apartment with minimalist furniture, a messy work desk, a car dashboard, and a final studio-like setting with products displayed on a table.",
+      "lightingStyle": "Bright, natural-looking indoor lighting with studio fill.",
+      "weather": "Unknown",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Coffee",
+        "Vegetables"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Smartwatch",
+        "Wireless Earbuds",
+        "Power Bank",
+        "Charging Cable",
+        "Charging Station"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "PHILIPS",
+        "Apple"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with beat matching",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, humorous, and slightly aggressive (comedic)",
+        "pitch": "Medium-high",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Clicking",
+        "Whoosh",
+        "Water running"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Series of Problem/Solution Scenarios -> Direct Sales Pitch",
+      "mainPurpose": "The video uses a 'tough guy' comedy persona to promote a range of PHILIPS charging products. It demonstrates the utility of the products in various daily scenarios (organizing a desk, driving, helping a partner) to show their versatility and high quality, ultimately driving viewers to a group buy link with the promise of the lowest market price.",
+      "visualEmotion": "Energetic, Humorous, Product-focused"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator extensively demonstrates and praises the PHILIPS products, includes branded text overlays, and provides a direct call to action for a group purchase.",
+      "endorsementObject": [
+        "PHILIPS"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The 'Gaga' persona and specific fast-paced comedic editing style characteristic of the influencer Cai Aga.",
+      "freeDescribe": "The video effectively blends entertainment with a hard-sell advertisement, leveraging the creator's established brand identity to build trust and interest in the endorsed electronics."
+    }
+  }
+}

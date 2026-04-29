@@ -1,0 +1,171 @@
+{
+  "videoName": "3ctim-20250220164102-982603490757745.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 48,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Financial Commentary"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a live-action financial commentary. The main character, a man with glasses and a patterned flat cap, is positioned in the center, speaking directly to the camera against a backdrop of a blurred digital stock market interface. (2) The scene transitions to various graphic overlays: a list of industry sectors (Semiconductors, Finance, etc.) on a white background, followed by a 3D animation of a pink piggy bank sitting atop stacks of gold coins against a purple background. (3) A historical stock line chart appears, showing price trends from approximately 2005 to 2025 with specific price callouts. (4) The camera returns to the main character as he uses hand gestures to emphasize points while talking. A small cartoon dog sticker appears in the lower-right corner at the very end.",
+      "audio_narrative_log": "(1) A middle-aged male voice begins speaking in Mandarin with a clear, professional, and slightly energetic tone. A light, upbeat lo-fi electronic background music track plays at a consistent volume. (2) The music continues as the speaker discusses specific financial tickers (0050, 006208). Subtle 'swoosh' or 'ding' sound effects are heard coinciding with graphic transitions on screen. (3) The vocal track remains the primary focus with high clarity, typical of a studio recording environment. (4) The audio concludes with the speaker asking a closing question, with the music fading out shortly after.",
+      "text_narrative_log": "(1) 'ETF 0050 你入手了嗎？' (Hook Text - Have you started with ETF 0050? - Exciting/Inquisitive tone). (2) List of industry sectors including '半導體業', '金融保險', '電腦及週邊設備業' (Functional Text). (3) '前50大個股的權重比例' (Functional Text - Weighting ratio of top 50 stocks). (4) '006208' and '十分相似' (Functional Text - Very similar). (5) '進行分割' (Decorative/Hook Text - Performing a split - Informative tone). (6) '你要不要買' (Hook Text - Do you want to buy - Engagement tone)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Breakdown of Index Components -> Comparison with Similar Product -> Market Prediction/News -> Closing CTA."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body (Upper)",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main creator (Tim) appearing throughout.",
+      "mainCharacterDescription": "Middle-aged male wearing a grey sweatshirt, black-rimmed glasses, and a brown/grey patterned flat cap."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A mix of a blurred digital trading room background, white lists for industry data, 3D animated backgrounds for the piggy bank, and a line chart visualization for stock prices.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural with vibrant graphic overlays",
+      "cameraWork": [
+        "Static",
+        "Zoom-in"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Steady and informative",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Lo-fi",
+      "bgmBPM": 95,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Transition whoosh",
+        "Soft dings"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Definition -> Industry Breakdown -> Competitive Comparison -> Market News/Prediction -> Final CTA.",
+      "mainPurpose": "To educate retail investors about the structure of the 0050 ETF, highlight its similarities to 006208, and discuss the implications of a potential stock split for entry-level investors.",
+      "visualEmotion": "Informative and professional"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video presents general market news and financial concepts without promoting a specific brokerage or financial product as a sponsored message.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3C Tim (3cTim) branding, signature flat cap and glasses, use of financial charts and 3D piggy bank animations.",
+      "freeDescribe": "Typical high-quality short-form financial commentary aimed at Taiwanese retail investors."
+    }
+  }
+}

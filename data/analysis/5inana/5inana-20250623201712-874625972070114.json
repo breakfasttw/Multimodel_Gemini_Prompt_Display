@@ -1,0 +1,168 @@
+{
+  "videoName": "5inana-20250623201712-874625972070114.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 22,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Vlog",
+        "Educational"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman stands outdoors in front of a large, circular, white multi-story building. She is wearing a light green tank top and a baseball cap with a colorful scarf draped over it, holding a small handheld microphone. (2) She speaks enthusiastically to the camera, gesturing with her right arm toward the building behind her. (3) She concludes her explanation with a bright smile and a laugh, maintaining a static position in the center of the frame.",
+      "audio_narrative_log": "(1) (A) Vocals: Adult female speaking Mandarin Chinese in a high-pitched, energetic, and informative tone. (B) BGM: No music detected. (C) Ambient: Quiet outdoor background noise with occasional wind sounds. (D) SFX: None. (2) The vocal continues as she explains cultural history, maintaining a steady, friendly volume. (3) The audio concludes with the sound of the speaker laughing naturally.",
+      "text_narrative_log": "(1) (A) Functional Text: Traditional Chinese subtitles appear at the bottom, translating the speaker's words about Tulou architecture. (B) Decorative/Hook Text: A small YouTube logo and search icon are visible in the top left corner. (2) Functional Text: Subtitles continue to cycle as the speaker mentions 'Minnan people' and 'Hakka people'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 22.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "The speaker stands in a static location, addressing the camera with a direct explanation and concluding with a laugh."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female creator speaking directly to the camera.",
+      "mainCharacterDescription": "A young woman wearing a light green tank top and a white cap with a floral scarf over it."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Park",
+          "Historical Site"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A large, white, circular Tulou-style building with multiple rows of small windows, a green metal fence in the foreground, and grassy patches.",
+      "lightingStyle": "Natural daylight",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Microphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "YouTube"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Wind"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Explanation -> Closing",
+      "mainPurpose": "The video serves as an educational vlog entry intended to debunk a common misconception about Fujian Tulou architecture. The creator explains that these circular buildings are not exclusively for Hakka people, as Minnan people also live in them, aiming to provide cultural clarification in an accessible, lighthearted manner.",
+      "visualEmotion": "Informative and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Signature outfit featuring a scarf over a baseball cap; friendly, direct-to-camera address.",
+      "freeDescribe": "Typical high-engagement educational short-form content focusing on cultural trivia and tourism."
+    }
+  }
+}

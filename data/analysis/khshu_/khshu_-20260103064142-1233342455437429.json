@@ -1,0 +1,189 @@
+{
+  "videoName": "khshu_-20260103064142-1233342455437429.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 64,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Seoul"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a close-up of a young woman's face, her eyes closed in anticipation, then speaking enthusiastically to the camera. (2) Transitions to an outdoor scene showing a crowd queued in front of a white building with the sign 'Artist Bakery'. (3) The scene shifts indoors where the woman is shown eating a bowl of creamy soup, followed by several shots of her holding and biting into different pastries, specifically salt bread with cream and a cinnamon pecan roll. Her expressions are highly expressive, showing delight and surprise. (4) The scene changes to nighttime, showing a red neon sign for a 24-hour pork bone soup restaurant. (5) The woman is shown using chopsticks to pick apart a large piece of tender pork from a steaming pot. (6) She then eats large bites of potato and glass noodles. (7) The final phase shows her mixing rice into the leftover soup in the pot to make fried rice, which she then eats with great satisfaction.",
+      "audio_narrative_log": "(1) High-energy, upbeat electronic pop music with a fast tempo starts immediately. (2) A female voice speaks in a high-pitched, excited, and fast-paced tone, narrating her experience. (3) Sound effects (SFX) such as 'ding' sounds, sparkle effects, and exaggerated munching sounds are synchronized with her eating and the appearance of text. (4) Ambient noise of a bustling cafe and the bubbling sound of the soup pot can be heard in the background. (5) The audio is heavily edited with quick cuts that match the visual transitions.",
+      "text_narrative_log": "(1) Functional Text: '超多人推的店' (A shop recommended by many people) appearing in yellow, expressing excitement. (2) Functional Text: '好不好吃' (Is it tasty?) with an arrow pointing to the creator. (3) Functional Text: 'Artist Bakery' identifying the location. (4) Decorative Text: '牛奶奶油鹽麵包' (Milk cream salt bread) and '很好吃' (Very delicious) with heart and sparkle stickers. (5) Functional Text: '漢南洞24小時馬鈴薯豬骨湯' (Hannam-dong 24h Pork Bone Soup) identifying the second location. (6) Decorative Text: '我大推' (I highly recommend) with a peace sign emoji at the end."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 52,
+      "averageSceneDuration": 1.23,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Daytime Bakery Review -> Nighttime Soup Review -> Recommendation/Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, approximately 7 identifiable background customers/passers-by.",
+      "mainCharacterDescription": "Young East Asian woman with dark hair tied back with clips, wearing a white oversized hoodie."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Outdoor Street",
+          "Cafe",
+          "Restaurant"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A trendy white-walled bakery with a long queue outside; a cozy, bustling Korean restaurant with a tabletop gas stove for the hot pot.",
+      "lightingStyle": "Natural daylight in the bakery; warm, slightly dim fluorescent lighting in the restaurant.",
+      "weather": "Sunny",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English",
+          "Korean"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and High Saturation",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Soup",
+        "Bread",
+        "Pastry",
+        "Pork Bone Soup",
+        "Fried Rice",
+        "Potato",
+        "Glass Noodles"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Microphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Artist Bakery",
+        "TERRA"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Eating sounds"
+      ],
+      "ambientNoise": [
+        "Cafe",
+        "Restaurant"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Experience 1 -> Experience 2 -> CTA/Summary",
+      "mainPurpose": "The video serves as a high-energy travel and food recommendation guide for tourists in Seoul. It utilizes a montage of popular 'Instagrammable' spots (Artist Bakery) and traditional comfort food (Gamjatang) to showcase a full day of eating, aiming to influence viewers to visit these specific locations.",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed showcasing of food items, positive facial expressions, explicit mention of location names, and high-praise captions like 'Must do!'.",
+      "endorsementObject": [
+        "Artist Bakery",
+        "漢南洞24小時馬鈴薯豬骨湯"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density yellow text overlays, fast-cut editing style, and extreme close-ups of eating reactions.",
+      "freeDescribe": "The fast-paced editing and beat-synced cuts are typical of short-form social media food vlogs (TikTok/Reels/Shorts style) intended to maintain high viewer retention."
+    }
+  }
+}

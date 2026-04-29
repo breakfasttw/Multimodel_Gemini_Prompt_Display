@@ -1,0 +1,181 @@
+{
+  "videoName": "khshu_-20251217000420-874691692107416.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 36,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Promotion"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman wearing a black beanie and a white fleece jacket sits at a desk with a laptop, looking puzzled and asking a question. Two men appear behind her, initially obscured but then fully visible. (2) The scene cuts to the three of them eating burgers together, followed by a cut of them eating donuts and drinking from yellow cups with straws. Their expressions are joyful and exaggerated. (3) They are seen sharing pieces of fried chicken, with a playful disagreement indicated by their gestures and facial expressions. (4) The group transitions to a promotional stance, pointing at the camera and using a variety of hand signs and energetic movements to announce an event.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced electronic music begins. A high-pitched, energetic female voice asks a question in Mandarin. (2) Sound of eating and drinking follows. Multiple voices (one female, two male) engage in a lively, humorous conversation about the food, with frequent laughter. (3) The tone becomes slightly more argumentative but remains playful as they discuss the fried chicken. (4) The audio shifts to a synchronized, loud promotional message from all three individuals, ending with cheers and high-energy music.",
+      "text_narrative_log": "(1) '中午要吃什麼?!' (What to eat for lunch?!) appearing as a large, yellow hook. (2) Character labels '方Q' and '小玉' identify the men. (3) '用呼吸投票吃什麼?' (Vote for what to eat with your breath?) as a decorative caption. (4) Detailed concert information: '12/20 宇宙人 α：回到未來 1986 小巨蛋演唱會' (12/20 Cosmos People α: Back to the Future 1986 Taipei Arena Concert) serving as functional promotional text."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 1.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Question -> Food Montage -> Playful Conflict -> Concert Promotion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female main host, 2 male band members in the background and foreground.",
+      "mainCharacterDescription": "A young woman in a black beanie and white The North Face fleece; two young men in casual attire (one in red, one in yellow)."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Office",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "An office or studio environment with a 'REFRESH STATION' sign, shelving, and office desks.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Indoor",
+      "season": "Winter (inferred from clothing)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and Bright",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Burger",
+        "Donut",
+        "Bubble Tea",
+        "Fried Chicken"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Laptop",
+        "Smartphone"
+      ],
+      "landmark": [
+        "Taipei Arena (mentioned in text)"
+      ],
+      "brandLogos": [
+        "The North Face",
+        "Apple"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut sync with visuals",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched, excited, and humorous",
+        "pitch": "Varied",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Eating sounds",
+        "Laughter"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Activity -> CTA",
+      "mainPurpose": "The video uses a relatable 'what to eat' vlog format to showcase the personality of the band members from 'Cosmos People' (宇宙人) before pivoting to a direct promotion for their upcoming 'Back to the Future 1986' concert at the Taipei Arena. The goal is to build rapport with the audience through humor and food before delivering the call to action.",
+      "visualEmotion": "Humorous and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct mention of concert dates and venue with on-screen text and verbal promotion by the band members.",
+      "endorsementObject": [
+        "宇宙人 (Cosmos People)"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of high-energy interactions and variety-show style text overlays typical of Taiwanese digital creators.",
+      "freeDescribe": "The video effectively blends lifestyle content with professional promotion, leveraging the charm of the band members."
+    }
+  }
+}

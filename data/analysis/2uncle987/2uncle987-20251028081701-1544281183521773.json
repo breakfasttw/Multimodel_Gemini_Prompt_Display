@@ -1,0 +1,187 @@
+{
+  "videoName": "2uncle987-20251028081701-1544281183521773.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 93.3,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Beauty",
+        "Travel",
+        "Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Seoul"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a woman in a grey silk robe, showing her face before a procedure; a yellow text hook appears. (2) Scene shifts to her outdoors in a street in Seoul, wearing a denim Adidas jacket, speaking energetically to the camera. (3) She walks towards the 'Dr. Evers' clinic entrance, showing the location and surrounding area (Hongdae). (4) Inside the clinic, she sits with a friend and a consultant, looking at brochures and pricing sheets; she gestures towards the Chinese-language service options. (5) Briefly shows tax refund kiosks and treatment equipment. (6) After the procedure, she is seen with a group of female friends in the lobby, discussing results and showing cash from a tax refund. (7) Ends with a large group photo of friends smiling and making peace signs.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music starts immediately. A high-pitched, excited female voice speaks in Mandarin. (2) Periodic camera shutter sound effects and 'ding' SFX are heard as text and scene transitions occur. (3) During the indoor scenes, the music continues at a lower volume as the female narrator explains the clinic's features, with some background conversation from the consultant. (4) The audio maintains a high-energy, vlog-style pace with continuous music until the end. (5) Final segment includes overlapping laughter and chatter from a group of women.",
+      "text_narrative_log": "(1) '當闆娘帶頭變臉？' (Hook: Does the boss lead the face-change? Energetic). (2) '今天我們要來打醫美' (Subtitle: Today we are going for medical beauty). (3) '因為昨天去夜店' (Hook: Because we went to a nightclub yesterday. Humorous). (4) 'Dr.Evers 弘大門市' (Functional: Location info). (5) '價格透明! 與韓國同步' (Effect: Transparent pricing! Sync with Korea. Informative). (6) '超方便!' (Hook: Super convenient!). (7) '下次再一起來' (Subtitle: Come together next time. Warm)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.22,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Context Setting -> Location Discovery -> Consultation & Service Walkthrough -> Results & Tax Refund CTA."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 11,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 11,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face",
+        "Hands"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main creator female, 1 close female friend throughout, and approximately 9 other female friends in the final group shot.",
+      "mainCharacterDescription": "A young Asian woman with dark hair tied in a bun, wearing a blue denim Adidas tracksuit jacket and a white tank top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Clinic",
+          "Outdoor Street",
+          "Lobby"
+        ],
+        "topography": [
+          "Urban"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Outdoor urban street with modern buildings in Seoul; interior of a bright, clean medical clinic with minimalist white walls, consulting rooms, and tax refund machines.",
+      "lightingStyle": "Natural daylight outdoors and bright, even studio-style LED lighting indoors.",
+      "weather": "Clear",
+      "season": "Autumn/Spring",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English",
+          "Korean"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, High Saturation, Clean",
+      "cameraWork": [
+        "Follow shot",
+        "Static",
+        "Selfie-stick POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Tablet",
+        "Tax Refund Kiosk"
+      ],
+      "landmark": [
+        "Hongdae area"
+      ],
+      "brandLogos": [
+        "Dr.Evers",
+        "Adidas",
+        "Apple",
+        "Olive Young"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade and hard cuts synced with visual transitions.",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 5,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 7,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched, excited, friendly, and informative",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop / Lo-fi Beats",
+      "bgmBPM": 118,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Camera Shutter",
+        "Ding",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "Street traffic",
+        "Lobby chatter"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Location Intro -> Feature Demo (Service/Tax) -> Result/Social Proof",
+      "mainPurpose": "The video is a promotional vlog intended to endorse 'Dr. Evers Clinic' in Hongdae, Seoul. It highlights key selling points for Chinese-speaking tourists, such as easy location, transparent pricing, Chinese language support, and on-site tax refunds, using a 'girls' trip' narrative to make the service feel accessible and fun.",
+      "visualEmotion": "Energetic, bright, and reassuring."
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator specifically names the clinic, shows the location, walks through the consultation process, and highlights specific customer benefits like the tax refund.",
+      "endorsementObject": [
+        "Dr. Evers Clinic"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy Mandarin narration, frequent use of variety-show style colorful text overlays, and a focus on 'group lifestyle' content.",
+      "freeDescribe": "The video targets young female travelers interested in 'K-beauty' tourism, emphasizing convenience and cost-effectiveness through tax refunds."
+    }
+  }
+}

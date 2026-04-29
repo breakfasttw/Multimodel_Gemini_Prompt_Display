@@ -1,0 +1,191 @@
+{
+  "videoName": "cocowine0205-20250811215503-1738536107109388.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping Guide",
+        "Promotional"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with two young women standing inside a Costco warehouse, waving at the camera behind a shopping cart filled with KitKat boxes and other items. Large decorative text overlays the screen. (2) From 0:03 onwards, the video transitions into a rapid-fire montage of various products on warehouse shelves. Each shot displays a specific product—ranging from Charmin toilet paper and Iberico pork to snacks like Cadina chips and Quaker drinks—with large, colorful price tags overlaid on the center of the frame. (3) The sequence continues through dozens of items including household goods, frozen foods, and beverages, each appearing for approximately 1 to 2 seconds before cutting to the next.",
+      "audio_narrative_log": "(1) An energetic male voiceover begins immediately, welcoming viewers to the 'Costco Weekly Special Report' over a bright, upbeat electronic pop background track. (2) As the product montage begins, the narrator rapidly recites the name of each product and its discounted price in a rhythmic, professional tone. The background music remains constant and energetic. (3) The narration continues without pause, maintaining a high-energy delivery that matches the fast visual cuts. Only the narrator's voice and the background music are audible; ambient warehouse noise is virtually nonexistent.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE', '每周特價速報 08/04 - 08/10'. (2) Decorative/Hook Text: '記得追蹤我們' (Remember to follow us). (3) Content & Tone: Detailed product information for over 40 items (e.g., 'CHARMIN 超柔捲筒衛生紙 原價1299 -300 特價999', '西班牙伊比利豬梅花肉捲 特價669'). The tone is informative and urgent, emphasizing the savings."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 44,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Rapid Product Price List Montage"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 10,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 6,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "2 main female presenters in intro, multiple shoppers visible in background throughout warehouse shots.",
+      "mainCharacterDescription": "Two young Asian women; one wearing a black top and the other wearing a white top with a blue beret."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse",
+          "Costco"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The interior of a large Costco warehouse featuring high industrial ceilings, tall metal shelving units packed with bulk merchandise, and refrigerated sections.",
+      "lightingStyle": "Intense studio-style warehouse lighting",
+      "weather": "Indoor",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Pork",
+        "Chips",
+        "Chocolate",
+        "Cereal",
+        "Frozen Dumplings",
+        "Juice"
+      ],
+      "trafficDetect": [
+        "Shopping Cart"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco",
+        "KitKat",
+        "Charmin",
+        "Quaker",
+        "Lotte",
+        "PUMA",
+        "Kirkland",
+        "Milo",
+        "Nescafe",
+        "Biore",
+        "Sofy",
+        "Cadina",
+        "Orion"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Medium",
+        "loudness": "High",
+        "speed": "Extremely fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence (Price List)",
+      "mainPurpose": "To provide a comprehensive and fast-paced update on the weekly discounts available at Costco Taiwan for the period of August 4th to August 10th. It aims to encourage viewers to visit the store by highlighting significant price drops across various consumer categories.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed price comparison and heavy focus on specific brand discounts within the Costco environment.",
+      "endorsementObject": [
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-speed price narration coupled with beat-synced visual cuts.",
+      "freeDescribe": "The video utilizes a highly optimized short-video format designed to deliver a large volume of information (40+ items) in under 90 seconds, catering to the fast consumption habits of social media users."
+    }
+  }
+}

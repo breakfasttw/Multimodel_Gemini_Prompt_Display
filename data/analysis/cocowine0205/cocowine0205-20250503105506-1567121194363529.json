@@ -1,0 +1,177 @@
+{
+  "videoName": "cocowine0205-20250503105506-1567121194363529.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 59,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman in a white cardigan and brown dress is seen standing in a Costco warehouse aisle, gesturing with excitement at several boxes of red bean pastries. (2) She picks up one box, presenting it to the camera, and walks past rows of merchandise; a shot focuses on the price label on the shelf. (3) The scene shifts to an indoor kitchen or studio where the same woman and another woman in a zebra-print hat are seated at a table with the pastry box. (4) Close-ups show them opening the box, cutting a pastry to reveal the flaky layers and red bean topping, and holding the pieces toward the camera. (5) Both women are seen eating the pastry, smiling, nodding, and giving thumbs-up gestures to indicate their approval.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo background music plays immediately. A female voice speaks in a high-pitched, energetic tone, expressing shock at how few pastries are left on the shelf. (2) Sounds of a busy store environment, like distant cart rolling and muffled chatter, are audible beneath the music. (3) The music continues as the location changes; two female voices engage in a lively conversation, discussing the price point and the texture of the bread. (4) Occasional 'ding' and 'sparkle' sound effects are used to highlight key points in the dialogue or visual cues. (5) The volume of the vocals remains high and clear relative to the background music until the end.",
+      "text_narrative_log": "(1) Decorative Hook: '為什麼拍手' (Why clapping?) and '銷量超好！' (Best-selling!) appear with excited emotional emphasis. (2) Functional Information: '紅豆奶油酥' (Red Bean Butter Pastry) and '只剩下三盒' (Only 3 boxes left) describe the product status. (3) Detail Text: '6入399' (6 for 399) and '一個是66.5塊錢' (66.5 each) provide price breakdowns. (4) Instructional Text: '我加熱了145度三分鐘' (I heated it at 145 degrees for three minutes) explains the preparation. (5) Descriptive Conclusion: '好事多黑馬' (Costco's dark horse) and '真的很好吃' (Really delicious) convey a final positive review."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.68,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Discovery at store -> Product close-ups -> Home tasting and review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female presenters; some blurred shoppers in background not counted as main.",
+      "mainCharacterDescription": "One woman has long black hair and wears a white fuzzy cardigan over a brown dress. The second woman wears a black top and a prominent zebra-patterned bucket hat."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Warehouse Store",
+          "Indoor Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First half features the high shelves and industrial environment of a Costco. Second half features a clean, modern kitchen/dining table with warm interior lighting.",
+      "lightingStyle": "Bright studio/indoor lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and warm",
+      "cameraWork": [
+        "Handheld",
+        "Static",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Red Bean Pastry",
+        "Croissant"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "KIRKLAND SIGNATURE"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and enthusiastic",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Ding",
+        "Swoosh"
+      ],
+      "ambientNoise": [
+        "Store background noise"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Store Discovery -> Home Preparation -> Tasting Verdict",
+      "mainPurpose": "To provide a positive review and personal recommendation for Costco's Red Bean Pastries. The video uses high energy and detailed price/preparation info to influence the viewer's purchasing decision by emphasizing the product's value and scarcity.",
+      "visualEmotion": "Energetic and Appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed display of product pricing, brand labels, and explicit verbal/visual praise for the item.",
+      "endorsementObject": [
+        "COSTCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Heavy use of colorful on-screen captions to mirror spoken excitement.",
+      "freeDescribe": "The video targets a consumer audience interested in warehouse shopping deals and food reviews, specifically within the Taiwanese market."
+    }
+  }
+}

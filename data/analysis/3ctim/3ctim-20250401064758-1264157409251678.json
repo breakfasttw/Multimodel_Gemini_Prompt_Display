@@ -1,0 +1,181 @@
+{
+  "videoName": "3ctim-20250401064758-1264157409251678.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 36,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech News",
+        "Commentary"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Australia"
+        ],
+        "city": [
+          "Sydney"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a shot of the Sydney Opera House across the water, then cuts to a close-up of a person's hand scrolling through an Instagram feed on a smartphone. (2) Transition to a talking-head shot of the main character, a man wearing glasses, a brown hoodie, and a flat cap, speaking directly to the camera with expressive hand gestures against a blurred gray background. (3) A scenic shot shows the Sydney Harbour Bridge with a crowd of people sitting at outdoor tables by the water. (4) Back to the main character explaining the news, interspersed with shots of a hand holding a phone showing social media app icons (TikTok, Facebook, Instagram) appearing as graphics. (5) A night scene shows fireworks exploding over the Sydney Harbour Bridge while several people in the foreground hold up their phones to record. (6) The main character returns to the screen, pointing at the camera to pose a question to the audience, ending with a call to action.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced electronic background music starts immediately. A male voice begins speaking in a clear, informative, and energetic tone. (2) As the speaker explains the fines and laws, the music maintains a consistent tempo. There are subtle sound effects (SFX) such as a 'pop' sound when text overlays or icons appear on screen. (3) The acoustic environment remains dominated by the speaker's vocals (vocal-centric), with the music providing a modern 'tech-news' atmosphere. (4) In the final segment, the voice remains steady and encouraging as he asks for viewer opinions, and the music fades out as the video ends.",
+      "text_narrative_log": "(1) Functional Text: '澳洲正式禁止' (Australia officially bans) - informative hook. (2) Decorative Text: '最高可罰 10.5 億台幣' (Max fine 1.05 billion TWD) - emphasizing the magnitude of the law. (3) Functional Text: 'TikTok', 'facebook', 'Instagram' - identifying platforms. (4) Functional Text: '2025年開始嘗試運行', '2026年會正式實施' (Trial 2025, Implementation 2026) - providing timeline details. (5) Decorative Text: '社群平台可能危害年輕族群心理健康' (Social media may harm youth mental health) - stating the underlying reason. (6) Functional Text: '你認同澳洲政府的這項法案嗎？留言告訴我你的看法' (Do you agree with this law? Tell me your thoughts) - call to action."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 9,
+      "averageSceneDuration": 4.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Detailed Explanation with B-roll -> Summary and Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 20,
+      "maleDetectAmount": 10,
+      "femaleDetectAmount": 8,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main male creator, approximately 15+ people in background scenery shots (waterfront and fireworks scenes), and hands holding phones.",
+      "mainCharacterDescription": "A middle-aged man wearing glasses, a brown/tan hoodie, and a patterned flat cap (ivy cap)."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Waterfront",
+          "Indoor Studio"
+        ],
+        "topography": [
+          "Coastline"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The background switches between a neutral indoor studio setting and iconic outdoor landmarks in Sydney, including the Opera House and Harbour Bridge, as well as a lively waterfront seating area.",
+      "lightingStyle": "Natural daylight for outdoors, soft key lighting for the studio segments, and night lighting for the fireworks scene.",
+      "weather": "Overcast",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Beer",
+        "Snacks"
+      ],
+      "trafficDetect": [
+        "Boat"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Sydney Opera House",
+        "Sydney Harbour Bridge"
+      ],
+      "brandLogos": [
+        "facebook",
+        "Instagram",
+        "TikTok",
+        "miko"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Informative and engaging",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Pop",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "Outdoor crowd murmur"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Information -> Context -> CTA",
+      "mainPurpose": "The video aims to inform the audience about the Australian government's new legislation banning social media use for teenagers under 16. It highlights the potential legal consequences for tech companies and the timeline for implementation, while ultimately inviting viewers to participate in a discussion regarding the law's necessity and impact on mental health.",
+      "visualEmotion": "Serious yet Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The 'miko' logo is visible in the top left corner throughout the video, and social media handles for '3c有意思tim哥' are displayed, suggesting content created by or for these entities.",
+      "endorsementObject": [
+        "miko",
+        "3c有意思tim哥"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The creator uses a distinct 'news-style' fast-paced delivery and signature headwear (flat cap).",
+      "freeDescribe": "The video effectively uses B-roll of the actual country mentioned (Australia) to increase credibility and visual engagement while discussing international policy."
+    }
+  }
+}

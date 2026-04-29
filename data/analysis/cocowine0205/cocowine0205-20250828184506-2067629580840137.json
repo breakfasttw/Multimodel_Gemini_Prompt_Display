@@ -1,0 +1,183 @@
+{
+  "videoName": "cocowine0205-20250828184506-2067629580840137.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Food Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) 0:00-0:20: A woman wearing a black beret and a dark off-the-shoulder top stands in a warehouse setting (Costco) in front of a large stack of red KitKat boxes. She holds a large KitKat Biscoff box, smiling and gesturing towards it excitedly. (2) 0:21-0:24: The scene shifts to an indoor room. Two women (one from the previous scene and another in a purple top) are seated at a table. They lift the lid of the large box to reveal 12 individual KitKat bars inside, laughing happily. (3) 0:25-0:31: Close-up shots show hands unwrapping a silver foil KitKat bar and using pink scissors to cut the chocolate into sections, revealing the internal wafer and crushed cookie filling on a heart-shaped plate. (4) 0:32-1:28: Back to the two women at the table. They taste the chocolate, react with thumbs-up gestures, animated facial expressions, and hand movements while discussing the product. The woman in the beret changes into a zebra-print bucket hat mid-way through.",
+      "audio_narrative_log": "(1) 0:00-0:20: Upbeat, high-tempo pop background music starts. A high-pitched, energetic female voice speaks rapidly. Faint ambient warehouse hum is audible. (2) 0:21-0:31: Music continues at a steady pace. Sound of two women laughing together. Specific SFX of foil crinkling and a 'snip' sound when scissors cut the chocolate are present. (3) 0:32-1:28: Continuous dialogue between two female speakers. One is more talkative and descriptive (energetic tone), while the other provides occasional reactions and agreement. The background music maintains a cheerful atmosphere. Occasional 'ding' or soft pop sound effects accompany text pop-ups.",
+      "text_narrative_log": "(1) Decorative Text: 'COSTCO WHOLESALE' logo at the top. '超甜超好吃' (Super sweet super tasty) and '超巨大 KitKat 隱藏脆餅口味' (Super giant KitKat hidden crispy cookie flavor) appear as large, colorful captions. (2) Functional Text: 'KitKat跟蓮花脆餅乾合作啦' (KitKat and Lotus Biscoff collaboration), '超大一條 375元' (Huge bar 375 NTD), '有12入' (Contains 12). (3) Emotional/Variety Text: '哈哈哈哈' (Laughter), '完美無瑕' (Perfect), '更棒更脆' (Better and crunchier), '有夠甜' (So sweet), '大加分' (Big plus)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at Costco -> Unboxing and cross-section demonstration -> Tasting and detailed review"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, 1 male passer-by in the background of the Costco scene",
+      "mainCharacterDescription": "Main creator: Female with black hair, wearing a black beret and later a zebra bucket hat. Side creator: Female with long dark hair, wearing a purple ruffled top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse",
+          "Home"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "First scene is inside a Costco warehouse with shelves and product stacks. Second scene is a home interior with a table, wall shelves containing plush toys (BT21), and a neutral-colored wall.",
+      "lightingStyle": "Bright artificial warehouse lighting and warm indoor studio lighting.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and saturated red (due to packaging)",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Chocolate",
+        "Cookies"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "KitKat",
+        "Lotus Biscoff",
+        "Nestle"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, excited, and persuasive",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Laughter",
+        "Crinkle",
+        "Scissors cutting sound",
+        "Chime pop-ups"
+      ],
+      "ambientNoise": [
+        "Warehouse ambient buzz"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Unboxing -> Demo -> Review -> CTA",
+      "mainPurpose": "The video serves as a promotional food review for a new KitKat and Lotus Biscoff collaboration product found at Costco. It aims to generate excitement through visual hooks (large packaging) and high-energy personal testimonials, specifically targeting fans of both brands and bargain-seeking shoppers.",
+      "visualEmotion": "Cheerful and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed mention of price, quantity, specific retail location (Costco), and positive review of the brand collaboration.",
+      "endorsementObject": [
+        "KitKat",
+        "Lotus Biscoff",
+        "Costco"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy variety-show style editing with large, floating Chinese captions and expressive reactions.",
+      "freeDescribe": "The video leverages the 'Costco hidden gem' trend which is highly effective in driving community engagement and impulse purchases."
+    }
+  }
+}

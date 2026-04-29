@@ -1,0 +1,189 @@
+{
+  "videoName": "3ctim-20251218180007-1239742787481627.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 49,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Tutorial",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a live-action scene of two men clinking beer glasses in a crowded restaurant; the man on the left wears glasses and a newsboy cap, while the man on the right bears a strong resemblance to Sam Altman. (2) The scene transitions to a studio setting where the man in the cap (the creator) speaks directly to the camera with high energy and hand gestures. (3) Close-up shots of a smartphone screen display the 'Sora' app interface, showing a user typing Chinese characters into a text field. (4) A series of AI-generated clips are shown: the creator standing in a snowy landscape near a mountain, followed by a surreal scene where he is tackled by a large black bear in a forest. (5) A face verification sequence on a phone shows the creator's face centered in a circle while he speaks. (6) The video shows a social-media-style scrollable feed within the app featuring videos of cats, dogs, and people camping. (7) The creator returns to the studio frame to deliver final remarks.",
+      "audio_narrative_log": "(1) Starts with loud ambient noise of a busy restaurant including the sound of glasses clinking and multiple voices chatting. A male voice says 'Cheers' and 'Ganbei' (Cheers in Mandarin). (2) An upbeat, rhythmic electronic BGM starts and remains consistent throughout the video. A middle-aged male voice speaks in a friendly, high-pitched, and excited tone in Mandarin. (3) During the app demonstration, the speaker's voice is dominant over the BGM, maintaining a quick, explanatory pace. (4) In the verification segment, the speaker clearly recites numbers in Mandarin: '65, 37, 79'. (5) The BGM continues with a steady tempo until the video ends, with no significant SFX detected.",
+      "text_narrative_log": "(1) Functional Text: '來乾一杯' (Let's toast) and '乾杯 今天的熱炒不錯吧' (Cheers, the stir-fry today is good). (2) Hook Text: '居然是Sam Altman???' (Actually Sam Altman???) and '這個口音XD到底誰在講話' (This accent XD who is talking). (3) App Interface Text: 'Sora', '建立視訊' (Create video), 'tim677', 'sama', and prompts describing two people chatting. (4) Decorative Text: '互動性滿滿' (Full of interactivity) and 'Sora動態' (Sora feed). (5) CTA: '快下載來玩看看!!!' (Download and try it out!!!)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Studio Explanation -> Feature Demo -> AI Sample Clips -> Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main creator, 1 man resembling Sam Altman, and distant blurred figures in restaurant background.",
+      "mainCharacterDescription": "Tim: middle-aged Asian male, wearing glasses, a grey newsboy cap, and a grey Roots t-shirt. Guest: Caucasian male in a dark t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Studio",
+          "Outdoor Snow"
+        ],
+        "topography": [
+          "Plain",
+          "Mountain",
+          "Forest"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A traditional Taiwanese 'Re-chao' restaurant with yellow lanterns; a professional studio with a light grey backdrop; a snowy forest with a mountain in the distance.",
+      "lightingStyle": "Mixed: warm ambient in restaurant, professional softbox in studio, natural daylight in AI scenes.",
+      "weather": "Sunny",
+      "season": "Winter",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Bear",
+        "Cat",
+        "Dog"
+      ],
+      "foodsDetect": [
+        "Stir-fry dishes",
+        "Beer",
+        "Edamame"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Sora",
+        "Roots",
+        "Apple",
+        "Facebook",
+        "Instagram"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly, excited, and professional",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Electronic",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Cafe",
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Explanation -> Demo -> Use-cases -> Social Features -> CTA",
+      "mainPurpose": "The video serves as a promotional tutorial for the 'Sora' AI application. It uses a comedic hook (pretending to dine with Sam Altman) to introduce the app's 'Cameo' feature, which allows users to insert themselves into AI-generated videos with others. The creator demonstrates the technical process (typing prompts, face verification) and shows the final creative results to encourage audience downloads.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct verbal recommendation, on-screen logo, and full feature demonstration of the app.",
+      "endorsementObject": [
+        "Sora"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3C有意思tim哥 branding and social media handles visible on screen.",
+      "freeDescribe": "The video leverages current AI trends and the likeness of famous tech figures to capture viewer attention in the short-video format."
+    }
+  }
+}

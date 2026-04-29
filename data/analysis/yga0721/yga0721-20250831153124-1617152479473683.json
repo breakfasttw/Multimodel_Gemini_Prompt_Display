@@ -1,0 +1,173 @@
+{
+  "videoName": "yga0721-20250831153124-1617152479473683.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 40,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Prank"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taoyuan"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts inside a bright airport terminal where a woman with long dark hair in a light-colored top is seen running away from the camera, pushing a luggage cart. (2) She is followed by two young boys in matching green tracksuits and other companions. They move through the glass doors to the outdoor passenger pickup area. (3) Outside, the woman is playfully 'captured' or pulled into the back of a white car that features colorful custom graphics including birthday greetings and photos. (4) The two boys quickly follow her into the car while a man filming the scene continues to record their departure. The woman waves back from the car window as the door closes.",
+      "audio_narrative_log": "(1) The audio begins with loud ambient noise typical of a busy airport, including the sound of luggage wheels and multiple people talking. (2) A male voice, likely the one filming, shouts excitedly in Mandarin, 'Mom's being taken away!' with a playful, exaggerated tone of panic. (3) Children's high-pitched voices and laughter are heard as they run. (4) The sound of a car door opening and closing is audible amidst the continued commentary and laughter from the group.",
+      "text_narrative_log": "(1) Functional Text: A large red and white graphic in the top right corner says '獨家報導 Scoop' (Exclusive Report). (2) Hook Text: A large banner at the bottom reads '本台直擊 二伯出海關被擄走' (Our station catches 2-Bo being abducted upon leaving customs). The tone is a parody of sensationalist news reporting. (3) Functional Text: Signs in the background show 'Welcome to Taiwan' and directions for 'Taxi' and 'North Meeting Point'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 6.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video follows a fast-paced sequence of the group running through the airport and ending with the 'abduction' at the curbside car."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 2,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main woman being 'abducted', 2 children in green tracksuits, 1 cameraman (hands/voice), and approximately 4-5 passers-by or airport staff.",
+      "mainCharacterDescription": "A woman with long dark hair wearing a light blue/grey jacket; two young boys wearing matching dark green athletic suits."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Airport Terminal",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern airport interior with travel signage and baggage carousels, transitioning to an outdoor pickup lane with cars and pillars.",
+      "lightingStyle": "Mixed: bright artificial indoor lighting and natural daylight outdoors.",
+      "weather": "Clear",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Taoyuan International Airport"
+      ],
+      "brandLogos": [
+        "Scoop"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 3,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 2
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "High-pitched",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "No Music",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Airport chatter",
+        "Traffic",
+        "Luggage wheels"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Action -> Resolution",
+      "mainPurpose": "The video is a humorous family vlog presented in the style of a 'breaking news' report. It captures the arrival or departure of a family member (referred to as '2-Bo') at the airport, using a mock-abduction scenario involving a custom-decorated car to create an entertaining and high-energy snippet for social media.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video appears to be personal content with no obvious paid placement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Usage of 'Scoop' news parody branding and personal nicknames like '二伯'.",
+      "freeDescribe": "The video relies heavily on the energetic interaction between the narrator and the children to convey a sense of fun and family bonding."
+    }
+  }
+}

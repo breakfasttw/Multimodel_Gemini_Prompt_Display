@@ -1,0 +1,174 @@
+{
+  "videoName": "achusan0817-20250818214149-1239658971602443.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 21.0,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Animation",
+        "Comedy",
+        "Short"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Animation begins with a girl with short black hair (Yating) walking down a red-carpeted hallway. (2) She encounters a boy (senior) in a red shirt; they exchange greetings in front of a wall with movie posters. (3) The scene shifts to a close-up of Yating looking intensely at the camera as if judging someone, with text '100 points' appearing above her head. (4) A quick montage shows the senior character in various poses highlighting his physique and facial features against a pink patterned background. (5) Back in the cinema hallway, they continue their conversation with medium shots. (6) The senior says something that causes the screen to dim and the two characters to stare at each other in shock/silence.",
+      "audio_narrative_log": "(1) Upbeat and quirky background music starts immediately with a girl's cheerful greeting. (2) A friendly male voice responds warmly, creating a lighthearted atmosphere. (3) A fast-paced, rhythmic drum sequence accompanies the girl's inner monologue, which sounds analytical and focused. (4) Brief, cartoonish sound effects punctuate the descriptions of the boy's appearance. (5) The upbeat music returns as the dialogue resumes in a conversational tone. (6) The music cuts out abruptly with a 'thud' sound effect as a surprising secret is revealed, followed by a moment of silence.",
+      "text_narrative_log": "(1) Functional Text: '阿啾小劇場' (A-Chu's Little Theater) and '雅婷跟學長的第一印象' (Yating and Senior's First Impression). (2) Functional Text: '完整影片在 Youtube' (Full video on Youtube). (3) Decorative/Hook Text: '100分' (100 points) showing high evaluation. (4) Decorative/Hook Text: '什麼鬼太快了吧' (What the heck, too fast!) expressing comedic surprise. (5) Functional Text: '身材不錯 看起來有在練' (Good figure, looks like he works out) and '面相看起來很正直' (Looks very honest). (6) Decorative/Hook Text: '謎之情報' (Mysterious Information) appearing in large, bold letters."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 2.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Greeting -> Internal Evaluation Montage -> Conversation -> Shocking Twist"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 animated female (Yating) and 1 animated male (Senior).",
+      "mainCharacterDescription": "Yating has short black hair and wears a red shirt; the Senior has black hair, a fit build, and also wears a red shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Cinema",
+          "Hallway"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A red-carpeted hallway with movie posters on the wall, and an abstract pink background for the inner thought sequence.",
+      "lightingStyle": "Flat, bright animated lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and saturated",
+      "cameraWork": [
+        "Static",
+        "Pan",
+        "Medium Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "阿啾小劇場"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and comedic",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Drum Hit"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Greeting -> Evaluation -> Dialogue Twist",
+      "mainPurpose": "To entertain the audience with a humorous animated short about the internal judgments people make during social encounters, specifically within the context of a 'first impression' of a senior student.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Distinctive 'A-Chu' animation style and character designs.",
+      "freeDescribe": "The video uses a 1:1 aspect ratio with header and footer bars, optimized for social media platforms like Instagram or TikTok."
+    }
+  }
+}

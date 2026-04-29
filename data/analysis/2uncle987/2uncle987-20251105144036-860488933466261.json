@@ -1,0 +1,176 @@
+{
+  "videoName": "2uncle987-20251105144036-860488933466261.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 27,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Promotion",
+        "Fashion",
+        "Lifestyle"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with two women standing behind a large white towel with red Chinese text, partially obscuring their faces. (2) A series of rapid cuts follow, showing the women in various playful scenarios: high-fiving a large orange cartoon mascot, walking down a corridor in platform shoes, posing against a wall with four cartoon faces, and interacting excitedly in a studio setting. One woman wears a white dress with a lace headscarf, while the other wears a black mesh top with a red beret. (3) They are seen laughing together on a couch, looking into a decorated mirror, and finally standing in front of a 'haha baby' brand sign. The video ends with a hand tearing through a paper layer to reveal a promotional text graphic.",
+      "audio_narrative_log": "(1) An upbeat, mid-tempo electronic background music track starts immediately, characterized by a repetitive synth-bell melody. No speech is detected. (2) The music continues as the primary sound source. Faint sounds of laughing and exclamations are heard periodically over the music. (3) The rhythmic track persists through the end of the video, maintaining a consistent, energetic volume and tempo.",
+      "text_narrative_log": "(1) '我們有話要說' (We have something to say): Hook text displayed on a towel, playful and intriguing tone. (2) 'haha baby': Brand logo appearing on posters and a signage board. (3) 'HAHA BABY 11/8-11/11 雙11狂歡購' (HAHA BABY 11/8-11/11 Double 11 Carnival Shopping): Functional promotional text at the end, informative and urgent tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 1.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook (Mystery towel) -> Lifestyle/Product Montage -> Call to Action (Sale details)"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Feet and shoes"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators appearing throughout the video.",
+      "mainCharacterDescription": "One woman is dressed in a white dress with lace sleeves and a lace headpiece; the other wears a black mesh top over a black tank, a black skirt, and a red beret."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Corridor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Features white studio walls, marble flooring, colorful cartoon wall art, and 'haha baby' branding materials.",
+      "lightingStyle": "Bright, even studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Bright, High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "haha baby"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and cheerful (based on laughter)",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Lifestyle Montage -> CTA",
+      "mainPurpose": "The video is a promotional advertisement for the brand 'haha baby'. It uses an energetic montage of two female creators modeling outfits and interacting playfully to build brand affinity and awareness, leading to a specific call-to-action regarding a 'Double 11' shopping festival sale event.",
+      "visualEmotion": "Energetic, Joyful, Playful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Clear display of brand name 'haha baby' and specific sale dates for the Double 11 shopping event.",
+      "endorsementObject": [
+        "haha baby"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Signature 'haha baby' cartoon aesthetic and fashion style.",
+      "freeDescribe": "The fast editing pace and upbeat music are designed to capture short attention spans on social media platforms like TikTok or Instagram."
+    }
+  }
+}

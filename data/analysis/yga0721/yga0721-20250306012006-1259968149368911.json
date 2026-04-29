@@ -1,0 +1,182 @@
+{
+  "videoName": "yga0721-20250306012006-1259968149368911.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 89,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Promotion",
+        "Skincare"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A male in a light green sweatshirt is yelling at a group of three employees (one male, two females) in an office setting. He holds a black foam stick and gestures aggressively. (2) The scene cuts between his exaggerated angry facial expressions and the neutral or confused faces of the employees. (3) The man singles out the male employee with curly hair, scolding him. Suddenly, the man pulls out a skincare product and his demeanor changes to enthusiastic. (4) Close-up shots show the male employee in a bathroom using the cleanser, toner, and serum. The textures of the creams and liquids are clearly displayed as he applies them to his face. (5) The video returns to the office where the two men talk in a friendly manner. (6) The final phase features product sets displayed on a wooden stand with fast-paced shots of the main character pointing towards promotional text.",
+      "audio_narrative_log": "(1) High-volume, energetic male vocals shouting in a mix of Mandarin and Taiwanese. Fast-paced, upbeat background music with a synth-pop style starts immediately. (2) Occasional short responses from a second male voice with a calmer tone. (3) The music maintains a constant rhythm while the main vocal transitions into a persuasive and fast-talking promotional style. (4) Specific sound effects (SFX) are audible during the bathroom scenes: the sound of a tube being squeezed, water splashing, and hands rubbing together. (5) In the final phase, the main vocal becomes even more rapid, emphasizing discount codes and links, accompanied by cheerful pop music and occasional 'ding' sound effects for text pop-ups.",
+      "text_narrative_log": "(1) Functional Text: '散漫！' (Lazy!), '點閱率那麼差嗎？' (Are the views that bad?) appearing in large, variety-show style fonts. (2) Decorative Text: '周耶嫩？' (Joe?), '你在臭我嗎？' (Are you insulting me?) with emotional stickers. (3) Product Labels: '清潔呼吸潔顏霜', '靜潤涵水平衡露', '無瑕煥肌精華', '無瑕煥肌乳霜'. (4) Call to Action: '嘎哥優惠團購中', '專屬折扣碼 yga0721', '全館免運' with high-contrast colors and bold emphasis."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Conflict -> Product Introduction -> Tutorial Demo -> Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face close-ups"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main creator (Cai A-ga), 1 male employee, 2 female employees in background.",
+      "mainCharacterDescription": "An energetic Asian male wearing a bright green long-sleeved sweatshirt over a white shirt and dark trousers."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Office",
+          "Bathroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "An indoor minimalist office with a grey sofa and plants, transitioning to a clean white bathroom with a mirror and sink for the demonstration.",
+      "lightingStyle": "Bright studio lighting, natural and even.",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright, High Saturation",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Firicote"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with beat-syncing",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and humorous",
+        "pitch": "High-pitched",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Taiwanese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Splash",
+        "Squish",
+        "Ding",
+        "Whoosh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Conflict -> Solution/Demo -> Benefits -> Call to Action",
+      "mainPurpose": "The video uses a humorous workplace conflict scenario to hook the audience, transitioning into a detailed skincare routine demonstration. The ultimate goal is to promote the 'Firicote' brand skincare line by providing a specific discount code and highlighting product features like suitability for 'acne-prone skin' and 'subtropical climates'.",
+      "visualEmotion": "Energetic, Humorous, Product-focused"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product demonstration, mention of exclusive discount codes, and brand logo visibility.",
+      "endorsementObject": [
+        "Firicote",
+        "杉杏"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Cai A-ga's signature loud/shouting delivery, variety-show style text pop-ups, and interaction with his studio team.",
+      "freeDescribe": "The video successfully blends entertainment with commercial intent, a common strategy for top-tier Taiwanese influencers to maintain engagement while performing sponsored content."
+    }
+  }
+}

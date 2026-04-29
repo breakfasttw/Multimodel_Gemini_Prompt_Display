@@ -1,0 +1,173 @@
+{
+  "videoName": "602avenue-20251116073727-1863804610942042.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 11.8,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens with a close-up of a young male with a grey cap and black vest sitting in an airport terminal, holding a phone and laughing. (2) He repeatedly looks down at the phone and then at the camera, his facial expressions showing focused effort and amusement as he tries to pronounce something. (3) He bursts into laughter, his eyes squinting and mouth wide open in amusement, while the background remains a busy airport waiting area with people sitting on rows of chairs.",
+      "audio_narrative_log": "(1) Whimsical, upbeat BGM starts immediately alongside a young male voice speaking Korean in a friendly, amused tone. (2) He transitions to attempting a Mandarin/Hokkien phrase with significant effort, accompanied by a cartoonish 'whistle' or 'ding' sound effect. (3) The audio ends with the male laughing heartily over the continuous lighthearted music and muffled, distant airport terminal background chatter.",
+      "text_narrative_log": "(1) Hook Text: '🇰🇷 韓國人第一次來台灣 你們猜他在說什麼 😂' (Humorous tone). (2) Functional Text: '可以刷 -> 尬 -> 嗎' and '足手鹹金麻' (Informative tone, phonetic transcription). (3) Decorative/Hook Text: '請友善的台灣朋友們...是我媽媽的兒子' (Playful and endearing tone asking for help for the traveler)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 11.8,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Action -> Reaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main creator in foreground, 4 people visible sitting in the background rows.",
+      "mainCharacterDescription": "A young male with short dark hair wearing a grey baseball cap with a 'Jeep' logo, a black puffer vest over a dark hoodie, and black headphones around his neck."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Airport Lounge"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "An indoor airport waiting area with purple-seated rows, other travelers sitting and waiting, and airport signage visible in the distance.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Korean"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Jeep"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "Mid-range",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Korean",
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Cartoon SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Reaction",
+      "mainPurpose": "To create a humorous and relatable social media moment featuring a Korean traveler's first experience in Taiwan. The video focuses on the difficulty and comedic results of trying to speak a new language, using text overlays and background music to enhance the variety-show style entertainment.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Variety-show style captioning with phonetic hints.",
+      "freeDescribe": "The video leverages cultural exchange and linguistic struggle as a bridge for engagement with a Taiwanese audience."
+    }
+  }
+}

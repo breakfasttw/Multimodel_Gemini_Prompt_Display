@@ -1,0 +1,183 @@
+{
+  "videoName": "602avenue-20250801224831-2139284233580966.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 55,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Event Coverage",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Seoul"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a female creator filming herself in POV style on a crowded Seoul street at night; she is wearing a green '456' tracksuit. (2) The scene shifts to show a large parade float carrying the iconic Young-hee doll from Squid Game, surrounded by performers in pink guard outfits. (3) The creator interacts with several young men also dressed in tracksuits, all posing and laughing for the camera. (4) The camera captures the group running down a closed-off major road, surrounded by neon lights and high-rise buildings. (5) The video concludes with the group celebrating and waving to the camera as the parade continues.",
+      "audio_narrative_log": "(1) High-energy electronic music begins with a sample of the Korean 'Red Light, Green Light' chant ('Mugunghwa kkochi pieot seumnida'). (2) A female voice speaks excitedly in Mandarin Chinese, narrating her experience at the Netflix event. (3) Male voices are heard responding and joking with the host as they participate in the street game. (4) Ambient sounds of a cheering crowd and distant city traffic blend with the continuous upbeat BGM. (5) The audio ends with a high-pitched celebratory cheer from the group.",
+      "text_narrative_log": "(1) Hook Text: 'POV: 首爾馬路上玩123木頭人' (POV: Playing 123 Wooden Man on Seoul streets) with a high-energy tone. (2) Functional Text: 'Squid Game Parade in Seoul' and 'Netflix' logo appearing frequently. (3) Narrative Captions: '台灣組準備好了' (Taiwan team is ready), '英熙在等我們...' (Young-hee is waiting for us...), and '超多首爾市民在旁邊看著' (So many Seoul citizens watching nearby). (4) Dialogue Subtitles: Translations of the creator's Mandarin commentary throughout the video."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Parade Highlights -> Group Social Interaction -> Emotional Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 50,
+      "maleDetectAmount": 20,
+      "femaleDetectAmount": 15,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 4,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main female host, 3 male friends in tracksuits, and dozens of parade performers and spectators.",
+      "mainCharacterDescription": "A female creator with long dark hair wearing a green and white Squid Game #456 tracksuit; accompanied by young Asian men in identical tracksuits."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "City Center"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern Seoul city streets at night, featuring skyscrapers, LED billboards, parade floats, and street barricades.",
+      "lightingStyle": "Vibrant night city lights and artificial parade lighting.",
+      "weather": "Clear Night",
+      "season": "Autumn",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English",
+          "Korean",
+          "Emoji"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "POV",
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Bus",
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Netflix"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 20,
+        "vocal_demographics": {
+          "male_vocal_count": 3,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and enthusiastic",
+        "pitch": "Normal to high",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Korean"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Game audio samples",
+        "Cheering"
+      ],
+      "ambientNoise": [
+        "Traffic",
+        "Crowd chatter"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Immersive Experience -> Social Interaction -> Wrap-up",
+      "mainPurpose": "To showcase and promote a large-scale Netflix promotional event in Seoul. The video leverages the Squid Game IP to create a high-energy 'day-in-the-life' vlog that emphasizes the fun of the immersive street parade and the creator's personal participation.",
+      "visualEmotion": "Energetic and Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct mention of Netflix VIP itinerary and consistent branding through Squid Game costumes and props.",
+      "endorsementObject": [
+        "Netflix",
+        "Squid Game"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Selfie-POV vlog style with variety-show captions.",
+      "freeDescribe": "The video effectively utilizes trend-jacking (Squid Game IP) to engage viewers with a real-world experiential event in a major tourist hub."
+    }
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "videoName": "achusan0817-20250921153559-1381876039900474.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 66,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Animation",
+        "Comedy",
+        "Storytelling"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taichung"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a 2D animation starting with a bald character in a black shirt and a grey-haired character in a red shirt standing at a train station ticket gate. (2) The grey-haired character waves goodbye, and the bald character turns away with a look of suppressed emotion. (3) On the train, the bald character sits between a woman and a man; he begins to cry intensely, with large tears streaming down his face and a distorted facial expression. (4) He tries to stifle his cries, looking increasingly distressed while the other passengers remain indifferent or oblivious. (5) He moves to the space between the train cars, sobbing uncontrollably against the door. (6) The final shot shows him curled in a corner, labeled as a 'Train Earthbound Spirit'.",
+      "audio_narrative_log": "(1) Casual Mandarin dialogue between two males at a station with a neutral tone. (2) Melancholic, slow-tempo piano music enters as a male narrator's voice takes over, describing the pain of graduation and separation. (3) The narration is punctuated by loud, exaggerated sobbing sounds and sniffing sound effects. (4) The tone of the narrator becomes more frantic and embarrassed as he describes the social awkwardness of crying in public. (5) The music continues until a final punchline is delivered with a slightly more energetic vocal tone.",
+      "text_narrative_log": "(1) Functional Text: '阿啾小劇場' (A-Chu's Little Theater) appears as a consistent title at the top. (2) Hook Text: '遠距離戀愛時 在車站離別搞得很像偶像劇' (When in a long-distance relationship, saying goodbye at the station is like an idol drama) - sentimental tone. (3) Functional Text: Subtitles translate the Mandarin narration and dialogue. (4) Decorative Text: '列車地縛靈' (Train Earthbound Spirit) - humorous tone at the end. (5) Decorative Text: '完整影片在Youtube' (Full video on Youtube) - functional CTA."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 4.7,
+      "isNarrativeShift": true,
+      "mainActionFlow": "The story follows a farewell at a station, an emotional breakdown on a train, and a humorous reality check."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Face close-up",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main bald character, 1 male friend, 1 female passenger, 1 male passenger.",
+      "mainCharacterDescription": "A simple 2D animated bald character with small eyes and highly expressive facial movements, wearing a black t-shirt and blue backpack."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Train Station",
+          "Inside Train"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern train station interior with ticket gates and digital displays; blue-seated interior of a passenger train.",
+      "lightingStyle": "Flat animation lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Saturated and bright",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Medium shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Train"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Youtube"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Emotional, narrative, and humorous",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Sentimental Piano",
+      "bgmBPM": 72,
+      "instrumentFamiliesAudible": [
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Piano"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Sobbing",
+        "Sniffing"
+      ],
+      "ambientNoise": [
+        "Train hum"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Farewell -> Emotional Escalation -> Comedic Twist",
+      "mainPurpose": "To humorously illustrate the intense emotional volatility of long-distance goodbyes, contrasting the internal 'drama' of the character with the awkward social reality of being on public transport.",
+      "visualEmotion": "Exaggerated grief and comedic embarrassment"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "A-Chu's signature bald character design and use of 'Little Theater' storytelling format.",
+      "freeDescribe": "The video relies heavily on the 'Expectation vs. Reality' trope, using animation to heighten emotional expressions for comedic effect."
+    }
+  }
+}

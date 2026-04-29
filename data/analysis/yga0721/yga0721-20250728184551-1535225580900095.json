@@ -1,0 +1,189 @@
+{
+  "videoName": "yga0721-20250728184551-1535225580900095.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 90,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food",
+        "Entertainment"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a young man in a red t-shirt speaking excitedly in front of a colorful playground; he uses large hand gestures and an expressive face. (2) The scene cuts to a sequence of different retail locations: first a bedding store with rolls of fabric where he samples herbal jelly, then a tire workshop that contains a small coffee counter. (3) Transitions show him in a record store filled with CDs while eating duck noodles, and finally at a roadside betel nut stand where he eats cold noodles. (4) Throughout the video, his facial expressions range from surprise to intense enjoyment as he tastes various foods.",
+      "audio_narrative_log": "(1) Fast-paced, high-pitched male vocals dominate the audio, speaking in a very energetic and humorous tone. (2) Upbeat electronic background music with a steady drum beat plays continuously, occasionally punctuated by cartoon-style sound effects like dings and whooshes. (3) During food segments, the sound of slurping and satisfied vocalizations are audible. (4) Ambient noise includes the faint sounds of street traffic and indoor echoes typical of retail shops.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles appear at the bottom of the screen translating the spoken dialogue. (2) Decorative/Hook Text: Large, colorful floating titles appear like '尋找全台各地不務正業店家' (Finding 'unfocused' shops across Taiwan) and '料多實惠' (Generous portions at a good price). (3) Meme-style captions like '56不能亡!!' appear briefly on screen for emotional emphasis."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Montage of visiting quirky dual-purpose shops -> Food tasting -> Outro and CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 7,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 3,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Head and shoulders"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main host, 2 female companions, 1 shop owner, 3 other background staff or customers",
+      "mainCharacterDescription": "An energetic young Asian male wearing a red t-shirt initially, later seen in white and blue shirts, with a trendy hairstyle."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Indoor Store",
+          "Cafe",
+          "Record Shop"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Diverse settings including a public playground, a crowded bedding store, a mechanical tire shop, a vintage record store with CD racks, and a roadside stall.",
+      "lightingStyle": "Mix of natural outdoor daylight and fluorescent indoor shop lighting.",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and vibrant",
+      "cameraWork": [
+        "Follow shot",
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Herbal Jelly",
+        "Shaved Ice",
+        "Duck Meat Noodles",
+        "Cold Noodles"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Microphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Adidas",
+        "HABABY",
+        "TT TOGO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, humorous, and excited",
+        "pitch": "Moderate-high",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Whoosh",
+        "Bell"
+      ],
+      "ambientNoise": [
+        "Street traffic",
+        "Indoor echo"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Intro -> Location 1 -> Location 2 -> Location 3 -> Location 4 -> CTA",
+      "mainPurpose": "To showcase unique 'slash-businesses' in Taiwan where owners operate two completely different types of businesses in one location, combining entertainment with local food discovery and cultural curiosity.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Directly visiting and positively reviewing products from specific local businesses.",
+      "endorsementObject": [
+        "全國寢具",
+        "仙草奶凍",
+        "TT TOGO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-speed narration, variety-show text graphics, and the host's distinct comedic timing.",
+      "freeDescribe": "The video targets young Taiwanese audiences interested in quirky urban culture and hidden food spots."
+    }
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "videoName": "5inana-20250113083334-1190417093169961.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 6,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with an extreme close-up of a young woman's face and hands as she drinks through a straw from a brown branded paper cup. She is wearing a bright yellow jacket. (2) The camera slowly zooms out to reveal her wearing a tan trapper hat. She maintains eye contact with the camera with a neutral, calm expression while continuing to sip. (3) The background is revealed to be a wooden wall in a tea shop, decorated with circular tea cakes on shelves and a large circular logo featuring a tea leaf icon.",
+      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic pop music with a steady drum beat plays continuously from the start. (2) Very faint background ambient noise of a public indoor space is audible beneath the music. (3) No vocals or speech are detected throughout the clip.",
+      "text_narrative_log": "(1) Functional Text: '自然。每一滴都是好茶' appearing on the paper cup, emphasizing product quality. (2) Functional Text: '一整杯' and '茶' visible on the background logo, identifying the establishment as a tea shop. The tone of the text is informative and branding-oriented."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 6.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "A single continuous shot featuring a slow zoom-out from a product close-up to a medium character portrait."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Face",
+        "Hands",
+        "Upper body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main female character is clearly visible in the center of the frame.",
+      "mainCharacterDescription": "A young woman with short dark hair, wearing a tan trapper hat with 'ROXY' branding, a white inner shirt, and a bright yellow oversized jacket with a red and white checkered hood lining."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Tea Shop",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern indoor tea shop environment with light-colored wooden paneling, shelves holding wrapped pu-erh tea cakes, and a circular glowing logo for the brand.",
+      "lightingStyle": "Soft, warm indoor studio lighting.",
+      "weather": "None",
+      "season": "Unknown",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "None",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Warm and vibrant, dominated by the bright yellow of the jacket and the natural wood tones of the background.",
+      "cameraWork": [
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Tea"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "ROXY",
+        "一整杯"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "None"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 115,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Cafe"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Detail -> Context",
+      "mainPurpose": "This is a lifestyle brand promotion video. It uses a high-contrast visual (the bright yellow jacket) and a slow reveal to draw attention to the creator enjoying a beverage from the '一整杯' tea brand, effectively creating an aspirational and cozy atmosphere for the product.",
+      "visualEmotion": "Cozy, Trendy, Calm"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "The video focuses entirely on the character consuming the branded product while positioned directly in front of the brand's logo in a physical store location.",
+      "endorsementObject": [
+        "一整杯"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Signature yellow jacket and Roxy hat combination, calm and steady gaze at the camera while drinking.",
+      "freeDescribe": "The video utilizes 'ASMR-lite' visual cues (focus on the straw/mouth) combined with fashion-forward clothing to appeal to young, urban tea consumers."
+    }
+  }
+}

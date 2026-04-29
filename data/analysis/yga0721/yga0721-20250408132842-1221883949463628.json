@@ -1,0 +1,167 @@
+{
+  "videoName": "yga0721-20250408132842-1221883949463628.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 25,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Security Footage"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a static wide-angle shot of a modern apartment's living and dining area; the room is tidy with a large TV, sofa, and dining table visible. (2) At 00:07, a sudden earthquake occurs, causing the entire frame to shake violently; dust and small particles are seen falling from the ceiling while furniture and plants vibrate intensely. (3) The shaking gradually subsides around 00:20, and the scene returns to a static state with the interior layout remaining largely unchanged despite the seismic event.",
+      "audio_narrative_log": "(1) The audio begins with a silent indoor environment with minimal background hum. (2) At 00:07, a loud, low-frequency rumbling sound starts abruptly, accompanied by the sharp, chaotic rattling of household objects and the building's structure. (3) The intense rumbling and rattling continue for approximately 12 seconds before fading out, eventually returning to the initial silence of the room.",
+      "text_narrative_log": "(1) Functional Text: A digital timestamp in the top-left corner reads '2025/01/21 00:17:32' and increments throughout the video, providing a factual record of the event's timing."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 25.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Steady indoor shot -> Sudden earthquake shaking -> Return to stillness"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 0,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 0,
+      "bodyPartVisibility": [
+        "None"
+      ],
+      "crowdLevel": "None",
+      "countingEvidence": "No humans appear in the frame throughout the duration of the clip.",
+      "mainCharacterDescription": "None"
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Living Room",
+          "Kitchen"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A modern, well-lit interior featuring a television on a long white console, a grey sofa with a green rug, two round wooden coffee tables, and a wooden dining set in the background near a kitchen area.",
+      "lightingStyle": "Bright indoor lighting",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Slow",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "TV"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "None"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "None",
+        "pitch": "None",
+        "loudness": "None",
+        "speed": "None",
+        "speechDensity": "None",
+        "language": [
+          "None"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Rumbling",
+        "Rattling"
+      ],
+      "ambientNoise": [
+        "Indoor quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Stillness -> Event -> Resolution",
+      "mainPurpose": "The video is a piece of surveillance documentation intended to record the physical impact and structural response of a residential home during a seismic event. It captures the sudden transition from a peaceful environment to intense shaking and the subsequent return to safety.",
+      "visualEmotion": "Alarming"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-angle security camera perspective with timestamp overlay.",
+      "freeDescribe": "The video effectively demonstrates the intensity of the earthquake through the visible shaking of heavy furniture and the falling of ceiling dust."
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "videoName": "2uncle987-20251118194013-928251456296361.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 21,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Dance",
+        "Cover",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video is a split-screen presentation: the upper half features a 3D animated male idol group performing a dance routine in a modern outdoor plaza, while the lower half shows a young boy in patterned pajamas imitating their choreography in a room with a plain wall. (2) The animated characters transition through various outfits including yellow jackets, pink sweaters, and floral shirts while dancing in synchronization; the boy below maintains focus, mirroring their arm extensions and hand gestures closely. (3) In the final phase, the split-screen ends and the boy is shown standing in front of a purple digital backdrop featuring a female virtual group, striking a pose as if for a promotional poster.",
+      "audio_narrative_log": "(1) The audio begins with a high-energy electronic K-pop track featuring multiple male vocals singing both English and Korean lyrics. (2) The soundscape is dominated by a heavy synth-bass and rhythmic percussion that drives the dance pace; there are no ambient room noises from the boy's environment audible. (3) The music concludes with a clear 'camera shutter' sound effect paired with a lingering synthesizer note.",
+      "text_narrative_log": "(1) Functional Text: Korean lyrics '이미', '알고' appear in stylized bubbles. (2) Decorative/Hook Text: Large English phrases 'BECAUSE I NEED YOU', 'i'm empty', 'you're my favorite', and 'refresh' appear in vibrant colors following the song's hooks. (3) Functional Text: 'YOU'RE MY SODA POP' and 'MY LITTLE SODA POP' appear in large pink and blue fonts during the chorus to emphasize the song's title."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 15,
+      "averageSceneDuration": 1.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro dance mimicry -> Continuous choreography sync -> Final poster pose"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 real child in the bottom half; top half consists of 3D animated characters.",
+      "mainCharacterDescription": "A young boy with short black hair wearing brown and white patterned long-sleeve pajamas."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Room",
+          "CGI Plaza"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The bottom half features a plain, neutral-colored wall and part of a door/closet; the top half features a vibrant CGI city plaza with animated crowds in the distance.",
+      "lightingStyle": "Natural indoor lighting for the real person; bright, saturated studio lighting for the animation.",
+      "weather": "Sunny (CGI)",
+      "season": "Summer (implied by CGI outfits)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "English",
+          "Korean"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "Vibrant and High Saturation",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "MAVE:",
+        "SUPERKIND"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 5,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 5,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and Melodic",
+        "pitch": "Medium-high",
+        "loudness": "High",
+        "speed": "Normal",
+        "speechDensity": "Continuous singing",
+        "language": [
+          "English",
+          "Korean"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "K-Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion",
+        "Keyboard"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Camera Shutter"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Introduction -> Synchronization -> Outro",
+      "mainPurpose": "To showcase a young boy's talent and enthusiasm for K-pop by participating in a viral dance challenge involving virtual idol groups Superkind and MAVE:. The split-screen format serves as a direct comparison/tutorial mode to demonstrate accuracy in choreography.",
+      "visualEmotion": "Joyful and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Features the song 'Soda' and visual assets from the virtual groups Superkind and MAVE:.",
+      "endorsementObject": [
+        "SUPERKIND",
+        "MAVE:"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Split-screen dance cover with a child protagonist.",
+      "freeDescribe": "The video leverages the popularity of 'Virtual Idols' in K-pop culture, specifically targeting a younger audience through the relatable medium of a child's bedroom dance cover."
+    }
+  }
+}

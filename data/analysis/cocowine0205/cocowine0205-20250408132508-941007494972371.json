@@ -1,0 +1,173 @@
+{
+  "videoName": "cocowine0205-20250408132508-941007494972371.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 14,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Informational",
+        "Lifestyle",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with two women standing in front of a Costco warehouse at night. One woman leans on a shopping cart, and both are smiling as they address the camera. Large text overlays dominate the upper and lower portions of the frame. (2) A quick cut shows a close-up of a person's hand scanning a membership card at a red scanning kiosk inside the entrance. (3) The scene returns to the two women outside. One woman holds up a Costco membership card to demonstrate how to scan the barcode. A small circular inset appears showing a close-up of the scanning interface. They continue gesturing and speaking enthusiastically.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music begins immediately. A high-pitched, energetic female voice starts speaking in Mandarin Chinese, providing information in a friendly and clear tone. (2) The vocal narration continues smoothly over the music, explaining the new entry procedures. Occasional very low-level background ambient noise from the outdoor setting is audible but suppressed. (3) The music and the energetic vocal delivery remain consistent until the end of the clip, maintaining a lively tempo.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' (Logo). (2) Hook Text: '新制上路 掃臉才能入場' (New system implemented, face scan required for entry - Exciting/Urgent tone). (3) Functional Text: '好市多現在進去 都要刷會員卡' (Entering Costco now requires scanning membership card - Informative tone). (4) Functional Text: '或者是手機上的 APP去掃描' (Or use the app on your phone to scan - Instructional tone). (5) Functional Text: '然後他的顯示器 就會有你拍照的臉' (Then the display will show your registered face photo - Explanatory tone). (6) Decorative Text: '也可以用APP刷' (Can also use the app - Reminder tone)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 3.5,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Hook -> Demonstration -> Instructional Advice"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators in the foreground, 1 person (likely male) visible scanning a card in the cutaway.",
+      "mainCharacterDescription": "Two young women; one wearing a cream-colored knit sweater and a black beret, the other in a similar cream sweater and a black pleated skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Retail",
+          "Store Entrance"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The exterior of a Costco Wholesale store at night, featuring the large white and red logo, metal siding, and bright outdoor lighting. Briefly shows an indoor entrance area with a scanning kiosk.",
+      "lightingStyle": "Artificial outdoor lighting",
+      "weather": "Clear Night",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Scanning Kiosk"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drum"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> Advice",
+      "mainPurpose": "To provide an informational update for Costco members in Taiwan regarding a newly implemented entry policy. The video explains that members must now scan their physical or digital cards at a kiosk, which displays their registered photo for security verification. It aims to guide shoppers on how to prepare before they reach the entrance to ensure a smooth entry process.",
+      "visualEmotion": "Energetic and helpful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density variety-show style captions and energetic female narration typical of lifestyle influencers in East Asia.",
+      "freeDescribe": "The video utilizes a fast-paced 'short-form' style designed for social media consumption, using clear visual cues and large text to convey information quickly."
+    }
+  }
+}

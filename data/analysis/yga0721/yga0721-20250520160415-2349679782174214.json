@@ -1,0 +1,185 @@
+{
+  "videoName": "yga0721-20250520160415-2349679782174214.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 82,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Commercial",
+        "Tech Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman in a red shirt and white cargo pants performs exaggerated 'superhero' gestures to move office chairs and open doors. (2) She continues these gestures in a bathroom, at a fridge, and a kitchen area. (3) She 'opens' a main entrance door with a wave, only to reveal a man in a baseball shirt standing behind it looking annoyed. (4) The man takes over the frame, demonstrating the actual features of a Samsung smart door lock mounted on the door. (5) Close-up shots of the door lock's numeric keypad, the YSDL logo, and the internal mechanisms. (6) The man demonstrates the palm recognition and face recognition features by placing his hand in front of the lock and looking at the sensor. (7) Close-ups of a smartphone displaying an app interface connected to the door lock. (8) The man holds a physical demo unit of the lock, giving thumbs up and pointing at the camera.",
+      "audio_narrative_log": "(1) Energetic, upbeat background music starts immediately with magical 'whoosh' sound effects synced to the woman's gestures. (2) As the man appears, the music maintains a high tempo while his voice enters, speaking fast and loudly in a mix of Mandarin and Taiwanese. (3) Mechanical clicking sounds and digital beeps are heard as the door lock is operated. (4) The man's vocal tone is highly promotional, excited, and punctuated with 'Ha!' sounds. (5) A feminine robotic voice prompt 'Please open the door' is heard from the lock device. (6) The video ends with a loud final pitch and a final drum beat in the music.",
+      "text_narrative_log": "(1) Hook text: 'POV: 當你以為自己是超級英雄' (POV: When you think you are a superhero) in red. (2) Effect text: '成功啦!!' (Success!!) in stylized white font. (3) Functional text: '三星電子鎖' (Samsung Electronic Lock), '掌靜脈辨識' (Palm vein recognition), '臉部辨識開門' (Face recognition door opening). (4) Product details: '航空級鋁合金機身' (Aviation-grade aluminum alloy body). (5) CTA text: '嘎哥專屬優惠碼' (Aga's exclusive promo code), 'ysdlaga', '加入LINE官方帳號' (Join official LINE account)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.95,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Humorous skit hook -> Transition to product reveal -> Feature-by-feature demonstration -> Sales pitch and CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face",
+        "Back view"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male main creator (Cai Aga), 1 female main actress in red, 1 female extra sitting in a chair at the beginning.",
+      "mainCharacterDescription": "A male influencer wearing a black baseball shirt with white trim and baggy blue patchwork jeans. A female actress in a red long-sleeved crop top and white cargo pants."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor Home",
+          "Office"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Transitions through an office desk area, a bathroom with white stalls, a kitchen with a modern fridge, and a residential apartment entrance with white brick wallpaper and a dark wood door.",
+      "lightingStyle": "Bright studio lighting throughout, high visibility.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Smart Lock",
+        "Fridge",
+        "Monitor"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Samsung",
+        "YSDL"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Moderate",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese",
+          "Taiwanese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Magic whoosh",
+        "Digital beeps",
+        "Mechanical click"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Skit-to-Sales: Hook -> Contrast -> Demonstration -> Call-to-Action",
+      "mainPurpose": "This video is a commercial endorsement for Samsung smart door locks sold by YSDL. It uses a comedic 'superhero' POV skit as a hook to contrast fictional superpowers with the real-world convenience of high-tech door security. The main creator, Cai Aga, provides a high-energy review and demonstration of specialized features like palm and facial recognition to drive sales through a specific promo code.",
+      "visualEmotion": "Humorous and Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product demonstration, verbal promotion of the brand, display of brand logos (Samsung, YSDL), and provision of an influencer-specific promo code.",
+      "endorsementObject": [
+        "Samsung",
+        "YSDL"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing style and high-pitched vocal interjections typical of the influencer Cai Aga.",
+      "freeDescribe": "The video effectively blends social media trends (POV skits) with traditional home shopping techniques."
+    }
+  }
+}

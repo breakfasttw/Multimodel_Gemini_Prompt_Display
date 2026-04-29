@@ -1,0 +1,180 @@
+{
+  "videoName": "cocowine0205-20251022155507-4276584225890510.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 89,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Shopping",
+        "Product Review",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Two women are seen in a Costco warehouse aisle; one wears a brown off-the-shoulder top and a black beret, the other wears a light pink top. They gesture excitedly towards the camera. (2) They move to a ZWILLING product display stand, picking up and showcasing a 4-piece manicure/pedicure set box. (3) The scene shifts to a home interior where the women demonstrate the individual tools: a foot rasp, a nail file, a 360-degree rotating nail clipper, and a magnetic magnifying glass. Close-ups focus on the stainless steel texture and the functional use on feet and fingernails. (4) The video concludes back in the Costco aisle, showing a shopping cart filled with several units of the product as the women give a thumbs-up.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic pop music plays continuously. A male voiceover in Mandarin begins with an energetic and fast-paced delivery, posing a question about choosing a lifelong nail clipper. (2) The narration shifts to describing the product's features (durability, precision) and the Costco price (699 TWD). (3) Sound effects like 'ding' and 'shimmer' are used to highlight key text and product features. The sound of the nail clipper 'clicking' and the rasp 'scraping' are briefly audible during the demo. (4) The male narrator's voice maintains high energy through the end, accompanied by the women's enthusiastic exclamations.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo, '德國雙人 美甲手足護理 4件組' (German Twin Manicure/Pedicure 4-piece set). (2) Hook Text: '一刀傳三代' (One tool lasts three generations), '一輩子只買一個指甲剪 你會選甚麼?' (If you only buy one nail clipper in your life, what would you choose?). (3) Decorative/Effect Text: '超級划算!' (Super deal!), '精密工藝' (Precision craftsmanship), '送禮自用兩相宜' (Good for gifts or personal use). (4) Tool Names: '足部銼刀', '指甲銼刀', '指甲剪', '磁吸放大鏡'."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 3.17,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook -> Product Introduction at Store -> Detailed Feature Demonstration at Home -> Purchase Incentive and CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face",
+        "Feet"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 main female creators, at least 2 blurry passers-by in the background of the store scenes.",
+      "mainCharacterDescription": "One woman has short hair, a black beret, and a brown ruffled top. The other has long hair and a light pink V-neck top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Costco Wholesale Store",
+          "Indoor Home"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Warehouse-style store with high shelves, stacked boxes, and a specialized ZWILLING red product display; later, a domestic interior with a wooden table and household items.",
+      "lightingStyle": "Bright, even industrial lighting in store; warm, natural indoor lighting at home.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Vibrant and High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Panning"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO",
+        "ZWILLING"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic and persuasive",
+        "pitch": "High (Females), Medium-High (Male Narrator)",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop SFX",
+        "Shimmer SFX",
+        "Clicking"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Discovery -> Feature Demo -> CTA",
+      "mainPurpose": "The video is a promotional review designed to drive sales of the ZWILLING manicure set at Costco Taiwan. It uses a high-energy narrative and visual demonstrations to emphasize the product's durability ('one tool for three generations') and its value-for-money price point, targeting budget-conscious yet quality-seeking shoppers.",
+      "visualEmotion": "Energetic and Enthusiastic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product showcase, pricing information, specific retailer mention (Costco), and heavy emphasis on purchase benefits.",
+      "endorsementObject": [
+        "ZWILLING",
+        "COSTCO"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Variety-show style vibrant text overlays and high-speed Mandarin voiceover typical of 'Short Video E-commerce' trends.",
+      "freeDescribe": "The video effectively uses a 'problem-solution' framework (thick skin on feet -> ZWILLING foot rasp) to create consumer desire."
+    }
+  }
+}

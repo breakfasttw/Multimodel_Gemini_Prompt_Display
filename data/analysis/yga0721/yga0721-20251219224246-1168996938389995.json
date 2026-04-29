@@ -1,0 +1,174 @@
+{
+  "videoName": "yga0721-20251219224246-1168996938389995.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 23,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Humor",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts in an indoor office/studio setting. A woman in a red and white striped sweater speaks to a man wearing a white floral cardigan. A TV screen in the background displays colorful graphics. (2) Two more women appear sequentially, one in a beige jacket and another in a blue and brown striped sweater, leaning into the frame to speak. (3) A montage follows where each person (the three women and the man) performs a \"cute\" pose with a finger on their cheek, synced to the beat of a pop song. One woman wears yellow headphones over a white hoodie. (4) The woman with the headphones continues to pose dramatically while the man, appearing as the boss, looks annoyed and eventually lunges toward the camera as if to stop the nonsense. The final shot is the man making a silly face with a text prompt on screen.",
+      "audio_narrative_log": "(1) A female voice starts by asking for a 6-month year-end bonus in a playful, pleading tone. (2) Two other female voices chime in asking for 8 months and 10 months respectively. Ambient studio silence is replaced by a fast-paced pop music track with a strong electronic beat. (3) The music \"Overdrive\" plays prominently during a posing montage. (4) A male voice suddenly yells loudly \"夠了! 現在! 現在!\" (Enough! Now! Now!) in an exaggeratedly angry and humorous tone, cutting through the music briefly before the track continues and fades.",
+      "text_narrative_log": "(1) Functional Text: \"當我們年終想加薪\" (When we want a year-end bonus increase), \"老闆 老闆\" (Boss, Boss), \"請問我年終可以加6個月嗎?\" (Can I have a 6-month bonus?), \"8個月可以嗎?\" (Is 8 months okay?), \"10個月呢?\" (How about 10 months?). (2) Hook Text: \"想打的底下留言+1\" (Comment +1 if you want to hit him) appears at the end, set in a playful, provocative tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 2.09,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Dialogue intro -> Bonus request sequence -> Rhythmic posing montage -> Comic payoff"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 5,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 man (the boss), 4 women (employees/co-workers) participating in the skit.",
+      "mainCharacterDescription": "A diverse group in casual modern clothing: one in a red striped polo, one in a floral white cardigan, one in a beige leather-look jacket, one in a brown striped sweater, and one in a white hoodie with yellow headphones."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Office"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A clean studio environment with a display screen, light-colored walls, and a logo plate reading 'Da tou fo'.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "TV Screen",
+        "Headphones"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "大頭佛"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 5,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 4,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Playful, humorous, then shouting",
+        "pitch": "Varied (mostly medium to high)",
+        "loudness": "Normal to High",
+        "speed": "Normal",
+        "speechDensity": "Fragmented",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Copyrighted Song"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Setup -> Thematic Posing -> Comic Resolution",
+      "mainPurpose": "A comedy short designed to entertain through relatable office workplace humor regarding year-end bonuses. It uses a popular music trend (posing to the beat) to contrast the employees' 'cute' requests with the boss's increasingly irritated reaction, ultimately driving engagement via the '+1' comment prompt.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No specific products are being promoted other than the channel's own branding.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Features the 'Da Tou Fo' (Big Head Buddha) studio members, a known Taiwanese social media group.",
+      "freeDescribe": "The video relies heavily on the 'cuteness' contrast and localized workplace culture (year-end bonus culture in Taiwan)."
+    }
+  }
+}

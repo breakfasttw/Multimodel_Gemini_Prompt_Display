@@ -1,0 +1,175 @@
+{
+  "videoName": "cocowine0205-20250709231038-1446263460216227.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 34,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Shopping Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in a gray bucket hat and blue off-the-shoulder top stands in a Costco warehouse, holding and patting a large pink rabbit-shaped cushion. Large text overlays identify the product and price. (2) The scene cuts as she showcases different animal-themed cushions: a gray penguin and a large light blue elephant. She touches the fabric to demonstrate texture and smiles enthusiastically at the camera. (3) She demonstrates the cushion's versatility by folding it and showing a button fastening that turns it into a triangular backrest. She hugs the elephant cushion tightly, then points to the 699 TWD price graphic. The video ends with her giving two thumbs up.",
+      "audio_narrative_log": "(1) High-pitched, energetic female vocals start immediately over a fast-paced, upbeat, and playful pop BGM. She speaks enthusiastically about finding a good deal at Costco. (2) The audio remains consistent as she describes the different animal shapes and the 'cooling' feel of the fabric. Soft ambient warehouse noise is present but suppressed by the vocals and music. (3) She explains the dual-use function (cushion or pillow) with a friendly and persuasive tone. A subtle 'ding' or pop sound effect might accompany text transitions. The segment ends with a final verbal recommendation.",
+      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo and '699元很值得' (699 yuan is worth it). Hook Text: '動物涼感兩用坐墊' (Animal cooling dual-purpose cushion) in large blue and white bubbles. (2) Functional Text: Subtitles tracking her speech: '你看有兔子的形狀' (Look, there's a rabbit shape), '還有企鵝' (And a penguin), '以及大象' (And an elephant). (3) Functional Text: '最重要是他捲起來呢 你就可以當靠枕' (Most importantly, when rolled up, it can be a backrest), '699元' price tag graphic, and '這個推推 夏天來了' (Highly recommend this, summer is here) as a closing hook."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Product Variety Showcase -> Functional Demo -> Price & Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 female main creator, at least 3 blurry passers-by in the background warehouse aisles.",
+      "mainCharacterDescription": "An Asian woman with long dark hair wearing a gray bucket hat, a navy blue off-the-shoulder ruffled top, and blue denim jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Warehouse Store"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "The interior of a Costco warehouse featuring high ceilings, industrial lighting, large shelving units stocked with boxed products like electronics (SAMSUNG visible) and household items, and wide aisles with shoppers.",
+      "lightingStyle": "Bright industrial warehouse lighting",
+      "weather": "Indoor",
+      "season": "Summer (implied by content and attire)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Bright and saturated",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Rabbit (Cushion)",
+        "Penguin (Cushion)",
+        "Elephant (Cushion)"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "COSTCO WHOLESALE",
+        "SAMSUNG"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with synced BGM",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Playful Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Electronic Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop sounds"
+      ],
+      "ambientNoise": [
+        "Warehouse ambient"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Feature Inventory -> Practical Demonstration -> Price/Call-to-Action",
+      "mainPurpose": "To provide a quick, enthusiastic consumer review of a cooling animal-themed cushion found at Costco, emphasizing its affordability (699 TWD) and multi-functional design (backrest, mat, or pillow) to encourage viewers to purchase it for the summer season.",
+      "visualEmotion": "Energetic and Cheerful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct display of product price, brand location (Costco), and a concluding recommendation ('推推').",
+      "endorsementObject": [
+        "COSTCO 動物涼感兩用坐墊"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy variety-show style text overlays and emoji-like reactions from the host.",
+      "freeDescribe": "The video targets budget-conscious shoppers and parents looking for seasonal household items. The 'cooling' (涼感) aspect is a significant regional selling point for the Taiwanese climate."
+    }
+  }
+}

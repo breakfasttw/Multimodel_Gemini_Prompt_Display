@@ -1,0 +1,177 @@
+{
+  "videoName": "3ctim-20250425084118-1248647576598878.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 44,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Commentary",
+        "Informational"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a stylized collage of Ghibli-inspired illustrations with a man's head superimposed in the center. (2) The scene transitions to a live-action shot of a man wearing a grey cap, glasses, and a green hoodie, sitting in front of a grey curtain. He gestures with his hands while speaking directly to the camera. (3) Screenshots of the Apple App Store showing various AI chatbot apps are overlaid on the screen periodically as he speaks. (4) The man continues his explanation with expressive facial expressions and hand movements, emphasizing points about app names and pricing. (5) The video ends with a close-up of the man delivering a final warning message.",
+      "audio_narrative_log": "(1) The audio starts with a male voice speaking in Mandarin Chinese with an energetic and authoritative tone. (2) An upbeat, fast-paced electronic background music track plays throughout the entire video. (3) Subtle sound effects (SFX) such as digital pops and camera shutters accompany the appearance of text and image overlays. (4) The environment is quiet, suggesting a controlled studio setting with clear vocal recording.",
+      "text_narrative_log": "(1) '吉卜力熱潮' (Ghibli Craze) - Hook text. (2) '讓許多人跟風下載ChatGPT' (Led many people to follow the trend and download ChatGPT) - Functional narration text. (3) 'ChatGPT 假的' (ChatGPT Fake) and 'ChatGPT 真的' (ChatGPT Real) - Comparative functional text. (4) 'ChatGPTP 的應用程式' (ChatGPTP application) - Functional text identifying a specific app name. (5) '問4個問題就要要求付費' (Asks for payment after asking 4 questions) - Descriptive warning text. (6) '收費還高於 OpenAI 官方 ChatGPT Plus 的費用' (The fee is even higher than the official OpenAI ChatGPT Plus fee) - Comparative financial information. (7) '用戶的個人隱私也可能因此外洩' (User's personal privacy may also leak because of this) - Warning text. (8) '下載前大家請多加留意' (Everyone please pay more attention before downloading) - Call to action."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Hook (Ghibli trend) -> Problem identification (Fake ChatGPT apps) -> Detailed analysis (Pricing and Privacy) -> Final Warning."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head",
+        "Hands",
+        "Full upper body"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main creator (male) present throughout the video.",
+      "mainCharacterDescription": "Middle-aged Asian male, wearing a grey flat cap, glasses, and a dark green hoodie."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A simple grey curtain background in a studio setting, focused on the speaker.",
+      "lightingStyle": "Bright studio lights providing clear visibility and minimal shadows.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "App Store Screenshots"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Apple App Store",
+        "OpenAI",
+        "ChatGPT",
+        "ChatGOAT"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Professional and urgent",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Pop sounds",
+        "Transition SFX"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Analysis -> CTA",
+      "mainPurpose": "To inform and warn mobile users about 'imposter' ChatGPT applications in the Apple App Store that use confusingly similar names and icons to trick people into high-priced subscriptions and potentially compromise their data privacy.",
+      "visualEmotion": "Informative and Cautionary"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video is a consumer warning/advice segment rather than a product promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "3C有意思Tim哥 branding, specific green hoodie and cap attire.",
+      "freeDescribe": "The video leverages current AI trends to provide timely cybersecurity and consumer rights advice to a tech-interested audience."
+    }
+  }
+}

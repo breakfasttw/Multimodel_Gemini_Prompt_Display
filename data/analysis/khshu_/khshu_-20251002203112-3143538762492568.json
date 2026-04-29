@@ -1,0 +1,189 @@
+{
+  "videoName": "khshu_-20251002203112-3143538762492568.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 60,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Comedy",
+        "Promotion",
+        "Skit"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taichung"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a young woman in a red tank top sitting in green stadium seats, portraying an overly excited fan with exaggerated facial expressions of anxiety and passion. (2) The scene transitions to her enthusiastically eating fried chicken and donuts from a KFC box, appearing more interested in the food than the game. (3) She then depicts a confused fan, holding a smartphone and looking puzzled, eventually searching for baseball terms like 'Fly Out' on a Google search page. (4) She moves to the front row, holding a professional DSLR camera with a long telephoto lens to take photos, followed by her checking her phone and looking frustrated by slow upload speeds. (5) Finally, she runs through the stadium stairs and stands, holding her phone to show high-speed internet connectivity, ending with a celebratory thumbs-up in front of the baseball field.",
+      "audio_narrative_log": "(1) High-energy, fast-paced electronic background music starts with a female voice speaking in a sharp, high-pitched, and exaggeratedly emotional tone. (2) The music shifts to a playful, bouncy rhythm as the female voice sounds satisfied while eating; ambient stadium crowd noise is present. (3) Dialogue enters as the female asks a question in a confused tone, followed by the sound of a phone keyboard tapping and a 'ding' SFX when she finds information. (4) Mechanical shutter sounds from a camera are heard over a trendy pop track. (5) The audio transitions into a polished commercial narration with clear, professional vocals explaining network benefits, concluding with an upbeat brand jingle.",
+      "text_narrative_log": "(1) Functional Text: 'POV: 球場裡的幾種人' (POV: Several types of people in the stadium) - Hook text. (2) Decorative Text: '1. 情緒激動的資深球迷' (1. Emotionally excited veteran fan) - Categorical label. (3) Decorative Text: '2. 食物還是最重要的' (2. Food is still the most important) - Categorical label. (4) Decorative Text: '3. 棒球規則好難' (3. Baseball rules are so hard) - Categorical label. (5) Functional Text: '接殺' (Fly out) - Search term on screen. (6) Decorative Text: '4. 髮香區第一排' (4. First row of the 'scent' zone) - Categorical label. (7) Functional Text: '遠傳 5G' (FarEasTone 5G) and '網速涵蓋全面升級' (Network speed coverage fully upgraded) - Promotional product info."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 26,
+      "averageSceneDuration": 2.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro skit segments -> Problem encounter (slow internet/confusion) -> Product solution (FarEasTone 5G) -> Positive outcome"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 4,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Crowd",
+      "countingEvidence": "1 main female creator, 1 female friend appearing briefly, and approximately 6 background stadium attendees visible.",
+      "mainCharacterDescription": "A young Asian female with her hair tied in a bun, wearing a red spaghetti-strap tank top over a white top and light blue denim jeans."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Baseball Stadium",
+          "Outdoor"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Green stadium seating rows with 'ezTravel' branding, a baseball field with players in the distance, and the stadium's structural architecture under a clear sky.",
+      "lightingStyle": "Natural daylight and stadium floodlights",
+      "weather": "Clear",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Follow shot",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Fried Chicken",
+        "Donuts",
+        "Hot dog"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "DSLR Camera",
+        "Telephoto Lens"
+      ],
+      "landmark": [
+        "Taichung Intercontinental Baseball Stadium"
+      ],
+      "brandLogos": [
+        "KFC",
+        "遠傳",
+        "ezTravel",
+        "Google",
+        "Wikipedia",
+        "Instagram"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade and Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 5,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Varied: Excited, frustrated, and professional",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Camera shutter",
+        "Notification chime",
+        "Meme SFX"
+      ],
+      "ambientNoise": [
+        "Stadium crowd",
+        "Outdoor wind"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Skit Scenarios -> Hook -> Product Solution -> CTA",
+      "mainPurpose": "To promote FarEasTone's 5G network by showcasing relatable, humorous 'types' of fans at a baseball game and demonstrating how fast internet solves common stadium problems like looking up rules or uploading social media content.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct demonstration of the network's speed on a smartphone and verbal/textual promotion of the brand name and 5G features.",
+      "endorsementObject": [
+        "遠傳",
+        "FarEasTone"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing style with 'POV' text overlays and comedic role-playing.",
+      "freeDescribe": "The video effectively utilizes the high-energy environment of a live sports game to align the brand with speed and reliability in crowded areas."
+    }
+  }
+}

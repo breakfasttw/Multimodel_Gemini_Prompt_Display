@@ -1,0 +1,187 @@
+{
+  "videoName": "cocowine0205-20251103224505-1698335834880691.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 68,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Shopping"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a close-up of a woman in a grey hat and brown top eating spicy tteokbokki from a pink plate, expressing strong flavor through facial expressions. (2) It shifts to her walking through a Costco warehouse, pushing a cart, and excitedly locating a green and orange bag of Bibigo Tteokbokki on a shelf. (3) She holds the product up to the camera, showcasing the packaging and later pointing to a price tag. (4) A short sequence shows the rice cakes being stirred in a pan with red sauce on a stove. (5) Finally, she and another woman sit at a table, eating the prepared dish, showing the individual ingredients (rice cake packets and sauce), and giving thumbs-up gestures while talking enthusiastically.",
+      "audio_narrative_log": "(1) Upbeat and energetic electronic BGM starts immediately, accompanied by a female voice making exaggerated 'hot and spicy' sounds. (2) A male narrator begins speaking in Mandarin with a clear, professional tone, describing the shopping experience. (3) Ambient sounds of a warehouse (clinking, movement) are audible behind the narration. (4) Sound effects such as beeps and pops are used to highlight text transitions. (5) Sizzling sounds are briefly heard during the cooking shot. (6) The audio ends with a lively dialogue between two women discussing the sweet and spicy taste profile and recommending the product.",
+      "text_narrative_log": "(1) COSTCO WHOLESALE logo appears at the top. (2) Functional text: '好辣' (So spicy) variety-show stickers appear repeatedly. (3) Hook text: '新品必買超上癮' (New product must-buy, super addictive) and 'Bibigo 韓式辣炒年糕' (Bibigo Korean Spicy Stir-fried Rice Cakes) identify the product. (4) Functional text: '$299' and '一公斤只要299元' (1kg only 299 dollars) highlight the value. (5) Descriptive text: '辣甜的 非常完美' (Spicy and sweet, very perfect) and '很韓的味道' (Very Korean taste) summarize the review."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.8,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro eating hook -> Warehouse product hunt -> Price/Quantity breakdown -> Cooking demo -> Joint taste test and final recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "2 main female creators appearing together in the review segment; 1 creator featured in the warehouse segment.",
+      "mainCharacterDescription": "Two young Asian women; one wears a grey bucket hat and a brown off-the-shoulder ruffled top, the other wears a simple brown top."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Warehouse Store"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A large warehouse store with high industrial shelving units filled with boxed goods; a modern home dining area with a kitchen counter and typical household items in the background.",
+      "lightingStyle": "Bright indoor lighting, consistent across the warehouse and the home setting.",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "POV",
+        "Static",
+        "Follow shot",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Tteokbokki",
+        "Rice Cakes",
+        "Sesame Seeds",
+        "Korean Sauce"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Costco Wholesale",
+        "Bibigo",
+        "Le Creuset"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade and Hard cuts synced to visual beats",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and enthusiastic",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Sizzling",
+        "Transition pop"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Warehouse background"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Search -> Discovery -> Detailed Review -> Recommendation",
+      "mainPurpose": "To promote and review a specific food product (Bibigo Tteokbokki) found at Costco, emphasizing its value, ease of cooking, and authentic spicy-sweet taste to encourage viewers to purchase it.",
+      "visualEmotion": "Energetic and appetizing"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct product showcasing, brand name mentions in text and audio, price information, and a clear 'will buy again' recommendation.",
+      "endorsementObject": [
+        "Bibigo",
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-frequency use of variety-show style animated text stickers and a distinctive male narrator overlay for female-led visual content.",
+      "freeDescribe": "The video follows a high-efficiency review format typical of Short Video platforms (like TikTok/Reels), focusing on immediate hook and clear benefit communication."
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "videoName": "yga0721-20250413023843-1566607064604943.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 36,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Comedy",
+        "Vlog",
+        "Animal"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Hsinchu"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a young man wearing a black 'Old Boy' T-shirt and a green backpack standing in front of a wooden fence at a zoo. He is smiling and gesturing towards the background. (2) The scene cuts to various animals in enclosures, starting with two monkeys on a concrete floor; one monkey jumps into the air and lands flat on its belly. (3) An alpaca with a harness looks directly into the camera with a neutral expression. (4) A small monkey with yellow-tinted fur hangs onto the wire mesh of its cage, moving its head. (5) A large orangutan is seen lying down behind a fence, appearing lethargic. (6) A gorilla sits on a rock in a grassy area, scratching its stomach while looking away. (7) The final shot shows a group of monkeys huddled together, grooming one another.",
+      "audio_narrative_log": "(1) High-pitched and energetic male vocals open the video with a loud greeting '耶～歡迎來到厭世動物園' (Yeah~ welcome to the World-weary Zoo). Fast-paced, quirky background music starts. (2) The audio shifts as the same male voice adopts a deep, gravelly, and grumbling tone, providing inner monologues for the animals. Sounds of monkey screeching and ambient zoo noise are heard. (3) The music remains consistent in the background as the speaker continues the humorous narration in a variety of funny voices, mimicking a grumpy or indifferent attitude. (4) The video ends with a comical 'shing' sound effect.",
+      "text_narrative_log": "(1) Functional Text: '耶～歡迎來到厭世動物園' (Yeah~ welcome to the world-weary zoo) appears at the start. (2) Decorative Text: '看三小 我是草泥馬勒' (What are you looking at? I'm an alpaca) appears over the alpaca shot, conveying a defiant tone. (3) Functional Text: '放我出去' (Let me out) appears as subtitles for the orangutan, conveying a depressed tone. (4) Decorative Text: '這裡有一隻...啊 這裡又一隻' (There is one here... oh, there's another one here) appears during the monkey grooming scene."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 4.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Animal Montage -> Comedic Dubbing"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Waist up"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 main host appearing in the first scene.",
+      "mainCharacterDescription": "A male with short dark hair, wearing a black graphic t-shirt and a bright green backpack."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Zoo"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Different animal enclosures including concrete floors for monkeys, grassy fields for alpacas, and rocky areas for gorillas.",
+      "lightingStyle": "Natural daylight",
+      "weather": "Cloudy",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Monkey",
+        "Alpaca",
+        "Orangutan",
+        "Gorilla"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Varied, transitioning from high-pitched excited to deep grumbling humor",
+        "pitch": "Medium-High to Deep",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Quirky",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Animal screeches"
+      ],
+      "ambientNoise": [
+        "Zoo background noise"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Presentation -> Demonstration",
+      "mainPurpose": "To create a humorous 'mockumentary' style vlog entry where the host personifies zoo animals with grumpy, world-weary human personalities to entertain his audience.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy comedic dubbing of animals.",
+      "freeDescribe": "Typical content style for a Taiwanese variety YouTuber, focusing on relatable but exaggerated humor regarding local attractions."
+    }
+  }
+}

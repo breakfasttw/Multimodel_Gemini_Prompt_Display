@@ -1,0 +1,183 @@
+{
+  "videoName": "2uncle987-20250912152945-1571799550676692.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 84,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Recommendation",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A young woman in a blue shirt and white top speaks directly to the camera while standing on a busy street at dusk. (2) She transitions to a fried chicken stall, gesturing towards the sign '蜜酥雞排'. The camera shows a close-up of the vendor sprinkling seasoning on fried chicken. (3) She walks to a street corner, looking for a juice shop '傻瓜果汁' but finds it closed, showing the shuttered storefront. (4) She arrives at '十全排骨', showing the menu and the large pots of soup. A staff member is seen packing food into a container. (5) She holds a white plastic take-out bag, smiles, and waves goodbye to the camera.",
+      "audio_narrative_log": "(1) Upbeat, lo-fi background music starts playing at a moderate volume. A female voice speaks in a friendly, enthusiastic tone in Mandarin. (2) Ambient street noise is audible, including the sound of frying and distant chatter. (3) The female voice continues the narration as she moves between locations, with the BGM remaining consistent. (4) Clinking sounds of kitchen utensils and ladling soup are heard as she visits the rib soup stall. (5) The music fades slightly as she concludes her vlog with a cheerful closing remark.",
+      "text_narrative_log": "(1) Functional Text: '印象中的士林夜市都是被擠著走' (My impression of Shilin Night Market is always being crowded) - Narrative intro. (2) Functional Text: '蜜酥雞排 台北市士林區文林路115號' - Location information. (3) Functional Text: '傻瓜果汁 台北市士林區文林路117-3號' - Location information. (4) Decorative Text: '銘謝惠顧' (Thank you for your visit) - Appears as a sticker when the shop is closed. (5) Functional Text: '十全排骨 台北市士林區基河路119號' - Location information."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Food Recommendation 1 -> Closed Shop Reaction -> Food Recommendation 2 -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Waist up",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 2 male vendors, 1 female staff member, and approximately 4 passers-by.",
+      "mainCharacterDescription": "A young Asian woman with long brown hair, wearing a light blue denim-style short-sleeved button-down shirt over a white ribbed tank top and matching blue shorts."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Night Market",
+          "Food Stall"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Dynamic night market environment with numerous food stalls, bright neon signs, street lighting, and occasional motorcycles passing by in the background.",
+      "lightingStyle": "Natural dusk light mixed with artificial fluorescent and neon stall lighting.",
+      "weather": "Clear",
+      "season": "Autumn",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and warm",
+      "cameraWork": [
+        "Follow shot",
+        "Static",
+        "Medium Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Fried chicken",
+        "Rib soup",
+        "Take-out bag"
+      ],
+      "trafficDetect": [
+        "Motorcycle"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "Shilin Night Market"
+      ],
+      "brandLogos": [
+        "蜜酥雞排",
+        "十全排骨",
+        "傻瓜果汁"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 2,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and humorous",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Lo-fi",
+      "bgmBPM": 95,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Traffic",
+        "Street Chatter"
+      ],
+      "audioQuality": "Field Recording"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Intro -> Point 1 -> Point 2 -> Point 3 -> Outro",
+      "mainPurpose": "The video serves as a personal guide to 'must-eat' local food at Taipei's Shilin Night Market, focusing on three specific stalls the creator personally frequents for late-night snacks.",
+      "visualEmotion": "Energetic and Cheerful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The creator provides exact addresses and highlights the quality of the food and service based on personal recurring visits.",
+      "endorsementObject": [
+        "蜜酥雞排",
+        "傻瓜果汁",
+        "十全排骨"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Frequent use of hand gestures (peace signs, pointing) and stylized location overlays.",
+      "freeDescribe": "Typical lifestyle/food influencer content optimized for vertical mobile consumption, characterized by high engagement and personal storytelling."
+    }
+  }
+}

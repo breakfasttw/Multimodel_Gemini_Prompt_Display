@@ -1,0 +1,178 @@
+{
+  "videoName": "3ctim-20250517010716-1640290967406995.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 48,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Tech Review",
+        "Product Launch"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A middle-aged man wearing glasses and a green cap introduces a black smartphone to the camera against a background of silver balloons. (2) A series of quick cuts shows the phone in different colors—Cream, Dark Gray, and Light Blue—being held and turned to show its sleek design. (3) The man compares the thickness of the S25 Edge with the S25 Ultra side-by-side, then the phone is placed on a digital scale showing its weight. (4) A young woman in a white dress takes a selfie using the phone, followed by a demonstration of the screen's fluid scrolling and high refresh rate. (5) The man returns to the screen, placing a thin coin next to three stacked phones to emphasize how slim the device is, ending with a close-up of his face.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic pop music starts immediately. A male voice (3cTim) speaks in an enthusiastic and rapid tone, introducing the Samsung Galaxy S25 Edge. (2) As the video transitions into a product montage, the vocals pause while the music remains prominent, punctuated by sharp 'swish' and 'click' sound effects synchronized with screen transitions and camera shutter visuals. (3) The male voice returns to describe specific technical specifications like thickness and weight over the continuous background music. (4) The audio concludes with the man's final enthusiastic remarks as the music fades slightly.",
+      "text_narrative_log": "(1) Functional Text: '3c有意思tim哥' and '@3ctim' (Branding logos in the top left corner). (2) Hook Text: '三星Galaxy S25 Edge' and '我們趕快帶大家看5大重點' (Introducing the 5 key points). (3) Decorative Text: '#Galaxy S25 edge', '#鈦輕藍' (Titanium Light Blue), '#鈦輕銀' (Titanium Light Silver). (4) Functional Data: '5.8mm', '重量：163g', '主鏡頭：200MP', '6.7吋', '120Hz 螢幕更新率', '3900mAh IP68' (Technical specifications listed with a professional yet informative tone)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Feature Montage (Thickness, Weight, Camera, Screen) -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Face only"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male host (Tim), 1 female model posing with the phone.",
+      "mainCharacterDescription": "The main host is a middle-aged male with glasses, a green t-shirt, and a green newsboy cap."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Exhibition Hall"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A professional setting featuring silver/chrome decorative balloons, a minimalist product display area, and a wooden table surface for the weighing scale.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Macro",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Digital Scale"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "SAMSUNG"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut with SFX",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "High-pitched and excited",
+        "pitch": "Normal",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Swish",
+        "Camera shutter",
+        "Click"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Technical Specs Montage -> Physical Comparison -> CTA",
+      "mainPurpose": "To provide a rapid, high-energy review of the Samsung Galaxy S25 Edge, specifically targeting a tech-savvy audience by highlighting its portability (weight and thickness) and high-end camera/screen features through visual proof and data overlays.",
+      "visualEmotion": "Energetic and Professional"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct presentation of the product, detailed spec listing, and comparison with previous models within a branded tech-review channel.",
+      "endorsementObject": [
+        "Samsung Galaxy S25 Edge"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Host 3cTim's signature cap and fast-paced 'straight to the point' delivery style.",
+      "freeDescribe": "The video uses physical props (a coin and scale) to make abstract technical specs (5.8mm, 163g) more relatable to the average consumer."
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "videoName": "alephant_0427-20250808001757-1549049852831637.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 77,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Travel"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Yuanlin",
+          "Changhua"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A female host with vibrant pink hair and a white top stands on an outdoor street in front of a food stall, clapping and gesturing excitedly to the camera. (2) The scene cuts to close-ups of a griddle where an elderly man is arranging long potstickers, followed by a younger man flipping them with a spatula until the bottoms are golden brown. (3) The host is then shown inside a car, holding a white paper box of potstickers, using chopsticks to dip them in sauce and eating them with exaggerated expressions of enjoyment; another female companion with dark hair is also seen tasting the food. (4) The video concludes with the host holding up a potsticker to the camera while talking enthusiastically, ending with a final view of the food stall's sign.",
+      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music starts immediately; a high-pitched, energetic female voice speaks in Mandarin, introducing a local breakfast spot. (2) The sound of a sizzling griddle is briefly audible over the music as the cooking process is shown, mixed with occasional cartoon-style sound effects during transitions. (3) The music maintains its tempo as the female host and a second female voice provide a dialogue-style review while eating, characterized by frequent exclamations of 'Mmm!' and satisfied vocalizations. (4) The vocals remain the primary focus until the end, where the music slightly swells before cutting off.",
+      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese consistently appear at the bottom center to translate the spoken dialogue. (2) Decorative/Effect Text: Variety-show style phrases like '我們員林人早餐都吃什麼' (What do Yuanlin people eat for breakfast?), '香' (Fragrant), and '柔軟' (Soft) appear in large, colorful fonts with outline effects to emphasize key points. (3) Brand/Info Text: The stall name '大同鍋貼' and its address in Yuanlin are displayed clearly during the intro and outro to provide location context."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 3.2,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro at the stall -> Cooking montage -> In-car tasting and detailed review -> Outro with recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 4,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Waist up",
+        "Hands only",
+        "Face close-up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator with pink hair, 1 female friend in the car, 1 elderly male stall owner, and 1 younger male staff member cooking.",
+      "mainCharacterDescription": "The primary creator has dyed bright pink hair tied back, wearing a white ribbed long-sleeve top, a black choker, and a denim miniskirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Inside Car",
+          "Food Stall"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The initial background is a bustling street with a yellow food stall sign '大同鍋貼' and parked cars; the later scenes take place inside the passenger seat of a modern car with a seatbelt visible.",
+      "lightingStyle": "Natural daylight",
+      "weather": "Sunny",
+      "season": "Summer",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Japanese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Potstickers",
+        "Dumplings",
+        "Soy Sauce",
+        "Cabbage filling"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Calvin Klein"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade with SFX",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and friendly",
+        "pitch": "High-pitched",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Taiwanese Hokkien"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Sizzling",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Street traffic",
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage -> Hook -> Evidence -> CTA",
+      "mainPurpose": "The video is a personal food recommendation vlog where the creator shares a nostalgic childhood breakfast spot (Datong Potstickers) in Yuanlin. It aims to showcase the unique 'soft' texture of the local potstickers compared to commercial chains and encourages viewers to try them or recommend other local delicacies.",
+      "visualEmotion": "Energetic and Cheerful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "Detailed filming of the food stall, specific address provided, and repeated high praise for the product.",
+      "endorsementObject": [
+        "大同鍋貼"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy clapping intro, colorful graphic text overlays, signature pink hair.",
+      "freeDescribe": "The video uses a 'hidden gem' narrative to build community engagement, specifically targeting residents of Changhua or food tourists."
+    }
+  }
+}

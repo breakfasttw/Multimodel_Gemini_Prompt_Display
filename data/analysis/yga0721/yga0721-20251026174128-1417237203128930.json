@@ -1,0 +1,187 @@
+{
+  "videoName": "yga0721-20251026174128-1417237203128930.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 66,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Lifestyle"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A man enters a modern apartment carrying a heavy suitcase and pushing a cart loaded with shopping bags. He immediately begins moving his luggage toward the living area. (2) The man starts an intensive unpacking process: he sorts laundry into a basket, stacks multiple snack boxes on a table, and uses a vacuum sealer to compress clothes. (3) A woman is shown intermittently, lying comfortably on a white sectional sofa, scrolling through her phone and relaxing while the man works. (4) The man continues his tasks in a fast-paced montage, organizing a pantry with snacks, hanging clothes in a walk-in closet, and sorting items into drawers. (5) The woman stands up briefly to hold up a new black-and-white patterned shirt with a smile before returning to her relaxed state. (6) The man moves to a laundry room to load a washing machine and spray stains on a white garment. (7) The video ends with the man sitting at a table looking completely exhausted, while the woman gets into bed with a large green plush toy and goes to sleep.",
+      "audio_narrative_log": "(1) Upbeat, quirky, and fast-paced background music plays throughout. (2) Loud sound effects are synced with the man's actions: the clicking of a door lock, the rustling of plastic bags, the sliding of suitcase zippers, and the 'thud' of boxes being stacked. (3) A female voice is heard briefly around the middle of the video, speaking in a casual, conversational tone. (4) At the end, a vacuum-sealing 'hiss' is heard, followed by a male voice making a long, exaggerated sigh of exhaustion. (5) The music remains consistent in volume until the final scene.",
+      "text_narrative_log": "(1) Functional Text: 'J 人 出國回家第一件事' (The first thing a J-person does after returning from abroad) is pinned at the top throughout. (2) Decorative/Hook Text: 'P人' (P-person) appears as a label whenever the woman is on screen to contrast her personality with the man's. (3) Functional Text: Subtitles translate the woman's question about what to eat and her comment about the shirt looking good."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 45,
+      "averageSceneDuration": 1.46,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Parallel montage of J-person working vs P-person relaxing -> Conclusion/Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Back view"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 main male character (J-person), 1 main female character (P-person)",
+      "mainCharacterDescription": "The man is wearing a white t-shirt and black-and-white striped pajamas. The woman is wearing a white blouse over a black top and a black skirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Apartment",
+          "Living Room",
+          "Pantry",
+          "Closet",
+          "Laundry Room"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A modern, minimalist, and well-lit apartment with white walls, wooden flooring, a large white sofa, a long dining table, and built-in white cabinetry.",
+      "lightingStyle": "Bright, even indoor studio-quality lighting.",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Follow shot",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Snack boxes",
+        "Instant noodles",
+        "Bottled water"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Washing machine",
+        "Dryer",
+        "Dyson Fan"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Gucci",
+        "Sports Direct",
+        "Whirlpool"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Low"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Casual and humorous",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Occasional narration",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 125,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drums"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Suitcase zipper",
+        "Box stacking thud",
+        "Vacuum sealer hiss",
+        "Exasperated sigh"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Comparison Montage -> Outro",
+      "mainPurpose": "The video uses a humorous montage to contrast two personality types (MBTI J vs P) when returning home from a trip. The 'J' character represents extreme organization, efficiency, and the need to immediately clean/unpack, while the 'P' character represents a laid-back, relaxed approach where rest takes priority over chores. It aims to entertain viewers by presenting relatable domestic scenarios through the lens of personality theory.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "MBTI labeling (J vs P), fast-paced housework montage vs. slow-paced relaxation.",
+      "freeDescribe": "The video relies heavily on the 'Judging vs Perceiving' MBTI trope common in social media content to drive engagement through relatability."
+    }
+  }
+}

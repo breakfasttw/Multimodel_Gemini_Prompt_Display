@@ -1,0 +1,178 @@
+{
+  "videoName": "3ctim-20251114091009-2341574769706070.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 50,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Vlog",
+        "Shopping Guide",
+        "Tech Review"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a close-up of a middle-aged man wearing a flat cap and glasses, pointing his finger towards the lens with large text overlays. (2) He speaks directly to the camera, using wide hand gestures to emphasize his points while variety-show style captions pop up. (3) A series of graphic overlays appear on the left side of the screen, listing specific smartphone models and price tables as he discusses them. (4) The video concludes with the man smiling and gesturing towards the viewer in a call to action.",
+      "audio_narrative_log": "(1) Upbeat, fast-tempo electronic background music starts immediately. An energetic male voice begins speaking in a friendly, persuasive tone. (2) The vocal remains constant and high-density, narrating over the music with clear articulation. (3) Occasional subtle sound effects (pings/dings) are heard when new text information or price points appear on screen. (4) The music maintains its volume and tempo until the very end, where it fades out alongside the speaker's final greeting.",
+      "text_narrative_log": "(1) Hook text: '普發一萬 怎麼花最划算?' (How to spend 10,000 most cost-effectively?) with an inquisitive tone. (2) Functional text listing phone brands and models: '小米 Note 14', 'HTC U23 Pro', 'realme 15', 'vivo Y39', 'OPPO A5 Pro', 'Samsung A系列' with literal prices in currency format. (3) Decorative emotional text: '你想好了嗎' (Have you thought about it?), 'CP值爆表' (Extreme value), '小資族首選' (Top choice for budget-conscious). (4) Final hook: '想換手機看這裡!' (Want a new phone? Look here!)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.7,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro Hook -> Product List Showcase -> Final Recommendation"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 1,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Head",
+        "Torso",
+        "Hands"
+      ],
+      "crowdLevel": "Single",
+      "countingEvidence": "1 male creator appears consistently throughout the frame.",
+      "mainCharacterDescription": "An Asian male with round glasses, wearing a grey flat cap, a white t-shirt with a 'C' logo, and several bead/woven bracelets on his right wrist."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "A simple, solid light-blue or grey studio backdrop with minimal distractions, focusing entirely on the speaker and the text overlays.",
+      "lightingStyle": "Intense studio lights",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "小米",
+        "HTC",
+        "realme",
+        "vivo",
+        "OPPO",
+        "三星"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut between spoken segments synced with text",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 0,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Friendly and humorous",
+        "pitch": "Normal",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Meme sounds",
+        "Ding"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> Outro",
+      "mainPurpose": "The video is a shopping recommendation guide designed to capture consumers' attention following a government stimulus payout. It provides a curated list of budget-friendly 5G smartphones, highlighting their price-to-performance ratio to help viewers make quick purchasing decisions.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed pricing tables and specific model recommendations with positive marketing adjectives suggest a commercial or affiliate intent.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy pointing gestures, specific flat cap style, and rapid-fire tech delivery characteristic of the creator '3cTim'.",
+      "freeDescribe": "The video effectively utilizes the 'square' aspect ratio for social media platforms, maximizing screen real estate with text overlays that are readable on mobile devices."
+    }
+  }
+}

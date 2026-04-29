@@ -1,0 +1,171 @@
+{
+  "videoName": "yga0721-20251121115711-25702245019444404.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 12,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Social Media Snippet"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video starts with a close-up shot of a woman in a pink top and a man in a black shirt sitting in a darkened audience setting; a RODE microphone is visible in the bottom left foreground. (2) The camera pans slightly as the man speaks animatedly, gesturing towards the woman who looks back with a skeptical and slightly confused facial expression. (3) The man continues to talk while leaning towards the camera, and the woman eventually breaks into a large, cheerful smile while holding a smartphone in her lap.",
+      "audio_narrative_log": "(1) A male voice speaks rapidly and energetically in Mandarin, accompanied by the muffled background chatter of a large room. (2) A female voice joins the conversation briefly with a questioning tone. (3) No background music is present; the audio consists entirely of vocal dialogue and the ambient hum of an indoor event space.",
+      "text_narrative_log": "(1) Functional Text: White Chinese subtitles appear at the bottom of the frame, translating the spoken dialogue between the two individuals in a humorous tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 12.0,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Constant talking interaction between two seated individuals at an event."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female, 1 main male, and at least 3 other people visible in the background seats.",
+      "mainCharacterDescription": "A woman with long dark hair wearing a light pink sleeveless top and a man with glasses wearing a black button-down shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Event Hall",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "Darkened room with rows of black chairs; a large bright green screen or stage lighting is visible in the upper right background.",
+      "lightingStyle": "Dim ambient lighting with bright green highlights from the background screen.",
+      "weather": "None",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural with green highlights",
+      "cameraWork": [
+        "Static",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Microphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "RODE"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Lively and conversational",
+        "pitch": "Normal",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": false,
+      "bgmGenre": "None",
+      "bgmBPM": 0,
+      "instrumentFamiliesAudible": [
+        "None"
+      ],
+      "instrumentsAudible": [
+        "None"
+      ],
+      "musicSourceType": [
+        "None"
+      ],
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet",
+        "Crowd chatter"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Interaction -> Reaction",
+      "mainPurpose": "The video aims to share a candid and humorous interaction between two public figures or influencers at an event. By capturing the contrast between the man's high-energy storytelling and the woman's skeptical but ultimately amused reaction, the content seeks to entertain followers and build a sense of relatability through 'behind-the-scenes' interpersonal dynamics.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "On-screen dialogue captions with specific colloquialisms.",
+      "freeDescribe": "The presence of a professional microphone suggests this is part of a larger production or press junket."
+    }
+  }
+}

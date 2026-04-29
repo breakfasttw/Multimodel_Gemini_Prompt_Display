@@ -1,0 +1,182 @@
+{
+  "videoName": "yga0721-20251220195159-1170335291631701.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 39,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Entertainment",
+        "Challenge"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) Three people (one male, two females) are in an indoor studio with display cabinets containing toys. They are laughing and preparing for a challenge. (2) A 2x4 grid appears on the screen showing various character portraits; the group gestures toward it rhythmically. (3) The scene shifts through multiple game rounds where different grids appear (animals, sushi, and squid); the male character points and reacts as the others cheer. (4) The male character successfully finishes a fast-paced naming sequence, leading to loud cheering and him striking a triumphant pose with his arms wide.",
+      "audio_narrative_log": "(1) A fast, rhythmic electronic beat starts with a heavy percussion focus. (2) Multiple voices are heard shouting names and categories (e.g., 'Bo Gui Gui', 'Sushi', 'Squid') in perfect sync with the beat. The tone is high-pitched, loud, and excited. (3) Frequent bursts of laughter and collective cheering occur as the challenge progresses. (4) The video ends with a sustained cheer and the music fading out.",
+      "text_narrative_log": "(1) '開始前...' (Before starting...) - Functional text indicating the preparation phase. (2) 'Round 1', 'Round 2' - Functional text marking game stages. (3) '馬上烙跑' (Running away immediately) with laughing emojis - Decorative text describing a character's reaction. (4) '第一個人就是嘎哥' (The first person is Ga Ge) - Functional text identifying a character. (5) '全對了嗎???' (Is it all correct???) - Hook text to engage viewers. (6) '嘎哥造謠的實力...' (Ga Ge's skill at making things up...) - Humorous caption."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 1.77,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Game Round 1 -> Game Round 2 -> Success Reaction"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male creator, 2 female co-creators/assistants in the studio.",
+      "mainCharacterDescription": "A male in a white short-sleeved sweater and dark red pleated pants; one female in a cream hoodie; one female in a black and white striped long-sleeve shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Indoor"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "An indoor room with white walls and large glass display cases filled with character merchandise, toys, and collectibles.",
+      "lightingStyle": "Bright studio lights",
+      "weather": "Indoor",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural and bright",
+      "cameraWork": [
+        "Static",
+        "Pan"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Dog",
+        "Cat",
+        "Cow",
+        "Sheep",
+        "Lion",
+        "Elephant"
+      ],
+      "foodsDetect": [
+        "Sushi",
+        "Squid",
+        "Octopus"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Da Fan Ge"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and energetic",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Extremely fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 135,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Buzzer",
+        "Cheering"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Game Challenge -> Climax -> Reaction",
+      "mainPurpose": "To showcase a fast-paced reaction challenge for entertainment. The video captures the high energy and camaraderie of the creators as they attempt to name items on a screen in sync with a rapid-fire musical beat, aiming to amuse and engage the audience through their successful (or humorous) performance.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Variety-show style captions, rhythmic naming game, 'Ga Ge' branding.",
+      "freeDescribe": "The video uses a popular short-form content format (rhythm challenge) to drive engagement, relying on fast editing and high-energy vocals."
+    }
+  }
+}

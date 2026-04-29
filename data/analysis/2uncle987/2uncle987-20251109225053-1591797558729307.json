@@ -1,0 +1,186 @@
+{
+  "videoName": "2uncle987-20251109225053-1591797558729307.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 75,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Behind the Scenes",
+        "Promotion"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video opens on a busy city street where three young women are standing; the woman in the center, wearing a beige hoodie and an Adidas cap, talks excitedly to the camera with expressive hand gestures. (2) The scene transitions to the interior of a skincare factory/laboratory where a man in a white lab coat and hairnet explains the facility to the main woman (now also in protective gear); subsequent shots show large stainless steel vats, mechanical stirring of clear liquids, and laboratory equipment like viscometers and incubators. (3) Automated machinery is seen filling red dropper bottles and green plastic bottles, followed by a worker inspecting them and a machine sealing boxes in plastic. (4) The video returns to the street where the three women summarize their visit, laughing and waving goodbye.",
+      "audio_narrative_log": "(1) Upbeat, high-tempo electronic pop music plays throughout; a high-pitched, energetic female voice speaks quickly. (2) A calm, steady male voice enters briefly to explain technical details, followed by various mechanical sound effects including 'swishes' for transitions, beeps from equipment, and the rhythmic clicking of the assembly line. (3) Multiple female voices are heard laughing and talking simultaneously at the end, concluding with a synchronized 'bye-bye' as the music fades.",
+      "text_narrative_log": "(1) Functional text: '訪廠行程 - 保養品工廠' (Visit itinerary - skincare factory). (2) Descriptive text for the process: '原物料檢驗' (Raw material inspection), '四大菌種去培植' (Cultivating four major strains), '層層把關 請安心!' (Strict control, please rest assured!), '添加滿滿功效成分' (Adding full efficacy ingredients). (3) Production details: '配方打樣' (Formula sampling), '低溫培養箱' (Low-temperature incubator), '自動化填充' (Automated filling), '雙重檢查' (Double check). (4) Hook/Emotional text: '準備交到你們手上囉 <3' (Ready to be delivered to your hands) and '下次見拜拜' (See you next time bye bye)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Factory process montage -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Waist up"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 2 female companions, 1 male factory expert, 1 female factory worker.",
+      "mainCharacterDescription": "A young woman wearing a beige Adidas baseball cap, a beige zip-up hoodie, and a Prada crossbody bag."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Indoor Factory",
+          "Laboratory"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "The outdoor scene features a typical urban street with tall buildings and signs; the indoor scene is a clean, white-walled industrial laboratory with stainless steel machinery, testing equipment, and organized storage shelves.",
+      "lightingStyle": "Natural daylight outdoors; bright, cool-toned fluorescent studio/lab lighting indoors.",
+      "weather": "Overcast",
+      "season": "Autumn/Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Close-up"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Scooter"
+      ],
+      "techDetect": [
+        "Viscometer",
+        "Incubator",
+        "Automated Production Line"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "haha baby",
+        "adidas",
+        "PRADA",
+        "GALILEI",
+        "BROOKFIELD AMETEK"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade with SFX",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 4,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 3,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited and professional",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Electronic",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": [
+        "Stock"
+      ],
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Swish",
+        "Beep",
+        "Mechanical Whirring"
+      ],
+      "ambientNoise": [
+        "Traffic",
+        "Studio quiet"
+      ],
+      "audioQuality": "Field"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Outro",
+      "mainPurpose": "The video is a promotional vlog designed to build brand trust for 'haha baby' skincare products. By providing a 'behind-the-scenes' tour of the factory, showcasing professional testing (viscosity, temperature stability), and high-tech automated production, the creator aims to demonstrate product safety and manufacturing excellence to her audience.",
+      "visualEmotion": "Energetic and Reassuring"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator visits the factory specifically to show how the brand's products are made, with prominent logos and text encouraging trust.",
+      "endorsementObject": [
+        "haha baby"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy female-led vlog style with frequent text overlays and mechanical SFX transitions.",
+      "freeDescribe": "The video uses fast-paced editing and beat-syncing to keep younger audiences engaged while delivering information about industrial quality control."
+    }
+  }
+}
