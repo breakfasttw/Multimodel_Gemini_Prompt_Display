@@ -14,6 +14,11 @@ export const APP_CONFIG = {
         text_members: "./data/text_cluster_pca-umap-10.csv",
         mix_members: "./data/mix_cluster_pca-umap-8.csv",
         ig_names: "./data/ownerid_mapping.csv",
+
+        all_influencers: "./data/influencer_all_info.csv", // 或你的 xlsx 轉出的 csv
+        video_info_dir: "./data/Top200_VideoInfo", // 存放 {ig_id}-FullVideoInfo.csv 的資料夾
+        video_details_dir: "./data/json_description", // 存放合併後 {ig_id}.json 的資料夾
+        ig_names: "./data/ownerid_mapping.csv",
     },
     // 下拉選單選項
     MODES: [
