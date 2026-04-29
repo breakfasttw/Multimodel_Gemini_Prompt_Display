@@ -42,6 +42,9 @@ export async function renderFeaturesView(type) {
         const clusterLabelIdx = headers.indexOf("cluster_label");
         const textContentIdx = headers.indexOf(TEXT_FIELD_MAP[type]);
 
+        // 新增：取得 Influencer 的索引
+        const influencerIdx = headers.indexOf("Influencer");
+
         if (
             videoNameIdx === -1 ||
             clusterLabelIdx === -1 ||
@@ -62,8 +65,12 @@ export async function renderFeaturesView(type) {
             const videoName = cols[videoNameIdx].trim().replace(/"/g, "");
             const desc = cols[textContentIdx].trim().replace(/"/g, "");
 
+            // 新增：取得該列的網紅名稱
+            const influencer = cols[influencerIdx].trim().replace(/"/g, "");
+
             if (!groups[label]) groups[label] = [];
-            groups[label].push({ videoName, desc });
+            // 將 influencer 一併存入 group 中
+            groups[label].push({ videoName, desc, influencer });
         });
 
         // 渲染 HTML
@@ -73,6 +80,7 @@ export async function renderFeaturesView(type) {
         const sortedLabels = Object.keys(groups).sort(
             (a, b) => Number(a) - Number(b),
         );
+
 
         sortedLabels.forEach((label) => {
             const members = groups[label];
@@ -92,16 +100,30 @@ export async function renderFeaturesView(type) {
                     <div class="accordion-content hidden border-t border-slate-800">
                         <div class="max-h-[600px] overflow-y-auto p-6 space-y-6 custom-scrollbar bg-slate-950/30">
                             ${members
-                                .map(
-                                    (m) => `
-                                <div class="space-y-2 group">
-                                    <h4 class="text-blue-300 font-mono text-md group-hover:text-blue-200 transition"># [${m.videoName}]</h4>
-                                    <p class="text-slate-200 text-[16px] leading-relaxed pl-4 border-l-2 border-slate-800 group-hover:border-blue-500/50 transition">
-                                        ${m.desc.replace(/\\n/g, "<br>")}
-                                    </p>
-                                </div>
-                            `,
-                                )
+                                .map((m) => {
+                                    // 核心修改：生成帶有 Token 的影片連結
+                                    const videoUrl = `${APP_CONFIG.VIDEO_API_BASE}/${m.influencer}/${m.videoName}?token=${APP_CONFIG.VIDEO_TOKEN}`;
+
+                                    return `
+                                    <div class="space-y-2 group">
+                                        <h4 class="text-blue-300 font-mono text-md group-hover:text-blue-200 transition">
+                                            <a href="${videoUrl}" 
+                                               target="_blank" 
+                                               class="hover:underline flex items-center gap-2"
+                                               title="點擊預覽影片">
+                                               <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                   <path d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" />
+                                                   <path d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                               </svg>
+                                               # [${m.videoName}]
+                                            </a>
+                                        </h4>
+                                        <p class="text-slate-200 text-[16px] leading-relaxed pl-4 border-l-2 border-slate-800 group-hover:border-blue-500/50 transition">
+                                            ${m.desc.replace(/\\n/g, "<br>")}
+                                        </p>
+                                    </div>
+                                `;
+                                })
                                 .join("")}
                         </div>
                     </div>

@@ -1,4 +1,5 @@
 // config.js
+import { ENV } from "./env.js"; // 這裡會導入本機的私密變數
 export const APP_CONFIG = {
     // 數據來源路徑
     DATA_PATHS: {
@@ -34,4 +35,8 @@ export const APP_CONFIG = {
         "low_inference_observations.visual_objects_and_brands.techDetect",
         "low_inference_observations.audio_vocal_characterization.vocal_qualities.language",
     ],
+
+    // 影片 API 設定
+    VIDEO_API_BASE: ENV?.VIDEO_API_BASE || "",
+    VIDEO_TOKEN: ENV?.VIDEO_TOKEN || "",
 };
