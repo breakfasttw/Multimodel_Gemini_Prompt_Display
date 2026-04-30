@@ -91,18 +91,38 @@ function renderInfluencerList() {
     let html = `<div class="p-6 space-y-4 max-w-7xl mx-auto">`;
 
     influencerData.forEach((inf) => {
+        const categoryHtml = String(inf.category || "未分類")
+            .split(",")
+            .filter((c) => c.trim() !== "")
+            .map((cat) => {
+                const cleanCat = cat.trim();
+                // 取得對應顏色，若無則使用預設色
+                const color =
+                    APP_CONFIG.CATEGORY_COLORS[cleanCat] ||
+                    APP_CONFIG.CATEGORY_COLORS["default"];
+
+                // 使用回傳的顏色動態設定：背景色(20%透明度)、邊框色、文字色
+                return `
+                <span class="px-2 py-0.5 rounded-full border text-[12px] whitespace-nowrap transition-all" 
+                    style="; border-color: ${color}; color: ${color};">
+                    ${cleanCat}
+                </span>`;
+            })
+            .join("");
+
         html += `
             <div class="border border-slate-800 rounded-lg overflow-hidden bg-slate-900/50 shadow-sm">
                 <div class="accordion-header flex justify-between items-center p-4 cursor-pointer hover:bg-slate-800/80 transition" 
                      onclick="toggleInfluencer('${inf.ig_id}', this)">
-                    <div class="flex items-center gap-3">
+                    <div class="flex items-center gap-4">
                         <span class="text-blue-500 font-mono font-bold">${inf.Aisa_Order}</span>
                         <span class="font-bold text-blue-300 text-lg">${inf.person_name}</span>
                         <a href="${inf.ig_url}" target="_blank" class="text-slate-300 hover:text-blue-400 text-sm transition" onclick="event.stopPropagation()">
                             ${inf.ig_id}
                         </a>
-                        <span class="text-slate-700">|</span>
-                        <span class="text-slate-200 text-sm bg-slate-800 px-2 py-0.5 rounded">${inf.category || "未分類"}</span>
+                        <div class="flex gap-1 items-center">
+                            ${categoryHtml}
+                        </div>
                     </div>
                     <div class="text-slate-300 text-sm flex items-center gap-2">
                         <span> ${Math.floor(inf.posts).toLocaleString("en-US", { maximumFractionDigits: 0 })} 貼文, </span>

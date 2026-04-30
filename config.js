@@ -47,4 +47,32 @@ export const APP_CONFIG = {
     VIDEO_API_BASE: "http://140.109.171.245:8080/stream",
     VIDEO_TOKEN:
         "Ij56g2T8wER55H692A04PYK9QMV2I46UPr9U7Q2W0M5E1X3T2AP4ETUIF2NO1R9B7I3LEVPIM",
+
+    // 類別顏色對應
+    CATEGORY_COLORS: {
+        "3C科技": "#4A90E2",
+        遊戲電玩: "#2ff9db",
+        汽機車: "#2c9db6",
+        影視評論: "#50e3ad",
+        理財創業: "#587495",
+        運動健身: "#8ab1c5",
+        高階經理人: "#2e2d2d",
+        醫療健康: "#999494",
+
+        知識教育: "#B8E986",
+        時事討論: "#72ad6a",
+        旅遊: "#91e432",
+        美食料理: "#F8E71C",
+        寵物: "#acb924",
+        趣味搞笑: "#ffffff",
+        表演藝術: "#d1b3e4",
+
+        家庭母嬰: "#f1ba4b",
+        帶貨分潤: "#d5981e",
+        時尚潮流: "#FF4081",
+        美妝保養: "#E91E63",
+
+        綜合其他: "#a59c9c",
+        default: "#64748b", // 意外處理預設色
+    },
 };
