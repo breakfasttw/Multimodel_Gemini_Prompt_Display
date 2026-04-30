@@ -44,6 +44,6 @@ export const APP_CONFIG = {
     ],
 
     // 影片 API 設定 (從 envConfig 讀取)
-    VIDEO_API_BASE: env.VIDEO_API_BASE,
-    VIDEO_TOKEN: env.VIDEO_TOKEN,
+    VIDEO_API_BASE: env.VIDEO_API_BASE || "REPLACE_ME_API_BASE",
+    VIDEO_TOKEN: env.VIDEO_TOKEN || "REPLACE_ME_TOKEN",
 };

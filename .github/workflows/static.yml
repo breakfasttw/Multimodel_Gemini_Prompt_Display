@@ -1,6 +1,4 @@
-- name: Generate env.js
+- name: Inject Secrets into config.js
         run: |
-          echo "window.ENV = {
-            VIDEO_API_BASE: '${{ secrets.VIDEO_API_BASE }}',
-            VIDEO_TOKEN: '${{ secrets.VIDEO_TOKEN }}'
-          };" > env.js
+          sed -i "s|REPLACE_ME_API_BASE|${{ secrets.VIDEO_API_BASE }}|g" config.js
+          sed -i "s|REPLACE_ME_TOKEN|${{ secrets.VIDEO_TOKEN }}|g" config.js

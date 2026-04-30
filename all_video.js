@@ -329,6 +329,10 @@ function renderVideoDashboard(
         ? json.low_inference_observations.perceptual_narrative_logs
         : null;
 
+    const outerLink = csv.short_code
+        ? `https://www.instagram.com/reel/${csv.short_code}`
+        : null;
+
     container.innerHTML = `
         <div class="max-h-[80vh] flex flex-col overflow-y-auto custom-scrollbar text-slate-200 bg-[#0f172a]">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-px bg-slate-800 shrink-0">
@@ -337,7 +341,14 @@ function renderVideoDashboard(
                         <span class="w-1 h-4 bg-blue-500 rounded-full"></span> Metadata
                     </h4>
                     <div class="space-y-2 text-sm">
-                        <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">外部連結：</span><span>${csv.short_code || ""}</span></div>
+                        <div class="flex border-b border-slate-800/50 py-1">
+                            <span class="text-slate-500 w-24 shrink-0">外部連結：</span>
+                            ${
+                                outerLink
+                                    ? `<a href="${outerLink}" target="_blank" class="text-blue-400 hover:underline truncate">link</a>`
+                                    : ""
+                            }
+                        </div>
                         <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">內部連結：</span><a href="${videoUrl}" target="_blank" class="text-blue-400 hover:underline truncate">link</a></div>
                         <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">建立日期：</span><span class="font-mono text-slate-300">${csv.creation_time_tw}</span></div>
                         <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">最後更新：</span><span class="font-mono text-slate-300">${csv.modified_time_tw}</span></div>
