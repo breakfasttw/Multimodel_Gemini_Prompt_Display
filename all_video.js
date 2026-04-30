@@ -97,12 +97,12 @@ function renderInfluencerList() {
                      onclick="toggleInfluencer('${inf.ig_id}', this)">
                     <div class="flex items-center gap-3">
                         <span class="text-blue-500 font-mono font-bold">${inf.Aisa_Order}</span>
-                        <span class="font-bold text-slate-100 text-lg">${inf.person_name}</span>
-                        <a href="${inf.ig_url}" target="_blank" class="text-slate-400 hover:text-blue-400 text-sm transition" onclick="event.stopPropagation()">
+                        <span class="font-bold text-blue-300 text-lg">${inf.person_name}</span>
+                        <a href="${inf.ig_url}" target="_blank" class="text-slate-300 hover:text-blue-400 text-sm transition" onclick="event.stopPropagation()">
                             ${inf.ig_id}
                         </a>
                         <span class="text-slate-700">|</span>
-                        <span class="text-slate-400 text-sm bg-slate-800 px-2 py-0.5 rounded">${inf.category || "未分類"}</span>
+                        <span class="text-slate-200 text-sm bg-slate-800 px-2 py-0.5 rounded">${inf.category || "未分類"}</span>
                     </div>
                     <div class="text-slate-300 text-sm flex items-center gap-2">
                         <span> ${Math.floor(inf.posts).toLocaleString("en-US", { maximumFractionDigits: 0 })} 貼文, </span>
@@ -179,8 +179,8 @@ window.toggleInfluencer = async (ig_id, el) => {
                     .map((v) => {
                         // 標題文字預覽處理 (前 20 字)
                         const previewText = v.text
-                            ? v.text.length > 40
-                                ? v.text.substring(0, 40) + "..."
+                            ? v.text.length > 50
+                                ? v.text.substring(0, 50) + "..."
                                 : v.text
                             : "(無文字內容)";
 
@@ -189,10 +189,10 @@ window.toggleInfluencer = async (ig_id, el) => {
                         <div class="p-3 cursor-pointer hover:bg-slate-800/40 flex justify-between items-center text-sm transition" 
                              onclick="toggleVideoDetail('${ig_id}', '${v.media_id}', '${v.modified_time_tw}', this)">
                             <div class="flex items-center gap-6 overflow-hidden">
-                                <span class="text-slate-500 font-mono shrink-0">${(v.creation_time_tw || "").split("+")[0]}</span>
-                                <span class="text-blue-300/60 font-mono shrink-0">${v.media_id}</span>
-                                <span class="text-slate-600 shrink-0 font-bold">${v.duration}s</span>
-                                <span class="text-slate-400 truncate italic">| ${previewText.replace(/\n/g, " ")}</span>
+                                <span class="text-slate-300 font-mono shrink-0">${(v.creation_time_tw || "").split("+")[0]}</span>
+                                <span class="text-blue-300 font-mono shrink-0">${v.media_id}</span>
+                                <span class="text-slate-300 shrink-0 ">${v.duration}s</span>
+                                <span class="text-slate-200 truncate italic">| ${previewText.replace(/\n/g, " ")}</span>
                             </div>
                             <svg class="w-4 h-4 text-slate-600 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M19 9l-7 7-7-7"/></svg>
                         </div>
