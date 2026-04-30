@@ -43,7 +43,8 @@ export const APP_CONFIG = {
         "low_inference_observations.audio_vocal_characterization.vocal_qualities.language",
     ],
 
-    // 影片 API 設定 (從 envConfig 讀取)
-    VIDEO_API_BASE: env.VIDEO_API_BASE || "REPLACE_ME_API_BASE",
-    VIDEO_TOKEN: env.VIDEO_TOKEN || "REPLACE_ME_TOKEN",
+    // 影片 API 設定
+    VIDEO_API_BASE: "http://140.109.171.245:8080/stream",
+    VIDEO_TOKEN:
+        "Ij56g2T8wER55H692A04PYK9QMV2I46UPr9U7Q2W0M5E1X3T2AP4ETUIF2NO1R9B7I3LEVPIM",
 };

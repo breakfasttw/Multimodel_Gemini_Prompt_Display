@@ -21,15 +21,14 @@ window.openVideo = async (influencer, videoName) => {
 
         const data = await response.json();
         if (data.ticket) {
-            // 拿到臨時通行證後開啟影片
-            const finalUrl = `${APP_CONFIG.VIDEO_API_BASE}/${influencer}/${videoName}?ticket=${data.ticket}`;
+            const finalUrl = `${APP_CONFIG.VIDEO_API_BASE}/${influencer}/${videoName}?ticket=${APP_CONFIG.VIDEO_TOKEN}`;
             window.open(finalUrl, "_blank");
         } else {
             alert("驗證失敗");
         }
     } catch (err) {
         console.error("影片服務連線失敗:", err);
-        alert("無法連線至影片伺服器，請確保您在公司網域內。");
+        alert("無法連線至影片伺服器。");
     }
 };
 
