@@ -1,0 +1,6 @@
+- name: Generate env.js
+        run: |
+          echo "window.ENV = {
+            VIDEO_API_BASE: '${{ secrets.VIDEO_API_BASE }}',
+            VIDEO_TOKEN: '${{ secrets.VIDEO_TOKEN }}'
+          };" > env.js

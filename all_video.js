@@ -338,7 +338,7 @@ function renderVideoDashboard(
                     </h4>
                     <div class="space-y-2 text-sm">
                         <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">外部連結：</span><span>${csv.short_code || ""}</span></div>
-                        <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">內部連結：</span><a href="${videoUrl}" target="_blank" class="text-blue-400 hover:underline truncate">${videoUrl}</a></div>
+                        <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">內部連結：</span><a href="${videoUrl}" target="_blank" class="text-blue-400 hover:underline truncate">link</a></div>
                         <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">建立日期：</span><span class="font-mono text-slate-300">${csv.creation_time_tw}</span></div>
                         <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">最後更新：</span><span class="font-mono text-slate-300">${csv.modified_time_tw}</span></div>
                         <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">留言數量：</span><span class="font-mono text-emerald-400">${Math.floor(csv["statistics.comment_count"]).toLocaleString("en-US", { maximumFractionDigits: 0 }) || 0}</span></div>
@@ -350,7 +350,7 @@ function renderVideoDashboard(
                         <div class="pt-3">
 
                             <span class="text-slate-500 block text-xs mb-1">文字內容：</span>
-                            <p class="text-slate-400 leading-relaxed whitespace-pre-wrap text-xs bg-slate-950/50 p-3 rounded border border-slate-800">${csv.text || "(無內文)"}</p>
+                            <p class="text-slate-300 leading-relaxed whitespace-pre-wrap text-s bg-slate-950/50 p-3 rounded border border-slate-800">${csv.text || "(無內文)"}</p>
                         </div>
                     </div>
                 </div>
