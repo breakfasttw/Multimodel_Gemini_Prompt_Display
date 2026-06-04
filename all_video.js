@@ -374,7 +374,6 @@ async function parseGlobalMediaData(csvText) {
     mediaIdIndex = nextMediaIdIndex;
 }
 
-
 /**
  * 渲染主 Layout。
  */
@@ -424,8 +423,13 @@ function renderSearchFilterPanel() {
             <div class="flex items-center justify-center gap-4 min-h-[96px]">
                 <div class="w-7 h-7 rounded-full border-2 border-slate-700 border-t-blue-500 animate-spin"></div>
                 <div class = "text-center">
-                    <div class="text-slate-200 font-bold text-sm">資料載入中，請稍後...</div>
-                    <div class="text-slate-300 text-xs mt-1">大約等個十幾秒，手風琴稍後才能展開 <br>閒著也是閒著，來看首唐詩：朱熹《春日》<br> 勝日尋芳泗水濱，無邊光景一時新。等閒識得東風面，萬紫千紅總是春。</div>
+                    <div class="text-slate-200 font-bold text-sm leading-relaxed">資料載入中，請稍後...</div>
+                    <div class="text-slate-300 text-xs mt-1 leading-relaxed">大約等個二十秒，手風琴稍後才能展開，閒著也是閒著，來看優美的台語詩
+                        <br> <i class="leading-relaxed">温若喬 《日花閃爍》🌠</i>
+                        <br> <i class="leading-relaxed">暗暝的飛行機親像一隻船，寬寬仔流過天頂的河溪</i>
+                        <br> <i class="leading-relaxed">滿路的星光若船尾淡出的水花，閃爍咧相送</i>
+                        <br> <i class="leading-relaxed">望漂浪的人平安去到好風日的勝地</i>
+                    </div>
                 </div>
             </div>
         </div>`;
