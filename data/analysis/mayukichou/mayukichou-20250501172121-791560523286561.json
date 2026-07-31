@@ -1,0 +1,271 @@
+{
+  "videoName": "mayukichou-20250501172121-791560523286561.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 6,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long brown hair, wearing dark sunglasses and a unique blazer featuring one solid black side and one pinstriped side, poses confidently in a bright, modern studio. She starts with her arms crossed, then transitions to touching her hair and placing her hands on her hips. The background consists of large floor-to-ceiling windows showing an urban skyline and beige pampas grass decorations. (2) The scene cuts to a cluttered showroom environment. The same woman is now dressed casually in a white t-shirt and a white baseball cap, crouched on the floor behind a rack of clothing and bags. She looks up toward the camera with an expression of confusion or exhaustion, holding a beige bag.",
+      "text_narrative_log": "(1) [Subtitle]: 你以為的服裝品牌老闆. (2) [Subtitle]: 真實的服裝品牌老闆. (3) [Subtitle]: 忙到一臉懵.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female character throughout both scenes.",
+        "mainCharacterDescription": "A young woman wearing a stylish dual-toned blazer and sunglasses initially, later seen in a casual white t-shirt and an NYC branded baseball cap."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Fashion / Beauty Store"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A high-rise studio with large windows and a city view, and a retail-style showroom filled with clothing racks, bags, and mirrors.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "NYC"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Human Vocal SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy electronic dance music with a heavy kick drum and bright, rhythmic synthesizer patterns plays at a steady tempo. The audio is extremely clean and polished. (2) A sharp, synthesized 'whoosh' transition sound occurs, immediately cutting off the upbeat music. This is followed by a high-pitched, comical female vocal sound effect saying 'Hello?' which is layered over a brief, low-tempo comedic stinger that uses a different, more whimsical synthesizer tone."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Lifestyle",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 3.0,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Contrast -> Punchline",
+      "mainPurpose": "The video uses a humorous 'Expectation vs. Reality' comparison to show that the life of a clothing brand owner is not just posing and glamour, but also involves significant behind-the-scenes hard work and manual labor. It relies on a sharp audio-visual transition to deliver the comedic shift in tone.",
+      "visualEmotion": [
+        "energetic",
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A classic short-form social media template utilizing a high-contrast transition for comedic effect."
+  }
+}

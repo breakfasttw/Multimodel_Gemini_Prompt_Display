@@ -1,0 +1,268 @@
+{
+  "videoName": "daiying0-20251017223017-1937394944328784.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 14,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long black hair and bangs is centered in the frame, wearing a brown and white fur collar and a large, ornate tribal-style necklace featuring orange amber and teal turquoise stones. Her makeup is vibrant with bright red lipstick and pink eyeshadow, and she smiles gently against a static backdrop of a snow-covered winter forest. (2) She raises her bare left hand and performs a friendly wave toward the lens while her facial expression remains warm and inviting, looking directly at the camera while the background remains static. (3) The shot transitions to an extreme close-up of her face, framed by her hands positioned horizontally. She now has white tribal makeup patterns consisting of dots and lines on her cheekbones, staring intensely into the lens before breaking into a wide, happy smile that reveals her teeth.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female main character",
+        "mainCharacterDescription": "A young woman with long black hair and bangs, wearing a stylized brown and white fur garment and a heavy ethnic necklace with amber beads."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Animation / Graphic Background"
+        ],
+        "locationTopography": [
+          "Forest"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A static graphic background depicting a winter scene with snow-covered branches and trees under a grey, overcast sky.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Snowy / Clear"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Extreme close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Ambient"
+        ],
+        "tempoBPM": 80,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a slow-tempo, ethereal pop track featuring a breathy female vocal singing the lyric 'You really know how to make me cry when you give me those ocean eyes.' The sound is clean, studio-processed, and focuses on a soft synthesizer bed with a gentle harmonic progression. (2) A sharp, synthesized 'whoosh' transition effect cuts in, leading to a more atmospheric version of the track. The female vocals are now layered with a heavy, long-tail reverb, emphasizing the words 'ocean eyes' while deep, resonating bass synths swell in the background to create a sense of dramatic, melancholic space."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Selfie / Portrait",
+        "Music / Performance / MV"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 4.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Introduction -> Gesture -> Emotional Reveal",
+      "mainPurpose": "A portrait-style visual showcase featuring a woman in stylized winter clothing and makeup, using extreme close-ups and an emotional pop song to create a moody and aesthetic atmosphere.",
+      "visualEmotion": [
+        "calm",
+        "warm",
+        "ethereal"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video utilizes a high-contrast transition from a standard medium shot to an extreme eye-level close-up to emphasize makeup details and emotional expression."
+  }
+}

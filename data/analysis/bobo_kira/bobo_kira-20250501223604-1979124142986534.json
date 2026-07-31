@@ -1,0 +1,172 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 8.16,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young girl with straight black hair and bangs, wearing a pink sweatshirt with a bear illustration and the word 'DELICIOUS' and white leggings, stands in a living room holding a small black-and-white panda plushie. A young boy in a navy blue fuzzy hoodie stands to her right, smiling. In the background, a man in a black shirt is partially visible sitting on a blue fabric sofa. The room features a gray wall, a light-colored tiled floor, and warm indoor lighting. (2) The girl begins to chant rhythmically, bobbing the panda plushie up and down while looking towards the camera. The boy watches her with an amused expression, shifting his stance. Yellow subtitles appear at the bottom center of the frame. (3) The girl raises her right arm and makes a circular, rhythmic gesture in the air while continuing her chant. She looks focused and energetic, mimicking a viral social media trend. The panda plushie is held in her left hand near her waist. (4) The girl lowers her arm and gestures towards the boy as if finishing a demonstration, speaking directly to him or the camera. The boy continues to smile and briefly sticks his tongue out playfully. The panda plushie rests on the floor between them in the final moments.",
+      "text_narrative_log": "(1) [Subtitle]: 肯恰拿. (2) [Subtitle]: 叮叮叮叮叮. (3) [Subtitle]: 鼠來寶要這樣子肯恰拿. (4) [Subtitle]: 叮叮叮叮叮. (5) [Subtitle]: 這樣子就OK了.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 2,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": ["Full body", "Upper body", "Feet / Legs", "Face"],
+        "crowdLevel": ["Small Group"],
+        "countingEvidence": "One young girl in pink (main), one boy in blue, and one man sitting in the background.",
+        "mainCharacterDescription": "A young girl with bangs wearing a pink sweatshirt and white leggings, holding a panda plushie."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": ["Indoor Living Room"],
+        "locationTopography": ["Plain / Flat Urban"],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A domestic indoor living room with a navy blue fabric sofa, neutral gray-painted walls, and a light-colored tiled floor. A few items like a yellow toy and a cushion are visible on the sofa.",
+        "lightingStyle": ["Warm indoor lighting"],
+        "weather": ["Indoor / not visible"],
+        "season": ["Not visually inferable"],
+        "colorTone": ["Natural and bright"]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": ["Static"],
+        "shotSize": ["Medium full shot"],
+        "cameraAngles": ["Eye-level"],
+        "editingTechniques": ["None"],
+        "visualRhythm": ["Natural pace"],
+        "takeStructure": ["Single continuous take"]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": ["Traditional Chinese"],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": ["Plush / decoration / toy animal"],
+        "foodsDetect": ["None"],
+        "trafficDetect": ["None"],
+        "techDetect": ["None"],
+        "landmark": ["None"],
+        "brandLogos": ["None"],
+        "instrumentsVisible": ["None"]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": ["Animated/Excited"],
+        "vocalLanguage": ["Traditional Chinese"],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": ["Complex"],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": ["Meme/Comedy"],
+        "tempoBPM": 124,
+        "mode": ["Major / Ionian"]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": ["None"]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": ["Electronic", "Synthesizer", "Percussion"],
+        "instrumentsAudible": ["Electronic Keyboard / Synthesizer"],
+        "musicSourceType": ["Stock/Royalty-Free"],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": ["None"],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": ["Indoor/RoomTone"],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": ["Other"],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": ["None"],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": ["None"],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": ["Low-fi/Phone"]
+      },
+      "audio_narrative_log": "(1) A young girl's voice begins with a high-pitched, rhythmic vocalization of the Korean word 'Kenchana' (Gwenchana), followed by a rapid, metered 'ding ding ding' chant. The speech is clear and high-arousal. A consistent electronic drum beat with synth highlights plays at a moderate-fast tempo in the background. (2) The girl continues her rhythmic chant, maintaining a playful and enthusiastic tone. The background music remains steady, perfectly synchronizing with her vocal rhythm. Low-level ambient room noise is audible but does not interfere with the primary signal. (3) The speaker's tone shifts slightly as she explains a specific way to perform the 'Alvin and the Chipmunks' style chant, then resumes the 'ding ding ding' sequence with high energy. The acoustic environment remains consistent, indicating a single-take recording in a quiet room. (4) The girl concludes her vocal performance with a short sentence in Mandarin. The background music fades slightly as the recording ends. The overall audio mix is dominated by the child's voice over a simple, repetitive meme-style backing track."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": ["Family / Kids", "Short Video", "Comedy"],
+      "location": {
+        "country": ["Unknown"],
+        "city": ["None"]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 8.16,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Execution -> Conclusion",
+      "mainPurpose": "To showcase a young girl playfully recreating a viral internet meme (the 'Gwenchana' chant) for entertainment and family bonding purposes.",
+      "visualEmotion": ["energetic", "humorous", "warm"]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": ["None"],
+      "endorsementCues": "None",
+      "endorsementObject": ["None"]
+    },
+    "freeDescribe": "The video captures a child performing a trending social media meme in a home setting, characterized by high energetic arousal and rhythmic synchronization between visuals and audio."
+  }
+}

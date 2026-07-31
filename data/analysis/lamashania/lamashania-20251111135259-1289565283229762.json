@@ -1,0 +1,268 @@
+{
+  "videoName": "lamashania-20251111135259-1289565283229762.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 47,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) 00:00 - 00:47: The video displays a central female character with short black hair, wearing a cream-colored knit sweater and a pearl necklace. She sits in a brightly lit indoor home kitchen or studio space. She is wearing professional silver and black over-ear headphones and is singing into a large black studio condenser microphone mounted on a boom arm. Her facial expressions are highly emotive, with her eyes frequently closing and her mouth opening wide to hit specific notes. She occasionally gestures slightly with her head and torso to the rhythm of her singing. The background features light-colored modern cabinetry, a wooden shelf with a few mugs, and a marble countertop. The lighting is soft and even, suggesting a bright indoor setting. White Chinese subtitles appear at the bottom center of the screen throughout the performance. The camera is static in a medium close-up shot, maintaining a consistent focus on the singer's upper body and head.",
+      "text_narrative_log": "(1) [Subtitle]: 我只在乎你. (2) [Subtitle]: 任時光匆匆流去 我只在乎你. (3) [Subtitle]: 心甘情願 感染你的氣息. (4) [Subtitle]: 人生幾何 能夠得到知己. (5) [Subtitle]: 失去生命的力量 也不可惜. (6) [Subtitle]: 所以我求求你. (7) [Subtitle]: 別讓我離開你. (8) [Subtitle]: 除了你我不能感到一絲絲情意.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female main performer in the foreground.",
+        "mainCharacterDescription": "A woman with short dark hair, wearing a cream-colored sweater and a pearl necklace."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Indoor Kitchen"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "Modern kitchen with white/light-colored cabinets, wooden open shelving containing mugs, and a marble-patterned backsplash.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Single continuous take"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic",
+          "Headphones / earbuds"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Sony",
+          "Shure"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Melodramatic"
+        ],
+        "vocalLanguage": [
+          "Mandarin"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Ballad/Sentimental"
+        ],
+        "tempoBPM": 72,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "Keyboard",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Piano",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Live Performance"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) 00:00 - 00:47: A high-fidelity studio recording of a female solo vocal performance. The vocalist uses a warm, emotive tone with controlled vibrato and audible breathiness, typical of a professional ballad delivery. The BGM consists of a sentimental piano track accompanied by soft, atmospheric synthesizer strings in a major key. The tempo is slow and steady at approximately 72 BPM. The vocals are clearly separated from the background music with high spectral clarity and no environmental noise, suggesting a clean recording environment and professional mixing."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 47.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Performance -> Performance",
+      "mainPurpose": "The video serves as a vocal cover performance of the classic song 'I Only Care About You' (我只在乎你). It aims to showcase the singer's vocal ability and emotional interpretation through a high-quality studio-style recording in a home setting, targeting music enthusiasts.",
+      "visualEmotion": [
+        "warm",
+        "sentimental",
+        "calm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A straightforward, high-quality music performance video characterized by its intimate home-studio atmosphere and focused continuous take."
+  }
+}

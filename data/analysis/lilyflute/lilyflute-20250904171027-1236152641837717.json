@@ -1,0 +1,288 @@
+{
+  "videoName": "lilyflute-20250904171027-1236152641837717.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 19,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Indoor scene in a hotel room with white walls and a large bed. A young woman with dark hair styled in a side braid, wearing a light beige v-neck tank top, holds a smartphone for a selfie. She smiles at the lens and makes a peace sign with her right hand while looking directly at the camera. (2) The woman moves towards a large window with thin, purple-toned curtains. Outside the window, a bright coastal landscape is visible, featuring turquoise sea water, a harbor with several boats, and steep green hills under a sunny, clear sky. Natural daylight fills the room, creating a bright and airy atmosphere. (3) The scene cuts to an outdoor location with a low-angle camera perspective looking up at the woman against a clear, deep blue sky. She has changed into a light green ruffled blouse and holds a silver flute. Her expression is joyful as she looks down towards the camera lens. (4) The woman is now at a crowded outdoor event or night market. She uses a selfie stick to pan the camera across the scene, revealing many people sitting at white tables, an outdoor stage with lighting rigs, and a large mountain in the background under the evening sky. (5) Final shot shows the woman in a close-up at the same outdoor event. She holds the flute in one hand and makes a peace sign with the other. The background is filled with the warm glow of festival lights and the blurred figures of the attending crowd.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 50,
+        "maleDetectAmount": 20,
+        "femaleDetectAmount": 25,
+        "kidsDetectAmount": 5,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face close-up",
+          "Face",
+          "Full body",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 main female character throughout; approximately 40 to 50 people visible in the background of the outdoor festival scene.",
+        "mainCharacterDescription": "A young woman with dark hair in a side braid. She wears a light beige tank top in the first half and a light green ruffled top in the second half."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Hotel / Accommodation",
+          "Event Venue / Convention Hall",
+          "Mountain / Forest / Trail"
+        ],
+        "locationTopography": [
+          "Coastline / Beach",
+          "Mountain",
+          "Urban Plaza / Square"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Starts in a bright, modern hotel room with a balcony view of a coastal bay and mountains. Transitions to an outdoor night market or festival ground with blue flooring, tables, chairs, and a stage under a mountain backdrop.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Bright indoor lighting",
+          "Night artificial light"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld",
+          "Panning",
+          "Rotating camera",
+          "Low angle"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot",
+          "Wide shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle",
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic",
+          "Tripod / stabilizer"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "Flute"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Woodwind",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Flute"
+        ],
+        "musicSourceType": [
+          "Live Performance"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 2,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 3,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A lively flute melody begins playing in a major key with a moderate tempo and bright spectral texture. The recording environment sounds like a quiet interior space with minimal room tone. No voices or background noises are present. (2) The flute music continues seamlessly. A high-pitched female voice enters the mix, speaking with an excited and friendly tone. The acoustic environment shifts slightly, indicating an outdoor space with faint ambient traffic and wind noise in the far background. (3) The audio texture becomes more complex as crowd chatter and distant cheering are heard beneath the dominant flute melody. The female speaker continues to talk with high vocal arousal and dynamic pitch variability, greeting or narrating to her audience. (4) A minor rustling sound or microphone handling noise occurs briefly. The primary signal remains the rhythmic flute performance and the enthusiastic female voice. The signal-to-noise ratio remains high, keeping the speech and music clear above the festival crowd noise. (5) The flute melody reaches a crescendo. The female voice gives a final joyful exclamation. The recording concludes with the sounds of the outdoor festival atmosphere blending with the final notes of the flute before the audio track cuts."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Music / Performance / MV",
+        "Lifestyle"
+      ],
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 3.1,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Preparation -> Travel/Context -> Performance/Event Arrival.",
+      "mainPurpose": "To document and share a personal lifestyle journey and musical performance at an outdoor festival. The video combines intimate selfie preparation shots with the lively atmosphere of a public event to engage followers and showcase the character's flute-playing hobby.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video effectively utilizes selfie-style filming to create a sense of direct communication with the audience, transitioning smoothly from a private hotel setting to a vibrant public festival."
+  }
+}

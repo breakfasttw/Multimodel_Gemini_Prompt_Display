@@ -1,0 +1,265 @@
+{
+  "videoName": "shaogao-20250730092819-898754462761234.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 17,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": false,
+      "visual_narrative_log": "(1) The scene opens in a brightly lit, minimalist living room with a yellow animated character holding a purple vacuum cleaner. The character is cleaning a pile of crumpled paper on the floor while a TV in the background displays intense close-ups of anime characters from 'Attack on Titan'. Text overlays at the top provide context about cleaning while watching anime. (2) There is a sudden transition where the lighting shifts to a dim, nighttime setting. The yellow character is no longer vacuuming but is now sitting cross-legged on the floor, wearing a brown scout regiment cape with a 'Wings of Freedom' logo. The TV screen shows high-action battle sequences and the character appears completely mesmerized, neglecting the chore as the trash remains on the floor.",
+      "text_narrative_log": "(1) [Subtitle]: \"Put on some anime while you clean\" they said... [Subtitle]: 是誰推薦我「邊打掃邊看動畫」的？ [Slogan]: 10:32 am. (2) [Slogan]: 11:43 pm. (3) [Subtitle]: My legs! (4) [Subtitle]: You too were enjoying yourself!",
+      "visual_human_presence": {
+        "totalHumanCount": 0,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": [
+          "None"
+        ],
+        "crowdLevel": [
+          "None"
+        ],
+        "countingEvidence": "None (Animation character only)",
+        "mainCharacterDescription": "An animated yellow bean-shaped character with large eyes, initially wearing a pink shirt and later a brown scout regiment cape."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A simple indoor room with a tan wall, a brown wooden TV stand, a flat-screen TV, and piles of crumpled paper trash on the floor.",
+        "lightingStyle": [
+          "Mixed natural and artificial light"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Animation vivid colors"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Slow pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "English",
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Instant / packaged food"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 5,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Japanese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": true,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 9,
+        "valence": 3,
+        "dominance": 8,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Cinematic/Epic"
+        ],
+        "tempoBPM": 145,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion",
+          "Brass"
+        ],
+        "instrumentsAudible": [
+          "Violin",
+          "Cello",
+          "Drum Kit / Drum Set",
+          "Trumpet"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 4
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 3,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 3,
+        "speechMusicOverlap": 3,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 4,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a loud, constant mechanical whirring sound characteristic of a vacuum cleaner motor. This broadband noise dominates the soundscape with no speech or music present. (2) The motor noise suddenly cuts out, followed immediately by a sharp mechanical 'click' sound, representing a power switch being toggled. There is a brief moment of silence. (3) Dramatic, high-tempo orchestral music with aggressive string staccatos and heavy drums begins. A male voice in Japanese screams with high emotional arousal. Rapid slicing sound effects and wind whooshes accompany the intense music and vocal delivery."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 8.5,
+      "editingPace": "Slow",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Narrative Shift -> Conclusion",
+      "mainPurpose": "A comedic relatable animation illustrating how attempting to watch intense anime as background noise during chores inevitably leads to complete distraction and abandonment of the task.",
+      "visualEmotion": [
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "Relatable content targeting the anime community, using the 'Attack on Titan' IP for comedic effect."
+  }
+}

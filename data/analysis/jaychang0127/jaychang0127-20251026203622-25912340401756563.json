@@ -1,0 +1,274 @@
+{
+  "videoName": "jaychang0127-20251026203622-25912340401756563.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 69,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens on a brightly lit concert stage featuring a male performer wearing a red t-shirt, light-blue jeans, white sneakers, a black bandana, and white-rimmed sunglasses. He is dancing energetically with exaggerated hip movements and hand gestures, standing near a DJ booth. In the background, a large arched LED screen displays a red and white pattern with a 'Red Bull Jukebox' circular logo suspended above. (2) The scene shifts to focus on a female singer wearing a white cap, a long red shirt over a white dress, and white boots. She holds a microphone with her right hand and gestures with her left, singing with an expressive face. A second man in a black suit and glasses stands slightly behind her, looking on. The lighting is warm and bright, with stage monitors and cameras visible in the foreground. (3) The performers interact on stage; the male dancer moves around the singer while she continues her vocal performance. The camera captures various angles, including medium shots of the singer and wider shots showing the full stage layout with drum kits and lighting rigs. The audience is visible as dark silhouettes at the very bottom of the frame, occasionally holding up phones to record the event.",
+      "text_narrative_log": "(1) [Logo]: Red Bull JUKEBOX. (2) [Logo]: Red Bull JUKEBOX. [Subtitle]: 我想你不知道. (3) [Subtitle]: 也是最後一次. (4) [Subtitle]: 把這首歌送給. (5) [Subtitle]: 在座的所有人. (6) [Subtitle]: 我心已太陽. (7) [Subtitle]: 我心已太陽. (8) [Logo]: Red Bull. [Logo]: Red Bull JUKEBOX.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 female singer, 1 male dancer/singer, 1 male background figure, plus a crowd of spectators.",
+        "mainCharacterDescription": "A female singer in a white cap and red overshirt, and a male dancer in a red t-shirt, jeans, and bandana."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Stage / Performance Venue"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A professional concert stage with a large arched LED screen displaying dynamic patterns and the Red Bull Jukebox branding.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Bright and colorful"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic",
+          "Speaker / audio device",
+          "Camera / DSLR"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Red Bull"
+        ],
+        "instrumentsVisible": [
+          "Drum Kit / Drum Set",
+          "Electronic Keyboard / Synthesizer"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Traditional Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "String",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Electric Guitar",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Live Performance"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering",
+          "Applause",
+          "Screaming/Yelling"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with high-energy live band music featuring a driving drum beat and electric guitar riffs. A crowd is heard cheering loudly in the background. A female voice begins singing with high arousal and melodic precision in Traditional Chinese, maintaining a bright and powerful tone. (2) The singing continues with consistent intensity, synchronized perfectly with the upbeat pop-rock instrumentation. There are no sudden acoustic shifts, but the crowd noise swells during melodic pauses. The female singer's pitch is relatively high, and her delivery is emotive and professional. (3) The performance reaches a climax with the singer holding longer notes while the crowd's reaction intensifies. The music remains steady in tempo at approximately 128 BPM, featuring a clear major-mode tonality. The recording captures the spatial resonance of a large live venue while maintaining high vocal clarity."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 5.75,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Performance -> Engagement -> Climax",
+      "mainPurpose": "To showcase a high-energy live musical performance at the Red Bull Jukebox event, highlighting the singer's talent and the vibrant concert atmosphere to entertain and promote the event brand.",
+      "visualEmotion": [
+        "energetic",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The event is clearly branded as 'Red Bull Jukebox' with multiple logos visible on screen and in the background.",
+      "endorsementObject": [
+        "Red Bull"
+      ]
+    },
+    "freeDescribe": "The video is a recording of a live concert performance characterized by professional lighting, high audio quality for a field recording, and strong brand placement."
+  }
+}

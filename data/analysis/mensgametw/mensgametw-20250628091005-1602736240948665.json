@@ -1,0 +1,272 @@
+{
+  "videoName": "mensgametw-20250628091005-1602736240948665.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 10,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) In a brightly lit indoor restaurant, an adult male with short black hair wearing a white t-shirt laughs exuberantly at a wooden dining table. The table is cluttered with small plates containing fish remnants and various dipping bowls. Another male friend in a matching white t-shirt leans into the frame from the right, both exhibiting high-arousal facial expressions and wide smiles. (2) The two men transition into a heartfelt embrace, with the man on the right hugging the man on the left tightly. The man on the left closes his eyes and smiles contentedly, leaning his head against his friend's shoulder against the backdrop of a modern geometric window frame. (3) The scene cuts to a still photograph showing a younger version of the man with glasses reclining indoors. He is resting against a bookshelf filled with colorful books and magazines while a small baby sleeps soundly on his chest, looking directly at the camera with a calm expression.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Head and shoulders"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 adult males in the restaurant scene; 1 adult male and 1 baby in the final photo scene.",
+        "mainCharacterDescription": "Two Asian men in their 30s-40s, both wearing casual plain white t-shirts. One wears black-rimmed glasses."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Restaurant / Dining",
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A modern restaurant with tan padded banquette seating and a wooden table with various dishes; followed by a home interior featuring a crowded bookshelf and blue patterned bedding.",
+        "lightingStyle": [
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Seafood / fish / shrimp",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Rock/Metal",
+          "Pop"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "String",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Electric Guitar",
+          "Electric Bass"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio opens with a high-energy pop-punk BGM featuring bright electric guitars and a driving drum rhythm at approximately 115 BPM. A male vocalist sings with high emotional arousal and clear articulation in English, delivering a studio-produced track with no environmental noise or speech interference. (2) The rhythmic energy remains constant as the music continues into a secondary verse or bridge, maintaining a high spectral brightness and strong beat strength. No intentional sound effects or incidental noises occur, leaving the mastered musical track as the sole audio element. (3) As the video shifts to the final visual phase, the music hits a powerful chord progression, emphasizing the sentimental transition. The high-fidelity audio concludes with the music's natural cadence, sustaining the energetic yet nostalgic mood through a consistent studio-grade tonal clarity."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend",
+        "Lifestyle"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 3.3,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Present Activity -> Emotional Peak -> Nostalgic Reflection.",
+      "mainPurpose": "This video participates in the 'I'm Just a Kid' trend, where individuals show their current joyful adult lives and then flash back to a nostalgic photo of their youth or early parenthood. The energetic rock music serves as the thematic anchor for this trend, highlighting the passage of time and the continuity of personal bonds.",
+      "visualEmotion": [
+        "warm",
+        "energetic",
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No products are featured or promoted explicitly.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video follows a standard social media challenge format where music lyrics dictate the narrative transition between present and past."
+  }
+}

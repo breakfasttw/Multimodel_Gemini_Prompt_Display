@@ -1,0 +1,285 @@
+{
+  "videoName": "peter_and_susan-20251222011406-1309033987707749.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 120,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A person films a small white square box placed on a light wood desk. Behind the box, a grey computer keyboard with various characters is visible under bright indoor lighting. A handwritten note addressed to 'Peter' from 'Susan' sits atop the box, instructing him to film before opening. (2) Hands with a white smartwatch reach in and open the white paper box. Inside are two black plastic blind bags with 'STARLUX' and 'CITY PRIMA' branding. The camera pans slightly to show a smartphone charging in the background next to some cables and a monitor stand. (3) The camera moves as the person walks into a brightly lit living and dining area. A woman wearing a grey 'Tom and Jerry' sweatshirt and black athletic shorts stands by a dining table, posing with peace signs. A golden retriever dog walks around her legs on the light-colored flooring. (4) The woman takes the black bags and stands in front of a large framed picture of Mickey Mouse on the wall. She smiles and talks directly towards the camera. A toddler girl in a pink shirt enters the frame, standing near the woman's legs and the dining table. (5) The woman carefully tears open the black plastic packaging while standing in the kitchen-dining area. She pulls out a small white and grey model airplane. She holds the toy up close to the camera lens, showing the 'STARLUX' logo and detailing on the miniature aircraft.",
+      "text_narrative_log": "(1) [Subtitle]: Peter: 翻開前,請先錄影!! Susan. [Slogan]: 爸爸高雄辛苦工作回來 媽媽給的小驚喜. (2) [Logo]: STARLUX. [Logo]: CITY PRIMA.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only",
+          "Feet / Legs"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 man filming (seen in hands/partial reflections), 1 woman (main character), 1 toddler girl.",
+        "mainCharacterDescription": "A woman in a grey sweatshirt with a cartoon cat and black shorts. A man wearing a white smartwatch."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Indoor Living Room",
+          "Indoor Kitchen"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Modern home interior with a dining table, chairs, kitchen in the background, a painting on the wall, and some luggage.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Walking handheld",
+          "Panning",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "POV / first-person view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Airplane"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Keyboard / mouse",
+          "Smartwatch / wearable"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "STARLUX",
+          "CITY PRIMA"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 100,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice speaks with a high-pitched, excited tone in Traditional Chinese. An upbeat acoustic guitar BGM with a moderate tempo plays. The sound of paper rustling is clearly audible as he interacts with a physical object. The room tone is a clean indoor environment. (2) The man makes a loud, high-arousal 'Woo!' sound. The BGM continues with a light percussion beat. There is a distinct sound of a box being opened and plastic bags crinkling. The vocal pitch variability is high, indicating genuine surprise and happiness. (3) A female voice enters the mix, speaking with a friendly and animated tone. The male and female voices overlap in a casual conversation about a '7-Eleven' promotion. The BGM remains at a steady, non-intrusive volume level underneath the clear, well-enunciated speech. (4) Sounds of plastic tearing and small objects clinking occur as the unboxing continues. The voices maintain high valence and arousal. A child's soft, indistinct voice is heard momentarily in the background. The acoustic texture is that of a typical domestic living space. (5) The man and woman celebrate with laughter and positive exclamations. The BGM swells slightly towards the end. The sound of the plastic airplane toy being handled creates short, percussive clicks. The overall audio quality is clear, consistent with a modern smartphone recording."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle",
+        "Product Showcase"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 15,
+      "averageSceneDuration": 8.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Discovery -> Reaction -> Unboxing -> Resolution",
+      "mainPurpose": "To document a warm family moment where a wife surprises her husband returning from work with collectible blind bags from a local promotion (StarLux x City Prima).",
+      "visualEmotion": [
+        "warm",
+        "energetic",
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "Organic family interaction style without explicit promotional call to action.",
+      "endorsementObject": [
+        "STARLUX",
+        "CITY PRIMA"
+      ]
+    },
+    "freeDescribe": "The video captures an organic daily life moment with high emotional engagement and family appeal."
+  }
+}

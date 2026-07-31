@@ -1,0 +1,264 @@
+{
+  "videoName": "mayukichou-20250430214154-2475195756228480.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 13,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A hand with light-colored manicured nails enters the frame in a brightly lit indoor setting, likely a vanity or bathroom. It reaches toward three bottles on a white marble-like surface. Behind the bottles, a mirror reflects the person's torso and hands, and a tissue box is visible. (2) The hand picks up a square, clear glass bottle containing golden oil with a white dropper dispenser. As the hand lifts and turns the bottle, Chinese text overlays appear on the screen to describe the product's moisturizing qualities. The lighting is soft and even. (3) The hand switches to a tall, cylindrical bottle with a metallic silver cap and a purple label. The person holds it up, demonstrating its size and clarity against the white background. The camera stays in a static close-up shot focused on the product interaction. (4) Finally, the hand touches a smaller, dark opaque bottle with a yellow label and black cap. The scene highlights this bottle as the third recommended item. The visual focus is sharp on the product labels while the background remains slightly out of focus.",
+      "text_narrative_log": "(1) [Subtitle]: 葳老板出國必帶三大神油. (2) [Subtitle]: 小金瓶最滋潤. (3) [Subtitle]: 身體油抗乾燥. (4) [Subtitle]: 呼呼油超好睡.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Hands only",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "One main person's hands are visible interacting with products, with their reflection partially visible in the mirror.",
+        "mainCharacterDescription": "A woman with light-colored, neatly manicured nails."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Bathroom"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, white bathroom vanity area with a large mirror, a white counter, and a tissue box in the background.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Witolia"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track features an upbeat, high-tempo pop song starting with a rhythmic acoustic guitar foundation and a driving percussion beat. A male singer delivers lyrics in English with a bright, energetic vocal quality and high emotional arousal. The production is clean and studio-recorded. (2) As the music progresses, the arrangement maintains a consistent energy level with layered instrumentation including a steady drum kit. There is no audible speech or background environmental noise, resulting in a high signal-to-noise ratio focused entirely on the musical composition. (3) The track continues through the end of the video without any sudden transitions or sound effects. The tonal balance is bright, and the rhythmic structure is well-defined, complementing the visual pace of the product presentation through its cheerful and modern aesthetic."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase"
+      ],
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 3,
+      "averageSceneDuration": 4.3,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Item 1 -> Item 2 -> Item 3",
+      "mainPurpose": "The video serves as a travel-themed product recommendation list, highlighting three specific body oil products as essentials for going abroad. By combining close-up product interactions with informative text overlays, it aims to influence viewers' purchasing decisions based on personal routine sharing.",
+      "visualEmotion": [
+        "informative",
+        "warm",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct display and recommendation of specific products with labels visible and descriptive captions for each item.",
+      "endorsementObject": [
+        "Witolia"
+      ]
+    },
+    "freeDescribe": "The video uses a typical social media influencer format to showcase skincare products, relying on clean visuals and high-energy music to maintain engagement."
+  }
+}

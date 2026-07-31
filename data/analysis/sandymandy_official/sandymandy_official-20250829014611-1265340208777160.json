@@ -1,0 +1,263 @@
+{
+  "videoName": "sandymandy_official-20250829014611-1265340208777160.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 28,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Two young female dancers with long black hair, wearing matching black camisole crop tops and maroon pleated miniskirts with black chunky boots, perform a synchronized dance in a brightly lit studio. They perform sharp hand movements and hip sways while smiling at the camera. The background is a white wall with minimalist black door outlines and a pink neon sign reading \"Sandy & Mandy\". (2) The dancers continue their routine with higher energy, incorporating synchronized hair flips and rhythmic arm rotations that match the musical beats. Their body language is fluid and energetic, occupying the center of the frame throughout. The setting remains constant with flat, bright studio lighting that eliminates harsh shadows on the performers and background.",
+      "text_narrative_log": "(1) [Logo]: Sandy & Mandy. [Logo]: Sandy Mandy Studio. [Slogan]: Twin. [Variety]: 20...",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main female dancers performing in the foreground",
+        "mainCharacterDescription": "Two young women with long, straight black hair, wearing matching black crop tops, maroon pleated skirts, and black platform boots."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Dance Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, modern dance studio with white walls, black paneling details on a central door structure, and a prominent pink neon sign in a circular frame. The floor is light-colored and reflective.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Sandy & Mandy"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track opens with a driving EDM beat featuring heavy synthetic kicks and a pulsing bassline at approximately 128 BPM. No speech is present, only a clean studio-produced instrumental track with high spectral brightness. Sharp electronic snaps provide a percussive rhythm. (2) A processed female vocal enters, singing upbeat pop lyrics in English with a bright, high-pitched tone and high arousal. The instrumental layer continues with its heavy beat and layered synth textures. Short rhythmic sound effects punctuate the musical transitions. (3) The vocal track concludes with a spoken-style phrase \"run up uh jump two\" layered into the mix as the song reaches a brief structural pause before looping or ending. The production remains polished with excellent signal fidelity throughout."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Dance"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 28.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Synchronized Performance -> Outro",
+      "mainPurpose": "This video features a professional synchronized dance performance by a twin duo, aimed at entertaining viewers through high-energy choreography and social-media-friendly aesthetics. The bright studio lighting and matching outfits emphasize the 'twin' brand identity.",
+      "visualEmotion": [
+        "energetic",
+        "cheerful"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video focuses on the brand identity of the 'Sandy & Mandy' twin duo, utilizing high-quality studio production and synchronized movement to drive engagement."
+  }
+}

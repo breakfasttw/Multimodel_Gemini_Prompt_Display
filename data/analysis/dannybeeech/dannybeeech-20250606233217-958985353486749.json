@@ -1,0 +1,264 @@
+{
+  "videoName": "dannybeeech-20250606233217-958985353486749.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 64,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A female character with green-dyed hair streaks and a black suit jacket sits in a brightly lit indoor studio. She holds a grey cylindrical bottle labeled \"Paula's Choice\" in her right hand, pointing at her cheek and forehead while her mouth moves in a speaking motion. Behind her is a white wall with professional light tracks. (2) The scene cuts to the woman holding a purple skincare bottle. She grips the container with both hands, presenting the label clearly to the camera. Her facial expressions are animated and her eyes are focused on the lens. The environment remains a clean, well-lit studio interior with white furnishings. (3) The character switches to a light blue spray bottle, gesturing towards her shoulder and back area to indicate application. She briefly holds both the blue bottle and the initial grey exfoliant together. The background shows soft white curtains and high-contrast studio lighting, maintaining a consistent professional setting throughout. (4) She displays a light pink tube of body treatment, holding it steadily in front of her torso. She points towards her lower body to visually suggest the product's intended use area. The camera remains static at an eye-level perspective, focusing on her upper body and the held product.",
+      "text_narrative_log": "(1) [Logo]: Paula's Choice. (2) [Logo]: Paula's Choice. (3) [Logo]: Paula's Choice. (4) [Logo]: Paula's Choice.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female character presenting products.",
+        "mainCharacterDescription": "A woman with green hair highlights wearing a black professional blazer over a white shirt and black tie."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, white-walled indoor studio with visible ceiling-mounted professional track lighting and soft white curtains in the background.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Paula's Choice"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop",
+          "Mechanical Click / Latch",
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice speaks rapidly in Mandarin with an animated and high-arousal delivery style. There is no background music present, resulting in a clean audio track. A sharp percussive thud is audible when a plastic bottle is placed onto a hard laminate table surface. (2) The speaker's pitch remains energetic with significant frequency modulations to emphasize her points. The background ambient floor is consistent with studio silence. A subtle plastic clicking or shuffling sound occurs as the speaker swaps bottles, demonstrating high transient density in the audio recording. (3) The narration continues with a professional and persuasive tone. The vocal intensity is moderate, and speech is continuous with very few structural pauses. Technical handling noises, including the rustling of the speaker's suit sleeve against the table, are clearly heard against the silent background. (4) The female speaker concludes her presentation with a slightly softer but still enthusiastic vocal quality. A final dull impact sound marks the moment the last skincare tube is set down on the surface. The audio track maintains a high signal-to-noise ratio until the very end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase",
+        "Beauty / Fashion"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 3,
+      "averageSceneDuration": 16.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Introduction -> Product A Showcase -> Product B Showcase -> Product C Showcase -> Product D Showcase",
+      "mainPurpose": "The video serves as a promotional product review and tutorial for 'Paula's Choice' skincare. The speaker enthusiastically details the benefits and application methods of four distinct products (exfoliant, retinol treatment, body spray, and body lotion) to encourage consumers to purchase the brand.",
+      "visualEmotion": [
+        "informative",
+        "energetic",
+        "professional"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator directly holds the products to the camera, names the brand multiple times, and explains specific usage instructions as a recommendation.",
+      "endorsementObject": [
+        "Paula's Choice"
+      ]
+    },
+    "freeDescribe": "Professional studio setup and energetic vocal delivery suggest a high-production-value social media advertisement or influencer collaboration."
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "videoName": "daisy.chiu-20250719171310-1629524301579695.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 32,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A jazz trio consisting of a double bassist, a guitarist, and a percussionist performs in a sunlit outdoor courtyard. The setting features weathered brick walls, a large beige patio umbrella, and lush green wisteria vines hanging from above. Tables covered in white linens with elegant black wrought-iron chairs are arranged for dining. (2) A young woman with shoulder-length brown hair, wearing a light blue off-the-shoulder dress with white daisy patterns, sits at a table. She rests her chin on her hand, smiling warmly toward the camera. A server in a white shirt and black vest walks behind her, carrying a tray. (3) The camera zooms in on a plate of fresh breakfast food, including strawberries, blueberries, blackberries, and smoked salmon with lemon slices. The lighting is bright and natural, casting soft shadows on the white tablecloth. (4) The scene shifts to a large buffet spread featuring a variety of prepared salads, seafood, and mounds of pink shrimp displayed on a bed of crushed ice. The food is garnished with green kale and lemon wedges. (5) The woman stands in the courtyard near a tiered stone fountain topped with a decorative iron archway that reads 'The Court of Two Sisters'. She wears a wide-brimmed straw hat and sunglasses, posing elegantly against the backdrop of other diners. (6) Finally, the woman is seen standing with the jazz band members, posing playfully behind the large double bass and laughing along with the musicians, creating a joyful and social atmosphere.",
+      "text_narrative_log": "(1) [Logo]: The Court of Two Sisters.",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 5,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main woman, 3 band members, 1 server, and at least 3 patrons in the background.",
+        "mainCharacterDescription": "A woman with shoulder-length brown hair, wearing a light blue and white off-the-shoulder dress with daisy prints, later wearing a large straw hat and dark sunglasses."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Restaurant / Dining",
+          "Historical / Cultural Site"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An outdoor courtyard restaurant with brick paving, stone walls with climbing greenery, white-clothed round tables, a buffet line with ice-chilled seafood, and a classic stone fountain with an iron archway.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Seafood / fish / shrimp",
+          "Fruit",
+          "Dessert / cake / cookies",
+          "Vegetables",
+          "Meat / beef / pork / chicken"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "The Court of Two Sisters"
+        ],
+        "brandLogos": [
+          "The Court of Two Sisters"
+        ],
+        "instrumentsVisible": [
+          "Double Bass / Contrabass",
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Jazz/Swing"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Double Bass / Contrabass",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a crisp, mid-tempo jazz swing introduction. A steady, melodic double bass line provides a rhythmic foundation, accompanied by the bright, acoustic strumming of a guitar. The acoustic texture is clean and studio-quality, with a warm spectral brightness. No vocals are present in this initial phase. (2) A smooth male baritone voice enters the mix, singing the lyrics 'Do you know what it means to miss New Orleans'. The vocal delivery is relaxed with a clear articulation, exhibiting a moderate intensity. The background music maintains its steady tempo of approximately 120 BPM with light, brushed percussion. (3) The musical arrangement continues with the singer's melodic phrases layered over the consistent instrumental backing. The signal-to-noise ratio is high, with only a very faint, distant ambient murmur of an outdoor environment barely perceptible beneath the dominant musical track. There are no sudden SFX or acoustic transitions."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Lifestyle",
+        "Travel",
+        "Food Review"
+      ],
+      "location": {
+        "country": [
+          "USA"
+        ],
+        "city": [
+          "New Orleans"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 2.9,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Introduction -> Ambiance -> Food Display -> Personal Engagement",
+      "mainPurpose": "To promote a pleasant and culturally rich dining experience at 'The Court of Two Sisters' in New Orleans by showcasing its outdoor atmosphere, live jazz, and extensive brunch buffet in a vlog style.",
+      "visualEmotion": [
+        "warm",
+        "energetic",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video highlights a specific restaurant name on signage, showcases the food and entertainment variety, and features the creator enjoying the venue.",
+      "endorsementObject": [
+        "The Court of Two Sisters"
+      ]
+    },
+    "freeDescribe": "A polished lifestyle vlog snippet that effectively captures the sensory appeal of a destination restaurant through vibrant visuals and thematic jazz music."
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "videoName": "6tan-20250902215218-1314242957389605.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 23,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a close-up shot of a male face lying down in what appears to be a bed. The lighting is dim and warm, casting shadows across the person's features. The camera is steady, held from a slightly high angle looking down at the face. (2) The person looks directly at the camera lens while speaking, their mouth moving in sync with the audio. Their eyes occasionally dart away to look at a device held off-camera. (3) The man shifts his gaze downward towards the unseen device, concentrating on an activity. His facial expression is neutral and focused as he remains in the same reclining position throughout the duration of the shot.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "One man visible in a close-up throughout the video.",
+        "mainCharacterDescription": "A man with dark hair and a casual look, lying down in a dark room."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Bedroom"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A dark and out-of-focus background suggesting an indoor sleeping area at night.",
+        "lightingStyle": [
+          "Dim / low light"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Dark / low-key"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 2,
+        "pitchVariability": 2,
+        "intensityAndLoudness": 2,
+        "speechRate": 3,
+        "speechPauseDensity": 3
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 3,
+        "intonationAndContour": [
+          "Falling"
+        ],
+        "speakingRisingRatio": 1,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 3,
+        "valence": 5,
+        "dominance": 4,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 2,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 3,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 2,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice speaks in a calm, conversational manner with a slightly breathy texture. He mentions seeing videos about iPhone typing sounds and wanting to try it. (2) The first series of rapid, percussive digital clicking sounds occurs, mimicking the sound of a smartphone keyboard. The clicks are sharp and rhythmic. (3) After a brief vocal pause, a second, longer sequence of typing clicks ensues. The rhythm mimics natural typing speeds with varying gaps between 'keystrokes'. (4) The typing ceases, leaving only a very faint background room tone before the audio cuts off."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Personal Talk"
+      ],
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 23,
+      "editingPace": "Slow",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Activity -> Conclusion",
+      "mainPurpose": "The video is a personal recording where the creator expresses interest in the sound of iPhone typing after seeing similar content elsewhere. He then proceeds to demonstrate/test the sound by typing on his own device, creating a simple, relatable vlog-style snippet.",
+      "visualEmotion": [
+        "calm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A simple, uncut recording focusing on the auditory experience of typing on a mobile device."
+  }
+}

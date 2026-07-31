@@ -1,0 +1,270 @@
+{
+  "videoName": "davio_magic-20250911114942-2701861606835277.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 18,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Two women wearing Pikachu headbands dance in a home hallway. The woman on the left wears a purple top and black skirt, while the woman on the right wears a yellow top and white shorts. A split-screen animation appears at the top featuring a grey figure with emoji faces and an anime-style girl. (2) The dancers turn around, shaking their hips in a synchronized fashion while smiling at the camera. The background shows a wooden door and some home decorations. The animation above displays text bubbles and character reactions. (3) The camera angle remains static as the women continue their high-energy dance routine, eventually moving closer to the lens. The animation concludes with the anime girl appearing in multiple panels as if on a phone screen.",
+      "text_narrative_log": "(1) [Subtitle]: おじさん様だ！. [Subtitle]: おっおー. (2) [Subtitle]: お返事まだカナ？. [Subtitle]: まだまだです 忙しいです. (3) [Subtitle]: おじさんじゃ 駄目カナ...？. [Subtitle]: 全身鏡を お届けします. (4) [Subtitle]: お返事まだカナ？. [Subtitle]: まだまだです やかましいです. (5) [Subtitle]: おっおー. [Subtitle]: お寿司を 食べたヨ！！. (6) [Subtitle]: 究極興味 無いです. [Subtitle]: 死ぬほど興味 無いです.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 female dancers are performing in the foreground.",
+        "mainCharacterDescription": "One woman wears a purple tight-fitting top and a black mini-skirt with orange slippers. The other wears a yellow crop top and white shorts. Both wear yellow Pikachu headbands."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A home interior with a wooden door, a mirror reflecting the hallway, and some boxes on the floor. The upper part of the frame is a digital animation background.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Split-screen"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Japanese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Japanese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 160,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 2,
+        "male_singer_count": 0,
+        "female_singer_count": 2,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Japanese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Digital UI SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) Fast-paced electronic J-Pop music begins with high-pitched female singing. The beat is heavy and synthesized, matching the rapid visual movement. Digital UI clicks are audible as if a chat application is being operated. (2) The song continues with a higher energy section, featuring a call-and-response vocal dynamic between two female characters. The tempo remains consistently high, driving the rhythm of the performance. (3) The final segment features a denser musical arrangement with more synthesized layers and an energetic vocal finish, ending abruptly with a hard cut."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Dance",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 4.5,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Introduction -> Synchronized Performance -> Close-up Finale",
+      "mainPurpose": "To participate in a viral social media dance challenge. The video utilizes a popular 'Ojisan' meme audio and animation to create an engaging, humorous performance that appeals to internet subcultures.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video effectively combines live-action dancing with a digital animation layer, a common aesthetic in modern social media trends."
+  }
+}

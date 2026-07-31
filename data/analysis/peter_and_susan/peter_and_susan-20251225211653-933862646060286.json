@@ -1,0 +1,271 @@
+{
+  "videoName": "peter_and_susan-20251225211653-933862646060286.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 8.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) In a bright dance studio with floor-to-ceiling mirrors, a man wearing a black t-shirt, white pants, and a blue cap performs rhythmic arm gestures while seated. A toddler girl in a pink long-sleeved shirt and blue jeans walks from the center of the room toward the foreground. Several other people are seated on the floor in the background. (2) As the toddler approaches, her face becomes clearer; she has a joyful expression and looks directly at the camera. The man in the background continues his dancing motions, and a large black speaker stands on the left. (3) The camera focuses on a close-up of the child's face. She is speaking with an animated expression, squinting her eyes and smiling broadly while tilting her head. The background remains the brightly lit studio space with seated observers.",
+      "text_narrative_log": "(1) [Subtitle]: 媽咪爸爸不跟我說話😂",
+      "visual_human_presence": {
+        "totalHumanCount": 12,
+        "maleDetectAmount": 4,
+        "femaleDetectAmount": 8,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Face close-up",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 main dancing man, 1 main child, and approximately 10 observers in the background.",
+        "mainCharacterDescription": "The man wears a black t-shirt, light-colored pants, and a blue baseball cap; the child wears a pink 'Baby Shark' sweater and blue denim jeans."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Dance Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A spacious dance studio featuring wall-mounted mirrors reflecting the entire room, wooden flooring, and bright overhead panel lighting. Observers are seated on the floor against the walls.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Walking handheld"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Close-up",
+          "Extreme close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Speaker / audio device",
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Baby Shark"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 2,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice speaks with high intensity and a professional coaching tone, characterized by moderate speed and clear articulation. The acoustic environment exhibits natural indoor reverb common in large studios. There is no background music. (2) A transition occurs as a child's voice enters the mix with high pitch and high emotional arousal. The child speaks in a friendly and animated manner, addressing someone named 'Mommy'. The voice is bright and clear with complex intonation patterns. (3) The child continues her vocalization with laughter and rising pitch, expressing joy. Background noise remains a faint, low-intensity room murmur of other people in the studio, with no competing sound effects or music."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Family / Kids"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 4.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Event -> Reaction",
+      "mainPurpose": "To capture and share a cute, humorous moment where a toddler girl feels ignored by her father while he is busy dancing in a studio, leading her to complain to her mother who is filming.",
+      "visualEmotion": [
+        "warm",
+        "humorous",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video effectively uses a child's perspective to create relatable family content."
+  }
+}

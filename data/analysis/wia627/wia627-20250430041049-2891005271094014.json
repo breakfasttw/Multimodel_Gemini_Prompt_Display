@@ -1,0 +1,279 @@
+{
+  "videoName": "wia627-20250430041049-2891005271094014.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 50,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) An adult male holds a black Fujifilm X100VI camera with both hands, adjusting the rear tilt screen to frame a shot. The camera is equipped with a thumb grip and a small cage. A bright yellow LED light strip runs along the side of a nearby bed frame in a dimly lit room. The person's reflection, showing a black tank top and his hands holding the camera, is visible in a mirror. (2) A young boy with short black hair, wearing a light blue t-shirt with a Mickey Mouse graphic and yellow patterned shorts, lies on a large bed with white linens and pillows. He interacts with a small, white toy ukulele that has a brown bear illustration on the body. The background contains a light-colored wooden headboard, an air purifier, and a bedside table. The boy smiles and changes poses for the camera. (3) The scene shifts to show a circular projection of a moon and galaxy on the white wall. The boy holds the toy ukulele up against the projection, causing the celestial colors to wash over his face and the instrument. In a final sequence, a small tan poodle sits upright on the bed while an adult male sleeps soundly behind it. A tabby cat is seen resting on a shelf above the headboard.",
+      "text_narrative_log": "(1) [Logo]: 奶爸愛攝影",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main child character, 1 adult male (cameraman reflection and sleeping figure)",
+        "mainCharacterDescription": "A young boy with short black hair wearing a light blue graphic t-shirt and yellow patterned pajama shorts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Bedroom"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A modern domestic bedroom with light-colored wooden furniture, white bedding, an air purifier, and a projection of the moon on a plain white wall.",
+        "lightingStyle": [
+          "Warm indoor lighting",
+          "Mixed natural and artificial light"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant",
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle",
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Montage",
+          "Fade out"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog",
+          "Cat"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Camera / DSLR",
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "FUJIFILM"
+        ],
+        "instrumentsVisible": [
+          "Other String Instrument"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 2,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Other"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 4,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The track begins with bright, cheerful acoustic background music dominated by a rhythmic guitar pluck and a light, syncopated percussion beat. The mix is clean, exhibiting high spectral brightness and no human speech. The musical mood is optimistic and steady, maintaining a consistent tempo for the duration of the first segment. (2) A sharp acoustic discontinuity occurs as the music cuts out completely. The sound floor transitions to a quiet indoor atmosphere characterized by rhythmic, low-frequency snoring. The snoring consists of deep inhalations followed by soft exhalations, repeated in a steady cycle. There is a faint, continuous room tone and subtle mechanical hum audible in the silence between breaths."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 15,
+      "averageSceneDuration": 3.3,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Showcase -> Contrast",
+      "mainPurpose": "The video serves as a dual-purpose lifestyle vlog. First, it showcases the capabilities and physical design of the Fujifilm X100VI camera through a series of high-quality photos and videos of a child. Second, it concludes with a humorous contrast, showing the reality of home life with pets and a sleeping parent after a session of creative play.",
+      "visualEmotion": [
+        "warm",
+        "humorous",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video prominently features the Fujifilm X100VI camera, including its branding and specific features like the tilt screen, while showcasing photos taken with it.",
+      "endorsementObject": [
+        "FUJIFILM X100VI"
+      ]
+    },
+    "freeDescribe": "A classic example of modern 'Dad-vlog' content focusing on camera gear and family aesthetics."
+  }
+}

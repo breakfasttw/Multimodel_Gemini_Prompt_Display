@@ -1,0 +1,271 @@
+{
+  "videoName": "ala780705-20251221111815-1419324006260558.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 16,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long, straight brown hair and natural makeup sits in an indoor setting with a white door behind her. Another woman in a yellow cardigan stands behind her, smiling. The woman in front looks at the camera and moves her hand across the lens in a sweeping motion to create a transition effect. (2) The scene cuts to the same woman now featuring a glamorous transformation. She has voluminous wavy hair, bold red lipstick, and large gold heart-shaped earrings. She is dressed in a black low-cut gown and poses confidently against a plain white background, turning her body and glancing at the camera with various expressions. (3) The woman continues to pose, showcasing her styled hair and makeup from different angles. She places her hands near her neck and shoulders, highlighting her jewelry and the silhouette of her dress while the camera maintains a medium shot focused on her upper body.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main female character and 1 female stylist in the first phase.",
+        "mainCharacterDescription": "A woman with long brown hair, wearing a black low-cut dress, appearing first in a natural state and then in a glamorous styled state."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The first background is a simple indoor room with a white door and some office/salon equipment. The second background is a clean, minimalist white wall.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Match cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 3,
+        "male_singer_count": 0,
+        "female_singer_count": 3,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy pop music with a prominent synthesized bassline and a steady electronic drum beat begins. Multiple female voices are heard singing rhythmic English lyrics with a bright and energetic tone. The spectral profile is crisp and studio-clean. (2) A sharp 'whoosh' sound effect, typical of post-production transitions, triggers as the visual style changes. The BGM remains continuous but the percussion becomes more layered. (3) The upbeat dance track continues with consistent intensity. The female vocalists maintain a high-arousal performance through melodic phrases that sync with the visual poses. There are no ambient environmental noises or spoken dialogue present in the mix."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Beauty / Fashion"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 2.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Transformation -> Result",
+      "mainPurpose": "To showcase a dramatic beauty and hair transformation, highlighting the professional results of styling or makeup services through a 'before and after' comparison.",
+      "visualEmotion": [
+        "energetic",
+        "confident"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video follows a standard beauty industry transformation format designed to showcase styling skills.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video relies heavily on rhythmic synchronization between the pop music beats and the visual cuts during the transformation phase."
+  }
+}

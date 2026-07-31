@@ -1,0 +1,260 @@
+{
+  "videoName": "peter_and_susan-20250730201123-2098024950985716.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 23,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A toddler wearing a white t-shirt and a diaper stands on a light-colored wooden floor in a home living room setting. The child walks toward a white storage unit against a beige wall, which has some electronics on top. The child begins to crawl into a small cubby hole in the cabinet that is lined with a soft grey cushion, moving their hands and knees forward. (2) The toddler is now fully inside the small cubby, turning around to sit down on the plush grey blanket. They look around the room with a calm and curious facial expression, their hands resting on their lap. To the left, a large piece of light-colored luggage or a baby stroller frame is partially visible near the wooden floor. (3) The child remains seated within the white cabinet cubby, adjusting their body and looking toward the camera. The lighting is soft and even, coming from an indoor source, illuminating the simple and tidy domestic environment. Text overlays in Chinese characters remain at the bottom of the frame while the toddler continues to sit quietly in their chosen nook.",
+      "text_narrative_log": "(1) [Subtitle]: 第一胎情緒緊張 = 小朋友嚇到哭. (2) [Subtitle]: 第三胎情緒穩定 = 跌倒了也沒有關係.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 toddler crawling into a cabinet.",
+        "mainCharacterDescription": "A toddler wearing a short-sleeved white t-shirt and a white diaper."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A tidy living room with light wood floors and beige walls. A white multi-compartment storage cabinet stands against the wall, containing a grey cushion in one cubby. A red decorative envelope or card is attached to the wall above the cabinet. Some tech equipment is visible on the top shelf.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Other"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 2,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Simplified Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Level"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 4,
+        "valence": 6,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop",
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio sequence begins with a sudden, low-frequency percussive thud, likely caused by handling the recording equipment. A male voice immediately begins speaking in Mandarin with a clear, steady narrative cadence. There is no background music present, leaving only a subtle indoor ambient room tone beneath the speech. (2) As the male narrator continues his sentence, soft high-frequency rustling sounds are audible, consistent with fabric moving against a surface. The speaker’s tone remains calm and informative, with a moderate pitch and standard conversational speed. The acoustic space suggests a typical domestic interior with minimal reverberation and high clarity. (3) The vocal delivery remains consistent as the speaker finishes his point, with no significant shifts in volume or inflection. The audio is characterized by a linear vocal track with occasional faint incidental noises from the environment. The track concludes with a brief period of room tone as the speech ends, maintaining a high signal-to-noise ratio."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Family / Kids"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 23.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Demonstration -> Conclusion",
+      "mainPurpose": "The video aims to humorously contrast the differing parenting attitudes between the first and subsequent children, using the child's independent play as evidence of a more relaxed parenting style.",
+      "visualEmotion": [
+        "warm",
+        "calm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video features a single continuous take of a child in a domestic setting with minimal technical editing."
+  }
+}

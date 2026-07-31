@@ -1,0 +1,275 @@
+{
+  "videoName": "linda831212-20250509194923-1291347366151789.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 102,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a young female performer standing on a brightly lit stage, dressed in a festive white fuzzy sweater, a white pleated mini-skirt with a red bow, and a red Santa hat. She holds a black microphone and smiles warmly at the audience while the background LED screen displays golden and purple patterns. (2) She moves rhythmically, gesturing with her hands towards the crowd as colorful stage lights in pink, purple, and red pulse in time with the scene. A drum kit and stage trussing are visible in the background, providing a professional concert setting. (3) The camera captures her singing and dancing moderately, using medium shots that show her facial expressions and full shots that highlight her outfit and stage presence. She occasionally looks directly into the lens, creating an intimate connection with the viewer. (4) During the performance, she pulls out a smartphone to capture a selfie or record the audience, adding a modern, interactive element to the live show. Her movements are fluid and energetic as she navigates the stage space. (5) The LED background shifts through various geometric and floral patterns in warm tones, while she continues to perform with high energy, ending the sequence with a cheerful expression as she interacts with the unseen crowd.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female performer on stage.",
+        "mainCharacterDescription": "Young female with dark hair, wearing a red Santa hat, a white fuzzy crop-top sweater, and a white pleated mini-skirt featuring a large red bow."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Stage / Performance Venue"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A large LED screen displaying shifting geometric patterns, stage trussing on the sides, and a drum kit behind the performer.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Neon / colored light"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Warm and vibrant",
+          "Bright and colorful"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "Drum Kit / Drum Set"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Anime/J-Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Traditional Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Electric Guitar",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Live Performance"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering",
+          "Applause"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Live Performance"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track starts with high-arousal female speech, likely an introduction or greeting, over a soft ambient background. The crowd responds with loud, distinct cheering and clapping, creating a high-energy live atmosphere. (2) A transition occurs as a steady, mid-tempo drum beat and electronic synth melody begin, establishing a bright and upbeat pop genre. The music is in a major key with clear rhythmic strength. (3) The female performer begins singing in Traditional Chinese; her voice is clear, melodically varied, and exhibits a friendly, excited tone. The balance between her vocals and the instrumental is well-maintained by the mix. (4) As the song progresses, the intensity remains high, with occasional swells in the synthesizer layers and percussive hits. Small gaps in the vocals are filled by the crowd's background noise, indicating a large, engaged audience. (5) The final phase features sustained vocal notes and a consistent musical drive, with no significant technical distortions. The spectral brightness is high, emphasizing the crispness of the vocal delivery and the electronic textures of the BGM."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 5.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Introduction -> Performance -> Climax",
+      "mainPurpose": "This video serves as a record of a festive live performance where a female singer performs an upbeat pop song during a Christmas event. It aims to showcase her stage persona, vocal ability, and the energetic interaction between the performer and her fans.",
+      "visualEmotion": [
+        "energetic",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A classic live idol performance video with high-energy visuals and a celebratory Christmas aesthetic."
+  }
+}

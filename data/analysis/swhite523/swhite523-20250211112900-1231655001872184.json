@@ -1,0 +1,268 @@
+{
+  "videoName": "swhite523-20250211112900-1231655001872184.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 17.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young girl with braided hair, wearing a beige knit sweater and blue trousers, stands in the foreground of a brightly lit living room. Behind her stands a woman dressed in a black turtleneck and a dark baseball cap. The environment is a standard home interior with a gray sofa and neutral walls. (2) The girl initiates a rhythmic dance, swinging her arms and moving her body to a steady beat while looking directly at the camera. The woman behind her mirrors these movements with high energy, raising her hands above her head and smiling. The lighting is consistent and bright. (3) The woman leans in and hugs the girl from behind, and both characters exhibit joyful facial expressions with wide smiles. A red beanbag with white text is visible on the floor. The camera is static throughout, maintaining an eye-level perspective on the two subjects.",
+      "text_narrative_log": "(1) [Logo]: Coca-Cola.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 adult woman and 1 young girl dancing together.",
+        "mainCharacterDescription": "A woman in a black turtleneck and cap, and a girl in a beige sweater and blue pants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A domestic indoor setting featuring a gray fabric sofa with purple pillows, a white wall, and a red beanbag on the floor.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Coca-Cola"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Korean",
+          "Vietnamese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Korean",
+          "Vietnamese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched female voice rhythmically chants the Korean word 'Gwenchana' over an upbeat electronic pop backing track. The music features a prominent electronic drum beat with steady kick drums. The vocal delivery is energetic and clear, with no environmental noise interference. (2) The vocal performance transitions into a rapid, percussive repetition of melodic sounds that mimic the rhythmic structure of the electronic beat. The BGM remains consistent in tempo and energy, characterized by bright synthesizer textures and a danceable groove. (3) The singer switches to a fast-paced rap style in Vietnamese, maintaining a high speech rate and animated tone. The music continues to drive the performance with a thick bassline and persistent electronic rhythm until the track ends abruptly."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend",
+        "Short Video",
+        "Dance"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 17.5,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Performance -> Conclusion",
+      "mainPurpose": "The video is a lifestyle and entertainment piece showcasing a mother and daughter participating in a viral social media dance challenge. The intent is to share a heartwarming and fun moment, utilizing trending audio to maximize engagement within the short-form video ecosystem.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "A Coca-Cola logo is visible on a household item, but it appears incidental and not a paid product placement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video relies heavily on the synchronization between the trending audio and the physical performance of the subjects."
+  }
+}

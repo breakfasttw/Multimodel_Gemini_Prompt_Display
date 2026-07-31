@@ -1,0 +1,266 @@
+{
+  "videoName": "mengj215-20251209171553-2185108445362285.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 12,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with light brown hair in a high ponytail adorned with a large red bow stands in a brightly lit indoor hallway. She wears a maroon and white cheerleading top with 'Rakuten' printed on it. She winks playfully at the camera while adjusting her hair. The background consists of light wood paneling and a polished tiled floor reflecting natural sunlight. (2) The woman performs a rhythmic dance routine, extending her arms forward and then circling them in front of her chest. She moves her hips and steps side-to-side with high energy. Her facial expression remains bright and cheerful, maintaining eye contact with the camera. The sunlight creates distinct reflections on the floor as she moves. (3) She executes a hair flip by bending forward and quickly whipping her head back up, letting her ponytail fly. She concludes the dance with energetic arm movements and a broad smile. The scene remains in the same well-lit hallway environment, ending in a playful and stationary pose.",
+      "text_narrative_log": "(1) [Logo]: Rakuten.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female dancer identified in a single continuous shot.",
+        "mainCharacterDescription": "A young woman with brown hair in a ponytail with a red bow, wearing a maroon and white Rakuten cheerleading outfit."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "Brightly lit indoor hallway with wooden wall panels and polished light-colored tiled floors reflecting sunlight from a nearby window.",
+        "lightingStyle": [
+          "Mixed natural and artificial light"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Rakuten"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Level"
+        ],
+        "speakingRisingRatio": 1,
+        "speakingFallingRatio": 1
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Phonk/Brazilian Funk"
+        ],
+        "tempoBPM": 125,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 3,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Fade out"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) High-tempo electronic music begins with a synthetic whoosh effect, establishing a bright and energetic atmosphere. The tempo is approximately 125 BPM with a strong rhythmic foundation. There are no spoken vocals, only the instrumental introduction with a clean, studio-processed spectral texture. (2) A punchy dance beat continues with prominent electronic percussion and synthesizers. A rhythmic male vocal tag or sample repeats intermittently, adding to the high-arousal feel of the track. The audio maintains a consistent volume and high tonal clarity, typical of modern social media trend music. (3) A female vocal melody enters the mix, singing lyrical phrases in English with an animated and clear tone. The background music swells slightly in complexity and intensity before reaching a sharp fade-out at the conclusion of the clip. The overall sound design is polished and highly dynamic."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Dance",
+        "Short Video"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 12.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Sequence",
+      "mainPurpose": "The video features a popular cheerleader performing a rhythmic dance routine to an energetic electronic track. Its primary purpose is to entertain and engage a social media audience by showcasing the creator's dance skills, cheerful personality, and professional association with a sports brand.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "flirtatious"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The dancer is wearing a professional cheerleading outfit that prominently displays the Rakuten brand logo throughout the performance.",
+      "endorsementObject": [
+        "Rakuten"
+      ]
+    },
+    "freeDescribe": "A high-energy, single-take short video featuring a professional cheerleader performing a trendy dance in a bright indoor setting."
+  }
+}

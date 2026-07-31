@@ -1,0 +1,264 @@
+{
+  "videoName": "three_muggles-20250928222355-1630236768216651.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 14,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene opens with a view of a cluttered indoor room through an open doorway. A white air conditioning unit is mounted on the wall above a wooden shelving unit filled with various items like electronics, wires, and storage boxes. (2) A young person with short black hair, wearing glasses and a striped black and white polo shirt, enters the frame from the right. They have a yellow decorative pom-pom accessory on their head and look towards the camera with a slight smile and raised eyebrows. (3) The camera focuses on the person as they stand in the doorway, their expression shifting from amusement to a neutral look of inquiry while interacting with someone off-camera. The lighting is bright and even. (4) The person eventually turns their head to the left, looks around the immediate area, and then exits the frame to the right. The camera remains fixed on the empty doorway and the cluttered shelf in the background.",
+      "text_narrative_log": "(1) [Variety]: 還沒中秋節柚子就吃完了",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female character enters and exits the frame.",
+        "mainCharacterDescription": "A young female with short black hair and glasses, wearing a black and white horizontal striped polo shirt and a yellow hair accessory."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A domestic indoor setting featuring a white wall, a wall-mounted air conditioner, and a wooden shelf packed with household items and electronics.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Single continuous take"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Home appliance"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Humorous",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Footsteps"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Indoor/RoomTone"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with the sound of light, rhythmic footsteps against a hard floor as the person enters the scene. The ambient background is a very quiet room tone, suggesting a domestic interior. (2) A female voice off-camera speaks in a casual, teasing tone with moderate pitch variability, questioning why the main character looks 'so stupid,' followed by a short, percussive laughter. The main character responds with a brief verbal query in a neutral, inquiring tone. (3) The off-camera female voice wishes a 'Happy Mid-Autumn Festival' with a friendly, rising intonation. The main character clarifies 'not yet' with clear articulation. The dialogue maintains moderate conversational loudness with no background music. (4) The track concludes with the sound of receding footsteps and a soft, final giggle from the off-camera person as the character moves away from the recording source."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 14.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Entrance -> Teasing Interaction -> Exit",
+      "mainPurpose": "A humorous short-form video capturing a playful interaction between two people where one is teased for their silly appearance due to a hair accessory.",
+      "visualEmotion": [
+        "humorous",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video relies on simple domestic interaction and visual humor derived from the person's quirky hair accessory."
+  }
+}

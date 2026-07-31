@@ -1,0 +1,282 @@
+{
+  "videoName": "imseriou-20250921131103-1968868184039024.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 95,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Three men are seated in a professional podcast studio environment. The central figure is an older man with glasses and graying hair wearing a black patterned shirt and headphones. He is flanked by a younger man in a gray denim-style jacket on the left and another man in a blue denim shirt on the right. (2) The older man speaks with highly expressive facial movements and animated hand gestures, leaning toward the microphone. Comic-style emphasis lines occasionally appear around his face to highlight his expressions. (3) A sequence of cutaway shots shows hands flipping through a thick recipe book with French text, followed by close-ups of sliced bananas being tossed and fried in a dark pan. (4) The scene returns to the studio where all three men are laughing; the man on the left covers his mouth while the man on the right claps. (5) The older man continues his story, his expressions shifting from wide-eyed shock to a mischievous grin as yellow and red subtitle overlays appear frequently at the bottom and center of the frame.",
+      "text_narrative_log": "(1) [Subtitle]: 營長突然把我叫過來. [Logo]: 资深音乐人 黄国伦老师. [Logo]: 黃氏兄弟 瑋瑋. (2) [Slogan]: 那就是你了. [Logo]: 超認真少年. (3) [Subtitle]: 我說報告營長，一輩子都不會. (4) [Variety]: 尖叫聲!!. [Subtitle]: 怎麼有辦法在軍中煮出法式. (5) [Variety]: 去罰站. [Subtitle]: 我省了幾十萬.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main narrator (older male), 2 hosts/interviewers seated beside him.",
+        "mainCharacterDescription": "An older male with glasses, gray hair, wearing a dark patterned shirt and over-ear headphones."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A podcast studio with acoustic wall panels, multiple professional microphones on boom arms, and a wooden table with Starbucks cups. Cutaway scenes show a kitchen environment with a frying pan and a close-up of a recipe book.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Cutaway",
+          "Reaction shot",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multi-camera / cutaway"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fruit",
+          "Fast food / burger / fries / pizza"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic",
+          "Headphones / earbuds",
+          "Laptop"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Starbucks"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 3,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Strings",
+          "Keyboard",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Piano",
+          "Drum Kit / Drum Set",
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Original Jingle/Brand Theme"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fades"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A clear male voice begins a narrative with high energy, accompanied by a rhythmic, upbeat acoustic pop track featuring a bright piano melody and light percussion. The BGM maintains a steady, moderate tempo. (2) A sharp 'whoosh' transition sound effect punctuates the speaker's emphasis. Another male voice joins in with brief laughter. (3) The primary speaker's pitch rises dramatically as he imitates a military officer, followed by a 'ding' comic sound effect. Background music remains consistent. (4) Multiple voices are heard laughing simultaneously, creating a layered acoustic texture. A 'pop' sound effect coincides with a visual text overlay. (5) The narrator concludes the story with a triumphant tone, his voice clear and resonant over the continuous instrumental bed which fades out slightly at the very end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Personal Talk",
+        "Comedy",
+        "Storytelling"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 3.9,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Inciting Incident -> Complication -> Resolution",
+      "mainPurpose": "The video serves as a comedic storytelling segment from a podcast where Huang Guolun shares a humorous anecdote about his mandatory military service in Taiwan, specifically revolving around a misunderstanding involving 'French cuisine' and his role as a purchaser.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No explicit product recommendation; the Starbucks cups appear to be incidental use by the speakers.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A typical social media clip format designed for high engagement through fast-paced editing, subtitle effects, and relatable comedic storytelling."
+  }
+}

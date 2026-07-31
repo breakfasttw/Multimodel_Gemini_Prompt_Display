@@ -1,0 +1,266 @@
+{
+  "videoName": "ruruspiano-20250916221050-1891548624793884.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 12,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Split-screen view. The upper section displays an animation of a character wearing a dark robe walking through a traditional Japanese-style wooden interior with soft, warm lighting. The lower section features a real person in a yellow haori with white triangles and a blonde wig playing a black grand piano. The background is a studio setting with vertical blue curtains. (2) The top screen transitions to dynamic anime close-ups featuring a character with spiky blonde hair and determined facial expressions, accompanied by visual effects resembling blue electricity. The bottom screen shows the pianist's hands executing rapid movements across the piano keys. The lighting remains bright and focused on the performance area. (3) The top half flashes through high-intensity action shots from the animation, including a character with red hair and glowing green eyes amidst vibrant energy effects. Below, the pianist continues their energetic performance with increased physical momentum, their blonde hair slightly swaying as they play the demanding musical passage on the grand piano.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main pianist in the bottom frame.",
+        "mainCharacterDescription": "The character is wearing a yellow haori with white triangle patterns over a black uniform, paired with a short, bright blonde wig."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Animation / Graphic Background"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The bottom half features a studio with blue fabric vertical curtains behind a polished black grand piano. The top half features various animated interiors and stylized energy backgrounds.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Bright and colorful"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Split-screen",
+          "Fast cuts",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multi-camera / cutaway"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "Piano"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Anime/J-Pop"
+        ],
+        "tempoBPM": 145,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Live Performance"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) An upbeat, rhythmic piano solo begins immediately without any vocal accompaniment. The music features a driving tempo of approximately 145 BPM with a clear, percussive attack on each note. The tonality is energetic and slightly dramatic. The recording is studio-clean with a silent ambient noise floor. (2) The music evolves into a more complex structure with rapid-fire melodic lines and heavy, resonant bass chords on the piano. The intensity increases significantly, creating a sense of urgency. Every note is articulated with professional clarity, and there are no incidental noises or speech segments present. (3) The performance reaches its peak energy level with hyper-fast arpeggios and high-octave melodies that demonstrate extreme technical proficiency. The spectral brightness is pronounced, highlighting the sharp hammer-to-string transients of the grand piano. The track maintains a high dynamic range and consistent musical flow until the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV",
+        "Cosplay"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 1.0,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Performance Intro -> Escalation -> Technical Climax",
+      "mainPurpose": "The video is a high-energy piano cover of an anime soundtrack, featuring the performer in character cosplay. It aims to showcase technical musical skill while appealing to fans of the 'Demon Slayer' franchise through synchronized visual montage.",
+      "visualEmotion": [
+        "energetic",
+        "intense",
+        "determined"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video effectively uses a split-screen layout to link the live musical performance directly with the narrative energy of the anime being covered."
+  }
+}

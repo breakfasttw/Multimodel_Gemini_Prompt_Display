@@ -1,0 +1,271 @@
+{
+  "videoName": "davio_magic-20250907233900-832709979802214.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 11,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Four women stand in a tight circle in a luxuriously decorated room with warm lighting. A man in a plaid shirt and cap lies on the floor inside the circle with his hands behind his head. The women wear varied outfits: a purple cropped hoodie, a white top with a black skirt, a pink top with grey shorts, and a black top with a khaki skirt. A pink text overlay at the bottom shows a countdown starting at '6'. (2) The women begin an energetic dance, moving in a clockwise circle around the man. They are smiling and laughing, gesturing with their hands. The background features high-end furniture, a well-stocked bar shelf, and a patterned rug. The countdown numbers change from 5 down to 1 in pink text. (3) As the countdown ends, one woman in the khaki skirt suddenly clutches her chest area and leans forward. The group breaks into laughter. New subtitles appear in pink. The man on the floor looks up and smiles.",
+      "text_narrative_log": "(1) [Subtitle]: 危機倒數 NG countdown. 6. (2) [Subtitle]: 5. (3) [Subtitle]: 4. (4) [Subtitle]: 3. (5) [Subtitle]: 2. (6) [Subtitle]: 1. (7) [Subtitle]: 啊～～ Ah～～. 掉出來啦 It almost out.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 5,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 man lying on the floor, 4 women dancing in a circle.",
+        "mainCharacterDescription": "The man wears a blue plaid shirt and a black cap. The women wear stylish casual outfits including a purple hoodie, miniskirts, and shorts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A spacious, upscale indoor lounge with high ceilings, decorative wall shelving filled with bottles and decor, a large table, and a patterned rug featuring a stylized figure.",
+        "lightingStyle": [
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "High angle"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Balenciaga"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 0,
+        "female_vocal_count": 4,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a sharp mechanical click followed immediately by high-energy, upbeat electronic pop BGM with a strong 4/4 kick beat. The music is bright with a prominent synth melody. Faint background chatter and high-pitched giggling from multiple women are present. (2) As the beat remains constant, the female vocal presence intensifies. Multiple voices are heard laughing and making brief, excited utterances. The acoustic environment is a large indoor room with slight natural reverb. (3) A sudden, high-pitched female scream of surprise pierces through the mix. This is instantly followed by a massive burst of loud, genuine collective laughter from all present women, drowning out the tail end of the background music. The laughter exhibits high valence and very high arousal."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend",
+        "Challenge"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 11.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Countdown -> Climax -> Punchline",
+      "mainPurpose": "To entertain the audience with a humorous 'countdown challenge' scenario. The video relies on the suspense of the countdown and the physical comedy of the dancers moving around a stationary man, culminating in an accidental 'near-malfunction' that triggers a comedic reaction.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video features a typical social media 'don't laugh' or 'countdown' trope common in Taiwanese or Chinese short video circles. High production value indoor setting suggests professional content creation."
+  }
+}

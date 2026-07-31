@@ -1,0 +1,263 @@
+{
+  "videoName": "ruruspiano-20251107013125-1464675138382473.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 47,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The screen is split horizontally; the top half features an animated cinematic of a desolate, snowy battlefield scattered with numerous swords, while the bottom half shows a woman with long white hair wearing a black-and-white dress and black opera gloves. She sits at a black grand piano, her fingers positioned on the keys. The background is composed of vertical red and gray striped curtains under bright studio lighting. (2) The upper frame cuts through several scenes including a character with silver hair and red eyes, a glowing yellow sword, and high-contrast battle effects. The pianist's hands move rapidly across the keyboard, performing complex finger patterns. Her hair hangs down over her shoulders, and her posture is upright as she focuses on the instrument. (3) A sequence in the top frame displays close-ups of character faces and glowing energy pulses. Stylized English text appears in the center of the upper frame as the performance reaches its climax. The pianist continues her vigorous playing until the final notes, where her movements slow as the piece concludes.",
+      "text_narrative_log": "(1) [Slogan]: DEVOUR EVERYTHING.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Hands only",
+          "Side view",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female pianist is visible in the lower half of the split screen.",
+        "mainCharacterDescription": "A woman with long white hair wearing a black and white ruffled maid-style dress and long black opera gloves."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A studio setting with vertical red and gray striped fabric curtains hanging behind the piano.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Side view"
+        ],
+        "editingTechniques": [
+          "Split-screen",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "Piano"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Anime/J-Pop"
+        ],
+        "tempoBPM": 150,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Live Performance"
+        ],
+        "harmonicTensionLevel": 4
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-tempo piano performance begins immediately with rapid, intricate melodic runs in a dramatic minor key. The acoustic quality is very clean with a high spectral centroid, emphasizing the brightness of the piano's upper registers. No vocals or sound effects are present. (2) The music continues with increased harmonic complexity, utilizing heavy chordal accents in the lower octaves to provide rhythmic drive. The tempo remains consistently fast at approximately 150 BPM, with no structural pauses. (3) The performance reaches a technical peak with cascading notes and high-intensity phrasing. The track maintains a pure musical focus with high tonal clarity before resolving into a final sustained chord that slowly decays."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 1.9,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Performance -> Thematic Visual Integration -> Resolution",
+      "mainPurpose": "To showcase a professional piano performance and cover of a video game theme, synchronized with cinematic game footage to engage the audience.",
+      "visualEmotion": [
+        "energetic",
+        "dramatic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video uses a split-screen format to effectively link live musical skill with relevant gaming visuals."
+  }
+}

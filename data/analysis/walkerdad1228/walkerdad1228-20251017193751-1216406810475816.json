@@ -1,0 +1,273 @@
+{
+  "videoName": "walkerdad1228-20251017193751-1216406810475816.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 20,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) In a brightly lit living room, three people—a man in a black shirt and pink shorts, a girl in a white Hello Kitty shirt, and a girl in a pink shirt and glasses—stand in front of a mirror adorned with perimeter lights. They dance energetically and mime singing, the man holding a ukulele. (2) The camera cuts to a close-up of the girl in the pink shirt; she is hunched over a white table, her eyes tightly closed and her face contorted in a distressed, crying expression. (3) The scene cuts back to the group of three in the living room, continuing their high-energy dance performance with wide arm gestures and rhythmic movements. (4) Transition to a sofa where a woman with bright pink hair sits crying into her hands. The two girls sit beside her, looking downward with solemn, sad expressions. (5) The man enters the frame, standing before the seated females, gesturing wildly with his hands and exhibiting an exaggerated, angry facial expression as if shouting. (6) A final close-up shows the man shouting directly at the girl in the pink shirt, who remains hunched over the table in distress while he points a finger at her.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 2,
+        "mainCharacterCount": 4,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 adult male, 1 adult female with pink hair, 2 young girls.",
+        "mainCharacterDescription": "A man in a black short-sleeved shirt over a white tee, pink shorts, and a blue cap. A woman with vibrant pink hair in a black t-shirt. Two girls, one in a white Hello Kitty shirt and white pants, the other in a light pink set with glasses."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A modern living room with a large mirror lined with globe lights, a grey sofa, a wall-mounted air conditioner, and bookshelves filled with collectibles and media.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Vegetables"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Hello Kitty"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 4,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 1,
+        "female_vocal_count": 3,
+        "kids_vocal_count": 2
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Melodramatic",
+          "Aggressive"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 4,
+        "dominance": 7,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 135,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Traditional Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) Fast-tempo Cantonese pop music plays with a strong, rhythmic electronic beat. Male and female voices sing along energetically with high pitch variability and loud intensity. (2) Music continues as a young girl's voice is heard let out a sharp, high-pitched sobbing sound, contrasting the upbeat music. (3) The energetic singing resumes with even higher arousal, dominated by the male voice shouting rhythmically in time with the percussion. (4) The audio texture shifts; the BGM becomes a secondary layer to audible crying and sniffling from multiple female voices. (5) The male voice breaks through with aggressive, loud shouting in Cantonese, exhibiting significant vocal strain and high dominance. (6) The sequence concludes with the male voice yelling direct questions at a high volume while the music hits a crescendo and abruptly cuts."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 2.5,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Performance -> Distress -> Confrontation",
+      "mainPurpose": "The video is a comedic skit or meme-style content that uses a sharp contrast between an energetic, joyful musical performance and exaggerated, melodramatic sadness. The intent is to create humor through the sudden shift in mood and the man's overly aggressive reaction to the crying females.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "tense"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video relies heavily on audio-visual synchrony and the emotional dissonance between the upbeat BGM and the visual depiction of crying."
+  }
+}

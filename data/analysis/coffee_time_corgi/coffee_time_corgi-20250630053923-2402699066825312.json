@@ -1,0 +1,266 @@
+{
+  "videoName": "coffee_time_corgi-20250630053923-2402699066825312.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 5,
+      "aspectRatio": "16:9"
+    },
+    "visual_base": {
+      "withRealPeople": false,
+      "visual_narrative_log": "(1) An orange tabby cat is seen hanging from two silver gymnastics rings in the center of a large stadium. The cat's body is stretched out as it grips the rings. In the background, a large audience sits in dimly lit stands under bright white spotlights. The cat has a calm facial expression with eyes closed. (2) The cat performs a dynamic mid-air flip. Its furry body rotates backward through the rings. The camera remains steady as the cat completes the rotation, showcasing detailed fur texture and fluid movement. The stadium lighting casts long shadows on the blue arena floor below. (3) The cat extends its legs and tail into a perfectly horizontal straight line, holding its weight entirely by its front paws on the rings. The background audience is blurred but clearly visible, filling the rows of seats. The floor below is a deep blue color. (4) The cat releases the rings and lands gracefully on a blue padded mat. The white Olympic rings logo is visible on the side of the mat. The cat stands on all fours, looking directly ahead with a neutral expression as the crowd in the background reacts.",
+      "text_narrative_log": "(1) [Logo]: Olympic Rings (interlocking five rings logo).",
+      "visual_human_presence": {
+        "totalHumanCount": 50,
+        "maleDetectAmount": 25,
+        "femaleDetectAmount": 25,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "The main subject is a CGI cat; the background contains a large crowd of spectators in the stadium stands.",
+        "mainCharacterDescription": "The main character is an orange tabby cat performing gymnastics; the background people are dressed in casual spectator attire."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Stage / Performance Venue"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A large indoor sports arena or stadium with dark tiered seating for a crowd, bright overhead spotlights, and a blue gymnastics mat on the floor.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cat"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Olympics"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 10,
+        "male_vocal_count": 5,
+        "female_vocal_count": 5,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering",
+          "Applause",
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 4,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Impact / Hit SFX",
+          "Applause / Laugh Track SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 3,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 3,
+        "dynamicRange": 4,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a low-intensity ambient room tone characteristic of a large indoor arena. A distinct metallic rattling and clinking sound occurs, suggesting movement against metal rings. There is a lack of primary vocals or music, creating a focused, anticipatory silence. (2) A sharp, short-duration 'whoosh' sound effect triggers, indicating rapid physical motion. This is followed immediately by a percussive 'thud' sound with a muffled quality, representing a heavy impact on a soft surface. The spectral brightness increases slightly with these transients. (3) The phase begins with a high-intensity surge of collective human noise. Multiple voices are heard cheering and whistling, combined with a dense layer of rhythmic applause. The vocal arousal is very high, drowning out the previous ambient silence. No background music is present."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend",
+        "Animation"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 3,
+      "averageSceneDuration": 1.25,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Prep -> Action -> Landing -> Reaction",
+      "mainPurpose": "To showcase a surreal and humorous AI-generated animation of a cat performing professional-level gymnastics on rings to entertain the audience.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "impressive"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video features high-quality CGI animation blending animal realism with professional sports context for viral humor."
+  }
+}

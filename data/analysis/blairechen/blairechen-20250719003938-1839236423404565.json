@@ -1,0 +1,261 @@
+{
+  "videoName": "blairechen-20250719003938-1839236423404565.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 6,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) In a bright, sterile white studio, a woman with long dark hair, wearing a black long-sleeved top and blue jeans, sits on a white chair holding a small white device to her face. Opposite her sits a bald man in a black shirt and black pants on an identical chair. Overhead, a professional studio light and a white air conditioning unit are visible against the white walls. (2) The woman lowers the device from her face and reaches up with both hands to adjust her hair, tucking strands behind her ears. The man remains motionless, maintaining an upright seated posture while facing her. The lighting is uniform and bright throughout the minimalist space. (3) The entire camera view shifts into a deep blur, making the two figures and the background equipment indistinct. Bold white text appears in the center of the frame, layered over the out-of-focus scene. The overall lighting level remains high and consistent during this transition.",
+      "text_narrative_log": "(1) [Logo]: Blaire 真心相談室. [Slogan]: Coming soon.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 man and 1 woman sitting facing each other.",
+        "mainCharacterDescription": "A woman with long brown hair in a black top and denim; a bald man in a black long-sleeved shirt and black pants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A minimalist all-white studio environment featuring professional track lighting, a focused spotlight fixture, and a wall-mounted air conditioner.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Dissolve"
+        ],
+        "visualRhythm": [
+          "Slow pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Lighting equipment / ring light",
+          "Home appliance"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Ballad/Sentimental"
+        ],
+        "tempoBPM": 72,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Cover/Remix"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 1,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Fade out"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track opens with a gentle, resonant piano melody, quickly joined by a breathy, high-fidelity female vocal singing the English lyric 'I have died'. The acoustic texture is clean and spacious, suggesting a professional studio environment with slight reverb. (2) The singing continues into the line 'every day waiting for you', with the vocalist maintaining a slow, expressive tempo and a soft, sentimental tone. The piano provides steady harmonic accompaniment without any percussive elements or interference. (3) As the vocal delivery transitions to the phrase 'Darling don't...', the arrangement maintains its minimalist, acoustic focus. The track exhibits high spectral clarity and tonal purity, eventually concluding with a smooth, technical fade out."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 6.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Teaser Reveal",
+      "mainPurpose": "This video serves as a promotional teaser for an upcoming show or series titled 'Blaire 真心相談室'. It uses a minimalist visual aesthetic and a sentimental piano ballad to create an emotional, intimate atmosphere, suggesting the show will involve heart-to-heart conversations or sensitive storytelling.",
+      "visualEmotion": [
+        "calm",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The short duration and use of a blur transition to reveal title text are characteristic of social media announcement teasers."
+  }
+}

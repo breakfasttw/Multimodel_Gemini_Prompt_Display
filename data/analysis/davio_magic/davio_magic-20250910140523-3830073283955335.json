@@ -1,0 +1,264 @@
+{
+  "videoName": "davio_magic-20250910140523-3830073283955335.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 14,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) An indoor living room setting with purple and pink neon lighting features a man on the left wearing a black and white maid costume. He holds a white smartphone, filming a group of four women who are seated at a white table. Another woman stands behind them, waving two bright hand-held lights to create dynamic lighting effects in the room. (2) A smaller rectangular inset video is positioned at the bottom center of the frame, showing close-up shots of each woman individually. The inset transitions rapidly between clips where the women smile, perform heart gestures with their hands, and pose playfully for the camera while the main scene remains static and continuous. (3) The women seated at the table interact with the filming maid, showing expressive facial movements and occasionally looking at the camera. The background is a large window with vertical blinds, reflecting the purple interior glow, while a variety of plastic cups and items are scattered on the tabletop.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 6,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 5,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 6,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 man in a maid costume filming, 1 woman standing behind, and 4 women sitting at a table.",
+        "mainCharacterDescription": "A man in a black and white maid outfit and several young women in stylish white and light-colored tops."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern indoor living space with purple ambient lighting, vertical blinds on a large window, and a white marble table.",
+        "lightingStyle": [
+          "Neon / colored light"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Picture-in-picture / inset",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Rewind / Tape Stop SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy Electronic Dance Music (EDM) starts immediately with a prominent, driving kick drum and bright, pulsating synthesizer leads at a fast tempo of approximately 128 BPM. The mix is clear and studio-produced with no environmental noise. (2) As the beat continues, a digital transition sound effect resembling a record scratch or quick rewind occurs, perfectly synchronized with the visual shifts in the inset video. The percussion remains intense while subtle atmospheric synths fill the background. (3) The music maintains its energetic peak with continuous 4/4 beats and catchy melodic motifs. The frequency balance is bright and crisp, highlighting the high-arousal nature of the track without any audible distortion or background interference."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Short Video"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 2.3,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Context Establishment -> Rhythmic Highlights",
+      "mainPurpose": "To showcase a fun, behind-the-scenes atmosphere of a choreographed video shoot by contrasting the wide group scene with dynamic individual highlight clips in an inset.",
+      "visualEmotion": [
+        "energetic",
+        "cheerful"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video effectively uses a split-screen/inset approach to combine a 'making-of' vibe with a final performance outcome, set to a high-tempo EDM track."
+  }
+}

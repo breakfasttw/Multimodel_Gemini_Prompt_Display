@@ -1,0 +1,270 @@
+{
+  "videoName": "aries_8248-20251112234600-1228959199351867.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 8,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Eye-level static shot of a woman with long black hair in a grey t-shirt and grey pants sitting cross-legged on a man's upper back. The man is on a white tiled floor in a push-up position, back bare and head down. The living room background features a white sofa and tall curtains. (2) The man begins performing push-ups, lowering and raising his body while the woman balances steadily. The woman looks directly into the lens and starts to smile widely, eventually breaking into laughter. Her hands reach up to cover her mouth as she reacts to the situation. (3) The man continues his repetitive physical movement. The woman’s expression remains joyous, with her eyes squinting in laughter. The lighting remains bright and natural throughout the sequence, highlighting the muscular tension in the man's back and the woman's casual attire.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Back view",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main female character, 1 main male character",
+        "mainCharacterDescription": "The woman has long, straight black hair and is dressed in a casual grey t-shirt and loose grey lounge pants. The man is shirtless, showcasing a muscular build, and is wearing dark athletic shorts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, modern indoor living room featuring a light-colored sofa to the left, floor-to-ceiling white translucent curtains in the center, and a wooden storage cabinet with decorative items on the right. The floor is made of polished white tiles.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Natural daylight"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Single continuous take"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 125,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) High-tempo electronic pop music begins with a clear male vocal melody. The BPM is around 125, featuring a driving electronic drum beat and shimmering synthesizer textures. The audio is studio-clean with no perceptible ambient noise floor or incidental sounds from the environment. (2) The vocal phrasing in the background music shifts slightly as it enters a new melodic line with an energetic delivery. The instrumental energy remains consistent with sharp percussion transients. There are no sound effects or environmental sounds; the master track is purely the music layer."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Lifestyle",
+        "Sports / Fitness",
+        "Comedy"
+      ],
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 8.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Action",
+      "mainPurpose": "The video is intended as lighthearted entertainment, showcasing a fitness-related couple challenge. It captures the dynamic between a man demonstrating physical strength through weighted push-ups and a woman reacting with amusement, designed to engage a social media audience with impressive yet playful domestic content.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A static, single-take clip focusing on a domestic fitness challenge with a playful, high-energy pop music soundtrack."
+  }
+}

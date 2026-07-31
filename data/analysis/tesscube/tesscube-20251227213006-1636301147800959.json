@@ -1,0 +1,261 @@
+{
+  "videoName": "tesscube-20251227213006-1636301147800959.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 4,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": false,
+      "visual_narrative_log": "(1) The scene opens with a close-up of a deep purple pot filled with a liquid containing many sliced yellow apples and red strawberries. A black ladle is submerged in the mixture. In the background, a dark bottle with a white cap and a glass lid are visible against a neutral wall under bright, flat lighting. (2) The black ladle is lifted out of the liquid, scooping up several thin apple slices and strawberry halves. The fruits appear vibrant and fresh, with the liquid coating them. The camera remains static, focusing on the texture of the fruit. (3) The ladle is held momentarily above the pot before the liquid is poured back in, with the ladle tilting slightly. No hands or people are visible, only the movement of the kitchen tool within the frame.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 0,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": [
+          "None"
+        ],
+        "crowdLevel": [
+          "None"
+        ],
+        "countingEvidence": "No humans or body parts are visible in the frame; only a ladle is moving.",
+        "mainCharacterDescription": "None"
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Kitchen"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A kitchen countertop environment with a dark glass bottle (likely oil or vinegar) and a transparent pot lid leaning against a light-colored wall.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fruit",
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Mandarin"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 6,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 85,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String"
+        ],
+        "instrumentsAudible": [
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Liquid Pour / Splash"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice speaks in Mandarin with a clear, informative, and friendly tone. A gentle acoustic guitar background track plays at a moderate tempo, providing a warm atmosphere. The recording is studio-clean with very low ambient room tone. (2) A distinct soft liquid splashing sound occurs as the ladle moves through the fruit mixture, creating a brief transient noise event. The speaker's cadence remains steady, and the guitar continues its melodic progression without interruption. (3) The speaker's voice rises slightly in pitch towards the end of the phrase, suggesting a recommendation or a concluding thought. The acoustic music persists until the final second of the clip, maintaining its calm texture."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Cooking Tutorial"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 4.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Action",
+      "mainPurpose": "The video aims to showcase a fruit-based beverage or dessert (possibly mulled wine or a fruit tea) by highlighting the rich abundance of fresh ingredients through a close-up demonstration of ladling the fruit.",
+      "visualEmotion": [
+        "warm",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video shows generic fruit and kitchenware without any visible brand logos or specific promotional speech.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The high visual saturation of the strawberries and apples combined with the gentle acoustic audio creates a cozy, appetizing atmosphere typical of short-form lifestyle or food content."
+  }
+}

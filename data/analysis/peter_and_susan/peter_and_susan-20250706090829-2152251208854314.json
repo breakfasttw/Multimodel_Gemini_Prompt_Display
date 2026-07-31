@@ -1,0 +1,275 @@
+{
+  "videoName": "peter_and_susan-20250706090829-2152251208854314.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 50,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young boy walks forward wearing a black long-sleeved shirt and blue shorts, equipped with a teddy bear-shaped backpack that has a leash attached. A toddler girl wearing a white top and blue denim overalls holds the leash, following him closely on a grey paved walkway. (2) The camera follows the siblings from behind as they traverse a modern outdoor shopping plaza corridor. Several adult passers-by wearing casual clothing and face masks walk in the opposite direction. The lighting is bright and natural, reflecting off the glass storefronts and red architectural pillars. (3) The toddler girl pulls on the strap and laughs joyfully, her mouth wide open and eyes squinting. The boy looks back and smiles at her as they continue walking along a glass-railed path with green trees and urban buildings visible in the background.",
+      "text_narrative_log": "(1) [Variety]: 遛小孩最高境界 遛他哥.",
+      "visual_human_presence": {
+        "totalHumanCount": 12,
+        "maleDetectAmount": 5,
+        "femaleDetectAmount": 5,
+        "kidsDetectAmount": 2,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Back view",
+          "Side view",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "2 main children and approximately 10 various passers-by visible throughout the corridor sequence.",
+        "mainCharacterDescription": "A young boy in a black sweater and blue shorts with a teddy bear backpack; a toddler girl with a pink flower hair clip, white ruffled shirt, and denim overalls."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Shopping Mall / Department Store",
+          "Urban Plaza / Square",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern urban plaza walkway featuring grey stone tiles, red structural columns, glass-paneled railings, and glass entrances to retail stores with indoor shelving visible.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Spring / Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Walking handheld",
+          "Follow shot"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Back view"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 3,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 9,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk",
+          "Pop"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Keyboard",
+          "String"
+        ],
+        "instrumentsAudible": [
+          "Piano",
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Footsteps"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 1,
+        "vocalRatio": 2,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 2,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) An upbeat, bright piano and acoustic guitar background track plays continuously. Soft percussive thudding from footsteps on hard tile accompanies the music. A young child's high-pitched giggling and joyful squealing periodically rise above the music bed. (2) A female adult voice off-camera speaks with a calm, friendly tone, followed by another burst of high-arousal laughter from the toddler. The music maintains a constant tempo and happy harmonic mode, with minimal environmental interference from the open urban space. (3) The rhythmic sound of footsteps continues as the child babbling persists. The spectral brightness remains high, focusing on the clarity of the musical notes and the child's vocal expressions. The overall acoustic environment is clean and optimistic."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Family / Kids",
+        "Comedy",
+        "Short Video"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 50,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence",
+      "mainPurpose": "A lighthearted and cute family video showcasing a humorous role reversal where a toddler girl is 'walking' her older brother via a leash attached to his backpack. It aims to evoke warmth and laughter through the siblings' playful interaction in a public urban setting.",
+      "visualEmotion": [
+        "warm",
+        "humorous",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video features a single long take with high-valence emotional content, making it highly engaging for family-oriented social media audiences."
+  }
+}

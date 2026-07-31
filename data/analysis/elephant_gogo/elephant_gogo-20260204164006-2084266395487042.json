@@ -1,0 +1,268 @@
+{
+  "videoName": "elephant_gogo-20260204164006-2084266395487042.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 10,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A group of approximately eleven young people, all dressed in white shirts, are seen through the rectangular sunroof of a car from an interior perspective. They are densely packed, smiling, waving, and holding up multiple smartphones to capture a group selfie from above. The background behind them shows a bright outdoor setting with a white building and green foliage under clear daylight. (2) The camera perspective remains low inside the car, looking up. The group through the sunroof continues to pose and smile. In the dark interior foreground, two figures (a man and a woman in silhouette) lean their heads toward each other from the left and right sides of the frame, moving into a close-up profile view as they prepare to kiss, framing the group through the sunroof between them.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 13,
+        "maleDetectAmount": 6,
+        "femaleDetectAmount": 7,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Face",
+          "Upper body",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "11 people visible through the sunroof, and 2 people in the car's interior foreground.",
+        "mainCharacterDescription": "The main characters consist of a group of young adults in matching white tops/shirts, and a couple in the car wearing casual white attire."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Car / Van Interior",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The immediate background is the dark interior of a modern car with a rearview mirror visible. Through the sunroof, a bright white building with square windows and green trees are visible against a bright sky.",
+        "lightingStyle": [
+          "Mixed natural and artificial light"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "High contrast"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Group shot"
+        ],
+        "cameraAngles": [
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Digital UI SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a bright, synthesized electronic melody featuring a strong 4/4 beat. A rhythmic 'pop' sound effect, resembling a camera shutter or a digital interface click, repeats consistently every half-second. There is no human speech. (2) At roughly six seconds, a slightly sharper digital transition sound occurs. The electronic BGM continues with the same upbeat tempo and rhythmic structure, maintaining high spectral brightness and percussive energy throughout the end of the clip. The background is acoustically clean with no environmental noise."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 10.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Narrative Shift",
+      "mainPurpose": "To participate in a social media trend that displays a large, energetic group of friends before shifting focus to a romantic moment between a couple in the foreground.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "romantic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video utilizes a clever 'perspective' trick where the group is framed within the sunroof, and the couple frames the group in the car's interior."
+  }
+}

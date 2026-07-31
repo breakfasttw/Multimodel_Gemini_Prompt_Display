@@ -1,0 +1,265 @@
+{
+  "videoName": "cyfang58-20260122113658-1305383461646543.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 11,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A man in a beige sweater and light blue jeans stands in a batting stance on a green artificial turf field. To his left, a woman in a long white dress stands near a projector screen. Behind him, large gold letter balloons spell BABY BOY GIRL against a dark mesh wall decorated with lights and flowers. (2) The camera pans quickly to the right, showing a crowd of spectators in a warehouse-like building with corrugated metal walls. A man in the foreground holds a small child while others watch with anticipation from the sidelines, some holding phones. (3) The man swings a dark wooden bat at a small white ball tossed into the frame. Upon contact, the ball explodes into a large cloud of bright blue powder and smoke, filling the air around the man and the nearby signage. (4) The man throws his arms up in the air, still holding the bat, and shouts in triumph towards the ceiling. The woman in the white dress claps and jumps excitedly, while several people from the crowd run toward the man to celebrate the revelation.",
+      "text_narrative_log": "(1) [Logo]: BABY BOY GIRL.",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main man swinging the bat, 1 woman in white, and at least 6 spectators in the background including a man with a child.",
+        "mainCharacterDescription": "The main character is a young adult male wearing a light beige sweater and faded blue denim jeans."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Event Venue / Convention Hall"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An indoor event space with green artificial grass flooring and industrial corrugated metal walls. The background features a celebration wall with gold foil balloons, floral props, and a projector screen.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning"
+        ],
+        "shotSize": [
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Projector",
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 8,
+        "male_vocal_count": 3,
+        "female_vocal_count": 4,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Simplified Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 1
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 9,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering",
+          "Laughter",
+          "Screaming/Yelling"
+        ],
+        "crowdNoiseIntensity": 4,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A group of mixed male and female voices chants a synchronized countdown in Mandarin, saying Sān, èr, yī with clear articulation and rising volume. No background music is present, only the resonant room tone and echoing atmosphere of a large indoor facility. (2) A singular, sharp mechanical impact sound occurs, characterized by a sudden high-frequency crack as a wooden object strikes a solid projectile. This transient acoustic event is brief but stands out prominently against the previous vocal layer of the counting group. (3) An instantaneous explosion of high-arousal vocal sounds follows, including loud screams, cheering, and rhythmic clapping from multiple individuals. The soundscape is dense, with overlapping high-pitched female shouts and deeper male cheers, creating a chaotic and festive atmosphere of pure celebration. (4) The sustained roar of the crowd continues with high energy and extremely positive emotional valence. The voices remain unscripted and enthusiastic, dominating the audio spectrum with broadband noise and varied vocal inflections as people move and shout near the microphone recording area."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Family / Kids",
+        "Short Video"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 11.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Action -> Reveal -> Celebration",
+      "mainPurpose": "The video serves as a celebratory documentation of a gender reveal event. The participant uses a baseball-themed activity to announce the sex of an expected baby via blue smoke, successfully capturing the high-energy emotional response and communal joy of the family and friends gathered.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A high-arousal social event video featuring genuine emotional reactions and clear visual storytelling of a gender reveal."
+  }
+}

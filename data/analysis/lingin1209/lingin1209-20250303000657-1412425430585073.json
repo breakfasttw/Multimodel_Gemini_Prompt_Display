@@ -1,0 +1,264 @@
+{
+  "videoName": "lingin1209-20250303000657-1412425430585073.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 11,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A high-angle static shot reveals a bright, minimalist bedroom characterized by its white curved ceiling and integrated lighting. The central focus is a large bed with a white-and-yellow patterned duvet and thick grey blankets, which appear slightly disheveled. A glass partition in the background reflects the modern, airy interior. (2) Vigorous movement erupts under the heavy grey duvet, causing the fabric to bunch and ripple across the mattress. A man wearing black-rimmed glasses and dark hair suddenly pops his head out, displaying a wide, ecstatic smile and squinting eyes. He moves his head energetically before retreating back under the covers. (3) The man settles down, tucked tightly within the bedding with only his head resting on a white rectangular pillow visible. His facial expression transitions from high excitement to a relaxed, cozy state with a slight smile as he appears to be enjoying the warmth and comfort of the bed.",
+      "text_narrative_log": "(1) [Variety]: 冬天感到無比幸福時刻的你.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main male creator appearing under the duvet.",
+        "mainCharacterDescription": "A man with short dark hair and black-rimmed glasses, appearing casual and energetic."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Bedroom"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern, bright indoor bedroom featuring a curved recessed ceiling, white walls, a large mirror or glass partition, and minimalist furniture including a low bed and side table.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 3
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The sequence begins with a very clean, high-fidelity acoustic environment that is almost silent, exhibiting a faint indoor room tone characteristic of a professional studio recording. There is no presence of music or human vocalization, setting a calm and neutral initial auditory baseline for the clip. (2) A series of high-pitched, rhythmic vocal grunts and breathy \"mff-mff\" sounds enter the mix, showing high arousal and dynamic pitch variability. These non-verbal sounds are tightly synchronized with the percussive, textured rustling of thick fabric and soft thudding impacts of body movement against the mattress. (3) The audio reaches a peak with a sharp, high-frequency \"Whoo!\" exclamation that features a strong rising intonation. This is followed by a sequence of loud, audible exhales and heavy breathing, indicating physical exertion and subsequent satisfaction. The intensity of the mechanical fabric noises gradually fades into the quiet room tone."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Lifestyle"
+      ],
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 11.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Action -> Contentment",
+      "mainPurpose": "The video uses exaggerated vocal expressions and energetic movement to humorously depict the extreme happiness and comfort of staying under warm blankets during cold winter mornings, aiming to entertain through a relatable and high-energy lifestyle snippet.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video is a single-take relatable comedy clip relying heavily on vocal performance and physical acting."
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "videoName": "wia627-20250727034819-1823326848346103.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 49,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young child with messy dark hair sits at a light-colored wooden table. They wear a light blue t-shirt with a white polar bear face. Plates of sliced watermelon and mango are on the table. A smartphone in an orange case sits on the table showing a woman gesturing. A TV in the background displays a purple-toned cartoon. (2) The child stands up on the wooden chair, looking towards the camera. The camera pans down to show an adult's legs in black shorts and a white tile floor. The lighting is bright and warm from indoor overhead sources. A purple water bottle is visible next to a green canister on the table. (3) The child crouches on the chair, leaning toward the smartphone. An adult's hand enters the frame to touch the child's back. The child watches the video intently, their facial expression shifting from curious to a slight smile. The background shows a white sofa and light-colored curtains. (4) The camera zooms in on the smartphone screen. The child points a finger at the image of the woman on the screen. An adult's hand also points at the screen. The child looks up at the filmer, grinning widely and showing teeth. (5) The child stands upright on the chair and pulls up their t-shirt to reveal their stomach and a white diaper. An adult's hand reaches in to playfully rub the child's belly. The child raises their arms in the air, looking happy and excited while looking away from the table.",
+      "text_narrative_log": "(1) [Logo]: @黄老师 小小花园. [Subtitle]: 在特别大的花园里面挖呀挖呀挖. (2) [Subtitle]: 种特别大的种子开特别大的花. [Logo]: remix studio. (3) [Subtitle]: 黄老师.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only",
+          "Feet / Legs"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main child, 1 adult filmer (only limbs visible).",
+        "mainCharacterDescription": "A young boy with dark messy hair wearing a light blue polar bear t-shirt and a white diaper."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern residential dining and living area with white walls, a large TV, a cream sofa, and wooden furniture.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Tilting"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Simplified Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fruit",
+          "Vegetables"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Simplified Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Simplified Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Keyboard",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Piano",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio features a bright, upbeat piano and electronic BGM with a clear female vocal singing a rhythmic nursery rhyme in Mandarin. The tempo is brisk and energetic. A child's voice mimics a loud 'Wa!' sound in sync with the song's climax. The spectral balance is bright, favoring high-frequency vocal and melodic elements. (2) A male adult voice enters with a warm, friendly tone, speaking to the child. The BGM continues steadily at the same volume. Occasional low-frequency thuds and rustling sounds suggest the camera operator moving or the child shifting on the wooden chair. The vocal quality of the male speaker is clear and authoritative yet kind. (3) The female singing from the phone video continues as a background layer while the male filmer asks questions. The child responds with high-pitched, excited syllables. There is a consistent interplay between the structured background music and the spontaneous conversational speech. (4) The male voice asks 'Who is this?' and the child clearly replies with 'Huang Laoshi'. The acoustic energy increases as both speakers engage. The BGM maintains a stable 4/4 rhythm. Incidental noises from fabric rustling are heard as the child interacts with their clothing. (5) The clip concludes with the male filmer giving verbal praise, 'Hen bang o', which has a rising intonation and high positive valence. The child giggles softly, adding a short transient harmonic texture. The BGM remains constant until the end of the recording."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Family / Kids",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 12.25,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Observation -> Interaction -> Climax",
+      "mainPurpose": "To document a heartwarming and humorous family moment where a young child recognizes and reacts to a popular viral teacher on a smartphone, culminating in the child showing off their belly in excitement.",
+      "visualEmotion": [
+        "warm",
+        "humorous",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video captures a cross-generational digital trend where viral social media content (the 'Waya Waya Wa' song) influences real-world child behavior and family interaction."
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "videoName": "1006nk-20251020134650-1983517702230454.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 3,
+      "aspectRatio": "1:1"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video presents a split-screen composition featuring two young children. On the left, a young girl with short black hair wears a sleeveless light pink dress accented with a decorative floral or lace-textured belt; she is captured mid-laugh with her eyes tightly squinted and mouth open. Behind her, a blurred indoor environment suggests a domestic setting with a hint of green foliage. On the right, a young boy with short-cropped hair is positioned against a plain light-colored wall; he wears a black crew-neck t-shirt featuring a large, vibrant cartoon burger graphic with expressive eyes. A small blue rectangular tag with white text is pinned to the chest area of his shirt. Both children appear joyful, maintaining a static pose relative to the camera throughout the short duration.",
+      "text_narrative_log": "(1) [Logo]: KAUTIV.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 2,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Head and shoulders"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 female child on the left, 1 male child on the right.",
+        "mainCharacterDescription": "A girl in a pink lace-belted dress and a boy in a black t-shirt with a burger graphic and a blue tag."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The left side shows a blurred indoor living space with possible plants; the right side is a flat, neutral-colored interior wall.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Split-screen"
+        ],
+        "visualRhythm": [
+          "Single continuous take"
+        ],
+        "takeStructure": [
+          "Looped short-form sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Food on packaging / logo"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "KAUTIV"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 1,
+        "musicToSpeechLoudRatio": 4,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-pitched, percussive 'pop' sound effect, immediately followed by an upbeat, electronic pop BGM featuring a steady 4/4 drum machine beat and bright synthesizer chords in a major key. Amidst the music, a faint, high-pitched child's giggle is heard, exhibiting high emotional valence and joy. (2) The BGM continues with consistent tempo and energy; no spoken dialogue occurs. The acoustic environment is very clean, indicating a post-produced or studio-level mix with high spectral brightness and minimal ambient noise floor interference."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Family / Kids"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 3.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Snapshot -> Joy Expression",
+      "mainPurpose": "To capture and present a moment of pure childhood happiness and innocent expressions. The video serves as a digital photo-style memory or a short, cheerful social media clip showcasing two children smiling and laughing.",
+      "visualEmotion": [
+        "warm",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A very brief, static split-screen comparison or montage likely used for family sharing or as a template for a 'happy moments' compilation."
+  }
+}

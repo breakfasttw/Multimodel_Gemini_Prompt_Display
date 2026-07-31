@@ -1,0 +1,268 @@
+{
+  "videoName": "1105ya-20250707094130-1069584905327516.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 19,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A female performer stands on a large, brightly lit stage, wearing an oversized grey t-shirt and white thigh-high boots. She holds a glowing pink heart-shaped lightstick in her right hand. The background features a massive LED screen displaying blurred visuals and sharp green laser beams slicing through the dark air. (2) She begins an energetic dance routine, gesturing toward the cheering crowd. The camera, handheld and slightly shaky, captures pink lightsticks held by audience members in the foreground. The stage lighting shifts to vibrant pink and purple hues, reflecting off her boots as she moves dynamically across the platform. (3) The performer turns away from the camera, showcasing her long dark hair as she continues to dance. The stage background transitions to a display of purple floral patterns on the screen. Dozens of fans' hands are visible, holding phones and lightsticks, capturing the high-energy performance under flashing stage lights.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 20,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 main performer on stage, at least 20 fans visible in the foreground and on the background screen.",
+        "mainCharacterDescription": "A female with long dark hair, wearing an oversized grey t-shirt and white thigh-high boots."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Stage / Performance Venue"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A massive stage with a large LED video screen, professional stage lighting, and laser equipment. The foreground shows a dense crowd in a dark stadium environment.",
+        "lightingStyle": [
+          "Neon / colored light"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Bright and colorful"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Lighting equipment / ring light"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 5,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Vietnamese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 3,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 9,
+        "valence": 8,
+        "dominance": 8,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "K-Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 130,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 4
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering",
+          "Screaming/Yelling"
+        ],
+        "crowdNoiseIntensity": 4,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 3,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 3,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 5,
+        "harmonicsToNoiseRatio": 3,
+        "hasAudioDistortion": true
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) High-tempo electronic pop music erupts with a powerful bass kick and sharp synth textures. A female voice shouts energetically, greeting the audience in a loud, projected tone with high vocal arousal. Simultaneously, a massive roar of crowd noise—cheering and screaming—fills the acoustic space, creating a dense, high-energy atmosphere. (2) The vocal delivery shifts to rhythmic hyping phrases, delivered with a sharp pitch and fast speech rate over a continuous four-on-the-floor beat. The BGM maintains high harmonic tension as synth layers swell. Frequent incidental screams from nearby fans pierce through the mix, adding to the chaotic live concert texture. (3) The music enters a more percussive phase with heavy drum machine transients and a bright spectral profile. The singer's voice remains dominant, exhibiting a professional, animated tone. The ambient noise floor is dominated by the reverberant acoustics of the stadium, mixed with the high-intensity music and relentless crowd applause."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV"
+      ],
+      "location": {
+        "country": [
+          "Vietnam"
+        ],
+        "city": [
+          "Hanoi"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 19.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Performance -> Crowd interaction",
+      "mainPurpose": "To showcase a high-energy live performance highlight of a famous singer (Jennie from BLACKPINK) during a concert, capturing the atmosphere and the performer's interaction with the fans.",
+      "visualEmotion": [
+        "energetic",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "This is a typical fan-recorded concert video (fancam) focusing on a main performer's dance and stage presence."
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "videoName": "ruruspiano-20251029230529-1216154233996751.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 35,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The frame is split horizontally. In the bottom half, a person with short teal hair, wearing a yellow cap and a bright pink polo shirt, is seated at a black grand piano against a backdrop of purple acoustic panels. Their hands are actively playing the keys. The top half shows a high-quality 3D animation of a male virtual pop group posing together. (2) The visual transitions into a series of cuts within the animation, showing individual members of the animated group performing, singing, and emoting. The pianist in the bottom frame maintains a consistent angle, showing their side profile and hands as they play the melody. Lighting in the piano studio is soft and colorful. (3) The animation shows the full group of six characters performing a synchronized dance routine in an urban plaza setting with a crowd in the background. The pianist continues to play with increasing intensity, their fingers moving rapidly across the ivory and ebony keys in the lower half of the screen. (4) The animation cuts to reaction shots of various 3D characters in the crowd, including a girl in a pink hoodie with a shocked expression and another with a joyful smile. The pianist's hands perform a final sequence of complex chords before the video concludes.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Side view",
+          "Hands only",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female pianist is visible in the bottom half of the screen; the animated characters in the top half are digital avatars.",
+        "mainCharacterDescription": "A pianist with vibrant teal hair, wearing a yellow baseball cap, a pink long-sleeved polo shirt, and blue jeans."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Digital Interface / Screen Capture"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The primary real-world background consists of a music studio with vertical acoustic treatment panels illuminated by purple LED lighting. The animated portion features various urban settings, including a plaza and a concert-like crowd scene.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Bright and colorful"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Side view"
+        ],
+        "editingTechniques": [
+          "Split-screen",
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "Piano"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Live Performance"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track features a high-fidelity solo piano performance. The pianist begins with a melodic and rhythmic motif in a minor key, played with clear transients and a bright spectral profile. The tempo is brisk and consistent, reflecting a pop-style composition played on an acoustic instrument. (2) As the melody progresses, the performance becomes more percussive with staccato notes in the higher register. There is no background noise, speech, or SFX; the mix is entirely dedicated to the piano's harmonic output. (3) The intensity swells during the final segment, with the pianist executing rapid-fire arpeggios and rhythmic syncopation. The acoustic environment is dry and intimate, indicating a professional studio recording environment with excellent signal clarity."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 15,
+      "averageSceneDuration": 2.3,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Performance -> Visual Comparison -> Conclusion",
+      "mainPurpose": "To showcase a live piano cover of the song 'PARANOIA' by the virtual group HEARTSTEEL. The video uses a split-screen format to link the live musical performance directly to the original animated source material, appealing to fans of League of Legends and K-pop.",
+      "visualEmotion": [
+        "energetic",
+        "focused"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video successfully merges gaming subculture with musical talent through a high-quality piano cover of a virtual group's debut track."
+  }
+}

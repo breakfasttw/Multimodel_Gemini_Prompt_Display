@@ -1,0 +1,265 @@
+{
+  "videoName": "1105ya-20250909075324-4234063073589833.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 28,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene opens on a large, brightly lit concert stage shrouded in a light haze of smoke. A central female performer, dressed in a sparkling silver two-piece outfit consisting of a crop top and a short skirt, stands poised at the center. She is surrounded by four dancers in white athletic crop tops and matching shorts, who are performing low-to-the-ground synchronized movements on raised platforms. The background features a massive screen displaying shimmering, vertical patterns under intense white spotlights. (2) The main performer begins to move dynamically, holding a microphone to her mouth as she executes choreographed dance steps. Her facial expression is focused and energetic. The dancers behind her transition into more upright, fluid motions, their limbs extending in unison. The background visuals on the screen shift to abstract, flowing pink and silver textures, while the stage lighting pulsates to the rhythm of the performance. (3) The camera zooms in slightly, capturing the main performer as she delivers a powerful vocal sequence while maintaining a commanding stage presence. She points towards the audience and tosses her long, dark hair. The lighting becomes even more intense with high-contrast beams cutting through the smoke. The backup dancers continue their high-energy routine on the platforms, their movements sharp and synchronized with the central artist's performance.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 5,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female performer and 4 backup dancers are visible on stage.",
+        "mainCharacterDescription": "A female performer wearing a sparkly silver/grey crop top and a matching short skirt with her hair styled long and straight."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Stage / Performance Venue"
+        ],
+        "locationTopography": [
+          "Unknown"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A large concert stage with multi-level platforms, heavy smoke effects, and a giant LED screen displaying abstract metallic and pink visuals.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Bright and colorful"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 7,
+        "dominance": 8,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Live Performance"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering",
+          "Screaming/Yelling"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy electronic dance music with a heavy, driving kick drum beat (approx. 128 BPM) dominates the mix. Intense cheering and high-pitched screaming from a large crowd are audible in the background, creating a live concert atmosphere. The BGM features bright synthesizer leads and a percussive texture. (2) A clear, energetic female voice enters, performing a rapid-fire rap sequence with high arousal and confident dominance. The vocal pitch is moderately high with sharp articulation. The BGM maintains its heavy beat and rhythmic intensity, perfectly synchronized with the vocal delivery. (3) The vocal performance transitions into a melodic phrase with complex intonation while the crowd noise surges during a brief instrumental break. The acoustic environment is bright and expansive, characteristic of a large indoor venue, with the signal-to-noise ratio remaining high despite the audible audience reactions."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 28,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Performance -> Climax",
+      "mainPurpose": "To showcase a live musical performance by a popular artist, capturing the energy of the stage show and the excitement of the live audience for fan engagement.",
+      "visualEmotion": [
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A high-energy live concert clip featuring a polished stage production and professional choreography."
+  }
+}

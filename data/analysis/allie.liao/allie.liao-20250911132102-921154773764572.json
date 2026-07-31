@@ -1,0 +1,264 @@
+{
+  "videoName": "allie.liao-20250911132102-921154773764572.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 23,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young person with long black hair and straight bangs is framed in a medium close-up, looking directly at the camera. They are wearing a light blue lace-trimmed camisole. The setting is a brightly lit indoor room, appearing to be a bedroom with a blurred background. They maintain a slight smile and eye contact with the viewer. (2) As the person speaks, they tilt their head slightly and touch their hair near their neck. Their facial expressions are lively and expressive, reacting to the text appearing on the screen. The lighting is soft and natural, emphasizing the subject's clear skin and feminine features. (3) The shot remains static, focusing on the subject's face and upper torso. The person looks slightly upward and to the side before returning their gaze to the lens. Their expression shifts to a mock-serious or contemplative one towards the end of the sequence.",
+      "text_narrative_log": "(1) [Subtitle]: 五年前搭訕我的男生. (2) [Subtitle]: 如果知道我也是男的. (3) [Subtitle]: 逃之夭夭. (4) [Subtitle]: 但現在呢. (5) [Subtitle]: 知道我是男生之後. (6) [Subtitle]: 更加的好奇. (7) [Subtitle]: 嗚~想了解. (8) [Subtitle]: 嗚~好想要. (9) [Subtitle]: (嘆氣). (10) [Subtitle]: 這個世界終於. (11) [Subtitle]: 變成了我不認識的樣子了.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face close-up",
+          "Upper body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main character who presents with feminine physical traits (pixels).",
+        "mainCharacterDescription": "Long dark hair with bangs, wearing a light blue camisole, clear skin, feminine features."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Bedroom"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A soft-focus indoor domestic environment, likely a bedroom, with neutral-colored walls and soft furniture visible in the background.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Casual",
+          "Narrative"
+        ],
+        "vocalLanguage": [
+          "Simplified Chinese"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 4,
+        "valence": 6,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Other"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A single male voice begins speaking clearly in Mandarin with a conversational and slightly breathy quality. The tone is relaxed and informative, delivering a narrative about past events. The background is exceptionally quiet, with only a faint room tone present. (2) The speaker continues his story, his pitch modulating naturally to emphasize certain words. At approximately 15 seconds, a distinct audible sigh is heard, representing a shift in the speaker's emotional state or providing a tactical pause in the narration. (3) The speaker concludes with a final observation. The vocal intensity remains consistent until the very end, where the pitch drops slightly in a concluding cadence. No background music or external sound effects interfere with the speech signal."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Personal Talk",
+        "Selfie / Portrait",
+        "Short Video"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 23.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Context -> Past Observation -> Present Contrast -> Final Reflection.",
+      "mainPurpose": "The video is a personal commentary on the changing social perception of the creator's gender identity. By contrasting how men reacted to him five years ago versus today, he highlights an ironic or surprising shift in social attitudes towards androgyny or trans-identity, expressed through a blend of humor and disbelief.",
+      "visualEmotion": [
+        "calm",
+        "humorous",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video relies heavily on the discrepancy between the subject's feminine visual presentation and their self-identification as male in the subtitles to create engagement and irony."
+  }
+}

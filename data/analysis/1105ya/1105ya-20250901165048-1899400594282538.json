@@ -1,0 +1,276 @@
+{
+  "videoName": "1105ya-20250901165048-1899400594282538.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 8.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with her hair styled in two buns and wearing a black t-shirt with a white graphic and a black-and-white patterned scarf is seen in a brightly lit indoor kitchen or living area. She is holding a round makeup compact and looking directly into the camera with a neutral expression, momentarily touching her neck with her right hand. (2) The scene cuts abruptly to a dark stage environment with high-contrast, flashing red and blue stage lighting. The same woman is now performing an energetic dance routine wearing a white sleeveless bodysuit, dark sunglasses, and black leg warmers. She is surrounded by several male and female backup dancers dressed in coordinated white outfits who move in synchronization with her. The camera zooms in and out rapidly, tracking her sharp, rhythmic dance movements amidst a hazy, smoky atmosphere.",
+      "text_narrative_log": "(1) [Subtitle]: 當你化妝到一半...",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator in both scenes, accompanied by at least 4 backup dancers on stage.",
+        "mainCharacterDescription": "A young woman with dark hair in double buns, initially in a casual graphic tee and scarf, later in a white performance bodysuit and sunglasses."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Kitchen",
+          "Stage / Performance Venue"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The first scene shows a domestic interior with wooden shelving, a counter, and various kitchen items. The second scene is a dark, professional stage with fog effects and large lighting rigs.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "High-contrast cinematic lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural",
+          "High contrast"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Dolly in / push in",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium full shot",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Smash cut"
+        ],
+        "visualRhythm": [
+          "Highly dynamic / rapid montage"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 7,
+        "dominance": 8,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 4,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a brief second of near studio silence with a very faint indoor noise floor. (2) Suddenly, a loud, high-energy Electronic Dance Music track kicks in with a heavy, driving synthetic bass drum beat at approximately 128 BPM. High-pitched, rhythmic female vocals enter, singing rapid-fire lyrical phrases in English with high arousal and excitement. (3) A sharp, percussive impact SFX coincides with a visual shift, followed by the continuous swelling of the EDM track featuring layered synthesizers and crisp electronic percussion. Faint sounds of a cheering crowd are integrated into the music mix, enhancing the high-valence, professional performance atmosphere."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend",
+        "Music / Performance / MV",
+        "Dance"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 1.4,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Transition -> Climax",
+      "mainPurpose": "The video utilizes a popular social media transition trope where a mundane or unfinished action (applying makeup) is suddenly 'completed' or transformed into a high-energy, glamorous professional stage performance. It highlights the contrast between the creator's casual home state and her polished, energetic persona as a performer to engage viewers with a 'reveal' effect.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "confident"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video's impact relies heavily on the sharp audiovisual sync at the 1-second mark, shifting from domestic quiet to high-decibel EDM."
+  }
+}

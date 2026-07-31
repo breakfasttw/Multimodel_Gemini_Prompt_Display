@@ -1,0 +1,270 @@
+{
+  "videoName": "daiying0-20250626160813-4314564432088620.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 28,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young female cheerleader with brown hair styled in a bun with a white bow performs on a stage. She wears a vibrant red cheerleader uniform with gold trim, a white inner layer, and a navy and red patterned scarf. Her facial expression is joyful with a broad smile and squinted eyes. Behind her is a baseball field and a protective mesh net. (2) As the dancer continues her rhythmic routine, she swings her arms wide, occasionally holding a red plastic hand-clapper in her right hand. The camera maintains a medium shot, capturing her energetic torso movements and hip swaying. In the distant background, small figures of players are visible on the green and brown baseball diamond under bright daylight. (3) The performer transitions through various cheering poses, extending her hands and pointing while maintaining high energy. A black advertising board with white text and a red triangular logo is positioned behind her feet on the stage. The natural lighting creates a clear, high-contrast visual environment typical of an outdoor stadium during an event.",
+      "text_narrative_log": "(1) [Logo]: Emblem on shirt. [Logo]: Red triangle logo on background board.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main cheerleader, 3 players in far background",
+        "mainCharacterDescription": "Young female with brown hair in a bun with a white bow. Wearing a red and gold flight-attendant-style cheerleader uniform with a red skirt, red top, white inner shirt, and a navy/red patterned neck scarf."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Stage / Performance Venue",
+          "Sports / Fitness Venue"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An outdoor baseball stadium with a green field, brown dirt paths, and a high protective net. There are advertising boards behind the stage platform.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 10,
+        "male_vocal_count": 5,
+        "female_vocal_count": 5,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 130,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Traditional Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering",
+          "Chanting"
+        ],
+        "crowdNoiseIntensity": 4,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy stadium background music begins with a prominent electronic beat and synthesized melodies in a major key. A male singer provides enthusiastic vocals with high pitch and consistent intensity. A large crowd is heard chanting rhythmically along with the beat, showing high vocal arousal. (2) The acoustic texture shifts as the crowd's chanting becomes more unified and louder, synchronized with the heavy percussive hits of the music. The male vocalist continues his melodic delivery with an excited and professional tone. The ambient noise reflects an open outdoor stadium environment but is secondary to the primary music signal. (3) The musical loop sustains its intense energy with thick synthesizer textures and sharp spectral brightness. The crowd's vocal density remains high as multiple voices sustain the rhythmic shout. The track maintains a clear signal with high harmonic clarity, concluding the segment without any distinct sound effects or incidental interruptions."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV",
+        "Short Video"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 3,
+      "averageSceneDuration": 9.3,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Loop",
+      "mainPurpose": "To showcase a high-energy dance performance by a cheerleader at a baseball game. The video aims to capture her charisma and professional energy to engage social media viewers and promote the lively atmosphere of the sports event.",
+      "visualEmotion": [
+        "energetic",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The logos present are part of the professional cheering uniform and stadium background, with no explicit product promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "Typical high-quality fancam focusing on the visual appeal and rhythmic coordination of a professional cheerleader."
+  }
+}

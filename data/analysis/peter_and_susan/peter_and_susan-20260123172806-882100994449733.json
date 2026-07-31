@@ -1,0 +1,260 @@
+{
+  "videoName": "peter_and_susan-20260123172806-882100994449733.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 40,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a wide-angle CCTV view of a storefront's outdoor entryway at night. Two individuals wearing black hooded jackets, dark pants, and face masks are standing near a white display panel on a pillar. One person is seen using their hands and a possible tool to hit or pry at the panel repeatedly while the other stands closely beside them. (2) The individuals continue their persistent physical actions against the white wall and panel, appearing to exert force to damage or remove the fixture. The lighting is dim and artificial, provided by overhead lamps that cast harsh shadows on the tiled pavement. The background consists of a darkened street and building pillars. (3) After several seconds of consistent hitting and prying, the two individuals abruptly stop their activity and walk away from the camera's view toward the right side of the frame. Red and white text boxes with captions are overlaid at the top and bottom of the screen throughout the take.",
+      "text_narrative_log": "(1) [Subtitle]: 剛開幕就被砸店. [Variety]: 有人知道他們在做什麼實驗嗎 😂.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main characters seen acting together at the storefront.",
+        "mainCharacterDescription": "Two males wearing black hooded jackets, dark trousers, and dark face masks to hide their identities."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A nighttime outdoor walkway or frontage of a retail store with pillars and tiled flooring. A white vertical display panel is attached to one of the pillars.",
+        "lightingStyle": [
+          "Night artificial light"
+        ],
+        "weather": [
+          "Night clear"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Muted"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Wide shot"
+        ],
+        "cameraAngles": [
+          "High angle"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Other"
+        ],
+        "ambientNoiseIntensity": 4,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 2,
+        "soundEffectsDetails": [
+          "Other"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 5
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 2,
+        "acousticDynamism": 1,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 1,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 1,
+        "audioCutFrequency": 0,
+        "dynamicRange": 1,
+        "audioQuality": [
+          "Low-fi/Phone"
+        ]
+      },
+      "audio_narrative_log": "(1) A loud, continuous mechanical grinding and vibrating noise begins immediately. It possesses a thick, low-frequency drone and a sharp, buzzing metallic texture, suggesting the constant operation of a high-powered tool or heavy machinery nearby. There is no speech or background music detectable. (2) The intense mechanical vibration continues without any interruption or variation in pitch or volume. The acoustic environment remains static and saturated with this singular drone, masking all other possible environmental sounds. No discrete impacts or incidental thuds are heard above the consistent vibrating texture."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 40.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence",
+      "mainPurpose": "The video documents an act of vandalism or property damage at a newly opened store. By pairing CCTV footage of the suspects with a sarcastic and humorous caption, the creator aims to complain about the incident while engaging viewers through irony and shared frustration.",
+      "visualEmotion": [
+        "Tense",
+        "Humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video is a social media complaint post using surveillance footage. The loud buzzing audio is likely a sound effect added to emphasize the 'destruction' or represent the sound of a tool."
+  }
+}

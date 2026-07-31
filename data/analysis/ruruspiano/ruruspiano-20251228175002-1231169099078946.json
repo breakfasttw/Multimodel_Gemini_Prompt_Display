@@ -1,0 +1,269 @@
+{
+  "videoName": "ruruspiano-20251228175002-1231169099078946.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 56,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video is presented in a horizontal split-screen format. The top half displays an animated sequence from a Japanese anime featuring a girl with dark hair holding a white daisy. The bottom half shows a real woman with purple hair, viewed from the side, wearing a white sleeveless shirt and black tie while seated at a black grand piano in a studio with blue curtains. (2) The animated portion transitions through several scenes, including urban street views, a cafe interior, and characters in school uniforms. The pianist in the bottom frame remains consistently focused, her hands performing rapid and precise movements across the piano keys. She is dressed in a black miniskirt and black over-the-knee socks, maintaining an upright and professional posture throughout the performance. (3) More dynamic animated scenes are shown on top, including fireworks at night, characters underwater with bubbles, and a character walking down a narrow alleyway. The pianist's playing style becomes more energetic to match the rising intensity of the music. The studio lighting is bright and steady, highlighting the textures of the piano and the blue vertical curtains in the background.",
+      "text_narrative_log": "(1) [Logo]: 非常口 EXIT.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Partial body",
+          "Hands only",
+          "Back view",
+          "Side view"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 real female pianist, 1 animated male character, 1 animated female character.",
+        "mainCharacterDescription": "A young woman with short purple hair, wearing a white sleeveless collared shirt with a black tie, a black miniskirt, and black thigh-high socks."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Animation / Graphic Background"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The pianist is positioned in a professional studio setting with a backdrop of vertical blue fabric curtains. A large black grand piano is the central object. The top screen showcases various animated urban environments, a cafe, and underwater settings from the anime series.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Side view"
+        ],
+        "editingTechniques": [
+          "Split-screen",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Japanese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Other"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "Piano"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Anime/J-Pop",
+          "Pop"
+        ],
+        "tempoBPM": 135,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Live Performance"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A solo acoustic piano begins playing a melodic theme in a minor key. The tempo is steady at approximately 135 BPM. The tone is clean and professional, with a rich resonance characteristic of a grand piano in a treated room. There are no vocal elements or ambient noises, only the percussive strikes of the hammers on strings. (2) As the musical phrasing evolves, the pianist introduces more complex rhythmic patterns and higher-pitched melodic ornaments. The dynamics swell slightly, showing clear articulation in the upper register. The music maintains a consistent melancholic yet driving emotional vibe, typical of contemporary anime theme compositions. No external sound effects or speech are present. (3) The piece enters a more energetic passage with prominent bass notes played in octaves, creating a fuller harmonic texture. The high-end frequency response is sharp and bright. The performance concludes with a final chordal progression that resolves into a sustained decay, maintaining high tonal purity and studio-grade signal quality throughout the entire recording."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV",
+        "Short Video",
+        "Animation"
+      ],
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Performance -> Source Material Sync -> Conclusion",
+      "mainPurpose": "The video aims to showcase a live piano performance of a popular anime theme song, using a split-screen format to synchronize the instrumental cover with scenes from the animation, thereby creating a nostalgic and artistically engaging experience for fans.",
+      "visualEmotion": [
+        "warm",
+        "melancholic",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The use of split-screen to bridge live performance and animation is a highly effective social media content strategy for music covers."
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "videoName": "wia627-20251111194806-2027686257790980.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 14,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The camera follows a man from behind as he walks through an outdoor space with several people sitting on benches. He wears a black t-shirt and khaki pants, carrying a white bag. A small child in a striped shirt walks beside him, their figures moving steadily forward under natural daylight. (2) They approach a modern concrete building with textured grey walls. A sign featuring a white dinosaur skeleton graphic and the text 'Mr. Fossil' is visible, pointing towards the entrance. The man looks back towards the camera for a moment, revealing his glasses and profile before continuing. (3) The young boy reaches for a sliding glass door and successfully pushes it open. They step into a brightly lit interior space that appears to be a museum shop, with various merchandise displayed on shelves. The lighting transitions from natural outdoor light to bright artificial indoor lighting.",
+      "text_narrative_log": "(1) [Logo]: 化石先生 Mr. Fossil x Museum Shop. [Slogan]: 10分！",
+      "visual_human_presence": {
+        "totalHumanCount": 10,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Back view",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "2 main characters (man and boy), at least 8 bystanders sitting on benches.",
+        "mainCharacterDescription": "A man wearing an oversized black t-shirt, loose khaki pants, and black-rimmed glasses. A young boy wearing a horizontal striped t-shirt and khaki shorts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Exhibition / Museum / Gallery",
+          "Retail Store",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An outdoor modern concrete building facade with wooden benches and a public walkway, transitioning into a brightly lit retail or museum shop interior with wooden display shelves.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Walking handheld",
+          "Follow shot"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Back view"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "化石先生 Mr. Fossil"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Urban/Traffic",
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Footsteps",
+          "Door / Cabinet Open-Close",
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 3,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 1,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio features a naturalistic outdoor ambience with muffled background chatter from nearby people. There is no background music, and the vocal elements are indistinct. The acoustic texture is dominated by a wide-bandwidth city hum and occasional bird chirps, reflecting a low-arousal, neutral environment. (2) As the camera moves closer to the building, the sound of rhythmic footsteps on the hard pavement becomes more prominent. A sharp, mechanical sliding sound is heard as the glass door is moved. The ambient noise floor begins to transition from an open outdoor space to an enclosed environment. (3) Entering the building, the room tone shifts to a more resonant indoor atmosphere. Faint rustling of the bag and light indoor chatter are audible. The overall audio quality is consistent with a high-fidelity field recording, lacking post-production sound effects or musical overlays, maintaining a realistic and immersive feel."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 7.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Outdoor Walk -> Discovery/Entrance Sign -> Entering Shop",
+      "mainPurpose": "A casual lifestyle recording capturing a parent and child visiting a fossil-themed museum or specialty shop, emphasizing the experience of arrival and entry.",
+      "visualEmotion": [
+        "warm",
+        "casual",
+        "curious"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "While a brand logo 'Mr. Fossil' is clearly visible, the video lacks explicit promotional intent or call to action.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video has a very naturalistic, unpolished feel, typical of a personal family vlog snippet."
+  }
+}

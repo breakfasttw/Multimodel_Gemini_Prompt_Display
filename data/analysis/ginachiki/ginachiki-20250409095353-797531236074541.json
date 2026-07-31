@@ -1,0 +1,264 @@
+{
+  "videoName": "ginachiki-20250409095353-797531236074541.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 10.6,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A pair of hands is visible in the foreground, holding a smartphone that is recording a video of a woman sitting at a wooden table. The woman is wearing a light-colored dress with red embroidery. The setting is a lush, tropical-style garden with large green ferns, a rocky wall, and mist in the air. (2) The camera moves to a direct view of the woman sitting at the table. She holds a green coconut with a straw and a small purple flower garnish. She smiles and looks towards the camera, eventually making a peace sign with her fingers above her head. (3) The camera pans further to the right to reveal a man in a grey t-shirt and black shorts crouching near the base of the plants. He is exhaling a large cloud of white mist or smoke towards the plants to create the atmospheric effect seen in the previous shot. The lighting is bright and natural throughout.",
+      "text_narrative_log": "(1) [Logo]: 00:00:01. [Variety]: 0.7x. (2) [Logo]: 00:00:04.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female character, 1 man providing mist effects, and the hands of the person filming.",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a white sleeveless dress with red floral patterns and white sneakers."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Cafe / Tea Shop"
+        ],
+        "locationTopography": [
+          "Park / Green Space"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A dense tropical-themed garden with varied ferns, mossy rocks, and a small artificial waterfall. Mist is being manually added to the scene.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fruit",
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Thai"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 1
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 3,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 2,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with the continuous, steady sound of running water from a fountain or waterfall, alongside distant, bright bird chirps. A female voice speaks a short phrase in Thai, 'Aroi, aroi,' with a cheerful and high-pitched intonation. (2) Gentle laughter from a woman is heard over the natural background sounds. The acoustic atmosphere remains consistent with an outdoor tropical environment, dominated by the water noise floor and natural echoes. (3) The recording concludes with the same ambient nature sounds, maintaining a clear signal-to-noise ratio and a friendly, relaxed mood without any added music or post-production sound effects."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Behind-the-scenes"
+      ],
+      "location": {
+        "country": [
+          "Thailand"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 5.3,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Reality Reveal",
+      "mainPurpose": "To provide a humorous look behind the scenes of creating social media content. It contrasts the beautiful, atmospheric final shot with the manual, low-tech method (a person blowing smoke) used to achieve the effect.",
+      "visualEmotion": [
+        "humorous",
+        "warm",
+        "relaxed"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video highlights the 'Instagram vs Reality' trope through a funny reveal of on-set practical effects."
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "videoName": "davio_magic-20250904045904-757772000279998.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 11,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young man wearing a black 'Supreme' cap and glasses stands behind a woman with long black hair wearing a tight purple ribbed top. They are positioned in front of a luxury shoe display case filled with high-end sneakers and heels. (2) The man holding a brown fuzzy blanket throws it upward toward the lens, causing the fabric to completely fill and obscure the frame with its texture. (3) The blanket is swiftly pulled down to reveal a second woman with shorter auburn hair, who is now wrapped in the brown blanket. The man remains behind her, gesturing with his arms. (4) The sequence repeats as the blanket is thrown up again, creating another full-frame transition using the brown fabric as a screen-wipe. (5) The blanket drops to reveal a third woman wearing a red string bikini-style top and light-colored shorts. She adjusts her hair and gives a thumbs up to the camera while the man behind her smiles and also provides a thumbs-up gesture.",
+      "text_narrative_log": "(1) [Logo]: Supreme.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 4,
+        "bodyPartVisibility": [
+          "Upper body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 recurring male host/assistant and 3 different female models appearing in sequence.",
+        "mainCharacterDescription": "A male wearing a Supreme cap and striped shirt/vest combo; three females wearing a purple top, brown blanket, and red top respectively."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A sophisticated walk-in closet or showroom featuring a multi-tier shelf with built-in LED strip lighting showcasing various designer shoes including pumps and sneakers.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Match cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Supreme"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 125,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 5,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 5,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-energy electronic dance track featuring a heavy kick drum and a syncopated synth rhythm. A repetitive vocal chop 'pa-pa-pa' repeats consistently. (2) A sharp synthesized whoosh sound effect cuts through the mix, synchronized with the physical blanket toss visible on screen, momentarily panning across the stereo field. (3) A female vocal sample briefly sings 'And I'm ready to' before returning to the high-tempo percussive loop. The beat is highly rhythmic and drives the pace of the content."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 1.8,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Action -> Transition -> Reward",
+      "mainPurpose": "To participate in a viral 'magic transformation' social media trend where a physical object (the blanket) is used as a low-budget transition to swap subjects or outfits in sync with music.",
+      "visualEmotion": [
+        "energetic",
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video utilizes a classic TikTok/Shorts match-cut editing style where the movement of an object toward the camera masks the jump cut, creating a seamless 'magic' appearance."
+  }
+}

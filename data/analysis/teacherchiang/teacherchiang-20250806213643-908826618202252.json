@@ -1,0 +1,272 @@
+{
+  "videoName": "teacherchiang-20250806213643-908826618202252.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 4,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young boy with glasses and a striped shirt is seen from a side profile, seated at a large wooden grand piano. His fingers move with high velocity and precision across the black and white keys in a brightly lit indoor room with white walls. (2) There is a sudden visual cut to the same boy, now wearing a black t-shirt, sitting at a wooden table in what appears to be a restaurant or dining area. He is holding a smartphone horizontally and tapping the screen with extreme speed using both thumbs. A second child in a green shirt is visible in the background, and a small bowl with dark sauce sits on the table in the foreground.",
+      "text_narrative_log": "(1) [Subtitle]: 媽媽讓你學琴. (2) [Subtitle]: 不是為了讓你玩 寶可夢欸.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 2,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main child protagonist across both scenes, 1 background child in the second scene.",
+        "mainCharacterDescription": "A young boy with short black hair and black-rimmed glasses, wearing a white/black striped shirt in the first scene and a black t-shirt in the second."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Restaurant / Dining"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The first scene features a clean white wall and the interior structure of a piano. The second scene shows a public indoor dining environment with wooden tables and other patrons.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Side view",
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Hard cut",
+          "Smash cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Other"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "Piano"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Classical/Orchestral",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 145,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Keyboard",
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Piano",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX",
+          "Digital UI SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) High-intensity piano music starts abruptly, featuring rapid arpeggios and high melodic density with a bright acoustic timbre. No background noise is present. (2) A synthesized 'impact' sound effect triggers a transition, followed immediately by high-energy electronic gaming music with sharp synthesized lead tones and a driving beat. Faint rhythmic tapping sounds consistent with fingers hitting a screen are heard beneath the music."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 2.0,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Setup -> Punchline",
+      "mainPurpose": "A comedic short film that subverts the expectation of disciplined piano practice by revealing the child is actually using his finger dexterity to play mobile games (Pokemon) at a high speed. The video humorously contrasts the mother's intent for education with the child's reality of gaming.",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video utilizes a classic expectation-vs-reality meme structure, leveraging the specific physical skill of piano playing to create a joke about mobile gaming."
+  }
+}

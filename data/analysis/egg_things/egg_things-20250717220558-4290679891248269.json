@@ -1,0 +1,260 @@
+{
+  "videoName": "egg_things-20250717220558-4290679891248269.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 5,
+      "aspectRatio": "1:1"
+    },
+    "visual_base": {
+      "withRealPeople": false,
+      "visual_narrative_log": "(1) The video displays a black and white line-art animation of a female-presenting character with long straight white hair and two pointed horn-like structures on top of her head. She possesses a single, large, vividly colored red eye with a complex iris pattern that contrasts sharply against the monochrome sketch. The frame is surrounded by dense, black, chaotic scribbles reminiscent of thorns or cracked glass. (2) As the scene continues, the inner red iris and pupil of the character's eye begin to rotate slowly in a clockwise direction, creating a hypnotic and eerie visual focal point. The background and the character's overall facial expression remain static and unblinking throughout the entire sequence.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 0,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "None"
+        ],
+        "countingEvidence": "1 animated character",
+        "mainCharacterDescription": "An animated female character in a sketch-like style with white hair and a red eye."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Animation / Graphic Background"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A white canvas framed by black, scribbly, thorn-like textures.",
+        "lightingStyle": [
+          "Flat animation lighting"
+        ],
+        "weather": [
+          "Weather not applicable"
+        ],
+        "season": [
+          "Not applicable"
+        ],
+        "colorTone": [
+          "High contrast"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Freeze frame",
+          "Loop / replay"
+        ],
+        "visualRhythm": [
+          "Very slow pace"
+        ],
+        "takeStructure": [
+          "Looped short-form sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 5,
+        "pitchVariability": 1,
+        "intensityAndLoudness": 3,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Ambient"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "Atonal/Ambiguous"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "None"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 1,
+        "noisinessAndPercussiveness": 1,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 1,
+        "audioCutFrequency": 0,
+        "dynamicRange": 1,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a singular, piercing, high-pitched synthesized drone that evokes a sense of dread and mystery. The sound is harmonically rich but centered on a very high frequency range, simulating a continuous, ghostly scream or an electronic alarm. There is no rhythmic foundation or low-frequency content present in this opening phase. (2) This haunting sonic texture is sustained consistently for the remainder of the clip, showing minimal variation in volume or timbre. The absence of any vocal layers, ambient background noise, or percussive sound effects results in a focused and intense auditory experience that complements the unsettling imagery of the rotating red eye."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Animation"
+      ],
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 5.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Static State -> Minimal Localized Motion",
+      "mainPurpose": "To create an unsettling and eerie atmosphere through the combination of a high-contrast animation and a persistent high-pitched drone, likely for social media or art display.",
+      "visualEmotion": [
+        "tense",
+        "mysterious"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A minimalistic animation loop focusing on a singular hypnotic movement and a high-arousal drone."
+  }
+}

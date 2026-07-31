@@ -1,0 +1,274 @@
+{
+  "videoName": "campfire_tw-20250416211527-1486676936158649.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 37,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene opens with a high-angle drone shot of a gray camper van with a pop-up roof parked on a muddy bank next to a calm river. A male and a female character are sitting in folding chairs next to the van, enjoying the scenery. Lush green trees and vegetation surround the muddy area. (2) The drone pulls back and pans right, revealing the expansive river water in the foreground and a dense forest with a small village nestled among the trees in the background. The lighting is bright and natural, suggesting a clear afternoon. (3) The camera pans across the horizon, showing a mountain range covered in green foliage under a blue sky with scattered clouds. The water reflects the sunlight. (4) A top-down shot reveals a winding dirt path cutting through vibrant green tall grass and bushes near the water's edge. (5) The drone captures a wide, serene view of a large body of water surrounded by rolling hills and mountains, with the camper van visible as a small speck on the shore.",
+      "text_narrative_log": "(1) [Subtitle]: 台灣 彰化市 新店",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 male and 1 female sitting by the camper van.",
+        "mainCharacterDescription": "A male and female couple dressed in casual outdoor clothing, sitting in camping chairs."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "River / Lake Area",
+          "Mountain / Forest / Trail"
+        ],
+        "locationTopography": [
+          "River / Creek",
+          "Mountain",
+          "Forest"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A muddy riverbank surrounded by dense green vegetation and a wide river. In the distance, there are forested hills and mountains under a bright, slightly cloudy sky.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning",
+          "Dolly out / pull out",
+          "Drone / aerial view"
+        ],
+        "shotSize": [
+          "Long shot",
+          "Extreme long shot",
+          "Wide shot"
+        ],
+        "cameraAngles": [
+          "High angle",
+          "Top-down / overhead",
+          "Bird's-eye view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fade out"
+        ],
+        "visualRhythm": [
+          "Slow pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Van / shuttle"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk",
+          "Ballad/Sentimental"
+        ],
+        "tempoBPM": 85,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String"
+        ],
+        "instrumentsAudible": [
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Fade out"
+        ],
+        "audioEventDensity": 1,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a gentle, rhythmic acoustic guitar fingerpicking pattern. There is a very faint ambient bed of outdoor air or wind. (2) A female singer begins singing melodic lyrics in English with a soft, breathy, and calm vocal delivery. The guitar continues with steady rhythmic strums. (3) The interplay between the folk-style acoustic guitar and the soothing female vocals creates a peaceful, warm atmosphere that remains consistent throughout the recording, with no sharp transitions or sound effects."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle",
+        "Travel"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Changhua City"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 5,
+      "averageSceneDuration": 7.4,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Landscape -> Activity -> Environment",
+      "mainPurpose": "The video aims to showcase the serene beauty of a camping spot in Changhua, Taiwan, promoting a peaceful outdoor lifestyle through high-quality drone cinematography and calming folk music.",
+      "visualEmotion": [
+        "warm",
+        "calm",
+        "nature-inspired"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "Cinematic drone footage effectively utilizes slow camera movements to emphasize a relaxed camping experience."
+  }
+}

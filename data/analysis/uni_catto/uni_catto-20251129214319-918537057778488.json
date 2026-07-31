@@ -1,0 +1,264 @@
+{
+  "videoName": "uni_catto-20251129214319-918537057778488.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 28,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The frame starts with a highly detailed close-up of a light-colored wooden cabinet door with a fine horizontal grain texture. A person's finger is partially visible at the bottom left corner. A small, stylized orange fox emoji is superimposed near the top. The hand slowly pushes the wooden door to the left to reveal a hidden compartment. (2) As the door glides open, a narrow vertical gap is revealed between the cabinet wall and soft, cream-colored bedding. An orange and white tabby cat is discovered sleeping soundly, squeezed snugly into this tight space. The cat is lying on its back with its hind paws tucked and its front paws curled near its chest. (3) The camera performs a slow, steady zoom toward the cat's face to capture its peaceful expression. The cat's eyes are tightly closed, and its orange ears are slightly flattened against the bedding. The background consists of soft pillows and a green cushion, creating a cozy and warm indoor atmosphere.",
+      "text_narrative_log": "(1) [Variety]: 🦊",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": [
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 hand is visible opening a door",
+        "mainCharacterDescription": "None"
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A light-colored wooden cabinet and white bedding with a green cushion inside a home.",
+        "lightingStyle": [
+          "Soft indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Zoom in",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Extreme close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Slow pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cat"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Glockenspiel",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 1,
+        "audioCutFrequency": 0,
+        "dynamicRange": 1,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A whimsical and playful BGM begins immediately, featuring bright, percussive synthesizer tones and a lighthearted glockenspiel melody. The music has a mid-tempo pace and a mischievous character. A faint mechanical sliding sound of the wooden door moving is audible, characterized by a soft friction-like texture. (2) The playful music continues with a repetitive, bouncy rhythm and a clear major-key tonality. There are absolutely no human voices, narration, or dialogue present in the track. The background environment is extremely quiet, exhibiting a clean indoor room tone with very low spectral noise and no interference. (3) The melodic loop repeats steadily as the camera focuses on the subject. The acoustic texture is dominated by high-frequency sparkly synth notes that maintain a consistent volume level. The overall audio production is studio-clean, with a high signal-to-noise ratio and a very limited dynamic range, typical of social media background tracks."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Pet / Animal"
+      ],
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 28,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Reveal -> Observation",
+      "mainPurpose": "The video aims to share a cute and charming moment of a pet cat sleeping in a surprisingly cramped and unusual location inside a home. The reveal is emphasized by the playful BGM, creating a warm and humorous atmosphere.",
+      "visualEmotion": [
+        "warm",
+        "humorous",
+        "calm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A simple, single-take video focused on pet content, likely for social media entertainment."
+  }
+}

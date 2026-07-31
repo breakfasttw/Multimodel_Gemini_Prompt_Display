@@ -1,0 +1,267 @@
+{
+  "videoName": "aries_8248-20250828230651-923570063341770.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 12,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long, dark hair lies in a bed under a light blue and white striped duvet. Her face is made up with defined eyelashes and pink lipstick, and she gazes downward with a somber and contemplative expression. The background is a dim, warm-toned indoor setting, likely a bedroom at night. (2) The scene cuts to an outdoor area with dirt and scattered dry foliage where a large, dark grey pig lies on the ground. The pig is stylized with silver-rimmed glasses resting on its snout and a gold watch visible on its front left leg, with a yellow gold-colored object placed near its head. (3) The view returns to the woman in bed; she shifts her gaze toward the right and then back down, her facial muscles tightening slightly to convey a sense of distress or regret while remaining under the covers.",
+      "text_narrative_log": "(1) [Subtitle]: 嫁給金錢：",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female main character in a bed.",
+        "mainCharacterDescription": "A young woman with long black hair, wearing makeup, appearing to be shirtless under a duvet."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Bedroom",
+          "Other"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The first background is a dimly lit indoor bedroom with soft pillows. The second background is an outdoor patch of dry dirt and earth with some green vegetation in the distance.",
+        "lightingStyle": [
+          "Dim / low light",
+          "Natural daylight"
+        ],
+        "weather": [
+          "Indoor / not visible",
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm",
+          "Muted"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Loop / replay"
+        ],
+        "visualRhythm": [
+          "Slow pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Pig"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "None"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "Other"
+        ],
+        "incidentalNoiseIntensity": 4,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Meme SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 5
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 2,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 2,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 1,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Low-fi/Phone"
+        ]
+      },
+      "audio_narrative_log": "(1) A continuous, heavy, and rhythmic snoring sound fills the audio track, characterized by a deep, guttural vibration and a steady exhalation phase. The sound is high in amplitude and lacks any musical accompaniment or human speech. (2) The guttural snoring remains consistent as the visual cuts from the woman to the pig, maintaining a steady tempo and low-frequency resonance without any variation in pitch or intensity. (3) The audio continues with the loop of heavy snoring, providing a constant acoustic texture of biological sleep noise until the end of the clip, emphasizing the rhythmic breathing pattern."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 4.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Context -> Satirical Contrast -> Emotional Response",
+      "mainPurpose": "To create a humorous social commentary on the consequences of 'marrying for money.' By contrasting a beautiful woman's sad expression with the image of a pig wearing luxury items (glasses, watch, gold) while hearing a loud snore, the video suggests her 'wealthy husband' is physically unattractive and obnoxious, leading to her unhappiness.",
+      "visualEmotion": [
+        "Humorous",
+        "Sad"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video relies heavily on the juxtaposition of high-status objects (gold watch, gold bar) on a low-status animal (pig) to create a comedic metaphor for transactional relationships."
+  }
+}

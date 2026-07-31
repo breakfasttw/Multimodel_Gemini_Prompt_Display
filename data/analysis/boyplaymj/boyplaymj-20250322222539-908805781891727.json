@@ -1,0 +1,273 @@
+{
+  "videoName": "boyplaymj-20250322222539-908805781891727.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 11,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A hand holds a blue box of playing cards in a close-up framing. The box displays the BICYCLE brand name and a central illustration of a male anime character with black hair wearing a blue and black sports jersey. The background shows mahjong tiles scattered across a green table surface under bright indoor lighting. (2) The hand holding the card box shifts slightly, tilting the product to show the side packaging. The background remains out of focus, showing a person wearing a grey long-sleeved shirt sitting at the mahjong table with tiles spread out. The lighting is consistent, casting a soft glare on the plastic wrap. (3) The camera executes a slow zoom towards the front of the playing card box, making the BLUE LOCK text and character artwork more prominent. The hand's fingers are visible gripping the edges of the box. The surrounding environment of the mahjong parlor remains visible but blurred in the shallow depth of field.",
+      "text_narrative_log": "(1) [Subtitle]: 這牌拿起來好飄. [Logo]: BICYCLE. [Logo]: BLUE LOCK.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Hands only",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 hand holding cards in the foreground, 1 person sitting in the background background.",
+        "mainCharacterDescription": "A male holding a deck of cards, wearing a grey sweatshirt; hands are clean and steady."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Entertainment Venue"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A green felt mahjong table surface scattered with white and green mahjong tiles; another player is visible sitting across the table.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Extreme close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "POV / first-person view"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "BICYCLE",
+          "BLUE LOCK"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Anime/J-Pop",
+          "Rock/Metal"
+        ],
+        "tempoBPM": 160,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electric Guitar",
+          "Drum Kit / Drum Set",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) High-tempo anime-style rock music starts immediately, characterized by distorted electric guitar riffs and a driving drum beat with prominent kick and snare. The tone is energetic and bright, with a BPM of approximately 160. No vocal elements or ambient sounds are audible. (2) The BGM continues with high arousal, incorporating synthesizer accents that provide a melodic counterpoint to the guitar. The mix is clean, indicating a post-produced track layered over the video without any captured microphone noise from the environment. (3) The music maintains its intense rhythmic energy until the video ends. The spectral brightness remains high due to the sharp guitar tones and crashing cymbals. No dialogue, footsteps, or mahjong tile clinking can be heard over the soundtrack."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 3.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Product Close-up -> Physical Manipulation -> Detail Focus",
+      "mainPurpose": "To showcase a specific deck of Blue Lock themed playing cards produced by Bicycle, highlighting the collector item's artwork within the context of a casual mahjong gathering.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Clear focus on the branded packaging of the product throughout the video.",
+      "endorsementObject": [
+        "BICYCLE",
+        "BLUE LOCK"
+      ]
+    },
+    "freeDescribe": "The video uses high-energy music to make a simple product reveal feel more exciting and trendy."
+  }
+}

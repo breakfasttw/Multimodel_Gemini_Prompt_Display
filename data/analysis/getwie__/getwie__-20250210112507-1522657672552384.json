@@ -1,0 +1,269 @@
+{
+  "videoName": "getwie__-20250210112507-1522657672552384.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 32,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A firefighter wearing a dark blue uniform with bright yellow reflective stripes and a white helmet stands in a narrow, cluttered hallway filled with a thin layer of white smoke. He carries a large yellow oxygen tank on his back. Next to him are stacked white plastic storage bins and a laundry basket. (2) The camera moves to show an elderly man with short white hair wearing a black leather jacket walking past the firefighter. They are in a domestic setting with wood-paneled walls and a dimly lit ceiling. The camera briefly catches a glimpse of a blue-tiled bathroom with a pink sink. (3) The scene shifts as they enter a room where a white electric floor fan is visible amidst more smoke. The firefighter reaches out towards a surface near a bed. The lighting is harsh and artificial, casting long shadows in the smoke-filled environment.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Back view",
+          "Side view"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 firefighter in gear, 1 elderly man in black jacket.",
+        "mainCharacterDescription": "Firefighter in a heavy navy blue fire suit with high-visibility yellow stripes, wearing a white helmet and carrying a yellow SCBA tank. Elderly man with white hair in a black leather jacket."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A cluttered apartment interior including a hallway with storage bins, a bathroom with blue tiles and a pink washbasin, and a living area with a bed and a floor fan.",
+        "lightingStyle": [
+          "Dim / low light"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Walking handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "POV / first-person view"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Other"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 2,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Calm",
+          "Anxious"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 3,
+        "intonationAndContour": [
+          "Level"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 4,
+        "dominance": 6,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Footsteps",
+          "Clothing / Fabric Rustle",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 3,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with the distinct, rhythmic sound of heavy breathing through a respirator or oxygen mask, creating a sense of physical exertion. A male voice, presumably the firefighter, speaks in Mandarin with a calm, professional tone, asking about the cause of the smoke. A woman's voice responds, sounding slightly anxious but informative. (2) There is a series of shuffling sounds and footsteps on a hard floor as the group moves through the house. The elderly man's voice is heard, lower in pitch and somewhat raspy, explaining about a scented candle or aroma lamp. The background is mostly silent except for the persistent breathing and occasional rustling of clothing. (3) The conversation continues with more incidental noises of objects being shifted. The firefighter's voice remains dominant and authoritative, offering reassurance by saying \"it's okay.\" The mix is a raw field recording with high clarity for the voices but no post-production elements or background music."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Documentary"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 8.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Observation -> Investigation -> Resolution",
+      "mainPurpose": "To document a real-life incident where firefighters inspect a smoke-filled home to identify the cause of fire, which appears to be related to a scented candle.",
+      "visualEmotion": [
+        "tense",
+        "serious",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A raw, handheld POV recording documenting a fire department inspection of a domestic smoke incident."
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "videoName": "rayduenglish-20250531201447-2128409661293771.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 34,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young man wearing a grey hooded sweatshirt and glasses sits in profile at a black digital piano. He focuses on the keys, his fingers moving rhythmically across them. The setting is a brightly lit, modern living room with a large screen in the background. (2) The person continues to play, with subtle changes in facial expression and mouth movements suggesting engagement with the performance. White text overlays appear in the middle of the frame, changing as the performance progresses. The lighting remains consistent and warm, highlighting the texture of the sweatshirt and the glossy surface of the piano.",
+      "text_narrative_log": "(1) [Subtitle]: I'll imagine we fell in love. (2) [Subtitle]: I'll nap under moonlight skies with you. (3) [Subtitle]: I think I'll picture us, you with the waves. (4) [Subtitle]: The ocean's colors on your face. (5) [Subtitle]: I'll leave my heart with your air. (6) [Subtitle]: So let me fly with you. (7) [Subtitle]: Will you be forever with me?",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only",
+          "Side view"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main creator sitting at the piano",
+        "mainCharacterDescription": "A male wearing a grey hoodie and round glasses, focusing on playing a piano."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern indoor living room with a large dark television screen and ambient shelves in the background. Warm interior lighting creates a cozy atmosphere.",
+        "lightingStyle": [
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Side view"
+        ],
+        "editingTechniques": [
+          "Single continuous take"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "Piano"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Calm"
+        ],
+        "vocalLanguage": [
+          "English"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 4,
+        "valence": 6,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 75,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Live Performance"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice begins singing a melodic ballad accompanied by a piano. The vocal delivery is breathy and intimate with a moderate speech rate and clear articulation. The piano provides a rhythmic and harmonic foundation with soft percussive transients reflecting the touch on the keys. (2) The vocal pitch rises slightly in intensity as the musical phrases progress, conveying sentimental emotion. The piano accompaniment remains steady with a slow, emotional tempo. No ambient noise or significant SFX are detected, indicating a very clean, quiet indoor environment. (3) The song concludes with a sustained piano chord and a final vocal phrase that trails off softly, maintaining a consistent, calm acoustic texture throughout the take."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV"
+      ],
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 34.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Performance -> Climax -> Resolution",
+      "mainPurpose": "To showcase a live vocal and piano performance of a sentimental song, emphasizing emotional delivery and musical skill through a personal, unedited format.",
+      "visualEmotion": [
+        "calm",
+        "warm",
+        "sentimental"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A high-quality, intimate musical performance captured in a single continuous take."
+  }
+}

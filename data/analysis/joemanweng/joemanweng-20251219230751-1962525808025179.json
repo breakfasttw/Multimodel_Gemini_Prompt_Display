@@ -1,0 +1,275 @@
+{
+  "videoName": "joemanweng-20251219230751-1962525808025179.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 13,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A man dressed in a red Santa Claus outfit with a full white beard and hat stands in a bright indoor studio environment. He has an exaggerated expression of shock, with his eyes wide and mouth open. From the left, another person's hands are visible holding a small blue rectangular box suspended in the air between them. (2) A black pole suddenly enters the frame from the left side and appears to strike the Santa character's chest area. He maintains a comical look of intense surprise. (3) The camera cuts to a close-up of the black pole, which has a yellow sticky note attached to it featuring handwritten Chinese text. In the background, a modern living space with gray cabinetry, a sleek counter, and a circular robot vacuum on the floor is visible under bright, even lighting. (4) The camera cuts back to a tight close-up of the Santa character's face. He stares directly into the lens with his mouth wide open, emphasizing his shocked reaction.",
+      "text_narrative_log": "(3) [Slogan]: 9 好吃的面. [Slogan]: 聖誕優惠中！. [Slogan]: 下單還有小禮物.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main male character in Santa costume, 1 set of hands visible on the left.",
+        "mainCharacterDescription": "A man wearing a traditional red Santa Claus suit with white fur trim, a black belt, and a white fake beard."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An indoor space transitioning from a studio with gray shutters to a modern home interior with a kitchen area and dark grey furniture.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Close-up",
+          "Extreme close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Other"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "9 好吃的面"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Comedy",
+          "Classical/Orchestral"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "String",
+          "Brass"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Trumpet",
+          "Violin"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) Fast-paced, high-energy orchestral march music begins. The BGM features bright brass and sharp percussion accents, creating a comedic and playful atmosphere. (2) A sharp, high-frequency 'whoosh' sound effect occurs, followed immediately by a solid, mid-frequency 'thud' or 'impact' sound, synchronized with the visual strike. (3) The upbeat orchestral music continues with a rhythmic staccato pattern, maintaining the high arousal and joyful tone until the track concludes with a final resolved musical beat."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Promotion / Advertisement / Indoresment"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 3,
+      "averageSceneDuration": 3.25,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Event -> CTA -> Reaction",
+      "mainPurpose": "This video utilizes a comedic magic-trick premise to capture viewer attention before quickly transitioning to a promotional message. The exaggerated shock of the Santa character serves as a humorous hook, while the 'stab' by the pole provides a surprising visual pivot to introduce the product information on the sticky note.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "A specific brand name and promotional offer are written on a sticky note that is the focus of the central visual event.",
+      "endorsementObject": [
+        "9 好吃的面"
+      ]
+    },
+    "freeDescribe": "The video effectively combines seasonal themes (Santa) with slapstick humor to market a food product."
+  }
+}

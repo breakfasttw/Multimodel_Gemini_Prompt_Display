@@ -1,0 +1,270 @@
+{
+  "videoName": "wia627-20250330194402-941762398542318.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 30,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young boy with dark, wavy hair and an expressive face sits on a woman's lap on a red sofa. He is dressed in a light grey t-shirt featuring a Mickey Mouse graphic and bright lime green shorts. He holds a brown capybara plush toy in his right hand while gesturing with his left hand as if performing or reciting. The woman behind him wears a grey top and smiles broadly, watching the child with affection. (2) The camera moves slightly with a handheld feel as the boy's movements become more animated. He looks slightly off-camera, his mouth moving rapidly as if singing a fast-paced song. The woman begins to laugh, her eyes squinting with amusement. The background consists of a light blue throw blanket with a white winter pattern and a wooden dining set with yellow packaging boxes visible in the far left. (3) In the final visual phase, the boy and the woman both burst into a fit of uncontrollable laughter. The boy leans back slightly, his mouth wide open in a joyful grin, while the woman hugs him closer, burying her face slightly against his shoulder. The lighting is bright and indoor, creating a warm and vibrant domestic atmosphere throughout the sequence.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 young boy as the main performer, 1 woman (mother) sitting behind him.",
+        "mainCharacterDescription": "A young boy with dark wavy hair, wearing a light grey Mickey Mouse t-shirt and lime green shorts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A red sofa or armchair covered with a light blue patterned throw blanket. A wooden table and chairs are partially visible in the background along with some yellow boxes.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 5,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Simplified Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 9,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Phonk/Brazilian Funk",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 145,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Low-fi/Phone"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-tempo electronic Phonk beat featuring sharp, distorted bass and a rapid percussive rhythm. A young boy's high-pitched voice starts a hyper-fast chant in Chinese, matching the intensity of the track with incredible verbal agility and a high arousal level. (2) As the rhythmic chanting continues, a female adult's warm laughter enters the mix, overlapping with the boy's energetic performance. The music maintains its driving BPM, and the interplay between the fast-paced speech and the background laughter creates a chaotic yet joyful acoustic texture. (3) The recording reaches its peak as the boy and the woman both burst into loud, resonant laughter. The chanting stops, replaced by high-energy vocal exclamations of delight. The electronic beat continues to thrum underneath their voices until the audio track abruptly cuts off at the end of the take."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Family / Kids",
+        "Comedy",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 30.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Performance -> Escalation -> Shared Joy",
+      "mainPurpose": "To capture and share a humorous and heartwarming moment of a child performing a fast-paced internet meme song, highlighting the joyful bond between a parent and child.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video's appeal lies in the contrast between the child's intense, rapid-fire performance and the genuine, infectious laughter at the end."
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "videoName": "davio_magic-20250804003400-910404495271607.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 7,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young man wearing a black cap with a 'Toy Story' logo and a black fuzzy jacket over a Tamiya-branded t-shirt stands centrally before a brightly lit glass display cabinet filled with high-end shoes and sneakers. He holds a lollipop in each hand, performing rhythmic arm movements and finger snaps towards the camera in a brightly lit indoor environment. (2) Two women wearing low-cut casual tank tops appear from behind the man, one on each side, also holding lollipops. They perform a coordinated, hip-swaying dance with playful expressions while the man maintains his position in the center, all three moving in synchronization with the background music.",
+      "text_narrative_log": "(1) [Logo]: TOY STORY. [Logo]: TAMIYA.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main male creator and 2 female dancers appear halfway through.",
+        "mainCharacterDescription": "The main male character is wearing a black Toy Story cap, glasses, a black fuzzy zip-up jacket, and a black T-shirt with the red and blue Tamiya star logo."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A luxury walk-in closet or shoe room featuring a wooden-paneled wall and a large built-in glass display cabinet with warm LED shelving, showcasing various pairs of sneakers and high heels.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "TAMIYA",
+          "TOY STORY"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 2,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": true,
+        "hasStrain": false,
+        "articulationClarity": 3,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 6,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Phonk/Brazilian Funk"
+        ],
+        "tempoBPM": 130,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 5,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-tempo Phonk instrumental track starts with a distorted, heavy cowbell melody and a powerful percussive beat characterized by punchy kick drums and sharp snares. The acoustic texture is bright and highly percussive, with a thick bass floor. (2) A male rap vocal track enters the mix, featuring a rhythmic, rhythmic flow with moderate pitch and an aggressive, energetic tone. The vocals are heavily synchronized with the heavy bass hits, maintaining a consistent high energy throughout the segment."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 7.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Reveal",
+      "mainPurpose": "The video is a short-form trend performance where a male creator 'reveals' two attractive female dancers to a catchy Phonk beat, utilizing the lollipops as props to enhance the playful and slightly flirtatious aesthetic of the coordinated dance.",
+      "visualEmotion": [
+        "energetic",
+        "flirtatious",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "Brand logos are visible on clothing, but not presented as a formal endorsement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "High-quality lighting and setting suggest professional content creation for social media platforms."
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "videoName": "children0704-20250828175422-2846680559000008.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 180,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with short black hair and glasses, wearing a black long-sleeved shirt, is seated in a bathroom. He leans toward the camera, his facial expressions shifting rapidly with moving lips and narrowed eyes as he speaks. Behind him, a white toilet with its lid open, grey textured tiled walls, and a yellow tissue box on a dark countertop are visible. A white text overlay \"影片1\" is in the top-left corner. (2) The man leans back slightly, laughing sarcastically and showing his teeth while making hand gestures towards the lens. He adjusts his glasses occasionally while maintaining his position. The bathroom setting, including the tiled wall and the tissue box, remains unchanged under bright indoor lighting. The \"影片1\" text overlay remains static. (3) He points toward himself and then gestures outward with an open palm. His expression turns from animated to puzzled, looking directly into the camera with an inquisitive stare. The tiled background and bathroom fixtures are still present. The white text overlay \"影片1\" persists until the end of the clip.",
+      "text_narrative_log": "(1) [Logo]: 影片1.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 male main character speaking to the camera.",
+        "mainCharacterDescription": "An adult male with short black hair, wearing rectangular glasses and a black long-sleeved shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Bathroom"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern indoor bathroom featuring grey textured tiled walls, a white toilet with an open lid, and a dark marble-patterned countertop with a yellow box of tissues.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to speech"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Andante"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 5,
+        "dominance": 7,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A clear male voice in Mandarin speaks with a fast tempo and high arousal, engaging in a dialogue. A female voice is audible through a muffled speakerphone interface, sounding distant but firm. The interplay is characterized by rapid back-and-forth speech with no music. (2) The male voice exhibits sarcastic laughter and varied pitch contours as the debate continues. The female voice maintains a steady, professional but insistent tone. The acoustic environment is quiet, with only a minor indoor room tone present under the voices. (3) The intensity of the male vocal increases in volume and dominance as the argument reaches a peak. Suddenly, the female voice becomes silent. The male speaker repeats \"Wei? Wei?\" with a rising, confused intonation until the track cuts off abruptly."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 180.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Conflict -> Resolution",
+      "mainPurpose": "The video documents a real-life telephone confrontation between a content creator and a business representative (likely from a Pilates studio mentioned in the dialogue). The creator is defending a video he posted, while the representative requests its removal, resulting in a tense debate about consumer rights and freedom of expression.",
+      "visualEmotion": [
+        "tense",
+        "humorous",
+        "defensive"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The dialogue indicates a conflict/dispute rather than a promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video captures a raw, unedited interaction, likely shared to provide social proof of a customer service dispute."
+  }
+}

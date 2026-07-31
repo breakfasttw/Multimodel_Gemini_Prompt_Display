@@ -1,0 +1,266 @@
+{
+  "videoName": "corgimango-20250214072706-26175817928749499.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 40,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young child with dark hair, wearing a white jacket over a black shirt and dark blue pants, stands in a grassy field. A corgi lies on its back nearby, while another corgi sits with a green tennis ball in its mouth. The background features a large tree and a fence. (2) The child watches the corgi on its back, which rolls playfully. The camera pans slightly, showing more of the grassy park and distant trees. The lighting is natural and suggests late afternoon. (3) The two corgis stand up and interact, sniffing each other's faces. The child continues to stand still, observing them. A road with a parked motorcycle is visible in the background beyond the fence. (4) Close-up shots focus on the faces of the corgis. One corgi looks directly at the camera with an alert expression. The camera zooms in on their features as they react to sounds. One corgi barks at the end.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 child in a white coat stands in the center of the frame.",
+        "mainCharacterDescription": "A young child with dark, messy hair wearing a white zip-up coat and dark navy pants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Park / Garden"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A flat grassy field with several large, mature trees. A chain-link fence separates the park from a road where a motorcycle and some cones are visible.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Scooter / motorcycle"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 3
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Mandarin"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor",
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A child's high-pitched, curious voice asks questions in Mandarin, answered by an adult male's calm, friendly voice. Background noise includes a soft outdoor ambience with distant urban hum. No BGM is present. (2) The adult male begins making a series of rhythmic, buzzing sounds \"Mmm... Mmm...\" with a moderate intensity, mimicking a vibration or cicada. The child's voice overlaps occasionally with short, inquisitive remarks. (3) A loud, sharp dog bark (percussive transient) occurs near the end, followed by the adult male's short laughter. The ambient noise floor remains consistent with an outdoor park setting throughout."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Pet / Animal",
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 10.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Interaction -> Observation -> Reaction",
+      "mainPurpose": "Capturing a heartwarming family moment showing a child's interaction and curiosity with pets in a park environment.",
+      "visualEmotion": [
+        "warm",
+        "calm",
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video focuses on the charm of the corgis and the child's reaction to their behavior."
+  }
+}

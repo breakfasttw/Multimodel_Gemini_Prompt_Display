@@ -1,0 +1,278 @@
+{
+  "videoName": "aries_8248-20250430185105-1221249432922890.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 25,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) In a brightly lit kitchen, a man wearing a beige t-shirt and glasses pours milk from a white carton into a small bowl. He accidentally spills the white liquid onto the floor and his foot, which is covered by a light blue sock with green alien patterns. (2) The camera zooms in on the floor where the spilled milk puddles. The man's foot, clad in the patterned blue sock, steps into the milk, spreading it further across the light-colored tiled surface. (3) The man looks directly at the camera with wide eyes and an open mouth, expressing shock. He is still holding the milk carton and the small bowl while standing in the kitchen area. (4) A woman with long straight black hair, wearing dark sunglasses and a light blue crop top with grey sweatpants, stands stoically in front of a transparent shoe display case. (5) Back in the kitchen, the man hurriedly places the milk carton on the counter and glances around furtively, seemingly worried about the mess he made. (6) A montage begins with rapid cuts. A hand enters the frame and lifts the woman's sunglasses. The man is shown holding paper currency towards her. The woman responds with a neutral look or a wink. (7) The man is shown smiling happily at the camera, then he turns his head to the side and exits the frame.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Face close-up",
+          "Feet / Legs"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 male main character in the kitchen, 1 female main character in the room.",
+        "mainCharacterDescription": "A man with short dark hair wearing glasses and a beige t-shirt; a woman with long dark hair wearing sunglasses and a light blue top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Kitchen",
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A modern kitchen with white cabinets and a dark oven; a room with a large transparent shoe rack filled with various footwear.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Milk"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Comedy/Meme"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Brass",
+          "Woodwind",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Trumpet",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a quirky, moderate-tempo background music featuring brass and woodwind instruments in a minor key, creating a sneaky and comedic atmosphere. No speech or vocals are heard. (2) As the visual transitions occur, the background music continues with a consistent beat and a repetitive melodic motif. The instrumental texture remains light and bouncy, typical of comedy skits. (3) Subtle post-production sound effects are layered over the music, including a soft whoosh during scene transitions and a bright ding sound when currency is presented. (4) The music reaches a playful climax as the man's expression shifts to a smile. The track maintains its rhythmic energy until the video ends, with no environmental noise or speech interfering."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 1.3,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear -> Montage -> Resolution: Logic Flow describes a character's mistake leading to a sequence of repetitive attempts to solve a problem through absurd interactions.",
+      "mainPurpose": "To entertain viewers with a humorous skit that parodies a 'clumsy' mistake and the ensuing attempt to reconcile or impress another person using a stylized montage and comedic timing.",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video relies heavily on rapid visual cuts synchronized with a bouncy, comedic musical score to drive the humor."
+  }
+}

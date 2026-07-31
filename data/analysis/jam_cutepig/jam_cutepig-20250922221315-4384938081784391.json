@@ -1,0 +1,273 @@
+{
+  "videoName": "jam_cutepig-20250922221315-4384938081784391.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 32,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Close-up shot of a white KFC box decorated with red vertical stripes and a \"KFC 40th\" logo. It sits on a red plastic tray. A tall yellow cup with white text and a basket of golden fried chicken are visible in the bright indoor background. (2) A person's hand holds a large burger wrapped in paper. The burger is composed of two thick, crispy fried chicken patties, a golden-brown hash brown, and a slice of melted yellow cheese. The background is a slightly blurred restaurant setting with neutral colors. (3) A man with short black hair and a black T-shirt is shown in a tight close-up. He opens his mouth extremely wide, showing his tongue and teeth, and takes a massive bite of the burger. Behind him is a dark red brick wall. (4) The man chews the food vigorously, his cheeks expanding with the movement. He looks directly at the camera with wide, bulging eyes and a surprised, happy expression. He raises his right hand and gives a clear thumbs-up gesture towards the lens. (5) The man picks up a large yellow translucent cup featuring the KFC logo. He brings it to his mouth and takes a long drink, tilting his head back. The red brick wall remains visible in the background as the camera stays at eye-level.",
+      "text_narrative_log": "(1) [Logo]: KFC. [Slogan]: Col. Harland Sanders. [Logo]: KFC 40th. (2) [Slogan]: KFC.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face close-up",
+          "Upper body",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main male character eating food.",
+        "mainCharacterDescription": "A man with short black hair, wearing a black T-shirt, with very expressive facial features."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Restaurant / Dining"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An indoor KFC restaurant. Initially shows a food tray on a table, then shifts to a dark red brick wall background behind the man.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Extreme close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fast food / burger / fries / pizza",
+          "Meat / beef / pork / chicken",
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "KFC"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drums"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Food Bite / Crunch",
+          "Liquid Pour / Splash"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 5,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) An upbeat, high-tempo acoustic pop song begins immediately. A clear female voice sings melodic lyrics over a bright guitar-driven arrangement. The spectral energy is focused in the mid-to-high frequencies, creating a cheerful atmosphere. There is no detectable ambient noise or background chatter. (2) As the visual transitions, the music continues without interruption. The female vocals remain the primary focus, characterized by a smooth and energetic delivery. The beat is steady with light percussive elements like snaps or a tambourine. No spoken dialogue is present during this phase. (3) The rhythmic guitar and female vocals continue their loop. Faint, non-musical sounds of chewing can be heard layered under the music track, but they do not disrupt the overall harmonic clarity. The vocal pitch is moderately high, and the tempo remains at a constant energetic pace. (4) The music continues at a steady volume with no dynamic changes. A soft swallowing sound is briefly audible as the singer finishes a line. The recording is studio-clean with no significant noise floor or technical distortion. The overall spectral balance is bright and sharp. (5) The musical track begins to sustain its final notes as the man drinks. A subtle liquid sound is heard alongside the fading pop track. The audio production is polished, with no speech-to-music overlap since there are no spoken words, only background singing and incidental noises."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 2.6,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Presentation -> Consumption -> Approval",
+      "mainPurpose": "To showcase a specific KFC burger menu through an energetic, first-person eating experience, emphasizing visual food appeal and a highly positive emotional reaction from the taster.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Clear display of KFC branding, the man eating and endorsing the product with a thumbs-up gesture.",
+      "endorsementObject": [
+        "KFC"
+      ]
+    },
+    "freeDescribe": "The video uses fast editing and exaggerated facial expressions to create an engaging short-form food review. The constant pop background music maintains a high energy level throughout."
+  }
+}

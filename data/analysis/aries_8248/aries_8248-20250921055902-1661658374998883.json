@@ -1,0 +1,264 @@
+{
+  "videoName": "aries_8248-20250921055902-1661658374998883.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 7,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) This graphic-based phase displays a screen recording of a mobile chat application interface. [People: Face/Hands] The chat background contains two still photos: a man with dark hair in the upper right appears to be in a shower holding a metallic showerhead, and a woman with long dark hair in the middle left is holding a black microphone while wearing athletic clothes. [Objects: Details/State] The central elements are green and gray digital text bubbles containing Traditional Chinese characters arranged vertically. At the bottom, standard UI icons for emojis and attachments are visible. [Setting: Background/Lighting] The background imagery suggests indoor domestic settings, one with tiles and one with a room interior. The overall lighting of the digital screen is bright and uniform. [Physical Text Presence] Several lines of text are overlaid within the chat bubbles, centered on the screen.",
+      "text_narrative_log": "(1) [Subtitle]: 昨晚喝醉了打了很多通電話給你. [Subtitle]: 可是妳一通都沒有接. [Subtitle]: 我接了. [Subtitle]: 但是你一直不講話.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 man in the upper chat background photo and 1 woman in the middle chat background photo.",
+        "mainCharacterDescription": "The man has short dark hair and is seen without a shirt in a shower setting. The woman has long dark hair and is wearing a black sports bra and gray shorts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Digital Interface / Screen Capture"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The background of the chat interface features photos of a man in a bathroom and a woman in a generic indoor room.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "None"
+        ],
+        "shotSize": [
+          "Screen / interface close-up"
+        ],
+        "cameraAngles": [
+          "Screen viewer perspective"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Very slow pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 85,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String"
+        ],
+        "instrumentsAudible": [
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 1,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track features no spoken dialogue, acting purely as a background for the visual content. [Vocals & Prosody] A male vocalist sings English lyrics in a warm, resonant tone as part of the background music. [Music & Tonality] The music is a melodic acoustic folk-pop track with a steady tempo of 85 BPM, characterized by rhythmic acoustic guitar strumming in a major key. [Ambient Sound] There are no ambient or environmental noises present, as the recording is a high-fidelity studio mix. [Noise/SFX & Production Artifacts] The audio remains consistent throughout with no sound effects, transient spikes, or editing artifacts, providing a clean musical backdrop."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend",
+        "Short Video"
+      ],
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 7.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Setup -> Punchline",
+      "mainPurpose": "The video uses a simulated chat interface to deliver a joke or comedic anecdote about a drunken phone call incident, where the humor lies in the contradiction of one person claiming to have answered while the other remained silent.",
+      "visualEmotion": [
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A simple screen recording meme presenting a humorous dialogue exchange through a chat application interface."
+  }
+}

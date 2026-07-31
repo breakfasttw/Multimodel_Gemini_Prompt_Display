@@ -1,0 +1,271 @@
+{
+  "videoName": "corgimango-20250609191446-4183089978688157.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 23,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A tan-and-white Corgi wearing a pink collar lies on its back in a field of tall green grass, rolling side to side and kicking its paws in the air. The ground is covered with fallen brown leaves and a few small, dark fruits. (2) The camera pans upward and to the right, showing a public park setting. A man in a black shirt is sitting on a low concrete perimeter wall with a small white dog standing beside him. In the background, a large yellow and brown wooden play structure stands under a bright, overcast sky. (3) The Corgi stands up on all fours and walks through the grass. The camera then cuts to a young child with short dark hair, wearing a pink t-shirt and light green pants, sitting on a gray gravel surface next to a colorful green and red spiral slide. The child is holding and manipulating a small blue and yellow toy.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 man sitting on a ledge, 1 child sitting by a slide.",
+        "mainCharacterDescription": "The man is wearing a black casual shirt and shorts; the child is wearing a pink t-shirt and lime green pants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Park / Garden"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Park / Green Space"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A grassy field with scattered leaves transition to a playground area with a large wooden climbing structure, a concrete wall, and a colorful plastic slide.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Cloudy / Overcast"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Panning"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog"
+        ],
+        "foodsDetect": [
+          "Fruit"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Casual",
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Mandarin"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 105,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String"
+        ],
+        "instrumentsAudible": [
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A male speaker with a cheerful and relaxed tone says \"Song-e-o\" multiple times, his pitch rising playfully. Background music consists of a bright, strummed acoustic guitar in a major key at a moderate tempo. Soft ambient wind and bird chirping are audible in the high-frequency range. (2) The man lets out a loud, high-arousal laugh. The guitar BGM continues steadily, maintaining a warm and happy atmosphere. Faint background chatter from other people in the distance is briefly audible. (3) The man's voice continues in a conversational manner, mentioning the weather. The speech rate is natural with clear articulation. The acoustic BGM remains at a consistent volume underneath the vocals. (4) The speaker calls out a child's name with a distinct rising intonation, followed by the question \"What are you doing?\" The child responds with a short, soft vocalization. A faint shuffling or rustling sound occurs as the child moves."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Pet / Animal",
+        "Family / Kids"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 7.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Subject A (Dog) -> Subject B (Setting) -> Subject C (Child)",
+      "mainPurpose": "The video documents a leisurely family outing at a park, capturing the playful behavior of a pet Corgi and the quiet activity of a child. It aims to share a warm, relatable moment of everyday happiness and family life.",
+      "visualEmotion": [
+        "warm",
+        "calm",
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video features natural lighting and a bright color palette, which aligns with the cheerful and relaxed audio tone to create a cohesive lifestyle vlog aesthetic."
+  }
+}

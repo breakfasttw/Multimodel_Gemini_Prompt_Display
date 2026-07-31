@@ -1,0 +1,264 @@
+{
+  "videoName": "huangbrotherss-20250728103029-1612485006738430.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 18.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Four young adults—two women sitting on a blue velvet sofa and two men standing behind them—perform a synchronized dance routine. They use their hands to point and move to an unseen rhythm. The setting is a brightly lit, minimalist indoor studio with a large white wall. The women are dressed in white fashion pieces, while the men wear casual sweaters. (2) In the background, a fifth male figure dressed in a dark black hoodie enters the scene using blue crutches. He suddenly loses his balance and falls dramatically toward the floor behind the main group. His limbs splay out as he makes contact with the ground, creating a sudden shift in the background visual plane. (3) The four main individuals immediately cease their dancing and turn their heads in unison to look behind them. Their faces light up with wide, authentic smiles and expressions of amusement. One woman covers her mouth with her hand while pointing at the fallen individual, and the overall scene transitions from a performance to a spontaneous social interaction.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 4,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "4 people in the foreground dancing and 1 person falling in the background.",
+        "mainCharacterDescription": "Two females in white dresses/cardigans sitting, and two males in casual sweaters standing."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A minimalist indoor studio with a plain white wall and a dark blue velvet sofa in the center.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 2,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Other"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 1,
+        "musicToSpeechLoudRatio": 5,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy pop music with a bright female vocal track dominates the master mix. The tempo is approximately 110 BPM with a strong, synthesized 4/4 beat. The vocal delivery is clear and melodic, with no primary speech or narration present in this initial phase of the recording. (2) A sharp, loud transient sound effect or incidental noise occurs, resembling a heavy body impacting the floor. This \"thud\" has a wide spectral bandwidth and high intensity, cutting through the music momentarily. There is a brief shift in the acoustic texture as this physical sound event takes precedence. (3) Immediately following the impact, the audio is flooded with high-arousal group laughter and spontaneous vocalizations. These voices exhibit high pitch variability and rising intonations, indicating genuine amusement. The music continues in the background, creating a layered soundscape of pop tonality and chaotic human emotional expression."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 18.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Narrative Shift -> Reaction",
+      "mainPurpose": "The video is a humorous prank intended to capture the genuine reaction of dancers who are interrupted by a staged fall in the background. It leverages the contrast between a polished dance performance and a chaotic, unexpected event to create comedic value.",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video effectively uses a single take to maintain the authenticity of the group's reaction to the prank fall."
+  }
+}

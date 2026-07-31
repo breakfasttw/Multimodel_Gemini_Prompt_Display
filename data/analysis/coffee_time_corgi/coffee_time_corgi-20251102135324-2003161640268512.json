@@ -1,0 +1,270 @@
+{
+  "videoName": "coffee_time_corgi-20251102135324-2003161640268512.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 10,
+      "aspectRatio": "16:9"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A giant CGI Corgi dog with orange and white fur lies horizontally across a miniaturized city skyline, including the Taipei 101 skyscraper. The dog is positioned on its side with its belly exposed and its front paws curled toward its chest. (2) The dog slowly moves its right front paw, descending toward a cluster of high-rise buildings in the city center. As the paw makes contact, the buildings crumble into grey dust and debris, creating a localized cloud of destruction. The lighting is golden and warm, suggesting a sunset or sunrise sky. (3) The scene cuts to a medium shot of an Asian man with long hair, wearing a black beanie and a black sweatshirt with white lettering. He is standing outdoors with a blurred group of people behind him. He looks upward toward the sky with his mouth agape and eyes wide in an expression of shock and disbelief. The blurred background features the Taipei 101 building under a hazy, golden sky.",
+      "text_narrative_log": "(1) [Logo]: CHIE. [Logo]: UNNIGIE.",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 5,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Upper body",
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main character in the foreground, approximately 7 people standing in the background behind him.",
+        "mainCharacterDescription": "An adult male with long dark hair, wearing a black beanie and a black long-sleeved sweatshirt with white logo text on the chest and shoulders."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Outdoor Street",
+          "Urban Plaza / Square"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline",
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The first scene shows a massive urban skyline with dense high-rise architecture, featuring the Taipei 101 tower and other modern office buildings. The second scene shows a street-level view with a blurred urban background under a bright, hazy sky.",
+        "lightingStyle": [
+          "High-contrast cinematic lighting",
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Cinematic",
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Long shot",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "Taipei 101"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur",
+          "Other"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop",
+          "Other"
+        ],
+        "incidentalNoiseIntensity": 4,
+        "SignalToNoiseRatio": 3,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX",
+          "Cinematic Boom SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 2,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 5,
+        "harmonicsToNoiseRatio": 2,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 3,
+        "dynamicRange": 4,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a low-frequency, continuous rumble mixed with the distant, faint hum of an urban environment. There is no speech or music. (2) A sharp, percussive impact SFX triggers as the paw hits the buildings, characterized by a broadband crumbling sound and high-frequency glass shattering textures. The spectral bandwidth is wide, with heavy low-end thuds indicating massive weight and destruction. (3) As the scene transitions, the crumbling sound continues but is overlaid with a chaotic bed of indistinct human crowd noise, specifically gasps and murmurs. A distant, high-pitched emergency siren wail is faintly audible in the background, creating a sense of urban panic. The master track exhibits high dynamic range, moving from ambient city hum to loud percussive impacts."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 5.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Random: Hook -> Reaction",
+      "mainPurpose": "The video uses high-quality CGI to create a surreal and humorous 'Kaiju' scenario featuring a giant, adorable Corgi dog crushing the city of Taipei. The intent is to entertain through the juxtaposition of extreme urban destruction and the innocent, clumsy nature of a popular pet, concluded with a relatable human 'shock' reaction.",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video relies heavily on the 'cute but destructive' meme trope. The presence of Taipei 101 makes the setting immediately recognizable to global audiences."
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "videoName": "peri168-20250127181501-893529913668628.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 11,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a view from the back seat of a moving vehicle. A child with black hair is seen from behind, looking out the left passenger window. Outside, a red sedan and a white van with vibrant orange and yellow graphics pass quickly on a highway. The background is a flat, desolate brown field under a dense, overcast grey sky. (2) The child shifts their head to the right, tracking a vivid rainbow that appears to bridge across the horizon. The interior of the car features white quilted leather seats and a black tablet mount attached to the front passenger headrest. The lighting is soft and natural, typical of a rainy or cloudy day. (3) The child points towards the window as the camera pans slightly. A secondary, fainter rainbow (double rainbow) becomes visible in the sky above the primary one. The vehicle continues to move, showing the highway barrier and the expansive flat topography beyond it.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Back view",
+          "Side view",
+          "Partial body",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 child in the foreground (back view), 1 adult shoulder/head partially visible on the right.",
+        "mainCharacterDescription": "A young boy with short, slightly messy black hair, wearing a dark blue and grey patterned shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Car / Van Interior"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Farmland"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The background consists of a flat, agricultural or open field landscape passing by outside a car window, characterized by brown soil and low vegetation under a heavy, grey, overcast sky where a double rainbow is visible.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Cloudy / Overcast"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Back view",
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car",
+          "Truck",
+          "Traffic infrastructure"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 3,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "English",
+          "Mandarin"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 9,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 3,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track opens with a continuous, low-frequency rumble characteristic of a vehicle traveling on a highway. A child's voice, high in pitch and with high arousal, exclaims in English: 'That's a full rainbow!' (2) Immediately, a male voice enters with a bright, energetic tone in Mandarin: '對呀，哇，完整的！' (Yes, wow, a complete one!). This is followed by a female voice with similar positive valence. The speech rate is brisk, conveying genuine excitement and awe. (3) The voices overlap as they marvel at the sight. The child points out a second rainbow, saying 'I've never seen a full rainbow.' The male voice continues to express amazement in Mandarin. Throughout the clip, the sound of wind and tire noise remains a steady backdrop, providing an authentic field recording texture with no post-production effects or background music."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 11.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Observation -> Reaction",
+      "mainPurpose": "A spontaneous recording capturing a family's shared excitement and wonder upon discovering a rare double rainbow during a road trip.",
+      "visualEmotion": [
+        "energetic",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video relies on authentic audio and visual reactions to convey a wholesome family moment. The use of both English and Mandarin suggests a bilingual household."
+  }
+}

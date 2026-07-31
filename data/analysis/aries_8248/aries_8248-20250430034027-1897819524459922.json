@@ -1,0 +1,268 @@
+{
+  "videoName": "aries_8248-20250430034027-1897819524459922.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 17,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a white cable-knit sweater, sits in the driver's seat of a white sedan. She points aggressively at the camera with an angry facial expression, her mouth open as if shouting. The setting is a sunny outdoor street with buildings in the background. (2) The woman opens her car door and steps out, maintaining her aggressive posture and expression. She walks towards the camera car, which is parked adjacent to hers. Her hands are active as she gestures towards the interior of the camera car. (3) She reaches the camera car door and pulls it open. A man's hand and arm in a denim jacket is visible on the interior door handle of the camera car. The woman leans in slightly, her face showing intense anger. (4) With a swift motion, she slams the camera car door shut forcefully. She turns around and walks back towards her own vehicle while continuing to look back and point at the camera car with her right hand. (5) She gets back into the driver's seat of her white car and leans out of the open window, continuing her verbal barrage and pointing gestures toward the camera before the video concludes.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 female main character clearly visible; 1 male hand/arm visible in the foreground car.",
+        "mainCharacterDescription": "A young woman with long, straight dark hair wearing a white cable-knit cardigan over a white top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern urban street with high-rise buildings, green trees, and other parked cars under bright daylight.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Spring / Summer"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "POV / first-person view"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 5,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Aggressive"
+        ],
+        "vocalLanguage": [
+          "Simplified Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": true,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 4
+      },
+      "vocal_affective": {
+        "arousal": 9,
+        "valence": 1,
+        "dominance": 9,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Door / Cabinet Open-Close",
+          "Mechanical Click / Latch",
+          "Footsteps"
+        ],
+        "incidentalNoiseIntensity": 4,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) High-arousal female voice shouting aggressively in Mandarin. No background music is present, allowing the sharp vocal transients to dominate the mix. Ambient urban traffic noise provides a low-level background floor. (2) A sharp acoustic shift occurs as a car door latch clicks, followed by the sound of footsteps on asphalt. The female voice continues shouting with intense vocal strain and high pitch variability. (3) A loud metallic latch sound and the rustle of fabric occur as the camera car door is pulled open. The voice becomes significantly louder and more resonant due to physical proximity to the recording device. (4) A sudden, high-intensity thud/impact sound from the car door being slammed shut. Footsteps are heard retreating on the pavement, and the female voice moves further away, showing a drop in perceived volume. (5) The woman continues shouting from a distance, with her voice slightly muffled after she re-enters her own vehicle. A final shout is heard before the audio cuts."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Drama",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 3,
+      "averageSceneDuration": 4.25,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Escalation -> Resolution",
+      "mainPurpose": "The video uses a staged 'road rage' scenario to create comedic tension or dramatic engagement. The woman's exaggerated aggression and the physical act of opening and slamming the other car's door serve as a high-arousal hook for social media viewers.",
+      "visualEmotion": [
+        "tense",
+        "humorous",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video appears to be a scripted skit designed for short-form video platforms, leveraging the 'angry girlfriend' or 'aggressive stranger' trope for virality."
+  }
+}

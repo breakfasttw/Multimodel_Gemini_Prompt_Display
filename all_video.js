@@ -3,6 +3,12 @@ import { APP_CONFIG } from "./config.js";
 import {
     cleanHeader,
     splitCsvRow,
+    stripCsvValue,
+    splitCsvText,
+    parseCsvObjectRows,
+    parseCsvBoolean,
+    parseNumberOrDefault,
+    truncateText,
     yieldToBrowser,
     runAfterFirstPaint,
     cssEscape,
@@ -23,6 +29,11 @@ let cachedDetails = {}; // 快取已下載的網紅影片詳情：{ ig_id: merge
 // ==========================================
 let globalMediaData = []; // all_infleuncer_media_id.csv 解析後的全量影片資料
 let mediaIdIndex = new Map(); // media_id -> media record，用於模式 1 O(1) 搜尋
+// json_description_summary.csv 解析後的影片描述摘要資料。
+let jsonDescriptionSummaryData = []; // 目前用於 endorsement 篩選，未來可繼續擴充其他 description 欄位。
+let isJsonDescriptionSummaryLoaded = false; // 摘要 CSV 是否已成功載入。
+let jsonDescriptionSummaryLoadPromise = null; // 避免短時間內重複 fetch 同一份摘要 CSV。
+let jsonDescriptionSummaryLoadError = null; // 保留載入錯誤，避免資料載入失敗後仍誤以為是查無結果。
 let isFilterActive = false; // 是否正在套用模式 2 條件篩選
 let matchedMediaIds = new Set(); // 模式 2：符合條件的 media_id
 let matchedInfluencerIds = new Set(); // 模式 2：符合條件的 post_owner.username；對應 influencer_all_info.csv 的 ig_id
@@ -235,30 +246,10 @@ async function ensureGlobalMediaDataLoaded({ showMessage = false } = {}) {
 /**
  * 解析 influencer_all_info.csv。
  */
+
 function parseInfluencerData(infText) {
-    const rows = infText
-        .split(/\r?\n(?=(?:(?:[^"]*"){2})*[^"]*$)/)
-        .filter((r) => r.trim() !== "");
-
-    if (rows.length < 2) {
-        influencerData = [];
-        return;
-    }
-
-    const headers = rows[0].split(",").map(cleanHeader);
-
-    influencerData = rows
-        .slice(1)
-        .map((row) => {
-            const cols = splitCsvRow(row);
-            let obj = {};
-            headers.forEach((h, i) => {
-                let val = (cols[i] || "").trim();
-                obj[h] = val.replace(/^"|"$/g, "");
-            });
-            return obj;
-        })
-        .filter((obj) => obj.ig_id)
+    influencerData = parseCsvObjectRows(infText)
+        .filter((item) => item.ig_id)
         .sort(
             (a, b) =>
                 parseInt(a.Aisa_Order || 999, 10) -
@@ -270,25 +261,37 @@ function parseInfluencerData(infText) {
  * 解析 Mapping CSV。
  */
 function parseNameMapping(csvText) {
-    const rows = csvText
-        .replace(/^\uFEFF/, "")
-        .split(/\r?\n/)
-        .filter((r) => r.trim() !== "");
-    if (rows.length < 2) return;
+    const rows = splitCsvText(csvText);
+
+    if (rows.length < 2) {
+        return;
+    }
 
     const headers = rows[0].split(",").map(cleanHeader);
     const idIdx = headers.indexOf("ig_id");
     const tagIdIdx = headers.indexOf("tag_id");
     const nameIdx = headers.indexOf("person_name");
 
+    if (nameIdx === -1) {
+        console.warn("ownerid_mapping.csv 缺少 person_name 欄位");
+        return;
+    }
+
     rows.slice(1).forEach((row) => {
-        const cols = splitCsvRow(row).map((v) =>
-            v.trim().replace(/^"|"$/g, ""),
-        );
+        const cols = splitCsvRow(row).map(stripCsvValue);
         const name = cols[nameIdx];
-        if (idIdx !== -1 && cols[idIdx]) nameMapping[cols[idIdx]] = name;
-        if (tagIdIdx !== -1 && cols[tagIdIdx])
+
+        if (!name) {
+            return;
+        }
+
+        if (idIdx !== -1 && cols[idIdx]) {
+            nameMapping[cols[idIdx]] = name;
+        }
+
+        if (tagIdIdx !== -1 && cols[tagIdIdx]) {
             nameMapping[cols[tagIdIdx]] = name;
+        }
     });
 }
 
@@ -296,10 +299,7 @@ function parseNameMapping(csvText) {
  * 解析 all_infleuncer_media_id.csv。
  */
 async function parseGlobalMediaData(csvText) {
-    const rows = csvText
-        .replace(/^\uFEFF/, "")
-        .split(/\r?\n(?=(?:(?:[^"]*"){2})*[^"]*$)/)
-        .filter((r) => r.trim() !== "");
+    const rows = splitCsvText(csvText);
 
     if (rows.length < 2) {
         globalMediaData = [];
@@ -337,27 +337,13 @@ async function parseGlobalMediaData(csvText) {
         const cols = splitCsvRow(row);
 
         const item = {
-            owner_ig_id: (cols[ownerIdx] || "").trim().replace(/^"|"$/g, ""),
-            media_id: (cols[mediaIdx] || "").trim().replace(/^"|"$/g, ""),
-            comment_count:
-                parseInt(
-                    (cols[commentIdx] || "0").trim().replace(/^"|"$/g, ""),
-                    10,
-                ) || 0,
-            like_count:
-                parseFloat(
-                    (cols[likeIdx] || "0").trim().replace(/^"|"$/g, ""),
-                ) || 0,
-            duration:
-                parseFloat(
-                    (cols[durationIdx] || "0").trim().replace(/^"|"$/g, ""),
-                ) || 0,
-            creation_time_tw: (cols[createIdx] || "")
-                .trim()
-                .replace(/^"|"$/g, ""),
-            modified_time_tw: (cols[modifyIdx] || "")
-                .trim()
-                .replace(/^"|"$/g, ""),
+            owner_ig_id: stripCsvValue(cols[ownerIdx]),
+            media_id: stripCsvValue(cols[mediaIdx]),
+            comment_count: parseNumberOrDefault(cols[commentIdx]),
+            like_count: parseNumberOrDefault(cols[likeIdx]),
+            duration: parseNumberOrDefault(cols[durationIdx]),
+            creation_time_tw: stripCsvValue(cols[createIdx]),
+            modified_time_tw: stripCsvValue(cols[modifyIdx]),
         };
 
         if (item.owner_ig_id && item.media_id) {
@@ -372,6 +358,161 @@ async function parseGlobalMediaData(csvText) {
 
     globalMediaData = parsed;
     mediaIdIndex = nextMediaIdIndex;
+}
+
+/**
+ * 解析 json_description_summary.csv。
+ *
+ * 預期欄位：
+ * - influencer
+ * - json_name
+ * - media_id
+ * - is_endorsement
+ *
+ * 注意：
+ * is_endorsement 無法轉為明確 true / false 的資料會被排除，
+ * 不會將缺少 description 的影片誤判為非業配。
+ */
+function parseJsonDescriptionSummary(csvText) {
+    const rows = splitCsvText(csvText);
+
+    if (rows.length < 2) {
+        jsonDescriptionSummaryData = [];
+        return;
+    }
+
+    const headers = rows[0].split(",").map(cleanHeader);
+
+    const influencerIdx = headers.indexOf("influencer");
+    const jsonNameIdx = headers.indexOf("json_name");
+    const mediaIdIdx = headers.indexOf("media_id");
+    const endorsementIdx = headers.indexOf("is_endorsement");
+
+    const missingHeaders = [];
+
+    if (influencerIdx === -1) missingHeaders.push("influencer");
+    if (mediaIdIdx === -1) missingHeaders.push("media_id");
+    if (endorsementIdx === -1) missingHeaders.push("is_endorsement");
+
+    if (missingHeaders.length > 0) {
+        throw new Error(
+            `json_description_summary.csv 缺少必要欄位：${missingHeaders.join(", ")}`,
+        );
+    }
+
+    const parsedData = [];
+    let invalidBooleanCount = 0;
+
+    rows.slice(1).forEach((row) => {
+        const cols = splitCsvRow(row);
+
+        const influencer = stripCsvValue(cols[influencerIdx]);
+
+        const jsonName =
+            jsonNameIdx !== -1 ? stripCsvValue(cols[jsonNameIdx]) : "";
+
+        const mediaId = stripCsvValue(cols[mediaIdIdx]);
+
+        const isEndorsement = parseCsvBoolean(cols[endorsementIdx]);
+
+        // influencer 或 media_id 缺漏時無法與現有手風琴資料對接。
+        if (!influencer || !mediaId) {
+            return;
+        }
+
+        // null 代表沒有明確的 True / False 判定。
+        // 不可將它自動視為 false，否則會把未產生 description 的影片
+        // 誤放入「非業配」結果。
+        if (isEndorsement === null) {
+            invalidBooleanCount++;
+            return;
+        }
+
+        parsedData.push({
+            influencer,
+            json_name: jsonName,
+            media_id: String(mediaId),
+            is_endorsement: isEndorsement,
+        });
+    });
+
+    jsonDescriptionSummaryData = parsedData;
+
+    if (invalidBooleanCount > 0) {
+        console.warn(
+            `[json_description_summary.csv] 有 ${invalidBooleanCount} 筆 is_endorsement 無法辨識，已排除。`,
+        );
+    }
+}
+
+/**
+ * 確保 json_description_summary.csv 已載入。
+ *
+ * 採用 lazy loading：
+ * - 不增加 Videos 初始載入時間。
+ * - 第一次使用 endorsement 篩選時才 fetch。
+ * - 成功載入後保留在記憶體中，後續不會重複 fetch。
+ */
+async function ensureJsonDescriptionSummaryLoaded({
+    showMessage = false,
+} = {}) {
+    if (isJsonDescriptionSummaryLoaded) {
+        return;
+    }
+
+    if (jsonDescriptionSummaryLoadError) {
+        throw jsonDescriptionSummaryLoadError;
+    }
+
+    if (jsonDescriptionSummaryLoadPromise) {
+        if (showMessage) {
+            setSearchMessage("影片描述摘要載入中，請稍候...", "info");
+        }
+
+        await jsonDescriptionSummaryLoadPromise;
+
+        if (showMessage) {
+            clearSearchMessage();
+        }
+
+        return;
+    }
+
+    if (showMessage) {
+        setSearchMessage("影片描述摘要載入中，請稍候...", "info");
+    }
+
+    jsonDescriptionSummaryLoadPromise = (async () => {
+        try {
+            const response = await fetch(
+                APP_CONFIG.DATA_PATHS.json_description_summary ||
+                    "./data/json_description_summary.csv",
+            );
+
+            if (!response.ok) {
+                throw new Error("找不到 json_description_summary.csv");
+            }
+
+            const csvText = await response.text();
+            parseJsonDescriptionSummary(csvText);
+
+            isJsonDescriptionSummaryLoaded = true;
+            jsonDescriptionSummaryLoadError = null;
+        } catch (err) {
+            jsonDescriptionSummaryLoadError = err;
+            throw err;
+        }
+    })();
+
+    try {
+        await jsonDescriptionSummaryLoadPromise;
+    } finally {
+        jsonDescriptionSummaryLoadPromise = null;
+
+        if (showMessage) {
+            clearSearchMessage();
+        }
+    }
 }
 
 /**
@@ -460,6 +601,8 @@ function renderSearchFilterPanel() {
                     <option value="creation_time_tw">依【建立時間】 篩選</option>
                     <option value="modified_time_tw">依【修改時間】 篩選</option>
                     <option value="category">依【網紅類別】 篩選</option>
+                    <option value="is_endorsement">只看【是業配】影片</option>
+                    <option value="not_endorsement">只看【非業配】影片</option>
                 </select>
 
                 <div id="filter-input-wrapper" class="flex items-center gap-2"></div>
@@ -561,7 +704,10 @@ function bindSearchEvents() {
             return;
         }
 
-        if (val === "creation_time_tw" || val === "modified_time_tw") {
+        if (val === "is_endorsement" || val === "not_endorsement") {
+            // 業配篩選本身已包含明確條件，不需要額外輸入欄位。
+            inputWrapper.innerHTML = "";
+        } else if (val === "creation_time_tw" || val === "modified_time_tw") {
             inputWrapper.innerHTML = `
                 <input type="date" id="filter-date-start" class="bg-slate-900 border border-slate-700/80 rounded-lg px-3 py-1.5 text-sm text-slate-200 outline-none focus:border-emerald-500 transition w-36">
                 <span class="text-slate-500 text-xs">到</span>
@@ -833,6 +979,52 @@ async function handleConditionFilter() {
     matchedMediaIds.clear();
     matchedInfluencerIds.clear();
 
+    // Description 層級條件：業配 / 非業配。
+    //
+    // 此處不讀取每支影片的完整 JSON，
+    // 而是使用預先整理好的 json_description_summary.csv。
+    //
+    // 沒有出現在摘要 CSV，或 is_endorsement 無法辨識的影片，
+    // 不會被歸入「是業配」或「非業配」。
+    if (activeKey === "is_endorsement" || activeKey === "not_endorsement") {
+        try {
+            await ensureJsonDescriptionSummaryLoaded({
+                showMessage: true,
+            });
+        } catch (err) {
+            console.error("[影片描述摘要載入失敗]", err);
+
+            setSearchMessage(
+                `⚠️ 影片描述摘要載入失敗：${err.message}`,
+                "error",
+            );
+
+            return;
+        }
+
+        const targetEndorsementValue = activeKey === "is_endorsement";
+
+        jsonDescriptionSummaryData.forEach((item) => {
+            if (item.is_endorsement === targetEndorsementValue) {
+                matchedMediaIds.add(String(item.media_id));
+                matchedInfluencerIds.add(String(item.influencer));
+            }
+        });
+
+        if (matchedMediaIds.size === 0) {
+            isFilterActive = false;
+            activeFilterMode = null;
+            setSearchErrorVisible(true);
+        } else {
+            isFilterActive = true;
+            activeFilterMode = "video";
+        }
+
+        renderInfluencerList();
+        cacheVideoViewSnapshot();
+        return;
+    }
+
     // 條件6：依照「網紅類別」篩選。
     // 篩選標的是 influencer_all_info.csv 的 category 欄位。
     // category 是以逗號分隔的多類別字串，因此需要 split 後精準比對。
@@ -1051,11 +1243,11 @@ window.toggleInfluencer = async (ig_id, el) => {
 
                 listDiv.innerHTML = displayVideos
                     .map((v) => {
-                        const previewText = v.text
-                            ? v.text.length > 50
-                                ? v.text.substring(0, 50) + "..."
-                                : v.text
-                            : "(無文字內容)";
+                        const previewText = truncateText(
+                            v.text,
+                            50,
+                            "(無文字內容)",
+                        );
 
                         return `
                     <div class="video-item border border-slate-800/40 rounded-md bg-slate-900" data-media-id="${v.media_id}">
@@ -1065,7 +1257,7 @@ window.toggleInfluencer = async (ig_id, el) => {
                                 <span class="text-slate-300 font-mono shrink-0">${(v.creation_time_tw || "").split("+")[0]}</span>
                                 <span class="text-blue-300 font-mono shrink-0">${v.media_id}</span>
                                 <span class="text-slate-300 shrink-0 ">${v.duration}s</span>
-                                ${isFilterActive && activeFilterMode === "video" ? `<span class="px-1.5 py-0.5 rounded bg-emerald-500/10 text-emerald-400 text-[10px] border border-emerald-500/20 shrink-0">符合篩選</span>` : ""}
+                                ${isFilterActive && activeFilterMode === "video" ? `<span class="px-1.5 py-0.5 rounded bg-emerald-500/10 text-emerald-400 text-[10px] border border-emerald-500/20 shrink-0">✔</span>` : ""}
                                 <span class="text-slate-200 truncate italic">| ${previewText.replace(/\n/g, " ")}</span>
                             </div>
                             <svg class="w-4 h-4 text-slate-600 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M19 9l-7 7-7-7"/></svg>
@@ -1095,6 +1287,7 @@ window.toggleInfluencer = async (ig_id, el) => {
 /**
  * 取得單一網紅的影片清單。
  */
+
 async function getVideosForInfluencer(ig_id) {
     if (videoCsvCache[ig_id]) {
         return videoCsvCache[ig_id];
@@ -1104,39 +1297,21 @@ async function getVideosForInfluencer(ig_id) {
         `${APP_CONFIG.DATA_PATHS.video_info_dir}/${ig_id}-FullVideoInfo.csv`,
     );
 
-    if (!res.ok) throw new Error("找不到影片資訊檔案");
+    if (!res.ok) {
+        throw new Error("找不到影片資訊檔案");
+    }
 
     const csvText = await res.text();
 
-    const csvRows = csvText
-        .replace(/^\uFEFF/, "")
-        .split(/\r?\n(?=(?:(?:[^"]*"){2})*[^"]*$)/)
-        .filter((r) => r.trim() !== "");
-
-    if (csvRows.length < 2) {
-        videoCsvCache[ig_id] = [];
-        return [];
-    }
-
-    const headers = csvRows[0].split(",").map(cleanHeader);
-
-    const videos = csvRows
-        .slice(1)
-        .map((row) => {
-            const cols = splitCsvRow(row);
-            let obj = {};
-            headers.forEach(
-                (h, i) => (obj[h] = (cols[i] || "").replace(/^"|"$/g, "")),
-            );
-            return obj;
-        })
-        .filter((v) => v.media_id)
+    const videos = parseCsvObjectRows(csvText)
+        .filter((video) => video.media_id)
         .sort(
             (a, b) =>
                 new Date(a.creation_time_tw) - new Date(b.creation_time_tw),
         );
 
     videoCsvCache[ig_id] = videos;
+
     return videos;
 }
 
@@ -1173,7 +1348,8 @@ window.toggleVideoDetail = async (ig_id, media_id, modified_time_tw, el) => {
                 cachedDetails[ig_id] = await res.json();
             }
             jsonData = cachedDetails[ig_id][media_id];
-            if (!jsonData) throw new Error("JSON 內缺少此影片數據");
+            if (!jsonData)
+                throw new Error("缺少此影片數據，或片長超過 300 秒未生成 json");
         } catch (err) {
             jsonError = err.message;
         }

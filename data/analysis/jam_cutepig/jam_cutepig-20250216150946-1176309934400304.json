@@ -1,0 +1,266 @@
+{
+  "videoName": "jam_cutepig-20250216150946-1176309934400304.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 10,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A high-angle eye-level shot captures a large, multi-lane water slide complex with vibrant green, white, and yellow tracks. A man on a blue mat emerges from a central white tube and begins his descent. The setting is lush with green trees and a thatched roof structure visible at the top. (2) As the camera follows the action, several more people emerge from adjacent lanes. A large man in the center lane is sliding face-first on a blue mat, creating significant water spray and splashing. The lighting is bright and natural, suggesting a clear day at an outdoor venue. (3) The camera captures a close-up view as the sliders reach the bottom of the slide. The man in the center lane looks directly at the lens with a wide-eyed, comical expression of surprise and an open mouth. Other people in the background are seen smiling and laughing in the water.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 6,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face close-up",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main character in the center lane, at least 7 other people visible in adjacent slide lanes and the pool area.",
+        "mainCharacterDescription": "A large adult male with short dark hair, seen shirtless while sliding on a blue mat."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Entertainment Venue"
+        ],
+        "locationTopography": [
+          "Forest",
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A large water park slide structure with multiple colorful lanes, surrounded by tropical greenery and a thatched-roof pavilion at the top.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Bright and colorful"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 5,
+        "male_vocal_count": 3,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Screaming/Yelling",
+          "Laughter",
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 4,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 3,
+        "incidentalNoiseDetails": [
+          "Liquid Pour / Splash"
+        ],
+        "incidentalNoiseIntensity": 4,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 5,
+        "harmonicsToNoiseRatio": 2,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track opens with a dense, broadband roar of rushing water, acting as a constant acoustic floor. Multiple distinct human voices are heard emitting high-pitched, excited screams and cheers, indicating very high arousal and positive valence. No background music or speech is present in this initial phase. (2) A sudden, loud transient splash sound occurs with significant low-frequency weight, suggesting a large impact in the water. The surrounding crowd noise intensifies with more frequent vocal bursts and sharp, percussive laughter. The overall acoustic environment is loud and chaotic, dominated by natural hydraulic textures and human excitement. (3) As the energy settles, the screams transition into more articulated laughter and communal chatter from various individuals. The rushing water sound becomes more textured and less uniform as the primary splashing event concludes. The tonal clarity of the laughter is high, although no specific words are spoken throughout the duration."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 10.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Action -> Reaction",
+      "mainPurpose": "To capture and share a humorous and exciting moment of a person enjoying a large water slide at an outdoor park, culminating in a comedic facial reaction at the end.",
+      "visualEmotion": [
+        "energetic",
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video uses a single continuous take to build anticipation for the character's arrival at the bottom, finishing with a funny expression that makes it suitable for meme-style sharing."
+  }
+}

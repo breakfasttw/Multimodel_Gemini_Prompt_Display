@@ -1,0 +1,267 @@
+{
+  "videoName": "corgimango-20250501223009-26518705531049040.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 30,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a 360-degree fisheye perspective placed directly on the green grass. A man wearing a black tank top and grey pants leans over the camera lens. A fluffy, light-colored corgi runs directly over the camera, showing its underbelly and paws against a clear blue sky. (2) The camera transitions to a low-level tracking shot following the corgi from behind as it trots through tall green grass in a sun-drenched park. The dog's tan and white fur is illuminated by bright sunlight, and a large leafy tree stands in the distant background under the sun. (3) The corgi slows down and stops, turning its head slightly toward the right. It pants with its pink tongue hanging out, wearing a pink collar with a metal ring. It then looks upward and moves its jaw in a barking motion while another dog is partially visible in the peripheral background.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Feet / Legs",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 man appears leaning over the camera at the beginning of the video.",
+        "mainCharacterDescription": "A young man wearing a black athletic tank top and grey sweatpants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Park / Garden"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A wide open grassy field with scattered trees and a clear blue sky. A large, dense green tree is prominent in the middle ground under bright sunlight.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Tracking shot",
+          "Walking handheld"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Low angle",
+          "POV / first-person view"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 3
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Simplified Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Footsteps",
+          "Animal Sound / Barking",
+          "Other"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 1,
+        "vocalRatio": 1,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) High-frequency rustling of vegetation and soft thudding of rapid footsteps dominate as something runs across the recording device. Ambient wind noise and distant bird chirps are barely audible in the background mix. No musical elements or voices are present at this initial stage of the recording session. (2) Continued percussive sounds of rhythmic impacts on turf create a textured auditory pattern. The acoustic environment sounds airy and open, typical of a wide field or outdoor setting. No background music or human speech is heard during this sustained movement segment as the object continues its travel. (3) A male voice speaks with a friendly, rising intonation in Mandarin, asking for the location of a pet. This is immediately followed by two sharp, resonant barks exhibiting high spectral brightness and clarity. The scene concludes with the rhythmic, wet sounds of heavy breathing and rapid animal panting."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Pet / Animal"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 10,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Action -> Interaction",
+      "mainPurpose": "The video aims to document a playful and energetic outing with a corgi dog named Mango in an expansive park setting. By utilizing a low-angle perspective and fisheye lens, it immerses the viewer in the dog's experience, ultimately celebrating the joy of pet ownership and the animal's natural exuberance.",
+      "visualEmotion": [
+        "energetic",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The use of a fisheye lens and low-angle shots effectively creates an immersive 'pet-centric' viewing experience."
+  }
+}

@@ -24,6 +24,11 @@ body {
     background: #475569;
 }
 
+button:disabled {
+    cursor: not-allowed;
+    opacity: 0.6; /* 選擇性：調低透明度讓外觀更符合禁用狀態 */
+}
+
 /* Sticky 核心佈局 */
 .sticky-row-header {
     position: sticky;

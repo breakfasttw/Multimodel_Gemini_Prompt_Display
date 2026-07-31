@@ -1,0 +1,272 @@
+{
+  "videoName": "pansci-20250706171952-888207744069464.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 60,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A middle-aged man with short black hair and glasses, wearing a black shirt, stands in a studio setting. Behind him is a large window or screen showing the Taipei night skyline with the lit Taipei 101 skyscraper. He speaks directly to the camera with a serious expression, using hand gestures to emphasize points. (2) A graphic of a scientific research paper titled 'Impacts of night market...' appears as a large rectangular overlay on the right side of the screen. The man continues his narration, pointing towards the text on the screen while the background remains the same night city view. (3) Small inset videos appear briefly: one showing a crowded night market at night with many people walking between stalls, and another showing a young boy looking through a window inside a house. Scientific charts and PM values are also displayed as digital overlays around the speaker. (4) The man concludes his talk, standing against the same nighttime city background. He gestures towards the camera with both hands as he gives final health advice. Traditional Chinese subtitles are consistently displayed at the bottom of the frame.",
+      "text_narrative_log": "(1) [Logo]: 泛科學 NEWS. [Subtitle]: 你們家附近有夜市嗎. [Slogan]: 夜市油煙 恐損鄰童肺部功能. (2) [Subtitle]: 以下這個消息請你注意了. 最近台灣中山大學與高雄醫學大學. (3) [Subtitle]: 發表在暴露科學與環境流行病學期刊上的研究表示. (4) [Variety]: PM 1, PM 2.5, PM 10. [Subtitle]: 像是 PM 1, PM 2.5, PM 10 等等 濃度明顯飆高. (5) [Subtitle]: 離夜市較近約略 600 公尺內 孩子的肺功能值明顯低於離夜市較遠的孩子. (6) [Subtitle]: 可以在夜市營業期間減少開窗通風 或是使用空氣清淨機. (7) [Subtitle]: 是該替附近的居民 特別是孩子 想想辦法了.",
+      "visual_human_presence": {
+        "totalHumanCount": 12,
+        "maleDetectAmount": 6,
+        "femaleDetectAmount": 5,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Upper body",
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 main narrator in studio, approximately 10 people in night market inset, 1 child in inset video.",
+        "mainCharacterDescription": "Middle-aged man with glasses, short black hair, wearing a professional black button-down shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Rooftop / City View",
+          "Market / Night Market"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Main background is a high-altitude view of the Taipei city skyline at night with Taipei 101. Inset backgrounds show a dense outdoor night market and a domestic indoor window scene.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Night artificial light"
+        ],
+        "weather": [
+          "Night clear"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Picture-in-picture / inset",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "Taipei 101"
+        ],
+        "brandLogos": [
+          "泛科學 NEWS"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 5,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 122,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Digital UI SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The video opens with a single male voice speaking clearly in Mandarin with a professional and informative tone. A medium-tempo electronic background music track with upbeat synth chords starts immediately. The audio is extremely clean with a high signal-to-noise ratio, indicating a studio recording with no ambient interference. (2) A sharp digital 'whoosh' sound effect triggers a transition as scientific graphics are introduced. The narrator continues at a steady pace, using moderate pitch variability to keep the listener engaged. The background music maintains a consistent rhythmic pulse underneath the speech, never overpowering the vocals. (3) A subtle 'pop' or digital UI sound effect highlights the mention of PM 2.5 levels. The narrator's articulation remains sharp and clear, with a slight increase in vocal intensity when discussing the study's impact on children. The music remains a continuous bed of electronic textures. (4) As the information concludes, the narrator's volume increases for the final call to action. The background music swells slightly before ending with a quick, clean digital stinger. There are no technical distortions, and the dynamic range is limited for a clear broadcast feel."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech News / Commentary",
+        "Education / Knowledge"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 10.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Introduction of Study -> Data Analysis -> Practical Advice -> Moral Conclusion.",
+      "mainPurpose": "To inform the public about a scientific study regarding the negative health impacts of night market air pollution on children's lung function and to provide mitigation strategies.",
+      "visualEmotion": [
+        "informative",
+        "serious",
+        "professional"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A highly produced educational short video using standard news commentary formats with professional audio and clear visual overlays."
+  }
+}

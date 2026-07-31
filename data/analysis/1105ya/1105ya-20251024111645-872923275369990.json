@@ -1,0 +1,283 @@
+{
+  "videoName": "1105ya-20251024111645-872923275369990.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 37.4,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene starts with a dual-view screen setup. In the main large frame, a female performer with long dark hair, wearing a black lace-up corset and a white ruffled skirt, is singing on a brightly lit concert stage. In the top right corner, a smaller inset window shows a young woman with dark hair in pigtails, wearing a white top and a pink lanyard, holding up a smartphone to record the concert. She is smiling and looking towards the stage. Yellow captions are fixed at the bottom center. (2) The performer on stage moves dynamically as vertical sparkler fireworks erupt behind her, creating a bright gold and white visual effect. The background LED screen displays swirling blue and white galaxy-like patterns. In the inset, the crowd behind the recording fan is visible, holding glowing pink heart-shaped light sticks. (3) The camera cuts to different angles of the performer on the main stage. She holds a black microphone close to her mouth while gesturing with her free hand. The fan in the inset is now singing along enthusiastically. (4) A wide shot of the massive stadium is shown in the main frame, revealing thousands of glowing pink lights from the audience's light sticks in the dark. (5) The main frame switches to a close-up of another performer with blonde hair (Rosé) singing into a microphone, wearing a white dress with lace details. The background lighting is a grid of soft white lights. The fan inset remains throughout.",
+      "text_narrative_log": "(1) [Subtitle]: 當你追星用iPhone 17. [Subtitle]: 新功能雙重鏡頭拍攝.",
+      "visual_human_presence": {
+        "totalHumanCount": 20,
+        "maleDetectAmount": 5,
+        "femaleDetectAmount": 15,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 4,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 main fan in the inset window, 3 different performers shown on stage, and a massive crowd in the stadium background.",
+        "mainCharacterDescription": "The fan is a young woman with dark hair in pigtails wearing a white casual top. The performers on stage wear professional K-pop style stage outfits: Jennie in a black and white corset-style dress, Lisa in a pink off-the-shoulder top, and Rosé in a white lacy dress."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Stage / Performance Venue"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A large-scale concert stadium with massive LED screens showing various dynamic lighting effects (stars, grids, solid colors) and a huge audience holding glowing pink light sticks.",
+        "lightingStyle": [
+          "High-contrast cinematic lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Medium shot",
+          "Close-up",
+          "Long shot",
+          "Wide shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Picture-in-picture / inset",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "iPhone"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 3,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 0,
+        "female_vocal_count": 3,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "English",
+          "Korean"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 3,
+        "male_singer_count": 0,
+        "female_singer_count": 3,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English",
+          "Korean"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering",
+          "Laughter",
+          "Screaming/Yelling"
+        ],
+        "crowdNoiseIntensity": 4,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 1,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with high-energy electronic pop music featuring a strong percussive beat. Female vocals (Jennie) sing with a bright, projected tone. Loud cheering and screaming from a large crowd create a persistent background layer. (2) There is a hard cut in the audio as the vocal switches to a more melodic, slightly lower register before transitioning into a rhythmic rap-style delivery. The BGM remains consistent in tempo but shifts in synth texture. (3) The crowd noise surges in intensity, becoming a roar of high-pitched cheering. The musical beat continues with heavy bass and electronic percussion. (4) The final segment features a different female vocal (Rosé) singing a high, clear, and more sentimental melodic line. The instrumental backing becomes slightly less dense, allowing the vocal clarity to increase. The crowd's cheering continues at a moderate level until the video ends."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 7,
+      "averageSceneDuration": 5.3,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Demonstration -> Climax",
+      "mainPurpose": "The video is a satirical or concept-based presentation showcasing a fictional 'iPhone 17' dual-lens feature that allows a fan to record a concert performance while simultaneously capturing their own reaction in an inset window. It combines high-energy K-pop concert footage with a fan's enthusiastic perspective to illustrate the ultimate 'star-following' experience.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The text explicitly mentions 'iPhone 17' and a specific feature, though it is likely a mock-up or meme-style endorsement.",
+      "endorsementObject": [
+        "iPhone"
+      ]
+    },
+    "freeDescribe": "The video uses a picture-in-picture effect to simulate a futuristic smartphone feature. The footage of BLACKPINK members suggests a high-profile concert environment used as the backdrop for this tech-themed concept video."
+  }
+}

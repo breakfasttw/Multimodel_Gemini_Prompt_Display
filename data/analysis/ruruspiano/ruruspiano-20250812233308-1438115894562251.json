@@ -1,0 +1,263 @@
+{
+  "videoName": "ruruspiano-20250812233308-1438115894562251.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 48,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A person with long black hair, tied back, sits at a large black grand piano. They are wearing a deep red kimono-style robe over a black garment, with one sleeve featuring a distinctive green and yellow checkered pattern. The background consists of vertical blue curtains. (2) The screen splits horizontally; the bottom half continues showing the pianist's hands on the keys, while the top half displays anime footage of a male character performing a water-based sword technique. (3) The top anime clip switches to a character surrounded by intense yellow and orange light effects, appearing as a fiery blast. (4) A close-up anime shot of a character with bandages covering their lower face and one eye, with a drop of blood on their chin, appears in the top frame. (5) A rapid montage of various anime character portraits and silhouettes begins in the upper half, showcasing different hairstyles and facial expressions, while the pianist continues playing with focused hand movements. (6) The video concludes with a stylized circular logo containing Japanese text centered on a dark background in the upper frame.",
+      "text_narrative_log": "(1) [Slogan]: 無限城決戦へ. (2) [Logo]: 鬼滅の刃.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Back view",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main creator (pianist) in the foreground.",
+        "mainCharacterDescription": "A person with long black hair tied in a ponytail, wearing a dark red robe with a green and yellow checkered pattern on one sleeve."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A professional-looking indoor setup with vertical blue curtains acting as a backdrop for a black grand piano.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Side view"
+        ],
+        "editingTechniques": [
+          "Split-screen",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Japanese"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "Piano"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Anime/J-Pop"
+        ],
+        "tempoBPM": 145,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Live Performance"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a solo piano performance. The melody is bright and clear, set in a minor key with a fast, driving tempo typical of anime opening themes. The recording is studio-clean with no background noise. (2) The intensity increases as the pianist introduces a more complex rhythmic accompaniment in the lower register. The attack on the keys is sharp and precise, creating a percussive quality. (3) The performance maintains a high energy level with rapid melodic runs and strong harmonic progressions. The spectral balance is natural, highlighting the piano's resonant upper frequencies and solid bass foundations until the track fades."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Performance -> Thematic Clips -> Logo",
+      "mainPurpose": "The video serves as a high-quality piano cover of an anime theme song, likely from the series 'Demon Slayer' (Kimetsu no Yaiba), intended to showcase musical skill and engage with the anime's fanbase by overlaying iconic scenes.",
+      "visualEmotion": [
+        "energetic",
+        "dramatic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The presence of official anime footage and the series' logo suggest a promotional intent or a celebration of the franchise.",
+      "endorsementObject": [
+        "鬼滅の刃"
+      ]
+    },
+    "freeDescribe": "The video effectively uses a split-screen format to synchronize a live musical performance with the visual action of the source material."
+  }
+}

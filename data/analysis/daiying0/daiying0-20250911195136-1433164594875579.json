@@ -1,0 +1,264 @@
+{
+  "videoName": "daiying0-20250911195136-1433164594875579.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 20,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A group of approximately seven female cheerleaders are positioned in a row on a platform within a stadium stands area. The cheerleader in the foreground features long dark hair adorned with a large red hibiscus flower and wears a white crocheted tube top paired with frayed denim shorts. They are performing a synchronized dance routine, swinging their arms and using red plastic hand clappers. The stadium background is filled with spectators in blue seating under bright, natural daylight. (2) The group continues the rhythmic performance, transitioning into a sequence where they point towards the field and then bring their hands to their chests. Their facial expressions are consistently bright and smiling, maintaining high energy. The camera remains static at an eye-level medium shot, capturing their upper bodies and the vibrant stadium atmosphere. (3) The music reaches a concluding beat, and the cheerleaders strike a final pose. Some form small heart shapes with their fingers, while others smile broadly at the crowd. The spectators in the background, mostly men in casual attire, are seen watching the performance attentively.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 15,
+        "maleDetectAmount": 8,
+        "femaleDetectAmount": 7,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 7,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "7 main cheerleaders in the row, with at least 8 male spectators visible in the background seats.",
+        "mainCharacterDescription": "The main cheerleaders are young women with long hair, wearing summery outfits including white tube tops, yellow cropped shirts, and light-wash denim shorts. One has a red flower accessory."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Stage / Performance Venue"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A professional sports stadium with blue plastic spectator seats. The stands are partially filled with audience members. Metal railings and stadium lighting structures are visible in the far background.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Single continuous take"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 5,
+        "male_vocal_count": 4,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Korean"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 3,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 1
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "K-Pop"
+        ],
+        "tempoBPM": 135,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Korean"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering",
+          "Chanting"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 1,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 4,
+        "speechMusicOverlap": 1,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy K-Pop electronic dance music (BGM) begins with a fast tempo of approximately 135 BPM, featuring prominent synthesizers and a driving percussion section. Female vocals are heard singing rhythmic verses in Korean. The mix includes a moderate environmental noise floor of a stadium crowd, with distant cheering and chatter. (2) A sudden increase in crowd noise occurs as male voices in the background start a rhythmic chant synchronized with the music's beat. The BGM remains dominant, but the percussive sound of plastic clappers being hit together is audible. The overall acoustic brightness is high, emphasizing the sharp treble of the electronic melody. (3) The BGM abruptly stops, replaced by several loud, high-pitched male shouts echoing in the stadium. This is followed by a collective cheer from the crowd. There are no musical instruments audible in this final phase, only the natural, high-arousal vocal reactions of the spectators and the ambient stadium room tone."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Dance"
+      ],
+      "location": {
+        "country": [
+          "South Korea"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 20.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Performance -> Climax -> Ending Pose",
+      "mainPurpose": "The video captures a live cheerleading performance at a Korean baseball game, intended to entertain the stadium crowd and viewers on social media through synchronized choreography and high-energy music.",
+      "visualEmotion": [
+        "energetic",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video is a typical fan-cam style capture of a sports cheerleader. The synchronization between the visual dance and the auditory BGM beat is very high."
+  }
+}

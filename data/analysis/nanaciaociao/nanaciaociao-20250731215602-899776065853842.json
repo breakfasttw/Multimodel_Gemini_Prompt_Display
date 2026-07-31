@@ -1,0 +1,271 @@
+{
+  "videoName": "nanaciaociao-20250731215602-899776065853842.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 21,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A male performer with long, dark hair, dressed in a black button-down shirt, stands on an elevated metallic platform with silver railings. He is actively playing a blue electric bass guitar, swaying his body to the rhythm. The background reveals a vast stadium with a dark blue grid-structured ceiling and bright, scattered spotlights. A red, curved metallic structure is visible in the foreground. (2) The camera pans to show more of the stage environment, revealing a large professional camera rig and crane. Another performer, wearing a red and white jacket, is briefly seen on a different platform section. The lighting shifts with vibrant pink and blue hues crossing the frame. (3) Shots of other band members appear in sequence. A performer in a red shirt plays an electric guitar, followed by a man in a red jacket waving enthusiastically to an unseen crowd. A drummer is partially visible in the background behind them. The overall scene is high-energy with flickering stage lights and a large-scale concert atmosphere.",
+      "text_narrative_log": "(1) [Variety]: 瑪莎哥. (2) [Variety]: 喊出的全是愛. (3) [Variety]: 只要越跳越高. (4) [Variety]: 獸哥~~. (5) [Variety]: 信哥~~. (6) [Variety]: 手抖到手機歪掉.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 4,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Full body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "3 main band members visible on platforms, 1 drummer in background.",
+        "mainCharacterDescription": "Male performers in casual stage wear: one with long hair in a black shirt, one in a red shirt, and one in a red and white athletic jacket."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Stage / Performance Venue"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A massive indoor concert stadium featuring a complex grid ceiling, high-tech lighting rigs, and professional camera equipment.",
+        "lightingStyle": [
+          "Neon / colored light"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Bright and colorful"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning",
+          "Shaky camera"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Camera / DSLR",
+          "Microphone / lavalier mic",
+          "Lighting equipment / ring light"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "Electric Bass",
+          "Electric Guitar",
+          "Drum Kit / Drum Set"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 5,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 5,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": true,
+        "hasStrain": true,
+        "articulationClarity": 1,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 5,
+        "speakingFallingRatio": 1
+      },
+      "vocal_affective": {
+        "arousal": 9,
+        "valence": 9,
+        "dominance": 5,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Rock/Metal"
+        ],
+        "tempoBPM": 135,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "Electronic",
+          "String"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Electric Guitar",
+          "Electric Bass"
+        ],
+        "musicSourceType": [
+          "Live Performance"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Screaming/Yelling",
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 5,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Handheld / Microphone Handling Noise"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 3,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 5,
+        "harmonicsToNoiseRatio": 3,
+        "hasAudioDistortion": true
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio opens with a piercing, high-pitched female scream that completely dominates the frequency spectrum. Beneath this, a high-tempo rock track with distorted electric guitars and a driving drum beat begins. The arousal level is peak. (2) A second, sustained scream occurs, layered over the continuous high-energy rock music. The bass frequencies are prominent and percussive. (3) Repeated bursts of high-volume cheering and ecstatic screaming continue to mask the mid-range of the music. The instrumental mix is saturated and slightly distorted from the recording volume. (4) The sequence concludes with a series of shorter, rhythmic shrieks corresponding to visual stage transitions, maintaining a maximum energy floor until the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 3.5,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Event -> Reaction -> Highlight",
+      "mainPurpose": "To capture the ecstatic fan experience and highlights of a live concert, focusing on the visual presence of band members and the raw emotional energy of the audience.",
+      "visualEmotion": [
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video is a typical fan-captured concert vlog snippet, likely featuring the band Mayday based on the names in the variety text. The audio is extremely saturated with audience screaming."
+  }
+}

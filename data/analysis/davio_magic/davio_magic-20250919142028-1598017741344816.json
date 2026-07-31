@@ -1,0 +1,265 @@
+{
+  "videoName": "davio_magic-20250919142028-1598017741344816.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 17,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Five young women are viewed from a bird's-eye perspective looking down at a camera placed on a mirrored floor. The women are leaning in, their faces filling the frame as they make various expressions. The background shows a brightly lit indoor space with a 'HUMAN MADE' branded rug and some display cases. (2) The group begins a synchronized dance, moving their hands in repetitive clapping and waving motions while rotating slowly around the camera's center. They wear casual clothing, including white tops and grey knits. (3) The rotation continues with the women laughing and smiling enthusiastically. The lighting remains bright and even, highlighting their facial features and the reflective surface below them. (4) One woman in the bottom left of the frame speaks towards the camera with a playful, smiling expression as traditional Chinese and English subtitles appear at the bottom center of the screen.",
+      "text_narrative_log": "(1) [Logo]: HUMAN MADE. (2) [Subtitle]: 為什麼這首這麼長呀. [Subtitle]: Why is this song so long?",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 5,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 5,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face",
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "5 young women appearing as a group.",
+        "mainCharacterDescription": "A group of five young women dressed in casual summer attire; one in a grey crop top, two in white wrap-style tops, and others in light-colored casual wear."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store"
+        ],
+        "locationTopography": [
+          "Urban Plaza / Square"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern retail environment, possibly a Human Made store, featuring a branded rug, glass display cases, and clean, bright interior lighting.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "HUMAN MADE"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Mandarin"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 125,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Other"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 1,
+        "vocalRatio": 1,
+        "musicToSpeechLoudRatio": 4,
+        "musicDuration": 5,
+        "speechMusicOverlap": 1,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio features a high-energy electronic dance track with a prominent synth bassline and steady percussion. A female voice sings repetitive Italian lyrics in a clear, bright tone. (2) As the rhythmic hook continues, faint laughter and cheering from the girls can be heard layered slightly beneath the music, indicating a high-arousal social environment. (3) Near the end, the music volume slightly dips while a female speaker asks a question in Mandarin with a high-pitched, playful, and curious intonation, followed by light communal laughter as the music fades."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 17.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Performance -> Reaction",
+      "mainPurpose": "To participate in a popular social media dance trend ('Pedro') using a unique low-angle visual perspective, showcasing the close bond and playful energy of the group.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video utilizes a distinct visual perspective (camera on the floor looking up) which is common in social media trend challenges. The comedic ending provides a relatable 'behind-the-scenes' feel."
+  }
+}

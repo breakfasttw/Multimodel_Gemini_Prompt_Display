@@ -1,0 +1,272 @@
+{
+  "videoName": "peri168-20250829090944-1251688016926140.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 21,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with dark hair, wearing a patterned button-down shirt and black shorts, sits on a gray sofa in a brightly lit modern living room. He holds a black game controller, focused on a large flat-screen TV showing a first-person shooter game. His bare feet rest on a gray oval coffee table containing small items and cans. The background features light-toned wood floors and floor-to-ceiling gray curtains. (2) The camera pans slowly to the right, transitioning away from the living room scene. It passes a smooth white wall with a dark electrical switch and moves through a hallway doorway, revealing the interior of a secondary bedroom space. (3) Entering the bedroom, a young boy in a dark t-shirt and tan pants sits on a bed covered with a vibrant blue sheet. He holds a game controller and gazes at a TV screen displaying game footage similar to the first room. The setting includes gray curtains, a wooden desk with a green plush toy, and minimalist lighting.",
+      "text_narrative_log": "(1) [Variety]: When we play online games at home... 🤣",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 adult male on the sofa, 1 boy on the bed.",
+        "mainCharacterDescription": "The adult male wears a black and white patterned shirt and shorts. The boy wears a dark graphic t-shirt and khaki pants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Indoor Living Room",
+          "Indoor Bedroom"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A modern apartment interior featuring a living room with a large TV and sofa, and a bedroom with a bed and another TV. Minimalist decor with gray curtains and wood-textured floors.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning",
+          "Walking handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Single continuous take"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "TV / display screen",
+          "Game console / controller"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Aggressive"
+        ],
+        "vocalLanguage": [
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 3,
+        "dominance": 7,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Meme SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 3,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Low-fi/Phone"
+        ]
+      },
+      "audio_narrative_log": "(1) Intense, high-frequency digital sound effects of rapid gunfire and explosions from a video game dominate the mix. A low-frequency mechanical hum from an electric fan is audible in the background. (2) The game audio becomes slightly muffled and distant as the listening perspective shifts down a hallway. The fan's white noise persists at a steady, low-arousal intensity. (3) Loud, high-arousal game audio returns with sharp transients of gunfire. A young male voice yells with high intensity and sharp pitch: 'Dude, where's my teammate?'. (4) The same young voice continues shouting in a frustrated, high-arousal tone: 'Everyone's alive, then why aren't they helping me when I'm doing...'. The vocal delivery is fast-paced with high pitch variability and noticeable strain."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend",
+        "Family / Kids",
+        "Storytelling"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 21.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Transition -> Reveal",
+      "mainPurpose": "To humorously illustrate the intense environment of online gaming within a household, showing a father and son playing the same game in different rooms and highlighting the child's loud, passionate communication style.",
+      "visualEmotion": [
+        "humorous",
+        "warm",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video uses a single-take approach to create a sense of discovery and comedic timing as it moves from the calm father to the shouting son."
+  }
+}

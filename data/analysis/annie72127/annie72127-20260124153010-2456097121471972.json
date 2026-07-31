@@ -1,0 +1,273 @@
+{
+  "videoName": "annie72127-20260124153010-2456097121471972.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 16,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene opens with a close-up of a television screen displaying a Chinese period drama, specifically scenes from 'Empresses in the Palace.' A female character is shown in distress, followed by credits and the Coca-Cola logo. A hand enters from the bottom, holding a small white plush toy shaped like a cartoon character with a yellow hat. (2) The hand keeps the plush toy centered in the frame as the TV background transitions through various dramatic shots of actors in traditional Qing dynasty costumes. Large yellow text captions appear as overlays in the middle of the screen. The lighting is warm from the indoor environment. (3) The hand places the plush toy onto a shelf beneath the TV, aligning it with five other similar plush toys of different colors and styles. The camera pans horizontally to show the full collection of six toys while the TV screen above shows the ending credits of the program, including brand watermarks.",
+      "text_narrative_log": "(1) [Subtitle]: 甄嬛傳片尾曲. [Logo]: Coca-Cola. [Logo]: 甄嬛傳. (2) [Slogan]: 隨風搖吉伊. (3) [Slogan]: 色色企業. (4) [Variety]: 沒有業配. [Logo]: GTV 八大電視. [Logo]: Coca-Cola.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Face",
+          "Head and shoulders",
+          "Upper body",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "Multiple actors appearing in the drama footage on the TV screen; one hand belonging to the person filming.",
+        "mainCharacterDescription": "Actors in traditional Qing Dynasty royal attire, featuring elaborate headpieces and silk robes; the person filming is only visible by their hand."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An indoor home setting featuring a large flat-screen TV mounted on a wall above a wooden shelf. The shelf contains a row of small, colorful plush toys representing various characters.",
+        "lightingStyle": [
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Coca-Cola",
+          "GTV 八大電視"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 2,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 6,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Classical/Orchestral"
+        ],
+        "tempoBPM": 68,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Traditional Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Woodwind",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Pipa",
+          "Guzheng",
+          "Flute",
+          "Cello"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio features a male vocalist singing a slow, sorrowful melody in Mandarin, accompanied by traditional Chinese instruments like the guzheng and pipa. The arrangement is evocative of a classic television drama soundtrack. (2) As the singing continues, the lyrics specifically emphasize the phrases shown on the screen, mimicking the serious tone of an original theme song while delivering parodic content. The music maintains a steady, slow tempo with orchestral strings swelling in the background. (3) The phase concludes as the singing ends, transitioning into the natural audio of a television broadcast credit roll, where faint administrative announcements regarding sponsors like Coca-Cola are heard over the fading music."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 2.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Resolution",
+      "mainPurpose": "The video is a humorous parody intended to entertain fans of the drama 'Empresses in the Palace' and collectors of the 'Chiikawa' plush toys. It combines the epic, tragic music of the drama with lyrics that humorously reference the toy and its perceived brand context. The creator uses the visual of placing the toy on a shelf to create a sense of 'completing a scene' aligned with the TV credits.",
+      "visualEmotion": [
+        "humorous",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video explicitly contains a variety-style text overlay stating '沒有業配' (No commercial placement/sponsorship).",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A fan-made creative video blending popular culture elements (period drama and character merch) for comedic effect."
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "videoName": "aries_8248-20250916213948-1595427084984794.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 33,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a wide shot of an indoor badminton court featuring four players engaged in a doubles match. A female player in the foreground, wearing a white sports outfit and red shoes, is poised to strike the shuttlecock. The setting is a professionally lit hall with high ceilings and rows of overhead lights. (2) As the rally progresses, the players move dynamically across the green court surface. A male player in black moves toward the net while the female player in white prepares for a backhand return. The lighting remains bright and consistent, highlighting the detailed textures of the court and the athletic movements of the characters. (3) The match intensifies with fast-paced exchanges and quick footwork. The camera remains static, capturing the full depth of the court. Players in the background are seen lunging and jumping to return high shots. The background features a large dark wall with some technical equipment visible in the corners. (4) The final moments show a continuation of the high-energy play, with the shuttlecock flying rapidly between both sides. The players maintain focused facial expressions and sharp gestures, ending with a final return that concludes the sequence.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 4,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "4 main players on the badminton court.",
+        "mainCharacterDescription": "Two male and two female players dressed in athletic badminton attire, including polos, shorts, and professional court shoes."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Sports / Fitness Venue"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A large indoor badminton hall with a professional green court, white lines, and a standard net. The ceiling is high with visible metallic structures and rows of bright LED lights. The far wall is dark and plain.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop",
+          "Other"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A professional male narrator begins a voiceover with a friendly and clear tone, stating 'Nothing beats a Jet2 holiday'. An upbeat, rhythmic electronic pop BGM starts immediately, featuring a strong 4/4 beat. Sharp, percussive SFX of badminton rackets hitting a shuttlecock are heard frequently. (2) The narrator's speech continues at a moderate pace, detailing a discount of 50 pounds per person. The BGM maintains a consistent intensity. The SFX of shuttlecock hits and shoe squeaks on the court provide a realistic sport-ambient layer beneath the narration. (3) As the narrator discusses 'millions of free child places' and baggage allowance, the vocal arousal remains high and positive. The BGM's synth pads and percussive rhythm are steady. The frequency of the badminton hit SFX remains high, indicating an active rally. (4) The track concludes with the mention of 'Jet2holidays' followed by a short musical jingle. The narrator's tone is warm and inviting. All audio elements, including the vocal, BGM, and foley-style SFX, are well-balanced with professional broadcast-grade clarity."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 8.25,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Offer Details -> Benefit Evidence -> Brand Identification",
+      "mainPurpose": "The video serves as a promotional advertisement for Jet2holidays, using high-energy badminton gameplay as a visual backdrop to attract attention while the audio delivers specific promotional offers and brand benefits to the audience.",
+      "visualEmotion": [
+        "energetic",
+        "focused"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit Integrated"
+      ],
+      "endorsementCues": "The audio narrator explicitly mentions 'Jet2holidays', specific pricing discounts, and holiday benefits.",
+      "endorsementObject": [
+        "Jet2holidays"
+      ]
+    },
+    "freeDescribe": "The contrast between the visual of a badminton match and the auditory holiday promotion suggests a social-media-style ad designed to capture interest through athletic action while delivering a commercial message."
+  }
+}

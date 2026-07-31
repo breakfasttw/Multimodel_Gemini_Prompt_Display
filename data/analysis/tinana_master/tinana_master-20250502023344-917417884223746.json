@@ -1,0 +1,288 @@
+{
+  "videoName": "tinana_master-20250502023344-917417884223746.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 64,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman in a brown blazer and black dress is seen hugging a man wearing a grey backpack in a brightly lit indoor hallway. She smiles broadly while the man rests his head on her shoulder. (2) The camera shifts to a close-up of the man's face; he wears glasses and is visibly emotional, laughing through tears while holding a pink paper shopping bag. (3) Intercut scenes show a stage performance with a colorful set depicting a domestic interior; actors in various costumes are performing and eventually taking bows under stage lights. (4) The woman films the emotional man with her smartphone as they stand near a table with refreshments; the background features white walls and a storage room door labeled in Chinese. (5) A final sequence shows a group of actors on a large stage waving to an audience in a darkened theater hall during a curtain call.",
+      "text_narrative_log": "(1) [Subtitle]: 你知道我每次上台前. [Subtitle]: 手都超抖的. (2) [Variety]: 這是我的眼淚 -> 不是鼻涕. (3) [Subtitle]: 這是看完音樂劇. [Logo]: 三個不結婚的女人. (4) [Subtitle]: 到後台找Apple的畫面. (5) [Subtitle]: 妳真的演得超棒的!. (6) [Subtitle]: 追夢真的好難，但好幸福.... (7) [Slogan]: 音樂劇《三個不結婚的女人》. [Slogan]: 五月在高雄還剩下一咪咪的票.",
+      "visual_human_presence": {
+        "totalHumanCount": 12,
+        "maleDetectAmount": 4,
+        "femaleDetectAmount": 8,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 main female actress, 1 emotional male creator, approximately 10 actors on stage during the performance clips.",
+        "mainCharacterDescription": "The main woman wears a tan oversized blazer over a black top and a black layered mesh skirt; she has shoulder-length black hair. The man has short black hair, wears black glasses, a black t-shirt over a yellow shirt, and a light grey backpack."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Stage / Performance Venue",
+          "Event Venue / Convention Hall",
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An indoor venue hallway with white walls and a 'Storage Room' (儲藏室) sign; a stage set for a musical featuring a two-story house framework with a kitchen and living room area.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Long shot",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Montage",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 2,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Melodramatic",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Ballad/Sentimental"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Piano",
+          "Violin"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Applause",
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Paper / Page Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Fades"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) High-arousal female voice interacts with a crying, emotional male voice over a gentle piano background. The male voice is shaky with high spectral tension and breathiness, punctuated by short laughing bursts. (2) Music transitions into a more cinematic string-heavy track as the male voice begins a narrative overview about the musical show. (3) Loud crowd applause and cheering transients emerge during clips of a stage performance, momentarily increasing the ambient noise floor. (4) The primary narrator returns with a steady, professional tone to provide ticket information, while the sentimental piano music continues at a lower volume to the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Music / Performance / MV",
+        "Promotion / Advertisement / Indoresment"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei",
+          "Kaohsiung"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.5,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Emotional Interaction -> Contextual Flashback -> Performance Summary -> Call-to-Action",
+      "mainPurpose": "To document a heartfelt emotional reaction to a musical theater performance and use that authenticity to promote the show's remaining ticket sales. It bridges the gap between the audience's emotional journey and the professional production.",
+      "visualEmotion": [
+        "warm",
+        "energetic",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct recommendation of the musical and mention of ticket availability for upcoming shows in Kaohsiung.",
+      "endorsementObject": [
+        "三個不結婚的女人"
+      ]
+    },
+    "freeDescribe": "The video effectively uses raw, tearful emotion as a hook to transition into a promotional message for a stage production."
+  }
+}

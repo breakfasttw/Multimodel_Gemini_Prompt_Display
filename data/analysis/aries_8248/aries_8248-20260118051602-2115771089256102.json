@@ -1,0 +1,278 @@
+{
+  "videoName": "aries_8248-20260118051602-2115771089256102.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 15,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene begins with a close-up, shaky handheld shot of the interior of a luxury vehicle, specifically focusing on the center console, gear shifter, and dashboard. The lighting is bright and natural, coming from outside. (2) The camera pans to show a male driver wearing a white button-down shirt and a black tie, with visible tattoos on his arms. A woman's leg and bare foot extend from the passenger side, holding a smartphone between her toes and presenting the screen to the driver. (3) The perspective shifts to a POV shot from behind the steering wheel, where the Porsche logo is clearly visible. The smartphone, still held by the woman's toes, displays a navigation map with a blue route line. (4) The man is shown again from the side, glancing at the phone screen while keeping his hands on the steering wheel. He has a neutral expression. (5) The final sequence shows a medium shot of both characters; the woman has long black hair and looks toward the camera with a slight smile while her leg remains extended to hold the phone for the driver.",
+      "text_narrative_log": "(1) [Logo]: Porsche. (2) [Slogan]: 20分 8.8公里. (3) [Logo]: Hi-Rider.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only",
+          "Feet / Legs"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 male driver and 1 female passenger.",
+        "mainCharacterDescription": "A young man with short black hair, wearing a white shirt and black tie with arm tattoos. A young woman with long black hair wearing a casual top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Car / Van Interior"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The interior of a black Porsche with leather seating and a digital dashboard. Outside the windows, urban streets, trees, and other vehicles are visible through the glass.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "POV / first-person view"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "POV / first-person view",
+          "Side view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Porsche"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Hip-Hop/Trap",
+          "R&B/Soul"
+        ],
+        "tempoBPM": 84,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 2,
+        "male_singer_count": 1,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 5,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track features a high-fidelity commercial music track (Nelly - Dilemma). A female vocalist begins singing the chorus with a smooth, melodic tone over a mid-tempo synth melody and synthesized drums. (2) A male voice enters, delivering a rhythmic rap performance synchronized with the steady 4/4 beat. The music dominates the mix with high clarity. (3) Subtle low-frequency ambient road noise and the muted hum of a car interior are present but remain far below the music level. The track maintains a consistent volume and energy throughout the segment without any audible post-production sound effects."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Lifestyle"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 3.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Scene -> Interaction -> Humorous reveal",
+      "mainPurpose": "The video is a humorous lifestyle short intended to entertain viewers by showing a quirky and unusual solution for hands-free navigation. The contrast between the high-end luxury Porsche setting and the woman using her toes to hold a smartphone creates a comedic 'life hack' or meme-style situation.",
+      "visualEmotion": [
+        "humorous",
+        "relaxed"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Prominent display of the Porsche steering wheel logo and the interior aesthetic of the car.",
+      "endorsementObject": [
+        "Porsche"
+      ]
+    },
+    "freeDescribe": "The video leverages the popularity of a well-known R&B song to enhance its lighthearted and humorous vibe while subtly showcasing a luxury vehicle."
+  }
+}

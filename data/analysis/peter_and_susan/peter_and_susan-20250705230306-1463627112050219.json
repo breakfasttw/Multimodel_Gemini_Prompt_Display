@@ -1,0 +1,278 @@
+{
+  "videoName": "peter_and_susan-20250705230306-1463627112050219.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 153,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young boy wearing a black t-shirt with the word HUAWEI on the back and light blue shorts stands at the starting point of a modular white track set up in a large, brightly lit indoor gymnasium with a green floor. Around him, judges in black t-shirts and other participants are visible against a background of red curtains and promotional banners for a robotics event. (2) The camera focuses on a humanoid robot as it begins to walk across the white panels; a cameraman using a gimbal stabilizer follows the robot's every move with precision. The boy stands nearby, his posture showing intense concentration as he watches the robot navigate the course under bright, even overhead lighting. (3) The scene shifts to a closer shot of the robot successfully crossing a specific section of the track while the boy walks alongside it, maintaining a consistent distance. Background spectators are seen filming with smartphones, and the overall atmosphere is one of professional competition within a spacious athletic hall. (4) The robot reaches a milestone on the track, and the boy's body language shifts from tension to a slight, relieved movement as people in the background can be seen clapping. The lighting remains bright and natural for an indoor venue, highlighting the mechanical details of the robot and the textures of the white panels.",
+      "text_narrative_log": "(1) [Subtitle]: 114台北市資通訊大賽. [Subtitle]: 人形機器人. [Subtitle]: 國小組 第一個完成預賽 他好開心. [Logo]: TAIPEI.",
+      "visual_human_presence": {
+        "totalHumanCount": 15,
+        "maleDetectAmount": 10,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 3,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 main boy contestant, at least 5 judges/staff in black, 1 cameraman, and various spectators in the background.",
+        "mainCharacterDescription": "A young boy with dark hair wearing a black short-sleeved t-shirt with 'HUAWEI' printed in white on the back, light blue shorts, and bright orange athletic shoes."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Gym / Fitness Center",
+          "Event Venue / Convention Hall"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A large indoor gymnasium with a green court floor, featuring white modular tracks for a robot competition. Red curtains and banners with 'TAIPEI ROBOT CHALLENGE' are visible in the background.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning",
+          "Zoom in",
+          "Static"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Speed ramp"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Camera / DSLR",
+          "Tripod / stabilizer"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "HUAWEI",
+          "TAIPEI"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 5,
+        "male_vocal_count": 3,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Cheering",
+          "Applause"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch",
+          "Footsteps"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The track opens with a loud, high-energy male announcer's voice counting down in Mandarin, followed by a clear 'start' command. Instantly, the high-pitched whirring of electric servo motors fills the acoustic space, indicating a robot in motion. The background consists of a low-frequency hum characteristic of a large gymnasium. (2) The rhythmic mechanical whirring continues as the primary acoustic element, punctuated by the announcer's enthusiastic commentary which maintains a high pitch and fast speech rate. Distant sounds of footsteps and occasional low-volume crowd chatter are heard, suggesting a large indoor gathering focused on the event. (3) A sudden increase in volume occurs as the crowd reacts with applause and cheering. The announcer's voice rises in excitement, and the mechanical whirring of the robot slightly changes in frequency as it presumably navigates a different part of the course. No background music is detected throughout this phase. (4) The audio concludes with a sustained roar of cheering and clapping from the audience. The announcer's tone is celebratory, and the mechanical whirring sounds finally cease, leaving only the resonant room tone and the fading sounds of human celebration within the gymnasium walls."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Event / Festival",
+        "Short Video",
+        "Tech Review"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 12.75,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Action -> Achievement",
+      "mainPurpose": "The video documents a young boy's successful performance in a humanoid robotics competition in Taipei, highlighting the achievement of being the first in the elementary school group to complete the preliminary round.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The Huawei logo is visible on the boy's shirt but appears to be personal clothing rather than a formal sponsorship placement within the video narrative.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A heartwarming clip of youth STEM competition that captures both technical effort and emotional payoff."
+  }
+}

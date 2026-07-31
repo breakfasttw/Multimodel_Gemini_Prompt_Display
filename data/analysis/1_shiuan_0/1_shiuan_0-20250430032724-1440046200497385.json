@@ -1,0 +1,267 @@
+{
+  "videoName": "1_shiuan_0-20250430032724-1440046200497385.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 12,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a static close-up shot of a woman's face centered against an absolute black background. She wears a black garment that covers her hair, and her face is encircled by a ring of small, glowing translucent white spheres. A rapid strobe effect is applied to the scene, causing the lighting to flicker between high exposure and near-complete darkness. (2) The woman maintains a steady, neutral expression with her gaze fixed directly on the camera. She begins to chew rhythmically and eventually blows a white bubble from her mouth. The rapid-fire flickering intensifies, creating a high-energy visual pulse that matches the steady rhythmic ticking in the audio. (3) The bubble remains inflated as the video continues its high-speed strobe loop. The lighting shifts quickly, highlighting the woman's dark red lipstick and the reflective surface of the bubble. The camera does not move, keeping the focus entirely on the rhythmic transformation of the portrait through light and minimal motion.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face close-up",
+          "Head and shoulders"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female main character in a close-up framing.",
+        "mainCharacterDescription": "A woman with pale skin, dark red lipstick, and a black head covering decorated with a circle of white pearls."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A solid, uniform pitch-black background with no identifiable objects or landscape features.",
+        "lightingStyle": [
+          "High-contrast cinematic lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "High contrast"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Fast cuts",
+          "Loop / replay"
+        ],
+        "visualRhythm": [
+          "Highly dynamic / rapid montage"
+        ],
+        "takeStructure": [
+          "Looped short-form sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 140,
+        "mode": [
+          "Chromatic/Dissonant"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Original Jingle/Brand Theme"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Digital UI SFX",
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 5
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 5,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 5,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 5,
+        "dynamicRange": 1,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track opens with a rapid-fire sequence of sharp, metallic digital transients ticking at a relentless 140 BPM. The sound has high spectral brightness, resembling a mechanical clock or a high-speed sequencer. There are no human vocals or background environmental noises present. (2) A subtle, dissonant synthesizer drone enters, providing a dark and tense harmonic bed under the persistent rhythmic ticking. The production is extremely dry and compressed, with a brickwalled dynamic range that emphasizes the percussive attack of each digital hit. (3) The rhythmic pattern remains constant without any fluctuation in pitch or intensity, creating a hypnotic and high-arousal acoustic texture. The track concludes with the same rigid mechanical clicking, maintaining a studio-clean signal-to-noise ratio until it abruptly stops."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend",
+        "Selfie / Portrait"
+      ],
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 15,
+      "averageSceneDuration": 0.8,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Rhythm -> Impact",
+      "mainPurpose": "The video serves as an artistic short-form visual exercise designed to sync extreme strobe lighting effects with a high-tempo mechanical beat. It creates a hypnotic, high-energy mood through sensory repetition and aesthetic contrast.",
+      "visualEmotion": [
+        "energetic",
+        "tense",
+        "artistic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video is a heavily stylized portrait that uses rapid lighting shifts and repetitive sound to create a high-impact social media 'vibe'."
+  }
+}

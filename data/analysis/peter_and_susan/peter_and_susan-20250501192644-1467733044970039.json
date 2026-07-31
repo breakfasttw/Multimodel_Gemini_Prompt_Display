@@ -1,0 +1,260 @@
+{
+  "videoName": "peter_and_susan-20250501192644-1467733044970039.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 18,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a static high-angle camera perspective, reminiscent of a CCTV feed, directed toward a cluttered domestic hallway. A young male child, dressed in a vibrant yellow long-sleeved top and patterned white trousers, is positioned on the floor near the base of a white-railed staircase. The environment is densely packed with miscellaneous household items, including storage bins, laundry, and furniture, all illuminated by standard indoor overhead lighting. (2) As the scene progresses, the child remains seated, displaying physical signs of distress through hunched shoulders and repetitive hand-to-face movements. A second individual, an adult female with long dark hair wearing a blue shirt, appears partially in the frame near the stairs, observing or speaking to the child. The setting remains unchanged, with the background clutter and the reflective surface of a large mirror on the left side of the frame staying static. (3) The single-take shot continues to record the child's ongoing emotional reaction, with his body leaning against the lower steps of the staircase. No camera movement or editing cuts occur throughout this phase. The lighting remains consistent and bright across the entire frame, highlighting the various textures of the objects in the room and the child's expressive body language as he reacts to the off-screen situation.",
+      "text_narrative_log": "(1) [Slogan]: CCTV:當明天要開學了. [Variety]: 這是一個帶和遊戲😆.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 child sitting on the floor, 1 adult partially visible near the stairs.",
+        "mainCharacterDescription": "A young child wearing a yellow long-sleeved shirt and white pants with red stripes/patterns."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A cluttered indoor living space or hallway near a staircase. There are storage boxes, items on shelves, and a mirror on the left. The stairs have a white railing.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Wide shot"
+        ],
+        "cameraAngles": [
+          "High angle"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Very slow pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 5,
+        "speechRate": 2,
+        "speechPauseDensity": 3
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Sad"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 2,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 1,
+        "dominance": 2,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 3,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio starts with the immediate onset of loud, high-pitched wailing and rhythmic sobbing from a young male voice. The wails are long and piercing, indicating a state of high emotional arousal and distress. Beneath the vocal layer, a subtle indoor room tone or ambient floor is audible, characterized by a low-frequency hum. No background music or rhythmic elements are present in this initial stage of the recording. (2) The crying continues with high intensity, featuring audible sharp gasps and heavy, stuttered breathing between wails. A second, much calmer female voice is heard briefly in the background, speaking in a low, conversational tone that contrasts sharply with the child's loud vocalizations. The acoustic environment captures significant room resonance, suggesting a hard-surfaced indoor space like a hallway or living room with minimal sound dampening. (3) In the final phase, the child's vocalizations persist with a consistent wailing pattern. The intensity of the sobbing remains high, with occasional shifts in pitch as the child catches his breath. No intentional sound effects or musical transitions are introduced; the audio track remains a raw field recording of the domestic scene. The spectral balance is dominated by the mid-to-high frequencies of the crying, with the ambient noise floor remaining stable until the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 18,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Observation -> Reaction",
+      "mainPurpose": "To show a humorous or relatable reaction of a child to the prospect of school reopening. The juxtaposition of the dramatic crying with the 'CCTV' text creates a comedic effect for the viewer.",
+      "visualEmotion": [
+        "humorous",
+        "tense"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A short, viral-style video capturing a child's emotional reaction to school starting. The static CCTV perspective adds a sense of unscripted reality."
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "videoName": "zxsdexz-20250824164215-3043581799148297.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 11,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Indoor setting. A young woman with glasses and a black top stands facing a young man in a gray tank top. The man holds a small black spray bottle and presses the nozzle, releasing a fine mist. He then leans in and kisses the woman, who smiles while placing her hand on his waist. (2) Outdoor setting near a pool with green trees in the background. A man in a floral polo shirt sprays a white bottle towards a woman with purple hair in a purple top. They lean in and perform a brief kiss. (3) A man wearing a camouflage shirt and a black face mask stands indoors in front of a dark door. He sprays a white bottle into the air in front of him three times, then looks down and giggles, appearing to be alone and imitating the previous couples.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 5,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "Two couples in the first two segments, and one solo male in the third segment.",
+        "mainCharacterDescription": "Characters include a man in a gray tank top, a woman with glasses, a man in a floral shirt, a woman with purple hair, and a man in a camo shirt with a face mask."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Park / Green Space"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The first scene is a modern living room with a sliding glass door and a sofa. The second scene is an outdoor patio with a swimming pool and lush green tropical plants. The third scene is a simple indoor entryway with a dark brown paneled door.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Nike"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 5,
+        "male_vocal_count": 3,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Humorous"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 3,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Other"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 3,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) Two sharp 'pssh' spray sounds in quick succession. This is followed by a moist smacking sound indicating a kiss, and then a mixture of high-pitched female laughter and low-pitched male laughter. (2) A single clear 'pssh' spray sound, followed immediately by another kissing sound effect. (3) Three rapid 'pssh' spray sounds. A male voice then emits a staccato, breathy laugh with a 'hee hee hee' quality, which echoes slightly against the indoor wall."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend",
+        "Comedy"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 3.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Comparison -> Twist",
+      "mainPurpose": "The video parodies a social media trend where couples spray a 'kissing spray' before kissing. The first two clips show successful, romantic executions of the trend. The final clip provides a comedic twist by showing a single person attempting the same ritual alone, highlighting the humor of his isolation through his self-deprecating laughter.",
+      "visualEmotion": [
+        "humorous",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video utilizes a multi-clip comparison structure to deliver a comedic punchline centered on social trends and singlehood."
+  }
+}

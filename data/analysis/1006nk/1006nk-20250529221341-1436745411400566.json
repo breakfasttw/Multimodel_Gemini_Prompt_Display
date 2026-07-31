@@ -1,0 +1,278 @@
+{
+  "videoName": "1006nk-20250529221341-1436745411400566.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 8,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene begins with a first-person point-of-view shot from a motorcycle traveling down a wide, multi-lane urban highway. A white sedan is driving in the lane to the right, and a delivery rider wearing a yellow uniform on a scooter passes by on the left. The camera then shakes and pans rapidly to reveal the rider's face; he is a man in a black hooded jacket, shouting with his eyes squeezed shut and mouth wide open in an aggressive expression. The motorcycle's handlebars and mirrors with blue tinted glass are visible. In the background, a distant skyscraper and green trees are seen under a bright but overcast sky. (2) There is a sharp cut to a close-up shot of a young boy indoors. He has short black hair, dark eyes, and a calm, neutral facial expression. He is wearing a light blue t-shirt that has the printed text 'SANO CHARACTERS' visible on the chest. The boy stares directly into the camera lens and then pouts his lips as if blowing a kiss. The background consists of a vertical-slatted light wooden wall or cabinet, and the room is filled with soft, warm indoor lighting.",
+      "text_narrative_log": "(1) [Logo]: None. (2) [Slogan]: SANO CHARACTERS.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Face",
+          "Upper body",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 adult rider shouting, 1 child pouting, 1 delivery driver passing in the background.",
+        "mainCharacterDescription": "An adult male in a black hooded jacket shouting aggressively; a young boy in a light blue t-shirt with a calm, pouting expression."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Outdoor Street",
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A multi-lane asphalt highway with a city skyline and a tall skyscraper in the distance; an indoor residential space with vertical wooden slats on the wall.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Cloudy / Overcast"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural",
+          "Warm"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Walking handheld",
+          "Shaky camera"
+        ],
+        "shotSize": [
+          "POV / first-person view",
+          "Close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "POV / first-person view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Smash cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car",
+          "Scooter / motorcycle"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 5,
+        "speechRate": 4,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Aggressive"
+        ],
+        "vocalLanguage": [
+          "Unknown"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": true,
+        "hasStrain": true,
+        "articulationClarity": 2,
+        "intonationAndContour": [
+          "Falling"
+        ],
+        "speakingRisingRatio": 1,
+        "speakingFallingRatio": 4
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 2,
+        "dominance": 7,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Anime/J-Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Japanese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 3,
+        "incidentalNoiseDetails": [
+          "Vehicle Horn / Engine",
+          "Sudden Wind Burst"
+        ],
+        "incidentalNoiseIntensity": 4,
+        "SignalToNoiseRatio": 3,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 3,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 3,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 3,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) A loud, continuous broadband noise floor is created by high-velocity wind turbulence, accompanied by the mechanical vibration and low-frequency drone of a motorcycle engine at high speed. (2) Two sharp, high-pitched electronic horn pulses ('beep-beep') with significant spectral brightness cut through the wind and engine noise. (3) An adult male voice erupts in an explosive, high-arousal shout. The voice exhibits a rough, strained timbre and an aggressive falling intonation pattern, signaling intense anger or frustration. (4) The previous field-recorded noises cut out instantly, replaced by a studio-quality J-Pop music track with a tempo of approximately 128 BPM. It features bright, rhythmic synthesizers and a male vocalist singing Japanese lyrics in a melodic, gentle tone."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 4.0,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Conflict -> Resolution/Contrast",
+      "mainPurpose": "To create humor through a sharp emotional contrast. The video juxtaposes a high-stress, aggressive moment of road rage with an immediate transition to a peaceful, cute child pouting to upbeat music, subverting the viewer's expectation of a confrontation.",
+      "visualEmotion": [
+        "tense",
+        "humorous",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A classic short-form meme structure utilizing a 'smash cut' to flip the emotional valence from negative to positive."
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "videoName": "bugcat_capoo-20250721162437-2380073699105893.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 26,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": false,
+      "visual_narrative_log": "(1) A blue cartoon creature and a yellow pineapple-textured cartoon creature with sunglasses face each other on a stark white background. (2) The blue creature shows an angry facial expression with red vein symbols appearing, while the yellow creature remains motionless. (3) The yellow creature transforms into a taller, more elaborate version with large sparkly eyes, surrounded by yellow graphic star-bursts and light beams. (4) The blue creature pulls a section of the yellow creature's skin, and yellow liquid pours from the yellow creature's eyes while its mouth is open. (5) A scene transition shows a juice stand labeled with a pineapple icon and '$10', where the blue creature sells yellow drinks to a line of small yellow birds.",
+      "text_narrative_log": "(1) [Logo]: BUGCAT CAPOO. (2) [Slogan]: $10.",
+      "visual_human_presence": {
+        "totalHumanCount": 0,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": [
+          "None"
+        ],
+        "crowdLevel": [
+          "None"
+        ],
+        "countingEvidence": "None",
+        "mainCharacterDescription": "None"
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Animation / Graphic Background"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Initial scenes feature a minimalist white digital void. The final scene depicts a simple illustrated outdoor setting with a green ground plane, a light blue sky, and a wooden market stall.",
+        "lightingStyle": [
+          "Flat animation lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not applicable"
+        ],
+        "colorTone": [
+          "Animation vivid colors"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Looped short-form sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "Beverage / juice",
+          "Fruit"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "BUGCAT CAPOO"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Liquid Pour / Splash",
+          "Other"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 5
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 3,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A series of synthesized high-frequency 'pop' and 'squish' sounds trigger with short pauses. (2) A bright 'sparkle' effect with high spectral centroid triggers, followed by a second louder 'ping' sound. (3) A percussive 'crack' sound marks the start of an upbeat electronic BGM featuring a repetitive melody. (4) A sustained bubbling and pouring liquid sound effect is heard clearly over the BGM. (5) Fast-paced high-pitched slurping sounds are heard twice in rhythmic intervals against the continuous musical loop."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Animation",
+        "Comedy",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 10,
+      "averageSceneDuration": 2.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Interaction -> Transformation -> Consequence",
+      "mainPurpose": "This is a short-form animated comedy featuring the Bugcat Capoo IP. The video uses surreal visual humor to depict the transformation of a character into a source of juice, concluding with a lighthearted market scene. It serves as branded digital entertainment intended for fans of the character's cute and absurd aesthetics.",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "Promotes the Bugcat Capoo character brand but does not feature external product placement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "Minimalist art style focused on character expressions and sound-driven timing."
+  }
+}

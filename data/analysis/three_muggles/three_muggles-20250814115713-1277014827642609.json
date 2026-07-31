@@ -1,0 +1,267 @@
+{
+  "videoName": "three_muggles-20250814115713-1277014827642609.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 21,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young person with silver-grey hair, wearing a navy blue jacket and black trousers, stands in a living room near a ring light on a tripod. The lighting is slightly dim. (2) The person starts a rhythmic sliding movement, shuffling their feet back and forth across the tiled floor. The background shows a TV and white shelving. (3) A second person, a female with long brown hair in a cream hoodie and blue jeans, enters the frame and joins the sliding movement. They both perform a synchronized, repetitive dance that mimics a vertical scrolling motion. (4) The duo shuffles through a hallway into a kitchen area containing a refrigerator and kitchen cabinets. At the end of the hall, the first person accidentally bumps their head against the door frame, causing both to stop their movement and laugh at the camera.",
+      "text_narrative_log": "(1) [Subtitle]: 當你滑了一整天的短片",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 male-presenting main character and 1 female-presenting main character.",
+        "mainCharacterDescription": "One male with silver-grey hair in a blue jacket; one female with long brown hair in a cream hoodie."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room",
+          "Indoor Kitchen"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A home interior moving from a living area with a television and ring light to a kitchen area with a silver refrigerator and wooden cabinets.",
+        "lightingStyle": [
+          "Mixed natural and artificial light"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Walking handheld",
+          "Follow shot"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Lighting equipment / ring light",
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 2,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Other"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Level"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Other"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Footsteps",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Other"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 1,
+        "musicToSpeechLoudRatio": 4,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A percussive, rhythmic vocal chant 'Jin-ja-na, dan-dan-dan...' repeats in a loop, acting as the primary soundtrack. The voice is a clear, processed male vocal with a steady, danceable tempo. (2) Accompanying the vocal loop is the audible rhythmic shuffling and friction of shoes sliding against a hard floor, creating a secondary percussive layer that aligns perfectly with the music's beat. (3) The rhythmic loop abruptly stops as a dull thud sound occurs, signifying a physical impact. This is immediately followed by high-arousal female laughter and a male exclamation of shock, indicating a humorous accident."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 10.5,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Action -> Climax",
+      "mainPurpose": "The video uses a humorous, rhythmic dance to metaphorically represent the physical sensation or repetitive nature of scrolling through short-form video apps for long periods. The comedy is finalized by a relatable physical mishap.",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video relies heavily on the synchronization between the rhythmic BGM and the physical sliding movement to create a meme-like effect."
+  }
+}

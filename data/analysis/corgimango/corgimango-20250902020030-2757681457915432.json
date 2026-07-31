@@ -1,0 +1,271 @@
+{
+  "videoName": "corgimango-20250902020030-2757681457915432.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 33,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A brown and white Corgi wearing a black collar stands in a field of tall green grass, barking with its mouth wide open. A very worn, torn, and fuzzy green tennis ball lies in the foreground on the dry soil and grass. (2) A person's hand enters from the right side of the frame, reaching down to touch the damaged tennis ball. The hand has light skin and appears to be picking it up. (3) The hand holds the tennis ball up to the Corgi's face. The dog pants happily with its tongue out, its eyes fixed on the ball with an expression of high arousal and excitement. The background consists of a bright green field and distant trees under a cloudy sky. (4) A close-up shot captures the Corgi's face as it smiles and looks directly toward the camera or the hand, with its ears perked up. (5) The hand tosses the ball into the high grass. The Corgi immediately turns and runs into the thick vegetation, its body partially submerged as it begins to sniff and search for the toy.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Hands only",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 hand visible interacting with the dog",
+        "mainCharacterDescription": "A person whose hand is visible; presumably male based on hand size and accompanying voice."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Park / Garden",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Park / Green Space"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A large outdoor grassy field with tall, unmanaged green grass. Distant leafy trees and power lines are visible against a bright but slightly overcast sky.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Follow shot"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Low angle",
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 2,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor",
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Animal Sound / Barking",
+          "Footsteps"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) High-pitched, loud barks from the dog punctuate the opening. A male voice begins speaking with a calm, friendly tone and moderate pace. The background contains a low-level outdoor ambient floor with wind and distant bird sounds. (2) As the ball is picked up, distinct rustling and crunching sounds of dry grass and the fuzzy tennis ball surface are audible. The speaker's voice maintains a narrative quality, explaining the dog's fixation on the toy. (3) The vocal delivery continues smoothly as the narrator shares a personal anecdote about the dog's health and happiness. A soft laugh is heard at the end. (4) A percussive 'thwack' sound of the ball hitting the grass occurs, followed by the heavy rustling of the Corgi running through thick weeds, ending with natural ambient outdoor silence."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Pet / Animal"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 8.25,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Context -> Action -> Reflection",
+      "mainPurpose": "To document a joyful moment with a pet Corgi while narrating the owner's decision to prioritize the dog's mental happiness over strict physical restrictions regarding its joints. The video uses the dog's excited reaction to the ball as evidence of its improved mood.",
+      "visualEmotion": [
+        "warm",
+        "energetic",
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video highlights the bond between owner and pet, focusing on emotional well-being and the characteristic high energy of a Corgi during playtime."
+  }
+}

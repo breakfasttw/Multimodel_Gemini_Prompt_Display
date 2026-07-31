@@ -1,0 +1,269 @@
+{
+  "videoName": "jaychang0127-20250928220147-2688316421502796.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 8.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A close-up shot of a man with long dark hair wearing a black baseball cap. He is looking around with a neutral expression in a brightly lit environment that appears to be the interior of a train. Other passengers and grab handles are visible in the background. (2) The man turns his head slightly and looks towards the camera. The camera then cuts to show the back of another passenger's white pinstriped collared shirt. (3) The camera zooms in on the back of the white shirt, revealing a detailed embroidered patch of a chubby cartoon character with glasses wearing a blue vest. The passenger wearing the shirt is holding a smartphone and standing near the train door.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face",
+          "Head and shoulders",
+          "Back view",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main man filming, 1 passenger with the embroidered shirt, and at least 1 other male passenger visible in the background.",
+        "mainCharacterDescription": "A man with long dark hair, wearing a black baseball cap with a colorful logo, a white t-shirt, and a layered colorful patterned shirt over it."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Public Transport Interior"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The interior of a modern commuter train (likely in Japan), featuring metal handrails, overhead handles, advertisement posters on the walls, and large windows showing a bright outdoor or station platform environment.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Extreme close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Zoom in"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Train / metro / HSR"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 2,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 3
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Japanese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Level"
+        ],
+        "speakingRisingRatio": 1,
+        "speakingFallingRatio": 1
+      },
+      "vocal_affective": {
+        "arousal": 3,
+        "valence": 5,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Anime/J-Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 3,
+        "speechMusicOverlap": 3,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a clear, professional female Japanese voice making a station announcement over a public address system. The tone is informative and polite, typical of Japanese transit. There is a low-frequency hum characteristic of a train car interior. (2) A sharp transition occurs as upbeat, high-tempo synthesizer music with a strong percussive beat swells in volume, replacing the ambient train sounds. The music has a celebratory and energetic quality, reminiscent of a classic anime theme song. (3) The music continues at a steady volume, dominating the mix, while faint background murmurs from the crowd are barely audible beneath the synth track. The overall acoustic environment shifts from a realistic field recording to a curated musical overlay."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 2.8,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Observation -> Discovery -> Focus",
+      "mainPurpose": "The video aims to share a humorous or interesting 'real-life' discovery made while commuting. The creator spots a unique piece of anime-related embroidery on a stranger's shirt and uses a zoom-in edit combined with iconic music to emphasize the find.",
+      "visualEmotion": [
+        "humorous",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video captures a spontaneous moment of Japanese subculture (anime/manga embroidery) in a daily setting, using editing to highlight a specific detail for comedic or cultural appeal."
+  }
+}

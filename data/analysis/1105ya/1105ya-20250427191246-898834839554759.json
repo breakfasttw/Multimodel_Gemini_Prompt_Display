@@ -1,0 +1,261 @@
+{
+  "videoName": "1105ya-20250427191246-898834839554759.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 6,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a wide shot of a basketball stadium filled with a large crowd in the stands. On the hardwood court, several players in blue jerseys and white jerseys are clustered near the baseline, engaging in a physical confrontation where they push and shove each other. Referees in black-and-white striped shirts are seen running toward the scuffle with their hands out, attempting to separate the individuals. (2) The camera pans slightly to follow the movement as more players and staff members in dark suits rush from the sidelines into the center of the altercation. The stadium lighting is bright and even, highlighting the intense facial expressions of the players and the chaotic movement of the group. Fans in the background are visible standing up from their seats, many holding up smartphones to record the event, while digital advertising boards flash colors at the edge of the court.",
+      "text_narrative_log": "(1) [Subtitle]: 當你看NBA打球變打架.",
+      "visual_human_presence": {
+        "totalHumanCount": 50,
+        "maleDetectAmount": 30,
+        "femaleDetectAmount": 20,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 6,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "Dozens of players and staff on the court surrounded by thousands of spectators in the arena seating.",
+        "mainCharacterDescription": "Professional basketball players wearing blue and white team uniforms and athletic sneakers."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Stage / Performance Venue"
+        ],
+        "locationTopography": [
+          "Other"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A professional sports arena featuring a polished wood court, multiple tiers of spectator seating, and large-scale digital scoreboards.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning"
+        ],
+        "shotSize": [
+          "Wide shot"
+        ],
+        "cameraAngles": [
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "NBA",
+          "Clippers"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 10,
+        "male_vocal_count": 5,
+        "female_vocal_count": 5,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 4,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 3,
+        "dominance": 5,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Screaming/Yelling",
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 5,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 4,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 2,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 2,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a sudden and intense wall of sound consisting of high-pitched female screams and deep, guttural male yelling from a massive crowd. There is no background music or identifiable speech; the soundscape is purely environmental noise captured in a large, echoing stadium. The spectral energy is focused in the mid-to-high frequencies, reflecting the peak emotional arousal of the spectators. (2) As the visual scuffle on the court continues, the volume of the crowd remains consistently high, with a dense overlay of cheering and shouting that masks any discrete acoustic events. The lack of percussive sound effects or structural pauses indicates a raw field recording of a live event. The overall intensity and strain in the collective vocalizations convey a sense of emergency and high excitement."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Sports / Fitness"
+      ],
+      "location": {
+        "country": [
+          "USA"
+        ],
+        "city": [
+          "Los Angeles"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 3,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Event -> Immediate Reaction",
+      "mainPurpose": "To capture and share a rare and intense physical conflict during a professional basketball game, capitalizing on the dramatic nature of sports altercations to engage viewers.",
+      "visualEmotion": [
+        "tense",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video captures a chaotic fight between the Los Angeles Clippers and another NBA team, emphasizing the shock of the event through the literal text overlay and the high-decibel crowd reaction."
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "videoName": "arielsvlog_816-20250211031028-25694314713571306.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 68,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman in a grey suit jacket and black pants stands on a red-carpeted stage, holding a microphone and addressing an audience. Behind her, a large LED screen displays a wedding photo of a couple in front of a classical building. To her left is a music stand, and to her right is an electronic keyboard on a stand. In the foreground, banquet chairs with red covers and gold ribbons are visible. (2) The scene transitions through various shots of the woman singing. She moves rhythmically to the music, gesturing with her free hand and occasionally touching her chest. The LED background shifts through different wedding photos of the same couple in various romantic settings like gardens and staircases. (3) The camera focuses closer on the woman's face as she delivers an emotional vocal performance, closing her eyes and leaning into the microphone. Yellow variety-style text overlays appear intermittently at the bottom center of the frame, commenting on her actions and performance style. (4) The woman continues her performance across the stage, maintaining a confident posture while interacting with the invisible audience. Guests are partially visible seated at tables in the periphery, illuminated by the bright, warm indoor stage lighting that highlights the red curtains and carpet of the performance area.",
+      "text_narrative_log": "(1) [Subtitle]: 祝祝福新人. (2) [Subtitle]: 永浴愛河 謝謝. (3) [Variety]: (不可能叫大家揮手). (4) [Variety]: (不可能專業的肢體動作). (5) [Variety]: (開始前一定要甩頭). (6) [Variety]: (拉尾音加甩頭). (7) [Variety]: (自信的看觀眾). (8) [Variety]: (帶入情緒的甩頭). (9) [Variety]: (跟著節奏的甩頭). (10) [Subtitle]: 風中飛. (11) [Subtitle]: 想要追你無塊找. (12) [Subtitle]: 甘知我愛你. (13) [Subtitle]: 你有外多.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female singer on stage, 1 bride and 1 groom in the background LED photo, and 1 visible guest sitting on the right.",
+        "mainCharacterDescription": "A middle-aged woman with dark, shoulder-length hair wearing a dark grey blazer over a dark inner top and black trousers."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Stage / Performance Venue",
+          "Restaurant / Dining"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A wedding banquet hall with a red-carpeted stage and red curtains. A large LED screen serves as the backdrop, displaying various wedding photography. Musical equipment including a keyboard and speakers are present on stage.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Dissolve"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic",
+          "Keyboard / mouse",
+          "Speaker / audio device",
+          "Laptop"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "Electronic Keyboard / Synthesizer"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 8,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Ballad/Sentimental",
+          "Pop"
+        ],
+        "tempoBPM": 85,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Traditional Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Keyboard",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Piano",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Live Performance"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a female voice speaking into a microphone, offering warm well-wishes to a couple and 'thank you' to the guests. The tone is professional and celebratory. A light instrumental backing track is audible. (2) A transition occurs as the singer begins performing a melodic Hokkien pop ballad. The female vocals are central, showing high resonance and clear articulation. The background music features an electronic piano and a steady rhythmic drum pattern at a moderate tempo. (3) As the song progresses, the singer's vocal intensity increases during the chorus, exhibiting significant pitch variability and expressive vibrato. Faint background chatter and occasional laughter from the audience are heard, but the primary signal remains very clean. (4) The track concludes with sustained vocal notes and a rhythmic keyboard outro. The overall mix maintains a consistent balance between the live vocals and the instrumental accompaniment, characteristic of a live banquet hall performance capture."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV",
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 11.3,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Introduction -> Performance Compilation -> Emotional Climax",
+      "mainPurpose": "The video documents a woman's live vocal performance at a wedding banquet. It combines a celebratory atmosphere with humorous self-commentary via variety-show style captions, showcasing her singing talent and stage presence for social media engagement.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video uses a humorous variety-style approach to a professional singing performance, specifically utilizing Taiwanese Hokkien lyrics which indicates a specific regional and cultural appeal."
+  }
+}

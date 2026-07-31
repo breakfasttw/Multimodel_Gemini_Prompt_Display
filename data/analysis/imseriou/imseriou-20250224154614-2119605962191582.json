@@ -1,0 +1,261 @@
+{
+  "videoName": "imseriou-20250224154614-2119605962191582.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 21,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A man wearing a black T-shirt, loose blue trousers, and a black headband stands in a gym setting. He is barefoot with red hand wraps. He begins striking a black heavy bag with high kicks and punches. The gym environment features multiple heavy bags suspended from a black metal ceiling frame with bright overhead studio lights. (2) He continues his routine, alternating between left and right leg kicks that strike the middle and upper sections of the bag. His movements are sharp and controlled, with his eyes fixed on the target. In the background, red fire extinguishers and structural pillars are visible. (3) He shifts his positioning and executes a series of rapid low kicks and punches. The heavy bag swings significantly upon impact. The man maintains a high level of physical intensity, moving across the dark gym mats. The 'UFC GYM' logo is clearly visible on the surface of the bag as it rotates.",
+      "text_narrative_log": "(1) [Subtitle]: 休養幾個月復健了大半年 醫生說可以正常運動了💪. [Logo]: UFC GYM.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main male character training in the gym.",
+        "mainCharacterDescription": "An adult male dressed in athletic wear: a black t-shirt, blue athletic pants, a black headband, and red hand wraps."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Gym / Fitness Center"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A professional gym interior with hanging heavy bags, black painted ceiling with exposed pipes, and dark floor mats.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "High contrast"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "UFC GYM"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop",
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 4,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 2,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 5,
+        "harmonicsToNoiseRatio": 2,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 4,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with high-intensity thudding sounds from a series of physical strikes. These are short-duration, high-amplitude transient events characteristic of heavy-bag impacts. A slight fabric rustling sound follows each movement. There is no background music or speech. (2) A sharp impact sound marks the start of a new phase as a powerful kick hits the bag, creating a low-frequency resonant thud. The ambient room tone is minimal, with high spectral clarity on the impact sounds. (3) Continuous rapid-fire impacts occur with varying intensity, echoing slightly within the gym space. The rhythm of strikes is consistent and dense, with clear gaps of silence between the percussive bursts. The recording quality is crisp, capturing the raw acoustic energy of the training session."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Sports / Fitness"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 1.9,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Action -> Status Update",
+      "mainPurpose": "To showcase a successful return to physical training after a long recovery period. The video emphasizes the physical capability and strength regained by the individual, serving as a motivational update for viewers.",
+      "visualEmotion": [
+        "energetic",
+        "determined"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Prominent display of the brand logo on training equipment within the gym environment.",
+      "endorsementObject": [
+        "UFC GYM"
+      ]
+    },
+    "freeDescribe": "The video is a high-energy fitness clip with a focus on impact sounds and physical prowess, effectively communicating a personal milestone."
+  }
+}

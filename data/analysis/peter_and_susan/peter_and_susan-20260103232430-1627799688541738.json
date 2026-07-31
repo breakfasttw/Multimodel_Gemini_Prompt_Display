@@ -1,0 +1,266 @@
+{
+  "videoName": "peter_and_susan-20260103232430-1627799688541738.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 49.03,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) In a dimly lit indoor living room area, a white dog with a light-colored collar runs into the frame from the left, its body low and tail tucked, showing clear signs of distress and fear. The room features a kitchen island with various items on it and a basketball hoop mounted on the wall to the right. (2) A bare-chested man wearing dark shorts enters the frame from a doorway on the right. He immediately crouches down and extends his arms to embrace the white dog, which continues to shiver. The lighting is soft, creating a somber and intimate atmosphere as he pulls the pet close. (3) The man remains in a crouched position, holding the dog tightly against his chest while gently petting its head. The camera remains at a high-angle, static perspective, resembling security footage. The background remains consistent with home kitchen elements and dim ambient light.",
+      "text_narrative_log": "(1) [Subtitle]: 大地震 Nala 快被嚇死. (2) [Subtitle]: 爸爸洗澡洗一半 趕快出來抱她. (3) [Subtitle]: 很少看到她抖成這樣. (4) [Subtitle]: 全家人都很緊張.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Back view",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main male character and 1 white dog.",
+        "mainCharacterDescription": "A male with short dark hair, bare torso, and dark shorts, appearing to have just come out from a shower."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern home interior with a kitchen island, stools, a basketball hoop, and various household objects under soft indoor lighting.",
+        "lightingStyle": [
+          "Dim / low light"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Muted"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Wide shot"
+        ],
+        "cameraAngles": [
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Home appliance"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 2,
+        "pitchVariability": 2,
+        "intensityAndLoudness": 2,
+        "speechRate": 2,
+        "speechPauseDensity": 3
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Calm"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Falling"
+        ],
+        "speakingRisingRatio": 1,
+        "speakingFallingRatio": 4
+      },
+      "vocal_affective": {
+        "arousal": 4,
+        "valence": 5,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 5
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 3,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A piercing, high-pitched electronic siren pulses rhythmically, signaling an emergency alert. The sound has a sharp spectral bandwidth and dominates the audio track. No human voices or music are present. (2) The siren continues to pulse. A male voice enters, speaking Traditional Chinese with a low-intensity, calming, and breathy prosody. The voice is clearly enunciated but delivered at a slow rate to soothe a pet. (3) Subtle mechanical clicks and the rustle of fabric are heard as the man interacts with the dog. The electronic siren pulses consistently in the background, maintaining a high-arousal acoustic environment despite the calm vocal delivery of the speaker."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Pet / Animal"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 3,
+      "averageSceneDuration": 16.3,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Resolution",
+      "mainPurpose": "The video aims to document and share a vulnerable, emotional moment between a pet and its owner during a natural disaster (earthquake). It emphasizes the bond of care and protection as the owner quickly abandons his shower to comfort his terrified dog.",
+      "visualEmotion": [
+        "warm",
+        "tense"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The contrast between the high-stress emergency siren and the calm, caring actions of the man creates a strong emotional impact."
+  }
+}

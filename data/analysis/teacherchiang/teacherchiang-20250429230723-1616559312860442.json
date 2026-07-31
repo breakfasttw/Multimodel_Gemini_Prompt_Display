@@ -1,0 +1,268 @@
+{
+  "videoName": "teacherchiang-20250429230723-1616559312860442.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 11,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Close-up shot of a woman with brown hair and bright red lipstick. She has a wide, ecstatic smile, with her eyes squinting in joy. Her facial muscles are tense with excitement as she looks directly into the camera lens. The background is dark and out of focus, typical of an outdoor night environment. (2) The camera moves back, revealing she is wearing a dark blazer and pearl-like earrings. She is laughing hysterically, her mouth wide open and teeth clearly visible. She is holding a dark rectangular booklet or poster with her left hand. The background reveals the illuminated glass facade of a large building. (3) The woman moves the camera closer to her face and the poster she is holding. The poster features a male figure with dark, curly hair and a serious expression. She displays an expression of exaggerated excitement, with wide-eyed looks of manic joy while shaking the camera slightly.",
+      "text_narrative_log": "(1) [Slogan]: POV：當你看完喜歡的演出.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face close-up",
+          "Head and shoulders",
+          "Upper body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator; the male figure is a static image on a poster.",
+        "mainCharacterDescription": "A woman with brown hair, wearing a dark blazer and large white earrings, with bright red lipstick."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Stage / Performance Venue",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The exterior of a modern building with large glass panels and bright interior lights at night, likely a theater or exhibition center.",
+        "lightingStyle": [
+          "Night artificial light"
+        ],
+        "weather": [
+          "Night clear"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld",
+          "Shaky camera"
+        ],
+        "shotSize": [
+          "Extreme close-up",
+          "Close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 3,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 9,
+        "valence": 9,
+        "dominance": 7,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Paper / Page Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice laughs rhythmically and breathlessly with extremely high vocal arousal. The pitch is medium-high and the intensity is moderate. There is no background music or other voices. The acoustic environment sounds like an open outdoor space with minimal reverb and very low noise floor. (2) The laughter transitions into a melodic shout-singing of the phrase \"Wo hao kuai le\" at a high pitch. The voice exhibits significant strain, high spectral brightness, and intense emotional energy. No percussion or harmonic accompaniment is present in the mix; the track consists entirely of a single vocal source. (3) The laughter continues, becoming more fractured and wheezy as the speaker loses breath. A distinct rustling sound of paper or thin plastic is heard as an object is manipulated near the microphone. Faint ambient low-frequency city hum is present in the background floor, indicating an urban setting."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Personal Talk",
+        "Short Video"
+      ],
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 3.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Emotional Hook -> Payoff via Object reveal",
+      "mainPurpose": "The video is a personal expression of high-arousal joy and fan-girl excitement. By using a first-person selfie perspective and the 'POV' text, the creator shares her euphoric state after attending a performance, eventually revealing the poster of the artist to provide context for her happiness.",
+      "visualEmotion": [
+        "energetic",
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A raw, high-energy selfie vlog capturing extreme post-performance euphoria. The intense laughter and shaky camera work contribute to a strong emotional presence."
+  }
+}

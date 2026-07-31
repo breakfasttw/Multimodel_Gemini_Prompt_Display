@@ -1,0 +1,265 @@
+{
+  "videoName": "tesscube-20251215173823-1989454552007977.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 14,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The camera captures a television screen mounted from a white grid ceiling in a spacious office environment. On the monitor, a split-screen news report displays a blue-skinned character from the movie 'Avatar' on the left and a male news anchor in a tan suit on the right. The background reveals white walls and stacked green storage crates. (2) As the handheld camera zooms in closer to the TV, the professional facial expressions of the anchor and the detailed graphics of the news ticker become more legible. A second monitor is partially visible to the right, showing a different broadcast. The lighting is bright and even from overhead fluorescent fixtures. (3) The camera pans slightly downward and pulls back, showing the tops of office cubicle partitions and computer monitors in the foreground. The news broadcast continues its segment about the 'Avatar' film tickets. The overall setting remains a quiet, professional workspace with neutral colors and modern office equipment.",
+      "text_narrative_log": "(1) [Logo]: 壹新聞 NEXT TV HD. [Subtitle]: 網紅買4張阿凡達電影票 只看30秒就出場 超狂原因. [Slogan]: 朝野攻防 遭慶「民主憲政守門人職責」阻進場 卓榮泰痛批黑白道. [Variety]: 台中 19 22℃ 0% 16:45.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Upper body",
+          "Torso"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 male news anchor visible on the TV screen.",
+        "mainCharacterDescription": "The main character is a male news anchor with short black hair, wearing a white shirt and a tan or beige suit jacket, presenting in a professional manner."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Office / Workplace"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A large indoor office with a white grid ceiling, white walls, and cubicle workstations. Visible items include green plastic crates, a grey door, and several desktop computer monitors in the lower foreground.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Zoom in",
+          "Zoom out",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "TV / display screen",
+          "Desktop computer / monitor"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "壹新聞"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 5,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Ambient"
+        ],
+        "tempoBPM": 100,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Handheld / Microphone Handling Noise"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A professional male news anchor narrates a news segment in Traditional Chinese, maintaining a rapid and well-enunciated speech rate. A low-intensity, rhythmic synthesizer track at approximately 100 BPM plays continuously as background music, typical of a news broadcast. The recording quality is that of a field capture of a television set. (2) Subtle handling noises and the rustle of the recording device are faintly audible against the dominant TV audio. The ambient floor is a consistent indoor room tone from the office environment. The anchor's vocal pitch is medium and steady, showing no signs of strain or tension while delivering the report. (3) The interplay between the clear narration and the background music remains constant throughout the duration. No sudden sound effects or transitions occur in the audio mix, which focuses purely on the television's output. The signal-to-noise ratio is high, ensuring the news content is the primary audible layer."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "News / Commentary"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 14.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Observation -> Content Focus",
+      "mainPurpose": "To capture and document a news segment playing on a television in an office. The segment reports on a viral story involving an influencer and 'Avatar' movie tickets, serving as a snippet of broadcast media in a real-world context.",
+      "visualEmotion": [
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A simple handheld recording of a TV news broadcast within a modern office setting, primarily focused on the media content being displayed."
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "videoName": "cyfang58-20250213120241-905951678710149.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 29,
+      "aspectRatio": "16:9"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A man wearing a grey hoodie, khaki pants, and yellow sunglasses stands in an outdoor courtyard. He holds a blue baseball bat and performs a vigorous full swing towards the camera, demonstrating the bat's motion. (2) He stops the swing and transitions into a speaking pose, holding the bat vertically in front of him. He points to the labels on the bat, showing technical details. (3) The man continues to speak directly to the camera, rotating the bat horizontally to display its color and finish. He gestures with his free hand to emphasize his points. (4) He holds the bat in various positions, showing the handle and the barrel, while maintaining eye contact with the lens. The lighting is consistent natural daylight. (5) In the final moments, he tilts the bottom of the bat towards the camera for a close-up view of the end cap before concluding his presentation.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 male main character performing the demonstration",
+        "mainCharacterDescription": "A man wearing a grey zip-up hoodie with black stripes on the sleeves, khaki trousers, and distinct yellow-tinted reflective sunglasses."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An outdoor residential area or courtyard featuring a grey stone wall on the left and a high wooden slat fence in the background. A blue tarp sits on the ground, and several potted plants, including a bonsai, are visible.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Cloudy / Overcast"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "SSK"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 6,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop",
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a sharp, percussive 'whoosh' sound of a fast-moving object, followed by a slight metallic 'tink' and the rustle of synthetic fabric. No music is present. (2) A male speaker enters with a clear, resonant voice in Traditional Chinese. His tone is energetic and informative, with moderate speech speed and clear articulation. Faint background ambient city hum is barely audible. (3) The speaker continues his pitch, his vocal contour rising when mentioning specific brand details. Subtle handling sounds of a hard object being touched or rotated are captured by the microphone. (4) The vocal delivery remains steady and authoritative without any music interruption. The speaker emphasizes urgency at the end of the phrase with a higher pitch variability. (5) The recording ends cleanly as the speaker finishes his call to action, with the ambient noise floor remaining low and stable throughout."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 29,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> CTA",
+      "mainPurpose": "The video serves as a promotional announcement for the launch of a new Canadian Maple wood softball bat from the brand SSK. The creator uses a demonstration swing to grab attention before detailing the product's color options and previous sales success to create a sense of urgency for potential buyers.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator is directly holding the product, describing its features, brand, and origin, and explicitly telling viewers to buy it quickly.",
+      "endorsementObject": [
+        "SSK"
+      ]
+    },
+    "freeDescribe": "A single-take marketing video with a focus on product physical features and scarcity marketing."
+  }
+}

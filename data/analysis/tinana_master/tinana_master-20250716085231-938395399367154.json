@@ -1,0 +1,282 @@
+{
+  "videoName": "tinana_master-20250716085231-938395399367154.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 124,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Two individuals, a female with long auburn hair in a purple hoodie and a male with glasses in a tricolor hoodie, sit on a couch in a white-walled room, holding black microphones and conversing. (2) A rapid montage shows the same two individuals in a brightly lit studio, standing and singing energetically with expressive hand gestures and smiles. (3) A graphic poster appears on a green tiled background featuring the female character in a shimmering silver sequined outfit, with text details about a concert venue and date. (4) The scene returns to the studio where the duo continues singing and interacting playfully, with various colorful text overlays and emojis appearing on screen. (5) A sequence of music performance segments follows, featuring song titles at the top and split-screen or full-screen views of the duo singing classic hits into microphones against a neutral indoor background.",
+      "text_narrative_log": "(1) [Subtitle]: 這位小姐終於實現諾言. (2) [Slogan]: 這是我的四年前，《你最近好嗎》的單元. [Logo]: Landy溫嵐. (3) [Slogan]: Can U Feel it. [Slogan]: 溫嵐+那那. (4) [Slogan]: 11首溫嵐歌曲，你聽過幾首？ (5) [Slogan]: 逆流的淚. (6) [Slogan]: 愛回溫. (7) [Slogan]: 屋頂. (8) [Slogan]: 傻瓜. (9) [Slogan]: 女力. (10) [Slogan]: 冰河. (11) [Slogan]: 北斗星. (12) [Slogan]: 發燙. (13) [Slogan]: 同手同腳. (14) [Slogan]: 藍色雨.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main female creator/singer, 1 male host/interviewer.",
+        "mainCharacterDescription": "The female main character has long reddish-brown hair and wears a purple oversized hoodie. The male character wears glasses and a colorful block-patterned hoodie."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The primary background is a minimalist studio with a neutral-colored couch and white walls. Some segments feature promotional graphics or concert posters.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Montage",
+          "Graphic transition",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic",
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "KKTIX",
+          "Legacy TERA"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Ballad/Sentimental"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 2,
+        "male_singer_count": 1,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Traditional Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 2,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Keyboard",
+          "Percussion",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Piano",
+          "Drum Kit / Drum Set",
+          "Violin",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fade out"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a male voice speaking in a moderate, friendly tone, followed by a female voice responding with clear articulation and a warm pitch. Ambient room tone is quiet. (2) A high-tempo pop music track fades in, featuring a strong percussive beat and synthesizer textures. The male and female voices transition into energetic singing with high pitch variability. (3) A series of short song snippets play in succession, separated by subtle whoosh transition SFX. Each snippet features Landy Wen's professional vocal performance accompanied by various instrumental arrangements including piano, strings, and electronic beats. (4) The mix maintains a high signal-to-noise ratio, with clear vocals layered over well-produced background music tracks. Occasional laughter and enthusiastic vocal ad-libs are heard from the male speaker, creating a lively atmosphere."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV",
+        "Promotion / Advertisement / Indoresment",
+        "Personal Talk"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 5.1,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Series of Examples -> CTA",
+      "mainPurpose": "The video serves as a promotional medley for singer Landy Wen's classic hits, aiming to build excitement for her upcoming 'Landys' Party' concert in Taipei. It combines current interview/karaoke style interaction with nostalgic song highlights to engage long-time fans.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "nostalgic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct mention of concert dates, venues, and ticket pricing with on-screen graphics.",
+      "endorsementObject": [
+        "Landy Wen Concert"
+      ]
+    },
+    "freeDescribe": "The video successfully uses a '11 songs medley' challenge format to showcase the artist's discography while promoting a live event."
+  }
+}

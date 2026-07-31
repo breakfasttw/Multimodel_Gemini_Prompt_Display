@@ -15,6 +15,7 @@ export const APP_CONFIG = {
         mix_members: "./data/mix_cluster_pca-umap-8.csv",
         ig_names: "./data/ownerid_mapping.csv",
         all_media_ids: "./input/all_infleuncer_media_id.csv",
+        json_description_summary: "./data/json_description_summary.csv",
 
         all_influencers: "./data/influencer_all_info.csv", // 或你的 xlsx 轉出的 csv
         video_info_dir: "./data/Top200_VideoInfo", // 存放 {ig_id}-FullVideoInfo.csv 的資料夾

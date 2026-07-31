@@ -1,0 +1,274 @@
+{
+  "videoName": "ruruspiano-20250910041430-1233290722107685.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 91,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video frame is split horizontally. The top half displays scenes from an anime school festival performance featuring a three-piece girl band and an audience. The bottom half features a real-life woman dressed in a black bunny suit with rabbit ears and a yellow hair ribbon, seated at a black grand piano against a backdrop of blue pleated curtains. (2) The top half switches to close-up shots of a character in a witch hat playing an electric guitar, while the bottom half shows the woman's hands moving with high velocity across the piano keys. (3) Multiple rapid cuts in the top half show the anime drummer and bassist performing, interspersed with shots of the shocked and excited student audience. The bottom half maintains a steady medium shot of the piano player's upper body and hands. (4) The anime vocalist, also in a bunny suit, is shown singing into a microphone on stage. The real-life woman at the bottom mirrors the energetic performance with intense physical movement while playing. (5) The video continues this split-screen format, cycling through various camera angles of the animated band while focusing on the continuous, skilled piano performance below until the end of the clip.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only",
+          "Side view"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 real woman playing piano at the bottom; numerous animated characters at the top (not counted as real humans).",
+        "mainCharacterDescription": "A woman wearing a black strapless bunny suit, white cuffs, bunny ears, and a yellow ribbon in her short brown hair."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Animation / Graphic Background"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The bottom half features a studio setting with blue curtains and a white circular object on the floor. The top half features an animated auditorium stage with stage lights and a large crowd.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Wide shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Side view"
+        ],
+        "editingTechniques": [
+          "Split-screen",
+          "Fast cuts",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multi-camera / cutaway"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic",
+          "Lighting equipment / ring light"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "Piano",
+          "Electric Guitar",
+          "Drum Kit / Drum Set",
+          "Electric Bass"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Anime/J-Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 150,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Cover/Remix"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The track opens with a high-speed, percussive piano riff characterized by bright spectral weight and sharp transients. The tempo is established at a rapid 150 BPM, featuring complex chord progressions and a clear melodic line. (2) The music transitions into the main verse section where the piano play becomes more rhythmic, emphasizing the lower octaves to mimic a bass line while the right hand performs a complex melodic counterpoint. The recording is pristine with studio-level clarity. (3) The intensity increases during what corresponds to the chorus, with the piano notes sounding highly dense and energetically sustained. There are no vocals or sound effects, leaving the solo piano as the sole acoustic focus throughout the duration."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV",
+        "Animation"
+      ],
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 4.1,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Performance Clips -> Piano Skill Demonstration",
+      "mainPurpose": "A high-skill solo piano cover of the famous anime song 'God knows...' from 'The Melancholy of Haruhi Suzumiya'. The video uses a split-screen to synchronize the live performance with the original animation that inspired the costume and song choice.",
+      "visualEmotion": [
+        "energetic",
+        "focused"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video effectively combines anime culture (cosplay and footage) with musical talent to appeal to fans of J-Pop and anime performance art."
+  }
+}

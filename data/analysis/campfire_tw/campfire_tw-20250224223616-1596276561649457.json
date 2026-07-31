@@ -1,0 +1,263 @@
+{
+  "videoName": "campfire_tw-20250224223616-1596276561649457.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 27,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens on a large, glowing TV screen in a dimly lit living room, showing a live World Baseball Classic game. Players in white and green uniforms are visible on the baseball diamond, with the pitcher mid-delivery and the catcher squatting behind the plate. The stadium environment is rendered in vibrant colors with clear floodlighting against a dark sky. (2) As the batter swings and hits the ball, the TV camera pans quickly across the field, showing players in blue uniforms scrambling to field the grounder and making a play at the base. The motion is sharp and dynamic, highlighting the players' physical exertion and the focus on the white baseball moving across the green turf. (3) In the foreground, a human thumb is raised in a celebratory gesture, with the hand skin texture visible as it partially obscures the lower right portion of the TV screen. On the screen itself, the players in blue are seen high-fiving and hugging each other, while the surrounding residential room remains out of focus and dark.",
+      "text_narrative_log": "(1) [Subtitle]: 台灣贏南非. [Subtitle]: 9:1. [Subtitle]: 太爽了. [Logo]: ELTA. [Logo]: World Baseball Classic.",
+      "visual_human_presence": {
+        "totalHumanCount": 10,
+        "maleDetectAmount": 10,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": [
+          "Hands only",
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "Multiple baseball players on screen and one person filming.",
+        "mainCharacterDescription": "Multiple male baseball players in blue and white athletic uniforms."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A dark indoor living room with a large television screen as the focal point, showing a bright outdoor stadium.",
+        "lightingStyle": [
+          "Dim / low light"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "ELTA",
+          "World Baseball Classic"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Handheld / Microphone Handling Noise"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with high-fidelity Mandarin commentary featuring high pitch variability and rapid speech rate as the play occurs on TV. Energetic background music with a tempo around 120 BPM and prominent synthesizer textures underlies the narration. Ambient crowd noise from the stadium provides a broadband noise floor. (2) A series of sharp, mid-frequency percussive transients representing manual clapping sounds are introduced in the foreground, coinciding with the commentator's increased vocal intensity during the catch. The music continues without pause, maintaining a major-mode tonality and strong beat strength. (3) The commentators shift to a lower-arousal narrative style while discussing the game's final score of 9 to 1. The stadium ambience remains a consistent layer of murmuring voices, while the BGM concludes its loop. Incidental room noise and microphone handling are faint but present throughout the take."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Sports / Fitness"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 27.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Observation -> Reaction",
+      "mainPurpose": "The video serves as a celebratory record of a significant sporting achievement, specifically the Taiwan baseball team's 9-1 victory over South Africa. By filming the live broadcast and adding enthusiastic text overlays like 'Taiwan won' and 'Too exciting,' the creator shares their joy and national pride, reinforced by the audible clapping and the visual thumbs-up gesture.",
+      "visualEmotion": [
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A celebratory reaction video capturing a live television broadcast of a baseball game win."
+  }
+}

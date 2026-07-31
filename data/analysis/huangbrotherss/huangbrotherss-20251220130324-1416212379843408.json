@@ -1,0 +1,282 @@
+{
+  "videoName": "huangbrotherss-20251220130324-1416212379843408.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 20,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Two young men in white T-shirts and casual pants are kneeling on a red stage outdoors. They hold microphones and face a massive crowd of people who are also holding up phones. One man points his hand toward the audience, conducting them. The background features white event tents, green trees, and bright natural daylight. (2) The man on the left moves his arm in a sweeping motion from left to right. The crowd follows his hand with their eyes and bodies, appearing to react in unison. Yellow and red variety-show style text overlays like 'WOW' appear on the screen. (3) The man raises his fist high, and the entire crowd raises their hands and waves back enthusiastically. A large graphic 'Let's Go!' and slogan text appear as the man stands up slightly to address the screaming fans. The scene is high-energy with rapid visual feedback between the performers and the crowd.",
+      "text_narrative_log": "(1) [Subtitle]: 聲音借給我. [Logo]: POV:我很好操控的觀眾 POV: I have an audience that's easy to manipulate. (2) [Variety]: WOW. [Variety]: (超級配合). (3) [Variety]: 啊啊啊. [Subtitle]: 痘走青春敢亮敢走. [Slogan]: Let's Go!.",
+      "visual_human_presence": {
+        "totalHumanCount": 50,
+        "maleDetectAmount": 20,
+        "femaleDetectAmount": 30,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "2 main performers on stage and a large crowd of over 50 people in the audience.",
+        "mainCharacterDescription": "Two young Asian men in casual white t-shirts, one with grey trousers and the other with black and white patterned trousers."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Park / Garden",
+          "Stage / Performance Venue",
+          "Event Venue / Convention Hall"
+        ],
+        "locationTopography": [
+          "Park / Green Space"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An outdoor park with large green trees, several white peaked tents, and a clear bright sky.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering",
+          "Screaming/Yelling",
+          "Applause"
+        ],
+        "crowdNoiseIntensity": 4,
+        "ambientNoiseDetails": [
+          "Outdoor/Nature"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Digital UI SFX",
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording",
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) A confident male voice announces '聲音借給我' with high intensity over an energetic electronic pop background track with steady synthesized beats. (2) The crowd responds with a series of short, synchronized 'Oh!' shouts that follow a rhythmic pattern. A sharp 'ding' sound effect punctuates the transition. (3) The crowd erupts into a more frantic, higher-pitched roar of cheering and screaming. A soft chime SFX plays in the background. (4) The male speaker delivers the slogan '痘走青春 敢亮敢走 Let's Go!' with high arousal and authoritative energy as the cheering peaks and the music's percussion hits become more pronounced."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Music / Performance / MV",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 3,
+      "averageSceneDuration": 6.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Engagement -> Interaction -> Slogan",
+      "mainPurpose": "The video documents an interactive moment between influencers and their fans during a live event to promote a campaign called '痘走青春'. It uses the 'POV' trope to show the chemistry and high level of coordination between the performers and the audience, effectively generating brand awareness and high energy.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The presence of a specific slogan '痘走青春' and a choreographed 'Let's Go!' moment indicates a planned marketing campaign.",
+      "endorsementObject": [
+        "痘走青春"
+      ]
+    },
+    "freeDescribe": "The video features the 'Huang Brothers' (a well-known YouTube duo in Taiwan) engaging with their fans at what appears to be a promotional event for a skincare or youth-oriented campaign."
+  }
+}

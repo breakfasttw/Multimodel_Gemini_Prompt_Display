@@ -1,0 +1,269 @@
+{
+  "videoName": "pansci-20250713001100-872758792039091.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 86,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A male speaker with short dark hair and glasses, wearing a professional black long-sleeved shirt, stands centered in a studio. The background features a large, colorful image of a hot air balloon with 'CASINO' branding against a green mountain landscape under a blue sky. The lighting is bright and even. (2) A sharp cut shows a close-up of a scientific paper titled 'EEG2TEXT-CN' with a list of authors. The paper is presented cleanly on a white background. (3) The camera cuts back to the male speaker in the studio. He uses animated facial expressions and rapid hand gestures to explain the text. A yellow caption area is at the top. (4) A semi-transparent technical diagram is overlaid on the screen, showing the architecture of an AI model with labels like 'EEG Encoder', 'Language Model', and 'MLP Projector'. The speaker continues to talk behind the graphic. (5) The speaker is shown in a medium shot, holding a blue pen and a small black remote. He demonstrates the 'detective' analogy by holding the pen like a tool and looking intently at the camera. (6) A data table titled 'Table 4: Comparison Between Ground Truth and Predicted Results' appears, showing rows of Chinese text and numerical BLEU scores. (7) Final phase shows the speaker concluding his presentation with energetic gestures, pointing towards the lens to emphasize his final points about the future of brain-computer interfaces.",
+      "text_narrative_log": "(1) [Variety]: 腦機介面 能將腦波轉成中文了!. [Subtitle]: 中文大腦波模型要來了嗎. (2) [Subtitle]: 最近一個有台灣學者共同參與的研究團隊 開發出一個AI模型. (3) [Subtitle]: EEG2TEXT-CN 可以把你的腦波直接翻譯成中文文字. (4) [Subtitle]: 過去這種技術都只搞英文 但中文是象形文字. (5) [Subtitle]: 大腦處理的方式完全不一樣 所以能做到中文版真的是跨了一大步. (6) [Subtitle]: 到底是怎麼做到的 他們找來一群人. (7) [Subtitle]: 戴上那種有128個電極的腦電帽 然後呢 讓他們安靜的默讀螢幕上的中文小說. (8) [Subtitle]: 最關鍵的地方來了 螢幕上的字不是一次給你一整句 那樣AI會頭昏. (9) [Subtitle]: 它是一個字一個字慢慢點亮給你看 每個字呢只亮350毫秒就跳下一個. (10) [Subtitle]: 這樣AI才能像個偵探一樣拿著放大鏡 一個一個比對. (11) [Subtitle]: 哦 原來看到 雞 這個字的時候腦波長這樣 看到 排 的時候又變那樣. (12) [Subtitle]: 慢慢建立起一本中文腦波翻譯辭典 那結果怎麼樣 到底能不能用. (13) [Subtitle]: 我直接跟你說結論 有抓到幾個字 但整句話唔通(m-thang). (14) [Subtitle]: 用一個叫做BLEU的指標來評分 滿分100它拿了6.38分. (15) [Subtitle]: 哇 如果小學聽寫考這分數 應該已經 唔 憂鬱憂鬱了起來. (16) [Subtitle]: AI預測出來的句子常常只能沾到一點邊 或是直接當機變成 的的的的的的的的的. (17) [Subtitle]: 欸 但先別笑啊 這6.38分在科學家眼中 是從0到1的偉大一步. (18) [Subtitle]: 這證明了AI真的能從一堆亂七八糟的腦波裡 找到跟中文字對應的訊號. (19) [Subtitle]: 為多語言的腦機介面研究開了大門 想像一下. (20) [Subtitle]: 以後如果你想跟朋友分享中文版的Lemon 搞不好可以直接從腦波發送 連嘴巴都不用動. (21) [Subtitle]: 不過如果你真的想分享中文版的Lemon 那我覺得你可以只用腦波就好 不要亂動 不要動 不要動.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 male speaker appearing throughout the video in a studio setting.",
+        "mainCharacterDescription": "An adult male with short black hair and thin-rimmed glasses, wearing a black long-sleeved shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A large studio backdrop featuring a scenic mountain landscape with a prominent hot air balloon and the word 'CASINO' on it.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Other"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 8,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Digital UI SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A confident male voice opens with a bright, energetic tone, speaking rapidly about Chinese brain-wave models. The background music is an upbeat electronic track with a driving synth rhythm. The mix is clean, prioritizing the vocal clarity. (2) As the speaker transitions to describing the research paper, his vocal pitch modulates to maintain engagement. The BGM remains consistent in volume and tempo. (3) A subtle digital click SFX underscores the change in topic as he explains the experimental methods involving a 128-electrode cap. The voice remains steady and articulated. (4) The vocal arousal increases slightly as he explains the 'detective' AI logic, using emphasis on key words like '雞' and '排'. The music's percussive elements are more noticeable here. (5) A humorous inflection enters the speech when discussing the low BLEU scores, accompanied by a slight decrease in vocal pitch for comedic effect. (6) The voice returns to a dominant, professional narrative style for the conclusion, discussing future possibilities of sharing information via brain waves. The audio terminates cleanly with a final assertive statement."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech News / Commentary"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 7,
+      "averageSceneDuration": 12.28,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Explanation -> Result -> Future Vision",
+      "mainPurpose": "To inform viewers about a new research development involving an AI model that translates Chinese brain waves (EEG) into text, discussing its methodology, current performance challenges, and future potential.",
+      "visualEmotion": [
+        "informative",
+        "energetic",
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video uses a high-energy social media format with large subtitles and graphics to make academic research accessible to a general audience."
+  }
+}

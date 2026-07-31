@@ -1,0 +1,266 @@
+{
+  "videoName": "thetiffanychen-20260212145421-1432721595150146.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 31,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video utilizes a split-screen layout. The top half displays an animation featuring pig characters Gunter and Rosita in a theater setting with purple lighting. The bottom half shows a woman in a black bodysuit beginning to emerge from a dark room into a brightly lit white hallway. (2) The scene shifts to show an animated pig audience reacting with amazement. In the bottom frame, two young boys sitting on a gray sofa mimic this reaction, staring at the camera with wide eyes and open mouths in synchronized surprise. (3) The animation features Rosita posing in a glittering bodysuit on a stage with pink spotlights. Simultaneously, the woman in the bottom frame, wearing a black bodysuit and a tan shawl, strikes a series of confident poses in the hallway. (4) A male character appears in the animation for a duo dance. Below, a man in a black singlet and suspenders joins the woman in a living room. They perform high-energy, synchronized dance moves in front of a TV and a large display cabinet filled with figurines. (5) The final segment shows animated piglets jumping and cheering. In the bottom frame, the two young boys stand in the living room, jumping and dancing with high energy, matching the joyful rhythm of the animated characters and the music.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 2,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 adult female, 1 adult male, and 2 male children.",
+        "mainCharacterDescription": "An adult female in a black long-sleeved bodysuit and a tan shawl; an adult male in a black singlet and black suspenders."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A white-walled hallway with a wooden-framed door; a living room featuring a gray couch, a television, and a large glass display cabinet filled with numerous collectible figurines and toys.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Split-screen",
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 160,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 2,
+        "male_singer_count": 1,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track opens with a sudden burst of high-arousal crowd noise, including cheering and collective gasps. A fast-tempo pop beat (approx. 160 BPM) begins immediately, featuring heavy percussive transients. (2) Energetic female vocals enter, singing in a bright, clear tone accompanied by a driving electronic bassline. The mix is studio-clean with high spectral brightness and no ambient interference. (3) A sharp 'hit' sound effect emphasizes a transition. The music maintains high harmonic stability in a major mode, with layered electronic synthesizers providing a dense, joyful texture. (4) The track concludes with a final swell of energetic percussion and melodic vocals, ending with a round of enthusiastic applause and cheering sounds from a simulated crowd, maintaining a high signal-to-noise ratio until the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend",
+        "Dance"
+      ],
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 10,
+      "averageSceneDuration": 3.1,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Introduction -> Reacting -> Solo -> Duo -> Ensemble",
+      "mainPurpose": "The video is a creative, home-made recreation of a movie musical performance designed to showcase family participation in a popular trend. By using split-screen, it directly compares real-world mimicry with high-quality animation, emphasizing humor, synchronization, and family bonding.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A highly synchronized family recreation of the movie 'Sing 2' dance sequence, utilizing effective split-screen editing to contrast real and animated performances."
+  }
+}

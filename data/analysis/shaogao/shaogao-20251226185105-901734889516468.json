@@ -1,0 +1,270 @@
+{
+  "videoName": "shaogao-20251226185105-901734889516468.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 30,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": false,
+      "visual_narrative_log": "(1) The scene opens in a stylized animated supermarket with shelves in the background. Two cartoon characters are positioned behind a display of red apples. The character on the left is short, wearing a yellow hood, while the character on the right has large pink hair buns and a white long-sleeved shirt. (2) The pink-haired character lifts a single red apple, inspecting it closely while the yellow-hooded character watches with a neutral, expectant gaze. The lighting is bright and flat, consistent with a digital animation style. (3) The pink-haired character places the apple back onto the pile, causing the yellow-hooded character to shift their expression to one of slight disappointment and deep thought, resting their chin on the counter. (4) After a brief moment of hesitation, the pink-haired character picks up the apple again. The yellow-hooded character reacts with wide eyes and a shocked expression, holding their hands to their face. (5) In the final phase, the yellow-hooded character celebrates by raising a fist and then running excitedly away from the counter across the supermarket floor, leaving the pink-haired character holding the apple.",
+      "text_narrative_log": "(1) [Slogan]: POV: That feeling when she takes your advice. [Slogan]: 當她肯定你的選擇. [Logo]: SIU GAO.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main animated characters: one in a yellow hood and one with pink hair.",
+        "mainCharacterDescription": "The main characters are two cartoon figures: one with a yellow hood and simple facial features, and another with large pink hair buns and a white outfit."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A supermarket setting with blurred shelves containing various products and bright overhead lighting, emphasizing the apple display in the foreground.",
+        "lightingStyle": [
+          "Flat animation lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Animation vivid colors"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English",
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fruit"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 2,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 3
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 3,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX",
+          "Meme SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A low-pitched mumble 'Hmm...' is heard, followed immediately by a short, percussive thud effect representing an object being touched. (2) Another vocalized 'Hmm...' occurs, slightly higher in pitch, followed by a bright cartoonish 'ding' or twinkle sound effect. (3) A sequence of soft thuds is punctuated by a brief sigh and a long pause, creating a sense of acoustic tension or silence. (4) A sharp, surprised 'Huh?' vocalization is triggered alongside a rhythmic, high-pitched electronic beeping sound, reminiscent of a buzzer or an alert. (5) A series of loud, rhythmic 'Hey hey hey!' chants with high vocal arousal and brightness begins, accompanied by rapid, percussive thumping sounds resembling footsteps running across a hard surface, ending with a sharp, high-pitched squeal."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend",
+        "Animation"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 5.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Observation -> Decision -> Reaction -> Celebration",
+      "mainPurpose": "The video uses a relatable shopping scenario to humorously illustrate the intense emotional validation one feels when a partner or friend actually follows their advice. It relies on exaggerated cartoon expressions and high-energy sound effects to drive home the joke.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The animation style is simple but expressive, effectively using character reactions to convey a specific POV meme theme common in short-form social media content."
+  }
+}

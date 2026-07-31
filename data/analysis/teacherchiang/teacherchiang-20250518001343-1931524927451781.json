@@ -1,0 +1,271 @@
+{
+  "videoName": "teacherchiang-20250518001343-1931524927451781.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 136,
+      "aspectRatio": "16:9"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) [People: Face/Hands]: A woman with long brown hair, tied with a prominent white bow, sits at a grand piano. Her profile is visible, showing her calm face and her hands placed on the keys as she begins to play with a focused, poised expression. [Objects: Details/State]: The central object is a large, brown grand piano with a glossy wood finish and its lid propped open. A tablet rests on the music stand. [Setting: Background/Lighting]: The setting is a minimalist indoor studio with white, square-paneled walls and light-toned flooring. The scene is illuminated by bright, even studio lighting that minimizes harsh shadows and highlights the performer. [Text Presence]: A red logo box is visible in the upper-left corner of the frame. (2) [People: Face/Hands]: The camera switches to a medium close-up on the woman's face and upper body. She exhibits micro-expressions of deep concentration, with her eyes occasionally following the movement of the piano. She maintains a subtle, serene smile as she plays. [Objects: Details/State]: The rich grain of the piano's wood and the metallic hinges of the lid are visible in the foreground. Her colorful floral dress with its distinctive green and red waistband is clearly displayed. [Setting: Background/Lighting]: The white paneled background remains consistent, providing a clean and professional backdrop. The warm tones of the instrument contrast effectively with the cool white walls. [Text Presence]: The red logo persists in the top-left corner. (3) [People: Face/Hands]: A top-down perspective highlights the woman's hands and fingers as they navigate the piano keys. Her movements are fluid and precise, executing complex melodic runs with agility. Her fingers press and lift from the keys in a graceful, rhythmic fashion. [Objects: Details/State]: The black and white piano keys are the primary focus, appearing clean and well-lit. The tablet on the stand remains visible above the keyboard. [Setting: Background/Lighting]: This angle reveals the light-colored wooden floor surrounding the piano bench. The overhead lighting creates clear reflections on the piano's polished surfaces and the ivory-style keys. [Text Presence]: The logo overlay remains throughout this final phase.",
+      "text_narrative_log": "(1) [Logo]: 跟你彈率率.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only",
+          "Side view"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female pianist performing",
+        "mainCharacterDescription": "A woman with long brown hair tied with a large white bow, wearing a long-sleeved floral print dress with a green and red striped waistband."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A minimalist indoor studio environment featuring white square-paneled walls and a light wood-grain floor.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Top-down / overhead",
+          "Side view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Split-screen",
+          "Picture-in-picture / inset"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "Piano"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 75,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Live Performance"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle",
+          "Other"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) [Vocals & Prosody]: No human vocals are detected. [Music & Tonality]: The audio begins with a solo piano performance at approximately 75 BPM in a clear major key. The melody is bright, lyrical, and well-articulated. [Ambient Sound]: The background is exceptionally clean, with a noise floor consistent with a high-quality studio (StudioSilence). [Noise/SFX & Production Artifacts]: No unwanted noise or intentional sound effects are present. The dynamic range is broad, capturing the subtle transients of the hammers. (2) [Vocals & Prosody]: Absence of vocals continues. [Music & Tonality]: The piano piece develops with consistent melodic flow, incorporating arpeggiated figures and wider melodic leaps while maintaining stable major-mode tonality. [Ambient Sound]: Perfect studio silence remains the backdrop. [Noise/SFX & Production Artifacts]: The audio fidelity is very high, with a strong signal-to-noise ratio. There are no compression artifacts or digital clipping observed in the master track. The percussive nature of the piano notes provides a rhythmic foundation. (3) [Vocals & Prosody]: No vocals. [Music & Tonality]: The music transitions towards a conclusion, with the tempo gradually slowing and the chords becoming more sustained. The final notes are held, allowing the natural decay of the strings to be heard. [Ambient Sound]: Studio silence remains consistent. [Noise/SFX & Production Artifacts]: A very faint rustle of clothing and the subtle mechanical sound of the pianist lifting her hands is audible at the very end of the performance."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 15,
+      "averageSceneDuration": 9.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Intro -> Performance -> Conclusion",
+      "mainPurpose": "To provide a high-quality, aesthetic performance of a piano piece, showcasing the musician's skill and technique within a professional studio setting. The video serves as both a musical demonstration and relaxing artistic content for enthusiasts.",
+      "visualEmotion": [
+        "calm",
+        "focused",
+        "graceful"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A highly polished solo piano performance with professional audio mastering and a clean minimalist visual style."
+  }
+}

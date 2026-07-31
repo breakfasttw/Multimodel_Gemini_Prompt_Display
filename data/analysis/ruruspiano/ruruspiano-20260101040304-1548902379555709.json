@@ -1,0 +1,266 @@
+{
+  "videoName": "ruruspiano-20260101040304-1548902379555709.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 54,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video features a split-screen layout. The top half displays 3D animated scenes from a video game (NieR:Automata) showing two blindfolded characters, a female with short white hair and a male with blonde hair, sitting in a desolate, ruined urban environment under a hazy sky. The bottom half shows a real-life female pianist with extremely long silver-white hair, seen from behind. She wears a black leather outfit and long opera gloves, playing a black Steinway grand piano in a studio-like setting with blue curtains. (2) The animated portion transitions through several close-up shots of the characters' faces and glowing black cubic objects they hold. Meanwhile, the pianist's hands are shown in a medium shot, moving with precision and fluidity across the keyboard. The lighting in the bottom half is bright and cool-toned, while the top half uses a warmer, desaturated cinematic palette. (3) The scene shifts to a brighter indoor animated setting with white walls and blue curtains that mirror the real-world background. The characters stand and interact, while the pianist continues her performance with increasing physical movement of her arms and torso. Occasional shots in the top half show mechanical flight suits and combat-ready poses. (4) The animation becomes more intense with rapid cuts showing character combat, explosions, and dramatic facial expressions. The pianist's playing reflects this intensity, with more aggressive hand movements. The video concludes with final animated shots of the characters in battle and a close-up of a character's emotional face, while the pianist finishes the musical phrase.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Back view",
+          "Hands only",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female pianist is the only real person visible throughout the video.",
+        "mainCharacterDescription": "The main character is a female pianist with long silver-white hair, wearing a black leather/PVC-style outfit with cutouts and long black gloves."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The bottom frame shows a room with blue vertical curtains and a glossy black grand piano. The top frame shows various CGI environments including a ruined wasteland, a bright minimalist room, and a battlefield.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not applicable"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Cinematic"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Back view"
+        ],
+        "editingTechniques": [
+          "Split-screen",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "STEINWAY & SONS"
+        ],
+        "instrumentsVisible": [
+          "Piano"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Anime/J-Pop",
+          "Ballad/Sentimental"
+        ],
+        "tempoBPM": 130,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Live Performance"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a solo piano performance. The melody is melancholic and flowing in a minor key, played with a moderate tempo and gentle touch. There is a clear, studio-quality recording environment with very low noise floor. (2) The musical texture becomes more complex as the left-hand rhythm stabilizes and the right-hand melody expands. The dynamics swell slightly, showing expressive control. No vocal elements or artificial sound effects are audible. (3) A dramatic shift in intensity occurs as the pianist plays faster arpeggios and louder chords. The acoustic resonance of the room is noticeable, adding warmth to the piano's bright timbre. The percussive quality of the hammer strikes is crisp. (4) The track reaches a peak of harmonic tension with dense chord structures before transitioning back into a softer, more reflective melodic phrase. The piece ends with a final sustained chord that slowly decays into silence."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV"
+      ],
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.25,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Musical Performance -> Scene Integration",
+      "mainPurpose": "This video is a musical cover performance of a NieR:Automata theme on piano. It aims to showcase the pianist's technical skill while providing fans of the game with a nostalgic visual accompaniment through synchronized gameplay/cinematic footage.",
+      "visualEmotion": [
+        "calm",
+        "energetic",
+        "melancholic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video effectively uses a split-screen format to connect the live performance with the cultural source material of the music."
+  }
+}

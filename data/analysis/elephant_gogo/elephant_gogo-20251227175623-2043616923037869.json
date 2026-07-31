@@ -1,0 +1,282 @@
+{
+  "videoName": "elephant_gogo-20251227175623-2043616923037869.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 32.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young man wearing a purple shirt and a Santa hat stands in a bright indoor room. He is meticulously attaching gold and red tinsel to the edges of a hollowed-out cardboard box frame, occasionally looking at the camera with a smile. (2) He holds the finished, tinsel-covered box frame up to the camera, presenting it proudly. The background shows a neutral-toned wall with subtle patterns. (3) A series of fast-paced cuts show different people crawling into and posing inside the box frame. A woman with a Santa hat and braids smiles warmly. (4) A man holding a glass of red wine crawls into the box, posing with a suave expression. (5) A woman in a vibrant blue sweater and a reindeer antler headband crawls in, making heart gestures with her hands. (6) A man in a light-colored striped shirt passes through the frame, followed by a person who has a miniature, lit Christmas tree as a headpiece. (7) Another man crawls through, making funny faces. A woman in a yellow sweater assists by holding a green cloth behind the box to act as a backdrop. (8) The final shot is a graphic illustration of a Christmas tree composed of multiple boxes, each containing a photo of the people seen previously, creating a composite human Christmas tree.",
+      "text_narrative_log": "(1) [Slogan]: Merry Christmas.",
+      "visual_human_presence": {
+        "totalHumanCount": 15,
+        "maleDetectAmount": 7,
+        "femaleDetectAmount": 8,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 main creator assembling the frame, followed by approximately 14 other participants appearing in sequence and in the final grid.",
+        "mainCharacterDescription": "A young man with short dark hair, wearing a purple button-down shirt with a graphic print on the back and a red Santa hat."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean indoor environment with beige marbled walls and a dark tiled floor. A green cloth is used as a temporary backdrop during the box-crawling sequence.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Fast cuts",
+          "Montage",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Alcohol"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 5,
+        "male_vocal_count": 3,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Simplified Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Holiday/Festive",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle",
+          "Paper / Page Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) Upbeat Christmas-themed pop music begins immediately with a clear female vocal singing 'Santa tell me'. A young man's voice enters, speaking Mandarin Chinese with high enthusiasm and a bright, friendly tone, explaining the activity. (2) The sound of several people laughing and chatting becomes audible, creating a festive party atmosphere. The BGM maintains a steady, rhythmic beat throughout. (3) Occasional rustling sounds of tinsel and cardboard can be heard beneath the dominant music track. The vocal exchanges are short, high-arousal interjections as participants take turns crawling through the frame. (4) The audio concludes with the music swelling slightly before a clean cut, maintaining a high-energy and joyful acoustic profile."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Short Video",
+        "Lifestyle"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 1.8,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Preparation -> Action Montage -> Final Result",
+      "mainPurpose": "To showcase a creative and collaborative team challenge where members pose in a box frame to create a composite 'Human Christmas Tree' graphic, celebrating the holiday season.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video utilizes a popular Christmas song and a high-speed montage to create a sense of community and holiday cheer. The creative use of a simple cardboard box as a framing device is the central hook."
+  }
+}

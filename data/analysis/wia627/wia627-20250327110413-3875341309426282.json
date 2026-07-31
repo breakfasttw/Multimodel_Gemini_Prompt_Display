@@ -1,0 +1,266 @@
+{
+  "videoName": "wia627-20250327110413-3875341309426282.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 32,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young child with dark, tousled hair is seen sleeping soundly on a grey pillow in a close-up shot. He is lying on his side with his eyes closed, and a white plush animal toy is nestled close to his face. He wears a light-colored pajama top decorated with a yellow and black graphic pattern. The lighting is soft and warm, typical of an indoor home environment. (2) The camera performs a slow, handheld pan and tilt to the left, revealing an adult male sleeping on an adjacent white patterned pillow. The man is partially covered by a white duvet and has short dark hair. He is seen wearing a grey fabric wristband on his left arm, which is tucked under his head. The wooden frame of the bed is visible in the background. (3) The camera continues to move slightly, capturing the peaceful scene of both individuals in deep sleep. The composition alternates between focusing on the child and the adult, emphasizing their proximity. The overall environment remains a quiet, dimly lit bedroom with neutral-toned bedding and soft textures throughout the clip.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face close-up",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "One young child and one adult male sleeping side-by-side on a bed.",
+        "mainCharacterDescription": "A young boy with dark wavy hair in patterned pajamas; an adult male with short dark hair wearing a wristband."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Bedroom"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A domestic bedroom setting with a wooden headboard, a grey pillow for the child, and a white patterned pillow and duvet for the adult.",
+        "lightingStyle": [
+          "Soft indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning",
+          "Tilting",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Side view"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Very slow pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartwatch / wearable"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Other"
+        ],
+        "incidentalNoiseIntensity": 5,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 2,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 2,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 1,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio consists of a high-fidelity field recording dominated by intense, rhythmic snoring. The sound is characterized by deep, low-frequency resonance during inhalation followed by a vibrating, rough-textured exhalation. The background is nearly silent, with only faint, static room tone present. No music or speech is detected. (2) As the recording continues, a second distinct respiratory signature becomes audible, overlapping with the first. This creates a complex, polyrhythmic acoustic pattern where one snore has a higher spectral centroid and a sharp, nasal quality, while the other is more guttural and broadband. The interplay between these two sound sources is consistent and repetitive. (3) The rhythmic pattern of dual snoring continues without interruption for the remainder of the clip. There are no technical edits or artificial sound effects. Minimal amplitude fluctuations occur as the subjects shift slightly, resulting in very faint, low-bandwidth rustling of fabric that is almost completely masked by the dominant respiratory noises."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Lifestyle",
+        "Short Video"
+      ],
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 32.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Observation -> Observation",
+      "mainPurpose": "To capture a candid, humorous, and relatable moment of a father and son sleeping together, where the peaceful visual imagery contrasts sharply with the loud, synchronized snoring heard in the audio. It aims to evoke warmth and amusement through domestic observation.",
+      "visualEmotion": [
+        "warm",
+        "calm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video's comedic value relies entirely on the high-intensity snoring audio which is incongruent with the soft, peaceful visual of the sleeping child."
+  }
+}

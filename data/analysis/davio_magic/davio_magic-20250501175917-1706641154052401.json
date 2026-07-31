@@ -1,0 +1,275 @@
+{
+  "videoName": "davio_magic-20250501175917-1706641154052401.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 9,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A man wearing a black shirt, a black cap, and gold-rimmed glasses is seen from a side-view, holding a yellow Nintendo Game Boy Color with a Pocket Camera attachment. He is standing in a brightly lit indoor hallway with wooden paneling. In the background, a woman wearing a red Christmas-themed mini-dress with white fur trim and black translucent stockings is posing. (2) The camera zooms in to a close-up of the Game Boy Color screen. The screen displays a low-resolution, pixelated black-and-white live preview of the woman in the hallway. The man's thumbs are positioned on the A/B buttons and the D-pad. (3) The man continues to operate the device, focusing on the woman. The camera angle shifts slightly to show his face more clearly as he looks intently at the small screen. The lighting is warm and consistent throughout the hallway. (4) A final still image is presented on the Game Boy screen, mimicking a captured photo. The photo on the screen is high-contrast and pixelated, displaying the woman in her red outfit with a 'Pocket Printer' border visible on the display interface.",
+      "text_narrative_log": "(1) [Logo]: GAME BOY COLOR. [Logo]: Nintendo. [Logo]: Pocket Camera. [Logo]: SELECT START. (2) [Logo]: 1998 Nintendo. [Logo]: Pocket Printer.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only",
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 man operating the camera, 1 woman posing in the background.",
+        "mainCharacterDescription": "The man wears a black t-shirt, a black baseball cap, and gold-rimmed glasses. The woman wears a red velvet-style Christmas dress and black stockings."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A narrow, modern indoor hallway with high-quality wooden wall panels and a marble-like floor. Recessed lighting is visible in the ceiling.",
+        "lightingStyle": [
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Zoom in",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Macro close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Side view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Other"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Nintendo",
+          "Game Boy Color"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Anime/J-Pop"
+        ],
+        "tempoBPM": 145,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Digital UI SFX",
+          "Pop / Bubble SFX",
+          "Other"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy electronic music begins instantly, featuring a fast-paced synthesizer melody that is a recognizable remix of a popular video game theme. The beat is strong and driving. (2) A sharp, digital 'beep' or UI sound effect triggers as the focus shifts to the screen, suggesting a digital action like focusing or capturing. (3) The music continues at a steady, high-energy pace with layered synth textures and electronic drums, maintaining a triumphant and nostalgic mood. No human speech or environmental noise is audible."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 2.25,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Introduction -> Demonstration -> Result",
+      "mainPurpose": "The video aims to create a nostalgic yet modern aesthetic by demonstrating the use of a vintage Nintendo Pocket Camera in a high-fashion, social-media-friendly setting. It bridges the gap between old technology and current visual trends.",
+      "visualEmotion": [
+        "energetic",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video relies heavily on the 'retro-tech' aesthetic trend. The audio is a high-quality remix that perfectly matches the visual theme of Nintendo hardware."
+  }
+}

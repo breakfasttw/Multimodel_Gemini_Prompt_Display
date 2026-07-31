@@ -1,0 +1,276 @@
+{
+  "videoName": "wia627-20250212084030-2011659236047802.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 85,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A hand is seen holding a smartphone displaying an interface with various cartoon cat icons. In the background, two cats are perched on a kitchen-like counter with a water dispenser and coffee machine. (2) The hand presses different cat icons on the app. A black and white spotted cat walks across a light wood floor towards a pink rug. (3) The camera pans and follows more cats as they gather in the room. A tabby cat is sitting on top of a white 3M water dispenser. The cats look curious and alert. (4) A small white dog wearing a red sweater walks through the scene. Several cats are now gathered on the floor, sniffing each other and looking toward the phone. (5) The person holding the phone moves around the living room area, where a young child is visible in the distant background near a wooden dining table. The cats continue to interact with one another while the app sounds play.",
+      "text_narrative_log": "(1) [Logo]: 9:18. [Variety]: 😺. (2) [Variety]: 🎤. (3) [Subtitle]: 阿子來了. (4) [Subtitle]: 花肥.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Hands only",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 adult male holding the phone (hands only), 1 young child in the background.",
+        "mainCharacterDescription": "The main person is only visible by their hand holding a smartphone, wearing a grey watch strap."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Indoor Kitchen",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A modern indoor home environment featuring a kitchen counter area with a 3M water dispenser, a Nespresso coffee machine, and cat supplies. The living area has light-colored wood flooring, a pink rug, wooden dining furniture, and children's play equipment in the background.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cat",
+          "Dog"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Kitchen appliance"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "3M",
+          "Nespresso"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 3
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Casual",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 6,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Footsteps",
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX",
+          "Human Vocal SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 3,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice speaks in Chinese with a casual tone, followed immediately by a sharp, high-pitched digital meow sound effect. The room is quiet with a faint indoor hum. (2) Each time the person interacts with the app, a different meow SFX triggers: some are long and low, others are short chirps. The male speaker chuckles and identifies the cats by name as they approach. (3) The audio contains frequent bursts of digital animal sounds followed by the male's commentary on the cats' facial expressions and physical proximity. No background music is present, keeping the focus on the vocal-SFX interplay."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Pet / Animal",
+        "Comedy"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 14.1,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Action -> Reaction",
+      "mainPurpose": "The video is an entertaining lifestyle vlog where a pet owner uses a cat translation app to communicate with their many cats. By playing different meow sound effects, the owner captures the curious and sometimes puzzled reactions of the cats and a small dog, aiming to share a humorous and relatable pet-owner moment with the audience.",
+      "visualEmotion": [
+        "humorous",
+        "warm",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video features a large number of cats in a domestic setting, which might be useful for pet-behavior or large-pet-household clustering."
+  }
+}

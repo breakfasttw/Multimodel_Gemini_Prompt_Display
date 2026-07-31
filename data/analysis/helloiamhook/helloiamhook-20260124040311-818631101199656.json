@@ -1,0 +1,269 @@
+{
+  "videoName": "helloiamhook-20260124040311-818631101199656.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 17,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A female cinema staff member in a black uniform and ponytail stands behind a white counter. She looks to the side while standing in front of a point-of-sale system and a cash register. The environment is a modern cinema lobby with warm lighting and promotional displays. (2) The camera quickly pans left to reveal four adult males standing at the counter. They are all wearing bright blue spandex suits with white belts and gloves, featuring a circular logo with the number \"4\". They exhibit confused facial expressions and tilt their heads. (3) The scene cuts back to the female clerk, who maintains her position behind the counter. Her expression shifts slightly to one of anticipation or slight confusion as she waits for a response from the customers. The background remains consistent with the previous theater setting. (4) The four costumed men begin to pose dramatically and mouth words. One man places his hand on another's chest or neck area. Their mouths are wide open in an exaggerated singing expression. The camera is steady on this group as they perform this synchronized physical action.",
+      "text_narrative_log": "(1) [Subtitle]: 要看什麼電影呢？ (2) [Subtitle]: 蛤！ (3) [Subtitle]: Fantastic4~ (4) [Subtitle]: 所以是哪一部電影？ (5) [Subtitle]: Fantastic4~",
+      "visual_human_presence": {
+        "totalHumanCount": 6,
+        "maleDetectAmount": 4,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 5,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 female clerk, 4 main male characters in costume, and 1 female customer in the background.",
+        "mainCharacterDescription": "A female clerk in a black service polo; four men dressed in matching blue and white spandex superhero costumes with a circular '4' emblem on their chests."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Entertainment Venue"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A cinema concessions and ticketing counter featuring computer monitors, a soda fountain machine, and overhead menu displays in a modern interior.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Desktop computer / monitor",
+          "Keyboard / mouse"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 5,
+        "total_distinct_voices": 5,
+        "male_vocal_count": 4,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Cinematic/Epic"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 4,
+        "male_singer_count": 4,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 3,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "Brass"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Trumpet"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 3,
+        "speechMusicOverlap": 3,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice speaks in Traditional Chinese with a friendly, service-oriented tone and moderate pitch. The recording environment sounds like a large indoor space with a subtle, low-frequency hum of machinery or air conditioning, creating a clean but natural room tone. (2) Four male voices synchronously exclaim a short, sharp vocalization of confusion. This is immediately followed by a brief, high-energy orchestral stinger featuring bright brass and percussion, reminiscent of a heroic cinematic theme song, lasting for approximately two seconds before cutting out. (3) The female voice returns, repeating a phrase with a slightly higher pitch and more insistent prosody, suggesting a need for clarification. There is a brief moment of studio silence before the next vocal event begins, creating a rhythmic break in the audio track. (4) The four male voices engage in a highly harmonized, operatic vocal performance of an English phrase. The pitch is high and soaring with significant vibrato and dramatic intensity. The voices exhibit high arousal and positive valence, ending on a prolonged, resonant musical note."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 4.25,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Reaction -> Climax",
+      "mainPurpose": "The video is a comedic skit where a cinema clerk asks costumed men what movie they want to see. The men, dressed as the Fantastic Four, respond by dramatically singing their name, subverting expectations and creating a meme-like humorous effect through auditory contrast.",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video effectively utilizes visual irony and sudden stylistic audio shifts (from speech to operatic singing) to deliver a concise comedic punchline."
+  }
+}

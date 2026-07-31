@@ -1,0 +1,281 @@
+{
+  "videoName": "jbao_5000-20250905105800-1965587414343564.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 23,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video starts with a low-fidelity clip of two men in a martial arts gym. A man in a black shirt demonstrates a self-defense move by grabbing the chin of another man. The background is a white-walled studio with other people observing. (2) The scene transitions to a dark outdoor alley at night with grey corrugated garage doors. A tall, bearded man with glasses and a black jacket walks towards a man with long hair wearing a white t-shirt. (3) The tall man grabs the long-haired man's chest and neck area aggressively, pinning him against the shuttered door. (4) A close-up shows the tall man touching his own lips and beard with a romantic, soft expression. (5) The tall man then gently touches the other man's face before suddenly and comically squeezing his jaw and mouth, causing an exaggerated distorted expression. (6) The final phase shows the two men at a car. The long-haired man is partially inside through a window while the bearded man 'strangles' him from behind, resulting in frantic, funny facial contortions.",
+      "text_narrative_log": "(1) [Logo]: RETARDA_MARQUE.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 4,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "Two main characters in the alley and two men seen in the opening studio clip.",
+        "mainCharacterDescription": "One tall man with a bald head, thick beard, and glasses wearing a black jacket and jeans. One man with long brown hair wearing a white t-shirt and olive shorts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Outdoor Street",
+          "Car Interior"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Initial scene in a martial arts gym with mats, followed by an urban night alley with storage units, and a final shot inside a vehicle.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Night artificial light"
+        ],
+        "weather": [
+          "Night clear"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural",
+          "Cinematic"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Walking handheld"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Side view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Reaction shot",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": true,
+        "hasStrain": true,
+        "articulationClarity": 2,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 5,
+        "dominance": 6,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Ballad/Sentimental"
+        ],
+        "tempoBPM": 79,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Urban/Traffic",
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX",
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 4,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track opens with a short, dry segment of martial arts movement sounds, including cloth rustling and a dull percussive thud from a low-fidelity source clip. (2) A sharp, loud synthesized 'thud' and 'whoosh' sound effect triggers as the scene cuts to the alleyway, signaling a hard transition. Footsteps and mechanical shutter resonance are briefly audible. (3) A distinct, resonant 'ding' bell sound effect accompanies the defensive chin-lift maneuver. This marks the transition as a soft acoustic guitar track begins to swell in the background. (4) A romantic pop ballad begins, featuring a clear male vocal singing 'Darling I...' at a moderate, emotional pace. The music is melodic and sentimental, contrasting with the physical struggle. (5) As the man is squeezed and 'strangled,' loud comedic high-pitched screams and distorted vocal gurgles overlap with the romantic music. The SFX intensity is high, featuring stylized cartoonish struggle noises."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 2.87,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Serious Hook -> Absurdist Parody Recreation.",
+      "mainPurpose": "The video is a comedic parody of a self-defense tutorial. It uses a genuine instructional clip to set a context of 'seriousness' before recreating the movements in an exaggerated, absurdist, and romanticized manner to generate slapstick humor.",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The sharp contrast between the martial arts context and the romantic ballad creates the core comedic effect."
+  }
+}
