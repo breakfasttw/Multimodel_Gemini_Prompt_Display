@@ -143,6 +143,149 @@ export function parseCsvBoolean(value) {
 }
 
 /**
+ * 將可能包含陣列內容的 CSV 欄位，轉換為可比對的小寫 token 陣列。
+ *
+ * 支援格式範例：
+ * - ["Implicit","Integrated"]
+ * - [""Implicit"",""Integrated""]
+ * - ["Explicit Integrated"]
+ * - ["Explicit/Integrated"]
+ * - ["Explicit\\Integrated"]
+ * - ["Explicit and Integrated"]
+ * - Explicit Integrated
+ *
+ * 處理原則：
+ * 1. 優先嘗試使用 JSON.parse()。
+ * 2. 若 JSON 解析失敗，退回一般字串處理。
+ * 3. 如果解析後只有一個非 None 元素，才使用分隔符號進一步切割。
+ * 4. 所有 token 都會：
+ *    - 去除引號與前後空白
+ *    - 轉為小寫
+ *    - 排除空字串
+ *    - 排除 None
+ *    - 去除重複值
+ *
+ * @param {*} value 原始 CSV 欄位值。
+ * @param {Object} options 自訂解析設定。
+ * @param {RegExp} options.singleValueSeparators
+ *        單一元素需要再次拆分時使用的分隔規則。
+ *        未來若有其他符號，可從呼叫端覆寫。
+ * @param {string[]} options.emptyTokens
+ *        視為無內容的 token。
+ *
+ * @returns {string[]} 正規化後的小寫 token 陣列。
+ */
+export function parseFlexibleArrayTokens(
+    value,
+    {
+        singleValueSeparators = /[\s/\\|,;、，；]+/,
+        emptyTokens = ["none", "null", "na", "n/a"],
+    } = {},
+) {
+    let rawValue = stripCsvValue(value).trim();
+
+    if (!rawValue) {
+        return [];
+    }
+
+    // CSV 內嵌雙引號通常會以兩個雙引號表示。
+    // 例如：[""Implicit"",""Integrated""]
+    rawValue = rawValue.replace(/""/g, '"');
+
+    let parsedValues = null;
+
+    // 優先嘗試解析真正的 JSON 陣列。
+    try {
+        const parsed = JSON.parse(rawValue);
+
+        if (Array.isArray(parsed)) {
+            parsedValues = parsed;
+        } else if (parsed !== null && parsed !== undefined) {
+            parsedValues = [parsed];
+        }
+    } catch (error) {
+        // JSON 解析失敗時，交由下方的寬鬆字串規則處理。
+    }
+
+    // 非標準 JSON 格式的 fallback。
+    if (!parsedValues) {
+        const withoutBrackets = rawValue
+            .replace(/^\s*\[/, "")
+            .replace(/\]\s*$/, "");
+
+        parsedValues = withoutBrackets
+            .split(",")
+            .map((item) => item.trim())
+            .filter((item) => item !== "");
+    }
+
+    // 先清除每個元素外圍的引號與空白。
+    let cleanedValues = parsedValues
+        .map((item) =>
+            String(item ?? "")
+                .trim()
+                .replace(/^["']+|["']+$/g, "")
+                .trim(),
+        )
+        .filter((item) => item !== "");
+
+    /*
+     * 只有一個有效元素，而且不是 None 時，
+     * 才使用空格、正反斜線等符號再次拆分。
+     *
+     * 標準陣列 ["Implicit","Integrated"] 不會在此處被重新拆解。
+     */
+    if (cleanedValues.length === 1) {
+        const singleValue = cleanedValues[0];
+        const normalizedSingleValue = singleValue.toLowerCase();
+
+        if (!emptyTokens.includes(normalizedSingleValue)) {
+            cleanedValues = singleValue
+                .split(singleValueSeparators)
+                .map((item) => item.trim())
+                .filter((item) => item !== "");
+        }
+    }
+
+    const normalizedEmptyTokens = new Set(
+        emptyTokens.map((item) => String(item).trim().toLowerCase()),
+    );
+
+    const normalizedTokens = cleanedValues
+        .map((item) =>
+            String(item)
+                .trim()
+                .replace(/^["']+|["']+$/g, "")
+                .trim()
+                .toLowerCase(),
+        )
+        .filter((item) => item !== "" && !normalizedEmptyTokens.has(item));
+
+    return [...new Set(normalizedTokens)];
+}
+
+/**
+ * 判斷正規化 token 陣列是否包含指定目標。
+ *
+ * target 也會統一轉為小寫，因此比對不受大小寫影響。
+ *
+ * @param {string[]} tokens parseFlexibleArrayTokens() 的結果。
+ * @param {*} target 要尋找的目標字串。
+ * @returns {boolean}
+ */
+export function flexibleTokensInclude(tokens, target) {
+    const normalizedTarget = String(target ?? "")
+        .trim()
+        .toLowerCase();
+
+    if (!normalizedTarget || !Array.isArray(tokens)) {
+        return false;
+    }
+
+    return tokens.includes(normalizedTarget);
+}
+
+/**
  * 將 CSV 欄位轉為數字。
  *
  * 無法轉換時回傳 defaultValue。

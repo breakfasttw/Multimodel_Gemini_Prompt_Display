@@ -20,7 +20,7 @@ input_json_dir = Path(
 # True：
 #   讀取既有 CSV，新增或更新 new_target_fieldname 欄位。
 #   不會重建 influencer、json_name、media_id 基礎清單。
-is_output_csv_exist = False
+is_output_csv_exist = True
 
 # CSV 輸出資料夾。
 # 注意：Python raw string 不能以單一反斜線結尾。
@@ -32,12 +32,12 @@ output_csv_dir = Path(
 output_csv_filename = "json_description_summary.csv"
 
 # 要建立或更新的 CSV 欄位名稱。
-new_target_fieldname = "is_endorsement"
+new_target_fieldname = "endorsement_method"
 
 # 目標欄位在 JSON 內的絕對路徑。
 # 每一層 key 以英文句點「.」分隔。
 new_target_json_location = (
-    "high_inference.endorsement_analysis.isEndorsement"
+    "high_inference.endorsement_analysis.endorsementMethod"
 )
 
 

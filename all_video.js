@@ -7,6 +7,8 @@ import {
     splitCsvText,
     parseCsvObjectRows,
     parseCsvBoolean,
+    parseFlexibleArrayTokens,
+    flexibleTokensInclude,
     parseNumberOrDefault,
     truncateText,
     yieldToBrowser,
@@ -368,10 +370,16 @@ async function parseGlobalMediaData(csvText) {
  * - json_name
  * - media_id
  * - is_endorsement
+ * - endorsement_method
  *
- * 注意：
- * is_endorsement 無法轉為明確 true / false 的資料會被排除，
- * 不會將缺少 description 的影片誤判為非業配。
+ * endorsement_method 會透過 parseFlexibleArrayTokens() 轉成
+ * 可直接進行大小寫無關比對的小寫 token 陣列。
+ *
+ * 例如：
+ * ["Implicit","Integrated"]
+ *
+ * 會轉為：
+ * ["implicit", "integrated"]
  */
 function parseJsonDescriptionSummary(csvText) {
     const rows = splitCsvText(csvText);
@@ -387,12 +395,25 @@ function parseJsonDescriptionSummary(csvText) {
     const jsonNameIdx = headers.indexOf("json_name");
     const mediaIdIdx = headers.indexOf("media_id");
     const endorsementIdx = headers.indexOf("is_endorsement");
+    const endorsementMethodIdx = headers.indexOf("endorsement_method");
 
     const missingHeaders = [];
 
-    if (influencerIdx === -1) missingHeaders.push("influencer");
-    if (mediaIdIdx === -1) missingHeaders.push("media_id");
-    if (endorsementIdx === -1) missingHeaders.push("is_endorsement");
+    if (influencerIdx === -1) {
+        missingHeaders.push("influencer");
+    }
+
+    if (mediaIdIdx === -1) {
+        missingHeaders.push("media_id");
+    }
+
+    if (endorsementIdx === -1) {
+        missingHeaders.push("is_endorsement");
+    }
+
+    if (endorsementMethodIdx === -1) {
+        missingHeaders.push("endorsement_method");
+    }
 
     if (missingHeaders.length > 0) {
         throw new Error(
@@ -415,14 +436,36 @@ function parseJsonDescriptionSummary(csvText) {
 
         const isEndorsement = parseCsvBoolean(cols[endorsementIdx]);
 
+        /*
+         * 統一轉成小寫 token。
+         *
+         * 標準格式：
+         * ["Implicit","Integrated"]
+         *
+         * 非標準格式：
+         * ["Explicit Integrated"]
+         * ["Explicit/Integrated"]
+         * ["Explicit\\Integrated"]
+         *
+         * 最後都能轉成：
+         * ["implicit", "integrated"]
+         * 或
+         * ["explicit", "integrated"]
+         */
+        const endorsementMethodTokens = parseFlexibleArrayTokens(
+            cols[endorsementMethodIdx],
+        );
+
         // influencer 或 media_id 缺漏時無法與現有手風琴資料對接。
         if (!influencer || !mediaId) {
             return;
         }
 
-        // null 代表沒有明確的 True / False 判定。
-        // 不可將它自動視為 false，否則會把未產生 description 的影片
-        // 誤放入「非業配」結果。
+        /*
+         * null 代表沒有明確的 True / False 判定。
+         * 不可將它自動視為 false，否則會把未產生 description 的影片
+         * 誤放入「非業配」結果。
+         */
         if (isEndorsement === null) {
             invalidBooleanCount++;
             return;
@@ -433,6 +476,7 @@ function parseJsonDescriptionSummary(csvText) {
             json_name: jsonName,
             media_id: String(mediaId),
             is_endorsement: isEndorsement,
+            endorsement_method_tokens: endorsementMethodTokens,
         });
     });
 
@@ -466,7 +510,7 @@ async function ensureJsonDescriptionSummaryLoaded({
 
     if (jsonDescriptionSummaryLoadPromise) {
         if (showMessage) {
-            setSearchMessage("影片描述摘要載入中，請稍候...", "info");
+            setSearchMessage("計算中，請稍候...", "info");
         }
 
         await jsonDescriptionSummaryLoadPromise;
@@ -479,7 +523,7 @@ async function ensureJsonDescriptionSummaryLoaded({
     }
 
     if (showMessage) {
-        setSearchMessage("影片描述摘要載入中，請稍候...", "info");
+        setSearchMessage("計算中，請稍候...", "info");
     }
 
     jsonDescriptionSummaryLoadPromise = (async () => {
@@ -704,8 +748,35 @@ function bindSearchEvents() {
             return;
         }
 
-        if (val === "is_endorsement" || val === "not_endorsement") {
-            // 業配篩選本身已包含明確條件，不需要額外輸入欄位。
+        if (val === "is_endorsement") {
+            /*
+             * 只有「是業配」才提供明確性與時長的細部篩選。
+             * 兩個選單預設值皆為空字串，代表不限制該條件。
+             */
+            inputWrapper.innerHTML = `
+        <select
+            id="filter-endorsement-clarity"
+            class="bg-slate-900 border border-emerald-700/80 rounded-lg px-3 py-1.5 text-sm text-emerald-400 outline-none focus:border-emerald-500 transition cursor-pointer min-w-[190px]"
+            title="明確性"
+        >
+            <option value="" selected>明確性：不篩選</option>
+            <option value="explicit">明確 (Explicit) </option>
+            <option value="implicit">隱含 (Implicit) </option>
+        </select>
+
+        <select
+            id="filter-endorsement-duration"
+            class="bg-slate-900 border border-emerald-700/80 rounded-lg px-3 py-1.5 text-sm text-emerald-400 outline-none focus:border-emerald-500 transition cursor-pointer min-w-[190px]"
+            title="業配時長"
+        >
+            <option value="" selected>歷時：不篩選</option>
+            <option value="integrated">中插 (Integrated) </option>
+            <option value="full">全篇 (Full)</option>
+        </select>
+    `;
+        } else if (val === "not_endorsement") {
+            // 非業配通常對應 endorsement_method = ["None"]，
+            // 不需要額外提供明確性與時長篩選。
             inputWrapper.innerHTML = "";
         } else if (val === "creation_time_tw" || val === "modified_time_tw") {
             inputWrapper.innerHTML = `
@@ -818,16 +889,29 @@ function resetSearchStateOnly() {
 
 /**
  * 顯示搜尋 / 篩選訊息。
+ *
+ * type：
+ * - info：資料載入中
+ * - success：成功套用條件
+ * - error：套用失敗或資料錯誤
  */
 function setSearchMessage(message, type = "error") {
     const msg = document.getElementById("search-error-msg");
     if (!msg) return;
 
     msg.textContent = message;
-    msg.classList.remove("hidden", "text-rose-500", "text-blue-400");
+
+    msg.classList.remove(
+        "hidden",
+        "text-rose-500",
+        "text-blue-400",
+        "text-emerald-400",
+    );
 
     if (type === "info") {
         msg.classList.add("text-blue-400");
+    } else if (type === "success") {
+        msg.classList.add("text-emerald-400");
     } else {
         msg.classList.add("text-rose-500");
     }
@@ -842,16 +926,20 @@ function clearSearchMessage() {
     const msg = document.getElementById("search-error-msg");
     if (!msg) return;
 
-    msg.textContent = "⚠️ 查無結果";
+    msg.textContent = "";
+
     msg.classList.add("hidden");
-    msg.classList.remove("text-blue-400");
-    msg.classList.add("text-rose-500");
+
+    msg.classList.remove("text-blue-400", "text-emerald-400", "text-rose-500");
 
     cacheVideoViewSnapshot();
 }
 
 /**
- * 顯示或隱藏「查無結果」。
+ * 顯示或隱藏一般查無結果訊息。
+ *
+ * 此函式主要保留給 Media ID 搜尋使用。
+ * 條件篩選會直接顯示更明確的「套用失敗」原因。
  */
 function setSearchErrorVisible(isVisible) {
     if (isVisible) {
@@ -859,6 +947,55 @@ function setSearchErrorVisible(isVisible) {
     } else {
         clearSearchMessage();
     }
+}
+
+/**
+ * 完成一次條件篩選，統一更新：
+ * - 篩選狀態
+ * - 顯示模式
+ * - 手風琴清單
+ * - 常駐成功／失敗訊息
+ *
+ * @param {Object} options
+ * @param {"video"|"category"} options.mode
+ *        video：影片層級篩選
+ *        category：網紅層級篩選
+ * @param {number} options.matchCount
+ *        顯示在訊息中的符合筆數。
+ * @param {string} options.emptyReason
+ *        沒有結果時顯示的原因。
+ *
+ * @returns {boolean} 是否成功找到資料。
+ */
+function finalizeConditionFilter({
+    mode,
+    matchCount,
+    emptyReason = "查無符合條件的資料",
+}) {
+    if (matchCount <= 0) {
+        isFilterActive = false;
+        activeFilterMode = null;
+
+        renderInfluencerList();
+
+        setSearchMessage(`⚠️ 套用失敗，${emptyReason}`, "error");
+
+        cacheVideoViewSnapshot();
+        return false;
+    }
+
+    isFilterActive = true;
+    activeFilterMode = mode;
+
+    renderInfluencerList();
+
+    setSearchMessage(
+        `✔ 已套用選項，共 ${matchCount.toLocaleString("en-US")} 筆符合`,
+        "success",
+    );
+
+    cacheVideoViewSnapshot();
+    return true;
 }
 
 /**
@@ -964,28 +1101,31 @@ async function handleMediaIdSearch() {
 /**
  * 模式 2：條件式篩選。
  *
- * 篩選後只保留：
- * 1. 有符合影片的網紅容器
- * 2. 展開網紅後，只顯示符合條件的影片
+ * 篩選完成後：
+ * - 成功：
+ *   ✔ 已套用選項，共 N 筆符合
+ *
+ * - 失敗：
+ *   ⚠️ 套用失敗，{錯誤原因}
  */
 async function handleConditionFilter() {
     clearSearchMessage();
 
     const condSelect = document.getElementById("filter-condition-select");
+
     const activeKey = condSelect?.value;
 
-    if (!activeKey) return;
+    if (!activeKey) {
+        setSearchMessage("⚠️ 套用失敗，請先選擇篩選條件", "error");
+        return;
+    }
 
     matchedMediaIds.clear();
     matchedInfluencerIds.clear();
 
-    // Description 層級條件：業配 / 非業配。
-    //
-    // 此處不讀取每支影片的完整 JSON，
-    // 而是使用預先整理好的 json_description_summary.csv。
-    //
-    // 沒有出現在摘要 CSV，或 is_endorsement 無法辨識的影片，
-    // 不會被歸入「是業配」或「非業配」。
+    // ==========================================
+    // Description 層級條件：業配 / 非業配
+    // ==========================================
     if (activeKey === "is_endorsement" || activeKey === "not_endorsement") {
         try {
             await ensureJsonDescriptionSummaryLoaded({
@@ -995,7 +1135,7 @@ async function handleConditionFilter() {
             console.error("[影片描述摘要載入失敗]", err);
 
             setSearchMessage(
-                `⚠️ 影片描述摘要載入失敗：${err.message}`,
+                `⚠️ 套用失敗，${err.message || "影片描述摘要載入失敗"}`,
                 "error",
             );
 
@@ -1004,36 +1144,81 @@ async function handleConditionFilter() {
 
         const targetEndorsementValue = activeKey === "is_endorsement";
 
+        /*
+         * 只有「是業配」才會取得這兩個選單。
+         * 空字串代表不限制該條件。
+         */
+        const selectedClarity =
+            document.getElementById("filter-endorsement-clarity")?.value || "";
+
+        const selectedDuration =
+            document.getElementById("filter-endorsement-duration")?.value || "";
+
         jsonDescriptionSummaryData.forEach((item) => {
-            if (item.is_endorsement === targetEndorsementValue) {
-                matchedMediaIds.add(String(item.media_id));
-                matchedInfluencerIds.add(String(item.influencer));
+            // 第一層交集：是否為業配。
+            if (item.is_endorsement !== targetEndorsementValue) {
+                return;
             }
+
+            /*
+             * 第二層交集：業配明確性。
+             *
+             * 不篩選時 selectedClarity 為空字串，
+             * 因此所有明確性均可通過。
+             */
+            if (
+                selectedClarity &&
+                !flexibleTokensInclude(
+                    item.endorsement_method_tokens,
+                    selectedClarity,
+                )
+            ) {
+                return;
+            }
+
+            /*
+             * 第三層交集：業配時長。
+             *
+             * 不篩選時 selectedDuration 為空字串，
+             * 因此所有業配時長均可通過。
+             */
+            if (
+                selectedDuration &&
+                !flexibleTokensInclude(
+                    item.endorsement_method_tokens,
+                    selectedDuration,
+                )
+            ) {
+                return;
+            }
+
+            matchedMediaIds.add(String(item.media_id));
+            matchedInfluencerIds.add(String(item.influencer));
         });
 
-        if (matchedMediaIds.size === 0) {
-            isFilterActive = false;
-            activeFilterMode = null;
-            setSearchErrorVisible(true);
-        } else {
-            isFilterActive = true;
-            activeFilterMode = "video";
-        }
+        finalizeConditionFilter({
+            mode: "video",
+            matchCount: matchedMediaIds.size,
+            emptyReason:
+                activeKey === "is_endorsement"
+                    ? "查無符合目前業配條件的影片"
+                    : "查無非業配影片",
+        });
 
-        renderInfluencerList();
-        cacheVideoViewSnapshot();
         return;
     }
 
-    // 條件6：依照「網紅類別」篩選。
-    // 篩選標的是 influencer_all_info.csv 的 category 欄位。
-    // category 是以逗號分隔的多類別字串，因此需要 split 後精準比對。
-    // 此條件只篩選第一層網紅，不進一步篩選網紅旗下影片。
+    // ==========================================
+    // 網紅類別篩選
+    // ==========================================
     if (activeKey === "category") {
         const selectedCategory =
             document.getElementById("filter-category-select")?.value || "";
 
-        if (!selectedCategory) return;
+        if (!selectedCategory) {
+            setSearchMessage("⚠️ 套用失敗，請選擇網紅類別", "error");
+            return;
+        }
 
         influencerData.forEach((inf) => {
             const categories = String(inf.category || "")
@@ -1046,82 +1231,136 @@ async function handleConditionFilter() {
             }
         });
 
-        if (matchedInfluencerIds.size === 0) {
-            isFilterActive = false;
-            activeFilterMode = null;
-            setSearchErrorVisible(true);
-        } else {
-            isFilterActive = true;
-            activeFilterMode = "category";
-        }
+        /*
+         * 類別篩選是網紅層級，因此此處的 N
+         * 代表符合的網紅筆數，不是影片筆數。
+         */
+        finalizeConditionFilter({
+            mode: "category",
+            matchCount: matchedInfluencerIds.size,
+            emptyReason: `查無「${selectedCategory}」類別的網紅`,
+        });
 
-        renderInfluencerList();
-        cacheVideoViewSnapshot();
         return;
     }
 
+    // ==========================================
+    // 一般影片 Metadata 條件
+    // ==========================================
     try {
-        await ensureGlobalMediaDataLoaded({ showMessage: true });
+        await ensureGlobalMediaDataLoaded({
+            showMessage: true,
+        });
     } catch (err) {
         console.error("[條件篩選資料載入失敗]", err);
-        setSearchMessage(`⚠️ 篩選資料載入失敗：${err.message}`, "error");
+
+        setSearchMessage(
+            `⚠️ 套用失敗，${err.message || "篩選資料載入失敗"}`,
+            "error",
+        );
+
         return;
     }
 
-    activeFilterMode = "video";
-
+    // 日期篩選。
     if (activeKey === "creation_time_tw" || activeKey === "modified_time_tw") {
         const startInput =
             document.getElementById("filter-date-start")?.value || "";
+
         const endInput =
             document.getElementById("filter-date-end")?.value || "";
 
-        if (!startInput && !endInput) return;
+        if (!startInput && !endInput) {
+            setSearchMessage("⚠️ 套用失敗，請至少填寫一個日期範圍", "error");
+            return;
+        }
+
+        if (startInput && endInput && startInput > endInput) {
+            setSearchMessage("⚠️ 套用失敗，開始日期不可晚於結束日期", "error");
+            return;
+        }
 
         globalMediaData.forEach((item) => {
             const rowDate = String(item[activeKey] || "").substring(0, 10);
-            if (!rowDate) return;
+
+            if (!rowDate) {
+                return;
+            }
 
             let isMatch = true;
-            if (startInput && rowDate < startInput) isMatch = false;
-            if (endInput && rowDate > endInput) isMatch = false;
+
+            if (startInput && rowDate < startInput) {
+                isMatch = false;
+            }
+
+            if (endInput && rowDate > endInput) {
+                isMatch = false;
+            }
 
             if (isMatch) {
                 matchedMediaIds.add(String(item.media_id));
+
                 matchedInfluencerIds.add(String(item.owner_ig_id));
             }
         });
-    } else {
-        const minInput = document.getElementById("filter-val-min")?.value || "";
-        const maxInput = document.getElementById("filter-val-max")?.value || "";
 
-        if (minInput === "" && maxInput === "") return;
-
-        const minBound = minInput !== "" ? parseFloat(minInput) : -Infinity;
-        const maxBound = maxInput !== "" ? parseFloat(maxInput) : Infinity;
-
-        globalMediaData.forEach((item) => {
-            const currentNum = parseFloat(item[activeKey]);
-            if (Number.isNaN(currentNum)) return;
-
-            if (currentNum >= minBound && currentNum <= maxBound) {
-                matchedMediaIds.add(String(item.media_id));
-                matchedInfluencerIds.add(String(item.owner_ig_id));
-            }
+        finalizeConditionFilter({
+            mode: "video",
+            matchCount: matchedMediaIds.size,
+            emptyReason: "指定日期範圍內沒有符合的影片",
         });
+
+        return;
     }
 
-    if (matchedMediaIds.size === 0) {
-        isFilterActive = false;
-        activeFilterMode = null;
-        setSearchErrorVisible(true);
-    } else {
-        isFilterActive = true;
-        activeFilterMode = "video";
+    // 數值篩選。
+    const minInput = document.getElementById("filter-val-min")?.value || "";
+
+    const maxInput = document.getElementById("filter-val-max")?.value || "";
+
+    if (minInput === "" && maxInput === "") {
+        setSearchMessage("⚠️ 套用失敗，請至少填寫最小值或最大值", "error");
+        return;
     }
 
-    renderInfluencerList();
-    cacheVideoViewSnapshot();
+    const minBound = minInput !== "" ? Number(minInput) : -Infinity;
+
+    const maxBound = maxInput !== "" ? Number(maxInput) : Infinity;
+
+    if (!Number.isFinite(minBound) && minBound !== -Infinity) {
+        setSearchMessage("⚠️ 套用失敗，最小值格式不正確", "error");
+        return;
+    }
+
+    if (!Number.isFinite(maxBound) && maxBound !== Infinity) {
+        setSearchMessage("⚠️ 套用失敗，最大值格式不正確", "error");
+        return;
+    }
+
+    if (minBound > maxBound) {
+        setSearchMessage("⚠️ 套用失敗，最小值不可大於最大值", "error");
+        return;
+    }
+
+    globalMediaData.forEach((item) => {
+        const currentNum = Number(item[activeKey]);
+
+        if (!Number.isFinite(currentNum)) {
+            return;
+        }
+
+        if (currentNum >= minBound && currentNum <= maxBound) {
+            matchedMediaIds.add(String(item.media_id));
+
+            matchedInfluencerIds.add(String(item.owner_ig_id));
+        }
+    });
+
+    finalizeConditionFilter({
+        mode: "video",
+        matchCount: matchedMediaIds.size,
+        emptyReason: "指定數值範圍內沒有符合的影片",
+    });
 }
 
 /**
