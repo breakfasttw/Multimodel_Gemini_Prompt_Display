@@ -41,6 +41,23 @@ let matchedMediaIds = new Set(); // 模式 2：符合條件的 media_id
 let matchedInfluencerIds = new Set(); // 模式 2：符合條件的 post_owner.username；對應 influencer_all_info.csv 的 ig_id
 let activeFilterMode = null; // 篩選模式："video" 代表影片層級篩選；"category" 代表網紅類別篩選
 
+// 分群欄位設定與空值常數
+const UNCLUSTERED_LABEL_VALUE = "__unclustered__";
+const UNCLUSTERED_LABEL_TEXT = "未分群";
+
+const CLUSTER_FILTER_CONFIG = {
+    visual_kmeans_labels: {
+        label: "Visual",
+        column: "visual_kmeans_labels",
+        selectId: "filter-visual-cluster-select",
+    },
+    audio_kmeans_labels: {
+        label: "Audio",
+        column: "audio_kmeans_labels",
+        selectId: "filter-audio-cluster-select",
+    },
+};
+
 // ==========================================
 // 效能優化：模組層級快取
 // ==========================================
@@ -362,6 +379,55 @@ async function parseGlobalMediaData(csvText) {
     mediaIdIndex = nextMediaIdIndex;
 }
 
+function normalizeClusterLabel(value) {
+    const normalized = stripCsvValue(value).trim();
+
+    if (
+        !normalized ||
+        normalized.toLowerCase() === "null" ||
+        normalized.toLowerCase() === "none"
+    ) {
+        return UNCLUSTERED_LABEL_VALUE;
+    }
+
+    return normalized;
+}
+
+function renderClusterLabelOptions(columnName) {
+    const labels = [
+        ...new Set(
+            jsonDescriptionSummaryData.map((item) =>
+                normalizeClusterLabel(item[columnName]),
+            ),
+        ),
+    ];
+
+    labels.sort((a, b) => {
+        if (a === UNCLUSTERED_LABEL_VALUE) return 1;
+        if (b === UNCLUSTERED_LABEL_VALUE) return -1;
+
+        const numA = Number(a);
+        const numB = Number(b);
+
+        if (Number.isFinite(numA) && Number.isFinite(numB)) {
+            return numA - numB;
+        }
+
+        return String(a).localeCompare(String(b), "zh-Hant");
+    });
+
+    return labels
+        .map((label) => {
+            const text =
+                label === UNCLUSTERED_LABEL_VALUE
+                    ? UNCLUSTERED_LABEL_TEXT
+                    : label;
+
+            return `<option value="${label}">${text}</option>`;
+        })
+        .join("");
+}
+
 /**
  * 解析 json_description_summary.csv。
  *
@@ -381,6 +447,7 @@ async function parseGlobalMediaData(csvText) {
  * 會轉為：
  * ["implicit", "integrated"]
  */
+
 function parseJsonDescriptionSummary(csvText) {
     const rows = splitCsvText(csvText);
 
@@ -396,24 +463,17 @@ function parseJsonDescriptionSummary(csvText) {
     const mediaIdIdx = headers.indexOf("media_id");
     const endorsementIdx = headers.indexOf("is_endorsement");
     const endorsementMethodIdx = headers.indexOf("endorsement_method");
+    const visualClusterIdx = headers.indexOf("visual_kmeans_labels");
+    const audioClusterIdx = headers.indexOf("audio_kmeans_labels");
 
     const missingHeaders = [];
 
-    if (influencerIdx === -1) {
-        missingHeaders.push("influencer");
-    }
-
-    if (mediaIdIdx === -1) {
-        missingHeaders.push("media_id");
-    }
-
-    if (endorsementIdx === -1) {
-        missingHeaders.push("is_endorsement");
-    }
-
-    if (endorsementMethodIdx === -1) {
-        missingHeaders.push("endorsement_method");
-    }
+    if (influencerIdx === -1) missingHeaders.push("influencer");
+    if (mediaIdIdx === -1) missingHeaders.push("media_id");
+    if (endorsementIdx === -1) missingHeaders.push("is_endorsement");
+    if (endorsementMethodIdx === -1) missingHeaders.push("endorsement_method");
+    if (visualClusterIdx === -1) missingHeaders.push("visual_kmeans_labels");
+    if (audioClusterIdx === -1) missingHeaders.push("audio_kmeans_labels");
 
     if (missingHeaders.length > 0) {
         throw new Error(
@@ -428,44 +488,18 @@ function parseJsonDescriptionSummary(csvText) {
         const cols = splitCsvRow(row);
 
         const influencer = stripCsvValue(cols[influencerIdx]);
-
         const jsonName =
             jsonNameIdx !== -1 ? stripCsvValue(cols[jsonNameIdx]) : "";
-
         const mediaId = stripCsvValue(cols[mediaIdIdx]);
-
         const isEndorsement = parseCsvBoolean(cols[endorsementIdx]);
-
-        /*
-         * 統一轉成小寫 token。
-         *
-         * 標準格式：
-         * ["Implicit","Integrated"]
-         *
-         * 非標準格式：
-         * ["Explicit Integrated"]
-         * ["Explicit/Integrated"]
-         * ["Explicit\\Integrated"]
-         *
-         * 最後都能轉成：
-         * ["implicit", "integrated"]
-         * 或
-         * ["explicit", "integrated"]
-         */
         const endorsementMethodTokens = parseFlexibleArrayTokens(
             cols[endorsementMethodIdx],
         );
 
-        // influencer 或 media_id 缺漏時無法與現有手風琴資料對接。
         if (!influencer || !mediaId) {
             return;
         }
 
-        /*
-         * null 代表沒有明確的 True / False 判定。
-         * 不可將它自動視為 false，否則會把未產生 description 的影片
-         * 誤放入「非業配」結果。
-         */
         if (isEndorsement === null) {
             invalidBooleanCount++;
             return;
@@ -477,6 +511,8 @@ function parseJsonDescriptionSummary(csvText) {
             media_id: String(mediaId),
             is_endorsement: isEndorsement,
             endorsement_method_tokens: endorsementMethodTokens,
+            visual_kmeans_labels: normalizeClusterLabel(cols[visualClusterIdx]),
+            audio_kmeans_labels: normalizeClusterLabel(cols[audioClusterIdx]),
         });
     });
 
@@ -647,7 +683,9 @@ function renderSearchFilterPanel() {
                     <option value="category">依【網紅類別】 篩選</option>
                     <option value="is_endorsement">只看【是業配】影片</option>
                     <option value="not_endorsement">只看【非業配】影片</option>
-                </select>
+                    <option value="visual_kmeans_labels">依【Visual】分群</option>
+                    <option value="audio_kmeans_labels">依【Audio】分群</option>
+                    </select>
 
                 <div id="filter-input-wrapper" class="flex items-center gap-2"></div>
 
@@ -738,7 +776,7 @@ function bindSearchEvents() {
 
     if (!condSelect || !inputWrapper || !errorMsg) return;
 
-    condSelect.addEventListener("change", () => {
+    condSelect.addEventListener("change", async () => {
         const val = condSelect.value;
         clearSearchMessage();
 
@@ -784,6 +822,37 @@ function bindSearchEvents() {
                 <span class="text-slate-500 text-xs">到</span>
                 <input type="date" id="filter-date-end" class="bg-slate-900 border border-slate-700/80 rounded-lg px-3 py-1.5 text-sm text-slate-200 outline-none focus:border-emerald-500 transition w-36">
             `;
+        } else if (CLUSTER_FILTER_CONFIG[val]) {
+            const config = CLUSTER_FILTER_CONFIG[val];
+
+            inputWrapper.innerHTML = `
+                <span class="text-blue-400 text-sm">讀取分群中...</span>
+            `;
+
+            try {
+                await ensureJsonDescriptionSummaryLoaded({
+                    showMessage: true,
+                });
+
+                const options = renderClusterLabelOptions(config.column);
+
+                inputWrapper.innerHTML = `
+                    <select
+                        id="${config.selectId}"
+                        class="bg-slate-900 border border-slate-700/80 rounded-lg px-3 py-1.5 text-sm text-slate-200 outline-none focus:border-emerald-500 transition cursor-pointer min-w-[160px]"
+                    >
+                        <option value="" selected>-- 請選擇 ${config.label} 分群 --</option>
+                        ${options}
+                    </select>
+                `;
+            } catch (err) {
+                console.error("[分群資料載入失敗]", err);
+                inputWrapper.innerHTML = "";
+                setSearchMessage(
+                    `⚠️ 分群資料載入失敗：${err.message || "json_description_summary.csv 載入失敗"}`,
+                    "error",
+                );
+            }
         } else if (val === "category") {
             const categoryOptions = Object.keys(APP_CONFIG.CATEGORY_COLORS)
                 .filter((key) => key !== "default")
@@ -989,8 +1058,12 @@ function finalizeConditionFilter({
 
     renderInfluencerList();
 
+    const videoCount = mode === "video" ? matchedMediaIds.size : matchCount;
+
+    const influencerCount = matchedInfluencerIds.size;
+
     setSearchMessage(
-        `✔ 已套用選項，共 ${matchCount.toLocaleString("en-US")} 筆符合`,
+        `合計 ${videoCount.toLocaleString("en-US")} 部影片，${influencerCount.toLocaleString("en-US")} 個網紅`,
         "success",
     );
 
@@ -1203,6 +1276,57 @@ async function handleConditionFilter() {
                 activeKey === "is_endorsement"
                     ? "查無符合目前業配條件的影片"
                     : "查無非業配影片",
+        });
+
+        return;
+    }
+    // ==========================================
+    // 分群結果篩選
+    // ==========================================
+    if (CLUSTER_FILTER_CONFIG[activeKey]) {
+        const config = CLUSTER_FILTER_CONFIG[activeKey];
+
+        try {
+            await ensureJsonDescriptionSummaryLoaded({
+                showMessage: true,
+            });
+        } catch (err) {
+            console.error("[分群資料載入失敗]", err);
+
+            setSearchMessage(
+                `⚠️ 套用失敗，${err.message || "分群資料載入失敗"}`,
+                "error",
+            );
+
+            return;
+        }
+
+        const selectedCluster =
+            document.getElementById(config.selectId)?.value || "";
+
+        if (!selectedCluster) {
+            setSearchMessage(
+                `⚠️ 套用失敗，請選擇 ${config.label} 分群`,
+                "error",
+            );
+            return;
+        }
+
+        jsonDescriptionSummaryData.forEach((item) => {
+            if (
+                normalizeClusterLabel(item[config.column]) !== selectedCluster
+            ) {
+                return;
+            }
+
+            matchedMediaIds.add(String(item.media_id));
+            matchedInfluencerIds.add(String(item.influencer));
+        });
+
+        finalizeConditionFilter({
+            mode: "video",
+            matchCount: matchedMediaIds.size,
+            emptyReason: `沒有符合 ${config.label} 分群條件的影片`,
         });
 
         return;
