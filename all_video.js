@@ -88,6 +88,8 @@ export async function renderVideoView() {
     if (cachedVideoViewHTML && isBaseDataLoaded) {
         container.innerHTML = cachedVideoViewHTML;
 
+        syncHeaderMediaIdSearch();
+
         // innerHTML 還原後，addEventListener 綁定會消失，因此需要重新綁定搜尋 / 篩選 UI。
         bindSearchEvents();
 
@@ -611,6 +613,8 @@ function renderMainLayout() {
         </button>
     </div>`;
 
+    syncHeaderMediaIdSearch();
+
     if (isGlobalMediaDataLoaded) {
         bindSearchEvents();
     }
@@ -624,6 +628,37 @@ function renderMainLayout() {
 /**
  * 渲染上方搜尋 / 篩選區塊。
  */
+function renderHeaderMediaIdSearch() {
+    return `
+        <div id="header-media-id-search" class="ml-auto flex flex-wrap items-center justify-end gap-3">
+            <div class="flex items-center gap-2">
+                <span class="w-2 h-2 rounded-full bg-blue-500"></span>
+                <span class="text-sm font-bold text-slate-300">Media ID 搜尋</span>
+            </div>
+            <input type="text" id="search-media-id" placeholder="請輸入完整的 media_id"
+                class="bg-slate-900 border border-slate-700/80 rounded-lg px-4 py-1.5 text-sm text-slate-200 outline-none focus:border-blue-500 transition w-64 font-mono">
+            <button id="btn-mode1-search" class="bg-blue-600 hover:bg-blue-500 text-white text-sm px-5 py-1.5 rounded-lg font-medium transition shadow-md shadow-blue-900/20">搜 尋</button>
+        </div>`;
+}
+
+function syncHeaderMediaIdSearch() {
+    const existingSearch = document.getElementById("header-media-id-search");
+
+    if (!isGlobalMediaDataLoaded || globalMediaDataLoadError) {
+        existingSearch?.remove();
+        return;
+    }
+
+    if (existingSearch) {
+        existingSearch.outerHTML = renderHeaderMediaIdSearch();
+        return;
+    }
+
+    const header = document.querySelector("body > header");
+    if (!header) return;
+
+    header.insertAdjacentHTML("beforeend", renderHeaderMediaIdSearch());
+}
 function renderSearchFilterPanel() {
     if (globalMediaDataLoadError) {
         return `
@@ -657,17 +692,7 @@ function renderSearchFilterPanel() {
     }
 
     return `
-        <div id="search-filter-panel" class="bg-slate-950/60 border border-slate-800/80 rounded-xl p-5 space-y-4 shadow-xl backdrop-blur-md">
-            <div class="flex flex-wrap items-center gap-4 border-b border-slate-800/40 pb-4">
-                <div class="flex items-center gap-2 min-w-[130px]">
-                    <span class="w-2 h-2 rounded-full bg-blue-500"></span>
-                    <span class="text-sm font-bold text-slate-300">Media ID 搜尋</span>
-                </div>
-                <input type="text" id="search-media-id" placeholder="請輸入完整的 media_id" 
-                    class="bg-slate-900 border border-slate-700/80 rounded-lg px-4 py-1.5 text-sm text-slate-200 outline-none focus:border-blue-500 transition w-64 font-mono">
-                <button id="btn-mode1-search" class="bg-blue-600 hover:bg-blue-500 text-white text-sm px-5 py-1.5 rounded-lg font-medium transition shadow-md shadow-blue-900/20">搜 尋</button>
-            </div>
-
+        <div id="search-filter-panel" class="bg-slate-950/60 border border-slate-800/80 rounded-xl p-5 shadow-xl backdrop-blur-md">
             <div class="flex flex-wrap items-center gap-4">
                 <div class="flex items-center gap-2 min-w-[130px]">
                     <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
@@ -705,6 +730,8 @@ function refreshSearchFilterPanel() {
     if (!panel) return;
 
     panel.outerHTML = renderSearchFilterPanel();
+
+    syncHeaderMediaIdSearch();
 
     if (isGlobalMediaDataLoaded) {
         bindSearchEvents();
